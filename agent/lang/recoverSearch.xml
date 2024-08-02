@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <LttlRecDocSearch>Search recoverable documents</LttlRecDocSearch>
+    <LtxtDate>Date f/t</LtxtDate>
+    <LtxtSearchDel>Search canceled documents</LtxtSearchDel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <LttlRecDocSearch>Búsqueda de Documentos por Recuperar</LttlRecDocSearch>
+    <LtxtDate>Fecha d/h</LtxtDate>
+    <LtxtSearchDel>Buscar documentos cancelados</LtxtSearchDel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <LttlRecDocSearch>חיפוש מסמכים לשיחזור</LttlRecDocSearch>
+    <LtxtDate>תאריכים מ- עד-</LtxtDate>
+    <LtxtSearchDel>חפש מסמכים שבוטלו</LtxtSearchDel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <LttlRecDocSearch>Search recoverable documents</LttlRecDocSearch>
+    <LtxtDate>Date f/t</LtxtDate>
+    <LtxtSearchDel>Search canceled documents</LtxtSearchDel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <LttlRecDocSearch>Busca de Documentos por Recuperar</LttlRecDocSearch>
+    <LtxtDate>Data d/h</LtxtDate>
+    <LtxtSearchDel>Pesquisar documentos cancelados</LtxtSearchDel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <LttlRecDocSearch>Recherche des documents à recupérer</LttlRecDocSearch>
+    <LtxtDate>Date d/h</LtxtDate>
+    <LtxtSearchDel>&lt;--&gt;</LtxtSearchDel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <LttlRecDocSearch>Wiederherstellbare Dokumente suchen</LttlRecDocSearch>
+    <LtxtDate>Datum v/b</LtxtDate>
+    <LtxtSearchDel>&lt;--&gt;</LtxtSearchDel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <LttlRecDocSearch>Поиск документов, реконструкция</LttlRecDocSearch>
+    <LtxtDate>Даты с - до -</LtxtDate>
+    <LtxtSearchDel>Поиск отмененных документов</LtxtSearchDel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <LttlRecDocSearch>Vyhledávat obnovitelné dokumenty</LttlRecDocSearch>
+    <LtxtDate>Datum f/t</LtxtDate>
+    <LtxtSearchDel>Vyhledávání odstraněných dokumentů</LtxtSearchDel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <LttlRecDocSearch>Poszukiwanie dokumentów do odtworzenia</LttlRecDocSearch>
+    <LtxtDate>Data od/do</LtxtDate>
+    <LtxtSearchDel>Szukaj usuniętych dokumentów</LtxtSearchDel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <LttlRecDocSearch>Vyhľadať obnoviteľné dokumenty</LttlRecDocSearch>
+    <LtxtDate>Dátum f/t</LtxtDate>
+    <LtxtSearchDel>Vyhľadať zrušené dokumenty</LtxtSearchDel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <LttlRecDocSearch>LttlRecDocSearch</LttlRecDocSearch>
+    <LtxtDate>LtxtDate</LtxtDate>
+    <LtxtSearchDel>LtxtSearchDel</LtxtSearchDel>
+  </language>
+</languages>

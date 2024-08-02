@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>State</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtRejected>Rejected</DtxtRejected>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtState2>State</DtxtState2>
+    <LttlSearchOferts>{0} Search</LttlSearchOferts>
+    <LtxtPurchased>Purchased</LtxtPurchased>
+    <LtxtResponse>Response</LtxtResponse>
+    <LtxtDueDays>Days till due</LtxtDueDays>
+    <LtxtItmGrps>Item Groups</LtxtItmGrps>
+    <LtxtClientGrps>{0} Group</LtxtClientGrps>
+    <LtxtOfertDate>{0} Date</LtxtOfertDate>
+    <LtxtRespDate>Response Date</LtxtRespDate>
+    <LtxtOfertDueDate>{0} Due Date</LtxtOfertDueDate>
+    <LtxtResDueDate>Response Due Date</LtxtResDueDate>
+    <LtxtOfertQty>{0} Quantity</LtxtOfertQty>
+    <LtxtRespQty>Response Quantity</LtxtRespQty>
+    <LtxtOfertProfit>{0} Gross Profit</LtxtOfertProfit>
+    <LtxtRespProfit>Response Gross Profit</LtxtRespProfit>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtOfertPrice>{0} Price</LtxtOfertPrice>
+    <LtxtRespPrice>Response Price</LtxtRespPrice>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprobado</DtxtAproved>
+    <DtxtRejected>Rechazado</DtxtRejected>
+    <DtxtAnuled>Anulado</DtxtAnuled>
+    <DtxtCounter>Contra</DtxtCounter>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlSearchOferts>Búsqueda de {0}</LttlSearchOferts>
+    <LtxtPurchased>Comprado</LtxtPurchased>
+    <LtxtResponse>Respuesta</LtxtResponse>
+    <LtxtDueDays>Días a vencer</LtxtDueDays>
+    <LtxtItmGrps>Grupo de Artículos</LtxtItmGrps>
+    <LtxtClientGrps>Grupo de {0}</LtxtClientGrps>
+    <LtxtOfertDate>Fecha {0}</LtxtOfertDate>
+    <LtxtRespDate>Fecha Respuesta</LtxtRespDate>
+    <LtxtOfertDueDate>Vencimiento {0}</LtxtOfertDueDate>
+    <LtxtResDueDate>Vencimiento Respuesta</LtxtResDueDate>
+    <LtxtOfertQty>Cantidad {0}</LtxtOfertQty>
+    <LtxtRespQty>Cantidad Respuesta</LtxtRespQty>
+    <LtxtOfertProfit>Ganancia {0}</LtxtOfertProfit>
+    <LtxtRespProfit>Ganancia Respuesta</LtxtRespProfit>
+    <LtxtBasePrice>Precio Base</LtxtBasePrice>
+    <LtxtOfertPrice>Precio {0}</LtxtOfertPrice>
+    <LtxtRespPrice>Precio Respuesta</LtxtRespPrice>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtWaiting>בהמתנה</DtxtWaiting>
+    <DtxtAproved>מאושר</DtxtAproved>
+    <DtxtRejected>לא מאשר</DtxtRejected>
+    <DtxtAnuled>מבוטל</DtxtAnuled>
+    <DtxtCounter>נגד</DtxtCounter>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtState2>סטטוס</DtxtState2>
+    <LttlSearchOferts>חיפוש {0}</LttlSearchOferts>
+    <LtxtPurchased>נקנה</LtxtPurchased>
+    <LtxtResponse>תשובה</LtxtResponse>
+    <LtxtDueDays>ימים לסגירה</LtxtDueDays>
+    <LtxtItmGrps>קבוצת פריטיט</LtxtItmGrps>
+    <LtxtClientGrps>קבוצת {0}</LtxtClientGrps>
+    <LtxtOfertDate>תאריך {0}</LtxtOfertDate>
+    <LtxtRespDate>תאריך תשובה</LtxtRespDate>
+    <LtxtOfertDueDate>תאריך סגירה {0}</LtxtOfertDueDate>
+    <LtxtResDueDate>תאריך סגירה תשובה</LtxtResDueDate>
+    <LtxtOfertQty>כמות ב{0}</LtxtOfertQty>
+    <LtxtRespQty>כמות בתשובות</LtxtRespQty>
+    <LtxtOfertProfit>רווח גולמי {0}</LtxtOfertProfit>
+    <LtxtRespProfit>רווח גולמי תשובה</LtxtRespProfit>
+    <LtxtBasePrice>מחיר בסיס</LtxtBasePrice>
+    <LtxtOfertPrice>מחיר {0}</LtxtOfertPrice>
+    <LtxtRespPrice>מחיר תשובה</LtxtRespPrice>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>County</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtRejected>Rejected</DtxtRejected>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtState2>County</DtxtState2>
+    <LttlSearchOferts>{0} Search</LttlSearchOferts>
+    <LtxtPurchased>Purchased</LtxtPurchased>
+    <LtxtResponse>Response</LtxtResponse>
+    <LtxtDueDays>Days till due</LtxtDueDays>
+    <LtxtItmGrps>Item Groups</LtxtItmGrps>
+    <LtxtClientGrps>{0} Group</LtxtClientGrps>
+    <LtxtOfertDate>{0} Date</LtxtOfertDate>
+    <LtxtRespDate>Response Date</LtxtRespDate>
+    <LtxtOfertDueDate>{0} Due Date</LtxtOfertDueDate>
+    <LtxtResDueDate>Response Due Date</LtxtResDueDate>
+    <LtxtOfertQty>{0} Quantity</LtxtOfertQty>
+    <LtxtRespQty>Response Quantity</LtxtRespQty>
+    <LtxtOfertProfit>{0} Gross Profit</LtxtOfertProfit>
+    <LtxtRespProfit>Response Gross Profit</LtxtRespProfit>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtOfertPrice>{0} Price</LtxtOfertPrice>
+    <LtxtRespPrice>Response Price</LtxtRespPrice>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprovado</DtxtAproved>
+    <DtxtRejected>Recusada</DtxtRejected>
+    <DtxtAnuled>Cancelado</DtxtAnuled>
+    <DtxtCounter>Contador</DtxtCounter>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlSearchOferts>Busca de {0}</LttlSearchOferts>
+    <LtxtPurchased>Comprado</LtxtPurchased>
+    <LtxtResponse>Resposta</LtxtResponse>
+    <LtxtDueDays>Dias por vencer</LtxtDueDays>
+    <LtxtItmGrps>Grupo de Itens</LtxtItmGrps>
+    <LtxtClientGrps>Grupo de {0}</LtxtClientGrps>
+    <LtxtOfertDate>Data {0}</LtxtOfertDate>
+    <LtxtRespDate>Data Resposta</LtxtRespDate>
+    <LtxtOfertDueDate>Vencimento {0}</LtxtOfertDueDate>
+    <LtxtResDueDate>Vencimento Resposta</LtxtResDueDate>
+    <LtxtOfertQty>Quantidade {0}</LtxtOfertQty>
+    <LtxtRespQty>Quantidade Resposta</LtxtRespQty>
+    <LtxtOfertProfit>Ganho {0}</LtxtOfertProfit>
+    <LtxtRespProfit>Ganho Resposta</LtxtRespProfit>
+    <LtxtBasePrice>Preço Base</LtxtBasePrice>
+    <LtxtOfertPrice>Preço {0}</LtxtOfertPrice>
+    <LtxtRespPrice>Preço Resposta</LtxtRespPrice>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtState>État</DtxtState>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtWaiting>En attendant</DtxtWaiting>
+    <DtxtAproved>Approuvé</DtxtAproved>
+    <DtxtRejected>Rejeté</DtxtRejected>
+    <DtxtAnuled>Annulé</DtxtAnuled>
+    <DtxtCounter>vis à vis (contre, en face)</DtxtCounter>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtState2>État</DtxtState2>
+    <LttlSearchOferts>Recherche de {0}</LttlSearchOferts>
+    <LtxtPurchased>Acheté</LtxtPurchased>
+    <LtxtResponse>Réponse</LtxtResponse>
+    <LtxtDueDays>Jour à l'échéance</LtxtDueDays>
+    <LtxtItmGrps>Groupe des articles</LtxtItmGrps>
+    <LtxtClientGrps>Groupe de {0} </LtxtClientGrps>
+    <LtxtOfertDate>Date {0} </LtxtOfertDate>
+    <LtxtRespDate>Date réponse</LtxtRespDate>
+    <LtxtOfertDueDate>Échéance</LtxtOfertDueDate>
+    <LtxtResDueDate>Échéance réponse</LtxtResDueDate>
+    <LtxtOfertQty>Quantité {0} </LtxtOfertQty>
+    <LtxtRespQty>Quantité réponse</LtxtRespQty>
+    <LtxtOfertProfit>Garantie {0} </LtxtOfertProfit>
+    <LtxtRespProfit>Garantie réponse</LtxtRespProfit>
+    <LtxtBasePrice>Prix base</LtxtBasePrice>
+    <LtxtOfertPrice>Prix {0} </LtxtOfertPrice>
+    <LtxtRespPrice>Prix réponse</LtxtRespPrice>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtWaiting>Wartend</DtxtWaiting>
+    <DtxtAproved>Genehmigt</DtxtAproved>
+    <DtxtRejected>Abgelehnt</DtxtRejected>
+    <DtxtAnuled>Annulliert</DtxtAnuled>
+    <DtxtCounter>Zähler</DtxtCounter>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtState2>Bundesland</DtxtState2>
+    <LttlSearchOferts>{0} Suche</LttlSearchOferts>
+    <LtxtPurchased>Gekauft</LtxtPurchased>
+    <LtxtResponse>Rückmeldung</LtxtResponse>
+    <LtxtDueDays>Tage bis fällig</LtxtDueDays>
+    <LtxtItmGrps>Artikelgruppe</LtxtItmGrps>
+    <LtxtClientGrps>{0} Gruppe</LtxtClientGrps>
+    <LtxtOfertDate>{0} Datum</LtxtOfertDate>
+    <LtxtRespDate>Rückmeldedatum</LtxtRespDate>
+    <LtxtOfertDueDate>{0} Fälligkeitsdatum</LtxtOfertDueDate>
+    <LtxtResDueDate>Rückmelde Fälligkeitsdatum</LtxtResDueDate>
+    <LtxtOfertQty>{0} Menge</LtxtOfertQty>
+    <LtxtRespQty>Rückmeldung Menge</LtxtRespQty>
+    <LtxtOfertProfit>{0} Bruttogewinn</LtxtOfertProfit>
+    <LtxtRespProfit>Rückmeldung Bruttogewinn</LtxtRespProfit>
+    <LtxtBasePrice>Basispreis</LtxtBasePrice>
+    <LtxtOfertPrice>{0} Preis</LtxtOfertPrice>
+    <LtxtRespPrice>Rückmeldung Preis</LtxtRespPrice>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtState>Государство</DtxtState>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtWaiting>Рассматриеваемый</DtxtWaiting>
+    <DtxtAproved>Подтверждён</DtxtAproved>
+    <DtxtRejected>Отклонено</DtxtRejected>
+    <DtxtAnuled>Отменён</DtxtAnuled>
+    <DtxtCounter>Против</DtxtCounter>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtState2>Статус</DtxtState2>
+    <LttlSearchOferts>Поиск {0}</LttlSearchOferts>
+    <LtxtPurchased>Купил</LtxtPurchased>
+    <LtxtResponse>Ответ</LtxtResponse>
+    <LtxtDueDays>Дней до закрытия</LtxtDueDays>
+    <LtxtItmGrps>Группы деталей</LtxtItmGrps>
+    <LtxtClientGrps>Группа {0}</LtxtClientGrps>
+    <LtxtOfertDate>Дата {0}</LtxtOfertDate>
+    <LtxtRespDate>Дата ответа</LtxtRespDate>
+    <LtxtOfertDueDate>Дата закрытия {0}</LtxtOfertDueDate>
+    <LtxtResDueDate>Дата закрытия- ответ</LtxtResDueDate>
+    <LtxtOfertQty>Количество в{0}</LtxtOfertQty>
+    <LtxtRespQty>Количество ответов</LtxtRespQty>
+    <LtxtOfertProfit>Валовая прибыль {0}</LtxtOfertProfit>
+    <LtxtRespProfit>Валовая прибыль- ответ</LtxtRespProfit>
+    <LtxtBasePrice>Базовая цена</LtxtBasePrice>
+    <LtxtOfertPrice>Цена {0}</LtxtOfertPrice>
+    <LtxtRespPrice>Цена ответа</LtxtRespPrice>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtState>Stát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtWaiting>Čekání</DtxtWaiting>
+    <DtxtAproved>Schváleno</DtxtAproved>
+    <DtxtRejected>Zamítnuto</DtxtRejected>
+    <DtxtAnuled>Zrušeno</DtxtAnuled>
+    <DtxtCounter>Protinávrh</DtxtCounter>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtState2>Stát</DtxtState2>
+    <LttlSearchOferts>{0} Vyhledávání</LttlSearchOferts>
+    <LtxtPurchased>Koupeno</LtxtPurchased>
+    <LtxtResponse>Odpověď</LtxtResponse>
+    <LtxtDueDays>Dnů do splatnosti</LtxtDueDays>
+    <LtxtItmGrps>Skupiny položek </LtxtItmGrps>
+    <LtxtClientGrps>{0} Skupina</LtxtClientGrps>
+    <LtxtOfertDate>{0} Datum</LtxtOfertDate>
+    <LtxtRespDate>Datum odpovědi</LtxtRespDate>
+    <LtxtOfertDueDate>{0} Datum splatnosti</LtxtOfertDueDate>
+    <LtxtResDueDate>Odpověď do data</LtxtResDueDate>
+    <LtxtOfertQty>{0} Množství</LtxtOfertQty>
+    <LtxtRespQty>Množství v odpovědi</LtxtRespQty>
+    <LtxtOfertProfit>{0} Hrubý zisk</LtxtOfertProfit>
+    <LtxtRespProfit>Hrubý zisk odpovědi</LtxtRespProfit>
+    <LtxtBasePrice>Základní cena</LtxtBasePrice>
+    <LtxtOfertPrice>{0} Cena</LtxtOfertPrice>
+    <LtxtRespPrice>Cena odpovědi</LtxtRespPrice>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtWaiting>Oczekujący</DtxtWaiting>
+    <DtxtAproved>Zatwierdzony</DtxtAproved>
+    <DtxtRejected>Odrzucony</DtxtRejected>
+    <DtxtAnuled>Anulowany</DtxtAnuled>
+    <DtxtCounter>Przeciwny</DtxtCounter>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtState2>Stan</DtxtState2>
+    <LttlSearchOferts>{0} poszukiwanie</LttlSearchOferts>
+    <LtxtPurchased>Zakupione</LtxtPurchased>
+    <LtxtResponse>Odpowiedź</LtxtResponse>
+    <LtxtDueDays>Dni do terminu</LtxtDueDays>
+    <LtxtItmGrps>Grupy pozycji</LtxtItmGrps>
+    <LtxtClientGrps>Grupa materiałów {0}</LtxtClientGrps>
+    <LtxtOfertDate>Data {0}</LtxtOfertDate>
+    <LtxtRespDate>Data odpowiedzi</LtxtRespDate>
+    <LtxtOfertDueDate>Termin płatności</LtxtOfertDueDate>
+    <LtxtResDueDate>Termin odpowiedzi</LtxtResDueDate>
+    <LtxtOfertQty>Ilość {0}</LtxtOfertQty>
+    <LtxtRespQty>Odpowiedź ilość</LtxtRespQty>
+    <LtxtOfertProfit>{0} zysk brutto</LtxtOfertProfit>
+    <LtxtRespProfit>Odpowiedź zysk brutto</LtxtRespProfit>
+    <LtxtBasePrice>Cena podstawowa</LtxtBasePrice>
+    <LtxtOfertPrice>{0} cena</LtxtOfertPrice>
+    <LtxtRespPrice>Cena odpowiedzi</LtxtRespPrice>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtState>Štát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtWaiting>Čaká</DtxtWaiting>
+    <DtxtAproved>Schválené</DtxtAproved>
+    <DtxtRejected>Zamietnutý</DtxtRejected>
+    <DtxtAnuled>Anulované</DtxtAnuled>
+    <DtxtCounter>Pokladňa</DtxtCounter>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtState2>Štát</DtxtState2>
+    <LttlSearchOferts>Vyhľadávanie {0}</LttlSearchOferts>
+    <LtxtPurchased>Zakúpené</LtxtPurchased>
+    <LtxtResponse>Odpoveď</LtxtResponse>
+    <LtxtDueDays>Dni do splatnosti</LtxtDueDays>
+    <LtxtItmGrps>Položkové skupiny</LtxtItmGrps>
+    <LtxtClientGrps>Skupina {0}</LtxtClientGrps>
+    <LtxtOfertDate>Dátum {0}</LtxtOfertDate>
+    <LtxtRespDate>Dátum odpovede</LtxtRespDate>
+    <LtxtOfertDueDate>Dátum splatnosti {0}</LtxtOfertDueDate>
+    <LtxtResDueDate>Dátum splatnosti odpovede</LtxtResDueDate>
+    <LtxtOfertQty>Množstvo {0}</LtxtOfertQty>
+    <LtxtRespQty>Množstvo odpovede</LtxtRespQty>
+    <LtxtOfertProfit>Hrubý zisk {0}</LtxtOfertProfit>
+    <LtxtRespProfit>Hrubý zisk odpovede</LtxtRespProfit>
+    <LtxtBasePrice>Základná cena</LtxtBasePrice>
+    <LtxtOfertPrice>Cena {0}</LtxtOfertPrice>
+    <LtxtRespPrice>Cena odpovede</LtxtRespPrice>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtWaiting>DtxtWaiting</DtxtWaiting>
+    <DtxtAproved>DtxtAproved</DtxtAproved>
+    <DtxtRejected>DtxtRejected</DtxtRejected>
+    <DtxtAnuled>DtxtAnuled</DtxtAnuled>
+    <DtxtCounter>DtxtCounter</DtxtCounter>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtState2>DtxtState2</DtxtState2>
+    <LttlSearchOferts>LttlSearchOferts</LttlSearchOferts>
+    <LtxtPurchased>LtxtPurchased</LtxtPurchased>
+    <LtxtResponse>LtxtResponse</LtxtResponse>
+    <LtxtDueDays>LtxtDueDays</LtxtDueDays>
+    <LtxtItmGrps>LtxtItmGrps</LtxtItmGrps>
+    <LtxtClientGrps>LtxtClientGrps</LtxtClientGrps>
+    <LtxtOfertDate>LtxtOfertDate</LtxtOfertDate>
+    <LtxtRespDate>LtxtRespDate</LtxtRespDate>
+    <LtxtOfertDueDate>LtxtOfertDueDate</LtxtOfertDueDate>
+    <LtxtResDueDate>LtxtResDueDate</LtxtResDueDate>
+    <LtxtOfertQty>LtxtOfertQty</LtxtOfertQty>
+    <LtxtRespQty>LtxtRespQty</LtxtRespQty>
+    <LtxtOfertProfit>LtxtOfertProfit</LtxtOfertProfit>
+    <LtxtRespProfit>LtxtRespProfit</LtxtRespProfit>
+    <LtxtBasePrice>LtxtBasePrice</LtxtBasePrice>
+    <LtxtOfertPrice>LtxtOfertPrice</LtxtOfertPrice>
+    <LtxtRespPrice>LtxtRespPrice</LtxtRespPrice>
+  </language>
+</languages>

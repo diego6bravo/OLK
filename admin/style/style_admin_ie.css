@@ -1,0 +1,232 @@
+﻿BODY {
+	SCROLLBAR-FACE-COLOR: #D9F0FD;
+	SCROLLBAR-TRACK-COLOR: #F5FBFE;
+	SCROLLBAR-ARROW-COLOR: #2C96D2;
+	SCROLLBAR-3DLIGHT-COLOR: #1B7CA9;
+	SCROLLBAR-DARKSHADOW-COLOR: #1B7CA9;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FBFEFF;
+	SCROLLBAR-SHADOW-COLOR: #FBFEFF;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 10px;
+}
+A {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #4783C5;
+	TEXT-DECORATION: underline;
+}
+A:active {
+	COLOR: #4783C5;
+	TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: #4783C5;
+	font-family: Verdana;
+	font-size: 10px;
+	TEXT-DECORATION: none;
+}
+input {
+	color: #3F7B96;
+	font-family: verdana;
+	font-size: 10px;
+	border: 1px #2E94D4 solid;
+	background-color: #D9F0FD;
+	border-style: outset;
+}
+.noborder {
+	border-style: solid;
+	border-width: 0;
+	background: background-image;
+}
+select {
+	color: #3F7B96;
+	font-family: verdana;
+	font-size: 10px;
+	border: 1px solid #68A6C0;
+	background-color: #D9F0FD;
+}
+textarea {
+	font-size: 10px;
+	font-family: Verdana;
+	color: #3F7B96;
+	background-color: #D9F0FD;
+}
+.TblFlowFunction {
+	font-size: 10px;
+	font-family: Verdana;
+	color: #4783C5;
+}
+.TblRepTlt {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #E1F3FD;
+	font-weight: bold;
+}
+.TblRepTltNoBold {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #E1F3FD;
+}
+.TblRepTltSub {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: Verdana;
+	BACKGROUND-COLOR: #E1F3FD;
+	font-weight: bold;
+}
+.TblRepTltSubNoUnder {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: Verdana;
+	BACKGROUND-COLOR: #E1F3FD;
+	font-weight: bold;
+}
+.TblRepNrm {
+	COLOR: #4783C5;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #F5FBFE;
+	font-weight: none;
+}
+.TblRepTbl {
+	COLOR: #4783C5;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #F3FBFE;
+	font-weight: none;
+}
+.TblRepATbl {
+	COLOR: #4783C5;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #FFFFFF;
+	font-weight: none;
+}
+hr {
+	border: 1px solid #2E94D4;
+	height: 1px;
+}
+.BtnRep {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: VERDANA;
+	BACKGROUND-COLOR: #F5FBFE;
+	font-weight: bold;
+	width: 75px;
+	height: 23px;
+}
+.OptionButton {
+	border-style: solid;
+	border-width: 0;
+	background: background-image;
+}
+.TxtLentes {
+	COLOR: #FF0F0F;
+	FONT-SIZE: 15px;
+	FONT-FAMILY: Wingdings;
+	font-weight: none;
+}
+.TltTop {
+	COLOR: #003C01;
+	FONT-SIZE: 9px;
+	FONT-FAMILY: Verdana;
+	font-weight: bold;
+}
+.TablaMenuSection {
+	COLOR: #31659C;
+	FONT-SIZE: 11px;
+	FONT-FAMILY: Tahoma;
+	height: 20px;
+	padding-left: 8px;
+	border-bottom: 1px dotted #2C96D4;
+	font-weight: bold;
+}
+.TablaMenusmall {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: Verdana;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #E5F7FB;
+	font-weight: bold;
+}
+.TablaMenu {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: Verdana;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #B1EBFE;
+	font-weight: bold;
+}
+.TablaMenusmall {
+	COLOR: #31659C;
+	FONT-SIZE: 10px;
+	FONT-FAMILY: Verdana;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #E5F7FB;
+	font-weight: bold;
+}
+.TblCombo {
+	border: 1px solid #68A6C0;
+	font-family: Verdana;
+	font-size: 10px;
+	color: #3F7B96;
+}
+.BtnRep {
+	color: #68A6C0;
+	font-family: Tahoma;
+	border: 1px solid #68A6C0;
+	background-color: #E5F1FF;
+	font-size: 10px;
+	width: 75px;
+	height: 23px;
+	font-weight: bold;
+}
+.OlkBtn {
+	color: #68A6C0;
+	font-family: Tahoma;
+	border: 1px solid #68A6C0;
+	background-color: #E5F1FF;
+	font-size: 10px;
+	width: 75px;
+	height: 23px;
+	font-weight: bold;
+}
+.MsgBoxBG {
+	position: absolute;
+	z-index: 101;
+	top: 0px;
+	left: 0px;
+	background-color: #CAD5DB;
+	filter: alpha(opacity=60);
+}
+.TblMsgBox
+{
+	border: thin solid #31659c;
+	width: 430px;
+	height: 130px;
+}
+.MsgBoxTtl
+{
+	background-color: white;
+	height: 86px;
+	color: black;
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 25px;
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	font-weight : bold;
+}
+.MsgBoxBody
+{
+	background-color: #F0F0F0;
+	height: 44px; 
+}

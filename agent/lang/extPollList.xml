@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtExtPolls>Extended Poll Execution</LtxtExtPolls>
+    <LtxtPoll>Poll</LtxtPoll>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtExtPolls>Ejecución de Encuesta Extendidas</LtxtExtPolls>
+    <LtxtPoll>Encuesta</LtxtPoll>
+    <LtxtStartDate>End Date</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtPending>Pendientes</LtxtPending>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtExtPolls>הרצת סקר מורחב</LtxtExtPolls>
+    <LtxtPoll>סקר</LtxtPoll>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtPending>פתוחים</LtxtPending>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtExtPolls>Extended Poll Execution</LtxtExtPolls>
+    <LtxtPoll>Poll</LtxtPoll>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LtxtExtPolls>Execução de Pesquisa Extendida</LtxtExtPolls>
+    <LtxtPoll>Pesquisa</LtxtPoll>
+    <LtxtStartDate>Data Final</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtPending>Pendentes</LtxtPending>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtPoll>&lt;--&gt;</LtxtPoll>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtPoll>&lt;--&gt;</LtxtPoll>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtExtPolls>Выполнение расширенного опроса</LtxtExtPolls>
+    <LtxtPoll>Опрос</LtxtPoll>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата конца</LtxtEndDate>
+    <LtxtPending>Открытые</LtxtPending>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtExtPolls>Spuštění rozšířené ankety</LtxtExtPolls>
+    <LtxtPoll>Anketa</LtxtPoll>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtPending>Nevyřízené</LtxtPending>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtExtPolls>Wykonanie rozszerzonej ankiety</LtxtExtPolls>
+    <LtxtPoll>Ankieta</LtxtPoll>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtPending>Otwarte/oczekujące/ w trakcie realizacji</LtxtPending>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtExtPolls>Realizácia rozšírenej ankety</LtxtExtPolls>
+    <LtxtPoll>Anketa</LtxtPoll>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtPending>Nespracované</LtxtPending>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtExtPolls>LtxtExtPolls</LtxtExtPolls>
+    <LtxtPoll>LtxtPoll</LtxtPoll>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtPending>LtxtPending</LtxtPending>
+  </language>
+</languages>

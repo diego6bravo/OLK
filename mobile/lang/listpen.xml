@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtToday>Today</DtxtToday>
+    <LtxtPendList>Pending List</LtxtPendList>
+    <LtxtDisObj>You don\'t have authorization to "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>Document you wish to edit is in confirmation state, if you continue, document will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Are you sure you want to delete the transaction #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Open Documents</LtxtOpenDocs>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtToday>Hoy</DtxtToday>
+    <LtxtPendList>Listado de Pendientes</LtxtPendList>
+    <LtxtDisObj>No tiene autorización a "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>El documento que desea editar está en estado de confirmación, si continúa el documento volverá al estado de pendiente. \n¿Desea continuar?</LtxtConfReOpen>
+    <LtxtConfDelDoc>¿Está seguro que desea eliminar el transaction #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Documentos Pendientes</LtxtOpenDocs>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtToday>היום</DtxtToday>
+    <LtxtPendList>רשימת מסמכים פתוחים</LtxtPendList>
+    <LtxtDisObj>אין לך הרשאה ל "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>המסמך שאתה רוצה לערוך נמצא במצב "המתנה לאישור" במידה ותמשיך המסמך יחזור למצב פתוח.\nהאם להמשיך?</LtxtConfReOpen>
+    <LtxtConfDelDoc>האם למחוק עיסקה {0}#?</LtxtConfDelDoc>
+    <LtxtOpenDocs>מסמכים פתוחים</LtxtOpenDocs>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtToday>Today</DtxtToday>
+    <LtxtPendList>Pending List</LtxtPendList>
+    <LtxtDisObj>You don\'t have authorization to "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>Document you wish to edit is in confirmation state, if you continue, document will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Are you sure you want to delete the transaction #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Open Documents</LtxtOpenDocs>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtToday>Hoje</DtxtToday>
+    <LtxtPendList>Lista de Pendências</LtxtPendList>
+    <LtxtDisObj>Você não tem autorização a "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>O documento que deseja editar está no estado de confirmação, se continuar, o documento retornará ao estado de pendente. \nDeseja continuar?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Você tem certeza que deseja excluir esta transação Nº {0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Documentos Pendentes</LtxtOpenDocs>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtDisObj>&lt;--&gt;</LtxtDisObj>
+    <LtxtConfReOpen>Le document que vous voulez éditer est-il en état de confirmation, si vous continuez le document retournera-t-il à l\'état pendant. Veuillez-vous continuer?</LtxtConfReOpen>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtOpenDocs>Documents Ouvert</LtxtOpenDocs>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtToday>Heute</DtxtToday>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtDisObj>&lt;--&gt;</LtxtDisObj>
+    <LtxtConfReOpen>Das Dokument das Sie bearbeiten möchten wird momentan bestätigt, wenn Sie fortfahren, geht das Dokument zurück zum offenen Status. Möchten Sie fortfahren?</LtxtConfReOpen>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtOpenDocs>Öffnen Dokumente</LtxtOpenDocs>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtToday>Сегодня</DtxtToday>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtDisObj>&lt;--&gt;</LtxtDisObj>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtToday>Dnes</DtxtToday>
+    <LtxtPendList>Seznam nevyřízených</LtxtPendList>
+    <LtxtDisObj>Nemáte oprávnění k "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>Dokument, který chcete upravovat, je ve stavu potvrzený. Pokud budete pokračovat, dokument se vrátí do stavu otevřený.\nPřejete si pokračovat?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Jste si jistý/á, že chcete vymazat transakci #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Otevřené dokumenty</LtxtOpenDocs>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtToday>Dziś </DtxtToday>
+    <LtxtPendList>Lista oczekujących/w toku</LtxtPendList>
+    <LtxtDisObj>Nie masz autoryzacji do  "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>Dokument, który chcesz edytować jest w fazie potwierdzania, jeśli będziesz kontynuować dokument powróci do statusu otwartego. Czy chcesz kontynuować?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Czy jesteś pewien, że chcesz usunąć transakcję #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Otwórz dokumenty</LtxtOpenDocs>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtToday>Dnes</DtxtToday>
+    <LtxtPendList>Zoznam čakajúcich</LtxtPendList>
+    <LtxtDisObj>Nemáte autorizáciu do "{0}"</LtxtDisObj>
+    <LtxtConfReOpen>Dokument, ktorý si prajete editovať je v potvrdzovacom stave, ak budete pokračovať, dokument sa vráti do otvoreného stavu.\nPrajete si pokračovať?</LtxtConfReOpen>
+    <LtxtConfDelDoc>Ste si istí, že chcete zmazať transakciu #{0}?</LtxtConfDelDoc>
+    <LtxtOpenDocs>Otvorené dokumenty</LtxtOpenDocs>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtObservations>&lt;--&gt;</DtxtObservations>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtDisObj>&lt;--&gt;</LtxtDisObj>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtToday>DtxtToday</DtxtToday>
+    <LtxtPendList>LtxtPendList</LtxtPendList>
+    <LtxtDisObj>LtxtDisObj</LtxtDisObj>
+    <LtxtConfReOpen>LtxtConfReOpen</LtxtConfReOpen>
+    <LtxtConfDelDoc>LtxtConfDelDoc</LtxtConfDelDoc>
+    <LtxtOpenDocs>LtxtOpenDocs</LtxtOpenDocs>
+  </language>
+</languages>

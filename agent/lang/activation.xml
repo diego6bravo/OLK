@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>State</DtxtState>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtAsign>Assign</LtxtAsign>
+    <LtxtRejReas>Reason for Rejection</LtxtRejReas>
+    <LtxtPending>Pending</LtxtPending>
+    <LtxtActivate>Activate</LtxtActivate>
+    <LtxtReject>Reject</LtxtReject>
+    <LttlAnonRegAct>Anonymous Registration Activation</LttlAnonRegAct>
+    <LtxtValActiveAgent>You must assign a {0} to the accounts you want to activate</LtxtValActiveAgent>
+    <LtxtValRejReason>You must enter the rejection reason</LtxtValRejReason>
+    <LtxtValStatAcct>You must change the state of at least one account</LtxtValStatAcct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtAsign>Asignar</LtxtAsign>
+    <LtxtRejReas>Razón de rechazo</LtxtRejReas>
+    <LtxtPending>Pendiente</LtxtPending>
+    <LtxtActivate>Activar</LtxtActivate>
+    <LtxtReject>Rechazar</LtxtReject>
+    <LttlAnonRegAct>Activación de Registro Anónimo</LttlAnonRegAct>
+    <LtxtValActiveAgent>Debe asignar {0} a las cuentas que desea activar</LtxtValActiveAgent>
+    <LtxtValRejReason>Debe introducir la razón del rechazo</LtxtValRejReason>
+    <LtxtValStatAcct>Debe cambiar el estado de por lo menos una cuenta</LtxtValStatAcct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtName>שם</DtxtName>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtAsign>קשר</LtxtAsign>
+    <LtxtRejReas>סיבת דחייה</LtxtRejReas>
+    <LtxtPending>פתוח</LtxtPending>
+    <LtxtActivate>הפעל</LtxtActivate>
+    <LtxtReject>לא מאושר</LtxtReject>
+    <LttlAnonRegAct>הפעלת לקוח אנונימי</LttlAnonRegAct>
+    <LtxtValActiveAgent>צריך לקשר {0} לחשבון אשר אתה מעוניין להפעיל</LtxtValActiveAgent>
+    <LtxtValRejReason>צריך לתת סיבת דחיה</LtxtValRejReason>
+    <LtxtValStatAcct>צריך לשנות את הסטאטוס של לפחות חשבון אחד</LtxtValStatAcct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>County</DtxtState>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtAsign>Assign</LtxtAsign>
+    <LtxtRejReas>Reason for Rejection</LtxtRejReas>
+    <LtxtPending>Pending</LtxtPending>
+    <LtxtActivate>Activate</LtxtActivate>
+    <LtxtReject>Reject</LtxtReject>
+    <LttlAnonRegAct>Anonymous Registration Activation</LttlAnonRegAct>
+    <LtxtValActiveAgent>You must assign a {0} to the accounts you want to activate</LtxtValActiveAgent>
+    <LtxtValRejReason>You must enter the rejection reason</LtxtValRejReason>
+    <LtxtValStatAcct>You must change the state of at least one account</LtxtValStatAcct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LtxtAsign>Atribuir</LtxtAsign>
+    <LtxtRejReas>Razão da recusa</LtxtRejReas>
+    <LtxtPending>Pendente</LtxtPending>
+    <LtxtActivate>Ativar</LtxtActivate>
+    <LtxtReject>Recusar</LtxtReject>
+    <LttlAnonRegAct>Ativação do Registro Anônimo</LttlAnonRegAct>
+    <LtxtValActiveAgent>Deve atribuir {0} para as contas que deseja ativar</LtxtValActiveAgent>
+    <LtxtValRejReason>Deve introduzir a razão da recusa</LtxtValRejReason>
+    <LtxtValStatAcct>Deve modificar  o estado de  pelo menos uma conta</LtxtValStatAcct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtState>État</DtxtState>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtAsign>Assigner</LtxtAsign>
+    <LtxtRejReas>Raison de refus</LtxtRejReas>
+    <LtxtPending>Pendent</LtxtPending>
+    <LtxtActivate>Activer</LtxtActivate>
+    <LtxtReject>Refuser</LtxtReject>
+    <LttlAnonRegAct>Activation du registre anonyme</LttlAnonRegAct>
+    <LtxtValActiveAgent>Devez-vous assigner {0} aux comptes que vous souhaitez activer</LtxtValActiveAgent>
+    <LtxtValRejReason>Devez-vous insérer la raison</LtxtValRejReason>
+    <LtxtValStatAcct>Devez-vous échanger l\'état d\'au moins une compte</LtxtValStatAcct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtAsign>Beiordnen</LtxtAsign>
+    <LtxtRejReas>Grund für die Ablehnung</LtxtRejReas>
+    <LtxtPending>Hängig</LtxtPending>
+    <LtxtActivate>Aktivieren</LtxtActivate>
+    <LtxtReject>Ablehnen</LtxtReject>
+    <LttlAnonRegAct>Anonyme Anmedungs Aktivierung</LttlAnonRegAct>
+    <LtxtValActiveAgent>Sie müssen den Konten die Sie aktivieren möchten {0} beiordnen</LtxtValActiveAgent>
+    <LtxtValRejReason>Sie müssen den Grund für die Ablehnung eingeben</LtxtValRejReason>
+    <LtxtValStatAcct>Sie müssen den Status von mindestens einem Konto ändern</LtxtValStatAcct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtState>Государство</DtxtState>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtAsign>Назначение</LtxtAsign>
+    <LtxtRejReas>Причина отказа</LtxtRejReas>
+    <LtxtPending>Рассматриваемый</LtxtPending>
+    <LtxtActivate>Активировать</LtxtActivate>
+    <LtxtReject>Отклонить</LtxtReject>
+    <LttlAnonRegAct>Анонимная регистрация ,активация</LttlAnonRegAct>
+    <LtxtValActiveAgent>Нужно связать {0}со счетом который вы желаете включить</LtxtValActiveAgent>
+    <LtxtValRejReason>Вы должны указать причины отказа</LtxtValRejReason>
+    <LtxtValStatAcct>Вы должны изменить статус , по крайней мере одного счета</LtxtValStatAcct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtState>Stát</DtxtState>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtAsign>Přiřadit</LtxtAsign>
+    <LtxtRejReas>Důvod zamítnutí</LtxtRejReas>
+    <LtxtPending>Nevyřízené</LtxtPending>
+    <LtxtActivate>Aktivovat</LtxtActivate>
+    <LtxtReject>Zamítnout</LtxtReject>
+    <LttlAnonRegAct>Aktivace anonymní registrace</LttlAnonRegAct>
+    <LtxtValActiveAgent>Účtům, které chcete aktivovat, musíte přiřadit {0}</LtxtValActiveAgent>
+    <LtxtValRejReason>Musíte zadat důvod zamítnutí</LtxtValRejReason>
+    <LtxtValStatAcct>Musíte změnit stav aspoň jednoho účtu</LtxtValStatAcct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtAsign>Przypisz</LtxtAsign>
+    <LtxtRejReas>Przyczyna odrzucenia</LtxtRejReas>
+    <LtxtPending>W toku, oczekujący</LtxtPending>
+    <LtxtActivate>Aktywny</LtxtActivate>
+    <LtxtReject>Odrzuć</LtxtReject>
+    <LttlAnonRegAct>Aktywacja anonimowej rejestracji</LttlAnonRegAct>
+    <LtxtValActiveAgent>Musisz przypisać {0} do konta, które chcesz aktywować</LtxtValActiveAgent>
+    <LtxtValRejReason>Musisz wprowadzić przyczynę odrzucenia</LtxtValRejReason>
+    <LtxtValStatAcct>Musisz zmienić  status przynajmniej jednego konta</LtxtValStatAcct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtState>Štát</DtxtState>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtAsign>Priradiť</LtxtAsign>
+    <LtxtRejReas>Dôvod zamietnutia</LtxtRejReas>
+    <LtxtPending>Nerozhodnuté</LtxtPending>
+    <LtxtActivate>Aktivovať</LtxtActivate>
+    <LtxtReject>Zamietnuť</LtxtReject>
+    <LttlAnonRegAct>Aktivácia anonymnej registrácie</LttlAnonRegAct>
+    <LtxtValActiveAgent>Musíte priradiť {0} kontám, ktoré chcete aktivovať</LtxtValActiveAgent>
+    <LtxtValRejReason>Musíte zadať dôvod zamietnutia</LtxtValRejReason>
+    <LtxtValStatAcct>Musíte zmeniť stav aspoň jedného konta</LtxtValStatAcct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtAsign>LtxtAsign</LtxtAsign>
+    <LtxtRejReas>LtxtRejReas</LtxtRejReas>
+    <LtxtPending>LtxtPending</LtxtPending>
+    <LtxtActivate>LtxtActivate</LtxtActivate>
+    <LtxtReject>LtxtReject</LtxtReject>
+    <LttlAnonRegAct>LttlAnonRegAct</LttlAnonRegAct>
+    <LtxtValActiveAgent>LtxtValActiveAgent</LtxtValActiveAgent>
+    <LtxtValRejReason>LtxtValRejReason</LtxtValRejReason>
+    <LtxtValStatAcct>LtxtValStatAcct</LtxtValStatAcct>
+  </language>
+</languages>

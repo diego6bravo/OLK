@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtValSelRep>You must select at least one report</LtxtValSelRep>
+    <LttlRepExp>Reports – Export</LttlRepExp>
+    <LtxtDataExpOK>Data exported successfully.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtValSelRep>Debe seleccionar al menos un reporte</LtxtValSelRep>
+    <LttlRepExp>Reportes – Exportar</LttlRepExp>
+    <LtxtDataExpOK>Datos exportados con éxito.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtValSelRep>יש לבחור לפחות דוח אחד</LtxtValSelRep>
+    <LttlRepExp>יצוא דוחות</LttlRepExp>
+    <LtxtDataExpOK>הנתונים יצוא בהצלחה</LtxtDataExpOK>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtValSelRep>You must select at least one report</LtxtValSelRep>
+    <LttlRepExp>Reports – Export</LttlRepExp>
+    <LtxtDataExpOK>Data exported successfully.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtValSelRep>Deve selecionar ao menos um relatório</LtxtValSelRep>
+    <LttlRepExp>Relatórios - Exportar</LttlRepExp>
+    <LtxtDataExpOK>Dados exportados com êxito.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtValSelRep>Devez-vous sélectionner au moins un report</LtxtValSelRep>
+    <LttlRepExp>Reports - Exporter</LttlRepExp>
+    <LtxtDataExpOK>Données exportées avec succès</LtxtDataExpOK>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtValSelRep>Sie müssen mindestens einen Bericht auswählen</LtxtValSelRep>
+    <LttlRepExp>Berichte - Exportieren</LttlRepExp>
+    <LtxtDataExpOK>Daten wurden erfolgreich exportiert.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtValSelRep>Вы должны выбрать по крайней мере один доклад</LtxtValSelRep>
+    <LttlRepExp>Отчеты - Экспорт</LttlRepExp>
+    <LtxtDataExpOK>Данные экспортированы успешно.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtValSelRep>Musíte vybrat aspoň jeden report</LtxtValSelRep>
+    <LttlRepExp>Reporty - Export</LttlRepExp>
+    <LtxtDataExpOK>Export dat byl úspěšný.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtValSelRep>Musisz wybrać przy najmniej jeden raport</LtxtValSelRep>
+    <LttlRepExp>Raporty - eksport</LttlRepExp>
+    <LtxtDataExpOK>Dane wyeksportowane/wysłane z sukcesem</LtxtDataExpOK>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtValSelRep>Musíte zvoliť aspoň jeden výkaz</LtxtValSelRep>
+    <LttlRepExp>Výkazy - Exportovanie</LttlRepExp>
+    <LtxtDataExpOK>Dáta exportované úspešne.</LtxtDataExpOK>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtClose>&lt;--&gt;</DtxtClose>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtValSelRep>&lt;--&gt;</LtxtValSelRep>
+    <LttlRepExp>&lt;--&gt;</LttlRepExp>
+    <LtxtDataExpOK>&lt;--&gt;</LtxtDataExpOK>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtValSelRep>LtxtValSelRep</LtxtValSelRep>
+    <LttlRepExp>LttlRepExp</LttlRepExp>
+    <LtxtDataExpOK>LtxtDataExpOK</LtxtDataExpOK>
+  </language>
+</languages>

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <LttlClientSearch>Business Partners Search</LttlClientSearch>
+    <LtxtAdSearch>Advanced Search</LtxtAdSearch>
+    <LtxtDocs>Documents</LtxtDocs>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contacto</DtxtContact>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtBPCode>Código SN</DtxtBPCode>
+    <LttlClientSearch>Búsqueda de Socios de Negocios</LttlClientSearch>
+    <LtxtAdSearch>Búsqueda Avanzada</LtxtAdSearch>
+    <LtxtDocs>Documentos</LtxtDocs>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtBPCode>קוד כרטיס</DtxtBPCode>
+    <LttlClientSearch>חיפוש כרטיסים</LttlClientSearch>
+    <LtxtAdSearch>חיפוש מתקדם</LtxtAdSearch>
+    <LtxtDocs>מסמכים</LtxtDocs>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <LttlClientSearch>Business Partners Search</LttlClientSearch>
+    <LtxtAdSearch>Advanced Search</LtxtAdSearch>
+    <LtxtDocs>Documents</LtxtDocs>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contato</DtxtContact>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtBPCode>Código do PN</DtxtBPCode>
+    <LttlClientSearch>Busca de Parceiros de Negócios</LttlClientSearch>
+    <LtxtAdSearch>Busca Avançada </LtxtAdSearch>
+    <LtxtDocs>Documentos</LtxtDocs>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtBPCode>&lt;--&gt;</DtxtBPCode>
+    <LttlClientSearch>&lt;--&gt;</LttlClientSearch>
+    <LtxtAdSearch>Recherche avancée</LtxtAdSearch>
+    <LtxtDocs>Documentations</LtxtDocs>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtBPCode>BP Kode</DtxtBPCode>
+    <LttlClientSearch>&lt;--&gt;</LttlClientSearch>
+    <LtxtAdSearch>Erweiterte Suche</LtxtAdSearch>
+    <LtxtDocs>Dokumente</LtxtDocs>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtBPCode>Код карточки</DtxtBPCode>
+    <LttlClientSearch>Поиск карточек</LttlClientSearch>
+    <LtxtAdSearch>Расширенный поиск</LtxtAdSearch>
+    <LtxtDocs>Документы</LtxtDocs>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtBPCode>Kód OP</DtxtBPCode>
+    <LttlClientSearch>Vyhledávání obchodních partnerů</LttlClientSearch>
+    <LtxtAdSearch>Rozšířené hledání</LtxtAdSearch>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtBPCode>Kod kreskowy</DtxtBPCode>
+    <LttlClientSearch>Poszukiwanie Partnerów Biznesowych </LttlClientSearch>
+    <LtxtAdSearch>Poszukiwanie zaawansowane</LtxtAdSearch>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtBPCode>Kód Obchodného partnera</DtxtBPCode>
+    <LttlClientSearch>Vyhľadávanie Obchodných partnerov</LttlClientSearch>
+    <LtxtAdSearch>Rozšírené vyhľadávanie</LtxtAdSearch>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtBPCode>DtxtBPCode</DtxtBPCode>
+    <LttlClientSearch>LttlClientSearch</LttlClientSearch>
+    <LtxtAdSearch>LtxtAdSearch</LtxtAdSearch>
+    <LtxtDocs>LtxtDocs</LtxtDocs>
+  </language>
+</languages>

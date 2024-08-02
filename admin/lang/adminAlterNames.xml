@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <LtxtValAllFld>You must enter all the fields</LtxtValAllFld>
+    <LttlAlterNames>Alternate Names</LttlAlterNames>
+    <LttlAlterNamesNote>Here the names of certain objects in OLK may be changed.</LttlAlterNamesNote>
+    <LtxtSingular>Singular</LtxtSingular>
+    <LtxtPlural>Plural</LtxtPlural>
+    <LtxtLanguage>Language</LtxtLanguage>
+    <LoptSelLng>Select a language</LoptSelLng>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <LtxtValAllFld>Debe llenar todos los campos</LtxtValAllFld>
+    <LttlAlterNames>Nombres Alternos</LttlAlterNames>
+    <LttlAlterNamesNote>En esta sección podrá cambiar los nombres que tienen ciertos objetos en OLK.</LttlAlterNamesNote>
+    <LtxtSingular>Singular</LtxtSingular>
+    <LtxtPlural>Plural</LtxtPlural>
+    <LtxtLanguage>Idioma</LtxtLanguage>
+    <LoptSelLng>Seleccione idioma</LoptSelLng>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtClient>לקוח</DtxtClient>
+    <LtxtValAllFld>צריך למלא את כל השדות</LtxtValAllFld>
+    <LttlAlterNames>שמות חלופיים</LttlAlterNames>
+    <LttlAlterNamesNote>בחלק זה תוכל לשנות שמות של אובייקטים מסויימים באתר</LttlAlterNamesNote>
+    <LtxtSingular>יחיד</LtxtSingular>
+    <LtxtPlural>רבים</LtxtPlural>
+    <LtxtLanguage>שפה</LtxtLanguage>
+    <LoptSelLng>בחר שפה</LoptSelLng>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <LtxtValAllFld>You must enter all the fields</LtxtValAllFld>
+    <LttlAlterNames>Alternate Names</LttlAlterNames>
+    <LttlAlterNamesNote>Here the names of certain objects in OLK may be changed.</LttlAlterNamesNote>
+    <LtxtSingular>Singular</LtxtSingular>
+    <LtxtPlural>Plural</LtxtPlural>
+    <LtxtLanguage>Language</LtxtLanguage>
+    <LoptSelLng>Select a language</LoptSelLng>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <LtxtValAllFld>Você deve preencher todos os campos.</LtxtValAllFld>
+    <LttlAlterNames>Nomes Alternativos</LttlAlterNames>
+    <LttlAlterNamesNote>Nesta seção, podem ser modificados os nomes de determinados objetos no OnlineKit.</LttlAlterNamesNote>
+    <LtxtSingular>Singular</LtxtSingular>
+    <LtxtPlural>Plural</LtxtPlural>
+    <LtxtLanguage>Idioma</LtxtLanguage>
+    <LoptSelLng>Selecione um idioma.</LoptSelLng>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client (e)</DtxtClient>
+    <LtxtValAllFld>Devez-vous remplir tous les domaines</LtxtValAllFld>
+    <LttlAlterNames>Noms alternatifs</LttlAlterNames>
+    <LttlAlterNamesNote>Dans cette section vous pourrez changer les noms qui ont certains objects à OLK</LttlAlterNamesNote>
+    <LtxtSingular>Singulier</LtxtSingular>
+    <LtxtPlural>Pluriel</LtxtPlural>
+    <LtxtLanguage>Langue</LtxtLanguage>
+    <LoptSelLng>Sélectionnez-vous la langue</LoptSelLng>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Kunde</DtxtClient>
+    <LtxtValAllFld>Sie müssen alle Felder eintragen</LtxtValAllFld>
+    <LttlAlterNames>Alternativenamen</LttlAlterNames>
+    <LttlAlterNamesNote>In diesem Bereich können Sie die Namen bestimmter Objekte im OLK ändern.
+</LttlAlterNamesNote>
+    <LtxtSingular>Einzeln</LtxtSingular>
+    <LtxtPlural>Mehrzahl</LtxtPlural>
+    <LtxtLanguage>Sprache</LtxtLanguage>
+    <LoptSelLng>Sprache wählen</LoptSelLng>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtClient>Клиент</DtxtClient>
+    <LtxtValAllFld>Необходимо заполнить все поля</LtxtValAllFld>
+    <LttlAlterNames>Альтернативные названия</LttlAlterNames>
+    <LttlAlterNamesNote>В этом разделе вы можете изменить имена некоторых объектов в базе данных</LttlAlterNamesNote>
+    <LtxtSingular>Еденичный</LtxtSingular>
+    <LtxtPlural>Множественный</LtxtPlural>
+    <LtxtLanguage>Язык</LtxtLanguage>
+    <LoptSelLng>Выбрать язык</LoptSelLng>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <LtxtValAllFld>Musíte vyplnit všechna pole</LtxtValAllFld>
+    <LttlAlterNames>Jiné názvy</LttlAlterNames>
+    <LttlAlterNamesNote>V této sekci bude možné měnit názvy určitých objektů v OLK.</LttlAlterNamesNote>
+    <LtxtSingular>Jednotné číslo</LtxtSingular>
+    <LtxtPlural>Množné číslo</LtxtPlural>
+    <LtxtLanguage>Jazyk</LtxtLanguage>
+    <LoptSelLng>Vyberte jazyk</LoptSelLng>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <LtxtValAllFld>Musisz wypełnić wszystkie pola</LtxtValAllFld>
+    <LttlAlterNames>Nazwy alternatywne</LttlAlterNames>
+    <LttlAlterNamesNote>Tutaj można zmienić nazwy niektórych przedmiotów OLK</LttlAlterNamesNote>
+    <LtxtSingular>Pojedyncza</LtxtSingular>
+    <LtxtPlural>Mnoga</LtxtPlural>
+    <LtxtLanguage>Język</LtxtLanguage>
+    <LoptSelLng>Wybierz język</LoptSelLng>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <LtxtValAllFld>Musíte zadať všetky políčka</LtxtValAllFld>
+    <LttlAlterNames>Alternatívne názvy</LttlAlterNames>
+    <LttlAlterNamesNote>Tu sa dajú zmeniť názvy určitých objektov v OLK.</LttlAlterNamesNote>
+    <LtxtSingular>Singulár</LtxtSingular>
+    <LtxtPlural>Plurál</LtxtPlural>
+    <LtxtLanguage>Jazyk</LtxtLanguage>
+    <LoptSelLng>Vybrať jazyk</LoptSelLng>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <LtxtValAllFld>&lt;--&gt;</LtxtValAllFld>
+    <LttlAlterNames>&lt;--&gt;</LttlAlterNames>
+    <LttlAlterNamesNote>&lt;--&gt;</LttlAlterNamesNote>
+    <LtxtSingular>&lt;--&gt;</LtxtSingular>
+    <LtxtPlural>&lt;--&gt;</LtxtPlural>
+    <LtxtLanguage>&lt;--&gt;</LtxtLanguage>
+    <LoptSelLng>&lt;--&gt;</LoptSelLng>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <LtxtValAllFld>LtxtValAllFld</LtxtValAllFld>
+    <LttlAlterNames>LttlAlterNames</LttlAlterNames>
+    <LttlAlterNamesNote>LttlAlterNamesNote</LttlAlterNamesNote>
+    <LtxtSingular>LtxtSingular</LtxtSingular>
+    <LtxtPlural>LtxtPlural</LtxtPlural>
+    <LtxtLanguage>LtxtLanguage</LtxtLanguage>
+    <LoptSelLng>LoptSelLng</LoptSelLng>
+  </language>
+</languages>

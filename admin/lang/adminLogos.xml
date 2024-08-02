@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtChange>Change</DtxtChange>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Here you can change the main logos.</LtxtLogoNote>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LtxtClientSession>Client Session</LtxtClientSession>
+    <LtxtAgentSession>Agent Session</LtxtAgentSession>
+    <LtxtConfRemLogo>Are you sure you want to remove the logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Home Logo</LtxtHomeLogo>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtChange>Cambiar</DtxtChange>
+    <LtxtLogo>Logotipos</LtxtLogo>
+    <LtxtLogoNote>En esta sección podrá cambiar los logotipos principales.</LtxtLogoNote>
+    <LtxtSendMail>Envío de Correos</LtxtSendMail>
+    <LtxtClientSession>Sección de Clientes</LtxtClientSession>
+    <LtxtAgentSession>Sección de Agentes</LtxtAgentSession>
+    <LtxtConfRemLogo>¿Está seguro que desea eliminar el logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Logotipo Principal</LtxtHomeLogo>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtChange>שנה</DtxtChange>
+    <LtxtLogo>לוגו</LtxtLogo>
+    <LtxtLogoNote>בחלק זה תוכל לשנות את הלוגו של האתר</LtxtLogoNote>
+    <LtxtSendMail>דואר אלקטרוני</LtxtSendMail>
+    <LtxtClientSession>אתר לקוחות</LtxtClientSession>
+    <LtxtAgentSession>ממשק סוכנים</LtxtAgentSession>
+    <LtxtConfRemLogo>האם למחוק את הלוגו?</LtxtConfRemLogo>
+    <LtxtHomeLogo>לוגו לאתר לסוכנים</LtxtHomeLogo>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtChange>Change</DtxtChange>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Here you can change the main logos.</LtxtLogoNote>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LtxtClientSession>Client Session</LtxtClientSession>
+    <LtxtAgentSession>Agent Session</LtxtAgentSession>
+    <LtxtConfRemLogo>Are you sure you want to remove the logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Home Logo</LtxtHomeLogo>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtChange>Modificar</DtxtChange>
+    <LtxtLogo>Logotipos</LtxtLogo>
+    <LtxtLogoNote>Nesta seção, poderá modificar os logotipos principais.</LtxtLogoNote>
+    <LtxtSendMail>Envio de E-Mail</LtxtSendMail>
+    <LtxtClientSession>Seção de Clientes</LtxtClientSession>
+    <LtxtAgentSession>Seção de Vendedores</LtxtAgentSession>
+    <LtxtConfRemLogo>Você tem certeza que deseja excluir este logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Logotipo Principal</LtxtHomeLogo>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtChange>Changer</DtxtChange>
+    <LtxtLogo>Logotypes</LtxtLogo>
+    <LtxtLogoNote>Dans cette section vous pourrez changer les logotypes principaux.</LtxtLogoNote>
+    <LtxtSendMail>Envoie des courriers</LtxtSendMail>
+    <LtxtClientSession>&lt;--&gt;</LtxtClientSession>
+    <LtxtAgentSession>&lt;--&gt;</LtxtAgentSession>
+    <LtxtConfRemLogo>&lt;--&gt;</LtxtConfRemLogo>
+    <LtxtHomeLogo>Logotype principal</LtxtHomeLogo>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtChange>Ändern</DtxtChange>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Hier können Sie die Hauptlogos ändern</LtxtLogoNote>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LtxtClientSession>&lt;--&gt;</LtxtClientSession>
+    <LtxtAgentSession>&lt;--&gt;</LtxtAgentSession>
+    <LtxtConfRemLogo>&lt;--&gt;</LtxtConfRemLogo>
+    <LtxtHomeLogo>Startseiten Logo</LtxtHomeLogo>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtChange>Год</DtxtChange>
+    <LtxtLogo>Логотипы</LtxtLogo>
+    <LtxtLogoNote>Здесь вы можете изменить основные логотипы сайта.</LtxtLogoNote>
+    <LtxtSendMail>Электронная почта</LtxtSendMail>
+    <LtxtClientSession>Сайт клиента</LtxtClientSession>
+    <LtxtAgentSession>Агенты секции</LtxtAgentSession>
+    <LtxtConfRemLogo>Вы уверены, что хотите удалить логотип?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Логотип сайта агентов</LtxtHomeLogo>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtChange>Změnit</DtxtChange>
+    <LtxtLogo>Loga</LtxtLogo>
+    <LtxtLogoNote>Zde můžete měnit hlavní loga.</LtxtLogoNote>
+    <LtxtSendMail>E-maily</LtxtSendMail>
+    <LtxtClientSession>Relace klienta</LtxtClientSession>
+    <LtxtAgentSession>Relace agenta</LtxtAgentSession>
+    <LtxtConfRemLogo>Jste si jistý/á, že chcete odebrat logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Logo domovské stránky</LtxtHomeLogo>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtChange>Zmiana</DtxtChange>
+    <LtxtLogo>Loga</LtxtLogo>
+    <LtxtLogoNote>Tutaj można zmienić główne loga</LtxtLogoNote>
+    <LtxtSendMail>Emaile</LtxtSendMail>
+    <LtxtClientSession>Sesja klienta</LtxtClientSession>
+    <LtxtAgentSession>Sesja sprzedawcy</LtxtAgentSession>
+    <LtxtConfRemLogo>Czy jesteś pewien, że chcesz usunąć to logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Log strony głównej</LtxtHomeLogo>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtChange>Zmeniť</DtxtChange>
+    <LtxtLogo>Logá</LtxtLogo>
+    <LtxtLogoNote>Tu môžete zmeniť hlavné logá.</LtxtLogoNote>
+    <LtxtSendMail>E-maily</LtxtSendMail>
+    <LtxtClientSession>Session klienta</LtxtClientSession>
+    <LtxtAgentSession>Session agenta</LtxtAgentSession>
+    <LtxtConfRemLogo>Ste si istí, že chcete odstrániť logo?</LtxtConfRemLogo>
+    <LtxtHomeLogo>Logo úvodnej stránky</LtxtHomeLogo>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtChange>&lt;--&gt;</DtxtChange>
+    <LtxtLogo>&lt;--&gt;</LtxtLogo>
+    <LtxtLogoNote>&lt;--&gt;</LtxtLogoNote>
+    <LtxtSendMail>&lt;--&gt;</LtxtSendMail>
+    <LtxtClientSession>&lt;--&gt;</LtxtClientSession>
+    <LtxtAgentSession>&lt;--&gt;</LtxtAgentSession>
+    <LtxtConfRemLogo>&lt;--&gt;</LtxtConfRemLogo>
+    <LtxtHomeLogo>&lt;--&gt;</LtxtHomeLogo>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtChange>DtxtChange</DtxtChange>
+    <LtxtLogo>LtxtLogo</LtxtLogo>
+    <LtxtLogoNote>LtxtLogoNote</LtxtLogoNote>
+    <LtxtSendMail>LtxtSendMail</LtxtSendMail>
+    <LtxtClientSession>LtxtClientSession</LtxtClientSession>
+    <LtxtAgentSession>LtxtAgentSession</LtxtAgentSession>
+    <LtxtConfRemLogo>LtxtConfRemLogo</LtxtConfRemLogo>
+    <LtxtHomeLogo>LtxtHomeLogo</LtxtHomeLogo>
+  </language>
+</languages>

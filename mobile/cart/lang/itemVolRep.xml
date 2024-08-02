@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <LtxtVolDiscount>הנחה על כמויות</LtxtVolDiscount>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <LtxtVolDiscount>Скидка на количество</LtxtVolDiscount>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <LtxtVolDiscount>Objemová sleva</LtxtVolDiscount>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <LtxtVolDiscount>&lt;--&gt;</LtxtVolDiscount>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+  </language>
+</languages>

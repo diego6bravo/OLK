@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtForms>Forms</DtxtForms>
+    <LtxtWelcome>Welcome</LtxtWelcome>
+    <LtxtPendList>My Pending List</LtxtPendList>
+    <LtxtClientSearch>Client Search</LtxtClientSearch>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtMyInbox>My Inbox</LtxtMyInbox>
+    <LtxtMyReps>My Reports</LtxtMyReps>
+    <LtxtInv>Inventory</LtxtInv>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Incoming Inventory Check</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Pending New Clients</LtxtClientPendList>
+    <LtxtNewClient>New Client</LtxtNewClient>
+    <LtxtOpenDocs>My Documents</LtxtOpenDocs>
+    <LtxtOpenActivities>My Activities</LtxtOpenActivities>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtForms>Formularios</DtxtForms>
+    <LtxtWelcome>Bienvenido</LtxtWelcome>
+    <LtxtPendList>Mi Listado de Pendientes</LtxtPendList>
+    <LtxtClientSearch>Búsqueda de Cliente</LtxtClientSearch>
+    <LtxtInvRecount>Recuento de Inventario</LtxtInvRecount>
+    <LtxtMyInbox>Mi Buzón</LtxtMyInbox>
+    <LtxtMyReps>Mis Reportes</LtxtMyReps>
+    <LtxtInv>Inventario</LtxtInv>
+    <LtxtSalesOrderCheck>Revisión de Inventario Saliente</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Revisión de Inventario Entrante</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Nuevos Clientes Pendientes</LtxtClientPendList>
+    <LtxtNewClient>Nuevo Cliente</LtxtNewClient>
+    <LtxtOpenDocs>Mis Documentos</LtxtOpenDocs>
+    <LtxtOpenActivities>Mis Actividades</LtxtOpenActivities>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtForms>טפסים</DtxtForms>
+    <LtxtWelcome>ברוך הבא</LtxtWelcome>
+    <LtxtPendList>רשימת פתוחים שלי</LtxtPendList>
+    <LtxtClientSearch>חיפוש לקוחות</LtxtClientSearch>
+    <LtxtInvRecount>ספירת מלאי</LtxtInvRecount>
+    <LtxtMyInbox>תא הדואר שלי</LtxtMyInbox>
+    <LtxtMyReps>דוחות</LtxtMyReps>
+    <LtxtInv>מלאי</LtxtInv>
+    <LtxtSalesOrderCheck>יציאת מלאי</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>כניסת מלאי</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>לקוחות חדשים פתוחים</LtxtClientPendList>
+    <LtxtNewClient>לקוח חדש</LtxtNewClient>
+    <LtxtOpenDocs>מסמכי השיווק שלי</LtxtOpenDocs>
+    <LtxtOpenActivities>פעילויות שלי</LtxtOpenActivities>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtForms>Forms</DtxtForms>
+    <LtxtWelcome>Welcome</LtxtWelcome>
+    <LtxtPendList>My Pending List</LtxtPendList>
+    <LtxtClientSearch>Client Search</LtxtClientSearch>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtMyInbox>My Inbox</LtxtMyInbox>
+    <LtxtMyReps>My Reports</LtxtMyReps>
+    <LtxtInv>Inventory</LtxtInv>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Incoming Inventory Check</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Pending New Clients</LtxtClientPendList>
+    <LtxtNewClient>New Client</LtxtNewClient>
+    <LtxtOpenDocs>My Documents</LtxtOpenDocs>
+    <LtxtOpenActivities>My Activities</LtxtOpenActivities>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtForms>Formulários</DtxtForms>
+    <LtxtWelcome>Bem vindo</LtxtWelcome>
+    <LtxtPendList>Minha Lista de Pendencias</LtxtPendList>
+    <LtxtClientSearch>Busca de Cliente</LtxtClientSearch>
+    <LtxtInvRecount>Recontagem de Estoque</LtxtInvRecount>
+    <LtxtMyInbox>Minha Caixa de Entrada</LtxtMyInbox>
+    <LtxtMyReps>Meus Relatórios</LtxtMyReps>
+    <LtxtInv>Estoque</LtxtInv>
+    <LtxtSalesOrderCheck>Revisão de Saída de Estoque</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Revisão de Entrada de Estoque</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Novos Clientes Pendentes</LtxtClientPendList>
+    <LtxtNewClient>Novo Cliente</LtxtNewClient>
+    <LtxtOpenDocs>Meus Documentos</LtxtOpenDocs>
+    <LtxtOpenActivities>Minhas Atividades</LtxtOpenActivities>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtMyInbox>&lt;--&gt;</LtxtMyInbox>
+    <LtxtMyReps>&lt;--&gt;</LtxtMyReps>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>&lt;--&gt;</LtxtClientPendList>
+    <LtxtNewClient>&lt;--&gt;</LtxtNewClient>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtForms>Formulare</DtxtForms>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtMyInbox>&lt;--&gt;</LtxtMyInbox>
+    <LtxtMyReps>&lt;--&gt;</LtxtMyReps>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>&lt;--&gt;</LtxtClientPendList>
+    <LtxtNewClient>&lt;--&gt;</LtxtNewClient>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtForms>Формы</DtxtForms>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtMyInbox>&lt;--&gt;</LtxtMyInbox>
+    <LtxtMyReps>&lt;--&gt;</LtxtMyReps>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>&lt;--&gt;</LtxtClientPendList>
+    <LtxtNewClient>&lt;--&gt;</LtxtNewClient>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtForms>Formuláře</DtxtForms>
+    <LtxtWelcome>Uvítání</LtxtWelcome>
+    <LtxtPendList>Můj seznam nevyřízených</LtxtPendList>
+    <LtxtClientSearch>Vyhledávání klientů</LtxtClientSearch>
+    <LtxtInvRecount>Přepočítání zásob</LtxtInvRecount>
+    <LtxtMyInbox>Moje Schránka</LtxtMyInbox>
+    <LtxtMyReps>Moje reporty</LtxtMyReps>
+    <LtxtInv>Zásoby</LtxtInv>
+    <LtxtSalesOrderCheck>Kontrola odchozích zásob</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Kontrola příchozích zásob</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Nevyřízené - Noví klienti</LtxtClientPendList>
+    <LtxtNewClient>Nový klient</LtxtNewClient>
+    <LtxtOpenDocs>Moje dokumenty</LtxtOpenDocs>
+    <LtxtOpenActivities>Moje aktivity</LtxtOpenActivities>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtForms>Formularze</DtxtForms>
+    <LtxtWelcome>Witamy</LtxtWelcome>
+    <LtxtPendList>Moja lista oczekujących/ w toku</LtxtPendList>
+    <LtxtClientSearch>Poszukiwanie klienta</LtxtClientSearch>
+    <LtxtInvRecount>Opis zapasu</LtxtInvRecount>
+    <LtxtMyInbox>Moja skrzynka</LtxtMyInbox>
+    <LtxtMyReps>Moje raporty </LtxtMyReps>
+    <LtxtInv>Zapas</LtxtInv>
+    <LtxtSalesOrderCheck>Sprawdzenie zapasu wychodzącego</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Sprawdzenie zapasu wchodzącego</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Oczekujący nowi klienci</LtxtClientPendList>
+    <LtxtNewClient>Nowy klient</LtxtNewClient>
+    <LtxtOpenDocs>Moje dokumenty</LtxtOpenDocs>
+    <LtxtOpenActivities>Moje działania</LtxtOpenActivities>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtForms>Formuláre</DtxtForms>
+    <LtxtWelcome>Vitajte</LtxtWelcome>
+    <LtxtPendList>Môj Zoznam čakajúcich</LtxtPendList>
+    <LtxtClientSearch>Vyhľadávanie klientov</LtxtClientSearch>
+    <LtxtInvRecount>Prepočet inventáru</LtxtInvRecount>
+    <LtxtMyInbox>Moja Doručená pošta</LtxtMyInbox>
+    <LtxtMyReps>Moje Správy</LtxtMyReps>
+    <LtxtInv>Inventár</LtxtInv>
+    <LtxtSalesOrderCheck>Kontrola odchádzajúceho inventáru</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Kontrola prichádzajúceho inventáru</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>Čakajúci noví klienti</LtxtClientPendList>
+    <LtxtNewClient>Nový klient</LtxtNewClient>
+    <LtxtOpenDocs>Moje Dokumenty</LtxtOpenDocs>
+    <LtxtOpenActivities>Moje Aktivity</LtxtOpenActivities>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtMyInbox>&lt;--&gt;</LtxtMyInbox>
+    <LtxtMyReps>&lt;--&gt;</LtxtMyReps>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>&lt;--&gt;</LtxtClientPendList>
+    <LtxtNewClient>&lt;--&gt;</LtxtNewClient>
+    <LtxtOpenDocs>&lt;--&gt;</LtxtOpenDocs>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtForms>DtxtForms</DtxtForms>
+    <LtxtWelcome>LtxtWelcome</LtxtWelcome>
+    <LtxtPendList>LtxtPendList</LtxtPendList>
+    <LtxtClientSearch>LtxtClientSearch</LtxtClientSearch>
+    <LtxtInvRecount>LtxtInvRecount</LtxtInvRecount>
+    <LtxtMyInbox>LtxtMyInbox</LtxtMyInbox>
+    <LtxtMyReps>LtxtMyReps</LtxtMyReps>
+    <LtxtInv>LtxtInv</LtxtInv>
+    <LtxtSalesOrderCheck>LtxtSalesOrderCheck</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>LtxtPurchaseOrderChec</LtxtPurchaseOrderChec>
+    <LtxtClientPendList>LtxtClientPendList</LtxtClientPendList>
+    <LtxtNewClient>LtxtNewClient</LtxtNewClient>
+    <LtxtOpenDocs>LtxtOpenDocs</LtxtOpenDocs>
+    <LtxtOpenActivities>LtxtOpenActivities</LtxtOpenActivities>
+  </language>
+</languages>

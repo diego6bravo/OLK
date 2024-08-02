@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtDataError>Data Error: </DtxtDataError>
+    <DtxtUnknown>Unknown</DtxtUnknown>
+    <LtxtShopCart>Shopping Cart #{0}&lt;br&gt;Edit Line {1}</LtxtShopCart>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtPredNotes>Predefined Notes</LtxtPredNotes>
+    <LtxtDisNotes>Notes disabled</LtxtDisNotes>
+    <LtxtValItmQty>This warehouse does not have enough quantity available</LtxtValItmQty>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>The database setting where not found in OBServer Emulator, this must set them before you can continue. </LtxtDBObsErr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtDataError>Error de datos: </DtxtDataError>
+    <DtxtUnknown>Desconocido</DtxtUnknown>
+    <LtxtShopCart>Canasta de Compras #{0}&lt;br&gt;Edición de Línea {1}</LtxtShopCart>
+    <LtxtVatGrp>Grupo de Impuesto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Impuesto</LtxtTaxCode>
+    <LtxtPredNotes>Notas Predeterminadas</LtxtPredNotes>
+    <LtxtDisNotes>Notas deshabilitadas</LtxtDisNotes>
+    <LtxtValItmQty>Esta bodega no tiene disponible la cantidad que desea vender</LtxtValItmQty>
+    <LtxtMaxDiscount>El descuento no puede ser mayor que {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>La base de datos debe estar configurada en OBServer Emulator para poder continuar.</LtxtDBObsErr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtDataError>תקלה בנתונים:</DtxtDataError>
+    <DtxtUnknown>לא ידועה</DtxtUnknown>
+    <LtxtShopCart>סל קניות {0}#&lt;br&gt;ערוך שורה {1}#</LtxtShopCart>
+    <LtxtVatGrp>קבוצת מע"מ</LtxtVatGrp>
+    <LtxtTaxCode>קוד קבוצת מע"מ</LtxtTaxCode>
+    <LtxtPredNotes>הערות לשורה ברירת מחדל</LtxtPredNotes>
+    <LtxtDisNotes>הערות - לא פעיל</LtxtDisNotes>
+    <LtxtValItmQty>אין מלאי זמין במחסן שבחרת למכירה</LtxtValItmQty>
+    <LtxtMaxDiscount>ההנחה המקסימלית היא %{0}</LtxtMaxDiscount>
+    <LtxtDBObsErr>בסיס בנתונים לא נימצא מקושר לOBSERVER EMULATOR, יש לקשר את בסיס הנתונים לפני שתוכל להמשיך להשתמש במערכת.</LtxtDBObsErr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtDataError>Data Error: </DtxtDataError>
+    <DtxtUnknown>Unknown</DtxtUnknown>
+    <LtxtShopCart>Shopping Cart #{0}&lt;br&gt;Edit Line {1}</LtxtShopCart>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtPredNotes>Predefined Notes</LtxtPredNotes>
+    <LtxtDisNotes>Notes disabled</LtxtDisNotes>
+    <LtxtValItmQty>This warehouse does not have enough quantity available</LtxtValItmQty>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>The database setting where not found in OBServer Emulator, this must set them before you can continue. </LtxtDBObsErr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtDataError>Erro de dados:</DtxtDataError>
+    <DtxtUnknown>Desconhecido</DtxtUnknown>
+    <LtxtShopCart>Carrinho de Compras Nº {0} &lt;br&gt;Edição de Linha {1}</LtxtShopCart>
+    <LtxtVatGrp>Grupo de Imposto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Imposto</LtxtTaxCode>
+    <LtxtPredNotes>Notas Predeterminadas</LtxtPredNotes>
+    <LtxtDisNotes>Notas desabilitadas</LtxtDisNotes>
+    <LtxtValItmQty>Este armazém não tem disponível a quantidade que deseja vender</LtxtValItmQty>
+    <LtxtMaxDiscount>O desconto não pode ser maior que {0} %</LtxtMaxDiscount>
+    <LtxtDBObsErr>A base de dados deve estar configurada no OBServer Emulator para poder continuar.</LtxtDBObsErr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtDataError>&lt;--&gt;</DtxtDataError>
+    <DtxtUnknown>&lt;--&gt;</DtxtUnknown>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtVatGrp>Groupe d'impôt</LtxtVatGrp>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+    <LtxtPredNotes>Notes prédeterminées</LtxtPredNotes>
+    <LtxtDisNotes>Notes épuisées</LtxtDisNotes>
+    <LtxtValItmQty>Cet entrepôt n'a pas la quantité disponible à vendre</LtxtValItmQty>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtDBObsErr>&lt;--&gt;</LtxtDBObsErr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtDataError>Daten Fehler:</DtxtDataError>
+    <DtxtUnknown>Unbekannt</DtxtUnknown>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtVatGrp>MwSt. Gruppe</LtxtVatGrp>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+    <LtxtPredNotes>Vordefinierte Notizen</LtxtPredNotes>
+    <LtxtDisNotes>Notizen deaktiviert</LtxtDisNotes>
+    <LtxtValItmQty>Dieses Lager verfügt nicht über diese Menge</LtxtValItmQty>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtDBObsErr>&lt;--&gt;</LtxtDBObsErr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtDataError>Ошибочные данные:</DtxtDataError>
+    <DtxtUnknown>Неизвестна</DtxtUnknown>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtVatGrp>&lt;--&gt;</LtxtVatGrp>
+    <LtxtTaxCode>&lt;--&gt;</LtxtTaxCode>
+    <LtxtPredNotes>&lt;--&gt;</LtxtPredNotes>
+    <LtxtDisNotes>&lt;--&gt;</LtxtDisNotes>
+    <LtxtValItmQty>&lt;--&gt;</LtxtValItmQty>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtDBObsErr>&lt;--&gt;</LtxtDBObsErr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtDataError>Chybná data:</DtxtDataError>
+    <DtxtUnknown>Neznámé</DtxtUnknown>
+    <LtxtShopCart>Nákupní košík #{0}&lt;br&gt;Upravit řádku {1}</LtxtShopCart>
+    <LtxtVatGrp>Skupina DPH</LtxtVatGrp>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+    <LtxtPredNotes>Předdefinované poznámky</LtxtPredNotes>
+    <LtxtDisNotes>Poznámky deaktivovány</LtxtDisNotes>
+    <LtxtValItmQty>Tento sklad nemá dostatečné dostupné množství</LtxtValItmQty>
+    <LtxtMaxDiscount>Sleva nemůže být víc než {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>Nastavení databáze nebyla nalezena v emulátoru OBServer. Ta musí být nastavena, abyste mohl/a pokračovat</LtxtDBObsErr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtDataError>Błąd w danych:</DtxtDataError>
+    <DtxtUnknown>Nieznany</DtxtUnknown>
+    <LtxtShopCart>Koszyk #{0}  Edytuj wiersz {1}</LtxtShopCart>
+    <LtxtVatGrp>Grupa podatkowa</LtxtVatGrp>
+    <LtxtTaxCode>Kod podatkowy</LtxtTaxCode>
+    <LtxtPredNotes>Notatki wcześniej zdefiniowane</LtxtPredNotes>
+    <LtxtDisNotes>Notatki - zablokowane</LtxtDisNotes>
+    <LtxtValItmQty>Magazyn nie posiada dostępnej wystarczającej ilości  </LtxtValItmQty>
+    <LtxtMaxDiscount>Rabat nie może być większy niż {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>Ustawienia bazy danych nie zostały znalezione w OBServer Emulator, trzeba je ustawić zanim będziesz mógł kontynuować</LtxtDBObsErr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtDataError>Chyba dát:</DtxtDataError>
+    <DtxtUnknown>Neznáme</DtxtUnknown>
+    <LtxtShopCart>Nákupný košík #{0}&lt;br&gt;Editovať riadok {1}</LtxtShopCart>
+    <LtxtVatGrp>Daňová skupina</LtxtVatGrp>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+    <LtxtPredNotes>Predvolené poznámky</LtxtPredNotes>
+    <LtxtDisNotes>Poznámky zablokované</LtxtDisNotes>
+    <LtxtValItmQty>Tento sklad nemá dostatočné dostupné množstvo</LtxtValItmQty>
+    <LtxtMaxDiscount>Zľava nemôže byť väčšia ako {0}%</LtxtMaxDiscount>
+    <LtxtDBObsErr>Nastavenie databázy nebolo nájdené v OBServer Emulator, musia sa nastaviť predtým, ako môžete pokračovať.</LtxtDBObsErr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtValFldMaxChar>&lt;--&gt;</DtxtValFldMaxChar>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtValNumValWhole>&lt;--&gt;</DtxtValNumValWhole>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtDiscount>&lt;--&gt;</DtxtDiscount>
+    <DtxtDataError>&lt;--&gt;</DtxtDataError>
+    <DtxtUnknown>&lt;--&gt;</DtxtUnknown>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtVatGrp>&lt;--&gt;</LtxtVatGrp>
+    <LtxtTaxCode>&lt;--&gt;</LtxtTaxCode>
+    <LtxtPredNotes>&lt;--&gt;</LtxtPredNotes>
+    <LtxtDisNotes>&lt;--&gt;</LtxtDisNotes>
+    <LtxtValItmQty>&lt;--&gt;</LtxtValItmQty>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtDBObsErr>&lt;--&gt;</LtxtDBObsErr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtDataError>DtxtDataError</DtxtDataError>
+    <DtxtUnknown>DtxtUnknown</DtxtUnknown>
+    <LtxtShopCart>LtxtShopCart</LtxtShopCart>
+    <LtxtVatGrp>LtxtVatGrp</LtxtVatGrp>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+    <LtxtPredNotes>LtxtPredNotes</LtxtPredNotes>
+    <LtxtDisNotes>LtxtDisNotes</LtxtDisNotes>
+    <LtxtValItmQty>LtxtValItmQty</LtxtValItmQty>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtDBObsErr>LtxtDBObsErr</LtxtDBObsErr>
+  </language>
+</languages>

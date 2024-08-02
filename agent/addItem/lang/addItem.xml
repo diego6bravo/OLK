@@ -1,0 +1,987 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtError>Error</DtxtError>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtUDT>User Defined Table</DtxtUDT>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtCodeExists>The code you entered has already been used</DtxtCodeExists>
+    <DtxtFather>Father</DtxtFather>
+    <DtxtComponent>Component</DtxtComponent>
+    <DtxtShow>Show</DtxtShow>
+    <DtxtAllowChange>Allow Change</DtxtAllowChange>
+    <DtxtLastPurPrice>Last purchase price</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Last evaluated price</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <LttlNewItm>New Item</LttlNewItm>
+    <LtxtConfCancelItm>Are you sure you want to delete this item?</LtxtConfCancelItm>
+    <LtxtDesc1>Description 1</LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Purchase Unit</LtxtPurUn>
+    <LtxtSalUn>Sales Unit</LtxtSalUn>
+    <LtxtPurPackUn>Purchase Pack Unit</LtxtPurPackUn>
+    <LtxtSalPackUn>Sales Pack Unit</LtxtSalPackUn>
+    <LtxtPurItem>Purchase</LtxtPurItem>
+    <LtxtSalItem>Sales</LtxtSalItem>
+    <LtxtInvItem>Inventory</LtxtInvItem>
+    <LtxtNoGrp>Without group</LtxtNoGrp>
+    <LtxtValItmCod>Please enter the item code</LtxtValItmCod>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtOlkCmb>OLK Combo</LtxtOlkCmb>
+    <LtxtCmbData>Combo Data</LtxtCmbData>
+    <LtxtCmbShowComp>Show Components</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Manage cost by</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Father Price</LtxtFatherPrice>
+    <LtxtCostPriceList>Cost price list</LtxtCostPriceList>
+    <LtxtSystemCost>System price list</LtxtSystemCost>
+    <LtxtCompPrice>Components Price</LtxtCompPrice>
+    <LtxtSalePriceList>Sales price list</LtxtSalePriceList>
+    <LtxtClientPList>BP price list</LtxtClientPList>
+    <LtxtCmbComps>Combo Components</LtxtCmbComps>
+    <LtxtMandatory>Mandatory</LtxtMandatory>
+    <LtxtAddComp>Add Component</LtxtAddComp>
+    <LtxtAlternative>Filter</LtxtAlternative>
+    <LtxtConfRemComp>Are you sure you want to remove the component?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Edit component filters</LtxtEditCmpFilters>
+    <LtxtAddField>Add Field</LtxtAddField>
+    <LtxtAlterImages>Show alternative items image</LtxtAlterImages>
+    <LtxtValFatComPrc>You must check "Show price of father" or "Show price of components"</LtxtValFatComPrc>
+    <LtxtValComp>You must add at least one component</LtxtValComp>
+    <LtxtValCompVals>You have components without values; you must select an item or apply alternative filters</LtxtValCompVals>
+    <LtxtAlterFilters>Alternative Item Filters</LtxtAlterFilters>
+    <LtxtDiscPrcnt>Discount %</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Virtual Combo</LtxtVirtualCmb>
+    <LtxtValShowPrice>You must show the price of that father or the components</LtxtValShowPrice>
+    <LttlEditItm>Edit Item</LttlEditItm>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtError>Error</DtxtError>
+    <DtxtLines>Líneas</DtxtLines>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtUDT>Tabla de Usuario</DtxtUDT>
+    <DtxtProp>Propiedades</DtxtProp>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <DtxtCodeExists>El código que introdujo ya fue utilizado</DtxtCodeExists>
+    <DtxtFather>Padre</DtxtFather>
+    <DtxtComponent>Componente</DtxtComponent>
+    <DtxtShow>Mostrar</DtxtShow>
+    <DtxtAllowChange>Permitir Cambio</DtxtAllowChange>
+    <DtxtLastPurPrice>Ultimo precio de compra</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Ultimo precio determinado</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatico</DtxtAutomatic>
+    <LttlNewItm>Nuevo Artículo</LttlNewItm>
+    <LtxtConfCancelItm>¿Está seguro que desea cancelar este artículo?</LtxtConfCancelItm>
+    <LtxtDesc1>Descripción 1</LtxtDesc1>
+    <LtxtDesc2>Descripción 2</LtxtDesc2>
+    <LtxtBarCod>Código de barra</LtxtBarCod>
+    <LtxtPurUn>Un. Compra</LtxtPurUn>
+    <LtxtSalUn>Un. Venta</LtxtSalUn>
+    <LtxtPurPackUn>Un. Empaque en compra</LtxtPurPackUn>
+    <LtxtSalPackUn>Un. Empaque en venta</LtxtSalPackUn>
+    <LtxtPurItem>Compra</LtxtPurItem>
+    <LtxtSalItem>Venta</LtxtSalItem>
+    <LtxtInvItem>Inventario</LtxtInvItem>
+    <LtxtNoGrp>Sin grupo</LtxtNoGrp>
+    <LtxtValItmCod>Debe introducir el código del artículo</LtxtValItmCod>
+    <LtxtValFld>Debe introducir el campo "{0}"</LtxtValFld>
+    <LtxtOlkCmb>Combo OLK</LtxtOlkCmb>
+    <LtxtCmbData>Datos de Combo</LtxtCmbData>
+    <LtxtCmbShowComp>Mostrar Componentes</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Manejar costo por</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Precio Padre</LtxtFatherPrice>
+    <LtxtCostPriceList>Lista de precio costo</LtxtCostPriceList>
+    <LtxtSystemCost>Lista de precio de sistema</LtxtSystemCost>
+    <LtxtCompPrice>Precio de Componentes</LtxtCompPrice>
+    <LtxtSalePriceList>Lista de precio de venta</LtxtSalePriceList>
+    <LtxtClientPList>Lista de precio de SN</LtxtClientPList>
+    <LtxtCmbComps>Componentes de Combo</LtxtCmbComps>
+    <LtxtMandatory>Obligatorio</LtxtMandatory>
+    <LtxtAddComp>Agregar Componente</LtxtAddComp>
+    <LtxtAlternative>Filtro</LtxtAlternative>
+    <LtxtConfRemComp>¿Está seguro que desea eliminar el componente?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Editar filtros de componentes</LtxtEditCmpFilters>
+    <LtxtAddField>Agregar Campo</LtxtAddField>
+    <LtxtAlterImages>Mostrar imagen de artículos alternos</LtxtAlterImages>
+    <LtxtValFatComPrc>Debe marcar "Mostrar precio de padre" o "Mostrar precio de hijos"</LtxtValFatComPrc>
+    <LtxtValComp>Debe agregar al menos un componente</LtxtValComp>
+    <LtxtValCompVals>Tiene componentes sin valores, debe seleccionar un articulo o aplicar filtros alternos</LtxtValCompVals>
+    <LtxtAlterFilters>Filtro de Artículos Alternos</LtxtAlterFilters>
+    <LtxtDiscPrcnt>% Descuento</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Combo Virtual</LtxtVirtualCmb>
+    <LtxtValShowPrice>Debe mostrar el precio del padre o de los componentes</LtxtValShowPrice>
+    <LttlEditItm>Editar Artículo</LttlEditItm>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtLines>שורות</DtxtLines>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtUDT>טבלאות משתמש</DtxtUDT>
+    <DtxtProp>מאפיינים</DtxtProp>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <DtxtCodeExists>הקוד שהקשת כבר קיים במערכת.</DtxtCodeExists>
+    <DtxtFather>אב</DtxtFather>
+    <DtxtComponent>רכיב</DtxtComponent>
+    <DtxtShow>הצג</DtxtShow>
+    <DtxtAllowChange>אפשר שינוי</DtxtAllowChange>
+    <DtxtLastPurPrice>מחיר אחרון קניה</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>מחיר אחרון שחושב</DtxtLastEvalPrice>
+    <DtxtAutomatic>אוטומטי</DtxtAutomatic>
+    <LttlNewItm>פריט חדש</LttlNewItm>
+    <LtxtConfCancelItm>האם למחוק פריט?</LtxtConfCancelItm>
+    <LtxtDesc1>תאור 1</LtxtDesc1>
+    <LtxtDesc2>תאור 2</LtxtDesc2>
+    <LtxtBarCod>בר קוד</LtxtBarCod>
+    <LtxtPurUn>יח' קניה</LtxtPurUn>
+    <LtxtSalUn>יח' מכירה</LtxtSalUn>
+    <LtxtPurPackUn>יח' אריזה קניה</LtxtPurPackUn>
+    <LtxtSalPackUn>יח' אריזה מכירה</LtxtSalPackUn>
+    <LtxtPurItem>קנה</LtxtPurItem>
+    <LtxtSalItem>מכירה</LtxtSalItem>
+    <LtxtInvItem>מלאי</LtxtInvItem>
+    <LtxtNoGrp>ללא קבוצה</LtxtNoGrp>
+    <LtxtValItmCod>יש לתת מקט לפריט</LtxtValItmCod>
+    <LtxtValFld>יש למלא שדה "{0}"</LtxtValFld>
+    <LtxtOlkCmb>קומבנציית אולק </LtxtOlkCmb>
+    <LtxtCmbData>נתוניי קומבנציה</LtxtCmbData>
+    <LtxtCmbShowComp>הצג רכיבים</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>ניהול עלות ע"י</LtxtCmbManCstBy>
+    <LtxtFatherPrice>מחיר אב</LtxtFatherPrice>
+    <LtxtCostPriceList>רשימת מחיריי עלות</LtxtCostPriceList>
+    <LtxtSystemCost>רשימת מחיריי מערכת</LtxtSystemCost>
+    <LtxtCompPrice>מחיר הרכיב</LtxtCompPrice>
+    <LtxtSalePriceList>רשימת מחיריי מכירה</LtxtSalePriceList>
+    <LtxtClientPList>מחירון כרטיס</LtxtClientPList>
+    <LtxtCmbComps>קומבנציה של רכיבים</LtxtCmbComps>
+    <LtxtMandatory>דרוש</LtxtMandatory>
+    <LtxtAddComp>הוסף רכיב</LtxtAddComp>
+    <LtxtAlternative>מסנן</LtxtAlternative>
+    <LtxtConfRemComp>האם אתה בטוח שברצונך למחוק רכיב זה?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>ערןך את מסנן הרכיבים</LtxtEditCmpFilters>
+    <LtxtAddField>הוסף שדה</LtxtAddField>
+    <LtxtAlterImages>הצג את תמונת הפריט החילופי</LtxtAlterImages>
+    <LtxtValFatComPrc>עליך לסמן "הצג מחיר אב" או "הצג מחיר בנים"</LtxtValFatComPrc>
+    <LtxtValComp>עליך להוסיף לפחות רכיב אחד</LtxtValComp>
+    <LtxtValCompVals>קיימים רכיבים ללא ערך, נא בחר פריט או הוסף מסנן חילופי</LtxtValCompVals>
+    <LtxtAlterFilters>מסנן פריטים חלופיים</LtxtAlterFilters>
+    <LtxtDiscPrcnt>% הנחה</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>קומבנציה וירטואלית</LtxtVirtualCmb>
+    <LtxtValShowPrice>עליך להציג את מחיר האב של הרכיבים</LtxtValShowPrice>
+    <LttlEditItm>ערוך פריט</LttlEditItm>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtError>Error</DtxtError>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtUDT>User Defined Table</DtxtUDT>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtCodeExists>The code you entered has already been used</DtxtCodeExists>
+    <DtxtFather>Father</DtxtFather>
+    <DtxtComponent>Component</DtxtComponent>
+    <DtxtShow>Show</DtxtShow>
+    <DtxtAllowChange>Allow Change</DtxtAllowChange>
+    <DtxtLastPurPrice>Last purchase price</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Average sales price</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <LttlNewItm>New Item</LttlNewItm>
+    <LtxtConfCancelItm>Are you sure you want to delete this item?</LtxtConfCancelItm>
+    <LtxtDesc1>Description 1</LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Purchase Unit</LtxtPurUn>
+    <LtxtSalUn>Sales Unit</LtxtSalUn>
+    <LtxtPurPackUn>Purchase Pack Unit</LtxtPurPackUn>
+    <LtxtSalPackUn>Sales Pack Unit</LtxtSalPackUn>
+    <LtxtPurItem>Purchase</LtxtPurItem>
+    <LtxtSalItem>Sales</LtxtSalItem>
+    <LtxtInvItem>Inventory</LtxtInvItem>
+    <LtxtNoGrp>Without group</LtxtNoGrp>
+    <LtxtValItmCod>Please enter the item code</LtxtValItmCod>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtOlkCmb>OLK Combo</LtxtOlkCmb>
+    <LtxtCmbData>Combo Data</LtxtCmbData>
+    <LtxtCmbShowComp>Show Components</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Manage cost by</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Father Price</LtxtFatherPrice>
+    <LtxtCostPriceList>Cost price list</LtxtCostPriceList>
+    <LtxtSystemCost>System price list</LtxtSystemCost>
+    <LtxtCompPrice>Components Price</LtxtCompPrice>
+    <LtxtSalePriceList>Sales price list</LtxtSalePriceList>
+    <LtxtClientPList>BP price list</LtxtClientPList>
+    <LtxtCmbComps>Combo Components</LtxtCmbComps>
+    <LtxtMandatory>Mandatory</LtxtMandatory>
+    <LtxtAddComp>Add Component</LtxtAddComp>
+    <LtxtAlternative>Filter</LtxtAlternative>
+    <LtxtConfRemComp>Are you sure you want to remove the component?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Edit component filters</LtxtEditCmpFilters>
+    <LtxtAddField>Add Field</LtxtAddField>
+    <LtxtAlterImages>Show alternative items image</LtxtAlterImages>
+    <LtxtValFatComPrc>You must check "Show price of father" or "Show price of components"</LtxtValFatComPrc>
+    <LtxtValComp>You must add at least one component</LtxtValComp>
+    <LtxtValCompVals>You have components without values; you must select an item or apply alternative filters</LtxtValCompVals>
+    <LtxtAlterFilters>Alternative Item Filters</LtxtAlterFilters>
+    <LtxtDiscPrcnt>Discount %</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Virtual Combo</LtxtVirtualCmb>
+    <LtxtValShowPrice>You must show the price of that father or the components</LtxtValShowPrice>
+    <LttlEditItm>Edit Item</LttlEditItm>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Armazem</DtxtWarehouse>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtError>Erro</DtxtError>
+    <DtxtLines>Linhas</DtxtLines>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtUDT>Tabela de Usuário</DtxtUDT>
+    <DtxtProp>Propriedades</DtxtProp>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <DtxtCodeExists>O código informado ja foi utilizado</DtxtCodeExists>
+    <DtxtFather>Pai</DtxtFather>
+    <DtxtComponent>Componente</DtxtComponent>
+    <DtxtShow>Exibir</DtxtShow>
+    <DtxtAllowChange>Permitir troca</DtxtAllowChange>
+    <DtxtLastPurPrice>Ultimo preço de compra</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Último preço determinado</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automático</DtxtAutomatic>
+    <LttlNewItm>Novo Item</LttlNewItm>
+    <LtxtConfCancelItm>Tem certeza que deseja excluir este item?</LtxtConfCancelItm>
+    <LtxtDesc1>Descrição 1</LtxtDesc1>
+    <LtxtDesc2>Descrição 2</LtxtDesc2>
+    <LtxtBarCod>Código de barra</LtxtBarCod>
+    <LtxtPurUn>Un. Compra</LtxtPurUn>
+    <LtxtSalUn>Un. Venda</LtxtSalUn>
+    <LtxtPurPackUn>Un. Embalagem em compra</LtxtPurPackUn>
+    <LtxtSalPackUn>Un. Embalagen em venda</LtxtSalPackUn>
+    <LtxtPurItem>Compra</LtxtPurItem>
+    <LtxtSalItem>Venda</LtxtSalItem>
+    <LtxtInvItem>Estoque</LtxtInvItem>
+    <LtxtNoGrp>Sem grupo</LtxtNoGrp>
+    <LtxtValItmCod>Deve inserir o código do item</LtxtValItmCod>
+    <LtxtValFld>Deve introduzir o campo "{0}"</LtxtValFld>
+    <LtxtOlkCmb>Combinação OLK</LtxtOlkCmb>
+    <LtxtCmbData>Dados de Combinação</LtxtCmbData>
+    <LtxtCmbShowComp>Mostrar Componentes</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Gerenciar custos por</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Preço do produto</LtxtFatherPrice>
+    <LtxtCostPriceList>Lista de preço de custo</LtxtCostPriceList>
+    <LtxtSystemCost>Lista de preço do sistema</LtxtSystemCost>
+    <LtxtCompPrice>Preço de Componentes</LtxtCompPrice>
+    <LtxtSalePriceList>Lista de preço de venda</LtxtSalePriceList>
+    <LtxtClientPList>Lista de preço de PN</LtxtClientPList>
+    <LtxtCmbComps>Componentes de Combinação</LtxtCmbComps>
+    <LtxtMandatory>Obrigatório</LtxtMandatory>
+    <LtxtAddComp>Adicionar Componente</LtxtAddComp>
+    <LtxtAlternative>Filtro</LtxtAlternative>
+    <LtxtConfRemComp>Tem certeza que deseja excluir o componente ?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Editar filtros de componentes</LtxtEditCmpFilters>
+    <LtxtAddField>Adicionar Campo</LtxtAddField>
+    <LtxtAlterImages>Mostrar imagem de item alternativo</LtxtAlterImages>
+    <LtxtValFatComPrc>Você deve marcar "Mostrar preço do produto" ou "Mostrar preço do componente"</LtxtValFatComPrc>
+    <LtxtValComp>Você deve adicionar pelo menos um componente</LtxtValComp>
+    <LtxtValCompVals>Você tem componentes sem valores, você deve selecionar um item e aplicar filtros alternativos</LtxtValCompVals>
+    <LtxtAlterFilters>Filtro de Itens Alternativos</LtxtAlterFilters>
+    <LtxtDiscPrcnt>% Desconto</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Combinação Virtual</LtxtVirtualCmb>
+    <LtxtValShowPrice>Você deve mostrar o preço do produto ou dos componentes</LtxtValShowPrice>
+    <LttlEditItm>Editar Item</LttlEditItm>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtLines>Lignes</DtxtLines>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtUDT>&lt;--&gt;</DtxtUDT>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtCodeExists>&lt;--&gt;</DtxtCodeExists>
+    <DtxtFather>&lt;--&gt;</DtxtFather>
+    <DtxtComponent>&lt;--&gt;</DtxtComponent>
+    <DtxtShow>&lt;--&gt;</DtxtShow>
+    <DtxtAllowChange>&lt;--&gt;</DtxtAllowChange>
+    <DtxtLastPurPrice>&lt;--&gt;</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>&lt;--&gt;</DtxtLastEvalPrice>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewItm>Nouveau article</LttlNewItm>
+    <LtxtConfCancelItm>Êtes-vous sûre d\'annuler cet article?</LtxtConfCancelItm>
+    <LtxtDesc1>Description 1</LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barre-code</LtxtBarCod>
+    <LtxtPurUn>Unité d'achat</LtxtPurUn>
+    <LtxtSalUn>Unité des Ventes</LtxtSalUn>
+    <LtxtPurPackUn>Unité d'emballage d'achat</LtxtPurPackUn>
+    <LtxtSalPackUn>Unité d'emballage des ventes</LtxtSalPackUn>
+    <LtxtPurItem>Achat</LtxtPurItem>
+    <LtxtSalItem>Ventes</LtxtSalItem>
+    <LtxtInvItem>Inventaire</LtxtInvItem>
+    <LtxtNoGrp>Sans groupe</LtxtNoGrp>
+    <LtxtValItmCod>Devez-vous insérer le code d\'article</LtxtValItmCod>
+    <LtxtValFld>Devez-vous insérer le domaine "{0}"</LtxtValFld>
+    <LtxtOlkCmb>&lt;--&gt;</LtxtOlkCmb>
+    <LtxtCmbData>&lt;--&gt;</LtxtCmbData>
+    <LtxtCmbShowComp>&lt;--&gt;</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>&lt;--&gt;</LtxtCmbManCstBy>
+    <LtxtFatherPrice>&lt;--&gt;</LtxtFatherPrice>
+    <LtxtCostPriceList>&lt;--&gt;</LtxtCostPriceList>
+    <LtxtSystemCost>&lt;--&gt;</LtxtSystemCost>
+    <LtxtCompPrice>&lt;--&gt;</LtxtCompPrice>
+    <LtxtSalePriceList>&lt;--&gt;</LtxtSalePriceList>
+    <LtxtClientPList>&lt;--&gt;</LtxtClientPList>
+    <LtxtCmbComps>&lt;--&gt;</LtxtCmbComps>
+    <LtxtMandatory>&lt;--&gt;</LtxtMandatory>
+    <LtxtAddComp>&lt;--&gt;</LtxtAddComp>
+    <LtxtAlternative>&lt;--&gt;</LtxtAlternative>
+    <LtxtConfRemComp>&lt;--&gt;</LtxtConfRemComp>
+    <LtxtEditCmpFilters>&lt;--&gt;</LtxtEditCmpFilters>
+    <LtxtAddField>&lt;--&gt;</LtxtAddField>
+    <LtxtAlterImages>&lt;--&gt;</LtxtAlterImages>
+    <LtxtValFatComPrc>&lt;--&gt;</LtxtValFatComPrc>
+    <LtxtValComp>&lt;--&gt;</LtxtValComp>
+    <LtxtValCompVals>&lt;--&gt;</LtxtValCompVals>
+    <LtxtAlterFilters>&lt;--&gt;</LtxtAlterFilters>
+    <LtxtDiscPrcnt>&lt;--&gt;</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>&lt;--&gt;</LtxtVirtualCmb>
+    <LtxtValShowPrice>&lt;--&gt;</LtxtValShowPrice>
+    <LttlEditItm>&lt;--&gt;</LttlEditItm>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtLines>Zeilen</DtxtLines>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtUDT>Benutzerdefinierte Tabelle</DtxtUDT>
+    <DtxtProp>Eigenschaften</DtxtProp>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <DtxtCodeExists>Der Kode den Sie eingegeben haben wurde bereits benutzt</DtxtCodeExists>
+    <DtxtFather>Vater</DtxtFather>
+    <DtxtComponent>Teil</DtxtComponent>
+    <DtxtShow>Anzeigen</DtxtShow>
+    <DtxtAllowChange>Änderung Erlauben</DtxtAllowChange>
+    <DtxtLastPurPrice>Letzter Kaufpreis</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Letzte Preisbewertung</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatisch</DtxtAutomatic>
+    <LttlNewItm>Neuer Artikel</LttlNewItm>
+    <LtxtConfCancelItm>Möchten Sie diesen Artikel wirklich löschen?</LtxtConfCancelItm>
+    <LtxtDesc1>Beschreibung 1</LtxtDesc1>
+    <LtxtDesc2>Beschreibung 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Kaufeinheit</LtxtPurUn>
+    <LtxtSalUn>Verkaufseinheit</LtxtSalUn>
+    <LtxtPurPackUn>Bündeleinheit kaufen</LtxtPurPackUn>
+    <LtxtSalPackUn>Verkaufs Bündeleinheit</LtxtSalPackUn>
+    <LtxtPurItem>Ankauf</LtxtPurItem>
+    <LtxtSalItem>Verkauf</LtxtSalItem>
+    <LtxtInvItem>Inventur</LtxtInvItem>
+    <LtxtNoGrp>Ohne Gruppe</LtxtNoGrp>
+    <LtxtValItmCod>Bitte geben Sie das Artikelkennzeichen ein</LtxtValItmCod>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+    <LtxtOlkCmb>&lt;--&gt;</LtxtOlkCmb>
+    <LtxtCmbData>&lt;--&gt;</LtxtCmbData>
+    <LtxtCmbShowComp>&lt;--&gt;</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>&lt;--&gt;</LtxtCmbManCstBy>
+    <LtxtFatherPrice>&lt;--&gt;</LtxtFatherPrice>
+    <LtxtCostPriceList>&lt;--&gt;</LtxtCostPriceList>
+    <LtxtSystemCost>&lt;--&gt;</LtxtSystemCost>
+    <LtxtCompPrice>&lt;--&gt;</LtxtCompPrice>
+    <LtxtSalePriceList>&lt;--&gt;</LtxtSalePriceList>
+    <LtxtClientPList>&lt;--&gt;</LtxtClientPList>
+    <LtxtCmbComps>&lt;--&gt;</LtxtCmbComps>
+    <LtxtMandatory>&lt;--&gt;</LtxtMandatory>
+    <LtxtAddComp>&lt;--&gt;</LtxtAddComp>
+    <LtxtAlternative>&lt;--&gt;</LtxtAlternative>
+    <LtxtConfRemComp>&lt;--&gt;</LtxtConfRemComp>
+    <LtxtEditCmpFilters>&lt;--&gt;</LtxtEditCmpFilters>
+    <LtxtAddField>&lt;--&gt;</LtxtAddField>
+    <LtxtAlterImages>&lt;--&gt;</LtxtAlterImages>
+    <LtxtValFatComPrc>&lt;--&gt;</LtxtValFatComPrc>
+    <LtxtValComp>&lt;--&gt;</LtxtValComp>
+    <LtxtValCompVals>&lt;--&gt;</LtxtValCompVals>
+    <LtxtAlterFilters>&lt;--&gt;</LtxtAlterFilters>
+    <LtxtDiscPrcnt>&lt;--&gt;</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>&lt;--&gt;</LtxtVirtualCmb>
+    <LtxtValShowPrice>&lt;--&gt;</LtxtValShowPrice>
+    <LttlEditItm>&lt;--&gt;</LttlEditItm>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtLines>Линии</DtxtLines>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtUDT>Используемые таблицы</DtxtUDT>
+    <DtxtProp>Свойства</DtxtProp>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtCodeExists>&lt;--&gt;</DtxtCodeExists>
+    <DtxtFather>&lt;--&gt;</DtxtFather>
+    <DtxtComponent>&lt;--&gt;</DtxtComponent>
+    <DtxtShow>&lt;--&gt;</DtxtShow>
+    <DtxtAllowChange>&lt;--&gt;</DtxtAllowChange>
+    <DtxtLastPurPrice>&lt;--&gt;</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>&lt;--&gt;</DtxtLastEvalPrice>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewItm>Новый элемент</LttlNewItm>
+    <LtxtConfCancelItm>Вы уверены, что хотите удалить эту деталь?</LtxtConfCancelItm>
+    <LtxtDesc1>Описание 1</LtxtDesc1>
+    <LtxtDesc2>Описание 2</LtxtDesc2>
+    <LtxtBarCod>Штрих-код</LtxtBarCod>
+    <LtxtPurUn>Штучные покупки</LtxtPurUn>
+    <LtxtSalUn>Штучные продажи</LtxtSalUn>
+    <LtxtPurPackUn>Единицы упаковки для покупки</LtxtPurPackUn>
+    <LtxtSalPackUn>Единицы упаковки для продажи</LtxtSalPackUn>
+    <LtxtPurItem>Покупка</LtxtPurItem>
+    <LtxtSalItem>Продажа</LtxtSalItem>
+    <LtxtInvItem>Запас</LtxtInvItem>
+    <LtxtNoGrp>Без группы</LtxtNoGrp>
+    <LtxtValItmCod>Дать собственный код штучной покупке</LtxtValItmCod>
+    <LtxtValFld>Пожалуйста, заполнить поле "{0}"</LtxtValFld>
+    <LtxtOlkCmb>&lt;--&gt;</LtxtOlkCmb>
+    <LtxtCmbData>&lt;--&gt;</LtxtCmbData>
+    <LtxtCmbShowComp>&lt;--&gt;</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>&lt;--&gt;</LtxtCmbManCstBy>
+    <LtxtFatherPrice>&lt;--&gt;</LtxtFatherPrice>
+    <LtxtCostPriceList>&lt;--&gt;</LtxtCostPriceList>
+    <LtxtSystemCost>&lt;--&gt;</LtxtSystemCost>
+    <LtxtCompPrice>&lt;--&gt;</LtxtCompPrice>
+    <LtxtSalePriceList>&lt;--&gt;</LtxtSalePriceList>
+    <LtxtClientPList>&lt;--&gt;</LtxtClientPList>
+    <LtxtCmbComps>&lt;--&gt;</LtxtCmbComps>
+    <LtxtMandatory>&lt;--&gt;</LtxtMandatory>
+    <LtxtAddComp>&lt;--&gt;</LtxtAddComp>
+    <LtxtAlternative>&lt;--&gt;</LtxtAlternative>
+    <LtxtConfRemComp>&lt;--&gt;</LtxtConfRemComp>
+    <LtxtEditCmpFilters>&lt;--&gt;</LtxtEditCmpFilters>
+    <LtxtAddField>&lt;--&gt;</LtxtAddField>
+    <LtxtAlterImages>&lt;--&gt;</LtxtAlterImages>
+    <LtxtValFatComPrc>&lt;--&gt;</LtxtValFatComPrc>
+    <LtxtValComp>&lt;--&gt;</LtxtValComp>
+    <LtxtValCompVals>&lt;--&gt;</LtxtValCompVals>
+    <LtxtAlterFilters>&lt;--&gt;</LtxtAlterFilters>
+    <LtxtDiscPrcnt>&lt;--&gt;</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>&lt;--&gt;</LtxtVirtualCmb>
+    <LtxtValShowPrice>&lt;--&gt;</LtxtValShowPrice>
+    <LttlEditItm>&lt;--&gt;</LttlEditItm>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtLines>Řádky</DtxtLines>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtUDT>Tabulka definovaná uživatelem</DtxtUDT>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <DtxtCodeExists>Kód, který jste zadal/a, už je používán</DtxtCodeExists>
+    <DtxtFather>&lt;--&gt;</DtxtFather>
+    <DtxtComponent>&lt;--&gt;</DtxtComponent>
+    <DtxtShow>&lt;--&gt;</DtxtShow>
+    <DtxtAllowChange>&lt;--&gt;</DtxtAllowChange>
+    <DtxtLastPurPrice>&lt;--&gt;</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>&lt;--&gt;</DtxtLastEvalPrice>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewItm>Nová položka</LttlNewItm>
+    <LtxtConfCancelItm>Jste si jistý/á, že chcete vymazat tuto položku?</LtxtConfCancelItm>
+    <LtxtDesc1>Popis 1</LtxtDesc1>
+    <LtxtDesc2>Popis 2</LtxtDesc2>
+    <LtxtBarCod>Čárový kód</LtxtBarCod>
+    <LtxtPurUn>Nákupní jednotka</LtxtPurUn>
+    <LtxtSalUn>Prodejní jednotka</LtxtSalUn>
+    <LtxtPurPackUn>Nákupní jednotka balení</LtxtPurPackUn>
+    <LtxtSalPackUn>Prodejní jednotka balení</LtxtSalPackUn>
+    <LtxtPurItem>Nákup</LtxtPurItem>
+    <LtxtSalItem>Prodej</LtxtSalItem>
+    <LtxtInvItem>Zásoby</LtxtInvItem>
+    <LtxtNoGrp>Bez skupiny</LtxtNoGrp>
+    <LtxtValItmCod>Zadejte prosím kód položky</LtxtValItmCod>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+    <LtxtOlkCmb>&lt;--&gt;</LtxtOlkCmb>
+    <LtxtCmbData>&lt;--&gt;</LtxtCmbData>
+    <LtxtCmbShowComp>&lt;--&gt;</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>&lt;--&gt;</LtxtCmbManCstBy>
+    <LtxtFatherPrice>&lt;--&gt;</LtxtFatherPrice>
+    <LtxtCostPriceList>&lt;--&gt;</LtxtCostPriceList>
+    <LtxtSystemCost>&lt;--&gt;</LtxtSystemCost>
+    <LtxtCompPrice>&lt;--&gt;</LtxtCompPrice>
+    <LtxtSalePriceList>&lt;--&gt;</LtxtSalePriceList>
+    <LtxtClientPList>&lt;--&gt;</LtxtClientPList>
+    <LtxtCmbComps>&lt;--&gt;</LtxtCmbComps>
+    <LtxtMandatory>&lt;--&gt;</LtxtMandatory>
+    <LtxtAddComp>&lt;--&gt;</LtxtAddComp>
+    <LtxtAlternative>&lt;--&gt;</LtxtAlternative>
+    <LtxtConfRemComp>&lt;--&gt;</LtxtConfRemComp>
+    <LtxtEditCmpFilters>&lt;--&gt;</LtxtEditCmpFilters>
+    <LtxtAddField>&lt;--&gt;</LtxtAddField>
+    <LtxtAlterImages>&lt;--&gt;</LtxtAlterImages>
+    <LtxtValFatComPrc>&lt;--&gt;</LtxtValFatComPrc>
+    <LtxtValComp>&lt;--&gt;</LtxtValComp>
+    <LtxtValCompVals>&lt;--&gt;</LtxtValCompVals>
+    <LtxtAlterFilters>&lt;--&gt;</LtxtAlterFilters>
+    <LtxtDiscPrcnt>&lt;--&gt;</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>&lt;--&gt;</LtxtVirtualCmb>
+    <LtxtValShowPrice>&lt;--&gt;</LtxtValShowPrice>
+    <LttlEditItm>&lt;--&gt;</LttlEditItm>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtLines>Wiersze</DtxtLines>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtUDT>Zdefiniowane tabele użytkownika</DtxtUDT>
+    <DtxtProp>Właściwości</DtxtProp>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <DtxtCodeExists>Kod, który wpisałeś był już wykorzystany</DtxtCodeExists>
+    <DtxtFather>Ojciec</DtxtFather>
+    <DtxtComponent>Komponent</DtxtComponent>
+    <DtxtShow>Pokaż</DtxtShow>
+    <DtxtAllowChange>Pozwól na zmianę</DtxtAllowChange>
+    <DtxtLastPurPrice>Ostatnia cena zakupu</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Ostania wyceniona cena</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatyczny</DtxtAutomatic>
+    <LttlNewItm>Nowa pozycja</LttlNewItm>
+    <LtxtConfCancelItm>czy jesteś pewien, że chcesz skasować tę pozycję?</LtxtConfCancelItm>
+    <LtxtDesc1>Opis 1</LtxtDesc1>
+    <LtxtDesc2>Opis 2</LtxtDesc2>
+    <LtxtBarCod>Kod kreskowy</LtxtBarCod>
+    <LtxtPurUn>Jednostka zakupu</LtxtPurUn>
+    <LtxtSalUn>Jednostka sprzedaży</LtxtSalUn>
+    <LtxtPurPackUn>Jednostka pakowania zakupu</LtxtPurPackUn>
+    <LtxtSalPackUn>Jednostka pakowania sprzedaży</LtxtSalPackUn>
+    <LtxtPurItem>Zakup</LtxtPurItem>
+    <LtxtSalItem>Sprzedaż</LtxtSalItem>
+    <LtxtInvItem>Zapas</LtxtInvItem>
+    <LtxtNoGrp>Bez grupy materiałów</LtxtNoGrp>
+    <LtxtValItmCod>Proszę wprowadź kod pozycji</LtxtValItmCod>
+    <LtxtValFld>Proszę wprowadź pole "{0}"</LtxtValFld>
+    <LtxtOlkCmb>Kombinacja OLK</LtxtOlkCmb>
+    <LtxtCmbData>Dane kombinacji</LtxtCmbData>
+    <LtxtCmbShowComp>Pokaż komponenty</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Zarządzaj kosztami poprzez</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Cena pierwotna</LtxtFatherPrice>
+    <LtxtCostPriceList>Cennik kosztów</LtxtCostPriceList>
+    <LtxtSystemCost>Cennik systemu</LtxtSystemCost>
+    <LtxtCompPrice>Cena komponentu</LtxtCompPrice>
+    <LtxtSalePriceList>Cennik sprzedaży</LtxtSalePriceList>
+    <LtxtClientPList>Cennik PB</LtxtClientPList>
+    <LtxtCmbComps>Kombinacja komponentów</LtxtCmbComps>
+    <LtxtMandatory>Obowiązkowy</LtxtMandatory>
+    <LtxtAddComp>Dodaj komponent</LtxtAddComp>
+    <LtxtAlternative>Filtr</LtxtAlternative>
+    <LtxtConfRemComp>Czy jesteś pewien, że chcesz usunąć komponent?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Edytuj filtry komponentów</LtxtEditCmpFilters>
+    <LtxtAddField>Dodaj pole</LtxtAddField>
+    <LtxtAlterImages>Pokaz alternatywne zdjęcie pozycji</LtxtAlterImages>
+    <LtxtValFatComPrc>Musisz sprawdzić "Pokaż cenę ojca" lub "Pokaż cenę komponentów"</LtxtValFatComPrc>
+    <LtxtValComp>Musisz dodać co najmniej jeden komponent</LtxtValComp>
+    <LtxtValCompVals>Są komponenty bez wartości; musisz wybrać pozycje lub zastosować alternatywne filtry</LtxtValCompVals>
+    <LtxtAlterFilters>Alternatywne filtry pozycji</LtxtAlterFilters>
+    <LtxtDiscPrcnt>Rabat %</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Wirtualna kombinacja</LtxtVirtualCmb>
+    <LtxtValShowPrice>Musisz pokazać cenę tego ojca lub komponentów</LtxtValShowPrice>
+    <LttlEditItm>Edytuj pozycję</LttlEditItm>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtLines>Riadky</DtxtLines>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtUDT>Tabuľka definovaná užívateľom</DtxtUDT>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <DtxtCodeExists>Kód, ktorý ste vpísali je už použitý.</DtxtCodeExists>
+    <DtxtFather>Otec</DtxtFather>
+    <DtxtComponent>Komponent</DtxtComponent>
+    <DtxtShow>Zobraziť</DtxtShow>
+    <DtxtAllowChange>Povoliť zmenu</DtxtAllowChange>
+    <DtxtLastPurPrice>Posledná nákupná cena</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>Posledná vyhodnotená cena</DtxtLastEvalPrice>
+    <DtxtAutomatic>Automatické</DtxtAutomatic>
+    <LttlNewItm>Nová položka</LttlNewItm>
+    <LtxtConfCancelItm>Ste si istí, že chcete vymazať túto položku?</LtxtConfCancelItm>
+    <LtxtDesc1>Popis 1</LtxtDesc1>
+    <LtxtDesc2>Popis 2</LtxtDesc2>
+    <LtxtBarCod>Čiarový kód</LtxtBarCod>
+    <LtxtPurUn>Nákupná jednotka</LtxtPurUn>
+    <LtxtSalUn>Predajná jednotka</LtxtSalUn>
+    <LtxtPurPackUn>Jednotka nákupného balenia</LtxtPurPackUn>
+    <LtxtSalPackUn>Jednota predajného balenia</LtxtSalPackUn>
+    <LtxtPurItem>Nákup</LtxtPurItem>
+    <LtxtSalItem>Predaj</LtxtSalItem>
+    <LtxtInvItem>Inventár</LtxtInvItem>
+    <LtxtNoGrp>Bez skupiny</LtxtNoGrp>
+    <LtxtValItmCod>Prosím zadajte kód položky</LtxtValItmCod>
+    <LtxtValFld>Prosím zadajte políčko</LtxtValFld>
+    <LtxtOlkCmb>OLK Kombo</LtxtOlkCmb>
+    <LtxtCmbData>Kombo dáta</LtxtCmbData>
+    <LtxtCmbShowComp>Zobraziť komponenty</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>Riadiť výdavky podľa</LtxtCmbManCstBy>
+    <LtxtFatherPrice>Cena otca</LtxtFatherPrice>
+    <LtxtCostPriceList>Cenník výdavkov</LtxtCostPriceList>
+    <LtxtSystemCost>Systémový cenník</LtxtSystemCost>
+    <LtxtCompPrice>Cena komponentov</LtxtCompPrice>
+    <LtxtSalePriceList>Cenník predaja</LtxtSalePriceList>
+    <LtxtClientPList>Cenník Obchodného partnera</LtxtClientPList>
+    <LtxtCmbComps>Kombo komponenty</LtxtCmbComps>
+    <LtxtMandatory>Povinné</LtxtMandatory>
+    <LtxtAddComp>Pridať komponent</LtxtAddComp>
+    <LtxtAlternative>Filter</LtxtAlternative>
+    <LtxtConfRemComp>Ste si istí, že chcete odstrániť komponent?</LtxtConfRemComp>
+    <LtxtEditCmpFilters>Editovať filtre komponentu</LtxtEditCmpFilters>
+    <LtxtAddField>Pridať políčko</LtxtAddField>
+    <LtxtAlterImages>Zobraziť alternatívny obrázok položky</LtxtAlterImages>
+    <LtxtValFatComPrc>Musíte skontrolovať "Zobraziť cenu otca" alebo "Zobraziť cenu komponentov"</LtxtValFatComPrc>
+    <LtxtValComp>Musíte pridať aspoň jeden komponent</LtxtValComp>
+    <LtxtValCompVals>Máte komponenty bez hodnôt; musíte vybrať nejakú položku alebo aplikovať alternatívne filtre</LtxtValCompVals>
+    <LtxtAlterFilters>Alternatívne filtre položky</LtxtAlterFilters>
+    <LtxtDiscPrcnt>Zľava %</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>Virtuálne kombo</LtxtVirtualCmb>
+    <LtxtValShowPrice>Musíte zobraziť cenu toho otca alebo komponentov</LtxtValShowPrice>
+    <LttlEditItm>Editovať položku</LttlEditItm>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtLines>DtxtLines</DtxtLines>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtUDT>DtxtUDT</DtxtUDT>
+    <DtxtProp>DtxtProp</DtxtProp>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <DtxtCodeExists>DtxtCodeExists</DtxtCodeExists>
+    <DtxtFather>DtxtFather</DtxtFather>
+    <DtxtComponent>DtxtComponent</DtxtComponent>
+    <DtxtShow>DtxtShow</DtxtShow>
+    <DtxtAllowChange>DtxtAllowChange</DtxtAllowChange>
+    <DtxtLastPurPrice>DtxtLastPurPrice</DtxtLastPurPrice>
+    <DtxtLastEvalPrice>DtxtLastEvalPrice</DtxtLastEvalPrice>
+    <DtxtAutomatic>DtxtAutomatic</DtxtAutomatic>
+    <LttlNewItm>LttlNewItm</LttlNewItm>
+    <LtxtConfCancelItm>LtxtConfCancelItm</LtxtConfCancelItm>
+    <LtxtDesc1>LtxtDesc1</LtxtDesc1>
+    <LtxtDesc2>LtxtDesc2</LtxtDesc2>
+    <LtxtBarCod>LtxtBarCod</LtxtBarCod>
+    <LtxtPurUn>LtxtPurUn</LtxtPurUn>
+    <LtxtSalUn>LtxtSalUn</LtxtSalUn>
+    <LtxtPurPackUn>LtxtPurPackUn</LtxtPurPackUn>
+    <LtxtSalPackUn>LtxtSalPackUn</LtxtSalPackUn>
+    <LtxtPurItem>LtxtPurItem</LtxtPurItem>
+    <LtxtSalItem>LtxtSalItem</LtxtSalItem>
+    <LtxtInvItem>LtxtInvItem</LtxtInvItem>
+    <LtxtNoGrp>LtxtNoGrp</LtxtNoGrp>
+    <LtxtValItmCod>LtxtValItmCod</LtxtValItmCod>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+    <LtxtOlkCmb>LtxtOlkCmb</LtxtOlkCmb>
+    <LtxtCmbData>LtxtCmbData</LtxtCmbData>
+    <LtxtCmbShowComp>LtxtCmbShowComp</LtxtCmbShowComp>
+    <LtxtCmbManCstBy>LtxtCmbManCstBy</LtxtCmbManCstBy>
+    <LtxtFatherPrice>LtxtFatherPrice</LtxtFatherPrice>
+    <LtxtCostPriceList>LtxtCostPriceList</LtxtCostPriceList>
+    <LtxtSystemCost>LtxtSystemCost</LtxtSystemCost>
+    <LtxtCompPrice>LtxtCompPrice</LtxtCompPrice>
+    <LtxtSalePriceList>LtxtSalePriceList</LtxtSalePriceList>
+    <LtxtClientPList>LtxtClientPList</LtxtClientPList>
+    <LtxtCmbComps>LtxtCmbComps</LtxtCmbComps>
+    <LtxtMandatory>LtxtMandatory</LtxtMandatory>
+    <LtxtAddComp>LtxtAddComp</LtxtAddComp>
+    <LtxtAlternative>LtxtAlternative</LtxtAlternative>
+    <LtxtConfRemComp>LtxtConfRemComp</LtxtConfRemComp>
+    <LtxtEditCmpFilters>LtxtEditCmpFilters</LtxtEditCmpFilters>
+    <LtxtAddField>LtxtAddField</LtxtAddField>
+    <LtxtAlterImages>LtxtAlterImages</LtxtAlterImages>
+    <LtxtValFatComPrc>LtxtValFatComPrc</LtxtValFatComPrc>
+    <LtxtValComp>LtxtValComp</LtxtValComp>
+    <LtxtValCompVals>LtxtValCompVals</LtxtValCompVals>
+    <LtxtAlterFilters>LtxtAlterFilters</LtxtAlterFilters>
+    <LtxtDiscPrcnt>LtxtDiscPrcnt</LtxtDiscPrcnt>
+    <LtxtVirtualCmb>LtxtVirtualCmb</LtxtVirtualCmb>
+    <LtxtValShowPrice>LtxtValShowPrice</LtxtValShowPrice>
+    <LttlEditItm>LttlEditItm</LttlEditItm>
+  </language>
+</languages>

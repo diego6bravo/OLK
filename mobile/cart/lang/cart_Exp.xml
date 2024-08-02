@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <LtxtShopCart>Shopping cart</LtxtShopCart>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <LtxtShopCart>Canasta de compras</LtxtShopCart>
+    <LtxtExpenses>Gastos</LtxtExpenses>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <LtxtShopCart>סל קניות</LtxtShopCart>
+    <LtxtExpenses>הוצאות</LtxtExpenses>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <LtxtShopCart>Shopping cart</LtxtShopCart>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <LtxtShopCart>Carrinho de Compras</LtxtShopCart>
+    <LtxtExpenses>Despesas</LtxtExpenses>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <LtxtShopCart>Nákupní košík</LtxtShopCart>
+    <LtxtExpenses>Výdaje</LtxtExpenses>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <LtxtShopCart>Koszyk</LtxtShopCart>
+    <LtxtExpenses>Wydatki</LtxtExpenses>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <LtxtShopCart>Nákupný košík</LtxtShopCart>
+    <LtxtExpenses>Výdavky</LtxtExpenses>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <LtxtShopCart>LtxtShopCart</LtxtShopCart>
+    <LtxtExpenses>LtxtExpenses</LtxtExpenses>
+  </language>
+</languages>

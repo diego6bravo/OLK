@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <LtxtQueryErr>Query error</LtxtQueryErr>
+    <LtxtReps>Reports</LtxtReps>
+    <LtxtNoRepAccess>You don\'t\' have access to this report</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <DtxtExecTime>Tiempo de Ejecución</DtxtExecTime>
+    <LtxtQueryErr>Error de consulta</LtxtQueryErr>
+    <LtxtReps>Reportes</LtxtReps>
+    <LtxtNoRepAccess>No tiene acceso a este reporte</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtRefresh>רענן</DtxtRefresh>
+    <DtxtExecTime>זמן ביצוע</DtxtExecTime>
+    <LtxtQueryErr>תקלה בשאילתא</LtxtQueryErr>
+    <LtxtReps>דוחות</LtxtReps>
+    <LtxtNoRepAccess>אין לך הרשאה לדוח הנוכחי</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <LtxtQueryErr>Query error</LtxtQueryErr>
+    <LtxtReps>Reports</LtxtReps>
+    <LtxtNoRepAccess>You don\'t\' have access to this report</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtRefresh>Atualizar</DtxtRefresh>
+    <DtxtExecTime>Tempo de Execução</DtxtExecTime>
+    <LtxtQueryErr>Erro de consulta</LtxtQueryErr>
+    <LtxtReps>Relatórios</LtxtReps>
+    <LtxtNoRepAccess>Você não tem acesso a este relatório</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtRefresh>Rafraîchir</DtxtRefresh>
+    <DtxtExecTime>&lt;--&gt;</DtxtExecTime>
+    <LtxtQueryErr>&lt;--&gt;</LtxtQueryErr>
+    <LtxtReps>&lt;--&gt;</LtxtReps>
+    <LtxtNoRepAccess>&lt;--&gt;</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtRefresh>Aktualisieren</DtxtRefresh>
+    <DtxtExecTime>Ausführungsdauer</DtxtExecTime>
+    <LtxtQueryErr>&lt;--&gt;</LtxtQueryErr>
+    <LtxtReps>&lt;--&gt;</LtxtReps>
+    <LtxtNoRepAccess>&lt;--&gt;</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtRefresh>Освежать</DtxtRefresh>
+    <DtxtExecTime>Время исполнения</DtxtExecTime>
+    <LtxtQueryErr>&lt;--&gt;</LtxtQueryErr>
+    <LtxtReps>&lt;--&gt;</LtxtReps>
+    <LtxtNoRepAccess>&lt;--&gt;</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtRefresh>Obnovit</DtxtRefresh>
+    <DtxtExecTime>Datum vykonání</DtxtExecTime>
+    <LtxtQueryErr>Chyba dotazu</LtxtQueryErr>
+    <LtxtReps>Reporty</LtxtReps>
+    <LtxtNoRepAccess>Nemáte přístup k tomuto reportu</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtRefresh>Odśwież</DtxtRefresh>
+    <DtxtExecTime>Czas wykonania</DtxtExecTime>
+    <LtxtQueryErr>Błąd zapytanie</LtxtQueryErr>
+    <LtxtReps>Raporty</LtxtReps>
+    <LtxtNoRepAccess>Nie masz dostępu do tego raportu</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtRefresh>Obnoviť</DtxtRefresh>
+    <DtxtExecTime>Doba realizácie</DtxtExecTime>
+    <LtxtQueryErr>Chyba dotazu</LtxtQueryErr>
+    <LtxtReps>Správy</LtxtReps>
+    <LtxtNoRepAccess>Nemáte prístup do tejto správy</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtRefresh>&lt;--&gt;</DtxtRefresh>
+    <DtxtExecTime>&lt;--&gt;</DtxtExecTime>
+    <LtxtQueryErr>&lt;--&gt;</LtxtQueryErr>
+    <LtxtReps>&lt;--&gt;</LtxtReps>
+    <LtxtNoRepAccess>&lt;--&gt;</LtxtNoRepAccess>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtRefresh>DtxtRefresh</DtxtRefresh>
+    <DtxtExecTime>DtxtExecTime</DtxtExecTime>
+    <LtxtQueryErr>LtxtQueryErr</LtxtQueryErr>
+    <LtxtReps>LtxtReps</LtxtReps>
+    <LtxtNoRepAccess>LtxtNoRepAccess</LtxtNoRepAccess>
+  </language>
+</languages>

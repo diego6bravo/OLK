@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtReadOnly>Read Only</DtxtReadOnly>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlMyData>My Information (Clients)</LttlMyData>
+    <LttlMyDataNote>In this section it is possible to define the setting for the "My Information" section. These settings only apply to the client session.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Enable read only note</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtReadOnly>Lectura Solamente</DtxtReadOnly>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlMyData>Mis Datos (Clientes)</LttlMyData>
+    <LttlMyDataNote>En esta sección podrá definir las opciones para la sección "Mis Datos". Estas opciones solo aplicaran a la sección de clientes.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Habilitar nota de lectura solamente</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtReadOnly>קריאה בלבד</DtxtReadOnly>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlMyData>הנתונים שלי (לקוחות)</LttlMyData>
+    <LttlMyDataNote>בחלק זה תוכל לקבוע הגדרות לאזור "הנתונים שלי".
+הגדרות הנ"ל משפיעים רק על ממשק הלקוחות.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>אפשר הערה במילים בלבד</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtReadOnly>Read Only</DtxtReadOnly>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlMyData>My Information (Clients)</LttlMyData>
+    <LttlMyDataNote>In this section it is possible to define the setting for the "My Information" section. These settings only apply to the client session.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Enable read only note</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtReadOnly>Somente leitura</DtxtReadOnly>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlMyData>Meus Dados (Clientes)</LttlMyData>
+    <LttlMyDataNote>Nesta seção, poderá definir as opções para a seção "Meus Dados". Estas opções só aplicarão à seção de clientes.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Habilitar somente nota de leitura</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtReadOnly>Seule lecture</DtxtReadOnly>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlMyData>Mes données (clients)</LttlMyData>
+    <LttlMyDataNote>Dans cette section vous pourrez déterminer les options pour la section "Mes données". Ces options appliqueront seule qu'à la section des clients</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>&lt;--&gt;</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtReadOnly>Ausschließlich Lesbar</DtxtReadOnly>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlMyData>Meine Daten (Kunden)</LttlMyData>
+    <LttlMyDataNote>In diesem Bereich kann man die Einstellungen für "Meine Daten" festlegen. Diese Einstellungen werden nur für die Kundensitzung angewandt.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>&lt;--&gt;</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtReadOnly>Только вызов</DtxtReadOnly>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlMyData>Моя информации (клиенты)</LttlMyData>
+    <LttlMyDataNote>В этом разделе можно определить настройки для "Моя информация". Эти настройки применяются только к клиентской сессии.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>&lt;--&gt;</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtReadOnly>Pouze pro čtení</DtxtReadOnly>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlMyData>Moje údaje (klienti)</LttlMyData>
+    <LttlMyDataNote>V této sekci je možné definovat nastavení sekce "Moje údaje". Tato nastavení platí pouze pro relaci klienta.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>&lt;--&gt;</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtReadOnly>Tylko do odczytu</DtxtReadOnly>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlMyData>Moje dane (klienci)</LttlMyData>
+    <LttlMyDataNote>W tym dziale można zdefiniować ustawienia dla działu "moje dane". Te ustawienia mają zastosowanie wyłącznie do sesji klienta.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Zezwól tylko na słowna uwagę</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtReadOnly>Len prečítať</DtxtReadOnly>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlMyData>Moje údaje (Klienti)</LttlMyData>
+    <LttlMyDataNote>V tejto sekcii je možné definovať nastavenie pre sekciu "Moje Údaje". Tieto nastavenia sa dajú aplikovať len na session klienta.</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>Umožniť poznámku s možnosťou len čítania</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtReadOnly>&lt;--&gt;</DtxtReadOnly>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlMyData>&lt;--&gt;</LttlMyData>
+    <LttlMyDataNote>&lt;--&gt;</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>&lt;--&gt;</LtxtEnableDROnlyNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtReadOnly>DtxtReadOnly</DtxtReadOnly>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlMyData>LttlMyData</LttlMyData>
+    <LttlMyDataNote>LttlMyDataNote</LttlMyDataNote>
+    <LtxtEnableDROnlyNote>LtxtEnableDROnlyNote</LtxtEnableDROnlyNote>
+  </language>
+</languages>

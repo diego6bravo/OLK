@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <LtxtShopCart>Shopping Cart</LtxtShopCart>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+    <LtxtQty>Qty</LtxtQty>
+    <LtxtClearFilter>Clear Filter</LtxtClearFilter>
+    <LtxtFilterCartNote>This cart is filtered; this line represents the hidden lines</LtxtFilterCartNote>
+    <LtxtTotalSummary>Summary total</LtxtTotalSummary>
+    <LtxtSumLines>Summarized lines 1</LtxtSumLines>
+    <LtxtViewAll>View All</LtxtViewAll>
+    <LtxtViewSumm>View Summary</LtxtViewSumm>
+    <LtxtItmInvErr>The quantity you want to sell of the item {0} is not available</LtxtItmInvErr>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtValDelDate>Missing Delivery Date</LtxtValDelDate>
+    <LtxtFastAddErr>The reference/barcode "{0}" was not found.</LtxtFastAddErr>
+    <LtxtErrItmInv>The item you wish to add does not have enough available stock</LtxtErrItmInv>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>The item {0} is blocked for sale</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtValEnterValue>Debe introducir un valor</DtxtValEnterValue>
+    <LtxtShopCart>Canasta de Compras</LtxtShopCart>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpenses>Gastos</LtxtExpenses>
+    <LtxtQty>Cant.</LtxtQty>
+    <LtxtClearFilter>Limpiar Filtro</LtxtClearFilter>
+    <LtxtFilterCartNote>Esta canasta esta filtrada, esta línea representa las líneas ocultas</LtxtFilterCartNote>
+    <LtxtTotalSummary>Total de resumen</LtxtTotalSummary>
+    <LtxtSumLines>Líneas en resumen 1</LtxtSumLines>
+    <LtxtViewAll>Ver Todos</LtxtViewAll>
+    <LtxtViewSumm>Ver Resumen</LtxtViewSumm>
+    <LtxtItmInvErr>La cantidad que desea vender del artículo {0} no está disponible</LtxtItmInvErr>
+    <LtxtDetails>Detalles</LtxtDetails>
+    <LtxtValDelDate>Falta Fecha de entrega</LtxtValDelDate>
+    <LtxtFastAddErr>La referencia/código de barra "{0}" no fue encontrado.</LtxtFastAddErr>
+    <LtxtErrItmInv>El artículo que desea agregar no tiene inventario disponible</LtxtErrItmInv>
+    <LtxtConfDelItm>¿Está seguro que desea eliminar {0} artículo(s)?</LtxtConfDelItm>
+    <LtxtMaxDiscount>El descuento no puede ser mayor que {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>El articulo {0} está bloqueado para venta</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtFor>ל</DtxtFor>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtValEnterValue>יש לתת ערך לשדה</DtxtValEnterValue>
+    <LtxtShopCart>סל קניות</LtxtShopCart>
+    <LtxtSubTotal>סיכום ביניים</LtxtSubTotal>
+    <LtxtExpenses>הוצאות</LtxtExpenses>
+    <LtxtQty>כמות</LtxtQty>
+    <LtxtClearFilter>נקה סינון</LtxtClearFilter>
+    <LtxtFilterCartNote>סל הקניות הנ"ל מסונן; שורה זאת מייצגת את השורות המסתרות</LtxtFilterCartNote>
+    <LtxtTotalSummary>סה"כ מסוכם</LtxtTotalSummary>
+    <LtxtSumLines>סיכום שורות 1</LtxtSumLines>
+    <LtxtViewAll>ראה הכל</LtxtViewAll>
+    <LtxtViewSumm>ראה מסוכם</LtxtViewSumm>
+    <LtxtItmInvErr>הכמות שבחרת לא לפריט {0} לא זמינה</LtxtItmInvErr>
+    <LtxtDetails>פרטים</LtxtDetails>
+    <LtxtValDelDate>חסר תאריך משלוח</LtxtValDelDate>
+    <LtxtFastAddErr>המק"ט או הבר קוד "{0}" לא נמצאו</LtxtFastAddErr>
+    <LtxtErrItmInv>הפריט שבחרת לא ניתן להוספה כיוון שאין מלאי זמין</LtxtErrItmInv>
+    <LtxtConfDelItm>האם להסיר את {0} הפריט(ים)?</LtxtConfDelItm>
+    <LtxtMaxDiscount>ההנחה המקסימלית היא %{0}</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>פריט {0} חסום למכירה</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <LtxtShopCart>Shopping Cart</LtxtShopCart>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+    <LtxtQty>Qty</LtxtQty>
+    <LtxtClearFilter>Clear Filter</LtxtClearFilter>
+    <LtxtFilterCartNote>This cart is filtered; this line represents the hidden lines</LtxtFilterCartNote>
+    <LtxtTotalSummary>Summary total</LtxtTotalSummary>
+    <LtxtSumLines>Summarized lines 1</LtxtSumLines>
+    <LtxtViewAll>View All</LtxtViewAll>
+    <LtxtViewSumm>View Summary</LtxtViewSumm>
+    <LtxtItmInvErr>The quantity you want to sell of the item {0} is not available</LtxtItmInvErr>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtValDelDate>Missing Delivery Date</LtxtValDelDate>
+    <LtxtFastAddErr>The reference/barcode "{0}" was not found.</LtxtFastAddErr>
+    <LtxtErrItmInv>The item you wish to add does not have enough available stock</LtxtErrItmInv>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>The item {0} is blocked for sale</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtValEnterValue>Você deve inserir um valor</DtxtValEnterValue>
+    <LtxtShopCart>Carrinho de Compras</LtxtShopCart>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpenses>Gastos</LtxtExpenses>
+    <LtxtQty>Qtd.</LtxtQty>
+    <LtxtClearFilter>Limpar Filtro</LtxtClearFilter>
+    <LtxtFilterCartNote>Este carrinho esta filtrado e esta linha representa as linhas ocultas</LtxtFilterCartNote>
+    <LtxtTotalSummary>Total do resumo</LtxtTotalSummary>
+    <LtxtSumLines>Linhas no resumo 1</LtxtSumLines>
+    <LtxtViewAll>Ver Todos</LtxtViewAll>
+    <LtxtViewSumm>Ver Resumo</LtxtViewSumm>
+    <LtxtItmInvErr>A quantidade que deseja vender do item {0} não está disponível.</LtxtItmInvErr>
+    <LtxtDetails>Detalhes</LtxtDetails>
+    <LtxtValDelDate>Falta a data de entrega</LtxtValDelDate>
+    <LtxtFastAddErr>A referência/código de barras "{0}" não foi encontrado.</LtxtFastAddErr>
+    <LtxtErrItmInv>O Item que deseja adicionar não tem estoque disponível</LtxtErrItmInv>
+    <LtxtConfDelItm>Você tem certeza que deseja excluir {0} iten(s)?</LtxtConfDelItm>
+    <LtxtMaxDiscount>O desconto não pode ser maior do que {0} %</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>O item {0} esta bloqueado para venda</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>Pour</DtxtFor>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtValEnterValue>&lt;--&gt;</DtxtValEnterValue>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtQty>&lt;--&gt;</LtxtQty>
+    <LtxtClearFilter>&lt;--&gt;</LtxtClearFilter>
+    <LtxtFilterCartNote>&lt;--&gt;</LtxtFilterCartNote>
+    <LtxtTotalSummary>&lt;--&gt;</LtxtTotalSummary>
+    <LtxtSumLines>&lt;--&gt;</LtxtSumLines>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSumm>&lt;--&gt;</LtxtViewSumm>
+    <LtxtItmInvErr>&lt;--&gt;</LtxtItmInvErr>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtValDelDate>&lt;--&gt;</LtxtValDelDate>
+    <LtxtFastAddErr>La reférence/barre-code "{0}" n\'avait pas trouvé</LtxtFastAddErr>
+    <LtxtErrItmInv>L\'article que vous voulez ajouter n\'a pas d\'inventaire disponible</LtxtErrItmInv>
+    <LtxtConfDelItm>Êtes-vous sûre d\'éliminer {0} article (s)?</LtxtConfDelItm>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>&lt;--&gt;</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Für</DtxtFor>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtValEnterValue>Sie müssen einen Wert angeben</DtxtValEnterValue>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtQty>&lt;--&gt;</LtxtQty>
+    <LtxtClearFilter>&lt;--&gt;</LtxtClearFilter>
+    <LtxtFilterCartNote>&lt;--&gt;</LtxtFilterCartNote>
+    <LtxtTotalSummary>&lt;--&gt;</LtxtTotalSummary>
+    <LtxtSumLines>&lt;--&gt;</LtxtSumLines>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSumm>&lt;--&gt;</LtxtViewSumm>
+    <LtxtItmInvErr>&lt;--&gt;</LtxtItmInvErr>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtValDelDate>&lt;--&gt;</LtxtValDelDate>
+    <LtxtFastAddErr>Der Bezug/Barcode "{0}" wurde nicht gefunden.</LtxtFastAddErr>
+    <LtxtErrItmInv>Der Artikel hat nicht genug Bestand verfügbar</LtxtErrItmInv>
+    <LtxtConfDelItm>Möchten Sie diese(n) Artikel {0} wirklich löschen?</LtxtConfDelItm>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>&lt;--&gt;</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtFor>для</DtxtFor>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtValEnterValue>Должны дать значения в поле</DtxtValEnterValue>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtQty>&lt;--&gt;</LtxtQty>
+    <LtxtClearFilter>&lt;--&gt;</LtxtClearFilter>
+    <LtxtFilterCartNote>&lt;--&gt;</LtxtFilterCartNote>
+    <LtxtTotalSummary>&lt;--&gt;</LtxtTotalSummary>
+    <LtxtSumLines>&lt;--&gt;</LtxtSumLines>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSumm>&lt;--&gt;</LtxtViewSumm>
+    <LtxtItmInvErr>&lt;--&gt;</LtxtItmInvErr>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtValDelDate>&lt;--&gt;</LtxtValDelDate>
+    <LtxtFastAddErr>Серийный номер или штрих-код"{0}" не найден</LtxtFastAddErr>
+    <LtxtErrItmInv>Не выбран пункт не может быть добавлено из-за отсутствия имеющихся запасов</LtxtErrItmInv>
+    <LtxtConfDelItm>Вы уверены, что хотите удалить {0} товар (ы)</LtxtConfDelItm>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>Деталь {0} блокирует продажу</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Pro</DtxtFor>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtValEnterValue>Musíte zadat hodnotu</DtxtValEnterValue>
+    <LtxtShopCart>Nákupní košík</LtxtShopCart>
+    <LtxtSubTotal>Podsoučet</LtxtSubTotal>
+    <LtxtExpenses>Výdaje</LtxtExpenses>
+    <LtxtQty>Množ.</LtxtQty>
+    <LtxtClearFilter>Odstranit filtr</LtxtClearFilter>
+    <LtxtFilterCartNote>Filtr nákupního košíku je aktivní. Tato řádka zastupuje skryté řádky</LtxtFilterCartNote>
+    <LtxtTotalSummary>Suma celkem</LtxtTotalSummary>
+    <LtxtSumLines>Shrnutí řádek 1</LtxtSumLines>
+    <LtxtViewAll>Zobrazit vše</LtxtViewAll>
+    <LtxtViewSumm>Zobrazit shrnutí</LtxtViewSumm>
+    <LtxtItmInvErr>Množství položky {0}, které chcete prodat, není skladem</LtxtItmInvErr>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+    <LtxtValDelDate>Chybí datum dodání</LtxtValDelDate>
+    <LtxtFastAddErr>Referenční/čárovy kód "{0}" nebyl nalezen.</LtxtFastAddErr>
+    <LtxtErrItmInv>Položka, kterou chcete přidat, není skladem v dostatečném množství</LtxtErrItmInv>
+    <LtxtConfDelItm>Jste si jistý/á, že chcete vymazat {0} položek?</LtxtConfDelItm>
+    <LtxtMaxDiscount>Sleva nemůže být víc než {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>Položka {0} má blokovaný prodej</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Dla</DtxtFor>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtValEnterValue>Musisz wprowadzić wartość</DtxtValEnterValue>
+    <LtxtShopCart>Koszyk</LtxtShopCart>
+    <LtxtSubTotal>Suma częściowa</LtxtSubTotal>
+    <LtxtExpenses>Wydatki</LtxtExpenses>
+    <LtxtQty>Ilość</LtxtQty>
+    <LtxtClearFilter>Wyczyść filtr</LtxtClearFilter>
+    <LtxtFilterCartNote>Ten koszyk jest filtrowany; tan wiersz reprezentuje ukryte wiersze</LtxtFilterCartNote>
+    <LtxtTotalSummary>Podsumowanie razem</LtxtTotalSummary>
+    <LtxtSumLines>Podsumowanie wierszy 1</LtxtSumLines>
+    <LtxtViewAll>Zobacz wszystko</LtxtViewAll>
+    <LtxtViewSumm>Zobacz podsumowanie</LtxtViewSumm>
+    <LtxtItmInvErr>Ilość tej pozycji {0} jaką chcesz sprzedać jest niedostępna</LtxtItmInvErr>
+    <LtxtDetails>Szczegóły</LtxtDetails>
+    <LtxtValDelDate>Brakuje daty dostawy</LtxtValDelDate>
+    <LtxtFastAddErr>Odsyłacz/kod kreskowy "{0}" nie został znaleziony</LtxtFastAddErr>
+    <LtxtErrItmInv>Pozycja, którą chcesz dodać nie ma wystarczająco dostępnego zapasu</LtxtErrItmInv>
+    <LtxtConfDelItm>Czy jesteś pewien, że chcesz usunąć [0} pozycję€</LtxtConfDelItm>
+    <LtxtMaxDiscount>Rabat nie może wynosić więcej niż {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>Pozycja {0} jest zablokowana dla sprzedaży</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtFor>Pre</DtxtFor>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtValEnterValue>Musíte zadať nejakú hodnotu</DtxtValEnterValue>
+    <LtxtShopCart>Nákupný košík</LtxtShopCart>
+    <LtxtSubTotal>Medzisúčet</LtxtSubTotal>
+    <LtxtExpenses>Výdavky</LtxtExpenses>
+    <LtxtQty>Množstvo</LtxtQty>
+    <LtxtClearFilter>Vymazať filter</LtxtClearFilter>
+    <LtxtFilterCartNote>Tento košík je filtrovaný; tento riadok predstavuje ukryté riadky</LtxtFilterCartNote>
+    <LtxtTotalSummary>Celkový súhrn</LtxtTotalSummary>
+    <LtxtSumLines>Zhrnuté riadky 1</LtxtSumLines>
+    <LtxtViewAll>Zobraziť všetky</LtxtViewAll>
+    <LtxtViewSumm>Zobraziť súhrn</LtxtViewSumm>
+    <LtxtItmInvErr>Množstvo položky {0}, ktoré chcete predať nie je k dispozícii</LtxtItmInvErr>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+    <LtxtValDelDate>Chýbajúci dátum dodania</LtxtValDelDate>
+    <LtxtFastAddErr>Odkaz/čiarový kód "{0}" nebol nájdený.</LtxtFastAddErr>
+    <LtxtErrItmInv>Položka, ktorú si prajete pridať nemá dostatok dostupných zásob</LtxtErrItmInv>
+    <LtxtConfDelItm>Ste si istí, že chcete vymazať {0} položku(y)</LtxtConfDelItm>
+    <LtxtMaxDiscount>Zľava nemôže byť väčšia ako {0}%</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>Položka {0} je blokovaná pre predaj</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtFor>&lt;--&gt;</DtxtFor>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtDiscount>&lt;--&gt;</DtxtDiscount>
+    <DtxtValEnterValue>&lt;--&gt;</DtxtValEnterValue>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtQty>&lt;--&gt;</LtxtQty>
+    <LtxtClearFilter>&lt;--&gt;</LtxtClearFilter>
+    <LtxtFilterCartNote>&lt;--&gt;</LtxtFilterCartNote>
+    <LtxtTotalSummary>&lt;--&gt;</LtxtTotalSummary>
+    <LtxtSumLines>&lt;--&gt;</LtxtSumLines>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSumm>&lt;--&gt;</LtxtViewSumm>
+    <LtxtItmInvErr>&lt;--&gt;</LtxtItmInvErr>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtValDelDate>&lt;--&gt;</LtxtValDelDate>
+    <LtxtFastAddErr>&lt;--&gt;</LtxtFastAddErr>
+    <LtxtErrItmInv>&lt;--&gt;</LtxtErrItmInv>
+    <LtxtConfDelItm>&lt;--&gt;</LtxtConfDelItm>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>&lt;--&gt;</LtxtFastAddErrBlock>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtFor>DtxtFor</DtxtFor>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtValEnterValue>DtxtValEnterValue</DtxtValEnterValue>
+    <LtxtShopCart>LtxtShopCart</LtxtShopCart>
+    <LtxtSubTotal>LtxtSubTotal</LtxtSubTotal>
+    <LtxtExpenses>LtxtExpenses</LtxtExpenses>
+    <LtxtQty>LtxtQty</LtxtQty>
+    <LtxtClearFilter>LtxtClearFilter</LtxtClearFilter>
+    <LtxtFilterCartNote>LtxtFilterCartNote</LtxtFilterCartNote>
+    <LtxtTotalSummary>LtxtTotalSummary</LtxtTotalSummary>
+    <LtxtSumLines>LtxtSumLines</LtxtSumLines>
+    <LtxtViewAll>LtxtViewAll</LtxtViewAll>
+    <LtxtViewSumm>LtxtViewSumm</LtxtViewSumm>
+    <LtxtItmInvErr>LtxtItmInvErr</LtxtItmInvErr>
+    <LtxtDetails>LtxtDetails</LtxtDetails>
+    <LtxtValDelDate>LtxtValDelDate</LtxtValDelDate>
+    <LtxtFastAddErr>LtxtFastAddErr</LtxtFastAddErr>
+    <LtxtErrItmInv>LtxtErrItmInv</LtxtErrItmInv>
+    <LtxtConfDelItm>LtxtConfDelItm</LtxtConfDelItm>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtFastAddErrBlock>LtxtFastAddErrBlock</LtxtFastAddErrBlock>
+  </language>
+</languages>

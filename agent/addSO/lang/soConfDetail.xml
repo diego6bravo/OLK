@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtTerritory>Territory</DtxtTerritory>
+    <DtxtDays>Days</DtxtDays>
+    <DtxtWeeks>Weeks</DtxtWeeks>
+    <DtxtMonths>Months</DtxtMonths>
+    <LtxtInvTotal>Total Invoiced</LtxtInvTotal>
+    <LtxtOwner>Owner</LtxtOwner>
+    <LtxtOpporName>Opportunity Name</LtxtOpporName>
+    <LtxtOpporId>Opportunity N°</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>Closing Date</LtxtEndDate>
+    <LtxtPotential>Potential</LtxtPotential>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStages>Stages</LtxtStages>
+    <LtxtCompetition>Competitors</LtxtCompetition>
+    <LtxtReason>Reasons</LtxtReason>
+    <LtxtClosePlan>Predicted Closing In</LtxtClosePlan>
+    <LtxtCloseDate>Predicted Closing Date</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potential Amount</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Weighted Amount</LtxtWtSumLoc>
+    <LtxtPrcntProf>Gross Profit %</LtxtPrcntProf>
+    <LtxtSumProfL>Gross Profit Total</LtxtSumProfL>
+    <LtxtIntRate>Level of Interest</LtxtIntRate>
+    <LtxtIntRange>Interest Range</LtxtIntRange>
+    <LtxtPrimary>Primary</LtxtPrimary>
+    <LtxtChnCode>BP Channel Code</LtxtChnCode>
+    <LtxtChnName>BP Channel Name</LtxtChnName>
+    <LtxtChnCnt>BP Channel Contact</LtxtChnCnt>
+    <LtxtRemarks>Remarks</LtxtRemarks>
+    <LtxtInfSource>Information Source</LtxtInfSource>
+    <LtxtIndustry>Industry</LtxtIndustry>
+    <LtxtStage>Stage</LtxtStage>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document N°</LtxtDocNum>
+    <LtxtRelationship>Relationship</LtxtRelationship>
+    <LtxtRelBP>Related BP</LtxtRelBP>
+    <LtxtThreat>Threat Level</LtxtThreat>
+    <LtxtWon>Won</LtxtWon>
+    <LtxtOpen>Open</LtxtOpen>
+    <LtxtLost>Lost</LtxtLost>
+    <LttlSOConfDetails>Sales opportunity details</LttlSOConfDetails>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtNoAccessObj>No tiene acceso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Socios de Negocios</DtxtBPS>
+    <DtxtProject>Proyecto</DtxtProject>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtTerritory>Territorio</DtxtTerritory>
+    <DtxtDays>Días</DtxtDays>
+    <DtxtWeeks>Semanas</DtxtWeeks>
+    <DtxtMonths>Meses</DtxtMonths>
+    <LtxtInvTotal>Total facturado</LtxtInvTotal>
+    <LtxtOwner>Titular</LtxtOwner>
+    <LtxtOpporName>Nombre oportunidad</LtxtOpporName>
+    <LtxtOpporId>Oportunidad N°</LtxtOpporId>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtStartDate>Fecha de inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha de cierre</LtxtEndDate>
+    <LtxtPotential>Potencial</LtxtPotential>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStages>Etapas</LtxtStages>
+    <LtxtCompetition>Competidores</LtxtCompetition>
+    <LtxtReason>Razones</LtxtReason>
+    <LtxtClosePlan>Cierre planificado en</LtxtClosePlan>
+    <LtxtCloseDate>Fecha de cierre prevista</LtxtCloseDate>
+    <LtxtMaxSumLoc>Monto potencial</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Monto ponderado</LtxtWtSumLoc>
+    <LtxtPrcntProf>% de ganancia bruta</LtxtPrcntProf>
+    <LtxtSumProfL>Ganancia bruta (total)</LtxtSumProfL>
+    <LtxtIntRate>Nivel de interés</LtxtIntRate>
+    <LtxtIntRange>Rango de interés</LtxtIntRange>
+    <LtxtPrimary>Primario</LtxtPrimary>
+    <LtxtChnCode>Código canal SN</LtxtChnCode>
+    <LtxtChnName>Nombre canal SN</LtxtChnName>
+    <LtxtChnCnt>Contacto canal SN</LtxtChnCnt>
+    <LtxtRemarks>Comentarios</LtxtRemarks>
+    <LtxtInfSource>Fuente de información</LtxtInfSource>
+    <LtxtIndustry>Industría</LtxtIndustry>
+    <LtxtStage>Etapa</LtxtStage>
+    <LtxtDocType>Clase de documento</LtxtDocType>
+    <LtxtDocNum>Nº documento</LtxtDocNum>
+    <LtxtRelationship>Relación</LtxtRelationship>
+    <LtxtRelBP>SN relacionado</LtxtRelBP>
+    <LtxtThreat>Nivel de amenaza</LtxtThreat>
+    <LtxtWon>Ganada</LtxtWon>
+    <LtxtOpen>Abierto</LtxtOpen>
+    <LtxtLost>Perdida</LtxtLost>
+    <LttlSOConfDetails>Detalle de oportunidades de venta</LttlSOConfDetails>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtNoAccessObj>אין לך הרשאה לראות "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>כרטיסים</DtxtBPS>
+    <DtxtProject>פרויקט</DtxtProject>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtTerritory>שטח</DtxtTerritory>
+    <DtxtDays>ימים</DtxtDays>
+    <DtxtWeeks>שבועות</DtxtWeeks>
+    <DtxtMonths>חודשים</DtxtMonths>
+    <LtxtInvTotal>סה"כ שחויב</LtxtInvTotal>
+    <LtxtOwner>בעלים</LtxtOwner>
+    <LtxtOpporName>שם הזדמנות</LtxtOpporName>
+    <LtxtOpporId>מס' הזדמנות</LtxtOpporId>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtStartDate>תאריך פתיחה</LtxtStartDate>
+    <LtxtEndDate>תאריך סגירה</LtxtEndDate>
+    <LtxtPotential>פוטנציאל</LtxtPotential>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtStages>שלבים</LtxtStages>
+    <LtxtCompetition>מתחרים</LtxtCompetition>
+    <LtxtReason>סיבות</LtxtReason>
+    <LtxtClosePlan>סגירה צפויה</LtxtClosePlan>
+    <LtxtCloseDate>תאריך סגירה צפוי</LtxtCloseDate>
+    <LtxtMaxSumLoc>סכום פוטנציאלי</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>סכום משוקלל</LtxtWtSumLoc>
+    <LtxtPrcntProf>אחוז רווח גולמי</LtxtPrcntProf>
+    <LtxtSumProfL>סכום רווח גולמי</LtxtSumProfL>
+    <LtxtIntRate>רמת התעניינות</LtxtIntRate>
+    <LtxtIntRange>תחום התעניינות ראשי</LtxtIntRange>
+    <LtxtPrimary>ראשי</LtxtPrimary>
+    <LtxtChnCode>קוד ערוץ מכירות</LtxtChnCode>
+    <LtxtChnName>שם ערוץ מכירות</LtxtChnName>
+    <LtxtChnCnt>איש קשר ערוץ מכירות</LtxtChnCnt>
+    <LtxtRemarks>הערות</LtxtRemarks>
+    <LtxtInfSource>מקור</LtxtInfSource>
+    <LtxtIndustry>ענף</LtxtIndustry>
+    <LtxtStage>שלב</LtxtStage>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtRelationship>קשרי גומלין</LtxtRelationship>
+    <LtxtRelBP>כרטיס מקושר</LtxtRelBP>
+    <LtxtThreat>רמת איום</LtxtThreat>
+    <LtxtWon>הסתיימה בהצלחה</LtxtWon>
+    <LtxtOpen>פתוחה</LtxtOpen>
+    <LtxtLost>הזדמנות הוחמצה</LtxtLost>
+    <LttlSOConfDetails>פרטי הזדמנות מכירה</LttlSOConfDetails>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtTerritory>Territory</DtxtTerritory>
+    <DtxtDays>Days</DtxtDays>
+    <DtxtWeeks>Weeks</DtxtWeeks>
+    <DtxtMonths>Months</DtxtMonths>
+    <LtxtInvTotal>Total Invoiced</LtxtInvTotal>
+    <LtxtOwner>Owner</LtxtOwner>
+    <LtxtOpporName>Opportunity Name</LtxtOpporName>
+    <LtxtOpporId>Opportunity N°</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>Closing Date</LtxtEndDate>
+    <LtxtPotential>Potential</LtxtPotential>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStages>Stages</LtxtStages>
+    <LtxtCompetition>Competitors</LtxtCompetition>
+    <LtxtReason>Reasons</LtxtReason>
+    <LtxtClosePlan>Predicted Closing In</LtxtClosePlan>
+    <LtxtCloseDate>Predicted Closing Date</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potential Amount</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Weighted Amount</LtxtWtSumLoc>
+    <LtxtPrcntProf>Gross Profit %</LtxtPrcntProf>
+    <LtxtSumProfL>Gross Profit Total</LtxtSumProfL>
+    <LtxtIntRate>Level of Interest</LtxtIntRate>
+    <LtxtIntRange>Interest Range</LtxtIntRange>
+    <LtxtPrimary>Primary</LtxtPrimary>
+    <LtxtChnCode>BP Channel Code</LtxtChnCode>
+    <LtxtChnName>BP Channel Name</LtxtChnName>
+    <LtxtChnCnt>BP Channel Contact</LtxtChnCnt>
+    <LtxtRemarks>Remarks</LtxtRemarks>
+    <LtxtInfSource>Information Source</LtxtInfSource>
+    <LtxtIndustry>Industry</LtxtIndustry>
+    <LtxtStage>Stage</LtxtStage>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document N°</LtxtDocNum>
+    <LtxtRelationship>Relationship</LtxtRelationship>
+    <LtxtRelBP>Related BP</LtxtRelBP>
+    <LtxtThreat>Threat Level</LtxtThreat>
+    <LtxtWon>Won</LtxtWon>
+    <LtxtOpen>Open</LtxtOpen>
+    <LtxtLost>Lost</LtxtLost>
+    <LttlSOConfDetails>Sales opportunity details</LttlSOConfDetails>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtNoAccessObj>Você não tem acesso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Parceiros de negócios</DtxtBPS>
+    <DtxtProject>Projeto</DtxtProject>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtTerritory>Território</DtxtTerritory>
+    <DtxtDays>Dias</DtxtDays>
+    <DtxtWeeks>Semanas</DtxtWeeks>
+    <DtxtMonths>Meses</DtxtMonths>
+    <LtxtInvTotal>Montante total das facturas</LtxtInvTotal>
+    <LtxtOwner>Proprietário</LtxtOwner>
+    <LtxtOpporName>Nome da oportunidade</LtxtOpporName>
+    <LtxtOpporId>Nº da oportunidade</LtxtOpporId>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtStartDate>Data de início</LtxtStartDate>
+    <LtxtEndDate>Data de encerramento</LtxtEndDate>
+    <LtxtPotential>Potencial</LtxtPotential>
+    <LtxtGeneral>Geral</LtxtGeneral>
+    <LtxtStages>Níveis</LtxtStages>
+    <LtxtCompetition>Concorrentes</LtxtCompetition>
+    <LtxtReason>Motivos</LtxtReason>
+    <LtxtClosePlan>Encerramento previsto em</LtxtClosePlan>
+    <LtxtCloseDate>Data prevista de encerr.</LtxtCloseDate>
+    <LtxtMaxSumLoc>Montante potencial</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Montante ponderado</LtxtWtSumLoc>
+    <LtxtPrcntProf>% de lucro bruto</LtxtPrcntProf>
+    <LtxtSumProfL>Total do lucro bruto</LtxtSumProfL>
+    <LtxtIntRate>Nível de interesse</LtxtIntRate>
+    <LtxtIntRange>Intervalo de interesse</LtxtIntRange>
+    <LtxtPrimary>Primária</LtxtPrimary>
+    <LtxtChnCode>Código canal PN</LtxtChnCode>
+    <LtxtChnName>Nome canal PN</LtxtChnName>
+    <LtxtChnCnt>ContaTO canal PN</LtxtChnCnt>
+    <LtxtRemarks>Detalhes</LtxtRemarks>
+    <LtxtInfSource>Fonte de informação</LtxtInfSource>
+    <LtxtIndustry>indústria</LtxtIndustry>
+    <LtxtStage>Nível</LtxtStage>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtDocNum>Nº do documento</LtxtDocNum>
+    <LtxtRelationship>Relação</LtxtRelationship>
+    <LtxtRelBP>SN relacionado</LtxtRelBP>
+    <LtxtThreat>Nível de risco</LtxtThreat>
+    <LtxtWon>Ganha</LtxtWon>
+    <LtxtOpen>Em aberto</LtxtOpen>
+    <LtxtLost>Perdida</LtxtLost>
+    <LttlSOConfDetails>Detalhes da oportunidade de venda</LttlSOConfDetails>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtNoAccessObj>&lt;--&gt;</DtxtNoAccessObj>
+    <DtxtBPS>Partenaires</DtxtBPS>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Territoire</DtxtTerritory>
+    <DtxtDays>Jours</DtxtDays>
+    <DtxtWeeks>Semaines</DtxtWeeks>
+    <DtxtMonths>Mois</DtxtMonths>
+    <LtxtInvTotal>Montant global de facture</LtxtInvTotal>
+    <LtxtOwner>Propriétaires</LtxtOwner>
+    <LtxtOpporName>Nom de l'opportunité</LtxtOpporName>
+    <LtxtOpporId>Nº d'opportunité</LtxtOpporId>
+    <LtxtStatus>Statut</LtxtStatus>
+    <LtxtStartDate>Date d'ouverture</LtxtStartDate>
+    <LtxtEndDate>Date de clôture</LtxtEndDate>
+    <LtxtPotential>Potentiel</LtxtPotential>
+    <LtxtGeneral>Généralités</LtxtGeneral>
+    <LtxtStages>Etapes de vente</LtxtStages>
+    <LtxtCompetition>Concurrent</LtxtCompetition>
+    <LtxtReason>Motifs</LtxtReason>
+    <LtxtClosePlan>Clôture prévue dans</LtxtClosePlan>
+    <LtxtCloseDate>Date de clôture prévue</LtxtCloseDate>
+    <LtxtMaxSumLoc>Montant potentiel</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Montant pondéré</LtxtWtSumLoc>
+    <LtxtPrcntProf>% marge brute</LtxtPrcntProf>
+    <LtxtSumProfL>Total marge brute</LtxtSumProfL>
+    <LtxtIntRate>Niveau d'intérêt</LtxtIntRate>
+    <LtxtIntRange>Domaine d'intérêts</LtxtIntRange>
+    <LtxtPrimary>Primaire</LtxtPrimary>
+    <LtxtChnCode>Code canal partenaire</LtxtChnCode>
+    <LtxtChnName>Nom canal partenaire</LtxtChnName>
+    <LtxtChnCnt>Contact canal partenaire</LtxtChnCnt>
+    <LtxtRemarks>Remarques</LtxtRemarks>
+    <LtxtInfSource>Source d'informations</LtxtInfSource>
+    <LtxtIndustry>Industrie</LtxtIndustry>
+    <LtxtStage>Etape</LtxtStage>
+    <LtxtDocType>Type de document</LtxtDocType>
+    <LtxtDocNum>Numéro de document</LtxtDocNum>
+    <LtxtRelationship>Relation</LtxtRelationship>
+    <LtxtRelBP>Partenaire lié</LtxtRelBP>
+    <LtxtThreat>Niveau de risque</LtxtThreat>
+    <LtxtWon>Gagnée</LtxtWon>
+    <LtxtOpen>En attente</LtxtOpen>
+    <LtxtLost>Perdue</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtNoAccessObj>Sie haben keinen Zugang zu der Ansicht von "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Geschäftspartner</DtxtBPS>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Gebiet</DtxtTerritory>
+    <DtxtDays>Days</DtxtDays>
+    <DtxtWeeks>Wochen</DtxtWeeks>
+    <DtxtMonths>Monate</DtxtMonths>
+    <LtxtInvTotal>Rechnungsgesamtbetrag</LtxtInvTotal>
+    <LtxtOwner>Eigentümer</LtxtOwner>
+    <LtxtOpporName>Opportunity-Name</LtxtOpporName>
+    <LtxtOpporId>Opportunity-Nr.</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Eröff.datum</LtxtStartDate>
+    <LtxtEndDate>Abschlussdatum</LtxtEndDate>
+    <LtxtPotential>Potenzial</LtxtPotential>
+    <LtxtGeneral>Allgemein</LtxtGeneral>
+    <LtxtStages>Stufen</LtxtStages>
+    <LtxtCompetition>Mitbewerber</LtxtCompetition>
+    <LtxtReason>Gründe</LtxtReason>
+    <LtxtClosePlan>Geplanter Abschluss in</LtxtClosePlan>
+    <LtxtCloseDate>Geplantes Abschlussdatum</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potenzieller Betrag</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Gewichteter Betrag</LtxtWtSumLoc>
+    <LtxtPrcntProf>Bruttogewinn %</LtxtPrcntProf>
+    <LtxtSumProfL>Bruttogewinnsumme</LtxtSumProfL>
+    <LtxtIntRate>Interessensgrad</LtxtIntRate>
+    <LtxtIntRange>Interessensbereich</LtxtIntRange>
+    <LtxtPrimary>Primär</LtxtPrimary>
+    <LtxtChnCode>GP Channel Code</LtxtChnCode>
+    <LtxtChnName>GP Channel Name</LtxtChnName>
+    <LtxtChnCnt>GP Channel Ansprp.</LtxtChnCnt>
+    <LtxtRemarks>Bemerkungen</LtxtRemarks>
+    <LtxtInfSource>Informationsquelle</LtxtInfSource>
+    <LtxtIndustry>Branche</LtxtIndustry>
+    <LtxtStage>Stufe</LtxtStage>
+    <LtxtDocType>Belegart</LtxtDocType>
+    <LtxtDocNum>Belegnr.</LtxtDocNum>
+    <LtxtRelationship>Beziehung</LtxtRelationship>
+    <LtxtRelBP>Beteiligter GP</LtxtRelBP>
+    <LtxtThreat>Gefahrenstufe</LtxtThreat>
+    <LtxtWon>Gewonnen</LtxtWon>
+    <LtxtOpen>Offen</LtxtOpen>
+    <LtxtLost>Verloren</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtNoAccessObj>Вам не разрешено видеть"{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Деловые партнеры</DtxtBPS>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Территория</DtxtTerritory>
+    <DtxtDays>Дней</DtxtDays>
+    <DtxtWeeks>Недели</DtxtWeeks>
+    <DtxtMonths>Месяцы</DtxtMonths>
+    <LtxtInvTotal>Объем продаж</LtxtInvTotal>
+    <LtxtOwner>Ответственный</LtxtOwner>
+    <LtxtOpporName>Имя возможности</LtxtOpporName>
+    <LtxtOpporId>№ возможности</LtxtOpporId>
+    <LtxtStatus>Статус</LtxtStatus>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата окончания</LtxtEndDate>
+    <LtxtPotential>Прогноз</LtxtPotential>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtStages>Этапы</LtxtStages>
+    <LtxtCompetition>Конкуренты</LtxtCompetition>
+    <LtxtReason>Причины</LtxtReason>
+    <LtxtClosePlan>Окончание в течение</LtxtClosePlan>
+    <LtxtCloseDate>Плановая дата окончания</LtxtCloseDate>
+    <LtxtMaxSumLoc>Ожидаемая сумма</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Взвешенная сумма</LtxtWtSumLoc>
+    <LtxtPrcntProf>Валовая прибыль, %</LtxtPrcntProf>
+    <LtxtSumProfL>Сумма валовой прибыли</LtxtSumProfL>
+    <LtxtIntRate>Намерение</LtxtIntRate>
+    <LtxtIntRange>Область интересов</LtxtIntRange>
+    <LtxtPrimary>Основной</LtxtPrimary>
+    <LtxtChnCode>Код БП (канал сбыта)</LtxtChnCode>
+    <LtxtChnName>Название БП</LtxtChnName>
+    <LtxtChnCnt>Контактное лицо БП</LtxtChnCnt>
+    <LtxtRemarks>Примечания</LtxtRemarks>
+    <LtxtInfSource>Источник информации</LtxtInfSource>
+    <LtxtIndustry>Отрасль</LtxtIndustry>
+    <LtxtStage>Этап</LtxtStage>
+    <LtxtDocType>Вид документа</LtxtDocType>
+    <LtxtDocNum>Номер документа</LtxtDocNum>
+    <LtxtRelationship>Отношение</LtxtRelationship>
+    <LtxtRelBP>Связанный БП</LtxtRelBP>
+    <LtxtThreat>Уровень опасности</LtxtThreat>
+    <LtxtWon>Реализована</LtxtWon>
+    <LtxtOpen>Не завершена</LtxtOpen>
+    <LtxtLost>Упущена</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtNoAccessObj>Nemáte přístup pro zobrazení "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Obchodní partneři</DtxtBPS>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Území</DtxtTerritory>
+    <DtxtDays>Dny</DtxtDays>
+    <DtxtWeeks>Týdnů</DtxtWeeks>
+    <DtxtMonths>Měsíců</DtxtMonths>
+    <LtxtInvTotal>Celková fakturov.částka</LtxtInvTotal>
+    <LtxtOwner>Pracovník odbytu</LtxtOwner>
+    <LtxtOpporName>Název příležitosti</LtxtOpporName>
+    <LtxtOpporId>Č.příležitosti</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Datum zahájení</LtxtStartDate>
+    <LtxtEndDate>Datum uzavření</LtxtEndDate>
+    <LtxtPotential>Potenciál</LtxtPotential>
+    <LtxtGeneral>Všeobecně</LtxtGeneral>
+    <LtxtStages>Úrovně</LtxtStages>
+    <LtxtCompetition>Konkurenti</LtxtCompetition>
+    <LtxtReason>Důvody</LtxtReason>
+    <LtxtClosePlan>Plánované uzavření v</LtxtClosePlan>
+    <LtxtCloseDate>Plánované datum ukončení</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potenciální částka</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Vážená částka</LtxtWtSumLoc>
+    <LtxtPrcntProf>Zisk brutto %</LtxtPrcntProf>
+    <LtxtSumProfL>Suma zisku brutto</LtxtSumProfL>
+    <LtxtIntRate>Míra zájmu</LtxtIntRate>
+    <LtxtIntRange>Oblast zájemce</LtxtIntRange>
+    <LtxtPrimary>Primární</LtxtPrimary>
+    <LtxtChnCode>Kód kanálu OP</LtxtChnCode>
+    <LtxtChnName>Název kanálu OP</LtxtChnName>
+    <LtxtChnCnt>Kontaktní osoba - kanál OP</LtxtChnCnt>
+    <LtxtRemarks>Poznámky</LtxtRemarks>
+    <LtxtInfSource>Infromační zdroj</LtxtInfSource>
+    <LtxtIndustry>Odvětví</LtxtIndustry>
+    <LtxtStage>Úroveň</LtxtStage>
+    <LtxtDocType>Druh dokladu</LtxtDocType>
+    <LtxtDocNum>Č.dokladu</LtxtDocNum>
+    <LtxtRelationship>Vztah</LtxtRelationship>
+    <LtxtRelBP>Související OP</LtxtRelBP>
+    <LtxtThreat>Úroveň rizika</LtxtThreat>
+    <LtxtWon>Získáno</LtxtWon>
+    <LtxtOpen>Otevřeno</LtxtOpen>
+    <LtxtLost>Ztraceno</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtNoAccessObj>Nie masz dostępu do podglądu "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Partnerzy biznesowi</DtxtBPS>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Terytorium</DtxtTerritory>
+    <DtxtDays>Dni</DtxtDays>
+    <DtxtWeeks>Tygodnie</DtxtWeeks>
+    <DtxtMonths>Miesiące</DtxtMonths>
+    <LtxtInvTotal>Zafakturowana kwota razem</LtxtInvTotal>
+    <LtxtOwner>Właściciel</LtxtOwner>
+    <LtxtOpporName>Nazwa szansy sprzedaży</LtxtOpporName>
+    <LtxtOpporId>Nr szansy sprzedaży</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Data rozpoczęcia</LtxtStartDate>
+    <LtxtEndDate>Termin zamknięcia</LtxtEndDate>
+    <LtxtPotential>Potencjał</LtxtPotential>
+    <LtxtGeneral>Ogólnie</LtxtGeneral>
+    <LtxtStages>Etapy</LtxtStages>
+    <LtxtCompetition>Konkurencja</LtxtCompetition>
+    <LtxtReason>Przyczyny</LtxtReason>
+    <LtxtClosePlan>Przewidywane zamknięcie w</LtxtClosePlan>
+    <LtxtCloseDate>Przewidywana data zamknięcia</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potencjalna kwota</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Kwota ważona</LtxtWtSumLoc>
+    <LtxtPrcntProf>Zysk brutto %</LtxtPrcntProf>
+    <LtxtSumProfL>Zysk brutto razem</LtxtSumProfL>
+    <LtxtIntRate>Stopień zainteresowania</LtxtIntRate>
+    <LtxtIntRange>Obszar zainteresowania</LtxtIntRange>
+    <LtxtPrimary>Pierwotne</LtxtPrimary>
+    <LtxtChnCode>Kod PH sprzedaży pośredniej</LtxtChnCode>
+    <LtxtChnName>PH sprzedaży pośredniej</LtxtChnName>
+    <LtxtChnCnt>Osoba do kontaktów</LtxtChnCnt>
+    <LtxtRemarks>Uwagi</LtxtRemarks>
+    <LtxtInfSource>Źródło informacji</LtxtInfSource>
+    <LtxtIndustry>Branża</LtxtIndustry>
+    <LtxtStage>Etap</LtxtStage>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtDocNum>Nr dokumentu</LtxtDocNum>
+    <LtxtRelationship>Relacja</LtxtRelationship>
+    <LtxtRelBP>Powiązany PH</LtxtRelBP>
+    <LtxtThreat>Poziom ryzyka</LtxtThreat>
+    <LtxtWon>Pozyskane</LtxtWon>
+    <LtxtOpen>Otwórz</LtxtOpen>
+    <LtxtLost>Utracone</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtNoAccessObj>Nemáte prístup pozrieť si "{0}"</DtxtNoAccessObj>
+    <DtxtBPS>Obchodní partneri</DtxtBPS>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtTerritory>Územie</DtxtTerritory>
+    <DtxtDays>Dni</DtxtDays>
+    <DtxtWeeks>Týždňov</DtxtWeeks>
+    <DtxtMonths>Mesiacov</DtxtMonths>
+    <LtxtInvTotal>Faktur.čiastka celkom</LtxtInvTotal>
+    <LtxtOwner>Vlastník</LtxtOwner>
+    <LtxtOpporName>Názov príležitosti</LtxtOpporName>
+    <LtxtOpporId>Číslo príležitosti</LtxtOpporId>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Dátum otvorenia</LtxtStartDate>
+    <LtxtEndDate>Dátum uzavretia</LtxtEndDate>
+    <LtxtPotential>Potenciál</LtxtPotential>
+    <LtxtGeneral>Všeobecne</LtxtGeneral>
+    <LtxtStages>Úrovne</LtxtStages>
+    <LtxtCompetition>Konkurenti</LtxtCompetition>
+    <LtxtReason>Dôvody</LtxtReason>
+    <LtxtClosePlan>Plánované uzavretie v</LtxtClosePlan>
+    <LtxtCloseDate>Plánovaný dát.ukončenia</LtxtCloseDate>
+    <LtxtMaxSumLoc>Potenciálna čiastka</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>Vážená čiastka</LtxtWtSumLoc>
+    <LtxtPrcntProf>Zisk brutto %</LtxtPrcntProf>
+    <LtxtSumProfL>Suma zisku brutto</LtxtSumProfL>
+    <LtxtIntRate>Miera záujmu</LtxtIntRate>
+    <LtxtIntRange>Oblasť záujmu</LtxtIntRange>
+    <LtxtPrimary>Primárny</LtxtPrimary>
+    <LtxtChnCode>OP: Kód kanála</LtxtChnCode>
+    <LtxtChnName>OP: Názov kanála</LtxtChnName>
+    <LtxtChnCnt>OP: Kont.osoba kanála</LtxtChnCnt>
+    <LtxtRemarks>Poznámky</LtxtRemarks>
+    <LtxtInfSource>Zdroj informácií</LtxtInfSource>
+    <LtxtIndustry>Odvetvie</LtxtIndustry>
+    <LtxtStage>Úroveň</LtxtStage>
+    <LtxtDocType>Druh dokladu</LtxtDocType>
+    <LtxtDocNum>Čís.dokl.</LtxtDocNum>
+    <LtxtRelationship>Vzťah</LtxtRelationship>
+    <LtxtRelBP>Prepojený OP</LtxtRelBP>
+    <LtxtThreat>Stupeň rizika</LtxtThreat>
+    <LtxtWon>Získané</LtxtWon>
+    <LtxtOpen>Otvorenie</LtxtOpen>
+    <LtxtLost>Stratené</LtxtLost>
+    <LttlSOConfDetails>&lt;--&gt;</LttlSOConfDetails>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtNoAccessObj>DtxtNoAccessObj</DtxtNoAccessObj>
+    <DtxtBPS>DtxtBPS</DtxtBPS>
+    <DtxtProject>DtxtProject</DtxtProject>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtTerritory>DtxtTerritory</DtxtTerritory>
+    <DtxtDays>DtxtDays</DtxtDays>
+    <DtxtWeeks>DtxtWeeks</DtxtWeeks>
+    <DtxtMonths>DtxtMonths</DtxtMonths>
+    <LtxtInvTotal>LtxtInvTotal</LtxtInvTotal>
+    <LtxtOwner>LtxtOwner</LtxtOwner>
+    <LtxtOpporName>LtxtOpporName</LtxtOpporName>
+    <LtxtOpporId>LtxtOpporId</LtxtOpporId>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtPotential>LtxtPotential</LtxtPotential>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtStages>LtxtStages</LtxtStages>
+    <LtxtCompetition>LtxtCompetition</LtxtCompetition>
+    <LtxtReason>LtxtReason</LtxtReason>
+    <LtxtClosePlan>LtxtClosePlan</LtxtClosePlan>
+    <LtxtCloseDate>LtxtCloseDate</LtxtCloseDate>
+    <LtxtMaxSumLoc>LtxtMaxSumLoc</LtxtMaxSumLoc>
+    <LtxtWtSumLoc>LtxtWtSumLoc</LtxtWtSumLoc>
+    <LtxtPrcntProf>LtxtPrcntProf</LtxtPrcntProf>
+    <LtxtSumProfL>LtxtSumProfL</LtxtSumProfL>
+    <LtxtIntRate>LtxtIntRate</LtxtIntRate>
+    <LtxtIntRange>LtxtIntRange</LtxtIntRange>
+    <LtxtPrimary>LtxtPrimary</LtxtPrimary>
+    <LtxtChnCode>LtxtChnCode</LtxtChnCode>
+    <LtxtChnName>LtxtChnName</LtxtChnName>
+    <LtxtChnCnt>LtxtChnCnt</LtxtChnCnt>
+    <LtxtRemarks>LtxtRemarks</LtxtRemarks>
+    <LtxtInfSource>LtxtInfSource</LtxtInfSource>
+    <LtxtIndustry>LtxtIndustry</LtxtIndustry>
+    <LtxtStage>LtxtStage</LtxtStage>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtRelationship>LtxtRelationship</LtxtRelationship>
+    <LtxtRelBP>LtxtRelBP</LtxtRelBP>
+    <LtxtThreat>LtxtThreat</LtxtThreat>
+    <LtxtWon>LtxtWon</LtxtWon>
+    <LtxtOpen>LtxtOpen</LtxtOpen>
+    <LtxtLost>LtxtLost</LtxtLost>
+    <LttlSOConfDetails>LttlSOConfDetails</LttlSOConfDetails>
+  </language>
+</languages>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Send</DtxtSend>
+    <DtxtClear>Clear</DtxtClear>
+    <LtxtUrgent>Urgent</LtxtUrgent>
+    <LtxtUsers>Users</LtxtUsers>
+    <LtxtNewMessage>New SBO Message</LtxtNewMessage>
+    <LtxtValSubject>You must enter the subject</LtxtValSubject>
+    <LtxtValSelUsr>You must select a user</LtxtValSelUsr>
+    <LtxtValMsg>You must enter the message</LtxtValMsg>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtMessage>Mensaje</DtxtMessage>
+    <DtxtSend>Enviar</DtxtSend>
+    <DtxtClear>Borrar</DtxtClear>
+    <LtxtUrgent>Urgente</LtxtUrgent>
+    <LtxtUsers>Usuarios</LtxtUsers>
+    <LtxtNewMessage>Nuevo Mensaje SBO</LtxtNewMessage>
+    <LtxtValSubject>Debe introducir el asunto</LtxtValSubject>
+    <LtxtValSelUsr>Debe seleccionar un usuario</LtxtValSelUsr>
+    <LtxtValMsg>Debe introducir el mensaje</LtxtValMsg>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtMessage>הודעה</DtxtMessage>
+    <DtxtSend>שלח</DtxtSend>
+    <DtxtClear>מחק</DtxtClear>
+    <LtxtUrgent>דחוף</LtxtUrgent>
+    <LtxtUsers>משתמשים</LtxtUsers>
+    <LtxtNewMessage>הודעה חדשה</LtxtNewMessage>
+    <LtxtValSubject>יש למלא שדה נושא</LtxtValSubject>
+    <LtxtValSelUsr>יש לבחור משתמש</LtxtValSelUsr>
+    <LtxtValMsg>יש למלא תוכן הודעה</LtxtValMsg>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Send</DtxtSend>
+    <DtxtClear>Clear</DtxtClear>
+    <LtxtUrgent>Urgent</LtxtUrgent>
+    <LtxtUsers>Users</LtxtUsers>
+    <LtxtNewMessage>New SBO Message</LtxtNewMessage>
+    <LtxtValSubject>You must enter the subject</LtxtValSubject>
+    <LtxtValSelUsr>You must select a user</LtxtValSelUsr>
+    <LtxtValMsg>You must enter the message</LtxtValMsg>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtMessage>Mensagem</DtxtMessage>
+    <DtxtSend>Enviar</DtxtSend>
+    <DtxtClear>Apagar</DtxtClear>
+    <LtxtUrgent>Urgente</LtxtUrgent>
+    <LtxtUsers>Usuários</LtxtUsers>
+    <LtxtNewMessage>Nova Mensagem SBO</LtxtNewMessage>
+    <LtxtValSubject>Você deve inserir um assunto</LtxtValSubject>
+    <LtxtValSelUsr>Você deve selecionar um usuário</LtxtValSelUsr>
+    <LtxtValMsg>Você deve inserir uma mensagem</LtxtValMsg>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Envoyer</DtxtSend>
+    <DtxtClear>Éffacer</DtxtClear>
+    <LtxtUrgent>&lt;--&gt;</LtxtUrgent>
+    <LtxtUsers>&lt;--&gt;</LtxtUsers>
+    <LtxtNewMessage>&lt;--&gt;</LtxtNewMessage>
+    <LtxtValSubject>&lt;--&gt;</LtxtValSubject>
+    <LtxtValSelUsr>&lt;--&gt;</LtxtValSelUsr>
+    <LtxtValMsg>&lt;--&gt;</LtxtValMsg>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtMessage>Nachricht</DtxtMessage>
+    <DtxtSend>Senden</DtxtSend>
+    <DtxtClear>Löschen</DtxtClear>
+    <LtxtUrgent>&lt;--&gt;</LtxtUrgent>
+    <LtxtUsers>&lt;--&gt;</LtxtUsers>
+    <LtxtNewMessage>&lt;--&gt;</LtxtNewMessage>
+    <LtxtValSubject>&lt;--&gt;</LtxtValSubject>
+    <LtxtValSelUsr>&lt;--&gt;</LtxtValSelUsr>
+    <LtxtValMsg>&lt;--&gt;</LtxtValMsg>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtMessage>Сообщение</DtxtMessage>
+    <DtxtSend>Посылать</DtxtSend>
+    <DtxtClear>Ластик</DtxtClear>
+    <LtxtUrgent>&lt;--&gt;</LtxtUrgent>
+    <LtxtUsers>&lt;--&gt;</LtxtUsers>
+    <LtxtNewMessage>&lt;--&gt;</LtxtNewMessage>
+    <LtxtValSubject>&lt;--&gt;</LtxtValSubject>
+    <LtxtValSelUsr>&lt;--&gt;</LtxtValSelUsr>
+    <LtxtValMsg>&lt;--&gt;</LtxtValMsg>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtMessage>Vzkaz</DtxtMessage>
+    <DtxtSend>Poslat</DtxtSend>
+    <DtxtClear>Vymazat</DtxtClear>
+    <LtxtUrgent>Urgentní</LtxtUrgent>
+    <LtxtUsers>Uživatelé</LtxtUsers>
+    <LtxtNewMessage>Nová zpráva pro SBO</LtxtNewMessage>
+    <LtxtValSubject>Musíte zadat předmět</LtxtValSubject>
+    <LtxtValSelUsr>Musíte vybrat uživatele</LtxtValSelUsr>
+    <LtxtValMsg>Musíte vložit zprávu</LtxtValMsg>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtMessage>Wiadomość</DtxtMessage>
+    <DtxtSend>Wyślij</DtxtSend>
+    <DtxtClear>Skasuj</DtxtClear>
+    <LtxtUrgent>Pilne</LtxtUrgent>
+    <LtxtUsers>Użytkownicy</LtxtUsers>
+    <LtxtNewMessage>Nowa wiadomość SBO</LtxtNewMessage>
+    <LtxtValSubject>Musisz wprowadzić przedmiot/temat</LtxtValSubject>
+    <LtxtValSelUsr>Musisz wybrać użytkownika</LtxtValSelUsr>
+    <LtxtValMsg>Musisz wpisać wiadomość</LtxtValMsg>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtMessage>Správa</DtxtMessage>
+    <DtxtSend>Odoslať</DtxtSend>
+    <DtxtClear>Vymazať</DtxtClear>
+    <LtxtUrgent>Urgentné</LtxtUrgent>
+    <LtxtUsers>Užívatelia</LtxtUsers>
+    <LtxtNewMessage>Nová SBO Správa</LtxtNewMessage>
+    <LtxtValSubject>Musíte zadať predmet</LtxtValSubject>
+    <LtxtValSelUsr>Musíte zvoliť užívateľa</LtxtValSelUsr>
+    <LtxtValMsg>Musíte zadať správu</LtxtValMsg>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>&lt;--&gt;</DtxtSubject>
+    <DtxtMessage>&lt;--&gt;</DtxtMessage>
+    <DtxtSend>&lt;--&gt;</DtxtSend>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <LtxtUrgent>&lt;--&gt;</LtxtUrgent>
+    <LtxtUsers>&lt;--&gt;</LtxtUsers>
+    <LtxtNewMessage>&lt;--&gt;</LtxtNewMessage>
+    <LtxtValSubject>&lt;--&gt;</LtxtValSubject>
+    <LtxtValSelUsr>&lt;--&gt;</LtxtValSelUsr>
+    <LtxtValMsg>&lt;--&gt;</LtxtValMsg>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtMessage>DtxtMessage</DtxtMessage>
+    <DtxtSend>DtxtSend</DtxtSend>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <LtxtUrgent>LtxtUrgent</LtxtUrgent>
+    <LtxtUsers>LtxtUsers</LtxtUsers>
+    <LtxtNewMessage>LtxtNewMessage</LtxtNewMessage>
+    <LtxtValSubject>LtxtValSubject</LtxtValSubject>
+    <LtxtValSelUsr>LtxtValSelUsr</LtxtValSelUsr>
+    <LtxtValMsg>LtxtValMsg</LtxtValMsg>
+  </language>
+</languages>

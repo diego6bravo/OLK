@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>All</DtxtAll>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LttlPendLst>Open documents list</LttlPendLst>
+    <LtxtDocType>Document type</LtxtDocType>
+    <LtxtDocNum>Doc. N°</LtxtDocNum>
+    <LtxtDue>Due Date</LtxtDue>
+    <LtxtAntiq>Days</LtxtAntiq>
+    <LtxtReserved>Reserved</LtxtReserved>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LttlPendLst>Listado de pendientes</LttlPendLst>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtDocNum>N° Doc.</LtxtDocNum>
+    <LtxtDue>F. Vencimiento</LtxtDue>
+    <LtxtAntiq>Días</LtxtAntiq>
+    <LtxtReserved>Reservada</LtxtReserved>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtType>סוג</DtxtType>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <LttlPendLst>רשימת פתוחים</LttlPendLst>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtDue>תאריך ערך</LtxtDue>
+    <LtxtAntiq>ימים</LtxtAntiq>
+    <LtxtReserved>שריון</LtxtReserved>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>All</DtxtAll>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LttlPendLst>Open documents list</LttlPendLst>
+    <LtxtDocType>Document type</LtxtDocType>
+    <LtxtDocNum>Doc. N°</LtxtDocNum>
+    <LtxtDue>Due Date</LtxtDue>
+    <LtxtAntiq>Days</LtxtAntiq>
+    <LtxtReserved>Reserved</LtxtReserved>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LttlPendLst>Lista de pendentes</LttlPendLst>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtDocNum>Nº Doc.</LtxtDocNum>
+    <LtxtDue>D. Vencimento</LtxtDue>
+    <LtxtAntiq>Antig.</LtxtAntiq>
+    <LtxtReserved>Reservada</LtxtReserved>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBalance>Solde</DtxtBalance>
+    <LttlPendLst>Liste de pendants</LttlPendLst>
+    <LtxtDocType>Genre de documentation</LtxtDocType>
+    <LtxtDocNum>Numéro de documentation</LtxtDocNum>
+    <LtxtDue>Date d'expiration</LtxtDue>
+    <LtxtAntiq>Jours</LtxtAntiq>
+    <LtxtReserved>&lt;--&gt;</LtxtReserved>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtType>Art</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <LttlPendLst>Dokumentliste öffnen</LttlPendLst>
+    <LtxtDocType>Dokumentart</LtxtDocType>
+    <LtxtDocNum>Dok. N°</LtxtDocNum>
+    <LtxtDue>Fälligkeitsdatum</LtxtDue>
+    <LtxtAntiq>Tage</LtxtAntiq>
+    <LtxtReserved>&lt;--&gt;</LtxtReserved>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtType>Вид</DtxtType>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <LttlPendLst>Открытые списки</LttlPendLst>
+    <LtxtDocType>Тип документа</LtxtDocType>
+    <LtxtDocNum>Номер документа</LtxtDocNum>
+    <LtxtDue>Расчетный день</LtxtDue>
+    <LtxtAntiq>Дни</LtxtAntiq>
+    <LtxtReserved>Броня</LtxtReserved>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <LttlPendLst>Seznam otevřených dokumentů</LttlPendLst>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>č. dok.</LtxtDocNum>
+    <LtxtDue>Datum splatnosti</LtxtDue>
+    <LtxtAntiq>Dny</LtxtAntiq>
+    <LtxtReserved>Vyhrazeno</LtxtReserved>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LttlPendLst>Otwórz listę dokumentów</LttlPendLst>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtDocNum>Dok. Nr</LtxtDocNum>
+    <LtxtDue>Termin płatności</LtxtDue>
+    <LtxtAntiq>Dni</LtxtAntiq>
+    <LtxtReserved>Zarezerwowane</LtxtReserved>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <LttlPendLst>Zoznam otvorených dokumentov</LttlPendLst>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>Dok. č.</LtxtDocNum>
+    <LtxtDue>Dátum splatnosti</LtxtDue>
+    <LtxtAntiq>Dni</LtxtAntiq>
+    <LtxtReserved>Rezervované</LtxtReserved>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <LttlPendLst>LttlPendLst</LttlPendLst>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtDue>LtxtDue</LtxtDue>
+    <LtxtAntiq>LtxtAntiq</LtxtAntiq>
+    <LtxtReserved>LtxtReserved</LtxtReserved>
+  </language>
+</languages>

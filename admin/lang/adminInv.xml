@@ -1,0 +1,1342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtSeries>Series</DtxtSeries>
+    <DtxtError>Error</DtxtError>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtBy>By</DtxtBy>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtCheckOnly>Check Only</DtxtCheckOnly>
+    <DtxtNone>None</DtxtNone>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtNotApply>Does not apply</DtxtNotApply>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtLock>Lock (Y/N)</DtxtLock>
+    <DtxtChecked>Checked (Y/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>You must verify the catalog filter query</LtxtValCatFltQryVal>
+    <LtxtValFldQry>You can\'t apply a catalog filter without providing the filter\'s query</LtxtValFldQry>
+    <LtxtValWhs>Please select a warehouse</LtxtValWhs>
+    <LttlInvSearch>General Rules for Inventory Searches</LttlInvSearch>
+    <LttlInvSearchNote>Here the minimum quantity and price of items shown to agents and clients while performing item searches may be specified.</LttlInvSearchNote>
+    <LtxtMinInv>Minimum Stock (Clients)</LtxtMinInv>
+    <LtxtMinInvV>Minimum Stock (Agents)</LtxtMinInvV>
+    <LtxtManageItmWhs>Manage Default Warehouse by Item</LtxtManageItmWhs>
+    <LtxtMinPrice>Minimum Price</LtxtMinPrice>
+    <Ltxtf_creacion>Days Items are Considered New</Ltxtf_creacion>
+    <LttlAvlMan>Availability Management</LttlAvlMan>
+    <LttlAvlManNote>This section allows you to choose which inventory availability value, at the moment of purchase, will be considered the real available quantity upon which calculations will be based.</LttlAvlManNote>
+    <LtxtVerfyDisp>Verify Availability</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Verify Availability by Warehouse</LtxtVerfyDispWhs>
+    <LttlCatFilter>Catalog filter</LttlCatFilter>
+    <LttlCatFilterNote>Here a default filter for the catalog may be specified.</LttlCatFilterNote>
+    <LtxtGenFAppV>Apply to Agents</LtxtGenFAppV>
+    <LtxtGenFAppC>Apply to Clients</LtxtGenFAppC>
+    <LtxtWhsCode>Default Sales Warehouse</LtxtWhsCode>
+    <LoptSelWhs>Select a Warehouse</LoptSelWhs>
+    <LtxtInvBDGBy>Item Details - Inventory by</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP Warehouse</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Go2 Warehouse</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Verification Method</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LttlCodeBarQry>Custom BarCode</LttlCodeBarQry>
+    <LttlCodeBarQryNote>Here a custom query may be specified which will execute whenever searching for an item by barcode. i.e. If an Agent in a mobile session on a barcode reading device uses the reader to input the barcode into an item search, the query will execute on the barcode read, and search for the query result.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Bar Code</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>You cannot apply a custom barcode without the query</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>You must verify the custom barcode query</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check (Mobile)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Enable Barcode Query</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>BarCode Query</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Show Required Sum</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Allow Quantity Overload</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Final Operation</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Update sales order</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Enable Expenses Export</LtxtSaleChkImpExp>
+    <LtxtCustom>Custom</LtxtCustom>
+    <LtxtGoodsReceiptPO>Goods Receipt PO</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Enable expenses export (goods receipt only)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Incoming Inventory Check (Mobile)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>This section contains the options that apply to outgoing inventory.</LttlSalesOrderNote>
+    <LttlPurOrderNote>This section contains options that apply to incoming inventory.</LttlPurOrderNote>
+    <LtxtChkValSeries>Serial Number Validation</LtxtChkValSeries>
+    <LtxtSourceDoc>Source Document</LtxtSourceDoc>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Filter Method</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Recommended Items</LttlItemRecQry>
+    <LttlItemRecQryNote>Here a custom query may be specified which executes whenever an item is added to the cart and, if a result is returned, used to show the item recommendation form.</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Enable Recommended Items</LtxtEnableItemRec>
+    <LtxtItemRepQry>Recommended Items Query</LtxtItemRepQry>
+    <LtxtReqCols>Required Columns</LtxtReqCols>
+    <LtxtItemRepQryNote>Nullable columns values will be replaced with the default values</LtxtItemRepQryNote>
+    <LtxtUserType>User Type</LtxtUserType>
+    <LtxtValItemRecQry>You cannot enable recommended items without the query</LtxtValItemRecQry>
+    <LtxtValRecItemQry>You must verify the recommended items query</LtxtValRecItemQry>
+    <LttlCmb>OLK Combos</LttlCmb>
+    <LttlCmbNote>In this section it is possible to set the rules for OLK Combos</LttlCmbNote>
+    <LtxtEnableCombos>Enable OLK Combos</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>Enable Search Item By Manufacturer Catalogue No.</LtxtEnableSearchItmSu>
+    <LtxtMethod>Method</LtxtMethod>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtWhsCode>Código de Almacén</DtxtWhsCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtError>Error</DtxtError>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtBy>Según</DtxtBy>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtCheckOnly>Revisión Solamente</DtxtCheckOnly>
+    <DtxtNone>Ninguno</DtxtNone>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtNotApply>No aplica</DtxtNotApply>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtLock>Bloqueado (Y/N)</DtxtLock>
+    <DtxtChecked>Marcado (Y/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Debe verificar la consulta de filtro de catálogo</LtxtValCatFltQryVal>
+    <LtxtValFldQry>No puede aplicar un filtro de catálogo sin proveer una consulta de filtro</LtxtValFldQry>
+    <LtxtValWhs>Debe seleccionar un almacén</LtxtValWhs>
+    <LttlInvSearch>Reglas Generales de Búsqueda de Inventario</LttlInvSearch>
+    <LttlInvSearchNote>En esta sección podrá especificar los valores predeterminados de cantidad mínima y precio mínimo, para sus agentes y clientes, al momento de realizar la búsqueda de un artículo. </LttlInvSearchNote>
+    <LtxtMinInv>Inventario mínimo (Clientes)</LtxtMinInv>
+    <LtxtMinInvV>Inventario mínimo (Agentes)</LtxtMinInvV>
+    <LtxtManageItmWhs>Manejar almacén predeterminado del artículo</LtxtManageItmWhs>
+    <LtxtMinPrice>Precio mínimo</LtxtMinPrice>
+    <Ltxtf_creacion>Días para artículos nuevos</Ltxtf_creacion>
+    <LttlAvlMan>Manejo de Disponibilidad</LttlAvlMan>
+    <LttlAvlManNote>En esta sección podrá permitir que sus clientes y agentes observen, al momento de la compra, la cantidad real de un artículo determinado dentro de los almacenes.</LttlAvlManNote>
+    <LtxtVerfyDisp>Verificar disponibilidad</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Verificar disponibilidad según almacén</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filtro de Catálogo</LttlCatFilter>
+    <LttlCatFilterNote>En esta sección podrá especificar un filtro predefinido para el catálogo.</LttlCatFilterNote>
+    <LtxtGenFAppV>Aplicar a agentes</LtxtGenFAppV>
+    <LtxtGenFAppC>Aplicar a clientes</LtxtGenFAppC>
+    <LtxtWhsCode>Almacén predeterminado para ventas</LtxtWhsCode>
+    <LoptSelWhs>Seleccione un almacén</LoptSelWhs>
+    <LtxtInvBDGBy>Detalles del artículo - Inventario según</LtxtInvBDGBy>
+    <LtxtInvBDGByS>Almacén SAP</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Almacén Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Método de Verificación</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Código de Agente</LtxtAgentCode>
+    <LtxtCCode>Código de Cliente (Cliente activo solamente)</LtxtCCode>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LttlCodeBarQry>Código de Barra Personalizado</LttlCodeBarQry>
+    <LttlCodeBarQryNote>En esta sección podrá especificar una consulta personalizada que se ejecutara al momento de realizar una búsqueda de artículo por medio del código de barra.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Código de Barra</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>No puede aplicar un código de barra personalizado sin la consulta</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Debe verificar la consulta personalizada de código de barra</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Revisión de Inventario Saliente (Movil)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Habilitar consulta de COB</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Consulta de COB</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Mostrar suma requerida</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Permitir sobrecarga de cantidades</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Operación final</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Actualizar orden de venta</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Habilitar exportación de gastos</LtxtSaleChkImpExp>
+    <LtxtCustom>Personalizado</LtxtCustom>
+    <LtxtGoodsReceiptPO>Entrada de Mercancías OP</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Habilitar exportación de gastos (entrada solamente)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Revisión de Inventario Entrante (Movil)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>En esta sección podrá especificar las diferentes opciones que aplican a la revisión de inventario saliente.</LttlSalesOrderNote>
+    <LttlPurOrderNote>En esta sección podrá especificar las diferentes opciones que aplican a la revisión de inventario entrante.</LttlPurOrderNote>
+    <LtxtChkValSeries>Validación de números de serie</LtxtChkValSeries>
+    <LtxtSourceDoc>Documento Fuente</LtxtSourceDoc>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPurchase>Compra</LtxtPurchase>
+    <LtxtDocType>Tipo de Documento</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Método de filtro</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Artículos Recomendados</LttlItemRecQry>
+    <LttlItemRecQryNote>En esta sección podrá especificar una consulta personalizada que se ejecutara al momento de agregar un articulo a la canasta y si este devuelve resultado se muestra el formulario de recomendación de articulos</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Habilitar artículos recomendados</LtxtEnableItemRec>
+    <LtxtItemRepQry>Consulta de Artículos Recomendados</LtxtItemRepQry>
+    <LtxtReqCols>Columns Requeridas</LtxtReqCols>
+    <LtxtItemRepQryNote>Los valores de las columnas nulas serán reemplazados con los valores predeterminados</LtxtItemRepQryNote>
+    <LtxtUserType>Tipo de Usuario</LtxtUserType>
+    <LtxtValItemRecQry>No puede habilitar artículos recomendados sin la consulta</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Debe verificar la consulta de artículos recomendados</LtxtValRecItemQry>
+    <LttlCmb>Combos OLK</LttlCmb>
+    <LttlCmbNote>En esta sección podrá especificar las reglas de los Combos OLK</LttlCmbNote>
+    <LtxtEnableCombos>Habilitar Combos OLK</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>Habilitar búsqueda de artículo por código de fabricante</LtxtEnableSearchItmSu>
+    <LtxtMethod>Método</LtxtMethod>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtWhsCode>קוד מחסן</DtxtWhsCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtSeries>סידרה</DtxtSeries>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtBy>לפי</DtxtBy>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtVariable>משתנה</DtxtVariable>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtCheckOnly>בדיקה בלבד</DtxtCheckOnly>
+    <DtxtNone>ללא</DtxtNone>
+    <DtxtReserved>שמור\ה</DtxtReserved>
+    <DtxtNotApply>לא מיושם</DtxtNotApply>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtLock>נעול (Y/N)</DtxtLock>
+    <DtxtChecked>מסומן (Y/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>צריך לאשר את השאילתא למסנן קטלוג</LtxtValCatFltQryVal>
+    <LtxtValFldQry>לא ניתן ליישם פילטר על קטלוג ללא שאילתא</LtxtValFldQry>
+    <LtxtValWhs>צריך לבחור מחסן</LtxtValWhs>
+    <LttlInvSearch>כללים לחיפוש מלאי</LttlInvSearch>
+    <LttlInvSearchNote>בחלק זה תוכל להגדיר כללי ברירות מחדל לחיפוש פריטים באתר ללקוחות ולסוכנים כגון כמות מינמילית ומחיר מינימלי.</LttlInvSearchNote>
+    <LtxtMinInv>מלאי מינימלי (לקוחות)</LtxtMinInv>
+    <LtxtMinInvV>מלאי מינימלי (סוכנים)</LtxtMinInvV>
+    <LtxtManageItmWhs>תמיכה בברירת מחדל למחסן פריט</LtxtManageItmWhs>
+    <LtxtMinPrice>מחיר מינימלי</LtxtMinPrice>
+    <Ltxtf_creacion>ימים לסימון פריטים כחדשים</Ltxtf_creacion>
+    <LttlAvlMan>שיטת זמינות מלאי</LttlAvlMan>
+    <LttlAvlManNote>בחלק זה תוכל להגדיר מה לקוחות וסוכנים יראו ככמויות מלאי זמנים במחסן בזמן קניה באתר</LttlAvlManNote>
+    <LtxtVerfyDisp>בדיקת זמינות מלאי לפי</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>בדיקת זמינות מלאי לפי מחסן</LtxtVerfyDispWhs>
+    <LttlCatFilter>פילטר קטלוג</LttlCatFilter>
+    <LttlCatFilterNote>בחלק זה תוכל ליישם פילטר ברירת מחדל לקטלוג</LttlCatFilterNote>
+    <LtxtGenFAppV>יישם על סוכנים</LtxtGenFAppV>
+    <LtxtGenFAppC>יישם על לקוחות</LtxtGenFAppC>
+    <LtxtWhsCode>מחסן ברירת מחדל למכירות</LtxtWhsCode>
+    <LoptSelWhs>בחירת מחסן ברירת מחדל</LoptSelWhs>
+    <LtxtInvBDGBy>פירוט פריטים - מלאי לפי</LtxtInvBDGBy>
+    <LtxtInvBDGByS>מחסן סאפ</LtxtInvBDGByS>
+    <LtxtInvBDGByB>מחסן Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>שיטת אימות</LtxtVerfyDispMethod>
+    <LtxtAgentCode>קוד סוכן</LtxtAgentCode>
+    <LtxtCCode>קוד לקוח (רק כאשר לקוח מחובר)</LtxtCCode>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LttlCodeBarQry>ברקוד מותאם אישית</LttlCodeBarQry>
+    <LttlCodeBarQryNote>בחלק זה ניתן להתאים אישית שאילתא שתופעל ברגע חיפוש ברקוד</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>ברקוד</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>לא ניתן ליישם עריכת ברקוד ללא שאילתא </LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>יש לאשר את השאילתא לברקוד מותאם אישית</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>יציאת מלאי (פוקט)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>אפשר ברקוד מותאם אישית</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>שאילתת ברקוד</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>הצג כמיות נחוצות</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>אפשר עומס יתר בכמויות</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>תוצאות סופיות</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>עדכן הזמנת לקוחות</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>אפשר העברת הוצאות</LtxtSaleChkImpExp>
+    <LtxtCustom>מותאם אישית</LtxtCustom>
+    <LtxtGoodsReceiptPO>תעודת רכש</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>אפשר יבוא הוצאות (תעודת רכש בלבד)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>כניסת מלאי (פוקט)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>בחלק זה תוכל להגדיר את מדיניות יציאת מלאי (פוקט)</LttlSalesOrderNote>
+    <LttlPurOrderNote>בחלק זה תוכל להגדיר את מדיניות כניסת מלאי (פוקט)</LttlPurOrderNote>
+    <LtxtChkValSeries>בדיקת מספרים סידורים</LtxtChkValSeries>
+    <LtxtSourceDoc>מסמך מקור</LtxtSourceDoc>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtPurchase>קנייה</LtxtPurchase>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtApplyInvFiltersBy>שיטת פילטר</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>פריטים ממולצים</LttlItemRecQry>
+    <LttlItemRecQryNote>בחלק זה תוכל לבנות שאילתא שתופעל ברגע הוספת פריט לסל, במידה והשאילתא תחזיר תוצאה, יפתח טופס פריטים ממולצים ויתמלא מתוצאות השאילתא</LttlItemRecQryNote>
+    <LtxtEnableItemRec>הפעל פריטים ממולצים</LtxtEnableItemRec>
+    <LtxtItemRepQry>שאילתא פריטים ממולצים</LtxtItemRepQry>
+    <LtxtReqCols>שדות חובה</LtxtReqCols>
+    <LtxtItemRepQryNote>ערכים ב NULL יוחלפו בערכים ברירות מחדל</LtxtItemRepQryNote>
+    <LtxtUserType>סוג משתמש</LtxtUserType>
+    <LtxtValItemRecQry>לא ניתן להפעיל "פריטים ממולצים" ללא שאילתא</LtxtValItemRecQry>
+    <LtxtValRecItemQry>יש לאשר את השאילתא של "פריטים מומלצים"</LtxtValRecItemQry>
+    <LttlCmb>שילובים של אולק</LttlCmb>
+    <LttlCmbNote>בחלק זה תוכל לפרט את חוקיי השילובים של אולק</LttlCmbNote>
+    <LtxtEnableCombos>אפשר שילובים של אולק</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>אפשר חיפוש פריט לפי מס' קטלוגי של היצרן</LtxtEnableSearchItmSu>
+    <LtxtMethod>שיטה</LtxtMethod>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtSeries>Series</DtxtSeries>
+    <DtxtError>Error</DtxtError>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtBy>By</DtxtBy>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtCheckOnly>Check Only</DtxtCheckOnly>
+    <DtxtNone>None</DtxtNone>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtNotApply>Does not apply</DtxtNotApply>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtLock>Lock (Y/N)</DtxtLock>
+    <DtxtChecked>Checked (Y/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>You must verify the catalog filter query</LtxtValCatFltQryVal>
+    <LtxtValFldQry>You can\'t apply a catalog filter without providing the filter\'s query</LtxtValFldQry>
+    <LtxtValWhs>Please select a warehouse</LtxtValWhs>
+    <LttlInvSearch>General Rules for Inventory Searches</LttlInvSearch>
+    <LttlInvSearchNote>Here the minimum quantity and price of items shown to agents and clients while performing item searches may be specified.</LttlInvSearchNote>
+    <LtxtMinInv>Minimum Stock (Clients)</LtxtMinInv>
+    <LtxtMinInvV>Minimum Stock (Agents)</LtxtMinInvV>
+    <LtxtManageItmWhs>Manage Default Warehouse by Item</LtxtManageItmWhs>
+    <LtxtMinPrice>Minimum Price</LtxtMinPrice>
+    <Ltxtf_creacion>Days Items are Considered New</Ltxtf_creacion>
+    <LttlAvlMan>Availability Management</LttlAvlMan>
+    <LttlAvlManNote>This section allows you to choose which inventory availability value, at the moment of purchase, will be considered the real available quantity upon which calculations will be based.</LttlAvlManNote>
+    <LtxtVerfyDisp>Verify Availability</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Verify Availability by Warehouse</LtxtVerfyDispWhs>
+    <LttlCatFilter>Catalog filter</LttlCatFilter>
+    <LttlCatFilterNote>Here a default filter for the catalog may be specified.</LttlCatFilterNote>
+    <LtxtGenFAppV>Apply to Agents</LtxtGenFAppV>
+    <LtxtGenFAppC>Apply to Clients</LtxtGenFAppC>
+    <LtxtWhsCode>Default Sales Warehouse</LtxtWhsCode>
+    <LoptSelWhs>Select a Warehouse</LoptSelWhs>
+    <LtxtInvBDGBy>Item Details - Inventory by</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP Warehouse</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Go2 Warehouse</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Verification Method</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LttlCodeBarQry>Custom BarCode</LttlCodeBarQry>
+    <LttlCodeBarQryNote>Here a custom query may be specified which will execute whenever searching for an item by barcode. i.e. If an Agent in a mobile session on a barcode reading device uses the reader to input the barcode into an item search, the query will execute on the barcode read, and search for the query result.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Bar Code</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>You cannot apply a custom barcode without the query</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>You must verify the custom barcode query</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check (Mobile)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Enable Barcode Query</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>BarCode Query</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Show Required Sum</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Allow Quantity Overload</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Final Operation</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Update sales order</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Enable Expenses Export</LtxtSaleChkImpExp>
+    <LtxtCustom>Custom</LtxtCustom>
+    <LtxtGoodsReceiptPO>Goods Receipt PO</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Enable expenses export (goods receipt only)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Incoming Inventory Check (Mobile)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>This section contains the options that apply to outgoing inventory.</LttlSalesOrderNote>
+    <LttlPurOrderNote>This section contains options that apply to incoming inventory.</LttlPurOrderNote>
+    <LtxtChkValSeries>Serial Number Validation</LtxtChkValSeries>
+    <LtxtSourceDoc>Source Document</LtxtSourceDoc>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Filter Method</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Recommended Items</LttlItemRecQry>
+    <LttlItemRecQryNote>Here a custom query may be specified which executes whenever an item is added to the cart and, if a result is returned, used to show the item recommendation form.</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Enable Recommended Items</LtxtEnableItemRec>
+    <LtxtItemRepQry>Recommended Items Query</LtxtItemRepQry>
+    <LtxtReqCols>Required Columns</LtxtReqCols>
+    <LtxtItemRepQryNote>Nullable columns values will be replaced with the default values</LtxtItemRepQryNote>
+    <LtxtUserType>User Type</LtxtUserType>
+    <LtxtValItemRecQry>You cannot enable recommended items without the query</LtxtValItemRecQry>
+    <LtxtValRecItemQry>You must verify the recommended items query</LtxtValRecItemQry>
+    <LttlCmb>OLK Combos</LttlCmb>
+    <LttlCmbNote>In this section it is possible to set the rules for OLK Combos</LttlCmbNote>
+    <LtxtEnableCombos>Enable OLK Combos</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>Method</LtxtMethod>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtWhsCode>Código do Armazém</DtxtWhsCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtSeries>Série</DtxtSeries>
+    <DtxtError>Erro</DtxtError>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtBy>De acordo com</DtxtBy>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtVariable>Variável</DtxtVariable>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtCheckOnly>Somente Revisão</DtxtCheckOnly>
+    <DtxtNone>Nenhum</DtxtNone>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtNotApply>Não se aplica</DtxtNotApply>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtLock>Bloqueado (S/N)</DtxtLock>
+    <DtxtChecked>Marcado (S/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Deve verificar a consulta do filtro do catálogo</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Não pode aplicar um filtro do catálogo sem prover uma consulta do filtro</LtxtValFldQry>
+    <LtxtValWhs>Deve selecionar um Armazém</LtxtValWhs>
+    <LttlInvSearch>Regras Gerais de Busca de Estoque</LttlInvSearch>
+    <LttlInvSearchNote>Nesta seção, poderá especificar os valores predeterminados de quantidade mínima e preço mínimo para seus vendedores e clientes no momento de realizar a busca de um item.</LttlInvSearchNote>
+    <LtxtMinInv>Estoque mínimo (Clientes)</LtxtMinInv>
+    <LtxtMinInvV>Estoque mínimo (Vendedores)</LtxtMinInvV>
+    <LtxtManageItmWhs>Gerenciamento padrão do armazém por item</LtxtManageItmWhs>
+    <LtxtMinPrice>Preço mínimo</LtxtMinPrice>
+    <Ltxtf_creacion>Dias para itens novos</Ltxtf_creacion>
+    <LttlAvlMan>Gerenciamento da disponibilidade</LttlAvlMan>
+    <LttlAvlManNote>Nesta seção, poderá permitir que seus clientes e vendedores observem, no momento da compra, a quantidade real de um item determinado dentro dos armazéns</LttlAvlManNote>
+    <LtxtVerfyDisp>Verificar disponibilidade</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Verificar disponibilidade de acordo com o armazém</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filtro do Catálogo</LttlCatFilter>
+    <LttlCatFilterNote>Nesta seção, poderá especificar um filtro predefinido para o catálogo.</LttlCatFilterNote>
+    <LtxtGenFAppV>Aplicar a vendedores</LtxtGenFAppV>
+    <LtxtGenFAppC>Aplicar a clientes</LtxtGenFAppC>
+    <LtxtWhsCode>Armazém predeterminado para vendas</LtxtWhsCode>
+    <LoptSelWhs>Selecione um armazém</LoptSelWhs>
+    <LtxtInvBDGBy>Detalhes do item - Pelo Estoque</LtxtInvBDGBy>
+    <LtxtInvBDGByS>Armazém SAP</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Armazém Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Método de Verificação</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Código de Vendedor</LtxtAgentCode>
+    <LtxtCCode>Código de Cliente (Somente Cliente ativo )</LtxtCCode>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LttlCodeBarQry>Código de Barras Personalizado</LttlCodeBarQry>
+    <LttlCodeBarQryNote>Nesta seção, poderá especificar uma consulta personalizada para ser executada no momento de realização de uma busca de um item através de código de barras. </LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Código de barras</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>Você não pode aplicar um código de barras personalizado sem consultar</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Você deve verificar a consulta personalizada de código de barras</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Revisão de Estoque de Saída (Mobile)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Habilitar consulta de Código de Barras</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Consulta de Código de Barras</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Mostrar quantidade requerida</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Permitir excesso de quantidades</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Operação final</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Atualizar Pedido de Venda</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Habilitar exportação de despesas</LtxtSaleChkImpExp>
+    <LtxtCustom>Personalizado</LtxtCustom>
+    <LtxtGoodsReceiptPO>Recebimento de Mercadorias - OC</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Habilitar exportação de despesas (Somente entrada)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Revisão de Estoque de Entrada (Mobile)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>Nesta seção, poderá especificar as diferentes opções que se aplicam as revisão de estoque de saída.</LttlSalesOrderNote>
+    <LttlPurOrderNote>Nesta seção, poderá especificar as diferentes opções que se aplicam a revisão de estoque de entrada.</LttlPurOrderNote>
+    <LtxtChkValSeries>Validação de números de série</LtxtChkValSeries>
+    <LtxtSourceDoc>Documento Base</LtxtSourceDoc>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPurchase>Compra</LtxtPurchase>
+    <LtxtDocType>Tipo de Documento</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Método de filtro</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Itens Recomendados</LttlItemRecQry>
+    <LttlItemRecQryNote>Nesta seção, poderá especificar uma consulta personalizada para ser executada ao adicionar um item no carrinho de compras, se um resultado for retornado, será mostrado em uma tela os itens recomendados</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Habilitar itens recomendados</LtxtEnableItemRec>
+    <LtxtItemRepQry>Consulta de Itens Recomendados</LtxtItemRepQry>
+    <LtxtReqCols>Colunas Requeridas</LtxtReqCols>
+    <LtxtItemRepQryNote>Os valores das colunas nulas serão trocados pelos valores padrões</LtxtItemRepQryNote>
+    <LtxtUserType>Tipo de usuário</LtxtUserType>
+    <LtxtValItemRecQry>Você não pode habilitar itens recomendados sem consultar</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Você deve verificar a consulta de itens recomendados</LtxtValRecItemQry>
+    <LttlCmb>Combos OnlineKit</LttlCmb>
+    <LttlCmbNote>Nesta seção, poderá especificar as regras dos Combos OnlineKit</LttlCmbNote>
+    <LtxtEnableCombos>Habilitar Combos OnlineKit</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>Habilitar busca de item por código de fabricante</LtxtEnableSearchItmSu>
+    <LtxtMethod>Método</LtxtMethod>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtWhsCode>Code de magasin</DtxtWhsCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtSeries>Série</DtxtSeries>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtBy>Selon</DtxtBy>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtCheckOnly>&lt;--&gt;</DtxtCheckOnly>
+    <DtxtNone>&lt;--&gt;</DtxtNone>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtNotApply>&lt;--&gt;</DtxtNotApply>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtLock>&lt;--&gt;</DtxtLock>
+    <DtxtChecked>&lt;--&gt;</DtxtChecked>
+    <LtxtValCatFltQryVal>Devez vous vérifier la consultation du filtre du catalogue</LtxtValCatFltQryVal>
+    <LtxtValFldQry>On ne peut pas appliquer un filtre du catalogue sans fournir une consultation du filtre</LtxtValFldQry>
+    <LtxtValWhs>Devez-vous sélectionner un magasin</LtxtValWhs>
+    <LttlInvSearch>Règles généraux de recherche d'inventaire</LttlInvSearch>
+    <LttlInvSearchNote>Dans cette section vous pourrez spécifier les valeurs prédéterminée de quantité minime et de prix minime, pour vos agents et clients, au moment de réaliser la recherche d'un article.</LttlInvSearchNote>
+    <LtxtMinInv>Inventaire minime (Clients)</LtxtMinInv>
+    <LtxtMinInvV>Inventaire minime (Agents)</LtxtMinInvV>
+    <LtxtManageItmWhs>Guider le magasin prédéterminé d'article</LtxtManageItmWhs>
+    <LtxtMinPrice>Prix minime</LtxtMinPrice>
+    <Ltxtf_creacion>Jours pour des nouveaux articles</Ltxtf_creacion>
+    <LttlAvlMan>Déplacement de la disponibilité</LttlAvlMan>
+    <LttlAvlManNote>Dans cette section vous pourrez permettre que vos clients et agents observent, au moment de l'achat, la quantité réale d'un article déterminé dedans des magasins.</LttlAvlManNote>
+    <LtxtVerfyDisp>Vérifier la disponibilité</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Vérifier la disponibilité selon le magasin</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filtre du catalogue</LttlCatFilter>
+    <LttlCatFilterNote>Dans cette section vous pourrez spécifier un filtre prédéterminé pour le catalogue.</LttlCatFilterNote>
+    <LtxtGenFAppV>Appliquer aux Agents</LtxtGenFAppV>
+    <LtxtGenFAppC>Appliquer aux Clients</LtxtGenFAppC>
+    <LtxtWhsCode>Magasin prédéterminé aux ventes</LtxtWhsCode>
+    <LoptSelWhs>Sélectionnez-vous un magasin</LoptSelWhs>
+    <LtxtInvBDGBy>&lt;--&gt;</LtxtInvBDGBy>
+    <LtxtInvBDGByS>Magasin SAP</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Magasin Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Méthode de la vérification</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Code d'Agent</LtxtAgentCode>
+    <LtxtCCode>Code de Client (Client seulement actif)</LtxtCCode>
+    <LtxtAvlVars>Variables disonibles</LtxtAvlVars>
+    <LttlCodeBarQry>&lt;--&gt;</LttlCodeBarQry>
+    <LttlCodeBarQryNote>&lt;--&gt;</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>&lt;--&gt;</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>&lt;--&gt;</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>&lt;--&gt;</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>&lt;--&gt;</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>&lt;--&gt;</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>&lt;--&gt;</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>&lt;--&gt;</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>&lt;--&gt;</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>&lt;--&gt;</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>&lt;--&gt;</LtxtSaleChkImpExp>
+    <LtxtCustom>&lt;--&gt;</LtxtCustom>
+    <LtxtGoodsReceiptPO>&lt;--&gt;</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>&lt;--&gt;</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>&lt;--&gt;</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>&lt;--&gt;</LttlSalesOrderNote>
+    <LttlPurOrderNote>&lt;--&gt;</LttlPurOrderNote>
+    <LtxtChkValSeries>&lt;--&gt;</LtxtChkValSeries>
+    <LtxtSourceDoc>&lt;--&gt;</LtxtSourceDoc>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtApplyInvFiltersBy>&lt;--&gt;</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>&lt;--&gt;</LttlItemRecQry>
+    <LttlItemRecQryNote>&lt;--&gt;</LttlItemRecQryNote>
+    <LtxtEnableItemRec>&lt;--&gt;</LtxtEnableItemRec>
+    <LtxtItemRepQry>&lt;--&gt;</LtxtItemRepQry>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtItemRepQryNote>&lt;--&gt;</LtxtItemRepQryNote>
+    <LtxtUserType>&lt;--&gt;</LtxtUserType>
+    <LtxtValItemRecQry>&lt;--&gt;</LtxtValItemRecQry>
+    <LtxtValRecItemQry>&lt;--&gt;</LtxtValRecItemQry>
+    <LttlCmb>&lt;--&gt;</LttlCmb>
+    <LttlCmbNote>&lt;--&gt;</LttlCmbNote>
+    <LtxtEnableCombos>&lt;--&gt;</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtWhsCode>Lagerkennzeichen</DtxtWhsCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtBy>Durch</DtxtBy>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtCheckOnly>Markieren</DtxtCheckOnly>
+    <DtxtNone>Keine</DtxtNone>
+    <DtxtReserved>Belegt</DtxtReserved>
+    <DtxtNotApply>Nicht Gültig</DtxtNotApply>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtLock>Sperren (J/N)</DtxtLock>
+    <DtxtChecked>Markiert (J/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Sie müssen die Katalogfilter-Anfrage bestätigen</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Sie können keinen Katalogfilter anwenden ohne die Filteranfrage anzugeben</LtxtValFldQry>
+    <LtxtValWhs>Bitte wählen Sie ein Lager</LtxtValWhs>
+    <LttlInvSearch>Allgemeine Bedingungen für die Inventursuche</LttlInvSearch>
+    <LttlInvSearchNote>In diesem Bereich kann man standard Werte bestimmen, welche die Mindestmenge und den Mindestpreis festlegen bei der Suche nach einem Artikel.</LttlInvSearchNote>
+    <LtxtMinInv>Mindestbestand (Kunden)</LtxtMinInv>
+    <LtxtMinInvV>Mindestbestand (Agenten)</LtxtMinInvV>
+    <LtxtManageItmWhs>Standard Lager verwalten pro Artikel</LtxtManageItmWhs>
+    <LtxtMinPrice>Mindestpreis</LtxtMinPrice>
+    <Ltxtf_creacion>Tage für neue Artikel</Ltxtf_creacion>
+    <LttlAvlMan>Verfügbarkeits Verwaltung</LttlAvlMan>
+    <LttlAvlManNote>In diesem Bereich können Ihre Kunden und Agenten die reale Menge eines Artikels im Lager einsehen, zum Zeitpunkt des Ankaufs.</LttlAvlManNote>
+    <LtxtVerfyDisp>Verfügbarkeit bestätigen</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Verfügbarkeit pro Lager bestätigen</LtxtVerfyDispWhs>
+    <LttlCatFilter>Katalogfilter</LttlCatFilter>
+    <LttlCatFilterNote>In diesem Bereich kann man einen standard Katalogfilter festlegen.</LttlCatFilterNote>
+    <LtxtGenFAppV>An Agenten anwenden</LtxtGenFAppV>
+    <LtxtGenFAppC>An Kunden anwenden</LtxtGenFAppC>
+    <LtxtWhsCode>Standard Verkaufslager</LtxtWhsCode>
+    <LoptSelWhs>Lager auswählen</LoptSelWhs>
+    <LtxtInvBDGBy>&lt;--&gt;</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP Lager</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Go2 WMS </LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Bestätigungs Methode</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Agentenkennzeichen</LtxtAgentCode>
+    <LtxtCCode>Kundenkennzeichen (nur aktive Kunden)</LtxtCCode>
+    <LtxtAvlVars>Verfügbare Variablen</LtxtAvlVars>
+    <LttlCodeBarQry>&lt;--&gt;</LttlCodeBarQry>
+    <LttlCodeBarQryNote>&lt;--&gt;</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>&lt;--&gt;</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>&lt;--&gt;</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>&lt;--&gt;</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>&lt;--&gt;</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>&lt;--&gt;</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>&lt;--&gt;</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>&lt;--&gt;</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>&lt;--&gt;</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>&lt;--&gt;</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>&lt;--&gt;</LtxtSaleChkImpExp>
+    <LtxtCustom>&lt;--&gt;</LtxtCustom>
+    <LtxtGoodsReceiptPO>&lt;--&gt;</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>&lt;--&gt;</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>&lt;--&gt;</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>&lt;--&gt;</LttlSalesOrderNote>
+    <LttlPurOrderNote>&lt;--&gt;</LttlPurOrderNote>
+    <LtxtChkValSeries>&lt;--&gt;</LtxtChkValSeries>
+    <LtxtSourceDoc>&lt;--&gt;</LtxtSourceDoc>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtApplyInvFiltersBy>&lt;--&gt;</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>&lt;--&gt;</LttlItemRecQry>
+    <LttlItemRecQryNote>&lt;--&gt;</LttlItemRecQryNote>
+    <LtxtEnableItemRec>&lt;--&gt;</LtxtEnableItemRec>
+    <LtxtItemRepQry>&lt;--&gt;</LtxtItemRepQry>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtItemRepQryNote>&lt;--&gt;</LtxtItemRepQryNote>
+    <LtxtUserType>&lt;--&gt;</LtxtUserType>
+    <LtxtValItemRecQry>&lt;--&gt;</LtxtValItemRecQry>
+    <LtxtValRecItemQry>&lt;--&gt;</LtxtValRecItemQry>
+    <LttlCmb>&lt;--&gt;</LttlCmb>
+    <LttlCmbNote>&lt;--&gt;</LttlCmbNote>
+    <LtxtEnableCombos>&lt;--&gt;</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtWhsCode>Код склада</DtxtWhsCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtSeries>Серии</DtxtSeries>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtBy>Автор</DtxtBy>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtVariable>Переменная</DtxtVariable>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtCheckOnly>Только тестирование</DtxtCheckOnly>
+    <DtxtNone>Некакой</DtxtNone>
+    <DtxtReserved>Сохранить</DtxtReserved>
+    <DtxtNotApply>Не выполнено</DtxtNotApply>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtLock>Закрыть (Да\Нет)</DtxtLock>
+    <DtxtChecked>Обозначен (да\нет)</DtxtChecked>
+    <LtxtValCatFltQryVal>Вам необходимо проверить запрос каталога фильтров</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Вы не можете применить фильтр каталога без предоставления  фильтра запросов</LtxtValFldQry>
+    <LtxtValWhs>Пожалуйста, выберите склад</LtxtValWhs>
+    <LttlInvSearch>Общие правила для поиска инвентаризации </LttlInvSearch>
+    <LttlInvSearchNote>В этом разделе можно указать значения по умолчанию минимальное количество и минимальную цену, для агентов и клиентов, при поиске детали.</LttlInvSearchNote>
+    <LtxtMinInv>Минимальный запас (клиенты)</LtxtMinInv>
+    <LtxtMinInvV>Минимальный запас (агенты)</LtxtMinInvV>
+    <LtxtManageItmWhs>Управление по умолчанию складом за единицу</LtxtManageItmWhs>
+    <LtxtMinPrice>Минимальная цена</LtxtMinPrice>
+    <Ltxtf_creacion>Количество дней для новых элементов</Ltxtf_creacion>
+    <LttlAvlMan>Методы инвентаризации наличия</LttlAvlMan>
+    <LttlAvlManNote>В этом разделе вашим клиентам и агентам можно просматривать, на момент покупки, реальное количество конкретный пункт на складе.</LttlAvlManNote>
+    <LtxtVerfyDisp>Проверить наличие</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Проверить наличие по складу</LtxtVerfyDispWhs>
+    <LttlCatFilter>Фильтр каталога</LttlCatFilter>
+    <LttlCatFilterNote>В этом разделе можно задать фильтр по умолчанию для каталога.</LttlCatFilterNote>
+    <LtxtGenFAppV>Применить к агентам</LtxtGenFAppV>
+    <LtxtGenFAppC>Применить к клиентам</LtxtGenFAppC>
+    <LtxtWhsCode>По умолчанию продажа со склада </LtxtWhsCode>
+    <LoptSelWhs>Выберите склад</LoptSelWhs>
+    <LtxtInvBDGBy> Подробности деталей - в наличии</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP склад</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Склад Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Метод проверки</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Код агентов</LtxtAgentCode>
+    <LtxtCCode>Код клиента (активный клиент)</LtxtCCode>
+    <LtxtAvlVars>Перемена времени</LtxtAvlVars>
+    <LttlCodeBarQry>Пользовательские штрих-коды</LttlCodeBarQry>
+    <LttlCodeBarQryNote>В этом разделе можно создать пользовательский запрос, который выполняется при поиске позиции через штрих-код.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Штрих-код</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>Вы не можете применять пользовательские штрих-коды без запроса</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Вам необходимо убедиться,в пользовательском запросе штрих-кода</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Исходящие инвентарной проверки (карманный)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Включите запрос штрих-кода</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Запрос баркода</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Показать необходимое количество</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Разрешить количества перегрузки</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Заключительные результаты</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Обновление заказов</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Разрешить экспорт расходы</LtxtSaleChkImpExp>
+    <LtxtCustom>Согласованно лично</LtxtCustom>
+    <LtxtGoodsReceiptPO>Закупочные квитанции</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Разрешить экспорт расходы ( только полученые товары)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Окно инвентарной проверки (карманный)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>В этом разделе можно изменить различные параметры, которые применяются к исходящим инвентаризации </LttlSalesOrderNote>
+    <LttlPurOrderNote>В этом разделе можно изменить различные параметры, которые применяются на входящий инвентарь.</LttlPurOrderNote>
+    <LtxtChkValSeries>Проверка серийного номера</LtxtChkValSeries>
+    <LtxtSourceDoc>Исходный документ</LtxtSourceDoc>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtPurchase>Покупка</LtxtPurchase>
+    <LtxtDocType>Тип документа</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Методом фильтра</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Рекомендуемые детали</LttlItemRecQry>
+    <LttlItemRecQryNote>В этом разделе можно создать пользовательский запрос, который выполняется при добавлении элемента в корзину, и если результат возвращается она показывает формы рекомендаций</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Включите рекомендуемые детали</LtxtEnableItemRec>
+    <LtxtItemRepQry>Рекомендуемые запросы</LtxtItemRepQry>
+    <LtxtReqCols>Столбцы</LtxtReqCols>
+    <LtxtItemRepQryNote>Нуль возможности значениям столбца будут заменены на значения по умолчанию</LtxtItemRepQryNote>
+    <LtxtUserType>Тип пользователя</LtxtUserType>
+    <LtxtValItemRecQry>Вы не можете позволить рекомендовать детали, без запроса</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Вам необходимо убедиться,в рекомендованных запросах деталей</LtxtValRecItemQry>
+    <LttlCmb>&lt;--&gt;</LttlCmb>
+    <LttlCmbNote>&lt;--&gt;</LttlCmbNote>
+    <LtxtEnableCombos>&lt;--&gt;</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtBy>Kým</DtxtBy>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtVariable>Proměnná</DtxtVariable>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtCheckOnly>Pouze šek</DtxtCheckOnly>
+    <DtxtNone>Žádné</DtxtNone>
+    <DtxtReserved>Vyhrazeno</DtxtReserved>
+    <DtxtNotApply>Neaplikuje se</DtxtNotApply>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtLock>Zamknout (A/N)</DtxtLock>
+    <DtxtChecked>Ověřeno (Y/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Musíte ověřit dotaz filtru katalogu</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Nemůžete použít filtr katalogu bez dotazu filtru</LtxtValFldQry>
+    <LtxtValWhs>Vyberte prosím sklad</LtxtValWhs>
+    <LttlInvSearch>Všeobecná pravidla pro vyhledávání zásob</LttlInvSearch>
+    <LttlInvSearchNote>V této sekci je možné určit minimální množství a ceny položek zobrazených agentům a klientům při hledání položek.</LttlInvSearchNote>
+    <LtxtMinInv>Minimální zásoby (klienti)</LtxtMinInv>
+    <LtxtMinInvV>Minimální zásoby (agenti)</LtxtMinInvV>
+    <LtxtManageItmWhs>Řídit výchozí sklad po položkách</LtxtManageItmWhs>
+    <LtxtMinPrice>Minimální cena</LtxtMinPrice>
+    <Ltxtf_creacion>Počet dnů, po které je položka považována za novou</Ltxtf_creacion>
+    <LttlAvlMan>Správa dostupnosti</LttlAvlMan>
+    <LttlAvlManNote>V této sekci mohou vaši klienti a agenti vidět v okamžiku nákupu, jaké je reálné množství dané položky ve skladu.</LttlAvlManNote>
+    <LtxtVerfyDisp>Ověřit dostupnost</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Ověřit dostupnost podle skladu</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filtr katalogu</LttlCatFilter>
+    <LttlCatFilterNote>V této sekci je možné určit výchozí filtr pro katalog.</LttlCatFilterNote>
+    <LtxtGenFAppV>Použít na agenty</LtxtGenFAppV>
+    <LtxtGenFAppC>Použít na klienty</LtxtGenFAppC>
+    <LtxtWhsCode>Výchozí prodejní sklad</LtxtWhsCode>
+    <LoptSelWhs>Vyberte sklad</LoptSelWhs>
+    <LtxtInvBDGBy>Údaje o položce - Zásoby podle</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP Sklad</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Go2 sklad</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Způsob ověření</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtCCode>Kód klienta (pouze aktivní klient)</LtxtCCode>
+    <LtxtAvlVars>Možné proměnné</LtxtAvlVars>
+    <LttlCodeBarQry>Přizpůsobený čárový kód</LttlCodeBarQry>
+    <LttlCodeBarQryNote>V této sekci je možné vytvořit upravený dotaz, který bude proveden při hledání položky podle čárového kódu</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Čárový kód</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>Není možné použít přizpůsobený čárový kód bez dotazu</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Musíte ověřit dotaz na přizpůsobené čárové kódy</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Kontrola odchozích zásob (kapesní)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Povolit dotaz na čárový kód</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Dotaz na čárové kódy</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Zobrazit požadovanou sumu</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Povolit přetížení aktivity</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Konečná operace</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Aktualizovat příkaz k prodeji</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Povolit report o výdajích</LtxtSaleChkImpExp>
+    <LtxtCustom>Přizpůsobené</LtxtCustom>
+    <LtxtGoodsReceiptPO>Příjemka zboží NO</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Povolit report o výdajích (pouze příjemky zboží)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Kontrola příchozích zásob (kapesní)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote> Tato sekce obsahuje možnosti, které se vztahují na odchozí zásoby.</LttlSalesOrderNote>
+    <LttlPurOrderNote>Tato sekce obsahuje možnosti, které se vztahují na příchozí zásoby.</LttlPurOrderNote>
+    <LtxtChkValSeries>Ověření seriového čísla</LtxtChkValSeries>
+    <LtxtSourceDoc>Zdrojový dokument</LtxtSourceDoc>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Způsob filtrování</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Doporučené položky</LttlItemRecQry>
+    <LttlItemRecQryNote>V této sekci je možné vytvořit upravený dotaz, který bude proveden při přidání položky do košíku. Pokud bude vrácen výsledek, zobrazí se obrazovka s doporučeními</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Povolit Doporučené položky</LtxtEnableItemRec>
+    <LtxtItemRepQry>Dotaz na doporučené položky</LtxtItemRepQry>
+    <LtxtReqCols>Povinné sloupce</LtxtReqCols>
+    <LtxtItemRepQryNote>null možných sloupců bude nahrazeno výchozími hodnotami</LtxtItemRepQryNote>
+    <LtxtUserType>Typ uživatele</LtxtUserType>
+    <LtxtValItemRecQry>Nemůžete povolit doporučené položky bez dotazu</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Musíte ověřit dotaz na doporučené položky</LtxtValRecItemQry>
+    <LttlCmb>&lt;--&gt;</LttlCmb>
+    <LttlCmbNote>&lt;--&gt;</LttlCmbNote>
+    <LtxtEnableCombos>&lt;--&gt;</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtWhsCode>Kod magazynu</DtxtWhsCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtSeries>Seria</DtxtSeries>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtBy>Przez</DtxtBy>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtVariable>Zmienne</DtxtVariable>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtCheckOnly>Tylko czek</DtxtCheckOnly>
+    <DtxtNone>Żaden</DtxtNone>
+    <DtxtReserved>Zarezerwowany/a</DtxtReserved>
+    <DtxtNotApply>Nie dotyczy</DtxtNotApply>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtLock>Blokada (T/N)</DtxtLock>
+    <DtxtChecked>Sprawdzony (T/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Musisz zweryfikować filtr zapytania katalogu</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Nie możesz zastosować filtra katalogu bez dostarczenia zapytania filtra</LtxtValFldQry>
+    <LtxtValWhs>Proszę wybrać magazyn</LtxtValWhs>
+    <LttlInvSearch>Ogólne zasady poszukiwań w zapasach/magazynie</LttlInvSearch>
+    <LttlInvSearchNote>Tutaj można określić minimalna ilość i cenę pozycji pokazanych sprzedawcom w trakcie poszukiwań pozycji</LttlInvSearchNote>
+    <LtxtMinInv>Minimalny zapas (Klienci)</LtxtMinInv>
+    <LtxtMinInvV>Minimalny zapas (Sprzedawcy)</LtxtMinInvV>
+    <LtxtManageItmWhs>Zarządzaj domyślnym magazynem poprzez pozycje</LtxtManageItmWhs>
+    <LtxtMinPrice>Cena minimalna</LtxtMinPrice>
+    <Ltxtf_creacion>Dni kiedy pozycje uznawane są za nowe</Ltxtf_creacion>
+    <LttlAvlMan>Zarządzanie dostępnością</LttlAvlMan>
+    <LttlAvlManNote>Ten działa pozwala wybrać, która wartość dostępności zapasu, w momencie zakupu, będzie uznawana za prawdziwa ilość dostępną i na której oparte będą obliczenia. </LttlAvlManNote>
+    <LtxtVerfyDisp>Zweryfikuj dostępność</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Zweryfikuj dostępność według magazynu</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filtr katalogu</LttlCatFilter>
+    <LttlCatFilterNote>Tutaj można określić domyślny filtr dla katalogu</LttlCatFilterNote>
+    <LtxtGenFAppV>Zastosuj do Sprzedawców</LtxtGenFAppV>
+    <LtxtGenFAppC>Zastosuj do Klientów</LtxtGenFAppC>
+    <LtxtWhsCode>Domyślny magazyn sprzedaży</LtxtWhsCode>
+    <LoptSelWhs>Wybierz magazyn</LoptSelWhs>
+    <LtxtInvBDGBy>Szczegóły pozycji - zinwentaryzowane zgodnie z</LtxtInvBDGBy>
+    <LtxtInvBDGByS>Magazyn SAP</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Magazyn Go2</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Weryfikacja metody</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Kod sprzedawcy</LtxtAgentCode>
+    <LtxtCCode>Kod klienta (tylko aktywni klienci)</LtxtCCode>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LttlCodeBarQry>Kod kreskowy na zamówienie</LttlCodeBarQry>
+    <LttlCodeBarQryNote>Tutaj może być określone zindywidualizowane zapytanie, które będzie realizowane w trakcie poszukiwania pozycji po kodzie kreskowym tj.. kiedy Sprzedawca w trakcie sesji mobilnej na urządzeniu odczytującym kod kreskowy korzysta z czytnika aby umieścić kod kreskowy na poszukiwaniu pozycji, zapytanie zostanie zrealizowane na czytniku kodu kreskowego i przeszuka wyniki.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Kod kreskowy </LtxtBarCodeVar>
+    <LtxtValCodeBarQry>Nie możesz zastosować kodu kreskowego na zamówienie bez zapytania</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Musisz zweryfikować zapytanie dotyczące kod kreskowego na zamówienie</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Sprawdzenie zapasów wychodzących (schowek)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Aktywuj kod kreskowy na zamówienie</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Zapytanie dotyczące kodu kreskowego</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Pokaż wymagana sumę</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Zezwól na przeciążenie ilości</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Końcowa operacja</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Uaktualnij zlecenie sprzedaży</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Zezwól na eksport wydatków</LtxtSaleChkImpExp>
+    <LtxtCustom>Na zamówienie/zindywidualizowane</LtxtCustom>
+    <LtxtGoodsReceiptPO>Dokument Pz</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Zezwól na eksport wydatków (tylko Dokument Pz)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Sprawdzenie zapasów przychodzących (Schowek)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>Ten dział zawiera opcje zapasów wychodzących</LttlSalesOrderNote>
+    <LttlPurOrderNote>Ten dział zawiera opcje zapasów przychodzących</LttlPurOrderNote>
+    <LtxtChkValSeries>Sprawdzenie numeru serii</LtxtChkValSeries>
+    <LtxtSourceDoc>Dokument źródłowy</LtxtSourceDoc>
+    <LtxtSale>Sprzedaż </LtxtSale>
+    <LtxtPurchase>Zakup</LtxtPurchase>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Metoda filtra</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Rekomendowane pozycje</LttlItemRecQry>
+    <LttlItemRecQryNote>Tutaj można określić indywidualne zapytanie, które jest realizowane za każdym razem gdy pozycja jest dodawana do koszyka i jeśli uzyska wynik, jest wykorzystane do pokazania formularza rekomendacji pozycji.</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Aktywuj zalecane pozycje</LtxtEnableItemRec>
+    <LtxtItemRepQry>Zapytanie dotyczące rekomendowanych pozycji</LtxtItemRepQry>
+    <LtxtReqCols>Wymagane pola</LtxtReqCols>
+    <LtxtItemRepQryNote>Wartości  NULL kolumn zostaną zamienione na wartości domyślne</LtxtItemRepQryNote>
+    <LtxtUserType>Typ użytkownika</LtxtUserType>
+    <LtxtValItemRecQry>Nie możesz aktywować rekomendowanych pozycji bez zapytania</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Musisz zweryfikować zapytanie dotyczące rekomendowanych pozycji</LtxtValRecItemQry>
+    <LttlCmb>Kombinacje OLK</LttlCmb>
+    <LttlCmbNote>W tym dziale można ustawić zasady dla kombinacja OLK </LttlCmbNote>
+    <LtxtEnableCombos>Zezwól na kombinacje OLK</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtSeries>Séria</DtxtSeries>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtBy>Kým</DtxtBy>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtVariable>Premenná</DtxtVariable>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtCheckOnly>Len skontrolovať</DtxtCheckOnly>
+    <DtxtNone>Žiaden</DtxtNone>
+    <DtxtReserved>Rezervované</DtxtReserved>
+    <DtxtNotApply>Neaplikuje</DtxtNotApply>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtLock>Zamknúť (A/N)</DtxtLock>
+    <DtxtChecked>Skontrolované (A/N)</DtxtChecked>
+    <LtxtValCatFltQryVal>Musíte overiť dotaz na filter katalógu</LtxtValCatFltQryVal>
+    <LtxtValFldQry>Nemôžete uplatniť filter katalógu bez poskytnutia dotazu filtra</LtxtValFldQry>
+    <LtxtValWhs>Prosím vyberte sklad</LtxtValWhs>
+    <LttlInvSearch>Všeobecné pravidlá pre Vyhľadávanie inventáru</LttlInvSearch>
+    <LttlInvSearchNote>Tu sa dá špecifikovať minimálne množstvo a cena položiek zobrazovaná agentom a klientom počas vykonávania vyhľadávania položiek.</LttlInvSearchNote>
+    <LtxtMinInv>Minimálne zásoby (Klienti)</LtxtMinInv>
+    <LtxtMinInvV>Minimálne zásoby (Agenti)</LtxtMinInvV>
+    <LtxtManageItmWhs>Spravovať východiskový sklad podľa položky</LtxtManageItmWhs>
+    <LtxtMinPrice>Minimálna cena</LtxtMinPrice>
+    <Ltxtf_creacion>Počet dní, kedy sú položky považované za nové</Ltxtf_creacion>
+    <LttlAvlMan>Administrácia dostupnosti</LttlAvlMan>
+    <LttlAvlManNote>Táto sekcia Vám umožňuje vybrať, ktorá hodnota dostupnosti inventára bude v momente nákupu považovaná za reálne dostupné množstvo, na ktorom budú založené kalkulácie.</LttlAvlManNote>
+    <LtxtVerfyDisp>Overiť dostupnosť</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>Overiť dostupnosť podľa skladu</LtxtVerfyDispWhs>
+    <LttlCatFilter>Filter katalógu</LttlCatFilter>
+    <LttlCatFilterNote>Tu sa dá špecifikovať východiskový filter pre katalóg.</LttlCatFilterNote>
+    <LtxtGenFAppV>Aplikovať agentom</LtxtGenFAppV>
+    <LtxtGenFAppC>Aplikovať klientom</LtxtGenFAppC>
+    <LtxtWhsCode>Východiskový predajný sklad</LtxtWhsCode>
+    <LoptSelWhs>Vybrať sklad</LoptSelWhs>
+    <LtxtInvBDGBy>Údaje o položke - Inventár podľa</LtxtInvBDGBy>
+    <LtxtInvBDGByS>SAP sklad</LtxtInvBDGByS>
+    <LtxtInvBDGByB>Go2 Sklad</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>Overovacia metóda</LtxtVerfyDispMethod>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtCCode>Kód klienta (Len aktívny klient)</LtxtCCode>
+    <LtxtAvlVars>Dostupné premenné</LtxtAvlVars>
+    <LttlCodeBarQry>Vlastný čiarový kód</LttlCodeBarQry>
+    <LttlCodeBarQryNote>Tu sa dá špecifikovať samotný dotaz, ktorý sa zrealizuje vždy počas vyhľadávania položky podľa čiarového kódu, napr. Ak agent v mobilnej session na zariadení čítajúcom čiarové kódy použije čítačku na vloženie čiarového kódu do vyhľadávania položiek, dotaz sa zrealizuje na čítačke čiarových kódov a vyhľadá sa výsledok dotazu.</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>Čiarový kód</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>Nemôžete uplatniť samotný čiarový kód bez dotazu</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>Musíte overiť dotaz na samotný čiarový kód</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>Kontrola odchádzajúceho inventáru (Vreckový počítač)</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>Umožniť dotaz na čiarový kód</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>Dotaz na čiarový kód</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>Zobraziť požadovanú sumu</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>Povoliť prekročenie množstva</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>Konečný úkon</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>Aktualizovať zákazku odberateľa</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>Umožniť export výdavkov</LtxtSaleChkImpExp>
+    <LtxtCustom>Vlastný</LtxtCustom>
+    <LtxtGoodsReceiptPO>Príjemka</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>Umožniť export výdavkov (len účtenka k tovaru)</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>Kontrola prichádzajúceho inventáru (Vreckový počítač)</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>Táto sekcia obsahuje možnosti, ktoré sa uplatňujú na odchádzajúci inventár.</LttlSalesOrderNote>
+    <LttlPurOrderNote>Táto sekcia obsahuje možnosti, ktoré sa uplatňujú na prichádzajúci inventár.</LttlPurOrderNote>
+    <LtxtChkValSeries>Overenie sériového čísla</LtxtChkValSeries>
+    <LtxtSourceDoc>Zdrojový dokument</LtxtSourceDoc>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtApplyInvFiltersBy>Spôsob filtrovania</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>Odporučené položky</LttlItemRecQry>
+    <LttlItemRecQryNote>Tu sa dá špecifikovať samotný dotaz, ktorý sa zrealizuje vždy, keď je položka pridaná do košíka a ak sa vráti výsledok, ktorý sa použije na zobrazenie formulára doporučenia položky.</LttlItemRecQryNote>
+    <LtxtEnableItemRec>Umožniť odporučené položky</LtxtEnableItemRec>
+    <LtxtItemRepQry>Dotaz na odporučené položky</LtxtItemRepQry>
+    <LtxtReqCols>Požadované stĺpce</LtxtReqCols>
+    <LtxtItemRepQryNote>Vynulovateľné hodnoty stĺpcov budú nahradené východiskovými hodnotami</LtxtItemRepQryNote>
+    <LtxtUserType>Typ užívateľa</LtxtUserType>
+    <LtxtValItemRecQry>Nemôžete umožniť odporučené položky bez dotazu</LtxtValItemRecQry>
+    <LtxtValRecItemQry>Musíte overiť dotaz na odporučené položky</LtxtValRecItemQry>
+    <LttlCmb>OLK kombá</LttlCmb>
+    <LttlCmbNote>V tejto sekcii je možné nastaviť pravidlá pre OLK kombá</LttlCmbNote>
+    <LtxtEnableCombos>Umožniť kombá OLK</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtWhsCode>&lt;--&gt;</DtxtWhsCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtSeries>&lt;--&gt;</DtxtSeries>
+    <DtxtError>&lt;--&gt;</DtxtError>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtBy>&lt;--&gt;</DtxtBy>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtVariable>&lt;--&gt;</DtxtVariable>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>&lt;--&gt;</DtxtSAP>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtCheckOnly>&lt;--&gt;</DtxtCheckOnly>
+    <DtxtNone>&lt;--&gt;</DtxtNone>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtNotApply>&lt;--&gt;</DtxtNotApply>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtLock>&lt;--&gt;</DtxtLock>
+    <DtxtChecked>&lt;--&gt;</DtxtChecked>
+    <LtxtValCatFltQryVal>&lt;--&gt;</LtxtValCatFltQryVal>
+    <LtxtValFldQry>&lt;--&gt;</LtxtValFldQry>
+    <LtxtValWhs>&lt;--&gt;</LtxtValWhs>
+    <LttlInvSearch>&lt;--&gt;</LttlInvSearch>
+    <LttlInvSearchNote>&lt;--&gt;</LttlInvSearchNote>
+    <LtxtMinInv>&lt;--&gt;</LtxtMinInv>
+    <LtxtMinInvV>&lt;--&gt;</LtxtMinInvV>
+    <LtxtManageItmWhs>&lt;--&gt;</LtxtManageItmWhs>
+    <LtxtMinPrice>&lt;--&gt;</LtxtMinPrice>
+    <Ltxtf_creacion>&lt;--&gt;</Ltxtf_creacion>
+    <LttlAvlMan>&lt;--&gt;</LttlAvlMan>
+    <LttlAvlManNote>&lt;--&gt;</LttlAvlManNote>
+    <LtxtVerfyDisp>&lt;--&gt;</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>&lt;--&gt;</LtxtVerfyDispWhs>
+    <LttlCatFilter>&lt;--&gt;</LttlCatFilter>
+    <LttlCatFilterNote>&lt;--&gt;</LttlCatFilterNote>
+    <LtxtGenFAppV>&lt;--&gt;</LtxtGenFAppV>
+    <LtxtGenFAppC>&lt;--&gt;</LtxtGenFAppC>
+    <LtxtWhsCode>&lt;--&gt;</LtxtWhsCode>
+    <LoptSelWhs>&lt;--&gt;</LoptSelWhs>
+    <LtxtInvBDGBy>&lt;--&gt;</LtxtInvBDGBy>
+    <LtxtInvBDGByS>&lt;--&gt;</LtxtInvBDGByS>
+    <LtxtInvBDGByB>&lt;--&gt;</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>&lt;--&gt;</LtxtVerfyDispMethod>
+    <LtxtAgentCode>&lt;--&gt;</LtxtAgentCode>
+    <LtxtCCode>&lt;--&gt;</LtxtCCode>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LttlCodeBarQry>&lt;--&gt;</LttlCodeBarQry>
+    <LttlCodeBarQryNote>&lt;--&gt;</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>&lt;--&gt;</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>&lt;--&gt;</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>&lt;--&gt;</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>&lt;--&gt;</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>&lt;--&gt;</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>&lt;--&gt;</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>&lt;--&gt;</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>&lt;--&gt;</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>&lt;--&gt;</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>&lt;--&gt;</LtxtSaleChkImpExp>
+    <LtxtCustom>&lt;--&gt;</LtxtCustom>
+    <LtxtGoodsReceiptPO>&lt;--&gt;</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>&lt;--&gt;</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>&lt;--&gt;</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>&lt;--&gt;</LttlSalesOrderNote>
+    <LttlPurOrderNote>&lt;--&gt;</LttlPurOrderNote>
+    <LtxtChkValSeries>&lt;--&gt;</LtxtChkValSeries>
+    <LtxtSourceDoc>&lt;--&gt;</LtxtSourceDoc>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtApplyInvFiltersBy>&lt;--&gt;</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>&lt;--&gt;</LttlItemRecQry>
+    <LttlItemRecQryNote>&lt;--&gt;</LttlItemRecQryNote>
+    <LtxtEnableItemRec>&lt;--&gt;</LtxtEnableItemRec>
+    <LtxtItemRepQry>&lt;--&gt;</LtxtItemRepQry>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtItemRepQryNote>&lt;--&gt;</LtxtItemRepQryNote>
+    <LtxtUserType>&lt;--&gt;</LtxtUserType>
+    <LtxtValItemRecQry>&lt;--&gt;</LtxtValItemRecQry>
+    <LtxtValRecItemQry>&lt;--&gt;</LtxtValRecItemQry>
+    <LttlCmb>&lt;--&gt;</LttlCmb>
+    <LttlCmbNote>&lt;--&gt;</LttlCmbNote>
+    <LtxtEnableCombos>&lt;--&gt;</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>&lt;--&gt;</LtxtEnableSearchItmSu>
+    <LtxtMethod>&lt;--&gt;</LtxtMethod>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtWhsCode>DtxtWhsCode</DtxtWhsCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtSeries>DtxtSeries</DtxtSeries>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtBy>DtxtBy</DtxtBy>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtVariable>DtxtVariable</DtxtVariable>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtCheckOnly>DtxtCheckOnly</DtxtCheckOnly>
+    <DtxtNone>DtxtNone</DtxtNone>
+    <DtxtReserved>DtxtReserved</DtxtReserved>
+    <DtxtNotApply>DtxtNotApply</DtxtNotApply>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtLock>DtxtLock</DtxtLock>
+    <DtxtChecked>DtxtChecked</DtxtChecked>
+    <LtxtValCatFltQryVal>LtxtValCatFltQryVal</LtxtValCatFltQryVal>
+    <LtxtValFldQry>LtxtValFldQry</LtxtValFldQry>
+    <LtxtValWhs>LtxtValWhs</LtxtValWhs>
+    <LttlInvSearch>LttlInvSearch</LttlInvSearch>
+    <LttlInvSearchNote>LttlInvSearchNote</LttlInvSearchNote>
+    <LtxtMinInv>LtxtMinInv</LtxtMinInv>
+    <LtxtMinInvV>LtxtMinInvV</LtxtMinInvV>
+    <LtxtManageItmWhs>LtxtManageItmWhs</LtxtManageItmWhs>
+    <LtxtMinPrice>LtxtMinPrice</LtxtMinPrice>
+    <Ltxtf_creacion>Ltxtf_creacion</Ltxtf_creacion>
+    <LttlAvlMan>LttlAvlMan</LttlAvlMan>
+    <LttlAvlManNote>LttlAvlManNote</LttlAvlManNote>
+    <LtxtVerfyDisp>LtxtVerfyDisp</LtxtVerfyDisp>
+    <LtxtVerfyDispWhs>LtxtVerfyDispWhs</LtxtVerfyDispWhs>
+    <LttlCatFilter>LttlCatFilter</LttlCatFilter>
+    <LttlCatFilterNote>LttlCatFilterNote</LttlCatFilterNote>
+    <LtxtGenFAppV>LtxtGenFAppV</LtxtGenFAppV>
+    <LtxtGenFAppC>LtxtGenFAppC</LtxtGenFAppC>
+    <LtxtWhsCode>LtxtWhsCode</LtxtWhsCode>
+    <LoptSelWhs>LoptSelWhs</LoptSelWhs>
+    <LtxtInvBDGBy>LtxtInvBDGBy</LtxtInvBDGBy>
+    <LtxtInvBDGByS>LtxtInvBDGByS</LtxtInvBDGByS>
+    <LtxtInvBDGByB>LtxtInvBDGByB</LtxtInvBDGByB>
+    <LtxtVerfyDispMethod>LtxtVerfyDispMethod</LtxtVerfyDispMethod>
+    <LtxtAgentCode>LtxtAgentCode</LtxtAgentCode>
+    <LtxtCCode>LtxtCCode</LtxtCCode>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LttlCodeBarQry>LttlCodeBarQry</LttlCodeBarQry>
+    <LttlCodeBarQryNote>LttlCodeBarQryNote</LttlCodeBarQryNote>
+    <LtxtBarCodeVar>LtxtBarCodeVar</LtxtBarCodeVar>
+    <LtxtValCodeBarQry>LtxtValCodeBarQry</LtxtValCodeBarQry>
+    <LtxtValBarCodeQry>LtxtValBarCodeQry</LtxtValBarCodeQry>
+    <LtxtSalesOrderCheck>LtxtSalesOrderCheck</LtxtSalesOrderCheck>
+    <LtxtEnableCustomBarco>LtxtEnableCustomBarco</LtxtEnableCustomBarco>
+    <LtxtBarCodeQry>LtxtBarCodeQry</LtxtBarCodeQry>
+    <LtxtSaleChkShowReqSum>LtxtSaleChkShowReqSum</LtxtSaleChkShowReqSum>
+    <LtxtSaleChkAllowOverl>LtxtSaleChkAllowOverl</LtxtSaleChkAllowOverl>
+    <LtxtSaleChkOp>LtxtSaleChkOp</LtxtSaleChkOp>
+    <LtxtUpdSalesOrder>LtxtUpdSalesOrder</LtxtUpdSalesOrder>
+    <LtxtSaleChkImpExp>LtxtSaleChkImpExp</LtxtSaleChkImpExp>
+    <LtxtCustom>LtxtCustom</LtxtCustom>
+    <LtxtGoodsReceiptPO>LtxtGoodsReceiptPO</LtxtGoodsReceiptPO>
+    <LtxtPurChkImpExp>LtxtPurChkImpExp</LtxtPurChkImpExp>
+    <LtxtPurOrderCheck>LtxtPurOrderCheck</LtxtPurOrderCheck>
+    <LttlSalesOrderNote>LttlSalesOrderNote</LttlSalesOrderNote>
+    <LttlPurOrderNote>LttlPurOrderNote</LttlPurOrderNote>
+    <LtxtChkValSeries>LtxtChkValSeries</LtxtChkValSeries>
+    <LtxtSourceDoc>LtxtSourceDoc</LtxtSourceDoc>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPurchase>LtxtPurchase</LtxtPurchase>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtApplyInvFiltersBy>LtxtApplyInvFiltersBy</LtxtApplyInvFiltersBy>
+    <LttlItemRecQry>LttlItemRecQry</LttlItemRecQry>
+    <LttlItemRecQryNote>LttlItemRecQryNote</LttlItemRecQryNote>
+    <LtxtEnableItemRec>LtxtEnableItemRec</LtxtEnableItemRec>
+    <LtxtItemRepQry>LtxtItemRepQry</LtxtItemRepQry>
+    <LtxtReqCols>LtxtReqCols</LtxtReqCols>
+    <LtxtItemRepQryNote>LtxtItemRepQryNote</LtxtItemRepQryNote>
+    <LtxtUserType>LtxtUserType</LtxtUserType>
+    <LtxtValItemRecQry>LtxtValItemRecQry</LtxtValItemRecQry>
+    <LtxtValRecItemQry>LtxtValRecItemQry</LtxtValRecItemQry>
+    <LttlCmb>LttlCmb</LttlCmb>
+    <LttlCmbNote>LttlCmbNote</LttlCmbNote>
+    <LtxtEnableCombos>LtxtEnableCombos</LtxtEnableCombos>
+    <LtxtEnableSearchItmSu>LtxtEnableSearchItmSu</LtxtEnableSearchItmSu>
+    <LtxtMethod>LtxtMethod</LtxtMethod>
+  </language>
+</languages>

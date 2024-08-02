@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtState>State</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendItms>Open Items</LttlPendItms>
+    <LtxtConfDelItm>Are you sure you want to delete this item(s)?</LtxtConfDelItm>
+    <LtxtConfReOpen>Item you wish to edit is in confirmation state; if you continue, the item will return to open status.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtValSelItm>You must select at least one item</LtxtValSelItm>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtPend>Pendiente</DtxtPend>
+    <DtxtConfirmed>Confirmación</DtxtConfirmed>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <LttlPendItms>Artículos Pendientes</LttlPendItms>
+    <LtxtConfDelItm>¿Está seguro que desea eliminar el(los) artículo(s)?</LtxtConfDelItm>
+    <LtxtConfReOpen>El artículo que desea editar está en estado de confirmación, si continúa el artículo volverá al estado de pendiente.\n¿Desea continuar?</LtxtConfReOpen>
+    <LtxtValSelItm>Debe seleccionar al menos un articulo</LtxtValSelItm>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtPend>פתוח</DtxtPend>
+    <DtxtConfirmed>אישור</DtxtConfirmed>
+    <DtxtDelete>מחק</DtxtDelete>
+    <LttlPendItms>פריטים פתוחים</LttlPendItms>
+    <LtxtConfDelItm>האם למחוק פריט(ים)?</LtxtConfDelItm>
+    <LtxtConfReOpen>הפריט שאתה מעוניין לערוך נמצא במצב "המתנה לאישור"  במידה ותמשיך הפריט יחזור למצב פתוח.\nהאם להמשיך?</LtxtConfReOpen>
+    <LtxtValSelItm>יש לבחור לפחות פריט אחד</LtxtValSelItm>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtState>County</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendItms>Open Items</LttlPendItms>
+    <LtxtConfDelItm>Are you sure you want to delete this item(s)?</LtxtConfDelItm>
+    <LtxtConfReOpen>Item you wish to edit is in confirmation state; if you continue, the item will return to open status.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtValSelItm>You must select at least one item</LtxtValSelItm>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtPend>Pendente</DtxtPend>
+    <DtxtConfirmed>Confirmação</DtxtConfirmed>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <LttlPendItms>Itens Pendentes</LttlPendItms>
+    <LtxtConfDelItm>Tem certeza que deseja excluir o(s) item(s) ?</LtxtConfDelItm>
+    <LtxtConfReOpen>Este item que deseja editar está no estado de confirmação, se continuar o item retornará ao estado de pendente. Deseja continuar?</LtxtConfReOpen>
+    <LtxtValSelItm>Você deve selecionar pelo menos um item</LtxtValSelItm>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtState>État</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <LttlPendItms>Articles pendants</LttlPendItms>
+    <LtxtConfDelItm>&lt;--&gt;</LtxtConfDelItm>
+    <LtxtConfReOpen>L\'article que vous voulez éditer est-il en état de confirmation, si vous continuez l\'article retournera-t-il à l\'état pendant. Veuillez-vous continuer?</LtxtConfReOpen>
+    <LtxtValSelItm>&lt;--&gt;</LtxtValSelItm>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <DtxtConfirmed>Bestätigung</DtxtConfirmed>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <LttlPendItms>Offene Artikel</LttlPendItms>
+    <LtxtConfDelItm>&lt;--&gt;</LtxtConfDelItm>
+    <LtxtConfReOpen>Der Artikel den Sie bearbeiten möchten wird momentan bestätigt; wenn sie fortfahren geht der Artikel zurück zum offenen Status.\nMöchten Sie fortfahren?</LtxtConfReOpen>
+    <LtxtValSelItm>&lt;--&gt;</LtxtValSelItm>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtState>Государство</DtxtState>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtPend>Открытый</DtxtPend>
+    <DtxtConfirmed>Разрешить</DtxtConfirmed>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <LttlPendItms>Открытые детали</LttlPendItms>
+    <LtxtConfDelItm>Удалить деталь(с)?</LtxtConfDelItm>
+    <LtxtConfReOpen>Деталь которою вы желаете отредактировать находиться в  " состоянии утверждения"Если в дальнейшем деталь возвращается к открытым.\nПродолжить?</LtxtConfReOpen>
+    <LtxtValSelItm>Необходимо выбрать как минимум одину деталь</LtxtValSelItm>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtState>Stát</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <DtxtConfirmed>Potvrzení</DtxtConfirmed>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <LttlPendItms>Otevřít položky</LttlPendItms>
+    <LtxtConfDelItm>Jste si jistý/á, že chcete tuto položku(y) vymazat?</LtxtConfDelItm>
+    <LtxtConfReOpen>Položka, kterou chcete upravovat, je ve stavu potvrzení. Pokud budete pokračovat, přejde zpět do stavu otevřeno.\nPřejete si pokračovat?</LtxtConfReOpen>
+    <LtxtValSelItm>Musíte vybrat aspoň jednu položku</LtxtValSelItm>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <DtxtConfirmed>Potwierdzenie</DtxtConfirmed>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <LttlPendItms>Otwórz pozycje</LttlPendItms>
+    <LtxtConfDelItm>Czy jesteś pewien, że chcesz skasować ten/te pozycje?</LtxtConfDelItm>
+    <LtxtConfReOpen>Pozycja, którą chcesz edytować jest w fazie potwierdzania, jeśli będziesz kontynuować pozycja powróci do statusu otwartego. Czy chcesz kontynuować?</LtxtConfReOpen>
+    <LtxtValSelItm>Musisz wybrać przynajmniej jedną pozycję</LtxtValSelItm>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtState>Štát</DtxtState>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <DtxtConfirmed>Potvrdenie</DtxtConfirmed>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <LttlPendItms>Otvorené položky</LttlPendItms>
+    <LtxtConfDelItm>Ste si istí, že chcete vymazať túto položku(y)?</LtxtConfDelItm>
+    <LtxtConfReOpen>Položka, ktorú si prajete editovať je v stave potvrdzovania; ak budete pokračovať, položka sa vráti do otvoreného stavu.\nPrajete si pokračovať?</LtxtConfReOpen>
+    <LtxtValSelItm>Musíte vybrať aspoň jednu položku</LtxtValSelItm>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <DtxtConfirmed>DtxtConfirmed</DtxtConfirmed>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <LttlPendItms>LttlPendItms</LttlPendItms>
+    <LtxtConfDelItm>LtxtConfDelItm</LtxtConfDelItm>
+    <LtxtConfReOpen>LtxtConfReOpen</LtxtConfReOpen>
+    <LtxtValSelItm>LtxtValSelItm</LtxtValSelItm>
+  </language>
+</languages>

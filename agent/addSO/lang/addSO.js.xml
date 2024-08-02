@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtTerritory>Territory</DtxtTerritory>
+    <LtxtParent>Parent</LtxtParent>
+    <LtxtDocSel>Document Selection</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Update Amount and Gross Profit</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtDueDate>Fecha de vencimiento</DtxtDueDate>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <DtxtTerritory>Territorio</DtxtTerritory>
+    <LtxtParent>Posición superior</LtxtParent>
+    <LtxtDocSel>Selección de Documento</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Actualizar importe y ganancia bruta</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtDueDate>תאריך ערך</DtxtDueDate>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <DtxtTerritory>שטח</DtxtTerritory>
+    <LtxtParent>אב</LtxtParent>
+    <LtxtDocSel>בחירת מסמך</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>האם לעדכן סכום ורווח גולמי?</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtTerritory>Territory</DtxtTerritory>
+    <LtxtParent>Parent</LtxtParent>
+    <LtxtDocSel>Document Selection</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Update Amount and Gross Profit</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtDueDate>Data de Vencimento</DtxtDueDate>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <DtxtTerritory>Território</DtxtTerritory>
+    <LtxtParent>Posição superior</LtxtParent>
+    <LtxtDocSel>Seleção de Documentos</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Atualizar o valor e lucro bruto</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtDueDate>Date d'échéance (Valable jusqu'au)</DtxtDueDate>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtTerritory>Territoire</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>MàJ montant et marge brute</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtDueDate>Fälligkeitsdatum</DtxtDueDate>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <DtxtTerritory>Gebiet</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Betrag und Bruttogewinn aktualisieren</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtDueDate>Дата  поставки</DtxtDueDate>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtTerritory>Территория</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Актуализировать сумму и валовую прибыль</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtDueDate>Datum splatnosti</DtxtDueDate>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <DtxtTerritory>Území</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Aktualizace částky a hrubého zisku</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtDueDate>Termin Płatności</DtxtDueDate>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <DtxtTerritory>Terytorium</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Aktualizuj kwotę i zysk brutto</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtDueDate>Dátum splatnosti</DtxtDueDate>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <DtxtTerritory>Územie</DtxtTerritory>
+    <LtxtParent>&lt;--&gt;</LtxtParent>
+    <LtxtDocSel>&lt;--&gt;</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>Aktualizácia čiastky a zisku brutto</LtxtConfUpdAmtGrs>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtDueDate>DtxtDueDate</DtxtDueDate>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <DtxtTerritory>DtxtTerritory</DtxtTerritory>
+    <LtxtParent>LtxtParent</LtxtParent>
+    <LtxtDocSel>LtxtDocSel</LtxtDocSel>
+    <LtxtConfUpdAmtGrs>LtxtConfUpdAmtGrs</LtxtConfUpdAmtGrs>
+  </language>
+</languages>

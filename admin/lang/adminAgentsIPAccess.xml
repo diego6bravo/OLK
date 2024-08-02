@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <LttlAccessIP>User IP Access</LttlAccessIP>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtVal255>Value cannot be more then 255</LtxtVal255>
+    <LtxtValFromIP>The "from" IP entered is incomplete</LtxtValFromIP>
+    <LtxtValToIP>The "to" IP entered is incomplete</LtxtValToIP>
+    <LtxtValIPFromTo>The address “from” and “to” are mandatory</LtxtValIPFromTo>
+    <LtxtConfDelIP>Are you sure you want to delete {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <LttlAccessIP>Acceso de IP de usuario</LttlAccessIP>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtVal255>Valor no puede ser mayor que 255</LtxtVal255>
+    <LtxtValFromIP>El IP "desde" introducido esta incompleto</LtxtValFromIP>
+    <LtxtValToIP>El IP "hasta" introducido esta incompleto</LtxtValToIP>
+    <LtxtValIPFromTo>La dirección "desde" y "hasta" son obligatorios</LtxtValIPFromTo>
+    <LtxtConfDelIP>¿Está seguro que desea eliminar {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <LttlAccessIP>כתובות IP מורשות למשתמש</LttlAccessIP>
+    <LtxtDelete>מחק</LtxtDelete>
+    <LtxtVal255>ערך לא יכול להיות גבוה מ-255 תווים</LtxtVal255>
+    <LtxtValFromIP>ה "מ-" כתובת IP שהכנסת לא שלם</LtxtValFromIP>
+    <LtxtValToIP>ה "עד-" כתובת IP שהכנסת לא שלם</LtxtValToIP>
+    <LtxtValIPFromTo>חובה למלא "מ-" ו"עד-" כתובות IP</LtxtValIPFromTo>
+    <LtxtConfDelIP>האם למחוק {0} כתובת IP?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <LttlAccessIP>User IP Access</LttlAccessIP>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtVal255>Value cannot be more then 255</LtxtVal255>
+    <LtxtValFromIP>The "from" IP entered is incomplete</LtxtValFromIP>
+    <LtxtValToIP>The "to" IP entered is incomplete</LtxtValToIP>
+    <LtxtValIPFromTo>The address “from” and “to” are mandatory</LtxtValIPFromTo>
+    <LtxtConfDelIP>Are you sure you want to delete {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <LttlAccessIP>Acesso de IP do usuário.</LttlAccessIP>
+    <LtxtDelete>excluir </LtxtDelete>
+    <LtxtVal255>Valor não pode ser maior que 255.</LtxtVal255>
+    <LtxtValFromIP>O IP "origem" inserido está incompleto.</LtxtValFromIP>
+    <LtxtValToIP>O IP "destino" inserido está incompleto.</LtxtValToIP>
+    <LtxtValIPFromTo>Os endereços "desde" e "até" são obrigatórios.</LtxtValIPFromTo>
+    <LtxtConfDelIP>Você tem certeza que deseja excluir {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <LttlAccessIP>Accès au IP d'utilisateur</LttlAccessIP>
+    <LtxtDelete>Éliminer</LtxtDelete>
+    <LtxtVal255>La valeur ne peut pas être plus que 255</LtxtVal255>
+    <LtxtValFromIP>L\' IP "dès" inséré c\'est incomplet</LtxtValFromIP>
+    <LtxtValToIP>L\' IP "jusque" inséré c\'est incomplet</LtxtValToIP>
+    <LtxtValIPFromTo>L'adresse "dès" et "jusque" sont obligatoires</LtxtValIPFromTo>
+    <LtxtConfDelIP>Êtes-vous sûre d'éliminer {0} l'IP (s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <LttlAccessIP>Benutzer-IP-Zugang</LttlAccessIP>
+    <LtxtDelete>Löschen</LtxtDelete>
+    <LtxtVal255>Der Wert darf 255 nicht überschreiten</LtxtVal255>
+    <LtxtValFromIP>Die Ausgangs-IP ist nicht vollständig</LtxtValFromIP>
+    <LtxtValToIP>Die Empfangs-IP ist nicht vollständig</LtxtValToIP>
+    <LtxtValIPFromTo>Die Ausgangs und Empfangs-Adressen sind eine Pflichteingabe</LtxtValIPFromTo>
+    <LtxtConfDelIP>Möchten Sie {0} IP(s) wirklich löschen?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <LttlAccessIP>  IP адрес пользователя  </LttlAccessIP>
+    <LtxtDelete>Удалить</LtxtDelete>
+    <LtxtVal255>Значение может составлять не более 255 символов</LtxtVal255>
+    <LtxtValFromIP>М -" IP-адрес, введенный вами не завершен</LtxtValFromIP>
+    <LtxtValToIP>"На -" IP-адрес, введенный вами не завершен</LtxtValToIP>
+    <LtxtValIPFromTo>Необходимая информация "из -" и "Д -" IP адресов</LtxtValIPFromTo>
+    <LtxtConfDelIP>Удалить {0} IP-адрес?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <LttlAccessIP>IP přístup uživatele</LttlAccessIP>
+    <LtxtDelete>Vymazat</LtxtDelete>
+    <LtxtVal255>Hodnota nemůže být větší než 255</LtxtVal255>
+    <LtxtValFromIP>IP adresa "od", kterou jste zadal/a, je neúplná</LtxtValFromIP>
+    <LtxtValToIP>IP adresa "do", kterou jste zadal/a, je neúplná</LtxtValToIP>
+    <LtxtValIPFromTo>Adresy "od" a "do" jsou povinné</LtxtValIPFromTo>
+    <LtxtConfDelIP>Jste si jistý/á, že chcete vymazat IP adresu(y) {0}?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <LttlAccessIP>Dostęp IP użytkownika</LttlAccessIP>
+    <LtxtDelete>Skasuj</LtxtDelete>
+    <LtxtVal255>Wartość nie może być większa 255</LtxtVal255>
+    <LtxtValFromIP>Wprowadzony IP od jest niekompletny</LtxtValFromIP>
+    <LtxtValToIP>Wprowadzony IP do jest niekompletny</LtxtValToIP>
+    <LtxtValIPFromTo>Adres od i do są obowiązkowe</LtxtValIPFromTo>
+    <LtxtConfDelIP>Czy jesteś pewien, że chcesz usunąć {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <LttlAccessIP>IP prístup užívateľa</LttlAccessIP>
+    <LtxtDelete>Vymazať</LtxtDelete>
+    <LtxtVal255>Hodnota nesmie byť viac ako 255</LtxtVal255>
+    <LtxtValFromIP>Zadaná IP "od" je nekompletná</LtxtValFromIP>
+    <LtxtValToIP>Zadaná IP "komu" je nekompletná</LtxtValToIP>
+    <LtxtValIPFromTo>Adresy "od" a "komu" sú povinné</LtxtValIPFromTo>
+    <LtxtConfDelIP>Ste si istí, že chcete vymazať {0} IP(s)?</LtxtConfDelIP>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <LttlAccessIP>&lt;--&gt;</LttlAccessIP>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtVal255>&lt;--&gt;</LtxtVal255>
+    <LtxtValFromIP>&lt;--&gt;</LtxtValFromIP>
+    <LtxtValToIP>&lt;--&gt;</LtxtValToIP>
+    <LtxtValIPFromTo>&lt;--&gt;</LtxtValIPFromTo>
+    <LtxtConfDelIP>&lt;--&gt;</LtxtConfDelIP>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <LttlAccessIP>LttlAccessIP</LttlAccessIP>
+    <LtxtDelete>LtxtDelete</LtxtDelete>
+    <LtxtVal255>LtxtVal255</LtxtVal255>
+    <LtxtValFromIP>LtxtValFromIP</LtxtValFromIP>
+    <LtxtValToIP>LtxtValToIP</LtxtValToIP>
+    <LtxtValIPFromTo>LtxtValIPFromTo</LtxtValIPFromTo>
+    <LtxtConfDelIP>LtxtConfDelIP</LtxtConfDelIP>
+  </language>
+</languages>

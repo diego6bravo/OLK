@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddActivity>Error adding activity</LtxtErrAddActivity>
+    <LttlAddActivity>Activity #{0} Added</LttlAddActivity>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LttlUpdActivity>Activity #{0} was updated successfully</LttlUpdActivity>
+    <LtxtConfAddAct>The activity #{0} was added successfully.</LtxtConfAddAct>
+    <LtxtConfUpdAct>The Activity #{0} was updated successfully.</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Create another activity</LtxtCreateNewAct>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Calle</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+    <DtxtReminder>Recordatorio</DtxtReminder>
+    <DtxtDuration>Duración</DtxtDuration>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtClosed>Cerrado</DtxtClosed>
+    <DtxtInactive>Inactivo</DtxtInactive>
+    <DtxtPriority>Prioridad</DtxtPriority>
+    <DtxtPosible>Posible</DtxtPosible>
+    <DtxtLocation>Localidad</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtErrAddActivity>Error al agregar actividad</LtxtErrAddActivity>
+    <LttlAddActivity>Actividad #{0} Agregada</LttlAddActivity>
+    <LtxtAsignedTo>Asignado a</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStartTime>Hora de Inicio</LtxtStartTime>
+    <LtxtStartDate>Fecha de Inicio</LtxtStartDate>
+    <LtxtTime>Tiempo</LtxtTime>
+    <LtxtEndTime>Hora de Fin</LtxtEndTime>
+    <LtxtDueDate>Fecha de Vencimiento</LtxtDueDate>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Día(s)</LtxtDays>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtContent>Contenido</LtxtContent>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Clase de documento</LtxtDocType>
+    <LtxtInvDownPay>Anticipo de Cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferencia de Inventario</LtxtInvTrans>
+    <LtxtDocNum>Número de documento</LtxtDocNum>
+    <LttlUpdActivity>Actividad #{0} fue actualizada con éxito</LttlUpdActivity>
+    <LtxtConfAddAct>La actividad N°{0} fue agregada con éxito.</LtxtConfAddAct>
+    <LtxtConfUpdAct>La actividad N°{0} fue actualizada con éxito.</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Crear otra actividad</LtxtCreateNewAct>
+    <LtxtView>Ver</LtxtView>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtPersonal>פרטי</DtxtPersonal>
+    <DtxtStreet>רחוב</DtxtStreet>
+    <DtxtRoom>חדר</DtxtRoom>
+    <DtxtReminder>תזכורת</DtxtReminder>
+    <DtxtDuration>משך זמן</DtxtDuration>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtClosed>סגור</DtxtClosed>
+    <DtxtInactive>לא פעיל</DtxtInactive>
+    <DtxtPriority>חשיבות</DtxtPriority>
+    <DtxtPosible>אפשרי</DtxtPosible>
+    <DtxtLocation>מקום</DtxtLocation>
+    <DtxtNormal>רגיל</DtxtNormal>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtErrAddActivity>תקלה בהוספת פעילות</LtxtErrAddActivity>
+    <LttlAddActivity>הוסף פעילות #{0}</LttlAddActivity>
+    <LtxtAsignedTo>מקושר ל</LtxtAsignedTo>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtStartTime>שעת התחלה</LtxtStartTime>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtTime>שעה</LtxtTime>
+    <LtxtEndTime>שעת סיום</LtxtEndTime>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtMinutes>דקות</LtxtMinutes>
+    <LtxtHours>שעות</LtxtHours>
+    <LtxtDays>ימים</LtxtDays>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtContent>תוכן</LtxtContent>
+    <LtxtLinkDoc>מסמך מקושר</LtxtLinkDoc>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtInvDownPay>חשבונית מקדמה - לקוח</LtxtInvDownPay>
+    <LtxtInvTrans>העברה בין מחסנים</LtxtInvTrans>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LttlUpdActivity>פעילות {0}# עודכנה בהצלחה</LttlUpdActivity>
+    <LtxtConfAddAct>הפעילות {0}# נוספה בהצלחה</LtxtConfAddAct>
+    <LtxtConfUpdAct>הפעילות {0}# עודכנה בהצלחה</LtxtConfUpdAct>
+    <LtxtCreateNewAct>צור עוד פעילות</LtxtCreateNewAct>
+    <LtxtView>ראה</LtxtView>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddActivity>Error adding activity</LtxtErrAddActivity>
+    <LttlAddActivity>Activity #{0} Added</LttlAddActivity>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LttlUpdActivity>Activity #{0} was updated successfully</LttlUpdActivity>
+    <LtxtConfAddAct>The activity #{0} was added successfully.</LtxtConfAddAct>
+    <LtxtConfUpdAct>The Activity #{0} was updated successfully.</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Create another activity</LtxtCreateNewAct>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtPersonal>Pessoal</DtxtPersonal>
+    <DtxtStreet>Rua</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+    <DtxtReminder>Recordar</DtxtReminder>
+    <DtxtDuration>Duração</DtxtDuration>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtClosed>Finalizado</DtxtClosed>
+    <DtxtInactive>Inativo</DtxtInactive>
+    <DtxtPriority>Prioridade</DtxtPriority>
+    <DtxtPosible>Possível</DtxtPosible>
+    <DtxtLocation>Localidade</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtErrAddActivity>Erro ao adicionar a atividade</LtxtErrAddActivity>
+    <LttlAddActivity>Atividade Nº {0} Adicionada</LttlAddActivity>
+    <LtxtAsignedTo>Designado para</LtxtAsignedTo>
+    <LtxtGeneral>Geral</LtxtGeneral>
+    <LtxtStartTime>Hora de Início</LtxtStartTime>
+    <LtxtStartDate>Data de Início</LtxtStartDate>
+    <LtxtTime>Tempo</LtxtTime>
+    <LtxtEndTime>Hora Final</LtxtEndTime>
+    <LtxtDueDate>Data de Vencimento</LtxtDueDate>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Dia(s)</LtxtDays>
+    <LtxtStatus>Situação</LtxtStatus>
+    <LtxtContent>Conteúdo</LtxtContent>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtInvDownPay>Adiantamento de cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferência de Estoque</LtxtInvTrans>
+    <LtxtDocNum>Número do documento</LtxtDocNum>
+    <LttlUpdActivity>Atividade Nº {0} foi atualizada com sucesso</LttlUpdActivity>
+    <LtxtConfAddAct>A atividade Nº {0} foi adicionada com sucesso</LtxtConfAddAct>
+    <LtxtConfUpdAct>A atividade Nº {0} foi atualizada com sucesso</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Criar outra atividade</LtxtCreateNewAct>
+    <LtxtView>Visualizar</LtxtView>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtPersonal>&lt;--&gt;</DtxtPersonal>
+    <DtxtStreet>&lt;--&gt;</DtxtStreet>
+    <DtxtRoom>&lt;--&gt;</DtxtRoom>
+    <DtxtReminder>&lt;--&gt;</DtxtReminder>
+    <DtxtDuration>&lt;--&gt;</DtxtDuration>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtClosed>&lt;--&gt;</DtxtClosed>
+    <DtxtInactive>&lt;--&gt;</DtxtInactive>
+    <DtxtPriority>&lt;--&gt;</DtxtPriority>
+    <DtxtPosible>&lt;--&gt;</DtxtPosible>
+    <DtxtLocation>&lt;--&gt;</DtxtLocation>
+    <DtxtNormal>&lt;--&gt;</DtxtNormal>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtErrAddActivity>&lt;--&gt;</LtxtErrAddActivity>
+    <LttlAddActivity>&lt;--&gt;</LttlAddActivity>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LttlUpdActivity>&lt;--&gt;</LttlUpdActivity>
+    <LtxtConfAddAct>&lt;--&gt;</LtxtConfAddAct>
+    <LtxtConfUpdAct>&lt;--&gt;</LtxtConfUpdAct>
+    <LtxtCreateNewAct>&lt;--&gt;</LtxtCreateNewAct>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtPersonal>Persönlich</DtxtPersonal>
+    <DtxtStreet>Strasse</DtxtStreet>
+    <DtxtRoom>Raum</DtxtRoom>
+    <DtxtReminder>Erinnerung</DtxtReminder>
+    <DtxtDuration>Laufzeit</DtxtDuration>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtClosed>Geshlossen</DtxtClosed>
+    <DtxtInactive>Nicht Aktiv</DtxtInactive>
+    <DtxtPriority>Priorität</DtxtPriority>
+    <DtxtPosible>Möglich</DtxtPosible>
+    <DtxtLocation>Ortsangabe</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtErrAddActivity>&lt;--&gt;</LtxtErrAddActivity>
+    <LttlAddActivity>&lt;--&gt;</LttlAddActivity>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LttlUpdActivity>&lt;--&gt;</LttlUpdActivity>
+    <LtxtConfAddAct>&lt;--&gt;</LtxtConfAddAct>
+    <LtxtConfUpdAct>&lt;--&gt;</LtxtConfUpdAct>
+    <LtxtCreateNewAct>&lt;--&gt;</LtxtCreateNewAct>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtPersonal>Частный</DtxtPersonal>
+    <DtxtStreet>Улица</DtxtStreet>
+    <DtxtRoom>Комната</DtxtRoom>
+    <DtxtReminder> Памятка</DtxtReminder>
+    <DtxtDuration>Период времени</DtxtDuration>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtClosed>Закрыт</DtxtClosed>
+    <DtxtInactive>не активный</DtxtInactive>
+    <DtxtPriority>Приоритет</DtxtPriority>
+    <DtxtPosible>Возможная</DtxtPosible>
+    <DtxtLocation>Место</DtxtLocation>
+    <DtxtNormal>Обычный</DtxtNormal>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtErrAddActivity>Ошибка в добавление деятельности</LtxtErrAddActivity>
+    <LttlAddActivity>Добавить активности #{0}</LttlAddActivity>
+    <LtxtAsignedTo>Связан с</LtxtAsignedTo>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtStartTime>Часы начала</LtxtStartTime>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtTime>Час</LtxtTime>
+    <LtxtEndTime>Часы завершения</LtxtEndTime>
+    <LtxtDueDate>Изменить дату</LtxtDueDate>
+    <LtxtMinutes>Минуты</LtxtMinutes>
+    <LtxtHours>Часы</LtxtHours>
+    <LtxtDays>Дни</LtxtDays>
+    <LtxtStatus>Состояние</LtxtStatus>
+    <LtxtContent>Содержание</LtxtContent>
+    <LtxtLinkDoc>Номер связи</LtxtLinkDoc>
+    <LtxtDocType>Тип документа</LtxtDocType>
+    <LtxtInvDownPay>Ранняя квитанция-клиент</LtxtInvDownPay>
+    <LtxtInvTrans>Перевод между складами</LtxtInvTrans>
+    <LtxtDocNum>Номер докумкнта</LtxtDocNum>
+    <LttlUpdActivity>Действия{0}# обновлено успешно</LttlUpdActivity>
+    <LtxtConfAddAct>&lt;--&gt;</LtxtConfAddAct>
+    <LtxtConfUpdAct>&lt;--&gt;</LtxtConfUpdAct>
+    <LtxtCreateNewAct>&lt;--&gt;</LtxtCreateNewAct>
+    <LtxtView>Смотреть</LtxtView>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtPersonal>Osobní</DtxtPersonal>
+    <DtxtStreet>Ulice</DtxtStreet>
+    <DtxtRoom>Místnost</DtxtRoom>
+    <DtxtReminder>Připomenutí</DtxtReminder>
+    <DtxtDuration>Trvání</DtxtDuration>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtClosed>Zavřeno</DtxtClosed>
+    <DtxtInactive>Neaktivní</DtxtInactive>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Místo</DtxtLocation>
+    <DtxtNormal>Normální</DtxtNormal>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtErrAddActivity>Chyba při vytváření aktivity</LtxtErrAddActivity>
+    <LttlAddActivity>Aktivita #{0} vytvořena</LttlAddActivity>
+    <LtxtAsignedTo>Přiřazené komu</LtxtAsignedTo>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtStartTime>Počáteční datum</LtxtStartTime>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtEndTime>Datum ukončení</LtxtEndTime>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtMinutes>Minut(a)</LtxtMinutes>
+    <LtxtHours>Hodin(a)</LtxtHours>
+    <LtxtDays>den/dnů</LtxtDays>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtLinkDoc>Navázaný dokument</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtInvDownPay>Pohledávky - záloha</LtxtInvDownPay>
+    <LtxtInvTrans>Převod zásob</LtxtInvTrans>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LttlUpdActivity>Aktivita #{0} byla úspěšně aktualizována</LttlUpdActivity>
+    <LtxtConfAddAct>Aktivita #{0} byla úspěšně vytvořena.</LtxtConfAddAct>
+    <LtxtConfUpdAct>Aktivita #{0} byla úspěšně aktualizována.</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Vytvořit další aktivitu</LtxtCreateNewAct>
+    <LtxtView>Zobrazit</LtxtView>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtPersonal>Osobisty/e</DtxtPersonal>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Pokój</DtxtRoom>
+    <DtxtReminder>Przypomnienie</DtxtReminder>
+    <DtxtDuration>Czas trwania</DtxtDuration>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtClosed>Zamknięty</DtxtClosed>
+    <DtxtInactive>Nieaktywny</DtxtInactive>
+    <DtxtPriority>Priorytety</DtxtPriority>
+    <DtxtPosible>Możliwy</DtxtPosible>
+    <DtxtLocation>Lokalizacja</DtxtLocation>
+    <DtxtNormal>Normalny</DtxtNormal>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtErrAddActivity>Błąd przy dodawaniu działania</LtxtErrAddActivity>
+    <LttlAddActivity>Działanie #{0} dodane</LttlAddActivity>
+    <LtxtAsignedTo>Przypisany do </LtxtAsignedTo>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtStartTime>Czas rozpoczęcia</LtxtStartTime>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtTime>Czas</LtxtTime>
+    <LtxtEndTime>Czas zakończenia</LtxtEndTime>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LtxtMinutes>Minuta (y)</LtxtMinutes>
+    <LtxtHours>Godzina (y)</LtxtHours>
+    <LtxtDays>Dzień (dni)</LtxtDays>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtContent>Treść</LtxtContent>
+    <LtxtLinkDoc>Dokument powiązany </LtxtLinkDoc>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtInvDownPay>zaliczka z tyt. Sprzedaży  - klient</LtxtInvDownPay>
+    <LtxtInvTrans>Transfer pomiędzy magazynami </LtxtInvTrans>
+    <LtxtDocNum>Numer dokumentu</LtxtDocNum>
+    <LttlUpdActivity>Działanie #{0} zostało zaktualizowane z sukcesem</LttlUpdActivity>
+    <LtxtConfAddAct>Działanie #{0} zostało dodane z sukcesem</LtxtConfAddAct>
+    <LtxtConfUpdAct>Działanie #{0} zostało zaktualizowane z sukcesem</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Stwórz kolejne działanie</LtxtCreateNewAct>
+    <LtxtView>Zobacz</LtxtView>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtPersonal>Osobné</DtxtPersonal>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Miestnosť</DtxtRoom>
+    <DtxtReminder>Upomienka</DtxtReminder>
+    <DtxtDuration>Trvanie</DtxtDuration>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtClosed>Uzavreté</DtxtClosed>
+    <DtxtInactive>Neaktívne</DtxtInactive>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Miesto</DtxtLocation>
+    <DtxtNormal>Bežný</DtxtNormal>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtErrAddActivity>Chyba v pridávaní aktivity</LtxtErrAddActivity>
+    <LttlAddActivity>Aktivity #{0} pridané</LttlAddActivity>
+    <LtxtAsignedTo>Priradené komu</LtxtAsignedTo>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtStartTime>Čas zahájenia</LtxtStartTime>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtEndTime>Čas ukončenia</LtxtEndTime>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtMinutes>Minúta(y)</LtxtMinutes>
+    <LtxtHours>Hodina(y)</LtxtHours>
+    <LtxtDays>Deň(dni)</LtxtDays>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtLinkDoc>Prepojené dokumenty</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtInvDownPay>Záloha z predaja</LtxtInvDownPay>
+    <LtxtInvTrans>Prevod inventáru</LtxtInvTrans>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LttlUpdActivity>Aktivity #{0} boli aktualizované úspešne</LttlUpdActivity>
+    <LtxtConfAddAct>Aktivita #{0} bola pridaná úspešne.</LtxtConfAddAct>
+    <LtxtConfUpdAct>Aktivita #{0} bola aktualizovaná úspešne.</LtxtConfUpdAct>
+    <LtxtCreateNewAct>Vytvoriť ďalšiu aktivitu</LtxtCreateNewAct>
+    <LtxtView>Zobraziť</LtxtView>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtPersonal>DtxtPersonal</DtxtPersonal>
+    <DtxtStreet>DtxtStreet</DtxtStreet>
+    <DtxtRoom>DtxtRoom</DtxtRoom>
+    <DtxtReminder>DtxtReminder</DtxtReminder>
+    <DtxtDuration>DtxtDuration</DtxtDuration>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtClosed>DtxtClosed</DtxtClosed>
+    <DtxtInactive>DtxtInactive</DtxtInactive>
+    <DtxtPriority>DtxtPriority</DtxtPriority>
+    <DtxtPosible>DtxtPosible</DtxtPosible>
+    <DtxtLocation>DtxtLocation</DtxtLocation>
+    <DtxtNormal>DtxtNormal</DtxtNormal>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtErrAddActivity>LtxtErrAddActivity</LtxtErrAddActivity>
+    <LttlAddActivity>LttlAddActivity</LttlAddActivity>
+    <LtxtAsignedTo>LtxtAsignedTo</LtxtAsignedTo>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtStartTime>LtxtStartTime</LtxtStartTime>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtTime>LtxtTime</LtxtTime>
+    <LtxtEndTime>LtxtEndTime</LtxtEndTime>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtMinutes>LtxtMinutes</LtxtMinutes>
+    <LtxtHours>LtxtHours</LtxtHours>
+    <LtxtDays>LtxtDays</LtxtDays>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtContent>LtxtContent</LtxtContent>
+    <LtxtLinkDoc>LtxtLinkDoc</LtxtLinkDoc>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtInvDownPay>LtxtInvDownPay</LtxtInvDownPay>
+    <LtxtInvTrans>LtxtInvTrans</LtxtInvTrans>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LttlUpdActivity>LttlUpdActivity</LttlUpdActivity>
+    <LtxtConfAddAct>LtxtConfAddAct</LtxtConfAddAct>
+    <LtxtConfUpdAct>LtxtConfUpdAct</LtxtConfUpdAct>
+    <LtxtCreateNewAct>LtxtCreateNewAct</LtxtCreateNewAct>
+    <LtxtView>LtxtView</LtxtView>
+  </language>
+</languages>

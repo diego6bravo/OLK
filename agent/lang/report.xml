@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtExpToExcell>Export to Excell</DtxtExpToExcell>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtExpToExcell>Exportar a Excell</DtxtExpToExcell>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtExpToExcell>ייצא לאקסל</DtxtExpToExcell>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtExpToExcell>Export to Excell</DtxtExpToExcell>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtExpToExcell>Exportar para o Excel</DtxtExpToExcell>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtExpToExcell>Export vers l'Excell</DtxtExpToExcell>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtExpToExcell>Zu Excell Exportieren</DtxtExpToExcell>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtExpToExcell>Экспорт для Эксел</DtxtExpToExcell>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtExpToExcell>Export do Excelu</DtxtExpToExcell>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtExpToExcell>Eksport do Excela</DtxtExpToExcell>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtExpToExcell>Exportovať do Excelu</DtxtExpToExcell>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtExpToExcell>DtxtExpToExcell</DtxtExpToExcell>
+  </language>
+</languages>

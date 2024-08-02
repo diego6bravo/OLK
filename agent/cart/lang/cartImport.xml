@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtAll>All</DtxtAll>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtError>Error</DtxtError>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtValid>Valid</DtxtValid>
+    <DtxtGuide>Guide</DtxtGuide>
+    <LttlCartImport>Cart Import Wizard</LttlCartImport>
+    <LtxtNext>Next</LtxtNext>
+    <LtxtSelDataFile>Select the data file</LtxtSelDataFile>
+    <LtxtTabDelText>Tab Delimited Text</LtxtTabDelText>
+    <LtxtValTxtFile>Only TXT files are allowed</LtxtValTxtFile>
+    <LtxtErrUpdFile>An error has occurred while uploading file:</LtxtErrUpdFile>
+    <LtxtSelItems>Select the items you want to import</LtxtSelItems>
+    <LtxtUn>Unit</LtxtUn>
+    <LtxtValQty>The quantity you wish to add is not available.\nThe quantity available is {0}.</LtxtValQty>
+    <LtxtValSelItms>You must select the items you want to import.</LtxtValSelItms>
+    <LtxtValMaxQty>The quantity of the item {0} is more than the available.\nThe amount available is {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Item "{0}" was not found on the database.</LtxtItemNotFound>
+    <LtxtLineStructErr>Line #{0} structure error</LtxtLineStructErr>
+    <LtxtExplanation>This is an explanation how to create a file to upload document to the site. The file needs to be a “Tab Delimited Text File” and requires {0} columns:</LtxtExplanation>
+    <LtxtItemCodeDesc>The reference code of the item</LtxtItemCodeDesc>
+    <LtxtUnitDesc>The unit only allows 3 valid values</LtxtUnitDesc>
+    <LtxtPriceDesc>The price must be according to the unit</LtxtPriceDesc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtError>Error</DtxtError>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtExample>Ejemplo</DtxtExample>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtValid>Valido</DtxtValid>
+    <DtxtGuide>Guía</DtxtGuide>
+    <LttlCartImport>Asistente de Importación de Canasta</LttlCartImport>
+    <LtxtNext>Siguiente</LtxtNext>
+    <LtxtSelDataFile>Seleccione el archivo de datos</LtxtSelDataFile>
+    <LtxtTabDelText>Texto Delimitado por Tabulado</LtxtTabDelText>
+    <LtxtValTxtFile>Solo se permite archivos tipo TXT</LtxtValTxtFile>
+    <LtxtErrUpdFile>Un error ha ocurrido al subir el archivo:</LtxtErrUpdFile>
+    <LtxtSelItems>Seleccione los artículos que desea importar</LtxtSelItems>
+    <LtxtUn>Un.</LtxtUn>
+    <LtxtValQty>La cantidad que desea agregar no está disponible.\nLa cantidad disponible es {0}.</LtxtValQty>
+    <LtxtValSelItms>Debe seleccionar los artículos que desea importar.</LtxtValSelItms>
+    <LtxtValMaxQty>La cantidad del artículo {0} es mayor a la cantidad disponible.\nLa cantidad disponible es de {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Articulo "{0}" no fue encontrada en la base de datos.</LtxtItemNotFound>
+    <LtxtLineStructErr>Error de estructura de línea #{0}</LtxtLineStructErr>
+    <LtxtExplanation>Esto es una explicación de cómo crear un archive para subir documentos al sitio. El archivo debe ser “Texto Delimitado por Coma” y requiere {0} columnas:</LtxtExplanation>
+    <LtxtItemCodeDesc>El código de referencia del articulo</LtxtItemCodeDesc>
+    <LtxtUnitDesc>Solo se permite 3 valores</LtxtUnitDesc>
+    <LtxtPriceDesc>El precio debe ser acorde a la unidad</LtxtPriceDesc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtExample>דוגמא</DtxtExample>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtValid>תקף</DtxtValid>
+    <DtxtGuide>מדריך</DtxtGuide>
+    <LttlCartImport>אשף יבוא סל קניות</LttlCartImport>
+    <LtxtNext>הבא</LtxtNext>
+    <LtxtSelDataFile>בחר את קובץ הנתונים</LtxtSelDataFile>
+    <LtxtTabDelText>טקסט מופרד בטאבים</LtxtTabDelText>
+    <LtxtValTxtFile>ניתן לעלות רק קבצים מסוג TXT</LtxtValTxtFile>
+    <LtxtErrUpdFile>נוצרה תקלה בתהליך עליית הקובץ:</LtxtErrUpdFile>
+    <LtxtSelItems>בחר את הפריטים שאתה מעוניין לייבא</LtxtSelItems>
+    <LtxtUn>יח'</LtxtUn>
+    <LtxtValQty>הכמות שאתה מעוניין להוסיף אינה זמינה.\nיש  {0}יחידות זמינות.</LtxtValQty>
+    <LtxtValSelItms>יש לבחור את הפריטים שאתה מעוניין לייבא.</LtxtValSelItms>
+    <LtxtValMaxQty>הכמות מפריט {0} שאתה מעוניין להוסיף אינה זמינה.\nיש רק {0}יחידות זמינות.</LtxtValMaxQty>
+    <LtxtItemNotFound>פריט "{0}" לא נמצא בבסיס הנתונים.</LtxtItemNotFound>
+    <LtxtLineStructErr>שורה {0}# תקלה במבנה השורה</LtxtLineStructErr>
+    <LtxtExplanation>להל"ן הסבר כיצד לבנות את הקובץ ע"מ לייבא את המסמך לאתר. הקובץ צריך להיות מסוג TXT "מופרד באמצעות טאבים" וצריך {0} טורים:</LtxtExplanation>
+    <LtxtItemCodeDesc>מק"ט הפריט</LtxtItemCodeDesc>
+    <LtxtUnitDesc>מותר 3 סוגיי יחידה</LtxtUnitDesc>
+    <LtxtPriceDesc>המחיר צריך להיות מתואם עם היחידה</LtxtPriceDesc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtAll>All</DtxtAll>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtError>Error</DtxtError>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtValid>Valid</DtxtValid>
+    <DtxtGuide>Guide</DtxtGuide>
+    <LttlCartImport>Cart Import Wizard</LttlCartImport>
+    <LtxtNext>Next</LtxtNext>
+    <LtxtSelDataFile>Select the data file</LtxtSelDataFile>
+    <LtxtTabDelText>Tab Delimited Text</LtxtTabDelText>
+    <LtxtValTxtFile>Only TXT files are allowed</LtxtValTxtFile>
+    <LtxtErrUpdFile>An error has occurred while uploading file:</LtxtErrUpdFile>
+    <LtxtSelItems>Select the items you want to import</LtxtSelItems>
+    <LtxtUn>Unit</LtxtUn>
+    <LtxtValQty>The quantity you wish to add is not available.\nThe quantity available is {0}.</LtxtValQty>
+    <LtxtValSelItms>You must select the items you want to import.</LtxtValSelItms>
+    <LtxtValMaxQty>The quantity of the item {0} is more than the available.\nThe amount available is {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Item "{0}" was not found on the database.</LtxtItemNotFound>
+    <LtxtLineStructErr>Line #{0} structure error</LtxtLineStructErr>
+    <LtxtExplanation>This is an explanation how to create a file to upload document to the site. The file needs to be a “Tab Delimited Text File” and requires {0} columns:</LtxtExplanation>
+    <LtxtItemCodeDesc>The reference code of the item</LtxtItemCodeDesc>
+    <LtxtUnitDesc>The unit only allows 3 valid values</LtxtUnitDesc>
+    <LtxtPriceDesc>The price must be according to the unit</LtxtPriceDesc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtError>Erro</DtxtError>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtExample>Exemplo</DtxtExample>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtValid>Válido</DtxtValid>
+    <DtxtGuide>Guia</DtxtGuide>
+    <LttlCartImport>Assistente de Importação de Cesta</LttlCartImport>
+    <LtxtNext>Seguinte</LtxtNext>
+    <LtxtSelDataFile>Selecione o arquivo de dados</LtxtSelDataFile>
+    <LtxtTabDelText>Texto Delimitado por Tabulado</LtxtTabDelText>
+    <LtxtValTxtFile>Só se permite arquivos tipo TXT</LtxtValTxtFile>
+    <LtxtErrUpdFile>Um erro ocorreu ao subir o arquivo:</LtxtErrUpdFile>
+    <LtxtSelItems>Selecione os itens que deseja importar</LtxtSelItems>
+    <LtxtUn>Un.</LtxtUn>
+    <LtxtValQty>A quantidade que deseja adicionar não está disponível.\nA quantidade sdisponível é {0}.</LtxtValQty>
+    <LtxtValSelItms>Deve selecionar os itens que deseja importar.</LtxtValSelItms>
+    <LtxtValMaxQty>A quantidade do item {0} é maior que a quantidade disponível.\nA quantidade disponível é de  {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Item "{0}" não foi encontrado na base de dados.</LtxtItemNotFound>
+    <LtxtLineStructErr>Erro de estrutura de linha #{0}</LtxtLineStructErr>
+    <LtxtExplanation>Esta é uma explicação de como criar um arquivo para upload de documentos para o site. O arquivo deve ser "de texto delimitado por vírgula" e exige {0} colunas:</LtxtExplanation>
+    <LtxtItemCodeDesc>O código de referência do item</LtxtItemCodeDesc>
+    <LtxtUnitDesc>Só é permitido 3 valores</LtxtUnitDesc>
+    <LtxtPriceDesc>O preço deve ser proporcional a unidade</LtxtPriceDesc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtValid>Valable</DtxtValid>
+    <DtxtGuide>&lt;--&gt;</DtxtGuide>
+    <LttlCartImport>Asistent d'importation de Corbeille</LttlCartImport>
+    <LtxtNext>Suivant</LtxtNext>
+    <LtxtSelDataFile>Sélectionnez-vous le fichier de données</LtxtSelDataFile>
+    <LtxtTabDelText>Texte délimité par tabulation</LtxtTabDelText>
+    <LtxtValTxtFile>On permet seulement que les fichier de genre TXT</LtxtValTxtFile>
+    <LtxtErrUpdFile>Un erreur est arrivé au moment de monter le fichier</LtxtErrUpdFile>
+    <LtxtSelItems>Sélectionnez-vous les articles que veuillez-vous importer</LtxtSelItems>
+    <LtxtUn>Unité</LtxtUn>
+    <LtxtValQty>La quantité que veuillez-vous ajouter n\'est pas disponible.\nLa quantité disponible est {0}</LtxtValQty>
+    <LtxtValSelItms>Devez-vous sélectionner les articles que veuillez-vous importer</LtxtValSelItms>
+    <LtxtValMaxQty>La quantité d\'article {0} est plus grand à la quantité disponible.\nLa quantité disponible est {0}</LtxtValMaxQty>
+    <LtxtItemNotFound>Article {0} ne pas trouvé dans la base des données</LtxtItemNotFound>
+    <LtxtLineStructErr>Erreur de structure de ligne #{0}</LtxtLineStructErr>
+    <LtxtExplanation>&lt;--&gt;</LtxtExplanation>
+    <LtxtItemCodeDesc>&lt;--&gt;</LtxtItemCodeDesc>
+    <LtxtUnitDesc>&lt;--&gt;</LtxtUnitDesc>
+    <LtxtPriceDesc>&lt;--&gt;</LtxtPriceDesc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtExample>Beispiel</DtxtExample>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtValid>Gültig</DtxtValid>
+    <DtxtGuide>Handbuch</DtxtGuide>
+    <LttlCartImport>Einkaufswagen Import Assistent</LttlCartImport>
+    <LtxtNext>Nächste</LtxtNext>
+    <LtxtSelDataFile>Datendatei auswählen</LtxtSelDataFile>
+    <LtxtTabDelText>Tab Delimited Text</LtxtTabDelText>
+    <LtxtValTxtFile>Nur TXT Datein sind erlaubt</LtxtValTxtFile>
+    <LtxtErrUpdFile>Beim hochladen der Datei ist ein Fehler aufgetreten:</LtxtErrUpdFile>
+    <LtxtSelItems>Wählen Sie die Artikel die Sie importieren möchten</LtxtSelItems>
+    <LtxtUn>Einheit</LtxtUn>
+    <LtxtValQty>Die Menge die Sie hinzufügen möchten ist nicht verfügbar. Die verfügbare Menge ist {0}.</LtxtValQty>
+    <LtxtValSelItms>Sie müssen die Artikel auswählen die Sie importieren möchten</LtxtValSelItms>
+    <LtxtValMaxQty>Die Menge des Artikels {0} ist mehr als die verfügbare Menge. Die verfügbare Menge ist {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Artikel "{0}" wurde nicht in der Datenbank gefunden</LtxtItemNotFound>
+    <LtxtLineStructErr>Zeile #{0} Struktur Fehler</LtxtLineStructErr>
+    <LtxtExplanation>&lt;--&gt;</LtxtExplanation>
+    <LtxtItemCodeDesc>&lt;--&gt;</LtxtItemCodeDesc>
+    <LtxtUnitDesc>&lt;--&gt;</LtxtUnitDesc>
+    <LtxtPriceDesc>&lt;--&gt;</LtxtPriceDesc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtExample>Примеры</DtxtExample>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtValid>Действительный</DtxtValid>
+    <DtxtGuide>&lt;--&gt;</DtxtGuide>
+    <LttlCartImport>Корзина импортёра</LttlCartImport>
+    <LtxtNext>Далее</LtxtNext>
+    <LtxtSelDataFile>Выбор назначаемых  данных</LtxtSelDataFile>
+    <LtxtTabDelText>Вкладка текста с разделителями</LtxtTabDelText>
+    <LtxtValTxtFile>Разрешены только TXT файлы</LtxtValTxtFile>
+    <LtxtErrUpdFile>Произошла ошибка при загрузке файла:</LtxtErrUpdFile>
+    <LtxtSelItems>Выберите элементы, которые вы хотите импортировать</LtxtSelItems>
+    <LtxtUn>Группа</LtxtUn>
+    <LtxtValQty>Количество, которое вы хотите добавить  ,не изменено\nДоступным количеством является {0}.</LtxtValQty>
+    <LtxtValSelItms>Вы должны выбрать элементы, которые вы хотите импортировать.</LtxtValSelItms>
+    <LtxtValMaxQty>Количество постоянных пунктов, в которых вы заинтересованы.\n {1}.Есть только временные пункты</LtxtValMaxQty>
+    <LtxtItemNotFound>Пункт "{0}" не найден в базе данных.</LtxtItemNotFound>
+    <LtxtLineStructErr> В линии #{0} ошибка в структуре</LtxtLineStructErr>
+    <LtxtExplanation>&lt;--&gt;</LtxtExplanation>
+    <LtxtItemCodeDesc>&lt;--&gt;</LtxtItemCodeDesc>
+    <LtxtUnitDesc>&lt;--&gt;</LtxtUnitDesc>
+    <LtxtPriceDesc>&lt;--&gt;</LtxtPriceDesc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtExample>Příklad</DtxtExample>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtValid>Platné</DtxtValid>
+    <DtxtGuide>&lt;--&gt;</DtxtGuide>
+    <LttlCartImport>Průvodce importem nákupního košíku</LttlCartImport>
+    <LtxtNext>Další</LtxtNext>
+    <LtxtSelDataFile>Vyberte datový soubor</LtxtSelDataFile>
+    <LtxtTabDelText>Text oddělený tabulátory</LtxtTabDelText>
+    <LtxtValTxtFile>Povolenou jsou pouze soubory TXT</LtxtValTxtFile>
+    <LtxtErrUpdFile>Při nahrávání souboru došlo k chybě:</LtxtErrUpdFile>
+    <LtxtSelItems>Vyberte položky, které chcete importovat</LtxtSelItems>
+    <LtxtUn>Jednotka</LtxtUn>
+    <LtxtValQty>Množství, které chcete přidat na seznam přání, není dostupné.\nDostupné množství je {0}.</LtxtValQty>
+    <LtxtValSelItms>Musíte zvolit položky, které chcete importovat.</LtxtValSelItms>
+    <LtxtValMaxQty>Množství položky {0} je větší než dostupné množství.\nDostupné množství je {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Položka "{0}" nebyla nalezena v databázi.</LtxtItemNotFound>
+    <LtxtLineStructErr>chyba struktury na řádce #{0}</LtxtLineStructErr>
+    <LtxtExplanation>&lt;--&gt;</LtxtExplanation>
+    <LtxtItemCodeDesc>&lt;--&gt;</LtxtItemCodeDesc>
+    <LtxtUnitDesc>&lt;--&gt;</LtxtUnitDesc>
+    <LtxtPriceDesc>&lt;--&gt;</LtxtPriceDesc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtExample>Przykład</DtxtExample>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtValid>Ważny</DtxtValid>
+    <DtxtGuide>Przewodnik</DtxtGuide>
+    <LttlCartImport>Specjalista od importu koszyka</LttlCartImport>
+    <LtxtNext>Następny</LtxtNext>
+    <LtxtSelDataFile>Wybierz plik danych</LtxtSelDataFile>
+    <LtxtTabDelText>Tekst nieorganiczny tabulatorem</LtxtTabDelText>
+    <LtxtValTxtFile>Tylko pliki TXT są dozwolone</LtxtValTxtFile>
+    <LtxtErrUpdFile>Pojawił się błąd w trakcie pobierania pliku:</LtxtErrUpdFile>
+    <LtxtSelItems>Wybierz pozycje, które chcesz zaimportować</LtxtSelItems>
+    <LtxtUn>Jednostka</LtxtUn>
+    <LtxtValQty>Ilość jaką chcesz dodać jest niedostępna. Dostępna ilość to {0}</LtxtValQty>
+    <LtxtValSelItms>Musisz wybrać pozycje, którą chcesz zaimportować</LtxtValSelItms>
+    <LtxtValMaxQty>Ilość pozycji {0} jest większa niż faktycznie dostępna. Dostępna ilość to {1}</LtxtValMaxQty>
+    <LtxtItemNotFound>Pozycja "{0}" nie została znaleziona w bazie danych. </LtxtItemNotFound>
+    <LtxtLineStructErr>Wiersz #{0} błąd strukturalny</LtxtLineStructErr>
+    <LtxtExplanation>Oto wyjaśnienie jak stworzyć plik do pobrania dokumentu ze strony. Plik musi być “Plikiem tekstowym nieorganicznym tabulatorami” i wymaga  {0} kolumn:</LtxtExplanation>
+    <LtxtItemCodeDesc>Kod referencyjny pozycji</LtxtItemCodeDesc>
+    <LtxtUnitDesc>Jednostka pozwala tylko na 3 ważne wartości</LtxtUnitDesc>
+    <LtxtPriceDesc>Cena musi być zgodna z jednostką</LtxtPriceDesc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtExample>Príklad</DtxtExample>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtValid>Platné</DtxtValid>
+    <DtxtGuide>Manuál</DtxtGuide>
+    <LttlCartImport>Sprievodca importovania košíka</LttlCartImport>
+    <LtxtNext>Ďalej</LtxtNext>
+    <LtxtSelDataFile>Zvoľte dátový súbor</LtxtSelDataFile>
+    <LtxtTabDelText>Text oddelený </LtxtTabDelText>
+    <LtxtValTxtFile>Len TXT súbory sú povolené</LtxtValTxtFile>
+    <LtxtErrUpdFile>Počas nahrávania súoru nastala chyba:</LtxtErrUpdFile>
+    <LtxtSelItems>Vyberte položky, ktoré chcete importovať</LtxtSelItems>
+    <LtxtUn>Jednotka</LtxtUn>
+    <LtxtValQty>Množstvo, ktoré si prajete pridať nie je dostupné.\nDostupné množstvo je {0}.</LtxtValQty>
+    <LtxtValSelItms>Musíte vybrať položky, ktoré chcete importovať.</LtxtValSelItms>
+    <LtxtValMaxQty>Množstvo položky {0} je väčšie ako dostupné množstvo.\nDostupné množstvo je {1}.</LtxtValMaxQty>
+    <LtxtItemNotFound>Položka "{0}" nebola nájdená v databáze.</LtxtItemNotFound>
+    <LtxtLineStructErr>Štruktúrna chyba v riadku #{0}</LtxtLineStructErr>
+    <LtxtExplanation>Toto je vysvetlenie k tomu, ako vytvoriť súbor na nahranie dokumentu na webovú stránku. Súbor musí byť “Textový súbor s oddelenými tabmi” a vyžaduje {0} stĺpcov:</LtxtExplanation>
+    <LtxtItemCodeDesc>Referenčný kód položky</LtxtItemCodeDesc>
+    <LtxtUnitDesc>Jednotka povoľuje len 3 platné hodnoty</LtxtUnitDesc>
+    <LtxtPriceDesc>Cena musí byť podľa jednotky</LtxtPriceDesc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtExample>DtxtExample</DtxtExample>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtValid>DtxtValid</DtxtValid>
+    <DtxtGuide>DtxtGuide</DtxtGuide>
+    <LttlCartImport>LttlCartImport</LttlCartImport>
+    <LtxtNext>LtxtNext</LtxtNext>
+    <LtxtSelDataFile>LtxtSelDataFile</LtxtSelDataFile>
+    <LtxtTabDelText>LtxtTabDelText</LtxtTabDelText>
+    <LtxtValTxtFile>LtxtValTxtFile</LtxtValTxtFile>
+    <LtxtErrUpdFile>LtxtErrUpdFile</LtxtErrUpdFile>
+    <LtxtSelItems>LtxtSelItems</LtxtSelItems>
+    <LtxtUn>LtxtUn</LtxtUn>
+    <LtxtValQty>LtxtValQty</LtxtValQty>
+    <LtxtValSelItms>LtxtValSelItms</LtxtValSelItms>
+    <LtxtValMaxQty>LtxtValMaxQty</LtxtValMaxQty>
+    <LtxtItemNotFound>LtxtItemNotFound</LtxtItemNotFound>
+    <LtxtLineStructErr>LtxtLineStructErr</LtxtLineStructErr>
+    <LtxtExplanation>LtxtExplanation</LtxtExplanation>
+    <LtxtItemCodeDesc>LtxtItemCodeDesc</LtxtItemCodeDesc>
+    <LtxtUnitDesc>LtxtUnitDesc</LtxtUnitDesc>
+    <LtxtPriceDesc>LtxtPriceDesc</LtxtPriceDesc>
+  </language>
+</languages>

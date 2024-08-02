@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlChangePwd>Change Password</LttlChangePwd>
+    <LtxtValConfPwd>Password confirmation does not match</LtxtValConfPwd>
+    <LtxtValMinChar>Password must have at least 5 characters </LtxtValMinChar>
+    <LtxtMinPwd>Password must have 5 to 20 characters </LtxtMinPwd>
+    <LtxtChangePwdLog>Change password at next logon</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <LttlChangePwd>Cambio de Contraseña</LttlChangePwd>
+    <LtxtValConfPwd>La confirmación de la contraseña no concuerda</LtxtValConfPwd>
+    <LtxtValMinChar>La contraseña debe ser mayor o igual a 5 caracteres</LtxtValMinChar>
+    <LtxtMinPwd>Contraseña de 5 a 20 caracteres</LtxtMinPwd>
+    <LtxtChangePwdLog>Cambiar contraseña en próxima entrada</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtAccept>אשר</DtxtAccept>
+    <LttlChangePwd>שנה סיסמה</LttlChangePwd>
+    <LtxtValConfPwd>סיסמת האישור לא תואמת! </LtxtValConfPwd>
+    <LtxtValMinChar>הסיסמה צריכה להיות לפחות 5 תווים!</LtxtValMinChar>
+    <LtxtMinPwd>הסיסמה צריכה להיות בין 5 ל- 20 תווים!</LtxtMinPwd>
+    <LtxtChangePwdLog>שנה סיסמה בהתחברות הבא</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlChangePwd>Change Password</LttlChangePwd>
+    <LtxtValConfPwd>Password confirmation does not match</LtxtValConfPwd>
+    <LtxtValMinChar>Password must have at least 5 characters </LtxtValMinChar>
+    <LtxtMinPwd>Password must have 5 to 20 characters </LtxtMinPwd>
+    <LtxtChangePwdLog>Change password at next logon</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <LttlChangePwd>Alterar Senha</LttlChangePwd>
+    <LtxtValConfPwd>A confirmação da senha não corresponde.</LtxtValConfPwd>
+    <LtxtValMinChar>A senha deve ter pelo menos 5 caracteres.</LtxtValMinChar>
+    <LtxtMinPwd>A senha deve ter de 5 a 20 caracteres.</LtxtMinPwd>
+    <LtxtChangePwdLog>Alterar a senha no próximo login.</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <LttlChangePwd>Modification du Mot de passe</LttlChangePwd>
+    <LtxtValConfPwd>La confirmation du mot de passe ne concorde pas</LtxtValConfPwd>
+    <LtxtValMinChar>Le mot de passe doit être plus grand ou égale à 5 caractères</LtxtValMinChar>
+    <LtxtMinPwd>Mot de passe de 5 à 20 caractères</LtxtMinPwd>
+    <LtxtChangePwdLog>&lt;--&gt;</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <LttlChangePwd>Kennwort ändern</LttlChangePwd>
+    <LtxtValConfPwd>Kennwortbestätigung stimmt nicht überein</LtxtValConfPwd>
+    <LtxtValMinChar>Kennwort muss mindestens 5 Zeichen lang sein</LtxtValMinChar>
+    <LtxtMinPwd>Kennwort darf zwischen 5 und 20 Zeichen lang sein</LtxtMinPwd>
+    <LtxtChangePwdLog>&lt;--&gt;</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtAccept>Получить</DtxtAccept>
+    <LttlChangePwd>Изменение пароля</LttlChangePwd>
+    <LtxtValConfPwd>Подтверждение пароля не совпадают!</LtxtValConfPwd>
+    <LtxtValMinChar>Пароль должен быть не менее 5 символов!</LtxtValMinChar>
+    <LtxtMinPwd>Пароль должен быть между 5 - 20 символов!</LtxtMinPwd>
+    <LtxtChangePwdLog>Изменение пароля  в следующем входе в систему</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <LttlChangePwd>Změnit heslo</LttlChangePwd>
+    <LtxtValConfPwd>Potvrzení hesla neodpovídá</LtxtValConfPwd>
+    <LtxtValMinChar>Heslo musí mít minimálně 5 znaků</LtxtValMinChar>
+    <LtxtMinPwd>Heslo musí mít minimálně 5 a maximálně 20 znaků</LtxtMinPwd>
+    <LtxtChangePwdLog>Změnit heslo při dalším přihlášení</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <LttlChangePwd>Zmień hasło</LttlChangePwd>
+    <LtxtValConfPwd>Potwierdzenie hasła nie pasuje!</LtxtValConfPwd>
+    <LtxtValMinChar>Hasło musi mieć co najmniej 5 znaków</LtxtValMinChar>
+    <LtxtMinPwd>Hasło musi mieć od 5 do 20 znaków</LtxtMinPwd>
+    <LtxtChangePwdLog>Przy następnym logowaniu zmień hasło</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <LttlChangePwd>Zmeniť heslo</LttlChangePwd>
+    <LtxtValConfPwd>Potvrdenie hesla sa nezhoduje</LtxtValConfPwd>
+    <LtxtValMinChar>Heslo musí mať aspoň 5 znakov</LtxtValMinChar>
+    <LtxtMinPwd>Heslo musí mať 5 až 20 znakov</LtxtMinPwd>
+    <LtxtChangePwdLog>Zmeniť heslo pri nasledujúcom prihlásení</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <LttlChangePwd>&lt;--&gt;</LttlChangePwd>
+    <LtxtValConfPwd>&lt;--&gt;</LtxtValConfPwd>
+    <LtxtValMinChar>&lt;--&gt;</LtxtValMinChar>
+    <LtxtMinPwd>&lt;--&gt;</LtxtMinPwd>
+    <LtxtChangePwdLog>&lt;--&gt;</LtxtChangePwdLog>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <LttlChangePwd>LttlChangePwd</LttlChangePwd>
+    <LtxtValConfPwd>LtxtValConfPwd</LtxtValConfPwd>
+    <LtxtValMinChar>LtxtValMinChar</LtxtValMinChar>
+    <LtxtMinPwd>LtxtMinPwd</LtxtMinPwd>
+    <LtxtChangePwdLog>LtxtChangePwdLog</LtxtChangePwdLog>
+  </language>
+</languages>

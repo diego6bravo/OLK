@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlEditBranch>Edit Branch</LttlEditBranch>
+    <LtxtValBranchNam>Please enter the branch name</LtxtValBranchNam>
+    <LttlEditBranchNote>Here the series and accounts of the selected branch may be edited.</LttlEditBranchNote>
+    <LtxtOINVSeries>Invoice Series</LtxtOINVSeries>
+    <LtxtORDRSeries>Sales Order Series</LtxtORDRSeries>
+    <LtxtODLNSeries>Delivery Series</LtxtODLNSeries>
+    <LtxtORCTSeries>Receipt Series</LtxtORCTSeries>
+    <LtxtCashAcct>Cash Account</LtxtCashAcct>
+    <LtxtCheckAcct>Checking Account</LtxtCheckAcct>
+    <LtxtCredAcct>Credit Card Account</LtxtCredAcct>
+    <LtxtInvRec>Invoice/Receipt</LtxtInvRec>
+    <LtxtOINVResSeries>Reserved Invoice Series</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Quotation Series</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlEditBranch>Edición de Sucursal</LttlEditBranch>
+    <LtxtValBranchNam>Debe introducir el nombre de la sucursal</LtxtValBranchNam>
+    <LttlEditBranchNote>En esta sección podrá editar las libretas y cuentas contables de la sucursal seleccionada.</LttlEditBranchNote>
+    <LtxtOINVSeries>Libreta de Facturas</LtxtOINVSeries>
+    <LtxtORDRSeries>Libreta de Pedidos</LtxtORDRSeries>
+    <LtxtODLNSeries>Libreta de Entregas</LtxtODLNSeries>
+    <LtxtORCTSeries>Libreta de Recibos</LtxtORCTSeries>
+    <LtxtCashAcct>Cuenta Efectivo</LtxtCashAcct>
+    <LtxtCheckAcct>Cuenta Cheques</LtxtCheckAcct>
+    <LtxtCredAcct>Cuenta Tarjeta de Crédito</LtxtCredAcct>
+    <LtxtInvRec>Factura/Recibo</LtxtInvRec>
+    <LtxtOINVResSeries>Libreta de Facturas Reservadas</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Libreta de Cotización</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlEditBranch>עריכת סניף</LttlEditBranch>
+    <LtxtValBranchNam>צריך לתת שם לסניף!</LtxtValBranchNam>
+    <LttlEditBranchNote>בחלק זה תוכל להגדיר סיפרורים וחשבונות כללים לסניף.</LttlEditBranchNote>
+    <LtxtOINVSeries>סיפרור חשבוניות מס</LtxtOINVSeries>
+    <LtxtORDRSeries>סיפרור הזמנת לקוחות</LtxtORDRSeries>
+    <LtxtODLNSeries>סיפרור תעודות משלוח</LtxtODLNSeries>
+    <LtxtORCTSeries>סיפרור קבלות מס</LtxtORCTSeries>
+    <LtxtCashAcct>חשבון מזומנים</LtxtCashAcct>
+    <LtxtCheckAcct>חשבון צ'קים</LtxtCheckAcct>
+    <LtxtCredAcct>חשבון כרטיסי אשראי</LtxtCredAcct>
+    <LtxtInvRec>חשבונית מס קבלה</LtxtInvRec>
+    <LtxtOINVResSeries>פנקס של חשבניות שריון</LtxtOINVResSeries>
+    <LtxtOQUTSeries>פנקס הצעות מחיר</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlEditBranch>Edit Branch</LttlEditBranch>
+    <LtxtValBranchNam>Please enter the branch name</LtxtValBranchNam>
+    <LttlEditBranchNote>Here the series and accounts of the selected branch may be edited.</LttlEditBranchNote>
+    <LtxtOINVSeries>Invoice Series</LtxtOINVSeries>
+    <LtxtORDRSeries>Sales Order Series</LtxtORDRSeries>
+    <LtxtODLNSeries>Delivery Series</LtxtODLNSeries>
+    <LtxtORCTSeries>Receipt Series</LtxtORCTSeries>
+    <LtxtCashAcct>Cash Account</LtxtCashAcct>
+    <LtxtCheckAcct>Checking Account</LtxtCheckAcct>
+    <LtxtCredAcct>Credit Card Account</LtxtCredAcct>
+    <LtxtInvRec>Invoice/Receipt</LtxtInvRec>
+    <LtxtOINVResSeries>Reserved Invoice Series</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Quotation Series</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlEditBranch>Edição da Filial</LttlEditBranch>
+    <LtxtValBranchNam>Deve inserir o nome da filial</LtxtValBranchNam>
+    <LttlEditBranchNote>Nesta seção, poderá editar as cadernetas e contas contábeis da filial selecionada.</LttlEditBranchNote>
+    <LtxtOINVSeries>Caderneta de Faturas</LtxtOINVSeries>
+    <LtxtORDRSeries>Caderneta de Pedidos</LtxtORDRSeries>
+    <LtxtODLNSeries>Caderneta de Entregas</LtxtODLNSeries>
+    <LtxtORCTSeries>Caderneta de recibos</LtxtORCTSeries>
+    <LtxtCashAcct>Conta em Dinheiro</LtxtCashAcct>
+    <LtxtCheckAcct>Conta Cheques</LtxtCheckAcct>
+    <LtxtCredAcct>Conta do Cartão de Crédito</LtxtCredAcct>
+    <LtxtInvRec>Nota Fiscal de Saída + Pagamento</LtxtInvRec>
+    <LtxtOINVResSeries>Série padrão de NF de Entrega Futura</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Série padrão de Orçamento</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlEditBranch>Édiction de succursale</LttlEditBranch>
+    <LtxtValBranchNam>Devez-vous insérer le nom de la succursale</LtxtValBranchNam>
+    <LttlEditBranchNote>Dans cette section vous pourrez éditer les livrets et comptes comptables de la succursale sélectionnée</LttlEditBranchNote>
+    <LtxtOINVSeries>Livret des factures</LtxtOINVSeries>
+    <LtxtORDRSeries>Livret des ordres</LtxtORDRSeries>
+    <LtxtODLNSeries>Livret des livraisons</LtxtODLNSeries>
+    <LtxtORCTSeries>Livret des quittances</LtxtORCTSeries>
+    <LtxtCashAcct>Compte liquide</LtxtCashAcct>
+    <LtxtCheckAcct>Compte cheques</LtxtCheckAcct>
+    <LtxtCredAcct>Compte Card de Crédit</LtxtCredAcct>
+    <LtxtInvRec>Facture / Quittance</LtxtInvRec>
+    <LtxtOINVResSeries>&lt;--&gt;</LtxtOINVResSeries>
+    <LtxtOQUTSeries>&lt;--&gt;</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlEditBranch>Zweig bearbeiten</LttlEditBranch>
+    <LtxtValBranchNam>Bitte geben Sie den Zweignamen an</LtxtValBranchNam>
+    <LttlEditBranchNote>In diesem Bereich kann man die Serien und Konten der ausgewählten Zweige bearbeiten.</LttlEditBranchNote>
+    <LtxtOINVSeries>Rechnungs-Serie</LtxtOINVSeries>
+    <LtxtORDRSeries>Verkaufsauftrags-Serie</LtxtORDRSeries>
+    <LtxtODLNSeries>Lieferungs-Serie</LtxtODLNSeries>
+    <LtxtORCTSeries>Quittungs-Serie</LtxtORCTSeries>
+    <LtxtCashAcct>Kassenkonto</LtxtCashAcct>
+    <LtxtCheckAcct>Girokonto</LtxtCheckAcct>
+    <LtxtCredAcct>Kreditkartenkonto</LtxtCredAcct>
+    <LtxtInvRec>Rechnung/Quittung</LtxtInvRec>
+    <LtxtOINVResSeries>&lt;--&gt;</LtxtOINVResSeries>
+    <LtxtOQUTSeries>&lt;--&gt;</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlEditBranch>Изменить отделение</LttlEditBranch>
+    <LtxtValBranchNam>Пожалуйста, введите название филиала</LtxtValBranchNam>
+    <LttlEditBranchNote>В этом разделе можно изменить серии и счета выбранной отрасли.</LttlEditBranchNote>
+    <LtxtOINVSeries>Серии квитанций</LtxtOINVSeries>
+    <LtxtORDRSeries>Серии заказов клиентов</LtxtORDRSeries>
+    <LtxtODLNSeries>Серии накладных</LtxtODLNSeries>
+    <LtxtORCTSeries>Серии счетов</LtxtORCTSeries>
+    <LtxtCashAcct>Денежный счет</LtxtCashAcct>
+    <LtxtCheckAcct>Проверка счета</LtxtCheckAcct>
+    <LtxtCredAcct>Кредитная карточка счета</LtxtCredAcct>
+    <LtxtInvRec>Счет и квитанции</LtxtInvRec>
+    <LtxtOINVResSeries>&lt;--&gt;</LtxtOINVResSeries>
+    <LtxtOQUTSeries>&lt;--&gt;</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlEditBranch>Upravit pobočku</LttlEditBranch>
+    <LtxtValBranchNam>Zadejte prosím název pobočky</LtxtValBranchNam>
+    <LttlEditBranchNote>V této sekci je možné upravit řady a účty vybrané pobočky.</LttlEditBranchNote>
+    <LtxtOINVSeries>Řad faktur</LtxtOINVSeries>
+    <LtxtORDRSeries>Řada příkazů k prodeji</LtxtORDRSeries>
+    <LtxtODLNSeries>Řada dodávek</LtxtODLNSeries>
+    <LtxtORCTSeries>Řada příjemek</LtxtORCTSeries>
+    <LtxtCashAcct>Hotovostní účet</LtxtCashAcct>
+    <LtxtCheckAcct>Kontrola účtu</LtxtCheckAcct>
+    <LtxtCredAcct>Účet kreditní karty</LtxtCredAcct>
+    <LtxtInvRec>Faktura/Příjemka</LtxtInvRec>
+    <LtxtOINVResSeries>&lt;--&gt;</LtxtOINVResSeries>
+    <LtxtOQUTSeries>&lt;--&gt;</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlEditBranch>Edytuj Partię</LttlEditBranch>
+    <LtxtValBranchNam>Proszę wprowadź nazwę oddziału</LtxtValBranchNam>
+    <LttlEditBranchNote>Tutaj seria i konta wybranych oddziałów mogą być edytowane. </LttlEditBranchNote>
+    <LtxtOINVSeries>Seria faktur</LtxtOINVSeries>
+    <LtxtORDRSeries>Seria zlecenia sprzedaży</LtxtORDRSeries>
+    <LtxtODLNSeries>Seria dostaw</LtxtODLNSeries>
+    <LtxtORCTSeries>Seria pokwitowań</LtxtORCTSeries>
+    <LtxtCashAcct>Rachunek/ konto gotówkowe</LtxtCashAcct>
+    <LtxtCheckAcct>Rachunek/ konto czekowe</LtxtCheckAcct>
+    <LtxtCredAcct>Rachunek/ konto karty kredytowej</LtxtCredAcct>
+    <LtxtInvRec>Faktura/pokwitowanie</LtxtInvRec>
+    <LtxtOINVResSeries>Seria faktur rezerwujących</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Seria  wyceny</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlEditBranch>Editovať pobočku</LttlEditBranch>
+    <LtxtValBranchNam>Prosím, zadajte názov pobočky</LtxtValBranchNam>
+    <LttlEditBranchNote>Tu sa dajú editovať série a kontá vybranej pobočky.</LttlEditBranchNote>
+    <LtxtOINVSeries>Séria faktúry</LtxtOINVSeries>
+    <LtxtORDRSeries>Séria zákazky odberateľa</LtxtORDRSeries>
+    <LtxtODLNSeries>Séria dodávky</LtxtODLNSeries>
+    <LtxtORCTSeries>Séria účtenky</LtxtORCTSeries>
+    <LtxtCashAcct>Konto pre hotovosť</LtxtCashAcct>
+    <LtxtCheckAcct>Šekový účet</LtxtCheckAcct>
+    <LtxtCredAcct>Účet kreditnej karty</LtxtCredAcct>
+    <LtxtInvRec>Faktúra/Účtenka</LtxtInvRec>
+    <LtxtOINVResSeries>Séria rezervujúcej faktúry</LtxtOINVResSeries>
+    <LtxtOQUTSeries>Séria ponuky</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlEditBranch>&lt;--&gt;</LttlEditBranch>
+    <LtxtValBranchNam>&lt;--&gt;</LtxtValBranchNam>
+    <LttlEditBranchNote>&lt;--&gt;</LttlEditBranchNote>
+    <LtxtOINVSeries>&lt;--&gt;</LtxtOINVSeries>
+    <LtxtORDRSeries>&lt;--&gt;</LtxtORDRSeries>
+    <LtxtODLNSeries>&lt;--&gt;</LtxtODLNSeries>
+    <LtxtORCTSeries>&lt;--&gt;</LtxtORCTSeries>
+    <LtxtCashAcct>&lt;--&gt;</LtxtCashAcct>
+    <LtxtCheckAcct>&lt;--&gt;</LtxtCheckAcct>
+    <LtxtCredAcct>&lt;--&gt;</LtxtCredAcct>
+    <LtxtInvRec>&lt;--&gt;</LtxtInvRec>
+    <LtxtOINVResSeries>&lt;--&gt;</LtxtOINVResSeries>
+    <LtxtOQUTSeries>&lt;--&gt;</LtxtOQUTSeries>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlEditBranch>LttlEditBranch</LttlEditBranch>
+    <LtxtValBranchNam>LtxtValBranchNam</LtxtValBranchNam>
+    <LttlEditBranchNote>LttlEditBranchNote</LttlEditBranchNote>
+    <LtxtOINVSeries>LtxtOINVSeries</LtxtOINVSeries>
+    <LtxtORDRSeries>LtxtORDRSeries</LtxtORDRSeries>
+    <LtxtODLNSeries>LtxtODLNSeries</LtxtODLNSeries>
+    <LtxtORCTSeries>LtxtORCTSeries</LtxtORCTSeries>
+    <LtxtCashAcct>LtxtCashAcct</LtxtCashAcct>
+    <LtxtCheckAcct>LtxtCheckAcct</LtxtCheckAcct>
+    <LtxtCredAcct>LtxtCredAcct</LtxtCredAcct>
+    <LtxtInvRec>LtxtInvRec</LtxtInvRec>
+    <LtxtOINVResSeries>LtxtOINVResSeries</LtxtOINVResSeries>
+    <LtxtOQUTSeries>LtxtOQUTSeries</LtxtOQUTSeries>
+  </language>
+</languages>

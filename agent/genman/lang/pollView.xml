@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Poll details</LttlPollDet>
+    <LtxtYourOp>Your opinion</LtxtYourOp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Detalles de Encuesta</LttlPollDet>
+    <LtxtYourOp>Su Opinión</LtxtYourOp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlPollDet>נתוני סקר</LttlPollDet>
+    <LtxtYourOp>דעתך</LtxtYourOp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Poll details</LttlPollDet>
+    <LtxtYourOp>Your opinion</LtxtYourOp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Detalhes da Pesquisa</LttlPollDet>
+    <LtxtYourOp>Sua Opinião</LtxtYourOp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Détails d'enquête</LttlPollDet>
+    <LtxtYourOp>Votre opinion</LtxtYourOp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Umfrage Einzelheiten</LttlPollDet>
+    <LtxtYourOp>Ihre Meinung</LtxtYourOp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Данные опроса</LttlPollDet>
+    <LtxtYourOp>Мнение</LtxtYourOp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Podrobnosti o anket+</LttlPollDet>
+    <LtxtYourOp>Váš názor</LtxtYourOp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Szczegóły ankiety</LttlPollDet>
+    <LtxtYourOp>Twoja opinia</LtxtYourOp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>Podrobnosti ankety</LttlPollDet>
+    <LtxtYourOp>Váš názor</LtxtYourOp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPollDet>LttlPollDet</LttlPollDet>
+    <LtxtYourOp>LtxtYourOp</LtxtYourOp>
+  </language>
+</languages>

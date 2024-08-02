@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtPurItem>Purchase</LtxtPurItem>
+    <LtxtSalItem>Sale</LtxtSalItem>
+    <LtxtInvItem>Inventory</LtxtInvItem>
+    <LtxtDesc1>Description 1</LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Purchase Unit</LtxtPurUn>
+    <LtxtPurPackUn>Purchase Pack Unit</LtxtPurPackUn>
+    <LtxtSalUn>Sales Unit</LtxtSalUn>
+    <LtxtSalPackUn>Sale Pack Unit</LtxtSalPackUn>
+    <LtxtErrAddItem>Error adding item</LtxtErrAddItem>
+    <LtxtAddItm>Item Added</LtxtAddItm>
+    <LtxtItmConfirm>Item Confirmed</LtxtItmConfirm>
+    <LtxtConfAddItm>The Item “{0}” was added successfully.</LtxtConfAddItm>
+    <LtxtConfUpdItm>The Item “{0}” was updated successfully.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Create another Item</LtxtCreateNewItem>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtPurItem>Compra</LtxtPurItem>
+    <LtxtSalItem>Venta</LtxtSalItem>
+    <LtxtInvItem>Inventario</LtxtInvItem>
+    <LtxtDesc1>Descripción 1</LtxtDesc1>
+    <LtxtDesc2>Descripción 2</LtxtDesc2>
+    <LtxtBarCod>Código de Barra</LtxtBarCod>
+    <LtxtPurUn>Un. Compra</LtxtPurUn>
+    <LtxtPurPackUn>Un. Empaque en Compra</LtxtPurPackUn>
+    <LtxtSalUn>Un. Venta</LtxtSalUn>
+    <LtxtSalPackUn>Un. Empaque en venta</LtxtSalPackUn>
+    <LtxtErrAddItem>Error al Agregar Artículo</LtxtErrAddItem>
+    <LtxtAddItm>Artículo Agregado</LtxtAddItm>
+    <LtxtItmConfirm>Artículo Confirmado</LtxtItmConfirm>
+    <LtxtConfAddItm>El artículo “{0}” fue agregado con éxito.</LtxtConfAddItm>
+    <LtxtConfUpdItm>El artículo “{0}” fue actualizado con éxito.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Crear otro Artículo</LtxtCreateNewItem>
+    <LtxtView>Ver</LtxtView>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtPurItem>קנה</LtxtPurItem>
+    <LtxtSalItem>מכירה</LtxtSalItem>
+    <LtxtInvItem>מלאי</LtxtInvItem>
+    <LtxtDesc1>תאור 1</LtxtDesc1>
+    <LtxtDesc2>תאור 2</LtxtDesc2>
+    <LtxtBarCod>בר קוד</LtxtBarCod>
+    <LtxtPurUn>יח' קניה</LtxtPurUn>
+    <LtxtPurPackUn>יח' אריזה בקניה</LtxtPurPackUn>
+    <LtxtSalUn>יח' מכירה</LtxtSalUn>
+    <LtxtSalPackUn>יח' אריזה במכירה</LtxtSalPackUn>
+    <LtxtErrAddItem>תקלה בהוספת הפריט</LtxtErrAddItem>
+    <LtxtAddItm>פריט הוסף בהצלחה</LtxtAddItm>
+    <LtxtItmConfirm>פריט אושר בהצלחה</LtxtItmConfirm>
+    <LtxtConfAddItm>הפריט {0}# נוצר בהצלחה</LtxtConfAddItm>
+    <LtxtConfUpdItm>הפריט {0}# עודכן בהצלחה</LtxtConfUpdItm>
+    <LtxtCreateNewItem>צור עוד פריט</LtxtCreateNewItem>
+    <LtxtView>ראה</LtxtView>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtPurItem>Purchase</LtxtPurItem>
+    <LtxtSalItem>Sale</LtxtSalItem>
+    <LtxtInvItem>Inventory</LtxtInvItem>
+    <LtxtDesc1>Description 1</LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Purchase Unit</LtxtPurUn>
+    <LtxtPurPackUn>Purchase Pack Unit</LtxtPurPackUn>
+    <LtxtSalUn>Sales Unit</LtxtSalUn>
+    <LtxtSalPackUn>Sale Pack Unit</LtxtSalPackUn>
+    <LtxtErrAddItem>Error adding item</LtxtErrAddItem>
+    <LtxtAddItm>Item Added</LtxtAddItm>
+    <LtxtItmConfirm>Item Confirmed</LtxtItmConfirm>
+    <LtxtConfAddItm>The Item “{0}” was added successfully.</LtxtConfAddItm>
+    <LtxtConfUpdItm>The Item “{0}” was updated successfully.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Create another Item</LtxtCreateNewItem>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtPurItem>Compra</LtxtPurItem>
+    <LtxtSalItem>Venda</LtxtSalItem>
+    <LtxtInvItem>Estoque</LtxtInvItem>
+    <LtxtDesc1>Descrição 1</LtxtDesc1>
+    <LtxtDesc2>Descrição 2</LtxtDesc2>
+    <LtxtBarCod>Código de Barra</LtxtBarCod>
+    <LtxtPurUn>Un. Compra</LtxtPurUn>
+    <LtxtPurPackUn>Un. Embalagem em Compra</LtxtPurPackUn>
+    <LtxtSalUn>Un. Venda</LtxtSalUn>
+    <LtxtSalPackUn>Un. Embalagem  em venda</LtxtSalPackUn>
+    <LtxtErrAddItem>Erro ao Adicionar o Item</LtxtErrAddItem>
+    <LtxtAddItm>Item Adicionado</LtxtAddItm>
+    <LtxtItmConfirm>Item Confirmado</LtxtItmConfirm>
+    <LtxtConfAddItm>O item "{0}" foi adicionado com sucesso.</LtxtConfAddItm>
+    <LtxtConfUpdItm>O item "{0}" foi atualizado com sucesso.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Criar outro Item</LtxtCreateNewItem>
+    <LtxtView>Visualizar</LtxtView>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtPurItem>Achat</LtxtPurItem>
+    <LtxtSalItem>Vente</LtxtSalItem>
+    <LtxtInvItem>Inventaire</LtxtInvItem>
+    <LtxtDesc1>Description 1 </LtxtDesc1>
+    <LtxtDesc2>Description 2</LtxtDesc2>
+    <LtxtBarCod>Barre-code</LtxtBarCod>
+    <LtxtPurUn>Unité d'achat</LtxtPurUn>
+    <LtxtPurPackUn>Unité d'emballage en achat</LtxtPurPackUn>
+    <LtxtSalUn>Unité de vente</LtxtSalUn>
+    <LtxtSalPackUn>Unité d'emballage en vente</LtxtSalPackUn>
+    <LtxtErrAddItem>Erreur au moment d'ajouter l'article</LtxtErrAddItem>
+    <LtxtAddItm>Article ajouté</LtxtAddItm>
+    <LtxtItmConfirm>Article confirmé</LtxtItmConfirm>
+    <LtxtConfAddItm>&lt;--&gt;</LtxtConfAddItm>
+    <LtxtConfUpdItm>&lt;--&gt;</LtxtConfUpdItm>
+    <LtxtCreateNewItem>&lt;--&gt;</LtxtCreateNewItem>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtPurItem>Ankauf</LtxtPurItem>
+    <LtxtSalItem>Verkauf</LtxtSalItem>
+    <LtxtInvItem>Inventur</LtxtInvItem>
+    <LtxtDesc1>Beschreibung 1</LtxtDesc1>
+    <LtxtDesc2>Beschreibung 2</LtxtDesc2>
+    <LtxtBarCod>Barcode</LtxtBarCod>
+    <LtxtPurUn>Einheit kaufen</LtxtPurUn>
+    <LtxtPurPackUn>Bündeleinheit kaufen</LtxtPurPackUn>
+    <LtxtSalUn>Verkaufseinheit</LtxtSalUn>
+    <LtxtSalPackUn>Bündeleinheit verkaufen</LtxtSalPackUn>
+    <LtxtErrAddItem>Fehler beim hinzufügen des Artikels</LtxtErrAddItem>
+    <LtxtAddItm>Artikel hinzugefügt</LtxtAddItm>
+    <LtxtItmConfirm>Artikel bestätigt</LtxtItmConfirm>
+    <LtxtConfAddItm>&lt;--&gt;</LtxtConfAddItm>
+    <LtxtConfUpdItm>&lt;--&gt;</LtxtConfUpdItm>
+    <LtxtCreateNewItem>&lt;--&gt;</LtxtCreateNewItem>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtPurItem>Покупать</LtxtPurItem>
+    <LtxtSalItem>Продажа</LtxtSalItem>
+    <LtxtInvItem>Товары</LtxtInvItem>
+    <LtxtDesc1>Описание1</LtxtDesc1>
+    <LtxtDesc2>Описание2</LtxtDesc2>
+    <LtxtBarCod>Штрих код</LtxtBarCod>
+    <LtxtPurUn>Единичные покупки</LtxtPurUn>
+    <LtxtPurPackUn>Единиц упаковок на покупку</LtxtPurPackUn>
+    <LtxtSalUn>Единичные продажи</LtxtSalUn>
+    <LtxtSalPackUn>Единиц упаковок на продажу</LtxtSalPackUn>
+    <LtxtErrAddItem>Ошибка в добавлении детали</LtxtErrAddItem>
+    <LtxtAddItm>Деталь успешно добавлена</LtxtAddItm>
+    <LtxtItmConfirm>Деталь успешно разрешена</LtxtItmConfirm>
+    <LtxtConfAddItm>&lt;--&gt;</LtxtConfAddItm>
+    <LtxtConfUpdItm>&lt;--&gt;</LtxtConfUpdItm>
+    <LtxtCreateNewItem>&lt;--&gt;</LtxtCreateNewItem>
+    <LtxtView>Смотреть</LtxtView>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtPurItem>Nákup</LtxtPurItem>
+    <LtxtSalItem>Prodej</LtxtSalItem>
+    <LtxtInvItem>Zásoby</LtxtInvItem>
+    <LtxtDesc1>Popis 1</LtxtDesc1>
+    <LtxtDesc2>Popis 2</LtxtDesc2>
+    <LtxtBarCod>Čárový kód</LtxtBarCod>
+    <LtxtPurUn>Nákupní jednotka</LtxtPurUn>
+    <LtxtPurPackUn>Nákupní jednotka balení</LtxtPurPackUn>
+    <LtxtSalUn>Prodejní jednotka</LtxtSalUn>
+    <LtxtSalPackUn>Prodejní jednotka balení</LtxtSalPackUn>
+    <LtxtErrAddItem>Chyba při přidávání položky</LtxtErrAddItem>
+    <LtxtAddItm>Položka přidána</LtxtAddItm>
+    <LtxtItmConfirm>Položka potvrzena</LtxtItmConfirm>
+    <LtxtConfAddItm>Položka “{0}” byla úspěšně přidána.</LtxtConfAddItm>
+    <LtxtConfUpdItm>Položka “{0}” byla úspěšně aktualizována.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Vytvořit další položku</LtxtCreateNewItem>
+    <LtxtView>Zobrazit</LtxtView>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtPurItem>Zakup</LtxtPurItem>
+    <LtxtSalItem>Sprzedaż</LtxtSalItem>
+    <LtxtInvItem>Zapas</LtxtInvItem>
+    <LtxtDesc1>Opis 1</LtxtDesc1>
+    <LtxtDesc2>Opis 2</LtxtDesc2>
+    <LtxtBarCod>Kod kreskowy</LtxtBarCod>
+    <LtxtPurUn>Jednostka zakupu</LtxtPurUn>
+    <LtxtPurPackUn>Jednostka pakowania zakupu</LtxtPurPackUn>
+    <LtxtSalUn>Jednostka sprzedaży</LtxtSalUn>
+    <LtxtSalPackUn>Jednostka pakowania sprzedaży</LtxtSalPackUn>
+    <LtxtErrAddItem>Błąd przy dodawaniu pozycji</LtxtErrAddItem>
+    <LtxtAddItm>Pozycja dodana</LtxtAddItm>
+    <LtxtItmConfirm>Pozycja potwierdzona</LtxtItmConfirm>
+    <LtxtConfAddItm>Pozycja {0} została dodana z sukcesem</LtxtConfAddItm>
+    <LtxtConfUpdItm>Pozycja {0} została uaktualniona z sukcesem</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Stwórz kolejna pozycję</LtxtCreateNewItem>
+    <LtxtView>Zobacz</LtxtView>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtPurItem>Nákup</LtxtPurItem>
+    <LtxtSalItem>Predaj</LtxtSalItem>
+    <LtxtInvItem>Inventár</LtxtInvItem>
+    <LtxtDesc1>Popis 1</LtxtDesc1>
+    <LtxtDesc2>Popis 2</LtxtDesc2>
+    <LtxtBarCod>Čiarový kód</LtxtBarCod>
+    <LtxtPurUn>Nákupná jednotka</LtxtPurUn>
+    <LtxtPurPackUn>Nákupná baliaca jednotka</LtxtPurPackUn>
+    <LtxtSalUn>Predajná jednotka</LtxtSalUn>
+    <LtxtSalPackUn>Predajná baliaca jednotka</LtxtSalPackUn>
+    <LtxtErrAddItem>Chyba v pridaní položky</LtxtErrAddItem>
+    <LtxtAddItm>Položka pridaná</LtxtAddItm>
+    <LtxtItmConfirm>Položka potvrdená</LtxtItmConfirm>
+    <LtxtConfAddItm>Položka “{0}” bola pridaná úspešne.</LtxtConfAddItm>
+    <LtxtConfUpdItm>Položka “{0}” bola aktualizované úspešne.</LtxtConfUpdItm>
+    <LtxtCreateNewItem>Vytvoriť ďalšiu položku</LtxtCreateNewItem>
+    <LtxtView>Zobraziť</LtxtView>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtPurItem>LtxtPurItem</LtxtPurItem>
+    <LtxtSalItem>LtxtSalItem</LtxtSalItem>
+    <LtxtInvItem>LtxtInvItem</LtxtInvItem>
+    <LtxtDesc1>LtxtDesc1</LtxtDesc1>
+    <LtxtDesc2>LtxtDesc2</LtxtDesc2>
+    <LtxtBarCod>LtxtBarCod</LtxtBarCod>
+    <LtxtPurUn>LtxtPurUn</LtxtPurUn>
+    <LtxtPurPackUn>LtxtPurPackUn</LtxtPurPackUn>
+    <LtxtSalUn>LtxtSalUn</LtxtSalUn>
+    <LtxtSalPackUn>LtxtSalPackUn</LtxtSalPackUn>
+    <LtxtErrAddItem>LtxtErrAddItem</LtxtErrAddItem>
+    <LtxtAddItm>LtxtAddItm</LtxtAddItm>
+    <LtxtItmConfirm>LtxtItmConfirm</LtxtItmConfirm>
+    <LtxtConfAddItm>LtxtConfAddItm</LtxtConfAddItm>
+    <LtxtConfUpdItm>LtxtConfUpdItm</LtxtConfUpdItm>
+    <LtxtCreateNewItem>LtxtCreateNewItem</LtxtCreateNewItem>
+    <LtxtView>LtxtView</LtxtView>
+  </language>
+</languages>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtGenerate>Generate</DtxtGenerate>
+    <LttlCustLogin>External Login</LttlCustLogin>
+    <LttlCustLoginNote>Here a login access code allowing access to OLK through external websites may be generated.</LttlCustLoginNote>
+    <LtxtURL>URL</LtxtURL>
+    <LtxtAccessKey>Access Key</LtxtAccessKey>
+    <LtxtConfRemURL>Are you sure you want to remove the URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>You must enter a URL</LtxtEnterURL>
+    <LtxtURLExists>The URL {0} already exists</LtxtURLExists>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtPreview>Vista Previa</DtxtPreview>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtGenerate>Generar</DtxtGenerate>
+    <LttlCustLogin>Acceso Externo</LttlCustLogin>
+    <LttlCustLoginNote>En esta sección podrá generar el código de acceso para poder ingresar a OLK desde un sitio externo.</LttlCustLoginNote>
+    <LtxtURL>Dirección Web</LtxtURL>
+    <LtxtAccessKey>Llave de Acceso</LtxtAccessKey>
+    <LtxtConfRemURL>¿Está seguro que desea eliminar la dirección {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Debe introducir la dirección web</LtxtEnterURL>
+    <LtxtURLExists>La dirección {0} ya existe</LtxtURLExists>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtPreview>תצוגה מוקדמת</DtxtPreview>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtGenerate>ייצר</DtxtGenerate>
+    <LttlCustLogin>כניסה חיצונית</LttlCustLogin>
+    <LttlCustLoginNote>בחלק זה תוכל לייצר מפתח (קוד) כניסה שיאפשר לך להשתמש בכניסה חיצונית דרך אתר אחר לאולק </LttlCustLoginNote>
+    <LtxtURL>כתובת אינטרנט</LtxtURL>
+    <LtxtAccessKey>מפתח כניסה</LtxtAccessKey>
+    <LtxtConfRemURL>האם למחוק כתובת אינטרנט {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>יש לתת כתובת אינטרנט</LtxtEnterURL>
+    <LtxtURLExists>כתובת האינטרנט {0} כבר קיימת</LtxtURLExists>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtGenerate>Generate</DtxtGenerate>
+    <LttlCustLogin>External Login</LttlCustLogin>
+    <LttlCustLoginNote>Here a login access code allowing access to OLK through external websites may be generated.</LttlCustLoginNote>
+    <LtxtURL>URL</LtxtURL>
+    <LtxtAccessKey>Access Key</LtxtAccessKey>
+    <LtxtConfRemURL>Are you sure you want to remove the URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>You must enter a URL</LtxtEnterURL>
+    <LtxtURLExists>The URL {0} already exists</LtxtURLExists>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtPreview>Pré Visualizar</DtxtPreview>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtGenerate>Gerar</DtxtGenerate>
+    <LttlCustLogin>Acesso Externo</LttlCustLogin>
+    <LttlCustLoginNote>Nesta seção, um código de acesso pode ser gerado permitindo o acesso a OnlineKit através de sites externos.</LttlCustLoginNote>
+    <LtxtURL>Endereço Web</LtxtURL>
+    <LtxtAccessKey>Chave de Acesso</LtxtAccessKey>
+    <LtxtConfRemURL>Você tem certeza que deseja remover o URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Você deve inserir uma URL.</LtxtEnterURL>
+    <LtxtURLExists>O URL {0} já existe.</LtxtURLExists>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtPreview>Vue préalable</DtxtPreview>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtGenerate>&lt;--&gt;</DtxtGenerate>
+    <LttlCustLogin>&lt;--&gt;</LttlCustLogin>
+    <LttlCustLoginNote>&lt;--&gt;</LttlCustLoginNote>
+    <LtxtURL>&lt;--&gt;</LtxtURL>
+    <LtxtAccessKey>&lt;--&gt;</LtxtAccessKey>
+    <LtxtConfRemURL>&lt;--&gt;</LtxtConfRemURL>
+    <LtxtEnterURL>&lt;--&gt;</LtxtEnterURL>
+    <LtxtURLExists>&lt;--&gt;</LtxtURLExists>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtPreview>Vorschau</DtxtPreview>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtGenerate>Erzeugen</DtxtGenerate>
+    <LttlCustLogin>&lt;--&gt;</LttlCustLogin>
+    <LttlCustLoginNote>&lt;--&gt;</LttlCustLoginNote>
+    <LtxtURL>&lt;--&gt;</LtxtURL>
+    <LtxtAccessKey>&lt;--&gt;</LtxtAccessKey>
+    <LtxtConfRemURL>&lt;--&gt;</LtxtConfRemURL>
+    <LtxtEnterURL>&lt;--&gt;</LtxtEnterURL>
+    <LtxtURLExists>&lt;--&gt;</LtxtURLExists>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtPreview>Досрочная экспозиция</DtxtPreview>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtGenerate>Прооизводство</DtxtGenerate>
+    <LttlCustLogin>Внешний вход</LttlCustLogin>
+    <LttlCustLoginNote>В этом разделе можно генерировать логин код доступа, который позволяет вам послать логин на ОЛК через внешний веб-сайт.</LttlCustLoginNote>
+    <LtxtURL>Интернет адрес</LtxtURL>
+    <LtxtAccessKey>Ключ доступа</LtxtAccessKey>
+    <LtxtConfRemURL>Вы уверены, что хотите удалить интернет адрес {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Вы должны ввести интернет адрес</LtxtEnterURL>
+    <LtxtURLExists>Интернет адрес {0} уже существует</LtxtURLExists>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtPreview>Náhled</DtxtPreview>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtGenerate>Vygenerovat</DtxtGenerate>
+    <LttlCustLogin>Externí přihlášení</LttlCustLogin>
+    <LttlCustLoginNote>V této sekci je možné vygenerovat přihlašovací přístupový kód, který umožní přihlášení do OLK z externí webové stránky.</LttlCustLoginNote>
+    <LtxtURL>URL</LtxtURL>
+    <LtxtAccessKey>Přístupový klíč</LtxtAccessKey>
+    <LtxtConfRemURL>Jste si jistý/á, že chcete odebrat URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Musíte zadat URL</LtxtEnterURL>
+    <LtxtURLExists>URL {0} již existuje</LtxtURLExists>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtPreview>Podgląd</DtxtPreview>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtGenerate>Generuj</DtxtGenerate>
+    <LttlCustLogin>Login zewnętrzny</LttlCustLogin>
+    <LttlCustLoginNote>Tutaj może być wygenerowany kod dostępu login pozwalający na dostęp do OLK poprzez zewnętrzna stronę internetową</LttlCustLoginNote>
+    <LtxtURL>URL</LtxtURL>
+    <LtxtAccessKey>Klucz dostępu</LtxtAccessKey>
+    <LtxtConfRemURL>Czy jesteś pewien, że chcesz usunąć URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Musisz wprowadzić URL</LtxtEnterURL>
+    <LtxtURLExists>URL {0} już istnieje</LtxtURLExists>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtPreview>Náhľad</DtxtPreview>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtGenerate>Vygenerovať</DtxtGenerate>
+    <LttlCustLogin>Externé prihlásenie</LttlCustLogin>
+    <LttlCustLoginNote>Tu sa dá vygenerovať prístupový kód prihlásenia povoľujúci prístup do OLK cez externé webové stránky.</LttlCustLoginNote>
+    <LtxtURL>URL</LtxtURL>
+    <LtxtAccessKey>Prístupový kľúč</LtxtAccessKey>
+    <LtxtConfRemURL>Ste si istí, že chcete odstrániť URL {0}?</LtxtConfRemURL>
+    <LtxtEnterURL>Musíte zadať URL</LtxtEnterURL>
+    <LtxtURLExists>URL {0} už existuje</LtxtURLExists>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtPreview>&lt;--&gt;</DtxtPreview>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtGenerate>&lt;--&gt;</DtxtGenerate>
+    <LttlCustLogin>&lt;--&gt;</LttlCustLogin>
+    <LttlCustLoginNote>&lt;--&gt;</LttlCustLoginNote>
+    <LtxtURL>&lt;--&gt;</LtxtURL>
+    <LtxtAccessKey>&lt;--&gt;</LtxtAccessKey>
+    <LtxtConfRemURL>&lt;--&gt;</LtxtConfRemURL>
+    <LtxtEnterURL>&lt;--&gt;</LtxtEnterURL>
+    <LtxtURLExists>&lt;--&gt;</LtxtURLExists>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtPreview>DtxtPreview</DtxtPreview>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtGenerate>DtxtGenerate</DtxtGenerate>
+    <LttlCustLogin>LttlCustLogin</LttlCustLogin>
+    <LttlCustLoginNote>LttlCustLoginNote</LttlCustLoginNote>
+    <LtxtURL>LtxtURL</LtxtURL>
+    <LtxtAccessKey>LtxtAccessKey</LtxtAccessKey>
+    <LtxtConfRemURL>LtxtConfRemURL</LtxtConfRemURL>
+    <LtxtEnterURL>LtxtEnterURL</LtxtEnterURL>
+    <LtxtURLExists>LtxtURLExists</LtxtURLExists>
+  </language>
+</languages>

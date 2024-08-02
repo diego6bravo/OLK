@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtCommItems>Committed Items</LtxtCommItems>
+    <LtxtBestPrice>Best Prices</LtxtBestPrice>
+    <Ltxt10LastSales>10 Last Sales</Ltxt10LastSales>
+    <LtxtItmInCartNote>This item is already on the cart.</LtxtItmInCartNote>
+    <LtxtConfCancel>Are you sure you want to cancel?</LtxtConfCancel>
+    <LtxtNotEnoughQty>There is not enough availability for the required quantity</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Please select the tax code</LtxtSelTaxCode>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>The linked report was not found; contact your administrator for assistance.</LtxtErrRep>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtSellAll>Sell all available stock</LtxtSellAll>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <LtxtDetails>Detalle</LtxtDetails>
+    <LtxtCommItems>Artículos Reservados</LtxtCommItems>
+    <LtxtBestPrice>Mejores Precios</LtxtBestPrice>
+    <Ltxt10LastSales>10 Últimas Ventas</Ltxt10LastSales>
+    <LtxtItmInCartNote>Este articulo ya está en la canasta.</LtxtItmInCartNote>
+    <LtxtConfCancel>¿Está seguro que desea cancelar?</LtxtConfCancel>
+    <LtxtNotEnoughQty>No hay suficiente inventario disponible para la cantidad solicitada</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Debe escoger el indicador de impuesto</LtxtSelTaxCode>
+    <LtxtTaxCode>Indicador de impuesto</LtxtTaxCode>
+    <LtxtMaxDiscount>El descuento no puede ser mayor que {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>El reporte enlazado no fue encontrado, contacte su administrador para asistencia.</LtxtErrRep>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+    <LtxtSellAll>Vender todo el inventario disponible</LtxtSellAll>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <LtxtDetails>פרטים</LtxtDetails>
+    <LtxtCommItems>פריטים בהתחייבות</LtxtCommItems>
+    <LtxtBestPrice>מחירים הכי טובים</LtxtBestPrice>
+    <Ltxt10LastSales>10 מכירות אחרונות</Ltxt10LastSales>
+    <LtxtItmInCartNote>המק"ט הנ"ל קיים כבר בסל הקניות.</LtxtItmInCartNote>
+    <LtxtConfCancel>האם לבטל את הפריט?</LtxtConfCancel>
+    <LtxtNotEnoughQty>אין פריטים זמינים לכמות הנחוצה</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>יש לבחור את קבוצת המע"מ</LtxtSelTaxCode>
+    <LtxtTaxCode>קוד קבוצת מע"מ</LtxtTaxCode>
+    <LtxtMaxDiscount>ההנחה המקסימלית היא %{0}</LtxtMaxDiscount>
+    <LtxtErrRep>הדוח המקושר לא נמצא, צור קשר עם איש המערכת לעזרה.</LtxtErrRep>
+    <LtxtVolDiscount>הנחה על כמויות</LtxtVolDiscount>
+    <LtxtSellAll>מכור את כל המלאי הזמין</LtxtSellAll>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtCommItems>Committed Items</LtxtCommItems>
+    <LtxtBestPrice>Best Prices</LtxtBestPrice>
+    <Ltxt10LastSales>10 Last Sales</Ltxt10LastSales>
+    <LtxtItmInCartNote>This item is already on the cart.</LtxtItmInCartNote>
+    <LtxtConfCancel>Are you sure you want to cancel?</LtxtConfCancel>
+    <LtxtNotEnoughQty>There is not enough availability for the required quantity</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Please select the tax code</LtxtSelTaxCode>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtMaxDiscount>The discount cannot be more then {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>The linked report was not found; contact your administrator for assistance.</LtxtErrRep>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtSellAll>Sell all available stock</LtxtSellAll>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <LtxtDetails>Detalhe</LtxtDetails>
+    <LtxtCommItems>Itens Reservados</LtxtCommItems>
+    <LtxtBestPrice>Melhores Preços</LtxtBestPrice>
+    <Ltxt10LastSales>10 Últimas Vendas</Ltxt10LastSales>
+    <LtxtItmInCartNote>Este item já esta no Carrinho</LtxtItmInCartNote>
+    <LtxtConfCancel>Você tem certeza que deseja cancelar?</LtxtConfCancel>
+    <LtxtNotEnoughQty>Não existe estoque disponível suficiente para a quantidade solicitada</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Por Favor, selecione um código de imposto</LtxtSelTaxCode>
+    <LtxtTaxCode>Indicador de Imposto</LtxtTaxCode>
+    <LtxtMaxDiscount>O desconto não pode ser maior do que {0} %</LtxtMaxDiscount>
+    <LtxtErrRep>O relatório vinculado não foi encontrado, entre em contato com o administrador para obter assistência.</LtxtErrRep>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+    <LtxtSellAll>Vender todo o estoque disponível</LtxtSellAll>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtCommItems>&lt;--&gt;</LtxtCommItems>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <Ltxt10LastSales>&lt;--&gt;</Ltxt10LastSales>
+    <LtxtItmInCartNote>&lt;--&gt;</LtxtItmInCartNote>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtNotEnoughQty>&lt;--&gt;</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Devez-vous choisir l'indicateur d'impôt</LtxtSelTaxCode>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtErrRep>&lt;--&gt;</LtxtErrRep>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtCommItems>&lt;--&gt;</LtxtCommItems>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <Ltxt10LastSales>&lt;--&gt;</Ltxt10LastSales>
+    <LtxtItmInCartNote>&lt;--&gt;</LtxtItmInCartNote>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtNotEnoughQty>&lt;--&gt;</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Bitte wählen Sie die Steuernummer</LtxtSelTaxCode>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtErrRep>&lt;--&gt;</LtxtErrRep>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtCommItems>&lt;--&gt;</LtxtCommItems>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <Ltxt10LastSales>&lt;--&gt;</Ltxt10LastSales>
+    <LtxtItmInCartNote>&lt;--&gt;</LtxtItmInCartNote>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtNotEnoughQty>&lt;--&gt;</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>&lt;--&gt;</LtxtSelTaxCode>
+    <LtxtTaxCode>&lt;--&gt;</LtxtTaxCode>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtErrRep>&lt;--&gt;</LtxtErrRep>
+    <LtxtVolDiscount>Скидка на количество</LtxtVolDiscount>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+    <LtxtCommItems>Potvrzené položky</LtxtCommItems>
+    <LtxtBestPrice>Nejlepší ceny</LtxtBestPrice>
+    <Ltxt10LastSales>10 posledních prodejů</Ltxt10LastSales>
+    <LtxtItmInCartNote>Položka už je v košíku.</LtxtItmInCartNote>
+    <LtxtConfCancel>Určitě chcete zrušit?</LtxtConfCancel>
+    <LtxtNotEnoughQty>Pro požadované množství není dostatečná dostupnost</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Zvolte prosím kód daně</LtxtSelTaxCode>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+    <LtxtMaxDiscount>Sleva nemůže být víc než {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>Navázaný report nebyl nalezen. Spojte se svým admnistrátorem pro pomoc.</LtxtErrRep>
+    <LtxtVolDiscount>Objemová sleva</LtxtVolDiscount>
+    <LtxtSellAll>Prodat dostupné zásoby</LtxtSellAll>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <LtxtDetails>Szczegóły</LtxtDetails>
+    <LtxtCommItems>Pozycje rozdysponowane</LtxtCommItems>
+    <LtxtBestPrice>Najlepsze ceny</LtxtBestPrice>
+    <Ltxt10LastSales>Ostatnich 10 sprzedaży</Ltxt10LastSales>
+    <LtxtItmInCartNote>Ta pozycja już jest w koszyku</LtxtItmInCartNote>
+    <LtxtConfCancel>Czy jesteś pewien, że chcesz anulować?</LtxtConfCancel>
+    <LtxtNotEnoughQty>Nie ma wystarczającej dostępności dla wymaganej ilości</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Proszę wybierz kod podatkowy </LtxtSelTaxCode>
+    <LtxtTaxCode>Kod podatkowy </LtxtTaxCode>
+    <LtxtMaxDiscount>Rabat nie może być większy niż {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>Raport powiązany nie został znaleziony; skontaktuj się z administratorem aby uzyskać pomoc. </LtxtErrRep>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+    <LtxtSellAll>Sprzedaj cały dostępny zapas</LtxtSellAll>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+    <LtxtCommItems>Záväzné položky</LtxtCommItems>
+    <LtxtBestPrice>Najlepšie ceny</LtxtBestPrice>
+    <Ltxt10LastSales>10 posledných predajov</Ltxt10LastSales>
+    <LtxtItmInCartNote>Táto položka sa už nachádza v košíku.</LtxtItmInCartNote>
+    <LtxtConfCancel>Ste si istí, že chcete zrušiť?</LtxtConfCancel>
+    <LtxtNotEnoughQty>Pre požadované množstvo nie je k dispozícii dostatok zásob</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>Prosím zvoľte daňový kód</LtxtSelTaxCode>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+    <LtxtMaxDiscount>Zľava nemôže byť viac ako {0}%</LtxtMaxDiscount>
+    <LtxtErrRep>Prepojená správa nebola nájdená; kontaktujte Vášho administrátora na pomoc.</LtxtErrRep>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+    <LtxtSellAll>Predať všetky dostupné zásoby</LtxtSellAll>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtDiscount>&lt;--&gt;</DtxtDiscount>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtCommItems>&lt;--&gt;</LtxtCommItems>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <Ltxt10LastSales>&lt;--&gt;</Ltxt10LastSales>
+    <LtxtItmInCartNote>&lt;--&gt;</LtxtItmInCartNote>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtNotEnoughQty>&lt;--&gt;</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>&lt;--&gt;</LtxtSelTaxCode>
+    <LtxtTaxCode>&lt;--&gt;</LtxtTaxCode>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtErrRep>&lt;--&gt;</LtxtErrRep>
+    <LtxtVolDiscount>&lt;--&gt;</LtxtVolDiscount>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <LtxtDetails>LtxtDetails</LtxtDetails>
+    <LtxtCommItems>LtxtCommItems</LtxtCommItems>
+    <LtxtBestPrice>LtxtBestPrice</LtxtBestPrice>
+    <Ltxt10LastSales>Ltxt10LastSales</Ltxt10LastSales>
+    <LtxtItmInCartNote>LtxtItmInCartNote</LtxtItmInCartNote>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+    <LtxtNotEnoughQty>LtxtNotEnoughQty</LtxtNotEnoughQty>
+    <LtxtSelTaxCode>LtxtSelTaxCode</LtxtSelTaxCode>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtErrRep>LtxtErrRep</LtxtErrRep>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+    <LtxtSellAll>LtxtSellAll</LtxtSellAll>
+  </language>
+</languages>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>{0} Interface - Payment</LtxtClientInterface>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>Interface {0} - Pago</LtxtClientInterface>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtClientInterface>ממשק {0} - תשלום</LtxtClientInterface>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>&lt;--&gt;</LtxtClientInterface>
+  </language>
+  <language xml:lang="fr" langname="Français (Canada) " charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>&lt;--&gt;</LtxtClientInterface>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>&lt;--&gt;</LtxtClientInterface>
+  </language>
+  <language xml:lang="ru" langname="Российской" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>Интерфейс {0} -оплата</LtxtClientInterface>
+  </language>
+  <language xml:lang="cs" langname="Čeština" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>{0} Rozhraní - Platba</LtxtClientInterface>
+  </language>
+  <language xml:lang="pl" langname="Polski" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>&lt;--&gt;</LtxtClientInterface>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>&lt;--&gt;</LtxtClientInterface>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientInterface>LtxtClientInterface</LtxtClientInterface>
+  </language>
+</languages>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAll>All</DtxtAll>
+    <DtxtType>Type</DtxtType>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtSystem>System</DtxtSystem>
+    <LttlSelSec>Sections Selection</LttlSelSec>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <LttlSelSec>Selección de Secciones</LttlSelSec>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtType>סוג</DtxtType>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <LttlSelSec>בחר אזורים</LttlSelSec>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAll>All</DtxtAll>
+    <DtxtType>Type</DtxtType>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtSystem>System</DtxtSystem>
+    <LttlSelSec>Sections Selection</LttlSelSec>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <LttlSelSec>Seleção de Seções</LttlSelSec>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <LttlSelSec>Sélection des sections</LttlSelSec>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtType>Art</DtxtType>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtSystem>System</DtxtSystem>
+    <LttlSelSec>Bereich Auswahl</LttlSelSec>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtType>Вид</DtxtType>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtSystem>Система</DtxtSystem>
+    <LttlSelSec>Выберите регионы</LttlSelSec>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtType>Typ</DtxtType>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtSystem>Systém</DtxtSystem>
+    <LttlSelSec>Výběr sekcí</LttlSelSec>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtType>Typ</DtxtType>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtSystem>System</DtxtSystem>
+    <LttlSelSec>Wybór działu</LttlSelSec>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtSystem>Systém</DtxtSystem>
+    <LttlSelSec>Výber sekcií</LttlSelSec>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtTitle>&lt;--&gt;</DtxtTitle>
+    <DtxtClose>&lt;--&gt;</DtxtClose>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <LttlSelSec>&lt;--&gt;</LttlSelSec>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <LttlSelSec>LttlSelSec</LttlSelSec>
+  </language>
+</languages>

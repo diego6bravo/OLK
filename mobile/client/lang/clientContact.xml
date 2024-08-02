@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Password</DtxtPwd>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Place of birth</LtxtPOB>
+    <LtxtDOB>Date of birth</LtxtDOB>
+    <LtxtGender>Gender</LtxtGender>
+    <LtxtProfesion>Profession</LtxtProfesion>
+    <LtxtTitle>Title</LtxtTitle>
+    <LtxtSetAsDef>Set as default</LtxtSetAsDef>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtNewContact>New Contact</LtxtNewContact>
+    <LtxtEditContact>Edit Contact</LtxtEditContact>
+    <LtxtValNam>Please enter contact name</LtxtValNam>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Contraseña</DtxtPwd>
+    <LtxtPosition>Posición</LtxtPosition>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtPager>Beeper</LtxtPager>
+    <LtxtPOB>Lugar de nacimiento</LtxtPOB>
+    <LtxtDOB>Fecha de nacimiento</LtxtDOB>
+    <LtxtGender>Sexo</LtxtGender>
+    <LtxtProfesion>Profesión</LtxtProfesion>
+    <LtxtTitle>Titulo</LtxtTitle>
+    <LtxtSetAsDef>Establecer como predeterminado</LtxtSetAsDef>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LtxtNewContact>Nuevo Contacto</LtxtNewContact>
+    <LtxtEditContact>Editar Contacto</LtxtEditContact>
+    <LtxtValNam>Debe introducir el nombre del contacto</LtxtValNam>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtPwd>סיסמה</DtxtPwd>
+    <LtxtPosition>תפקיד</LtxtPosition>
+    <LtxtMobile>נייד</LtxtMobile>
+    <LtxtPager>זימונית</LtxtPager>
+    <LtxtPOB>מקום לידה</LtxtPOB>
+    <LtxtDOB>תאריך לידה</LtxtDOB>
+    <LtxtGender>סקס</LtxtGender>
+    <LtxtProfesion>מקצוע</LtxtProfesion>
+    <LtxtTitle>כותרת</LtxtTitle>
+    <LtxtSetAsDef>קבע כברירת מחדל</LtxtSetAsDef>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LtxtNewContact>איש קשר חדש</LtxtNewContact>
+    <LtxtEditContact>עריכת איש קשר</LtxtEditContact>
+    <LtxtValNam>יש לתת שם לאיש הקשר</LtxtValNam>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Password</DtxtPwd>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Place of birth</LtxtPOB>
+    <LtxtDOB>Date of birth</LtxtDOB>
+    <LtxtGender>Gender</LtxtGender>
+    <LtxtProfesion>Profession</LtxtProfesion>
+    <LtxtTitle>Title</LtxtTitle>
+    <LtxtSetAsDef>Set as default</LtxtSetAsDef>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtNewContact>New Contact</LtxtNewContact>
+    <LtxtEditContact>Edit Contact</LtxtEditContact>
+    <LtxtValNam>Please enter contact name</LtxtValNam>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Senha</DtxtPwd>
+    <LtxtPosition>Posição</LtxtPosition>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Local de nascimento</LtxtPOB>
+    <LtxtDOB>Data de nascimento</LtxtDOB>
+    <LtxtGender>Sexo</LtxtGender>
+    <LtxtProfesion>Profissão</LtxtProfesion>
+    <LtxtTitle>Título</LtxtTitle>
+    <LtxtSetAsDef>Definir como padrão</LtxtSetAsDef>
+    <LttlNewClient>Novo Parceiro de Negócios</LttlNewClient>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LtxtNewContact>Novo Contato</LtxtNewContact>
+    <LtxtEditContact>Editar Contato</LtxtEditContact>
+    <LtxtValNam>Por Favor, digite o nome do contato</LtxtValNam>
+    <LtxtValFld>Por Favor, complete o campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Mot de passe</DtxtPwd>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtMobile>Portable</LtxtMobile>
+    <LtxtPager>Localisateur</LtxtPager>
+    <LtxtPOB>Lieu de naissance</LtxtPOB>
+    <LtxtDOB>Date de naissance</LtxtDOB>
+    <LtxtGender>Sexe</LtxtGender>
+    <LtxtProfesion>Profession</LtxtProfesion>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNewContact>&lt;--&gt;</LtxtNewContact>
+    <LtxtEditContact>&lt;--&gt;</LtxtEditContact>
+    <LtxtValNam>Devez-vous insérer le nom du contact</LtxtValNam>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Kennwort</DtxtPwd>
+    <LtxtPosition>Stelle</LtxtPosition>
+    <LtxtMobile>Mobiltelefon</LtxtMobile>
+    <LtxtPager>Mobilfunkempfänger</LtxtPager>
+    <LtxtPOB>Geburtsort</LtxtPOB>
+    <LtxtDOB>Geburtsdatum</LtxtDOB>
+    <LtxtGender>Geschlecht</LtxtGender>
+    <LtxtProfesion>Beruf</LtxtProfesion>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNewContact>&lt;--&gt;</LtxtNewContact>
+    <LtxtEditContact>&lt;--&gt;</LtxtEditContact>
+    <LtxtValNam>Bitte geben Sie den Kontaktnamen ein</LtxtValNam>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtPwd>Пароль</DtxtPwd>
+    <LtxtPosition>&lt;--&gt;</LtxtPosition>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtPager>&lt;--&gt;</LtxtPager>
+    <LtxtPOB>&lt;--&gt;</LtxtPOB>
+    <LtxtDOB>&lt;--&gt;</LtxtDOB>
+    <LtxtGender>&lt;--&gt;</LtxtGender>
+    <LtxtProfesion>&lt;--&gt;</LtxtProfesion>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNewContact>&lt;--&gt;</LtxtNewContact>
+    <LtxtEditContact>&lt;--&gt;</LtxtEditContact>
+    <LtxtValNam>&lt;--&gt;</LtxtValNam>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Heslo</DtxtPwd>
+    <LtxtPosition>Pozice</LtxtPosition>
+    <LtxtMobile>Mobilní telefon</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Místo narození</LtxtPOB>
+    <LtxtDOB>Datum narození</LtxtDOB>
+    <LtxtGender>Pohlaví</LtxtGender>
+    <LtxtProfesion>Profese</LtxtProfesion>
+    <LtxtTitle>Titul</LtxtTitle>
+    <LtxtSetAsDef>Nastavit jako výchozí</LtxtSetAsDef>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+    <LttlEditClient>Upravit obchodního partnera</LttlEditClient>
+    <LtxtNewContact>Nový kontakt</LtxtNewContact>
+    <LtxtEditContact>Upravit kontakt</LtxtEditContact>
+    <LtxtValNam>Zadejte prosím název kontaktu</LtxtValNam>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Hasło</DtxtPwd>
+    <LtxtPosition>Stanowisko</LtxtPosition>
+    <LtxtMobile>Komórka</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Miejsce urodzenia</LtxtPOB>
+    <LtxtDOB>Data urodzenia</LtxtDOB>
+    <LtxtGender>Płeć</LtxtGender>
+    <LtxtProfesion>Zawód</LtxtProfesion>
+    <LtxtTitle>Tytuł</LtxtTitle>
+    <LtxtSetAsDef>Ustaw jako domyślny</LtxtSetAsDef>
+    <LttlNewClient>Nowy Partner Biznesowy</LttlNewClient>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LtxtNewContact>Nowy kontakt</LtxtNewContact>
+    <LtxtEditContact>Edytuj kontakt</LtxtEditContact>
+    <LtxtValNam>Proszę wprowadź nazwę kontaktu</LtxtValNam>
+    <LtxtValFld>Proszę wprowadź pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtPwd>Heslo</DtxtPwd>
+    <LtxtPosition>Pozícia</LtxtPosition>
+    <LtxtMobile>Mobilný telefón</LtxtMobile>
+    <LtxtPager>Pager</LtxtPager>
+    <LtxtPOB>Miesto narodenia</LtxtPOB>
+    <LtxtDOB>Dátum narodenia</LtxtDOB>
+    <LtxtGender>Pohlavie</LtxtGender>
+    <LtxtProfesion>Profesia</LtxtProfesion>
+    <LtxtTitle>Nadpis</LtxtTitle>
+    <LtxtSetAsDef>Nastaviť ako východiskové</LtxtSetAsDef>
+    <LttlNewClient>Nový obchodný partner</LttlNewClient>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LtxtNewContact>Nový kontakt</LtxtNewContact>
+    <LtxtEditContact>Editovať kontakt</LtxtEditContact>
+    <LtxtValNam>Prosím zadajte kontaktné meno</LtxtValNam>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtObservations>&lt;--&gt;</DtxtObservations>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtFax>&lt;--&gt;</DtxtFax>
+    <DtxtPwd>&lt;--&gt;</DtxtPwd>
+    <LtxtPosition>&lt;--&gt;</LtxtPosition>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtPager>&lt;--&gt;</LtxtPager>
+    <LtxtPOB>&lt;--&gt;</LtxtPOB>
+    <LtxtDOB>&lt;--&gt;</LtxtDOB>
+    <LtxtGender>&lt;--&gt;</LtxtGender>
+    <LtxtProfesion>&lt;--&gt;</LtxtProfesion>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNewContact>&lt;--&gt;</LtxtNewContact>
+    <LtxtEditContact>&lt;--&gt;</LtxtEditContact>
+    <LtxtValNam>&lt;--&gt;</LtxtValNam>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtPwd>DtxtPwd</DtxtPwd>
+    <LtxtPosition>LtxtPosition</LtxtPosition>
+    <LtxtMobile>LtxtMobile</LtxtMobile>
+    <LtxtPager>LtxtPager</LtxtPager>
+    <LtxtPOB>LtxtPOB</LtxtPOB>
+    <LtxtDOB>LtxtDOB</LtxtDOB>
+    <LtxtGender>LtxtGender</LtxtGender>
+    <LtxtProfesion>LtxtProfesion</LtxtProfesion>
+    <LtxtTitle>LtxtTitle</LtxtTitle>
+    <LtxtSetAsDef>LtxtSetAsDef</LtxtSetAsDef>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LtxtNewContact>LtxtNewContact</LtxtNewContact>
+    <LtxtEditContact>LtxtEditContact</LtxtEditContact>
+    <LtxtValNam>LtxtValNam</LtxtValNam>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+  </language>
+</languages>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtFunction>Function</DtxtFunction>
+    <LtxtNumCod>Encode Numbers</LtxtNumCod>
+    <LtxtDocTotal>OLK Document Monetary Total</LtxtDocTotal>
+    <LtxtTotalBox>Total boxes in document</LtxtTotalBox>
+    <LtxtTotalWeight>Total Weight of Document Contents</LtxtTotalWeight>
+    <LtxtNumFormat>Number Format</LtxtNumFormat>
+    <LtxtTotalVol>Total Volume of Document Contents</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Replace break lines with &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Multi-Language Texts</LtxtGetTrans>
+    <LtxtGetCufv>User Defined Field Value</LtxtGetCufv>
+    <LtxtInv>Item Commited Quantity in OLK (@WhsCode can be null)</LtxtInv>
+    <LtxtItemInvVal>Available Inventory Quantity by Availability Options</LtxtItemInvVal>
+    <LtxtSplit>Splits a String into a Table (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Calculates Quantity in Package Units of @OnHand (Quantity) / @NumIn (Units in Package)</LtxtNumIn>
+    <LtxtDateFormat>Date Format</LtxtDateFormat>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtExample>Ejemplo</DtxtExample>
+    <DtxtFunction>Función</DtxtFunction>
+    <LtxtNumCod>Codificar números</LtxtNumCod>
+    <LtxtDocTotal>Total de documento OLK</LtxtDocTotal>
+    <LtxtTotalBox>Total cajas en documento</LtxtTotalBox>
+    <LtxtTotalWeight>Total peso en documento</LtxtTotalWeight>
+    <LtxtNumFormat>Formato de números</LtxtNumFormat>
+    <LtxtTotalVol>Total volumen en documento</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Reemplazar líneas de separación por &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Textos Multi-Lenguajes</LtxtGetTrans>
+    <LtxtGetCufv>Valor de campo definido por usuario</LtxtGetCufv>
+    <LtxtInv>Cantidad comprometida en OLK (@WhsCode puede ser nulo)</LtxtInv>
+    <LtxtItemInvVal>Cantidad de inventario disponible según opciones de disponibilidad</LtxtItemInvVal>
+    <LtxtSplit>Partir cadena de texto en table (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Cantidad y Unidades de Empaque</LtxtNumIn>
+    <LtxtDateFormat>Formato de Fecha</LtxtDateFormat>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtExample>דוגמא</DtxtExample>
+    <DtxtFunction>פונקציה</DtxtFunction>
+    <LtxtNumCod>קידוד מספרים</LtxtNumCod>
+    <LtxtDocTotal>סה"כ סכום במסמך</LtxtDocTotal>
+    <LtxtTotalBox>סה"כ אריזות במסמך</LtxtTotalBox>
+    <LtxtTotalWeight>סה"כ משקל במסמך</LtxtTotalWeight>
+    <LtxtNumFormat>תבנית מספרים</LtxtNumFormat>
+    <LtxtTotalVol>סה"כ נפח המסמך</LtxtTotalVol>
+    <LtxtEncodeBreakLines>החלף "הורד שורה" ב &amp;quot;&amp;lt;br&amp;gt;&amp;quot; </LtxtEncodeBreakLines>
+    <LtxtGetTrans>מחרוזת לריבוי שפות</LtxtGetTrans>
+    <LtxtGetCufv>ערך שדה משתמש</LtxtGetCufv>
+    <LtxtInv>פריטים שמורים באולק (@WhsCode יכול להיות null)</LtxtInv>
+    <LtxtItemInvVal>כמות זמינה של פריט</LtxtItemInvVal>
+    <LtxtSplit>בונה טבלה ממחרוזת (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>כמות ביח' אריזה</LtxtNumIn>
+    <LtxtDateFormat>תבנית תאריך</LtxtDateFormat>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtFunction>Function</DtxtFunction>
+    <LtxtNumCod>Encode Numbers</LtxtNumCod>
+    <LtxtDocTotal>OLK Document Monetary Total</LtxtDocTotal>
+    <LtxtTotalBox>Total boxes in document</LtxtTotalBox>
+    <LtxtTotalWeight>Total Weight of Document Contents</LtxtTotalWeight>
+    <LtxtNumFormat>Number Format</LtxtNumFormat>
+    <LtxtTotalVol>Total Volume of Document Contents</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Replace break lines with &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Multi-Language Texts</LtxtGetTrans>
+    <LtxtGetCufv>User Defined Field Value</LtxtGetCufv>
+    <LtxtInv>Item Commited Quantity in OLK (@WhsCode can be null)</LtxtInv>
+    <LtxtItemInvVal>Available Inventory Quantity by Availability Options</LtxtItemInvVal>
+    <LtxtSplit>Splits a String into a Table (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Calculates Quantity in Package Units of @OnHand (Quantity) / @NumIn (Units in Package)</LtxtNumIn>
+    <LtxtDateFormat>Date Format</LtxtDateFormat>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtExample>Exemplo</DtxtExample>
+    <DtxtFunction>Função</DtxtFunction>
+    <LtxtNumCod>Codificar números</LtxtNumCod>
+    <LtxtDocTotal>Total de documento OnlineKit</LtxtDocTotal>
+    <LtxtTotalBox>Total caixas no documento</LtxtTotalBox>
+    <LtxtTotalWeight>Total peso em documento</LtxtTotalWeight>
+    <LtxtNumFormat>Formato de Números</LtxtNumFormat>
+    <LtxtTotalVol>Total volume em documento</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Substituir linhas de separação por &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Textos Multi-Linguagens</LtxtGetTrans>
+    <LtxtGetCufv>Valor do campo definido pelo usuário</LtxtGetCufv>
+    <LtxtInv>Quantidade comprometida em OnlineKit(@WhsCode pode ser nulo)</LtxtInv>
+    <LtxtItemInvVal>Quantidade de estoque disponível </LtxtItemInvVal>
+    <LtxtSplit>Sequência de string da tabela (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Quantidade e Unidades de Embalagem</LtxtNumIn>
+    <LtxtDateFormat>Formato de Data</LtxtDateFormat>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtFunction>&lt;--&gt;</DtxtFunction>
+    <LtxtNumCod>Codifier des chiffres</LtxtNumCod>
+    <LtxtDocTotal>Totale de documentation OLK</LtxtDocTotal>
+    <LtxtTotalBox>Totaux des boîtes en documentation</LtxtTotalBox>
+    <LtxtTotalWeight>Total de poids en documentation</LtxtTotalWeight>
+    <LtxtNumFormat>Format des chiffres</LtxtNumFormat>
+    <LtxtTotalVol>Total de volume en documentation</LtxtTotalVol>
+    <LtxtEncodeBreakLines>&lt;--&gt;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>&lt;--&gt;</LtxtGetTrans>
+    <LtxtGetCufv>&lt;--&gt;</LtxtGetCufv>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtItemInvVal>&lt;--&gt;</LtxtItemInvVal>
+    <LtxtSplit>&lt;--&gt;</LtxtSplit>
+    <LtxtNumIn>&lt;--&gt;</LtxtNumIn>
+    <LtxtDateFormat>&lt;--&gt;</LtxtDateFormat>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtExample>Beispiel</DtxtExample>
+    <DtxtFunction>Funktion</DtxtFunction>
+    <LtxtNumCod>Nummern verschlüsseln</LtxtNumCod>
+    <LtxtDocTotal>Gesamt OLK Dokument</LtxtDocTotal>
+    <LtxtTotalBox>Gesamt Kistenzahl im Dokument</LtxtTotalBox>
+    <LtxtTotalWeight>Gesamt Gewicht im Dokument</LtxtTotalWeight>
+    <LtxtNumFormat>Nummern-Format</LtxtNumFormat>
+    <LtxtTotalVol>Gesamt Volumen im Dokument</LtxtTotalVol>
+    <LtxtEncodeBreakLines>&lt;--&gt;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>&lt;--&gt;</LtxtGetTrans>
+    <LtxtGetCufv>&lt;--&gt;</LtxtGetCufv>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtItemInvVal>&lt;--&gt;</LtxtItemInvVal>
+    <LtxtSplit>&lt;--&gt;</LtxtSplit>
+    <LtxtNumIn>&lt;--&gt;</LtxtNumIn>
+    <LtxtDateFormat>&lt;--&gt;</LtxtDateFormat>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtExample>Примеры</DtxtExample>
+    <DtxtFunction>Функция</DtxtFunction>
+    <LtxtNumCod>Кодировать номера</LtxtNumCod>
+    <LtxtDocTotal>Всего ОЛК документов</LtxtDocTotal>
+    <LtxtTotalBox>Всего блоков в документе</LtxtTotalBox>
+    <LtxtTotalWeight>Общий вес в документе</LtxtTotalWeight>
+    <LtxtNumFormat>Формат номера</LtxtNumFormat>
+    <LtxtTotalVol>Общий объем в документе</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Замените линий разрыва с  &amp;quot;&amp;lt;br&amp;gt;&amp;quot</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Мульти язычные тексты</LtxtGetTrans>
+    <LtxtGetCufv>Изменить поле пользователя</LtxtGetCufv>
+    <LtxtInv>Пункт количество совершенных в ОЛК (@WhsCode יכול להיות null)</LtxtInv>
+    <LtxtItemInvVal>Доступное количество деталей</LtxtItemInvVal>
+    <LtxtSplit>Строка разбита на стол (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Количество едениц в упаковке</LtxtNumIn>
+    <LtxtDateFormat>Формат даты</LtxtDateFormat>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtExample>Příklad</DtxtExample>
+    <DtxtFunction>Funkce</DtxtFunction>
+    <LtxtNumCod>Kódovat čísla</LtxtNumCod>
+    <LtxtDocTotal>Součet finančních dokumentů OLK</LtxtDocTotal>
+    <LtxtTotalBox>Celkem krabic v dokumentu</LtxtTotalBox>
+    <LtxtTotalWeight>Celková hmotnost v obsahu dokumentů</LtxtTotalWeight>
+    <LtxtNumFormat>Formát čísla</LtxtNumFormat>
+    <LtxtTotalVol>Celkový objem v obsahu dokumentů</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Nahradit zalomení řádek with &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Texty ve více jazycích</LtxtGetTrans>
+    <LtxtGetCufv>Hodnota pole definovaného uživatelem</LtxtGetCufv>
+    <LtxtInv>Potvrzené množství položky v OLK (@WhsCode může být null)</LtxtInv>
+    <LtxtItemInvVal>Dostupné množství zásob podle Možností dostupnosti</LtxtItemInvVal>
+    <LtxtSplit>Rozdělit řetězed do tabulky (vybrat Hodnotu z dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Vypočítá Množství v jednotkách balení na skladě @OnHand (Množství) / @NumIn (Jednotek v balení)</LtxtNumIn>
+    <LtxtDateFormat>Formát data</LtxtDateFormat>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtExample>Przykład</DtxtExample>
+    <DtxtFunction>Funkcja</DtxtFunction>
+    <LtxtNumCod>Zakodowane numery</LtxtNumCod>
+    <LtxtDocTotal>Razem suma w dokumencie</LtxtDocTotal>
+    <LtxtTotalBox>Razem pudełka w dokumencie</LtxtTotalBox>
+    <LtxtTotalWeight>Razem waga zawartości dokumentu</LtxtTotalWeight>
+    <LtxtNumFormat>Format numeru</LtxtNumFormat>
+    <LtxtTotalVol>Razem wolumen zawartości dokumentu</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Zamień złamane wiersze na &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Teksty multi-jezykowe</LtxtGetTrans>
+    <LtxtGetCufv>Wartość zdefiniowanego pola użytkownika</LtxtGetCufv>
+    <LtxtInv>Ilość pozycji zapamiętanych w OLK (@WhsCode nie może być zero)</LtxtInv>
+    <LtxtItemInvVal>Ilość dostępnego zapasu według dostępnych opcji</LtxtItemInvVal>
+    <LtxtSplit>Tworzy tabelę z sekwencji (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Oblicza ilość w paczce jednostek @OnHand (Quantity) / @NumIn (Units in Package)</LtxtNumIn>
+    <LtxtDateFormat>Format daty</LtxtDateFormat>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtExample>Príklad</DtxtExample>
+    <DtxtFunction>Funkcia</DtxtFunction>
+    <LtxtNumCod>Zakódovať čísla</LtxtNumCod>
+    <LtxtDocTotal>Celkový peňažný súčet OLK dokumentu</LtxtDocTotal>
+    <LtxtTotalBox>Celkový počet boxov v dokumente</LtxtTotalBox>
+    <LtxtTotalWeight>Celková váha obsahov dokumentu</LtxtTotalWeight>
+    <LtxtNumFormat>Číselný formát</LtxtNumFormat>
+    <LtxtTotalVol>Celkový objem obsahov dokumentu</LtxtTotalVol>
+    <LtxtEncodeBreakLines>Nahraďte prerušované čiary s &amp;quot;&amp;lt;br&amp;gt;&amp;quot;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>Multi-jazyčné texty</LtxtGetTrans>
+    <LtxtGetCufv>Užívateľom definovaná hodnota políčka</LtxtGetCufv>
+    <LtxtInv>Záväzné množstvá položky v OLK (@WhsCode can be null)</LtxtInv>
+    <LtxtItemInvVal>Dostupné množstvo zásob podľa možností dostupnosti</LtxtItemInvVal>
+    <LtxtSplit>Rozdeľuje reťazec do tabuľky (select Value from dbo.OLKSplit('John, Maria, Yoni', ', '))</LtxtSplit>
+    <LtxtNumIn>Kalkuluje množstvo v jednotkách balenia z @OnHand (Quantity) / @NumIn (Jednotky v balení)</LtxtNumIn>
+    <LtxtDateFormat>Formát dátumu</LtxtDateFormat>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtExample>&lt;--&gt;</DtxtExample>
+    <DtxtFunction>&lt;--&gt;</DtxtFunction>
+    <LtxtNumCod>&lt;--&gt;</LtxtNumCod>
+    <LtxtDocTotal>&lt;--&gt;</LtxtDocTotal>
+    <LtxtTotalBox>&lt;--&gt;</LtxtTotalBox>
+    <LtxtTotalWeight>&lt;--&gt;</LtxtTotalWeight>
+    <LtxtNumFormat>&lt;--&gt;</LtxtNumFormat>
+    <LtxtTotalVol>&lt;--&gt;</LtxtTotalVol>
+    <LtxtEncodeBreakLines>&lt;--&gt;</LtxtEncodeBreakLines>
+    <LtxtGetTrans>&lt;--&gt;</LtxtGetTrans>
+    <LtxtGetCufv>&lt;--&gt;</LtxtGetCufv>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtItemInvVal>&lt;--&gt;</LtxtItemInvVal>
+    <LtxtSplit>&lt;--&gt;</LtxtSplit>
+    <LtxtNumIn>&lt;--&gt;</LtxtNumIn>
+    <LtxtDateFormat>&lt;--&gt;</LtxtDateFormat>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtExample>DtxtExample</DtxtExample>
+    <DtxtFunction>DtxtFunction</DtxtFunction>
+    <LtxtNumCod>LtxtNumCod</LtxtNumCod>
+    <LtxtDocTotal>LtxtDocTotal</LtxtDocTotal>
+    <LtxtTotalBox>LtxtTotalBox</LtxtTotalBox>
+    <LtxtTotalWeight>LtxtTotalWeight</LtxtTotalWeight>
+    <LtxtNumFormat>LtxtNumFormat</LtxtNumFormat>
+    <LtxtTotalVol>LtxtTotalVol</LtxtTotalVol>
+    <LtxtEncodeBreakLines>LtxtEncodeBreakLines</LtxtEncodeBreakLines>
+    <LtxtGetTrans>LtxtGetTrans</LtxtGetTrans>
+    <LtxtGetCufv>LtxtGetCufv</LtxtGetCufv>
+    <LtxtInv>LtxtInv</LtxtInv>
+    <LtxtItemInvVal>LtxtItemInvVal</LtxtItemInvVal>
+    <LtxtSplit>LtxtSplit</LtxtSplit>
+    <LtxtNumIn>LtxtNumIn</LtxtNumIn>
+    <LtxtDateFormat>LtxtDateFormat</LtxtDateFormat>
+  </language>
+</languages>

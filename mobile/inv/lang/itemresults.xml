@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtSelItmNote>Select the Item you want to update</LtxtSelItmNote>
+    <LtxtInventory>Inventory</LtxtInventory>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtInvRecount>Recuento de Inventario</LtxtInvRecount>
+    <LtxtSelItmNote>Escoja el Artículo que desee Actualizar</LtxtSelItmNote>
+    <LtxtInventory>Inventario</LtxtInventory>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtInvRecount>ספירת מלאי</LtxtInvRecount>
+    <LtxtSelItmNote>בחר פריט לעידכון</LtxtSelItmNote>
+    <LtxtInventory>מלאי</LtxtInventory>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtSelItmNote>Select the Item you want to update</LtxtSelItmNote>
+    <LtxtInventory>Inventory</LtxtInventory>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtInvRecount>Recontagem de Estoque</LtxtInvRecount>
+    <LtxtSelItmNote>Escolha o Item que deseja Atualizar</LtxtSelItmNote>
+    <LtxtInventory>Estoque</LtxtInventory>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelItmNote>&lt;--&gt;</LtxtSelItmNote>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelItmNote>&lt;--&gt;</LtxtSelItmNote>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelItmNote>&lt;--&gt;</LtxtSelItmNote>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtInvRecount>Přepočítání zásob</LtxtInvRecount>
+    <LtxtSelItmNote>Vyberte položky, kterou chcete upravit</LtxtSelItmNote>
+    <LtxtInventory>Zásoby</LtxtInventory>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtInvRecount>Przeliczenie zapasu</LtxtInvRecount>
+    <LtxtSelItmNote>Wybierz pozycję, która chcesz uaktualnić</LtxtSelItmNote>
+    <LtxtInventory>Zapas</LtxtInventory>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtInvRecount>Prepočítanie inventáru</LtxtInvRecount>
+    <LtxtSelItmNote>Vyberte položku, ktorú chcete aktualizovať</LtxtSelItmNote>
+    <LtxtInventory>Inventár</LtxtInventory>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelItmNote>&lt;--&gt;</LtxtSelItmNote>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtInvRecount>LtxtInvRecount</LtxtInvRecount>
+    <LtxtSelItmNote>LtxtSelItmNote</LtxtSelItmNote>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+  </language>
+</languages>

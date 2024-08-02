@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtContact>Contact</DtxtContact>
+    <LtxtExtPolls>Extended Polls</LtxtExtPolls>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+    <LttlQuestionDetails>Question #{0} Details</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} persons answered "{1}" from {2} persons</LtxtPplAnswered>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Bad</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Good</LtxtGood>
+    <LtxtExcelent>Excelent</LtxtExcelent>
+    <LtxtViewRes>View Results</LtxtViewRes>
+    <LtxtDetails>Details</LtxtDetails>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtContact>Contacto</DtxtContact>
+    <LtxtExtPolls>Encuestas Extendidas</LtxtExtPolls>
+    <LtxtStartDate>End Date</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtPending>Pendiente</LtxtPending>
+    <LttlQuestionDetails>Detalles de la pregunta N°{0}</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} personas contestaron "{1}" de {2} personas</LtxtPplAnswered>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Malo</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Bueno</LtxtGood>
+    <LtxtExcelent>Excelente</LtxtExcelent>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+    <LtxtDetails>Detalles</LtxtDetails>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtContact>איש קשר</DtxtContact>
+    <LtxtExtPolls>סקרים מורחבים</LtxtExtPolls>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtPending>פתוח</LtxtPending>
+    <LttlQuestionDetails>פרטי שאלה {0}#</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} ענו "{1}" מתוך {2}</LtxtPplAnswered>
+    <LtxtTerrible>נוראי</LtxtTerrible>
+    <LtxtBad>רע</LtxtBad>
+    <LtxtRegular>רגיל</LtxtRegular>
+    <LtxtGood>טוב</LtxtGood>
+    <LtxtExcelent>מצויין</LtxtExcelent>
+    <LtxtViewRes>תוצאות</LtxtViewRes>
+    <LtxtDetails>פרטים</LtxtDetails>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtContact>Contact</DtxtContact>
+    <LtxtExtPolls>Extended Polls</LtxtExtPolls>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+    <LttlQuestionDetails>Question #{0} Details</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} persons answered "{1}" from {2} persons</LtxtPplAnswered>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Bad</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Good</LtxtGood>
+    <LtxtExcelent>Excelent</LtxtExcelent>
+    <LtxtViewRes>View Results</LtxtViewRes>
+    <LtxtDetails>Details</LtxtDetails>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtContact>Contato</DtxtContact>
+    <LtxtExtPolls>Pesquisas Extendidas</LtxtExtPolls>
+    <LtxtStartDate>Data Final</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtPending>Pendente</LtxtPending>
+    <LttlQuestionDetails>Detalhes da pergunta Nº {0}</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} pessoas responderam "{1}" de {2} pessoas</LtxtPplAnswered>
+    <LtxtTerrible>Terrível</LtxtTerrible>
+    <LtxtBad>Ruim</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Bom</LtxtGood>
+    <LtxtExcelent>Excelente</LtxtExcelent>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+    <LtxtDetails>Detalhes</LtxtDetails>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtContact>Contact</DtxtContact>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+    <LttlQuestionDetails>&lt;--&gt;</LttlQuestionDetails>
+    <LtxtPplAnswered>&lt;--&gt;</LtxtPplAnswered>
+    <LtxtTerrible>&lt;--&gt;</LtxtTerrible>
+    <LtxtBad>&lt;--&gt;</LtxtBad>
+    <LtxtRegular>&lt;--&gt;</LtxtRegular>
+    <LtxtGood>&lt;--&gt;</LtxtGood>
+    <LtxtExcelent>&lt;--&gt;</LtxtExcelent>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtContact>Kontakt</DtxtContact>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+    <LttlQuestionDetails>&lt;--&gt;</LttlQuestionDetails>
+    <LtxtPplAnswered>&lt;--&gt;</LtxtPplAnswered>
+    <LtxtTerrible>&lt;--&gt;</LtxtTerrible>
+    <LtxtBad>&lt;--&gt;</LtxtBad>
+    <LtxtRegular>&lt;--&gt;</LtxtRegular>
+    <LtxtGood>&lt;--&gt;</LtxtGood>
+    <LtxtExcelent>&lt;--&gt;</LtxtExcelent>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtContact>Человек связи</DtxtContact>
+    <LtxtExtPolls>Расширенный опрос</LtxtExtPolls>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата окончания</LtxtEndDate>
+    <LtxtPending>Открытый</LtxtPending>
+    <LttlQuestionDetails>Подробности вопроса  #{0} </LttlQuestionDetails>
+    <LtxtPplAnswered>"{0}"личностей ответили "{1}"из "{2}"личностей</LtxtPplAnswered>
+    <LtxtTerrible>Ужасно</LtxtTerrible>
+    <LtxtBad>Плохой</LtxtBad>
+    <LtxtRegular>Обычный</LtxtRegular>
+    <LtxtGood>Хорошо</LtxtGood>
+    <LtxtExcelent>Отлично</LtxtExcelent>
+    <LtxtViewRes>Посмотреть результаты</LtxtViewRes>
+    <LtxtDetails>Детали</LtxtDetails>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtContact>Kontakt</DtxtContact>
+    <LtxtExtPolls>Rozšířené ankety</LtxtExtPolls>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtPending>Nevyřízené</LtxtPending>
+    <LttlQuestionDetails>Otázka #{0} - Podrobnosti</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} osob odpovědelo "{1}" z {2} osob</LtxtPplAnswered>
+    <LtxtTerrible>Strašný</LtxtTerrible>
+    <LtxtBad>Špatný</LtxtBad>
+    <LtxtRegular>Normální</LtxtRegular>
+    <LtxtGood>Dobrý</LtxtGood>
+    <LtxtExcelent>Výborný</LtxtExcelent>
+    <LtxtViewRes>Zobrazit výsledky</LtxtViewRes>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtContact>Kontakt</DtxtContact>
+    <LtxtExtPolls>Rozszerzone ankiety</LtxtExtPolls>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtPending>Otwarte/oczekujące/ w trakcie realizacji</LtxtPending>
+    <LttlQuestionDetails>Szczegóły pytania #{0}</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} z {2} osób odpowiedziało "{1}" </LtxtPplAnswered>
+    <LtxtTerrible>Koszmarny</LtxtTerrible>
+    <LtxtBad>Zły</LtxtBad>
+    <LtxtRegular>Zwykły</LtxtRegular>
+    <LtxtGood>Dobry</LtxtGood>
+    <LtxtExcelent>Świetny</LtxtExcelent>
+    <LtxtViewRes>Zobacz wyniki</LtxtViewRes>
+    <LtxtDetails>Szczegóły</LtxtDetails>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <LtxtExtPolls>Rozšírené ankety</LtxtExtPolls>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtPending>Nespracované</LtxtPending>
+    <LttlQuestionDetails>Údaje k otázke #{0}</LttlQuestionDetails>
+    <LtxtPplAnswered>{0} osôb z {2} osôb odpovedalo "{1}"</LtxtPplAnswered>
+    <LtxtTerrible>Hrozné</LtxtTerrible>
+    <LtxtBad>Zlé</LtxtBad>
+    <LtxtRegular>Pravidelné</LtxtRegular>
+    <LtxtGood>Dobré</LtxtGood>
+    <LtxtExcelent>Vynikajúce</LtxtExcelent>
+    <LtxtViewRes>Zobraziť výsledky</LtxtViewRes>
+    <LtxtDetails>Údaje</LtxtDetails>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <LtxtExtPolls>LtxtExtPolls</LtxtExtPolls>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtPending>LtxtPending</LtxtPending>
+    <LttlQuestionDetails>LttlQuestionDetails</LttlQuestionDetails>
+    <LtxtPplAnswered>LtxtPplAnswered</LtxtPplAnswered>
+    <LtxtTerrible>LtxtTerrible</LtxtTerrible>
+    <LtxtBad>LtxtBad</LtxtBad>
+    <LtxtRegular>LtxtRegular</LtxtRegular>
+    <LtxtGood>LtxtGood</LtxtGood>
+    <LtxtExcelent>LtxtExcelent</LtxtExcelent>
+    <LtxtViewRes>LtxtViewRes</LtxtViewRes>
+    <LtxtDetails>LtxtDetails</LtxtDetails>
+  </language>
+</languages>

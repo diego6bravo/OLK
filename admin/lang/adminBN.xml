@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtWidth>Width</LtxtWidth>
+    <LtxtHeight>Height</LtxtHeight>
+    <LtxtBanList>Banners List</LtxtBanList>
+    <LtxtBanListDesc>Here created banners and the groups to which they belong are displayed.</LtxtBanListDesc>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtConfRemBanner>Are you sure you want to remove the banner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>At least on group must be created to create a banner</LtxtValNoGrp>
+    <LtxtGrpsDesc>This section is used to define the banner groups.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtValGrpSize>You must enter the width and height of the new group</LtxtValGrpSize>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LtxtTag>Tag</LtxtTag>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LtxtWidth>Ancho</LtxtWidth>
+    <LtxtHeight>Alto</LtxtHeight>
+    <LtxtBanList>Listado de Pancartas</LtxtBanList>
+    <LtxtBanListDesc>En esta sección podrá observar las pancartas creadas y el grupo al que pertenece cada uno.</LtxtBanListDesc>
+    <LtxtStartDate>Fecha Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtConfRemBanner>¿Está seguro que desea eliminar la pancarta {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Debe tener al menos un grupo creado para crear una pancarta</LtxtValNoGrp>
+    <LtxtGrpsDesc>En esta sección podrá definir los grupos de pancartas.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Debe introducir el nombre del grupo</LtxtValGrpNam>
+    <LtxtValGrpSize>Debe introducir el ancho y alto del nuevo grupo</LtxtValGrpSize>
+    <LtxtConfDelGrp>¿Está seguro que desea eliminar el grupo {0}?</LtxtConfDelGrp>
+    <LtxtTag>Etiqueta</LtxtTag>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtGroups>קבוצות</DtxtGroups>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LtxtWidth>אורך</LtxtWidth>
+    <LtxtHeight>גובה</LtxtHeight>
+    <LtxtBanList>רשימת באנרים</LtxtBanList>
+    <LtxtBanListDesc>בחלק זה תוכל לראות את הבאנרים הקיימים ולאיזה קבוצה הם שייכים</LtxtBanListDesc>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtConfRemBanner>האם למחוק את בנר{0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>צריך להיות לפחות קבוצה אחת ע"מ להוסיף בנר חדש</LtxtValNoGrp>
+    <LtxtGrpsDesc>בחלק זה תוכל להגדיר קבוצות לבאנרים</LtxtGrpsDesc>
+    <LtxtValGrpNam>יש לתת שם לקבוצה</LtxtValGrpNam>
+    <LtxtValGrpSize>יש להגדיר את האורך וגובה של הקבוצה החדשה</LtxtValGrpSize>
+    <LtxtConfDelGrp>האם למחוק את קבוצת {0}?</LtxtConfDelGrp>
+    <LtxtTag>מדבקה</LtxtTag>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtWidth>Width</LtxtWidth>
+    <LtxtHeight>Height</LtxtHeight>
+    <LtxtBanList>Banners List</LtxtBanList>
+    <LtxtBanListDesc>Here created banners and the groups to which they belong are displayed.</LtxtBanListDesc>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtConfRemBanner>Are you sure you want to remove the banner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>At least on group must be created to create a banner</LtxtValNoGrp>
+    <LtxtGrpsDesc>This section is used to define the banner groups.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtValGrpSize>You must enter the width and height of the new group</LtxtValGrpSize>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LtxtTag>Tag</LtxtTag>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LtxtWidth>Largura</LtxtWidth>
+    <LtxtHeight>Altura</LtxtHeight>
+    <LtxtBanList>Lista de Banners</LtxtBanList>
+    <LtxtBanListDesc>Nesta seção, são exibidos os banners criados e os grupos a que pertencem.</LtxtBanListDesc>
+    <LtxtStartDate>Data Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtConfRemBanner>Você tem certeza que deseja remover o banner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Deve ter pelo menos um grupo criado para criar um banner.</LtxtValNoGrp>
+    <LtxtGrpsDesc>Esta seção é usada para definir os grupos de banners.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Por favor, insira o nome do grupo.</LtxtValGrpNam>
+    <LtxtValGrpSize>Você deve digitar a largura e a altura do novo grupo.</LtxtValGrpSize>
+    <LtxtConfDelGrp>Você tem certeza que deseja excluir o grupo {0}?</LtxtConfDelGrp>
+    <LtxtTag>Etiqueta</LtxtTag>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtGroups>Groupes</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LtxtWidth>Large</LtxtWidth>
+    <LtxtHeight>Haut</LtxtHeight>
+    <LtxtBanList>Liste des banners</LtxtBanList>
+    <LtxtBanListDesc>Dans cette section vous pourrez observer les banners crées et le groupe lequel appartient chaqu'un.</LtxtBanListDesc>
+    <LtxtStartDate>Date initiale </LtxtStartDate>
+    <LtxtEndDate>Date finale</LtxtEndDate>
+    <LtxtConfRemBanner>Êtes-vous sûre d\'éliminer le banner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Devez-vous avoir au moins qu'un groupe crée avant de créer un report</LtxtValNoGrp>
+    <LtxtGrpsDesc>Dans cette section vous purrez déterminer les groupes des banners</LtxtGrpsDesc>
+    <LtxtValGrpNam>Devez-vous insérer le nom du groupe</LtxtValGrpNam>
+    <LtxtValGrpSize>Devez-vous insérer le large et l\'haut du nouveau groupe</LtxtValGrpSize>
+    <LtxtConfDelGrp>Êtes-vous sûre d\'éliminer le groupe {0}?</LtxtConfDelGrp>
+    <LtxtTag>Étiquette</LtxtTag>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtGroups>Gruppen</DtxtGroups>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LtxtWidth>Breite</LtxtWidth>
+    <LtxtHeight>Höhe</LtxtHeight>
+    <LtxtBanList>Anzeigenliste</LtxtBanList>
+    <LtxtBanListDesc>In diesem Bereich können Sie erstellte Anzeigen und die dazugehörigen Gruppen anschauen.</LtxtBanListDesc>
+    <LtxtStartDate>Anfangsdatum</LtxtStartDate>
+    <LtxtEndDate>Endedatum</LtxtEndDate>
+    <LtxtConfRemBanner>Möchten Sie die Anzeige {0} wirklich löschen?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Mindestens eine Gruppe muss erstellt werden um einen Bericht zu erstellen</LtxtValNoGrp>
+    <LtxtGrpsDesc>In diesem Bereich können Sie die Gruppen der Anzeigen bestimmen.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Bitte geben Sie den Namen der Gruppe ein</LtxtValGrpNam>
+    <LtxtValGrpSize>Sie müssen die Höhe und Breite der neuen Gruppe angeben</LtxtValGrpSize>
+    <LtxtConfDelGrp>Möchten Sie die Gruppe {0} wirklich löschen?</LtxtConfDelGrp>
+    <LtxtTag>Kennzeichen</LtxtTag>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtGroups>Группы</DtxtGroups>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LtxtWidth>Длина</LtxtWidth>
+    <LtxtHeight>Высота</LtxtHeight>
+    <LtxtBanList>Список баннеров</LtxtBanList>
+    <LtxtBanListDesc>В этом разделе вы можете видеть существующие баннеры и какой группе они принадлежат</LtxtBanListDesc>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата окончания</LtxtEndDate>
+    <LtxtConfRemBanner> Удалить баннер {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Должна быть по крайней мере одна группа, с тем чтобы добавить новый  баннер</LtxtValNoGrp>
+    <LtxtGrpsDesc>В этом разделе вы можете задать группы баннеров </LtxtGrpsDesc>
+    <LtxtValGrpNam>Должен дать имя группы</LtxtValGrpNam>
+    <LtxtValGrpSize>Нужно настроить длину и высоту в новую группу</LtxtValGrpSize>
+    <LtxtConfDelGrp>Удалить группу {0}?</LtxtConfDelGrp>
+    <LtxtTag>Наклейки</LtxtTag>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LtxtWidth>Šířka</LtxtWidth>
+    <LtxtHeight>Výška</LtxtHeight>
+    <LtxtBanList>Seznam bannerů</LtxtBanList>
+    <LtxtBanListDesc>V této sekci budou zobrazeny vytvořené bannery a skupiny, ke kterým patří.</LtxtBanListDesc>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtConfRemBanner>Jste si jistý/á, že chcete odebrat banner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Aby bylo možné vytvořit reporty, musí být vytvořena aspoň jedna skupina</LtxtValNoGrp>
+    <LtxtGrpsDesc>V této sekci se definují skupiny bannerů</LtxtGrpsDesc>
+    <LtxtValGrpNam>Zadejte jméno skupiny</LtxtValGrpNam>
+    <LtxtValGrpSize>Musíte zadat šířku a výšku nové skupiny</LtxtValGrpSize>
+    <LtxtConfDelGrp>Jste si jistý/á, že chcete vymazat skupinu {0}?</LtxtConfDelGrp>
+    <LtxtTag>Značka</LtxtTag>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtGroups>Grupy materiałów</DtxtGroups>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LtxtWidth>Szerokość</LtxtWidth>
+    <LtxtHeight>Wysokość</LtxtHeight>
+    <LtxtBanList>Lista banerów</LtxtBanList>
+    <LtxtBanListDesc>Tutaj wyświetlane są stworzone banery i grupy, do których należą</LtxtBanListDesc>
+    <LtxtStartDate>Data rozpoczęcia</LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtConfRemBanner>Czy jesteś pewien, że chcesz usunąć baner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Przy najmniej jedna grupa musi być stworzona aby stworzyć baner</LtxtValNoGrp>
+    <LtxtGrpsDesc>Ten dział służy do zdefiniowania grup banerów</LtxtGrpsDesc>
+    <LtxtValGrpNam>Proszę wprowadź nazwę grupy</LtxtValGrpNam>
+    <LtxtValGrpSize>Musisz wprowadzić wysokości i szerokość nowej grupy</LtxtValGrpSize>
+    <LtxtConfDelGrp>Czy jesteś pewien, że chcesz usunąć grupę {0}?</LtxtConfDelGrp>
+    <LtxtTag>Plakietka/ naklejka</LtxtTag>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LtxtWidth>Šírka</LtxtWidth>
+    <LtxtHeight>Výška</LtxtHeight>
+    <LtxtBanList>Zoznam banerov</LtxtBanList>
+    <LtxtBanListDesc>Tu sú zobrazené vytvorené banery a skupiny, do ktorých patria.</LtxtBanListDesc>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtConfRemBanner>Ste si istí, že chcete odstrániť baner {0}?</LtxtConfRemBanner>
+    <LtxtValNoGrp>Aspoň jedna skupina musí byť vytvorená na to, aby sa dal vytvoriť baner</LtxtValNoGrp>
+    <LtxtGrpsDesc>Táto sekcia slúži na definovanie banerových skupín.</LtxtGrpsDesc>
+    <LtxtValGrpNam>Prosím, zadajte názov skupiny</LtxtValGrpNam>
+    <LtxtValGrpSize>Musíte zadať šírku a výšku novej skupiny</LtxtValGrpSize>
+    <LtxtConfDelGrp>Ste si istí, že chcete vymazať skupinu {0}?</LtxtConfDelGrp>
+    <LtxtTag>Označenie</LtxtTag>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtGroups>&lt;--&gt;</DtxtGroups>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LtxtWidth>&lt;--&gt;</LtxtWidth>
+    <LtxtHeight>&lt;--&gt;</LtxtHeight>
+    <LtxtBanList>&lt;--&gt;</LtxtBanList>
+    <LtxtBanListDesc>&lt;--&gt;</LtxtBanListDesc>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtConfRemBanner>&lt;--&gt;</LtxtConfRemBanner>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LtxtGrpsDesc>&lt;--&gt;</LtxtGrpsDesc>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtValGrpSize>&lt;--&gt;</LtxtValGrpSize>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LtxtTag>&lt;--&gt;</LtxtTag>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtGroups>DtxtGroups</DtxtGroups>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LtxtWidth>LtxtWidth</LtxtWidth>
+    <LtxtHeight>LtxtHeight</LtxtHeight>
+    <LtxtBanList>LtxtBanList</LtxtBanList>
+    <LtxtBanListDesc>LtxtBanListDesc</LtxtBanListDesc>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtConfRemBanner>LtxtConfRemBanner</LtxtConfRemBanner>
+    <LtxtValNoGrp>LtxtValNoGrp</LtxtValNoGrp>
+    <LtxtGrpsDesc>LtxtGrpsDesc</LtxtGrpsDesc>
+    <LtxtValGrpNam>LtxtValGrpNam</LtxtValGrpNam>
+    <LtxtValGrpSize>LtxtValGrpSize</LtxtValGrpSize>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+    <LtxtTag>LtxtTag</LtxtTag>
+  </language>
+</languages>

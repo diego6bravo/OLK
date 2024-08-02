@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtOptions>Options</DtxtOptions>
+    <DtxtOption>Option</DtxtOption>
+    <LtxtValPollNam>Please enter the extended poll name</LtxtValPollNam>
+    <LttlEditExtPoll>Edit Extended Poll</LttlEditExtPoll>
+    <LttlAddExtPoll>Add Extended Poll</LttlAddExtPoll>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtFilter>Filter</LtxtFilter>
+    <LtxtValQuestion>Please enter the question</LtxtValQuestion>
+    <LttlEditLine>Edit Question</LttlEditLine>
+    <LtxtAddLine>Add Question</LtxtAddLine>
+    <LtxtQuestion>Question</LtxtQuestion>
+    <LtxtRange>Range</LtxtRange>
+    <LtxtConfDelQuestion>Are you sure you want to remove this question?</LtxtConfDelQuestion>
+    <LtxtPollLines>Questions</LtxtPollLines>
+    <LtxtVerfyFilter>You must verify the filter query</LtxtVerfyFilter>
+    <LtxtValSelAgent>You must select an agent</LtxtValSelAgent>
+    <LtxtMultipleChoice>Multiple Choice</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Are you sure you want to remove this option?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>You must select the option color</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtOptions>Opciones</DtxtOptions>
+    <DtxtOption>Opción</DtxtOption>
+    <LtxtValPollNam>Debe introducir el nombre de la encuesta extendida</LtxtValPollNam>
+    <LttlEditExtPoll>Editar Encuesta Extendida</LttlEditExtPoll>
+    <LttlAddExtPoll>Agregar Encuesta Extendida</LttlAddExtPoll>
+    <LtxtStartDate>Fecha Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtFilter>Filtro</LtxtFilter>
+    <LtxtValQuestion>Debe introducir la pregunta</LtxtValQuestion>
+    <LttlEditLine>Editar Pregunta</LttlEditLine>
+    <LtxtAddLine>Agregar Pregunta</LtxtAddLine>
+    <LtxtQuestion>Pregunta</LtxtQuestion>
+    <LtxtRange>Rango</LtxtRange>
+    <LtxtConfDelQuestion>¿Está seguro que desea eliminar esta pregunta?</LtxtConfDelQuestion>
+    <LtxtPollLines>Preguntas</LtxtPollLines>
+    <LtxtVerfyFilter>Debe verificar la consulta del filtro</LtxtVerfyFilter>
+    <LtxtValSelAgent>Debe seleccionar un agente</LtxtValSelAgent>
+    <LtxtMultipleChoice>Multiples Opciones</LtxtMultipleChoice>
+    <LtxtConfDelChoice>¿Está seguro que desea eliminar esta opción?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Debe seleccionar el color de la opción</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtColor>צבע</DtxtColor>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtOptions>אפשריוות</DtxtOptions>
+    <DtxtOption>אפשרות</DtxtOption>
+    <LtxtValPollNam>יש לתת שם לסקר מורחב</LtxtValPollNam>
+    <LttlEditExtPoll>ערוך סקר מורחב</LttlEditExtPoll>
+    <LttlAddExtPoll>הוסף סקר מורחב</LttlAddExtPoll>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtFilter>פילטר</LtxtFilter>
+    <LtxtValQuestion>יש למלא שאלה</LtxtValQuestion>
+    <LttlEditLine>ערוך שאלה</LttlEditLine>
+    <LtxtAddLine>הוסף שאלה</LtxtAddLine>
+    <LtxtQuestion>שאלה</LtxtQuestion>
+    <LtxtRange>טווח</LtxtRange>
+    <LtxtConfDelQuestion>האם למחוק את השאלה?</LtxtConfDelQuestion>
+    <LtxtPollLines>שאלות</LtxtPollLines>
+    <LtxtVerfyFilter>יש לאשר את שאילתת הפילטר</LtxtVerfyFilter>
+    <LtxtValSelAgent>יש לבחור סוכן</LtxtValSelAgent>
+    <LtxtMultipleChoice>בחירה מבין מספר אפשרויות</LtxtMultipleChoice>
+    <LtxtConfDelChoice>האם להסיר את האפשרות הנ"ל?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>יש לבחור צבע לאפשרות הנ"ל</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtColor>Colour</DtxtColor>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtOptions>Options</DtxtOptions>
+    <DtxtOption>Option</DtxtOption>
+    <LtxtValPollNam>Please enter the extended poll name</LtxtValPollNam>
+    <LttlEditExtPoll>Edit Extended Poll</LttlEditExtPoll>
+    <LttlAddExtPoll>Add Extended Poll</LttlAddExtPoll>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtFilter>Filter</LtxtFilter>
+    <LtxtValQuestion>Please enter the question</LtxtValQuestion>
+    <LttlEditLine>Edit Question</LttlEditLine>
+    <LtxtAddLine>Add Question</LtxtAddLine>
+    <LtxtQuestion>Question</LtxtQuestion>
+    <LtxtRange>Range</LtxtRange>
+    <LtxtConfDelQuestion>Are you sure you want to remove this question?</LtxtConfDelQuestion>
+    <LtxtPollLines>Questions</LtxtPollLines>
+    <LtxtVerfyFilter>You must verify the filter query</LtxtVerfyFilter>
+    <LtxtValSelAgent>You must select an agent</LtxtValSelAgent>
+    <LtxtMultipleChoice>Multiple Choice</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Are you sure you want to remove this option?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>You must select the option color</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtColor>Cor</DtxtColor>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtOptions>Opções</DtxtOptions>
+    <DtxtOption>Opção</DtxtOption>
+    <LtxtValPollNam>Você deve inserir o nome da pesquisa extendida</LtxtValPollNam>
+    <LttlEditExtPoll>Editar Pesquisa Extendia</LttlEditExtPoll>
+    <LttlAddExtPoll>Adicionar Pesquisa Extendida</LttlAddExtPoll>
+    <LtxtStartDate>Data Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtFilter>Filtro</LtxtFilter>
+    <LtxtValQuestion>Insira a Pergunta</LtxtValQuestion>
+    <LttlEditLine>Editar Pergunta</LttlEditLine>
+    <LtxtAddLine>Adicionar Pergunta</LtxtAddLine>
+    <LtxtQuestion>Pergunta</LtxtQuestion>
+    <LtxtRange>Faixa</LtxtRange>
+    <LtxtConfDelQuestion>Tem certeza que deseja excluir esta pergunta ?</LtxtConfDelQuestion>
+    <LtxtPollLines>Perguntas</LtxtPollLines>
+    <LtxtVerfyFilter>Você deve verificar o filtro da consulta</LtxtVerfyFilter>
+    <LtxtValSelAgent>Você deve selecionar um vendedor</LtxtValSelAgent>
+    <LtxtMultipleChoice>Múltiplas opções</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Tem certeza que deseja excluir esta opção ?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Você deve selecionar a opção de cor</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtColor>Couleur</DtxtColor>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtOptions>&lt;--&gt;</DtxtOptions>
+    <DtxtOption>&lt;--&gt;</DtxtOption>
+    <LtxtValPollNam>&lt;--&gt;</LtxtValPollNam>
+    <LttlEditExtPoll>&lt;--&gt;</LttlEditExtPoll>
+    <LttlAddExtPoll>&lt;--&gt;</LttlAddExtPoll>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtValQuestion>&lt;--&gt;</LtxtValQuestion>
+    <LttlEditLine>&lt;--&gt;</LttlEditLine>
+    <LtxtAddLine>&lt;--&gt;</LtxtAddLine>
+    <LtxtQuestion>&lt;--&gt;</LtxtQuestion>
+    <LtxtRange>&lt;--&gt;</LtxtRange>
+    <LtxtConfDelQuestion>&lt;--&gt;</LtxtConfDelQuestion>
+    <LtxtPollLines>&lt;--&gt;</LtxtPollLines>
+    <LtxtVerfyFilter>&lt;--&gt;</LtxtVerfyFilter>
+    <LtxtValSelAgent>&lt;--&gt;</LtxtValSelAgent>
+    <LtxtMultipleChoice>&lt;--&gt;</LtxtMultipleChoice>
+    <LtxtConfDelChoice>&lt;--&gt;</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>&lt;--&gt;</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtColor>Farbe</DtxtColor>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtOptions>Auswahl</DtxtOptions>
+    <DtxtOption>Auswahl</DtxtOption>
+    <LtxtValPollNam>&lt;--&gt;</LtxtValPollNam>
+    <LttlEditExtPoll>&lt;--&gt;</LttlEditExtPoll>
+    <LttlAddExtPoll>&lt;--&gt;</LttlAddExtPoll>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtValQuestion>&lt;--&gt;</LtxtValQuestion>
+    <LttlEditLine>&lt;--&gt;</LttlEditLine>
+    <LtxtAddLine>&lt;--&gt;</LtxtAddLine>
+    <LtxtQuestion>&lt;--&gt;</LtxtQuestion>
+    <LtxtRange>&lt;--&gt;</LtxtRange>
+    <LtxtConfDelQuestion>&lt;--&gt;</LtxtConfDelQuestion>
+    <LtxtPollLines>&lt;--&gt;</LtxtPollLines>
+    <LtxtVerfyFilter>&lt;--&gt;</LtxtVerfyFilter>
+    <LtxtValSelAgent>&lt;--&gt;</LtxtValSelAgent>
+    <LtxtMultipleChoice>&lt;--&gt;</LtxtMultipleChoice>
+    <LtxtConfDelChoice>&lt;--&gt;</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>&lt;--&gt;</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtColor>Цвет</DtxtColor>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtOptions>Возможности</DtxtOptions>
+    <DtxtOption>Опция</DtxtOption>
+    <LtxtValPollNam>Нужно дать имя расширенному поиску</LtxtValPollNam>
+    <LttlEditExtPoll>Упорядочить расширенный поиск</LttlEditExtPoll>
+    <LttlAddExtPoll>Добавить расширенный опрос</LttlAddExtPoll>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>дата окончания</LtxtEndDate>
+    <LtxtFilter>Фильтр</LtxtFilter>
+    <LtxtValQuestion>Нужно заполнить опрос</LtxtValQuestion>
+    <LttlEditLine>Упорядочить вопросы</LttlEditLine>
+    <LtxtAddLine>Добавить опрос</LtxtAddLine>
+    <LtxtQuestion>Вопрос</LtxtQuestion>
+    <LtxtRange>Линия</LtxtRange>
+    <LtxtConfDelQuestion>Стереть опросы?</LtxtConfDelQuestion>
+    <LtxtPollLines>Вопросы</LtxtPollLines>
+    <LtxtVerfyFilter>Нужно подтвердить запросы фильтра</LtxtVerfyFilter>
+    <LtxtValSelAgent>Нужно выбрать агента</LtxtValSelAgent>
+    <LtxtMultipleChoice>Выбор из нескольких вариантов</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Исключить возможности управления?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Надо выбрать вариант цвета </LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtColor>Barva</DtxtColor>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtOptions>Možnosti</DtxtOptions>
+    <DtxtOption>Volba</DtxtOption>
+    <LtxtValPollNam>Zadejte název rozšířené ankety</LtxtValPollNam>
+    <LttlEditExtPoll>Upravit rozšířenou anketu</LttlEditExtPoll>
+    <LttlAddExtPoll>Vytvořit rožšířenou anketu</LttlAddExtPoll>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtFilter>Filtr</LtxtFilter>
+    <LtxtValQuestion>Vložte otázku</LtxtValQuestion>
+    <LttlEditLine>Upravit otázku</LttlEditLine>
+    <LtxtAddLine>Přidat otázku</LtxtAddLine>
+    <LtxtQuestion>Otázka</LtxtQuestion>
+    <LtxtRange>Rozpětí</LtxtRange>
+    <LtxtConfDelQuestion>Jste si jistý/á, že chcete tuto otázku odstranit?</LtxtConfDelQuestion>
+    <LtxtPollLines>Otázky</LtxtPollLines>
+    <LtxtVerfyFilter>Musíte ověřit dotaz filtru</LtxtVerfyFilter>
+    <LtxtValSelAgent>Musíte vybrat agenta</LtxtValSelAgent>
+    <LtxtMultipleChoice>Víc možností</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Jste si jistý/á, že chcete tuto možnost odstranit?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Musíte vybrat barvu možnosti</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtColor>Kolor</DtxtColor>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtOptions>Opcje</DtxtOptions>
+    <DtxtOption>Opcja</DtxtOption>
+    <LtxtValPollNam>Proszę wprowadź nazwę rozszerzonej ankiety</LtxtValPollNam>
+    <LttlEditExtPoll>Edytuj rozszerzona ankietę</LttlEditExtPoll>
+    <LttlAddExtPoll>Dodaj rozszerzona ankietę</LttlAddExtPoll>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtFilter>Filer</LtxtFilter>
+    <LtxtValQuestion>proszę wprowadź pytanie</LtxtValQuestion>
+    <LttlEditLine>Edytuj pytanie</LttlEditLine>
+    <LtxtAddLine>Dodaj pytanie</LtxtAddLine>
+    <LtxtQuestion>Pytanie</LtxtQuestion>
+    <LtxtRange>Zakres</LtxtRange>
+    <LtxtConfDelQuestion>Czy jesteś pewien, że chcesz usunąć to pytanie?</LtxtConfDelQuestion>
+    <LtxtPollLines>Pytania</LtxtPollLines>
+    <LtxtVerfyFilter>Musisz zweryfikować filtr zapytania </LtxtVerfyFilter>
+    <LtxtValSelAgent>Musisz wybrać  sprzedawcę</LtxtValSelAgent>
+    <LtxtMultipleChoice>Wielokrotny wybór</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Czy jesteś pewien, że chcesz usunąć tę opcję?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Musisz wybrać kolor opcji</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtColor>Farba</DtxtColor>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtOptions>Možnosti</DtxtOptions>
+    <DtxtOption>Možnosť</DtxtOption>
+    <LtxtValPollNam>Prosím zadajte názov rozšírenej ankety</LtxtValPollNam>
+    <LttlEditExtPoll>Editovať rozšírenú anketu</LttlEditExtPoll>
+    <LttlAddExtPoll>Pridať rozšírenú anketu</LttlAddExtPoll>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtFilter>Filter</LtxtFilter>
+    <LtxtValQuestion>Prosím zadajte otázku</LtxtValQuestion>
+    <LttlEditLine>Editovať otázku</LttlEditLine>
+    <LtxtAddLine>Pridať otázku</LtxtAddLine>
+    <LtxtQuestion>Otázka</LtxtQuestion>
+    <LtxtRange>Rozsah</LtxtRange>
+    <LtxtConfDelQuestion>Ste si istí, že chcete odstrániť túto otázku?</LtxtConfDelQuestion>
+    <LtxtPollLines>Otázky</LtxtPollLines>
+    <LtxtVerfyFilter>Musíte vybrať filtrovací dotaz</LtxtVerfyFilter>
+    <LtxtValSelAgent>Musíte zvoliť agenta</LtxtValSelAgent>
+    <LtxtMultipleChoice>Výber z viacerých možností</LtxtMultipleChoice>
+    <LtxtConfDelChoice>Ste si istí, že chcete odstrániť túto možnosť?</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>Musíte vybrať niektorú farbu</LtxtValNewChoiceColor>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtColor>DtxtColor</DtxtColor>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtOptions>DtxtOptions</DtxtOptions>
+    <DtxtOption>DtxtOption</DtxtOption>
+    <LtxtValPollNam>LtxtValPollNam</LtxtValPollNam>
+    <LttlEditExtPoll>LttlEditExtPoll</LttlEditExtPoll>
+    <LttlAddExtPoll>LttlAddExtPoll</LttlAddExtPoll>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtFilter>LtxtFilter</LtxtFilter>
+    <LtxtValQuestion>LtxtValQuestion</LtxtValQuestion>
+    <LttlEditLine>LttlEditLine</LttlEditLine>
+    <LtxtAddLine>LtxtAddLine</LtxtAddLine>
+    <LtxtQuestion>LtxtQuestion</LtxtQuestion>
+    <LtxtRange>LtxtRange</LtxtRange>
+    <LtxtConfDelQuestion>LtxtConfDelQuestion</LtxtConfDelQuestion>
+    <LtxtPollLines>LtxtPollLines</LtxtPollLines>
+    <LtxtVerfyFilter>LtxtVerfyFilter</LtxtVerfyFilter>
+    <LtxtValSelAgent>LtxtValSelAgent</LtxtValSelAgent>
+    <LtxtMultipleChoice>LtxtMultipleChoice</LtxtMultipleChoice>
+    <LtxtConfDelChoice>LtxtConfDelChoice</LtxtConfDelChoice>
+    <LtxtValNewChoiceColor>LtxtValNewChoiceColor</LtxtValNewChoiceColor>
+  </language>
+</languages>

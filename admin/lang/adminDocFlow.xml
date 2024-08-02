@@ -1,0 +1,1644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtTips>Tips</DtxtTips>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtAdvanced>Advanced</DtxtAdvanced>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtOp>Operation</DtxtOp>
+    <LttlDocFlow>Document Flow</LttlDocFlow>
+    <LttlDocFlowNote>Here verification queries may be created so a verification is executed when adding a marketing document or receipt.</LttlDocFlowNote>
+    <LtxtTitle>Title</LtxtTitle>
+    <LtxtExecution>Execution</LtxtExecution>
+    <LtxtConfDelFlow>Are you sure you want to delete this flow?</LtxtConfDelFlow>
+    <LtxtAddFlow>Add Flow</LtxtAddFlow>
+    <LtxtEditFlow>Edit flow</LtxtEditFlow>
+    <LtxtFlowNote>Here the verification query that will be applied to a marketing document or receipt may be added and edited.</LtxtFlowNote>
+    <LtxtMsg>Message</LtxtMsg>
+    <LtxtMustStart>Must start with</LtxtMustStart>
+    <LtxtGenNoteQry>Generate Note (Query)</LtxtGenNoteQry>
+    <LtxtMsgText>Message Text</LtxtMsgText>
+    <LtxtOptQry>Optional Query</LtxtOptQry>
+    <LtxtTipLine1>When a comparison is made between field A and field B where the &lt;b&gt;collation&lt;/b&gt; of field A is not equal to the &lt;b&gt;collation&lt;/b&gt; of field B, it is recommended to add &lt;b&gt;collate database_default&lt;/b&gt; next to the comparison.</LtxtTipLine1>
+    <LtxtTipLine2>Ex. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*This only happens when the field type is alphanumeric.</LtxtTipLine3>
+    <LtxtOLKDocKey>OLK Document Key</LtxtOLKDocKey>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtBranchCode>Branch Code</LtxtBranchCode>
+    <LtxtDocCreation>Document Creation</LtxtDocCreation>
+    <LtxtAddItem>Add Item</LtxtAddItem>
+    <LtxtDocConf>Document Confirmation</LtxtDocConf>
+    <LtxtRcpConf>Receipt Confirmation</LtxtRcpConf>
+    <LtxtItmConf>Item Confirmation</LtxtItmConf>
+    <LtxtClientConf>Client Confirmation</LtxtClientConf>
+    <LtxtChangeApplyToClie>The "flow" type cannot be applied to the client, for this reason "Error" will be applied.</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>The type flow is not compatible when the "apply to client" is active, for this reason "Error" is applied to client</LtxtFlowTypeCAlr>
+    <LtxtCreation>Creation</LtxtCreation>
+    <LtxtFlowComExec>The type flow is not compatible with the execution "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>The execution "{0}" is not compatible with the type flow</LtxtExecComFlow>
+    <LtxtValFlowNam>Please enter flow name</LtxtValFlowNam>
+    <LtxtValSelAgent>You must select at least one agent</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>You must select at least one agent or apply to clients</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>You must select the moment of execution</LtxtValExecMom>
+    <LtxtValSelDoc>You must select at least one document</LtxtValSelDoc>
+    <LtxtValFlowQry>Please enter the flow query</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>You must verify the flow query</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Please enter the message query</LtxtValMsgQry>
+    <LtxtValMsgQryVal>You must verify the message query</LtxtValMsgQryVal>
+    <LtxtValMsgText>Please enter the message text</LtxtValMsgText>
+    <LtxtValRestoreFlow>If you restore the flow you will lose all changes made.\nDo you wish to continue?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>You must verify the lines query</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Quantity in Unit</LtxtQtyInUnit>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtCreateAsDraft>Create as Draft</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Requires Authorization (Sales Order Only)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>The type confirm is not compatible when the "apply to client" is active, for this reason "Error" is applied to client</LtxtFlowTypeCAlr2>
+    <LtxtAction>Action</LtxtAction>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtDocEntry>Key</LtxtDocEntry>
+    <LtxtObjCode>Object Code</LtxtObjCode>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtLockedFlow>This flow is locked because there are processes related to it</LtxtLockedFlow>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtSOConf>Sales Opportunity Confirmation</LtxtSOConf>
+    <LtxtConfDel>Are you sure you want to continue?</LtxtConfDel>
+    <LtxtAutGrp>Authorization Groups</LtxtAutGrp>
+    <LtxtAprovPurOrdr>Approve Purchase Order</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Convert Sales Order to Delivery</LtxtConvOrderDel>
+    <LtxtAsignedSLP>Assigned BP Alert</LtxtAsignedSLP>
+    <LtxtAlertFilter>Alert Filter</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>You must verify the authorization group query</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>Process Draft</LtxtAprovDraft>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtWhsCode>Código de Almacén</DtxtWhsCode>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flujo</DtxtFlow>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtTips>Tips</DtxtTips>
+    <DtxtLines>Líneas</DtxtLines>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtAdvanced>Avanzado</DtxtAdvanced>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitud de anticipo de clientes</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Factura de anticipo de clientes</DtxtARDownPayInv>
+    <DtxtPurOrder>Orden de Compra</DtxtPurOrder>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtOp>Operación</DtxtOp>
+    <LttlDocFlow>Flujo de Documentos</LttlDocFlow>
+    <LttlDocFlowNote>En esta sección podrá crear consultas de verificación, con el propósito de que al momento de agregar un documento comercial o recibo se ejecute una verificación personalizada.</LttlDocFlowNote>
+    <LtxtTitle>Título</LtxtTitle>
+    <LtxtExecution>Ejecución </LtxtExecution>
+    <LtxtConfDelFlow>¿Está seguro que desea eliminar este flujo?</LtxtConfDelFlow>
+    <LtxtAddFlow>Agregar Flujo</LtxtAddFlow>
+    <LtxtEditFlow>Editar Flujo</LtxtEditFlow>
+    <LtxtFlowNote>En esta sección podrá agregar/editar las consultas de verificación que desea aplicar a un documento comercial o recibo. </LtxtFlowNote>
+    <LtxtMsg>Mensaje</LtxtMsg>
+    <LtxtMustStart>Debe iniciar con</LtxtMustStart>
+    <LtxtGenNoteQry>Generar Nota (Consulta)</LtxtGenNoteQry>
+    <LtxtMsgText>Texto del Mensaje</LtxtMsgText>
+    <LtxtOptQry>Consulta Opcional</LtxtOptQry>
+    <LtxtTipLine1>Cuando se hace una comparación entre un campo A y un campo B en donde el &lt;b&gt;collation&lt;/b&gt; del campo A no es igual al &lt;b&gt;collation&lt;/b&gt; del campo B se recomienda agregar al lado de la comparación &lt;b&gt;collate database_default&lt;/b&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>Ej. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Este caso sólo ocurre cuando el tipo de los campos es alfanumérico.</LtxtTipLine3>
+    <LtxtOLKDocKey>Llave de Documento OLK</LtxtOLKDocKey>
+    <LtxtAgentCode>Código de Agente</LtxtAgentCode>
+    <LtxtBranchCode>Código de Sucursal</LtxtBranchCode>
+    <LtxtDocCreation>Creación de Documento</LtxtDocCreation>
+    <LtxtAddItem>Agregar Artículo</LtxtAddItem>
+    <LtxtDocConf>Confirmar Documento</LtxtDocConf>
+    <LtxtRcpConf>Confirmar Recibo</LtxtRcpConf>
+    <LtxtItmConf>Confirmar Artículo</LtxtItmConf>
+    <LtxtClientConf>Confirmar Cliente</LtxtClientConf>
+    <LtxtChangeApplyToClie>No se puede aplicar el flujo al cliente cuando el tipo es flujo, por este motivo al cliente se le aplicará el tipo "Error"</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>El tipo flujo no es compatible cuando la aplicación a cliente está activa, por este motivo al cliente se le aplicará el tipo "Error"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Creación</LtxtCreation>
+    <LtxtFlowComExec>El tipo flujo no es compatible con la ejecución "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>La ejecución "{0}" no es compatible con el tipo flujo</LtxtExecComFlow>
+    <LtxtValFlowNam>Debe introducir el nombre del flujo</LtxtValFlowNam>
+    <LtxtValSelAgent>Debe seleccionar por lo menos un agente</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Debe seleccionar por lo menos un agente o aplicar a los clientes</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Debe seleccionar el momento de ejecución</LtxtValExecMom>
+    <LtxtValSelDoc>Debe escoger por lo menos un documento</LtxtValSelDoc>
+    <LtxtValFlowQry>Debe introducir la consulta del flujo</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Debe verificar la consulta del flujo</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Debe introducir la consulta del mensaje</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Debe verificar la consulta del mensaje</LtxtValMsgQryVal>
+    <LtxtValMsgText>Debe introducir el texto del mensaje</LtxtValMsgText>
+    <LtxtValRestoreFlow>Al restaurar el flujo perderá todos los cambios que ha realizado.\n¿Desea continuar?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Debe verificar la consulta de las líneas</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Cantidad en unidad</LtxtQtyInUnit>
+    <LtxtActivityConf>Confirmar Actividad</LtxtActivityConf>
+    <LtxtCreateAsDraft>Crear como borrador</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Requiere autorización (Ordenes de Venta solamente)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>El tipo confirmación no es compatible cuando la aplicación a cliente está activa, por este motivo al cliente se le aplicará el tipo "Error"</LtxtFlowTypeCAlr2>
+    <LtxtAction>Acción</LtxtAction>
+    <LtxtConvQuoteOrder>Convertir cotización a orden de venta</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Cerrar objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar objeto</LtxtCancelObj>
+    <LtxtDocEntry>Llave</LtxtDocEntry>
+    <LtxtObjCode>Código de Objeto</LtxtObjCode>
+    <LtxtRemObj>Eliminar Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprobar Orden de Venta</LtxtAprovOrder>
+    <LtxtLockedFlow>Este flujo está bloqueado porque hay procesos relacionados a el</LtxtLockedFlow>
+    <LtxtConvOrderInv>Convertir Orden de Venta a Factura</LtxtConvOrderInv>
+    <LtxtSOConf>Confirmación de Oportunidad de Venta</LtxtSOConf>
+    <LtxtConfDel>¿Está seguro que desea continuar?</LtxtConfDel>
+    <LtxtAutGrp>Grupos de Autorizacón</LtxtAutGrp>
+    <LtxtAprovPurOrdr>Aprobar Orden de Compra</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Convertir Orden de Venta a Entrega</LtxtConvOrderDel>
+    <LtxtAsignedSLP>Alerta de SN Asignados</LtxtAsignedSLP>
+    <LtxtAlertFilter>Filtro de Alerta</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>Debe verificar la consulta de grupo de autorización</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>Procesar Borrador</LtxtAprovDraft>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtWhsCode>קוד מחסן</DtxtWhsCode>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtSalUnit>יח\' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח\' אריזה</DtxtPackUnit>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtFlow>תזרים</DtxtFlow>
+    <DtxtDocs>מסמכים</DtxtDocs>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtTips>טיפים</DtxtTips>
+    <DtxtLines>שורות</DtxtLines>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtReceipts>קבלות</DtxtReceipts>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtAdvanced>מתקדם</DtxtAdvanced>
+    <DtxtReservada>שמור\ה</DtxtReservada>
+    <DtxtARDownPayReq>בקשה למקדמה – לקוח</DtxtARDownPayReq>
+    <DtxtARDownPayInv>חשבונית מקדמה – לקוח</DtxtARDownPayInv>
+    <DtxtPurOrder>הזמנה מספקים</DtxtPurOrder>
+    <DtxtPurQuote>הצעת מחיר לקנייה</DtxtPurQuote>
+    <DtxtOp>תהליך</DtxtOp>
+    <LttlDocFlow>תזרים מסמכים</LttlDocFlow>
+    <LttlDocFlowNote>בחלק זה תוכל ליצור שיאלתות אישיות לבדיקת מסמכים כתזרים ע"מ לבדוק נתונים במסמך לפני הוספתו.</LttlDocFlowNote>
+    <LtxtTitle>כותרת</LtxtTitle>
+    <LtxtExecution>הרצה</LtxtExecution>
+    <LtxtConfDelFlow>האם למחוק את התזרים הנ"ל?</LtxtConfDelFlow>
+    <LtxtAddFlow>הוסף תזרים</LtxtAddFlow>
+    <LtxtEditFlow>עריכת תזרים</LtxtEditFlow>
+    <LtxtFlowNote>בחלק זה תוכל להוסיף ולערוך את השאילתות לבדיקת תזרים למסמכי שיווק ואובייקטים אחרים.</LtxtFlowNote>
+    <LtxtMsg>הודעה</LtxtMsg>
+    <LtxtMustStart>צריך להתחיל ב</LtxtMustStart>
+    <LtxtGenNoteQry>ערוך טקסט (שאילתא)</LtxtGenNoteQry>
+    <LtxtMsgText>טקסט ההודעה</LtxtMsgText>
+    <LtxtOptQry>שאילתא (לא חובה)</LtxtOptQry>
+    <LtxtTipLine1>כאשר משתמשים בשני טבלות (או בסיס נתונים) שאינם מאותו סוג &lt;b&gt;collation&lt;/b&gt; צריך להשתמש בפקודת &lt;b&gt;collate database_default&lt;/b&gt; לאחר השדה או ה &lt;b&gt;inner join&lt;/b&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>דוגמה : &lt;!&gt; Select A Field, B Field From Table1 T1 inner join Table2 T2 on T1.ID = T2.ID &lt;b&gt; collate database_default&lt;/b&gt;&lt;/i&gt;</LtxtTipLine2>
+    <LtxtTipLine3>*המצב הזה אפשרי רק כאשר סוג השדה מחרוזת.</LtxtTipLine3>
+    <LtxtOLKDocKey>מפתח (מס פנימי) למסמכים של האתר (אולק)</LtxtOLKDocKey>
+    <LtxtAgentCode>קוד סוכן</LtxtAgentCode>
+    <LtxtBranchCode>קוד סניף</LtxtBranchCode>
+    <LtxtDocCreation>יצירת מסמך</LtxtDocCreation>
+    <LtxtAddItem>הוספת פריט</LtxtAddItem>
+    <LtxtDocConf>אשר מסמך</LtxtDocConf>
+    <LtxtRcpConf>אשר קבלה</LtxtRcpConf>
+    <LtxtItmConf>אשר פריט</LtxtItmConf>
+    <LtxtClientConf>אשר לקוח</LtxtClientConf>
+    <LtxtChangeApplyToClie>לא ניתן לקבוע שיטת "תזרים" ללקוחות, לקוחות רואים תזרימים כ"תקלה".</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>לא ניתן לקבוע שיטת "תזרים" ללקוחות, לקוחות רואים תרזרימים כ"תקלה".</LtxtFlowTypeCAlr>
+    <LtxtCreation>יצירה</LtxtCreation>
+    <LtxtFlowComExec>התזרים לא תואם לסוג ההרצה "{0}"!</LtxtFlowComExec>
+    <LtxtExecComFlow>ההרצה "{0}" לא תואמת לסוג התזרים!</LtxtExecComFlow>
+    <LtxtValFlowNam>צריך לתת שם לתזרים</LtxtValFlowNam>
+    <LtxtValSelAgent>צריך לבחור לפחות סוכן אחד!</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>צריך לבחור לפחות סוכן אחד או לקשר את התזרים ללקוחות!</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>צריך לבחור את מצב ההרצה!</LtxtValExecMom>
+    <LtxtValSelDoc>צריך לבחור או לפחות מסמך אחד</LtxtValSelDoc>
+    <LtxtValFlowQry>צריך לשים שאילתא לתזרים!</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>צריך לאשר את השאילתא לתזרים!</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>צריך לשים שאילתא להודעה!</LtxtValMsgQry>
+    <LtxtValMsgQryVal>צריך לאשר את השאילתא להודעה!</LtxtValMsgQryVal>
+    <LtxtValMsgText>צריך לשים טקסט להודעה!</LtxtValMsgText>
+    <LtxtValRestoreFlow>שיחזור התזרים יגרום לאיבוד כל השינויים שביצעת! המשך ?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>צריך לאשר את השאילתא לשורות!</LtxtValLineQryVal>
+    <LtxtQtyInUnit>כמות ליח\'</LtxtQtyInUnit>
+    <LtxtActivityConf>אישור פעילות</LtxtActivityConf>
+    <LtxtCreateAsDraft>צור טיוטה</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>דרוש אישור (הזמנות בלבד)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>הסוג "אישור" לא ניתן לשימוש עם האופציה "הפעל על לקוחות" פעילה.\nעקב כך יש לשנות את סוג התזרים ל"תקלה".</LtxtFlowTypeCAlr2>
+    <LtxtAction>פעולה</LtxtAction>
+    <LtxtConvQuoteOrder>הפוך הצעת מחיר להזמנת לקוח</LtxtConvQuoteOrder>
+    <LtxtCloseObj>סגור אובייקט</LtxtCloseObj>
+    <LtxtCancelObj>בטל אובייקט</LtxtCancelObj>
+    <LtxtDocEntry>מפתח</LtxtDocEntry>
+    <LtxtObjCode>קוד אובייקט</LtxtObjCode>
+    <LtxtRemObj>מחק אובייקט</LtxtRemObj>
+    <LtxtAprovOrder>אשר הזמנת לקוח</LtxtAprovOrder>
+    <LtxtLockedFlow>התזרים הנ"ל נעול כיוון שיש פעילויות מקושרות אליו</LtxtLockedFlow>
+    <LtxtConvOrderInv>המר הזמנת מכירה לקבלה</LtxtConvOrderInv>
+    <LtxtSOConf>אישור הזדמנות מכירה</LtxtSOConf>
+    <LtxtConfDel>האם אתה בטוח שברצונך להמשיך?</LtxtConfDel>
+    <LtxtAutGrp>קבוצות אישור</LtxtAutGrp>
+    <LtxtAprovPurOrdr>אשר הזמנת קניה</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>המר הזמנה לתעודת משלוח</LtxtConvOrderDel>
+    <LtxtAsignedSLP>התרעת כרטיס מוקצה</LtxtAsignedSLP>
+    <LtxtAlertFilter>מסנן התרעות</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>עליך לוודא את שאילתת קבוצת אישור</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>עבד טיוטה</LtxtAprovDraft>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtTips>Tips</DtxtTips>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtAdvanced>Advanced</DtxtAdvanced>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Document Flow</LttlDocFlow>
+    <LttlDocFlowNote>Here verification queries may be created so a verification is executed when adding a marketing document or receipt.</LttlDocFlowNote>
+    <LtxtTitle>Title</LtxtTitle>
+    <LtxtExecution>Execution</LtxtExecution>
+    <LtxtConfDelFlow>Are you sure you want to delete this flow?</LtxtConfDelFlow>
+    <LtxtAddFlow>Add Flow</LtxtAddFlow>
+    <LtxtEditFlow>Edit flow</LtxtEditFlow>
+    <LtxtFlowNote>Here the verification query that will be applied to a marketing document or receipt may be added and edited.</LtxtFlowNote>
+    <LtxtMsg>Message</LtxtMsg>
+    <LtxtMustStart>Must start with</LtxtMustStart>
+    <LtxtGenNoteQry>Generate Note (Query)</LtxtGenNoteQry>
+    <LtxtMsgText>Message Text</LtxtMsgText>
+    <LtxtOptQry>Optional Query</LtxtOptQry>
+    <LtxtTipLine1>When a comparison is made between field A and field B where the &lt;b&gt;collation&lt;/b&gt; of field A is not equal to the &lt;b&gt;collation&lt;/b&gt; of field B, it is recommended to add &lt;b&gt;collate database_default&lt;/b&gt; next to the comparison.</LtxtTipLine1>
+    <LtxtTipLine2>Ex. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*This only happens when the field type is alphanumeric.</LtxtTipLine3>
+    <LtxtOLKDocKey>OLK Document Key</LtxtOLKDocKey>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtBranchCode>Branch Code</LtxtBranchCode>
+    <LtxtDocCreation>Document Creation</LtxtDocCreation>
+    <LtxtAddItem>Add Item</LtxtAddItem>
+    <LtxtDocConf>Document Confirmation</LtxtDocConf>
+    <LtxtRcpConf>Receipt Confirmation</LtxtRcpConf>
+    <LtxtItmConf>Item Confirmation</LtxtItmConf>
+    <LtxtClientConf>Client Confirmation</LtxtClientConf>
+    <LtxtChangeApplyToClie>The "flow" type cannot be applied to the client, for this reason "Error" will be applied.</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>The type flow is not compatible when the "apply to client" is active, for this reason "Error" is applied to client</LtxtFlowTypeCAlr>
+    <LtxtCreation>Creation</LtxtCreation>
+    <LtxtFlowComExec>The type flow is not compatible with the execution "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>The execution "{0}" is not compatible with the type flow</LtxtExecComFlow>
+    <LtxtValFlowNam>Please enter flow name</LtxtValFlowNam>
+    <LtxtValSelAgent>You must select at least one agent</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>You must select at least one agent or apply to clients</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>You must select the moment of execution</LtxtValExecMom>
+    <LtxtValSelDoc>You must select at least one document</LtxtValSelDoc>
+    <LtxtValFlowQry>Please enter the flow query</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>You must verify the flow query</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Please enter the message query</LtxtValMsgQry>
+    <LtxtValMsgQryVal>You must verify the message query</LtxtValMsgQryVal>
+    <LtxtValMsgText>Please enter the message text</LtxtValMsgText>
+    <LtxtValRestoreFlow>If you restore the flow you will lose all changes made.\nDo you wish to continue?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>You must verify the lines query</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Quantity in Unit</LtxtQtyInUnit>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtCreateAsDraft>Create as Draft</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Requires Authorization (Sales Order Only)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>The type confirm is not compatible when the "apply to client" is active, for this reason "Error" is applied to client</LtxtFlowTypeCAlr2>
+    <LtxtAction>Action</LtxtAction>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtDocEntry>Key</LtxtDocEntry>
+    <LtxtObjCode>Object Code</LtxtObjCode>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtLockedFlow>This flow is locked because there are processes related to it</LtxtLockedFlow>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtSOConf>Sales Opportunity Confirmation</LtxtSOConf>
+    <LtxtConfDel>Are you sure you want to continue?</LtxtConfDel>
+    <LtxtAutGrp>Authorization Groups</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtWhsCode>Código do Armazém</DtxtWhsCode>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtError>Erro</DtxtError>
+    <DtxtFlow>Fluxo</DtxtFlow>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtTips>Tips</DtxtTips>
+    <DtxtLines>Linhas</DtxtLines>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtAdvanced>Avançado</DtxtAdvanced>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitação de adiantamento de cliente</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Adiantamento de cliente</DtxtARDownPayInv>
+    <DtxtPurOrder>Pedido de Compra</DtxtPurOrder>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtOp>Operação</DtxtOp>
+    <LttlDocFlow>Fluxo de Documentos</LttlDocFlow>
+    <LttlDocFlowNote>Nesta seção, poderá criar consultas de verificação com o propósito de que ao momento de adicionar um documento comercial ou recibo, se execute uma verificação personalizada.</LttlDocFlowNote>
+    <LtxtTitle>Título</LtxtTitle>
+    <LtxtExecution>Execução</LtxtExecution>
+    <LtxtConfDelFlow>Você tem certeza que deseja excluir este fluxo?</LtxtConfDelFlow>
+    <LtxtAddFlow>Adicionar Fluxo</LtxtAddFlow>
+    <LtxtEditFlow>Editar Fluxo</LtxtEditFlow>
+    <LtxtFlowNote>Nesta seção, poderá adicionar/editar as consultas de verificação que deseja aplicar a um documento comercial ou recibo.</LtxtFlowNote>
+    <LtxtMsg>Mensagem</LtxtMsg>
+    <LtxtMustStart>Deve iniciar com</LtxtMustStart>
+    <LtxtGenNoteQry>Gerar Nota (Consulta)</LtxtGenNoteQry>
+    <LtxtMsgText>Texto da Mensagem</LtxtMsgText>
+    <LtxtOptQry>Consulta Opcional</LtxtOptQry>
+    <LtxtTipLine1>Quando se faz uma comparação entre um campo A e um campo B onde o &lt;b&gt;collation&lt;/b&gt; do campo A não é igual ao b&gt;collation&lt;/b&gt; do campo B é recomendável adicionar ao lado da comparação &lt;b&gt;collate database_default&lt;/b&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>Ex. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Este caso só ocorre quando o tipo dos campos é alfanumérico.</LtxtTipLine3>
+    <LtxtOLKDocKey>Chave do Documento OnlineKit</LtxtOLKDocKey>
+    <LtxtAgentCode>Código do Vendedor</LtxtAgentCode>
+    <LtxtBranchCode>Código da Filial</LtxtBranchCode>
+    <LtxtDocCreation>Criação de Documento</LtxtDocCreation>
+    <LtxtAddItem>Adicionar Item</LtxtAddItem>
+    <LtxtDocConf>Confirmar Documento</LtxtDocConf>
+    <LtxtRcpConf>Confirmar Recibo</LtxtRcpConf>
+    <LtxtItmConf>Confirmar Item
+
+
+</LtxtItmConf>
+    <LtxtClientConf>Confirmar Cliente</LtxtClientConf>
+    <LtxtChangeApplyToClie>Não pode aplicar-se o fluxo ao cliente quando o tipo é fluxo, por esse motivo ao cliente se aplicará o tipo "Erro"</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>O tipo fluxo não é compatível quando a aplicação ao cliente está ativa, por isso se aplicará o tipo "Erro"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Criação</LtxtCreation>
+    <LtxtFlowComExec>O tipo fluxo não é compatível con a execução "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>A execução "{0}" não é compatível com o tipo fluxo</LtxtExecComFlow>
+    <LtxtValFlowNam>Deve inserir o nome do fluxo</LtxtValFlowNam>
+    <LtxtValSelAgent>Deve selecionar pelo menos um vendedor</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Deve selecionar pelo menos um vendedor ou aplicar aos clientes</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Deve selecionar o momento da execução</LtxtValExecMom>
+    <LtxtValSelDoc>Deve escolher pelo menos um documento</LtxtValSelDoc>
+    <LtxtValFlowQry>Deve inserir a consulta do fluxo</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Deve verificar a consulta do fluxo</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Deve inserir a consulta da mensagem</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Deve verificar a consulta da mensagem</LtxtValMsgQryVal>
+    <LtxtValMsgText>Deve inserir o texto da mensagem</LtxtValMsgText>
+    <LtxtValRestoreFlow>Ao restaurar o fluxo perderá todas as modifições que realizou.\nDeseja continuar?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Deve verificar a consulta das linhas</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Quantidade em unidade</LtxtQtyInUnit>
+    <LtxtActivityConf>Confirmar Atividade</LtxtActivityConf>
+    <LtxtCreateAsDraft>Criar como rascunho</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Requer autorização (Somente para Pedido de Venda)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>A confirmação de tipo não é compatível quando "aplicar a cliente" está ativo, por esta razão um "erro" será aplicado</LtxtFlowTypeCAlr2>
+    <LtxtAction>Ação</LtxtAction>
+    <LtxtConvQuoteOrder>Converter orçamento em pedido de venda</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Fechar Objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar Objeto</LtxtCancelObj>
+    <LtxtDocEntry>Chave</LtxtDocEntry>
+    <LtxtObjCode>Código do Objeto</LtxtObjCode>
+    <LtxtRemObj>Excluir Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprovar Ordem de Venda</LtxtAprovOrder>
+    <LtxtLockedFlow>Este fluxo está bloqueado porque existem processos relacionados a ele</LtxtLockedFlow>
+    <LtxtConvOrderInv>Converter Pedido de Venda em Nota Fiscal de Saída</LtxtConvOrderInv>
+    <LtxtSOConf>Confirmação de Oportunidade de Venda</LtxtSOConf>
+    <LtxtConfDel>Você tem certeza que deseja continuar?</LtxtConfDel>
+    <LtxtAutGrp>Grupos de Autorizações</LtxtAutGrp>
+    <LtxtAprovPurOrdr>Aprovar Pedido de Compra</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Converter Pedido de Venda para Entrega</LtxtConvOrderDel>
+    <LtxtAsignedSLP>Alerta de PN atribuídos</LtxtAsignedSLP>
+    <LtxtAlertFilter>Filtro de alerta</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>Verificar a consulta do grupo de autorização</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>Processar rascunho</LtxtAprovDraft>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtWhsCode>Code de magasin</DtxtWhsCode>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d\'emballage</DtxtPackUnit>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtFlow>Flux</DtxtFlow>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtTips>Conseils</DtxtTips>
+    <DtxtLines>Lignes</DtxtLines>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtReceipts>Reçus (Quittances)</DtxtReceipts>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtAdvanced>&lt;--&gt;</DtxtAdvanced>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>Demande d'acompte client</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Facture d'acompte client</DtxtARDownPayInv>
+    <DtxtPurOrder>Ordre d'achat</DtxtPurOrder>
+    <DtxtPurQuote>Appel d'offres</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Flux des documentations</LttlDocFlow>
+    <LttlDocFlowNote>Dans cette section vous pourrez créer des consultations de vérification, avec l'intention de qu'au moment d'ajouter une documentation commerciale ou quittance on exécute une vérification personnalisée.</LttlDocFlowNote>
+    <LtxtTitle>Titre</LtxtTitle>
+    <LtxtExecution>Exécution</LtxtExecution>
+    <LtxtConfDelFlow>Êtes-vous sûre d\'éliminer ce flux?</LtxtConfDelFlow>
+    <LtxtAddFlow>Ajouter le flux</LtxtAddFlow>
+    <LtxtEditFlow>Éditer le flux</LtxtEditFlow>
+    <LtxtFlowNote>Dans cette section vous pourrez ajouter/éditer les consultations de vérification que vous souhaitez appliquer à une documentation commerciale ou quittance</LtxtFlowNote>
+    <LtxtMsg>Message</LtxtMsg>
+    <LtxtMustStart>Devez-vous commencer avec</LtxtMustStart>
+    <LtxtGenNoteQry>Générer note (Consultation)</LtxtGenNoteQry>
+    <LtxtMsgText>Texte du message</LtxtMsgText>
+    <LtxtOptQry>consultation optionnelle</LtxtOptQry>
+    <LtxtTipLine1>Quand on fait une comparaison entre un domaine A et un domaine B, où le &lt;b&gt;ensemble avec&lt;/b&gt; du domaine n'est pas égal au &lt;b&gt;ensemble avec&lt;/b&gt; du domaine B, on y recommande ajouter à côté de la comparaison &lt;b&gt;ensemble avec la base des données_default&lt;/b&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>Ej. &lt;i&gt;sélectionner domaine A, domaine B dès A intérieur ensamble avec B sur B.ID =A.ID &lt;b&gt;comparé la base des données_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Ce cas seulement s'agit quand le genre des domaines, c'est alphanumérique</LtxtTipLine3>
+    <LtxtOLKDocKey>Clef de documentation OLK</LtxtOLKDocKey>
+    <LtxtAgentCode>Code d\'agent</LtxtAgentCode>
+    <LtxtBranchCode>Code de Succursale</LtxtBranchCode>
+    <LtxtDocCreation>Création de la documentation</LtxtDocCreation>
+    <LtxtAddItem>Ajouter l'article</LtxtAddItem>
+    <LtxtDocConf>Confirmer la documentation</LtxtDocConf>
+    <LtxtRcpConf>Confirmer la quittance</LtxtRcpConf>
+    <LtxtItmConf>Confirmer l'article</LtxtItmConf>
+    <LtxtClientConf>Confirmer le client</LtxtClientConf>
+    <LtxtChangeApplyToClie>On ne peut pas appliquer le flux au client quand le genre est flux, de tout façon au client on y appliquera le genre "Erreur"</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Le genre du flux n\'est pas compatible quand l\'application au client c\'est active, de tout façon au client on y appliquera le genre "Erreur"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Création</LtxtCreation>
+    <LtxtFlowComExec>Le genre du flux n\'est pas compatible avec l\'exécution "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>L\'exécution "{0}" n\'est pas compatible avec le genre du flux</LtxtExecComFlow>
+    <LtxtValFlowNam>Devez-vous insérer le nom du flux</LtxtValFlowNam>
+    <LtxtValSelAgent>Devez-vous sélectionner au moins un agent</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Devez-vous sélectionner au moins un agent ou appliquer aux clients</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Devez-vous sélectionner le moment d\'exécution</LtxtValExecMom>
+    <LtxtValSelDoc>Devez-vous choisir au moins une documentation</LtxtValSelDoc>
+    <LtxtValFlowQry>Devez-vous insérer la consultation du flux</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Devez-vous vérifier la consultation du flux</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Devez-vous insérer la consultation du message</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Devez-vous vérifier la consultation du message</LtxtValMsgQryVal>
+    <LtxtValMsgText>Devez-vous insérer le texte du message</LtxtValMsgText>
+    <LtxtValRestoreFlow>Au moment de restaurer le flux vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Devez-vous vérifier la consultation des lignes</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Quantité d\'unité</LtxtQtyInUnit>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtCreateAsDraft>&lt;--&gt;</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>&lt;--&gt;</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>&lt;--&gt;</LtxtFlowTypeCAlr2>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtDocEntry>Clef</LtxtDocEntry>
+    <LtxtObjCode>&lt;--&gt;</LtxtObjCode>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtLockedFlow>&lt;--&gt;</LtxtLockedFlow>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtWhsCode>Lagerkennzeichen</DtxtWhsCode>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtFlow>Fluß</DtxtFlow>
+    <DtxtDocs>Dokumente</DtxtDocs>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtTips>Hinweise</DtxtTips>
+    <DtxtLines>Zeilen</DtxtLines>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtReceipts>Belege</DtxtReceipts>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtAdvanced>Erweitert</DtxtAdvanced>
+    <DtxtReservada>Belegt</DtxtReservada>
+    <DtxtARDownPayReq>Verkaufsanzahlungsanforderung</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Verkaufsanzahlungsrechnung</DtxtARDownPayInv>
+    <DtxtPurOrder>Einkaufsauftrag</DtxtPurOrder>
+    <DtxtPurQuote>Lieferantenanfrage</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Dokumentfluss</LttlDocFlow>
+    <LttlDocFlowNote>In diesem Bereich kann man Bestätigungsanfragen erstellen, wenn Sie dann ein Marketingdokument oder Beleg hinzufügen wird eine Bestätigung ausgeführt.</LttlDocFlowNote>
+    <LtxtTitle>Titel</LtxtTitle>
+    <LtxtExecution>Ausführung</LtxtExecution>
+    <LtxtConfDelFlow>Möchten sie diesen Fluss wirklich löschen?</LtxtConfDelFlow>
+    <LtxtAddFlow>Fluss hinzufügen</LtxtAddFlow>
+    <LtxtEditFlow>Fluss bearbeiten</LtxtEditFlow>
+    <LtxtFlowNote>In diesem Bereich kann man die Bestätigungsanfrage, die Sie einem Marketingdokument oder Beleg anordnen, hinzufügen/bearbeiten.</LtxtFlowNote>
+    <LtxtMsg>Nachricht</LtxtMsg>
+    <LtxtMustStart>Sie müssen hiermit anfangen</LtxtMustStart>
+    <LtxtGenNoteQry>Notiz erstellen (Anfrage)</LtxtGenNoteQry>
+    <LtxtMsgText>Nachricht Text</LtxtMsgText>
+    <LtxtOptQry>Optionale Anfrage</LtxtOptQry>
+    <LtxtTipLine1>Wenn ein Vergleich zwischen Feld A und Feld B gemacht wird, wobei &lt;b&gt;collation&lt;/b&gt; von Feld A nicht gleich &lt;b&gt;collation&lt;/b&gt; von Feld B, wird empfohlen neben Vergleich &lt;b&gt;collate database_default&lt;/b&gt; hinzuzufügen.</LtxtTipLine1>
+    <LtxtTipLine2>Bsp. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Dieses passiert nur wenn ein Feldtyp alphanumerisch ist.</LtxtTipLine3>
+    <LtxtOLKDocKey>OLK Dokumentschlüssel</LtxtOLKDocKey>
+    <LtxtAgentCode>Agentenkennzeichen</LtxtAgentCode>
+    <LtxtBranchCode>Zweigkennzeichen</LtxtBranchCode>
+    <LtxtDocCreation>Dokumenterstellung</LtxtDocCreation>
+    <LtxtAddItem>Artikel hinzufügen</LtxtAddItem>
+    <LtxtDocConf>Dokumentbestätigung</LtxtDocConf>
+    <LtxtRcpConf>Belegbestätigung</LtxtRcpConf>
+    <LtxtItmConf>Artikelbestätigung</LtxtItmConf>
+    <LtxtClientConf>Kundenbestätigung</LtxtClientConf>
+    <LtxtChangeApplyToClie>Der "Fluss" typ kann für diesen Kunden nicht angewendet werden. Aus diesem Grund wird ein "Fehler" angewendet.</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Der Flußtyp funktioniert nicht wenn "an Kunden anwenden" aktiv ist. Aus diesem Grund wird "Fehler" für den Kunden angewendet.</LtxtFlowTypeCAlr>
+    <LtxtCreation>Erstellung</LtxtCreation>
+    <LtxtFlowComExec>Der Flußtyp ist mit der Aussführung "{0}" nicht kompatibel</LtxtFlowComExec>
+    <LtxtExecComFlow>Die Ausführung "{0}" ist mit diesem Flusstyp nicht kompatibel</LtxtExecComFlow>
+    <LtxtValFlowNam>Bitte geben Sie den Flussnamen ein</LtxtValFlowNam>
+    <LtxtValSelAgent>Sie müssen mindestens einen Agenten auswählen</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Sie müssen mindestens einen Agenten auswählen oder an Kunden anwenden</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Sie müssen die Zeit der Ausführung wählen</LtxtValExecMom>
+    <LtxtValSelDoc>Sie müssen mindestens ein Dokument auswählen</LtxtValSelDoc>
+    <LtxtValFlowQry>Bitte geben Sie die Flussanfrage an</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Sie müssen die Flussanfrage bestätigen</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Bitte geben Sie die Nachrichtanfrage an</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Sie müssen die Nachrichtenanfrage bestätigen</LtxtValMsgQryVal>
+    <LtxtValMsgText>Bitte geben Sie den Nachrichtentext ein</LtxtValMsgText>
+    <LtxtValRestoreFlow>Wenn Sie den Fluss wiederherstellen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Sie müssen die Zeilenanfrage bestätigen</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Menge der Einheit</LtxtQtyInUnit>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtCreateAsDraft>&lt;--&gt;</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>&lt;--&gt;</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>&lt;--&gt;</LtxtFlowTypeCAlr2>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtDocEntry>&lt;--&gt;</LtxtDocEntry>
+    <LtxtObjCode>&lt;--&gt;</LtxtObjCode>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtLockedFlow>&lt;--&gt;</LtxtLockedFlow>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtWhsCode>Код склада</DtxtWhsCode>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtFlow>Вливание</DtxtFlow>
+    <DtxtDocs>Документы</DtxtDocs>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtTips>Советы</DtxtTips>
+    <DtxtLines>Линии</DtxtLines>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtReceipts>Квитанции</DtxtReceipts>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtAdvanced>Продвигаться</DtxtAdvanced>
+    <DtxtReservada>Сохранить</DtxtReservada>
+    <DtxtARDownPayReq>Продажа: счет на предоплату</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Продажа: счет на предоплату</DtxtARDownPayInv>
+    <DtxtPurOrder>Заказ от поставщиков</DtxtPurOrder>
+    <DtxtPurQuote>Предложение поставщика</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Поток документов</LttlDocFlow>
+    <LttlDocFlowNote>В этом разделе можно создать проверку запросов, поэтому при добавлении документа маркетинга или получения проверка выполняется ..</LttlDocFlowNote>
+    <LtxtTitle>Название</LtxtTitle>
+    <LtxtExecution>Отправление</LtxtExecution>
+    <LtxtConfDelFlow>Вы уверены, что хотите удалить этот поток?</LtxtConfDelFlow>
+    <LtxtAddFlow>Добавить поток</LtxtAddFlow>
+    <LtxtEditFlow>Изменить поток</LtxtEditFlow>
+    <LtxtFlowNote>В этом разделе можно добавлять / редактировать проверки запроса, который вы хотите применить к документу, маркетинг или получения.</LtxtFlowNote>
+    <LtxtMsg>Сообщение</LtxtMsg>
+    <LtxtMustStart>Должен начинаться с</LtxtMustStart>
+    <LtxtGenNoteQry>Редактирование текста (запрос)</LtxtGenNoteQry>
+    <LtxtMsgText>Текст сообщения</LtxtMsgText>
+    <LtxtOptQry>Запрос (не обязательно)</LtxtOptQry>
+    <LtxtTipLine1>Когда проводится сравнение между полем и полем B где &lt;b&gt; сортировки &lt;/ B&gt; из области не равна &lt;b&gt; сортировки &lt;/ B&gt; в поле В то рекомендуется добавить следующее в сравнение &lt;b&gt; собирать Когда проводится сравнение между полем и полем B где &lt;b&gt; сортировки &lt;/ B&gt; из области не равна &lt;b&gt; сортировки &lt;/ B&gt; в поле В то рекомендуется добавить следующее в сравнение &lt;b&gt; собирать Базу данных_по умолчанию &lt;/ B&gt;. &lt;/ B&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>Пример: &lt;!&gt; Select A Field, B Field From Table1 T1 inner join Table2 T2 on T1.ID = T2.ID &lt;b&gt; collate database_default&lt;/b&gt;&lt;/i&gt;</LtxtTipLine2>
+    <LtxtTipLine3>* Это может произойти только если тип поля буквенно-цифренный.</LtxtTipLine3>
+    <LtxtOLKDocKey>Ключевые документы олк</LtxtOLKDocKey>
+    <LtxtAgentCode>Код агента</LtxtAgentCode>
+    <LtxtBranchCode>Код отделения</LtxtBranchCode>
+    <LtxtDocCreation>Создание документов</LtxtDocCreation>
+    <LtxtAddItem>Добавить элемент</LtxtAddItem>
+    <LtxtDocConf>Подтверждение документа</LtxtDocConf>
+    <LtxtRcpConf>Подтверждение накладной</LtxtRcpConf>
+    <LtxtItmConf>Подтверждение детали</LtxtItmConf>
+    <LtxtClientConf>Подтверждение клиента</LtxtClientConf>
+    <LtxtChangeApplyToClie>"Потоки" типа не могут быть применены к клиенту, по этой причине "ошибки" будут применены.</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Проточные типы не совместимы, когда "применяется к клиенту" является активным, по этой причине "Ошибка" применяется к клиенту</LtxtFlowTypeCAlr>
+    <LtxtCreation>Создание</LtxtCreation>
+    <LtxtFlowComExec>Проточные типы не совместимы с выполнением</LtxtFlowComExec>
+    <LtxtExecComFlow>Исполнение "{0}" не совместимы с типом потока</LtxtExecComFlow>
+    <LtxtValFlowNam>Пожалуйста, введите имя потока</LtxtValFlowNam>
+    <LtxtValSelAgent>Вы должны выбрать или открыть как минимум одного агента</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Вы должны выбрать как минимум одного агента или связать с потоком  клиентов</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Вы должны выбрать момент исполнения</LtxtValExecMom>
+    <LtxtValSelDoc>Вы должны выбрать хотя бы один документ</LtxtValSelDoc>
+    <LtxtValFlowQry>Пожалуйста, введите поток запросов</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Вам необходимо убедиться, потоке запросов</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Пожалуйста введите сообщение, запрос</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Вам необходимо проверить сообщения запроса</LtxtValMsgQryVal>
+    <LtxtValMsgText>Пожалуйста, введите текст сообщения</LtxtValMsgText>
+    <LtxtValRestoreFlow>Если вы восстановите поток, вы потеряете все изменения.\nВы хотите продолжить?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Вам необходимо убедиться линией запроса</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Количество в единиц</LtxtQtyInUnit>
+    <LtxtActivityConf>Разрешить деятельность</LtxtActivityConf>
+    <LtxtCreateAsDraft>Создание в качестве проекта</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Требуется разрешение (в продаже под заказ)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2> Подтвердить тип  это не совместимо, когда "применяется к клиенту" является активным, по этой причине "Ошибка" применяется к клиенту</LtxtFlowTypeCAlr2>
+    <LtxtAction>Действие</LtxtAction>
+    <LtxtConvQuoteOrder>Изменить предложенную цену на заказ клиента</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Закрытый объект</LtxtCloseObj>
+    <LtxtCancelObj>Отменить объект</LtxtCancelObj>
+    <LtxtDocEntry>Ключ</LtxtDocEntry>
+    <LtxtObjCode>Код обекта</LtxtObjCode>
+    <LtxtRemObj>Стереть объекты</LtxtRemObj>
+    <LtxtAprovOrder>Разрешение заказа клиента</LtxtAprovOrder>
+    <LtxtLockedFlow>&lt;--&gt;</LtxtLockedFlow>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtTips>Spropitné</DtxtTips>
+    <DtxtLines>Řádky</DtxtLines>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtReceipts>Příjemky</DtxtReceipts>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtAdvanced>Rozšířené</DtxtAdvanced>
+    <DtxtReservada>Vyhrazeno</DtxtReservada>
+    <DtxtARDownPayReq>Prodej - požadavek na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Prodej - daňový doklad k záloze</DtxtARDownPayInv>
+    <DtxtPurOrder>Nákupní objednávka</DtxtPurOrder>
+    <DtxtPurQuote>Poptávka</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Tok dokumentů</LttlDocFlow>
+    <LttlDocFlowNote>V této sekci je možné vytvořit ověřovací dotazy, které se vykonají při přidání a ověření marketingového dokumentu nebo příjemky.</LttlDocFlowNote>
+    <LtxtTitle>Název</LtxtTitle>
+    <LtxtExecution>Provedení</LtxtExecution>
+    <LtxtConfDelFlow>Jste si jistý/á, že chcete tento tok vymazat?</LtxtConfDelFlow>
+    <LtxtAddFlow>Přidat tok</LtxtAddFlow>
+    <LtxtEditFlow>Upravit tok</LtxtEditFlow>
+    <LtxtFlowNote>V této sekci je možné přidat/upravit ověření dotazu, který chcete použít na marketingový dokument nebo příjemku.</LtxtFlowNote>
+    <LtxtMsg>Zpráva</LtxtMsg>
+    <LtxtMustStart>Musí začínat na</LtxtMustStart>
+    <LtxtGenNoteQry>Vygenerovat poznámku (dotaz)</LtxtGenNoteQry>
+    <LtxtMsgText>Text zprávy</LtxtMsgText>
+    <LtxtOptQry>Nepovinný dotaz</LtxtOptQry>
+    <LtxtTipLine1>Pokud se porovnávají dvě pole A a B, kde &lt;b&gt;obsah&lt;/b&gt; pole A není shodný s &lt;b&gt;obsahem&lt;/b&gt; pole B, doporučuje se přidat vedle srovnání &lt;b&gt;collate database_default&lt;/b&gt;.</LtxtTipLine1>
+    <LtxtTipLine2>Ex. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Toto se stane pouze v případě, že je pole alfanumerické.</LtxtTipLine3>
+    <LtxtOLKDocKey>Klíč dokumentu OLK</LtxtOLKDocKey>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtBranchCode>Kód pobočky</LtxtBranchCode>
+    <LtxtDocCreation>Vytvoření dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Přidat položku</LtxtAddItem>
+    <LtxtDocConf>Potvrzení dokumentu</LtxtDocConf>
+    <LtxtRcpConf>Potvrzení příjemky</LtxtRcpConf>
+    <LtxtItmConf>Potvrzení položky</LtxtItmConf>
+    <LtxtClientConf>Potvrzení klienta</LtxtClientConf>
+    <LtxtChangeApplyToClie>Typ "tok" nemůže být aplikován na klienta. Pro tento účel se aplikuje důvod "Error".</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Typ tok není kompatibilní, pokud je aktivní možnost "použít na klienta". Pro tento účel se aplikuje na klienta důvod "Error"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Vytvoření</LtxtCreation>
+    <LtxtFlowComExec>Typ tok není kompatibilní s vykonáním "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>Vykonání "{0}" není kompatibilní s typem toku</LtxtExecComFlow>
+    <LtxtValFlowNam>Zadejte název toku</LtxtValFlowNam>
+    <LtxtValSelAgent>Musíte vybrat aspoň jednoho agenta.</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Musíte vybrat minimálně jednoho agenta, nebo použít na klienty</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Musíte určit okamžik provedení</LtxtValExecMom>
+    <LtxtValSelDoc>Musíte vybrat aspoň jeden dokument</LtxtValSelDoc>
+    <LtxtValFlowQry>Vložte dotaz toku</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Musíte ověřit dotaz toku</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Zadejte prosím dotaz zprávy</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Musíte ověřit dotaz zprávy</LtxtValMsgQryVal>
+    <LtxtValMsgText>Zadejte text zprávy</LtxtValMsgText>
+    <LtxtValRestoreFlow>Pokud obnovíte tok, všechny změny které jste provedl/a budou ztraceny.\nUrčitě chcete pokračovat?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Musíte ověřit dotaz na řádky</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Množství (jednotky)</LtxtQtyInUnit>
+    <LtxtActivityConf>Potvrzení aktivity</LtxtActivityConf>
+    <LtxtCreateAsDraft>Vytvořit jako Návrh</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Vyžaduje autorizaci (pouze příkaz k prodeji)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>Typ potvrzení není kompatibilní, pokud je aktivní možnost "použít na klienta". Pro tento účel se aplikuje na klienta důvod "Error"</LtxtFlowTypeCAlr2>
+    <LtxtAction>Akce</LtxtAction>
+    <LtxtConvQuoteOrder>Překlopit nabídku do příkazu k prodeji</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zavřít objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušit objekt</LtxtCancelObj>
+    <LtxtDocEntry>Klíč</LtxtDocEntry>
+    <LtxtObjCode>Kód objektu</LtxtObjCode>
+    <LtxtRemObj>Vymazat objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schválit příkaz k prodeji</LtxtAprovOrder>
+    <LtxtLockedFlow>Tento tok je uzamknutý, protože jsou s ním spojeny procesy</LtxtLockedFlow>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtWhsCode>Kod magazynu</DtxtWhsCode>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtFlow>Przepływy</DtxtFlow>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtTips>Wskazówki</DtxtTips>
+    <DtxtLines>Wiersze</DtxtLines>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtReceipts>Pokwitowania</DtxtReceipts>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtAdvanced>Zaawansowany</DtxtAdvanced>
+    <DtxtReservada>Zarezerwowany/a</DtxtReservada>
+    <DtxtARDownPayReq>Żądanie zaliczki z tyt. sprzedaży</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Faktura za zaliczkę z tyt. sprzedaży</DtxtARDownPayInv>
+    <DtxtPurOrder>Zamówienie zakupu</DtxtPurOrder>
+    <DtxtPurQuote>Oferta zakupu</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Przepływ dokumentów</LttlDocFlow>
+    <LttlDocFlowNote>Tutaj można stworzyć zapytanie weryfikujące, tak by weryfikacja dokonywała się przy dodawaniu dokumentu marketingowego lub pokwitowania. </LttlDocFlowNote>
+    <LtxtTitle>Nagłówek</LtxtTitle>
+    <LtxtExecution>Wykonanie</LtxtExecution>
+    <LtxtConfDelFlow>Czy jesteś pewien, że chcesz skasować ten przepływ?</LtxtConfDelFlow>
+    <LtxtAddFlow>Dodaj przepływ</LtxtAddFlow>
+    <LtxtEditFlow>Edytuj przepływ</LtxtEditFlow>
+    <LtxtFlowNote>Tutaj można dodać lub edytować zapytanie weryfikujące, które można zastosować do dokumentu marketingowego lub pokwitowania</LtxtFlowNote>
+    <LtxtMsg>Wiadomość</LtxtMsg>
+    <LtxtMustStart>Trzeba zacząć z </LtxtMustStart>
+    <LtxtGenNoteQry>Generuj uwagę (zapytanie)</LtxtGenNoteQry>
+    <LtxtMsgText>Tekst wiadomości</LtxtMsgText>
+    <LtxtOptQry>Zapytanie opcjonalne </LtxtOptQry>
+    <LtxtTipLine1>Kiedy porównuje się pole A i B gdzie &lt;b&gt;collation&lt;/b&gt; pola A nie równa się &lt;b&gt;collation&lt;/b&gt;pola B, zaleca się dodać &lt;b&gt;collate database_default&lt;/b&gt; przy porównaniu. </LtxtTipLine1>
+    <LtxtTipLine2>Przykład. &lt;i&gt;select AField, BField from A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>* ta sytuacja ma miejsce tylko wtedy gdy pole jest typu alfanumerycznego</LtxtTipLine3>
+    <LtxtOLKDocKey>Klucz dokumentu OLK</LtxtOLKDocKey>
+    <LtxtAgentCode>Kod sprzedawcy</LtxtAgentCode>
+    <LtxtBranchCode>Kod Oddziału</LtxtBranchCode>
+    <LtxtDocCreation>Stworzenie dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Dodaj pozycję</LtxtAddItem>
+    <LtxtDocConf>Potwierdzenie dokumentu</LtxtDocConf>
+    <LtxtRcpConf>Potwierdzenie pokwitowania</LtxtRcpConf>
+    <LtxtItmConf>Potwierdzenie pozycji</LtxtItmConf>
+    <LtxtClientConf>Potwierdzenie Klienta</LtxtClientConf>
+    <LtxtChangeApplyToClie>Typu "przepływ" nie można zastosować do klienta, dlatego zostanie zastosowany "błąd"</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Typ przepływu nie jest kompatybilny jeśli  "zastosuj do klienta" jest aktywny dlatego zostanie zastosowany "błąd"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Stworzenie</LtxtCreation>
+    <LtxtFlowComExec>Typ przepływu nie jest kompatybilny z wykonaniem  "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>Wykonanie  "{0}" nie jest kompatybilne z rodzajem przepływu</LtxtExecComFlow>
+    <LtxtValFlowNam>Proszę wprowadzić nazwę przepływu</LtxtValFlowNam>
+    <LtxtValSelAgent>Musisz wybrać przynajmniej jednego sprzedawcę </LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Musisz wybrać przynajmniej jednego sprzedawcę lub przyporządkować przepływ do klienta</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Musisz wybrać moment realizacji</LtxtValExecMom>
+    <LtxtValSelDoc>Musisz wybrać przynajmniej jeden dokument</LtxtValSelDoc>
+    <LtxtValFlowQry>Proszę wprowadź zapytanie dotyczące przepływów</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Musisz zweryfikować zapytanie dotyczące przepływów</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Proszę wprowadź zapytanie dotyczące wiadomości</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Musisz zweryfikować zapytanie dotyczące wiadomości</LtxtValMsgQryVal>
+    <LtxtValMsgText>Proszę wprowadź tekst wiadomości</LtxtValMsgText>
+    <LtxtValRestoreFlow>Przywrócenie przepływu spowoduje utratę wszystkich zmian. Czy chcesz kontynuować?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Musisz zweryfikować wiersza zapytania</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Ilość w jednostce</LtxtQtyInUnit>
+    <LtxtActivityConf>Potwierdzenie działania</LtxtActivityConf>
+    <LtxtCreateAsDraft>Stwórz brudnopis/projekt</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Wymaga autoryzacji (tylko zlecenie sprzedaży)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>Typ "potwierdzenie" nie  jest kompatybilny jeśli  "zastosuj do klienta" jest aktywny, dlatego zostanie zastosowany "błąd"</LtxtFlowTypeCAlr2>
+    <LtxtAction>Działanie</LtxtAction>
+    <LtxtConvQuoteOrder>Zamień wycenę na zlecenie sprzedaży</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zamknij przedmiot</LtxtCloseObj>
+    <LtxtCancelObj>Skasuj przedmiot</LtxtCancelObj>
+    <LtxtDocEntry>Klucz</LtxtDocEntry>
+    <LtxtObjCode>Kod przedmiotu</LtxtObjCode>
+    <LtxtRemObj>Usuń przedmiot</LtxtRemObj>
+    <LtxtAprovOrder>Zaakceptuj zlecenie sprzedaży</LtxtAprovOrder>
+    <LtxtLockedFlow>Ten przepływ jest zamknięty ponieważ istnieją procesy związane z nim</LtxtLockedFlow>
+    <LtxtConvOrderInv>Zmień zamówienie sprzedaży na fakturę</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtTips>Tipy</DtxtTips>
+    <DtxtLines>Riadky</DtxtLines>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtReceipts>Potvrdenky o zaplatení</DtxtReceipts>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtAdvanced>Rozšírené</DtxtAdvanced>
+    <DtxtReservada>Rezervované</DtxtReservada>
+    <DtxtARDownPayReq>Predaj - požiadavka na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Predaj - zálohová faktúra</DtxtARDownPayInv>
+    <DtxtPurOrder>Objednávka</DtxtPurOrder>
+    <DtxtPurQuote>Požiadavka na ponuku</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>Tok dokumentu</LttlDocFlow>
+    <LttlDocFlowNote>Tu sa dajú vytvoriť overovacie dotazy na to, aby sa vykonalo overenie pri pridávaní marketingového dokumentu alebo potvrdenia o zaplatení.</LttlDocFlowNote>
+    <LtxtTitle>Názov</LtxtTitle>
+    <LtxtExecution>Vykonanie</LtxtExecution>
+    <LtxtConfDelFlow>Ste si istí, že chcete vymazať tento tok?</LtxtConfDelFlow>
+    <LtxtAddFlow>Pridať tok</LtxtAddFlow>
+    <LtxtEditFlow>Editovať tok</LtxtEditFlow>
+    <LtxtFlowNote>Tu sa dá pridať a editovať overovací dotaz, ktorý bude aplikovaný na marketingový dokument alebo potvrdenie o zaplatení.</LtxtFlowNote>
+    <LtxtMsg>Správa</LtxtMsg>
+    <LtxtMustStart>Musí začínať s</LtxtMustStart>
+    <LtxtGenNoteQry>Vygenerovať poznámku (Dotaz)</LtxtGenNoteQry>
+    <LtxtMsgText>Text správy</LtxtMsgText>
+    <LtxtOptQry>Voliteľný dotaz</LtxtOptQry>
+    <LtxtTipLine1>Ked sa uskutoční porovnanie medzi políčkom A a políčkom B, kde &lt;b&gt;collation&lt;/b&gt; políčka A sa nerovná &lt;b&gt;collation&lt;/b&gt; políčka B, odporúča sa pridať &lt;b&gt;collate database_default&lt;/b&gt; vedľa porovnania.</LtxtTipLine1>
+    <LtxtTipLine2>Ex. &lt;i&gt;vybrat AField, BField z A inner join B on B.ID = A.ID &lt;b&gt;collate database_default&lt;/b&gt;&lt;/i&gt;.</LtxtTipLine2>
+    <LtxtTipLine3>*Toto nastane len vtedy, ked je typ políčka číselno-abecedný.</LtxtTipLine3>
+    <LtxtOLKDocKey>Kľúč OLK dokumentu</LtxtOLKDocKey>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtBranchCode>Kód pobočky</LtxtBranchCode>
+    <LtxtDocCreation>Vytvorenie dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Pridať položku</LtxtAddItem>
+    <LtxtDocConf>Potvrdenie objektu</LtxtDocConf>
+    <LtxtRcpConf>Potvrdenie účtenky</LtxtRcpConf>
+    <LtxtItmConf>Potvrdenie položky</LtxtItmConf>
+    <LtxtClientConf>Potvrdenie klienta</LtxtClientConf>
+    <LtxtChangeApplyToClie>Typ "toku" sa nedá aplikovať na tohto klienta, z toho dôvodu bude použité "Chyba".</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>Tok typu nie je kompatibilný, ked je aktívne "aplikovať na klienta", z toho dôvodu bude pre klienta použité "Chyba"</LtxtFlowTypeCAlr>
+    <LtxtCreation>Vytvorenie</LtxtCreation>
+    <LtxtFlowComExec>Tok typu nie je kompatibilný s vykonaním "{0}"</LtxtFlowComExec>
+    <LtxtExecComFlow>Vykonanie "{0}" nie je kompatibilné s typom toku</LtxtExecComFlow>
+    <LtxtValFlowNam>Prosím, zadajte názov toku</LtxtValFlowNam>
+    <LtxtValSelAgent>Musíte vybrať aspoň jedného agenta</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>Musíte vybrať aspoň jedného agenta alebo aplikovať na klientov</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>Musíte vybrať moment realizácie</LtxtValExecMom>
+    <LtxtValSelDoc>Musíte vybrať aspoň jeden dokument</LtxtValSelDoc>
+    <LtxtValFlowQry>Prosím, zadajte dotaz toku</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>Musíte overiť dotaz toku</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>Prosím, zadajte dotaz správy</LtxtValMsgQry>
+    <LtxtValMsgQryVal>Musíte overiť dota správy</LtxtValMsgQryVal>
+    <LtxtValMsgText>Prosím, zadajte text správy</LtxtValMsgText>
+    <LtxtValRestoreFlow>Ak obnovíte tok, stratíte všetky vykonané zmeny. Prajete si pokračovať?</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>Musíte overiť dotaz riadkov</LtxtValLineQryVal>
+    <LtxtQtyInUnit>Množstvo v jednotke</LtxtQtyInUnit>
+    <LtxtActivityConf>Potvrdenie aktivity</LtxtActivityConf>
+    <LtxtCreateAsDraft>Vytvoriť ako Náčrt</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>Vyžaduje autorizáciu (Len zákazky odberateľov)</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>Potvrdenie typu nie je kompatibilné, ked je aktívne "aplikovať na klienta", z toho dôvodu bude pre klienta použité "Chyba"</LtxtFlowTypeCAlr2>
+    <LtxtAction>Ukon</LtxtAction>
+    <LtxtConvQuoteOrder>Konvertovať cenovú ponuku na predajnú objednávku</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zatvoriť objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušiť objekt</LtxtCancelObj>
+    <LtxtDocEntry>Kľúč</LtxtDocEntry>
+    <LtxtObjCode>Kód objektu</LtxtObjCode>
+    <LtxtRemObj>Zmazať objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schváliť predajnú objednávku</LtxtAprovOrder>
+    <LtxtLockedFlow>Tento tok je uzamknutý, lebo existujú procesy, ktoré s ním súvisia</LtxtLockedFlow>
+    <LtxtConvOrderInv>Konvertovať predajnú objednávku na A/R Faktúru</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtWhsCode>&lt;--&gt;</DtxtWhsCode>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtRestore>&lt;--&gt;</DtxtRestore>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtError>&lt;--&gt;</DtxtError>
+    <DtxtFlow>&lt;--&gt;</DtxtFlow>
+    <DtxtDocs>&lt;--&gt;</DtxtDocs>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtTips>&lt;--&gt;</DtxtTips>
+    <DtxtLines>&lt;--&gt;</DtxtLines>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtReceipts>&lt;--&gt;</DtxtReceipts>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtAdvanced>&lt;--&gt;</DtxtAdvanced>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>&lt;--&gt;</DtxtARDownPayReq>
+    <DtxtARDownPayInv>&lt;--&gt;</DtxtARDownPayInv>
+    <DtxtPurOrder>&lt;--&gt;</DtxtPurOrder>
+    <DtxtPurQuote>&lt;--&gt;</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlDocFlow>&lt;--&gt;</LttlDocFlow>
+    <LttlDocFlowNote>&lt;--&gt;</LttlDocFlowNote>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtExecution>&lt;--&gt;</LtxtExecution>
+    <LtxtConfDelFlow>&lt;--&gt;</LtxtConfDelFlow>
+    <LtxtAddFlow>&lt;--&gt;</LtxtAddFlow>
+    <LtxtEditFlow>&lt;--&gt;</LtxtEditFlow>
+    <LtxtFlowNote>&lt;--&gt;</LtxtFlowNote>
+    <LtxtMsg>&lt;--&gt;</LtxtMsg>
+    <LtxtMustStart>&lt;--&gt;</LtxtMustStart>
+    <LtxtGenNoteQry>&lt;--&gt;</LtxtGenNoteQry>
+    <LtxtMsgText>&lt;--&gt;</LtxtMsgText>
+    <LtxtOptQry>&lt;--&gt;</LtxtOptQry>
+    <LtxtTipLine1>&lt;--&gt;</LtxtTipLine1>
+    <LtxtTipLine2>&lt;--&gt;</LtxtTipLine2>
+    <LtxtTipLine3>&lt;--&gt;</LtxtTipLine3>
+    <LtxtOLKDocKey>&lt;--&gt;</LtxtOLKDocKey>
+    <LtxtAgentCode>&lt;--&gt;</LtxtAgentCode>
+    <LtxtBranchCode>&lt;--&gt;</LtxtBranchCode>
+    <LtxtDocCreation>&lt;--&gt;</LtxtDocCreation>
+    <LtxtAddItem>&lt;--&gt;</LtxtAddItem>
+    <LtxtDocConf>&lt;--&gt;</LtxtDocConf>
+    <LtxtRcpConf>&lt;--&gt;</LtxtRcpConf>
+    <LtxtItmConf>&lt;--&gt;</LtxtItmConf>
+    <LtxtClientConf>&lt;--&gt;</LtxtClientConf>
+    <LtxtChangeApplyToClie>&lt;--&gt;</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>&lt;--&gt;</LtxtFlowTypeCAlr>
+    <LtxtCreation>&lt;--&gt;</LtxtCreation>
+    <LtxtFlowComExec>&lt;--&gt;</LtxtFlowComExec>
+    <LtxtExecComFlow>&lt;--&gt;</LtxtExecComFlow>
+    <LtxtValFlowNam>&lt;--&gt;</LtxtValFlowNam>
+    <LtxtValSelAgent>&lt;--&gt;</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>&lt;--&gt;</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>&lt;--&gt;</LtxtValExecMom>
+    <LtxtValSelDoc>&lt;--&gt;</LtxtValSelDoc>
+    <LtxtValFlowQry>&lt;--&gt;</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>&lt;--&gt;</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>&lt;--&gt;</LtxtValMsgQry>
+    <LtxtValMsgQryVal>&lt;--&gt;</LtxtValMsgQryVal>
+    <LtxtValMsgText>&lt;--&gt;</LtxtValMsgText>
+    <LtxtValRestoreFlow>&lt;--&gt;</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>&lt;--&gt;</LtxtValLineQryVal>
+    <LtxtQtyInUnit>&lt;--&gt;</LtxtQtyInUnit>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtCreateAsDraft>&lt;--&gt;</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>&lt;--&gt;</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>&lt;--&gt;</LtxtFlowTypeCAlr2>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtDocEntry>&lt;--&gt;</LtxtDocEntry>
+    <LtxtObjCode>&lt;--&gt;</LtxtObjCode>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtLockedFlow>&lt;--&gt;</LtxtLockedFlow>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtAutGrp>&lt;--&gt;</LtxtAutGrp>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtAlertFilter>&lt;--&gt;</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>&lt;--&gt;</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>&lt;--&gt;</LtxtAprovDraft>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtWhsCode>DtxtWhsCode</DtxtWhsCode>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtFlow>DtxtFlow</DtxtFlow>
+    <DtxtDocs>DtxtDocs</DtxtDocs>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtTips>DtxtTips</DtxtTips>
+    <DtxtLines>DtxtLines</DtxtLines>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtReceipts>DtxtReceipts</DtxtReceipts>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtAdvanced>DtxtAdvanced</DtxtAdvanced>
+    <DtxtReservada>DtxtReservada</DtxtReservada>
+    <DtxtARDownPayReq>DtxtARDownPayReq</DtxtARDownPayReq>
+    <DtxtARDownPayInv>DtxtARDownPayInv</DtxtARDownPayInv>
+    <DtxtPurOrder>DtxtPurOrder</DtxtPurOrder>
+    <DtxtPurQuote>DtxtPurQuote</DtxtPurQuote>
+    <DtxtOp>DtxtOp</DtxtOp>
+    <LttlDocFlow>LttlDocFlow</LttlDocFlow>
+    <LttlDocFlowNote>LttlDocFlowNote</LttlDocFlowNote>
+    <LtxtTitle>LtxtTitle</LtxtTitle>
+    <LtxtExecution>LtxtExecution</LtxtExecution>
+    <LtxtConfDelFlow>LtxtConfDelFlow</LtxtConfDelFlow>
+    <LtxtAddFlow>LtxtAddFlow</LtxtAddFlow>
+    <LtxtEditFlow>LtxtEditFlow</LtxtEditFlow>
+    <LtxtFlowNote>LtxtFlowNote</LtxtFlowNote>
+    <LtxtMsg>LtxtMsg</LtxtMsg>
+    <LtxtMustStart>LtxtMustStart</LtxtMustStart>
+    <LtxtGenNoteQry>LtxtGenNoteQry</LtxtGenNoteQry>
+    <LtxtMsgText>LtxtMsgText</LtxtMsgText>
+    <LtxtOptQry>LtxtOptQry</LtxtOptQry>
+    <LtxtTipLine1>LtxtTipLine1</LtxtTipLine1>
+    <LtxtTipLine2>LtxtTipLine2</LtxtTipLine2>
+    <LtxtTipLine3>LtxtTipLine3</LtxtTipLine3>
+    <LtxtOLKDocKey>LtxtOLKDocKey</LtxtOLKDocKey>
+    <LtxtAgentCode>LtxtAgentCode</LtxtAgentCode>
+    <LtxtBranchCode>LtxtBranchCode</LtxtBranchCode>
+    <LtxtDocCreation>LtxtDocCreation</LtxtDocCreation>
+    <LtxtAddItem>LtxtAddItem</LtxtAddItem>
+    <LtxtDocConf>LtxtDocConf</LtxtDocConf>
+    <LtxtRcpConf>LtxtRcpConf</LtxtRcpConf>
+    <LtxtItmConf>LtxtItmConf</LtxtItmConf>
+    <LtxtClientConf>LtxtClientConf</LtxtClientConf>
+    <LtxtChangeApplyToClie>LtxtChangeApplyToClie</LtxtChangeApplyToClie>
+    <LtxtFlowTypeCAlr>LtxtFlowTypeCAlr</LtxtFlowTypeCAlr>
+    <LtxtCreation>LtxtCreation</LtxtCreation>
+    <LtxtFlowComExec>LtxtFlowComExec</LtxtFlowComExec>
+    <LtxtExecComFlow>LtxtExecComFlow</LtxtExecComFlow>
+    <LtxtValFlowNam>LtxtValFlowNam</LtxtValFlowNam>
+    <LtxtValSelAgent>LtxtValSelAgent</LtxtValSelAgent>
+    <LtxtValSelAgentOrClie>LtxtValSelAgentOrClie</LtxtValSelAgentOrClie>
+    <LtxtValExecMom>LtxtValExecMom</LtxtValExecMom>
+    <LtxtValSelDoc>LtxtValSelDoc</LtxtValSelDoc>
+    <LtxtValFlowQry>LtxtValFlowQry</LtxtValFlowQry>
+    <LtxtVarFlowQryVal>LtxtVarFlowQryVal</LtxtVarFlowQryVal>
+    <LtxtValMsgQry>LtxtValMsgQry</LtxtValMsgQry>
+    <LtxtValMsgQryVal>LtxtValMsgQryVal</LtxtValMsgQryVal>
+    <LtxtValMsgText>LtxtValMsgText</LtxtValMsgText>
+    <LtxtValRestoreFlow>LtxtValRestoreFlow</LtxtValRestoreFlow>
+    <LtxtValLineQryVal>LtxtValLineQryVal</LtxtValLineQryVal>
+    <LtxtQtyInUnit>LtxtQtyInUnit</LtxtQtyInUnit>
+    <LtxtActivityConf>LtxtActivityConf</LtxtActivityConf>
+    <LtxtCreateAsDraft>LtxtCreateAsDraft</LtxtCreateAsDraft>
+    <LtxtReqQutOrdr>LtxtReqQutOrdr</LtxtReqQutOrdr>
+    <LtxtFlowTypeCAlr2>LtxtFlowTypeCAlr2</LtxtFlowTypeCAlr2>
+    <LtxtAction>LtxtAction</LtxtAction>
+    <LtxtConvQuoteOrder>LtxtConvQuoteOrder</LtxtConvQuoteOrder>
+    <LtxtCloseObj>LtxtCloseObj</LtxtCloseObj>
+    <LtxtCancelObj>LtxtCancelObj</LtxtCancelObj>
+    <LtxtDocEntry>LtxtDocEntry</LtxtDocEntry>
+    <LtxtObjCode>LtxtObjCode</LtxtObjCode>
+    <LtxtRemObj>LtxtRemObj</LtxtRemObj>
+    <LtxtAprovOrder>LtxtAprovOrder</LtxtAprovOrder>
+    <LtxtLockedFlow>LtxtLockedFlow</LtxtLockedFlow>
+    <LtxtConvOrderInv>LtxtConvOrderInv</LtxtConvOrderInv>
+    <LtxtSOConf>LtxtSOConf</LtxtSOConf>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtAutGrp>LtxtAutGrp</LtxtAutGrp>
+    <LtxtAprovPurOrdr>LtxtAprovPurOrdr</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>LtxtConvOrderDel</LtxtConvOrderDel>
+    <LtxtAsignedSLP>LtxtAsignedSLP</LtxtAsignedSLP>
+    <LtxtAlertFilter>LtxtAlertFilter</LtxtAlertFilter>
+    <LtxtVarAutGrpQry>LtxtVarAutGrpQry</LtxtVarAutGrpQry>
+    <LtxtAprovDraft>LtxtAprovDraft</LtxtAprovDraft>
+  </language>
+</languages>

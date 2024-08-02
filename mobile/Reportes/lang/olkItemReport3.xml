@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtBestPrice>Best Price</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Best prices for the current client</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtBestPrice>Mejor Precio</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Mejores precios para el cliente actual</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtBestPrice>מחיר הכי טוב</LtxtBestPrice>
+    <LtxtBestPriceCurClien>מחיר הכי טוב ללקוח הנוכחי</LtxtBestPriceCurClien>
+    <LtxtReference>מק"ט</LtxtReference>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtBestPrice>Best Price</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Best prices for the current client</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtBestPrice>Melhor Preço</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Melhores preços para o cliente atual</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <LtxtBestPriceCurClien>&lt;--&gt;</LtxtBestPriceCurClien>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <LtxtBestPriceCurClien>&lt;--&gt;</LtxtBestPriceCurClien>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <LtxtBestPriceCurClien>&lt;--&gt;</LtxtBestPriceCurClien>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtBestPrice>Nejlepší cena</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Nejlepší cena pro aktuálního klienta</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtBestPrice>Najlepsza cena</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Najlepsza cena dla obecnego klienta</LtxtBestPriceCurClien>
+    <LtxtReference>Ref</LtxtReference>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtBestPrice>Najlepšia cena</LtxtBestPrice>
+    <LtxtBestPriceCurClien>Najlepšie ceny pre súčasného klienta</LtxtBestPriceCurClien>
+    <LtxtReference>Ref.</LtxtReference>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtBestPrice>&lt;--&gt;</LtxtBestPrice>
+    <LtxtBestPriceCurClien>&lt;--&gt;</LtxtBestPriceCurClien>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtBestPrice>LtxtBestPrice</LtxtBestPrice>
+    <LtxtBestPriceCurClien>LtxtBestPriceCurClien</LtxtBestPriceCurClien>
+    <LtxtReference>LtxtReference</LtxtReference>
+  </language>
+</languages>

@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtRegular>Regular</DtxtRegular>
+    <LttlSmallCat>Layout Catalogs</LttlSmallCat>
+    <LttlSmallCatNote>In this section it is possible to define the different design catalogs you wish to enable in the content sections.</LttlSmallCatNote>
+    <LtxtDirection>Direction</LtxtDirection>
+    <LtxtSubtitle>Subtitle</LtxtSubtitle>
+    <LtxtVertical>Vertical</LtxtVertical>
+    <LtxtHorizontal>Horizontal</LtxtHorizontal>
+    <LtxtConfDelSmallCat>Are you sure you want to remove the catalog {0}?</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>Add Catalog</LttlAddSmallCat>
+    <LttlEditSmallCat>Edit Catalog</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>In this section it is possible to define the details of the catalog design</LttlAddEditSmallCatNo>
+    <LtxtValName>You can't have a catalog without a name</LtxtValName>
+    <LtxtValQuery>Please enter the query</LtxtValQuery>
+    <LtxtValQueryVal>You must verify the query before you can save the changes</LtxtValQueryVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTop>Tope</DtxtTop>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtRegular>Regular</DtxtRegular>
+    <LttlSmallCat>Catálogos de Diseño</LttlSmallCat>
+    <LttlSmallCatNote>En esta sección podrá definir los diferentes catálogos de diseño  que desee habilitar en las secciones de contenido.</LttlSmallCatNote>
+    <LtxtDirection>Dirección</LtxtDirection>
+    <LtxtSubtitle>Subtitulo</LtxtSubtitle>
+    <LtxtVertical>Vertical</LtxtVertical>
+    <LtxtHorizontal>Horizontal</LtxtHorizontal>
+    <LtxtConfDelSmallCat>¿Está seguro que sedea eliminar el catalogó {0}?</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>Agregar Catalogó</LttlAddSmallCat>
+    <LttlEditSmallCat>Editar Catalogó</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>En esta sección podrá definir los detalles del catálogo de diseño</LttlAddEditSmallCatNo>
+    <LtxtValName>No se puede agregar un catalogó sin nombre</LtxtValName>
+    <LtxtValQuery>Debe introducir la consulta</LtxtValQuery>
+    <LtxtValQueryVal>Debe verificar la consulta antes de agregar el campo</LtxtValQueryVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtType>סוג</DtxtType>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTop>למעלה</DtxtTop>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtRegular>רגיל</DtxtRegular>
+    <LttlSmallCat>קטלוגי מערך</LttlSmallCat>
+    <LttlSmallCatNote>בסעיף זה ניתן להגדיר את קטלוגי העיצוב השונים שברצונך להפעיל בסעיפי התוכן.</LttlSmallCatNote>
+    <LtxtDirection>כוון</LtxtDirection>
+    <LtxtSubtitle>כתובית</LtxtSubtitle>
+    <LtxtVertical>אנכי</LtxtVertical>
+    <LtxtHorizontal>מאוזן</LtxtHorizontal>
+    <LtxtConfDelSmallCat>האם אתה בטוח שברצונך להסיר את הקטלוג {0}?</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>הוסף קטלוג</LttlAddSmallCat>
+    <LttlEditSmallCat>עריכת קטלוג</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>בחלק זה ניתן להגדיר את הפרטים של עיצוב הקטלוג</LttlAddEditSmallCatNo>
+    <LtxtValName>קטלוג חייב להכיל שם</LtxtValName>
+    <LtxtValQuery>יש למלא את השאילתא</LtxtValQuery>
+    <LtxtValQueryVal>צריך לאשר את השאילתא לפני הוספת השדה</LtxtValQueryVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtRegular>Regular</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Please enter the query</LtxtValQuery>
+    <LtxtValQueryVal>You must verify the query before you can save the changes</LtxtValQueryVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTop>No máximo</DtxtTop>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtRegular>Regular</DtxtRegular>
+    <LttlSmallCat>Catálogos de desenho</LttlSmallCat>
+    <LttlSmallCatNote>Nesta seção você poderá definir os diferentes catálogos de desenho que deseje habilitar nas seções de conteúdo</LttlSmallCatNote>
+    <LtxtDirection>Endereço</LtxtDirection>
+    <LtxtSubtitle>Subtítulo</LtxtSubtitle>
+    <LtxtVertical>Vertical</LtxtVertical>
+    <LtxtHorizontal>Horizontal</LtxtHorizontal>
+    <LtxtConfDelSmallCat>Você tem certeza que deseja excluir o catálogo {0}?</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>Adicionar catálogo</LttlAddSmallCat>
+    <LttlEditSmallCat>Editar Catálogo</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>Nesta seção você poderá definir os detalhes do catálogo de desenho</LttlAddEditSmallCatNo>
+    <LtxtValName>Não é possível adicionar um catálogo sem nome</LtxtValName>
+    <LtxtValQuery>Deve inserir a consulta</LtxtValQuery>
+    <LtxtValQueryVal>Deve verificar a consulta antes de adicionar o campo</LtxtValQueryVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTop>Arrêt</DtxtTop>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Devez-vous insérer la consultation</LtxtValQuery>
+    <LtxtValQueryVal>Devez-vous vérifier la consultation avant d'ajouter le domaine</LtxtValQueryVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtType>Art</DtxtType>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTop>Oben</DtxtTop>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtRegular>Normal</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Bitte geben Sie die Anfrage an</LtxtValQuery>
+    <LtxtValQueryVal>Sie müssen die Anfrage zuerst bestätigen um alle Änderungen zu speichern</LtxtValQueryVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtType>Вид</DtxtType>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTop>Сверху</DtxtTop>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Нужно заполнить запрос</LtxtValQuery>
+    <LtxtValQueryVal>Вы должны подтвердить запрос прежде чем вы сможете сохранить изменения</LtxtValQueryVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTop>Nahoru</DtxtTop>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Vložte prosím dotaz</LtxtValQuery>
+    <LtxtValQueryVal>Před uložením změn musíte ověřit dotaz</LtxtValQueryVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTop>Do góry</DtxtTop>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtRegular>Zwykły</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Proszę wpisz zapytanie</LtxtValQuery>
+    <LtxtValQueryVal>Musisz zweryfikować zapytanie zanim będziesz mógł zapamiętać zmiany</LtxtValQueryVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTop>Vrchol</DtxtTop>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtRegular>Pravidelný</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>Prosím zadajte dotaz</LtxtValQuery>
+    <LtxtValQueryVal>Musíte overiť dotaz predtým ako uložíte zmeny</LtxtValQueryVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtTop>&lt;--&gt;</DtxtTop>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <LttlSmallCat>&lt;--&gt;</LttlSmallCat>
+    <LttlSmallCatNote>&lt;--&gt;</LttlSmallCatNote>
+    <LtxtDirection>&lt;--&gt;</LtxtDirection>
+    <LtxtSubtitle>&lt;--&gt;</LtxtSubtitle>
+    <LtxtVertical>&lt;--&gt;</LtxtVertical>
+    <LtxtHorizontal>&lt;--&gt;</LtxtHorizontal>
+    <LtxtConfDelSmallCat>&lt;--&gt;</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>&lt;--&gt;</LttlAddSmallCat>
+    <LttlEditSmallCat>&lt;--&gt;</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>&lt;--&gt;</LttlAddEditSmallCatNo>
+    <LtxtValName>&lt;--&gt;</LtxtValName>
+    <LtxtValQuery>&lt;--&gt;</LtxtValQuery>
+    <LtxtValQueryVal>&lt;--&gt;</LtxtValQueryVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTop>DtxtTop</DtxtTop>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtRegular>DtxtRegular</DtxtRegular>
+    <LttlSmallCat>LttlSmallCat</LttlSmallCat>
+    <LttlSmallCatNote>LttlSmallCatNote</LttlSmallCatNote>
+    <LtxtDirection>LtxtDirection</LtxtDirection>
+    <LtxtSubtitle>LtxtSubtitle</LtxtSubtitle>
+    <LtxtVertical>LtxtVertical</LtxtVertical>
+    <LtxtHorizontal>LtxtHorizontal</LtxtHorizontal>
+    <LtxtConfDelSmallCat>LtxtConfDelSmallCat</LtxtConfDelSmallCat>
+    <LttlAddSmallCat>LttlAddSmallCat</LttlAddSmallCat>
+    <LttlEditSmallCat>LttlEditSmallCat</LttlEditSmallCat>
+    <LttlAddEditSmallCatNo>LttlAddEditSmallCatNo</LttlAddEditSmallCatNo>
+    <LtxtValName>LtxtValName</LtxtValName>
+    <LtxtValQuery>LtxtValQuery</LtxtValQuery>
+    <LtxtValQueryVal>LtxtValQueryVal</LtxtValQueryVal>
+  </language>
+</languages>

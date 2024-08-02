@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlAddRep>Add Report</LttlAddRep>
+    <LttlAddRepNote>Here new reports may be created, assigned to groups, and given a refresh time.</LttlAddRepNote>
+    <LtxtTime>Refresh Time</LtxtTime>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+    <LtxtValRepQry>Please enter the report query</LtxtValRepQry>
+    <LtxtValRepQryVal>The query must by verified before you can add the report</LtxtValRepQryVal>
+    <LtxtCCodeDesc>User/Client Code</LtxtCCodeDesc>
+    <LtxtACodeDesc>User/Agent Code</LtxtACodeDesc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LttlAddRep>Agregar Reporte</LttlAddRep>
+    <LttlAddRepNote>En esta sección podrá crear un nuevo reporte asignándole el grupo al que pertenece y el tiempo en que se actualizará.</LttlAddRepNote>
+    <LtxtTime>Tiempo de Refresco</LtxtTime>
+    <LtxtValRepNam>Debe introducir el nombre del reporte</LtxtValRepNam>
+    <LtxtValRepQry>Debe introducir la consulta del reporte</LtxtValRepQry>
+    <LtxtValRepQryVal>Debe verificar la consulta antes de agregar el reporte</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Código de usuario/cliente</LtxtCCodeDesc>
+    <LtxtACodeDesc>Usuario/Código de Agente</LtxtACodeDesc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtHour>שעה</DtxtHour>
+    <DtxtMinute>דקה</DtxtMinute>
+    <DtxtMinutes>דקות</DtxtMinutes>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LttlAddRep>הוסף דוח</LttlAddRep>
+    <LttlAddRepNote>בעמוד זה תוכל לייצר דוחות חדשים לקשרם לקבוצות ולקבוע זמן עידכון אוטומטי.</LttlAddRepNote>
+    <LtxtTime>זמן ריענון</LtxtTime>
+    <LtxtValRepNam>חסר שם לדוח!</LtxtValRepNam>
+    <LtxtValRepQry>חסר שאילתא לדוח!</LtxtValRepQry>
+    <LtxtValRepQryVal>צריך לאשר את השאילתא לפני ההוספה!</LtxtValRepQryVal>
+    <LtxtCCodeDesc>מקט לקוח\משתמש</LtxtCCodeDesc>
+    <LtxtACodeDesc>משתמש\קוד סוכן</LtxtACodeDesc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlAddRep>Add Report</LttlAddRep>
+    <LttlAddRepNote>Here new reports may be created, assigned to groups, and given a refresh time.</LttlAddRepNote>
+    <LtxtTime>Refresh Time</LtxtTime>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+    <LtxtValRepQry>Please enter the report query</LtxtValRepQry>
+    <LtxtValRepQryVal>The query must by verified before you can add the report</LtxtValRepQryVal>
+    <LtxtCCodeDesc>User/Client Code</LtxtCCodeDesc>
+    <LtxtACodeDesc>User/Agent Code</LtxtACodeDesc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LttlAddRep>Adicionar Relatório</LttlAddRep>
+    <LttlAddRepNote>Nesta seção, novos relatórios podem ser criados, atribuídos a grupos, e pode ser dado um tempo de atualização.</LttlAddRepNote>
+    <LtxtTime>Tempo de Atualização</LtxtTime>
+    <LtxtValRepNam>Por favor, insira o nome do relatório.</LtxtValRepNam>
+    <LtxtValRepQry>Deve inserir a consulta do relatório</LtxtValRepQry>
+    <LtxtValRepQryVal>A consulta deve ser verificada antes que você adicione o relatório.</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Usuário/Código do Cliente</LtxtCCodeDesc>
+    <LtxtACodeDesc>Usuário/Código do Vendedor</LtxtACodeDesc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtHour>Heure</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlAddRep>Ajouter le report</LttlAddRep>
+    <LttlAddRepNote>Dans cette section pourrez-vous créer un nouveau report en attribuant le groupe duquel appartien et le temps auquel il se mettra à jour. </LttlAddRepNote>
+    <LtxtTime>Temps du raffraîchissement</LtxtTime>
+    <LtxtValRepNam>Devez-vous insérer le nom du report</LtxtValRepNam>
+    <LtxtValRepQry>Devez-vous insérer la consultation du report</LtxtValRepQry>
+    <LtxtValRepQryVal>Devez-vous vérifier la consultation avant d'ajouter le report</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Code d'utilisateur / client (e)</LtxtCCodeDesc>
+    <LtxtACodeDesc>Utilisateur / Code d'agent (e)</LtxtACodeDesc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtHour>Stunde</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minuten</DtxtMinutes>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LttlAddRep>Bericht Hinzufügen</LttlAddRep>
+    <LttlAddRepNote>In diesem Teil können Sie einen neuen Bericht erstellen, ihn einer Gruppe zuweisen, und Zeitpunkt der Aktualisierung bestimmen</LttlAddRepNote>
+    <LtxtTime>Aktualisierungszeit</LtxtTime>
+    <LtxtValRepNam>Bitte geben Sie einen Berichtnamen an</LtxtValRepNam>
+    <LtxtValRepQry>Bitte geben Sie die Berichtsanfrage an</LtxtValRepQry>
+    <LtxtValRepQryVal>Die Anfrage muss zuerst bestätigt werden, damit der Bericht  hinzugefügt werden kann</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Benutzer/Kundenkennzeichen</LtxtCCodeDesc>
+    <LtxtACodeDesc>Benutzer/Agentenkennzeichen</LtxtACodeDesc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtHour>Время</DtxtHour>
+    <DtxtMinute>Минута</DtxtMinute>
+    <DtxtMinutes>Минуты</DtxtMinutes>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LttlAddRep>Добавить отчет</LttlAddRep>
+    <LttlAddRepNote>На этой странице Вы можете создавать новые отчеты, связывающие до группы и установить время автоматического обновления.</LttlAddRepNote>
+    <LtxtTime>Время обновления</LtxtTime>
+    <LtxtValRepNam>Не хватает имени отчета</LtxtValRepNam>
+    <LtxtValRepQry>Не хватает отчета о запросах</LtxtValRepQry>
+    <LtxtValRepQryVal>Для подтверждения запроса перед добавлением!</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Штрих код клиента\ пользователя</LtxtCCodeDesc>
+    <LtxtACodeDesc>Код пользователя / агента</LtxtACodeDesc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtHour>Hodin</DtxtHour>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LttlAddRep>Přidat report</LttlAddRep>
+    <LttlAddRepNote>V této části bude možné vytvořit nový report, přiřadit jej příslušné skupině a nastavit dobu opakovaného načtení</LttlAddRepNote>
+    <LtxtTime>Doba opakovaného načtení</LtxtTime>
+    <LtxtValRepNam>Zadejte prosím název reportu</LtxtValRepNam>
+    <LtxtValRepQry>Zadejte prosím dotaz pro report</LtxtValRepQry>
+    <LtxtValRepQryVal>Před přidáním do reportu musí být dotaz ověřen</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Kód uživatele/klienta</LtxtCCodeDesc>
+    <LtxtACodeDesc>Kód uživatele/agenta</LtxtACodeDesc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtHour>Godzina</DtxtHour>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LttlAddRep>Dodaj raport</LttlAddRep>
+    <LttlAddRepNote>Tutaj nowe raporty mogą być tworzone, przypisywane do grup oraz może być ustalany czas ich automatycznej aktualizacji.</LttlAddRepNote>
+    <LtxtTime>Odśwież czas</LtxtTime>
+    <LtxtValRepNam>Proszę wprowadź nazwę raportu</LtxtValRepNam>
+    <LtxtValRepQry>Proszę wprowadź zapytanie dotyczące raportu</LtxtValRepQry>
+    <LtxtValRepQryVal>Zapytanie musi być zweryfikowane zanim dodasz raport</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Kod Użytkownika/ Klienta</LtxtCCodeDesc>
+    <LtxtACodeDesc>Kod Użytkownika/ Sprzedawcy</LtxtACodeDesc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtHour>Hodina</DtxtHour>
+    <DtxtMinute>Minúta</DtxtMinute>
+    <DtxtMinutes>Minúty</DtxtMinutes>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LttlAddRep>Pridať správu</LttlAddRep>
+    <LttlAddRepNote>Tu sa dajú vytvoriť nové výkazy, pridelené skupinám a s prideleným časom na obnovenie.</LttlAddRepNote>
+    <LtxtTime>Čas na obnovenie</LtxtTime>
+    <LtxtValRepNam>Prosím zadajte názov správy</LtxtValRepNam>
+    <LtxtValRepQry>Prosím zadajte dotaz k správe</LtxtValRepQry>
+    <LtxtValRepQryVal>Dotaz musí byť overený predtým ako môžete pridať záznam</LtxtValRepQryVal>
+    <LtxtCCodeDesc>Kód užívateľa/klienta</LtxtCCodeDesc>
+    <LtxtACodeDesc>Kód užívateľa/agenta</LtxtACodeDesc>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtHour>&lt;--&gt;</DtxtHour>
+    <DtxtMinute>&lt;--&gt;</DtxtMinute>
+    <DtxtMinutes>&lt;--&gt;</DtxtMinutes>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlAddRep>&lt;--&gt;</LttlAddRep>
+    <LttlAddRepNote>&lt;--&gt;</LttlAddRepNote>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtValRepNam>&lt;--&gt;</LtxtValRepNam>
+    <LtxtValRepQry>&lt;--&gt;</LtxtValRepQry>
+    <LtxtValRepQryVal>&lt;--&gt;</LtxtValRepQryVal>
+    <LtxtCCodeDesc>&lt;--&gt;</LtxtCCodeDesc>
+    <LtxtACodeDesc>&lt;--&gt;</LtxtACodeDesc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtHour>DtxtHour</DtxtHour>
+    <DtxtMinute>DtxtMinute</DtxtMinute>
+    <DtxtMinutes>DtxtMinutes</DtxtMinutes>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LttlAddRep>LttlAddRep</LttlAddRep>
+    <LttlAddRepNote>LttlAddRepNote</LttlAddRepNote>
+    <LtxtTime>LtxtTime</LtxtTime>
+    <LtxtValRepNam>LtxtValRepNam</LtxtValRepNam>
+    <LtxtValRepQry>LtxtValRepQry</LtxtValRepQry>
+    <LtxtValRepQryVal>LtxtValRepQryVal</LtxtValRepQryVal>
+    <LtxtCCodeDesc>LtxtCCodeDesc</LtxtCCodeDesc>
+    <LtxtACodeDesc>LtxtACodeDesc</LtxtACodeDesc>
+  </language>
+</languages>

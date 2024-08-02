@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAccount>Account</DtxtAccount>
+    <LttlSelBankBranch>Select bank branch</LttlSelBankBranch>
+    <LttlSelBranch>Select a branch</LttlSelBranch>
+    <LtxtErrNoBranch>This bank does not have branches configured</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtAccount>Cuenta</DtxtAccount>
+    <LttlSelBankBranch>Seleccionar sucursal de banco</LttlSelBankBranch>
+    <LttlSelBranch>Seleccione una sucursal</LttlSelBranch>
+    <LtxtErrNoBranch>Este banco no tiene sucursales configuradas.</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtAccount>חשבון</DtxtAccount>
+    <LttlSelBankBranch>בחר סניף של הבנק</LttlSelBankBranch>
+    <LttlSelBranch>בחר סניף</LttlSelBranch>
+    <LtxtErrNoBranch>אין סניפים שמקושרים לבנק הנ"ל</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAccount>Account</DtxtAccount>
+    <LttlSelBankBranch>Select bank branch</LttlSelBankBranch>
+    <LttlSelBranch>Select a branch</LttlSelBranch>
+    <LtxtErrNoBranch>This bank does not have branches configured</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtAccount>Conta</DtxtAccount>
+    <LttlSelBankBranch>Selecionar filial do banco</LttlSelBankBranch>
+    <LttlSelBranch>Selecione uma filial</LttlSelBranch>
+    <LtxtErrNoBranch>Este banco não tem filiais configuradas.</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtAccount>Compte</DtxtAccount>
+    <LttlSelBankBranch>Sélectionner succursale de la banque</LttlSelBankBranch>
+    <LttlSelBranch>Sélectionnez-vous une succursale</LttlSelBranch>
+    <LtxtErrNoBranch>Cette banque n'a pas des succursales configurées</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtAccount>Konto</DtxtAccount>
+    <LttlSelBankBranch>Wählen Sie die Bankfiliale</LttlSelBankBranch>
+    <LttlSelBranch>Wählen Sie eine Filiale</LttlSelBranch>
+    <LtxtErrNoBranch>Diese Bank hat keine Filialen konfiguriert</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtAccount>Счет</DtxtAccount>
+    <LttlSelBankBranch>Выберите отделение банка</LttlSelBankBranch>
+    <LttlSelBranch>Выберите отделение</LttlSelBranch>
+    <LtxtErrNoBranch>Нет отделения, связанного с банком управления</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAccount>Účet</DtxtAccount>
+    <LttlSelBankBranch>Vyberte pobočku banky</LttlSelBankBranch>
+    <LttlSelBranch>Vyberte pobočku</LttlSelBranch>
+    <LtxtErrNoBranch>Tato banka nemá nastavené žádné pobočky</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtAccount>Rachunek</DtxtAccount>
+    <LttlSelBankBranch>Wybierz oddział banku</LttlSelBankBranch>
+    <LttlSelBranch>Wybierz oddział </LttlSelBranch>
+    <LtxtErrNoBranch>Ten bank nie ma skonfigurowanych oddziałów</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAccount>Konto</DtxtAccount>
+    <LttlSelBankBranch>Vyberte bankovú pobočku</LttlSelBankBranch>
+    <LttlSelBranch>Vyberte pobočku</LttlSelBranch>
+    <LtxtErrNoBranch>Táto banka nemá nakonfigurované pobočky</LtxtErrNoBranch>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtAccount>DtxtAccount</DtxtAccount>
+    <LttlSelBankBranch>LttlSelBankBranch</LttlSelBankBranch>
+    <LttlSelBranch>LttlSelBranch</LttlSelBranch>
+    <LtxtErrNoBranch>LtxtErrNoBranch</LtxtErrNoBranch>
+  </language>
+</languages>

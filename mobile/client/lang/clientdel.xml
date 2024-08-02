@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Are you sure you want to delete the new BP #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>BP has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>¿Está seguro que desea eliminar el nuevo SN #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>SN ha sido Cancelado</LtxtConfCancel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtConfDelBP>האם למחוק כרטיס {0}?</LtxtConfDelBP>
+    <LtxtConfCancel>כרטיס נמחק</LtxtConfCancel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Are you sure you want to delete the new BP #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>BP has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Você tem certeza que deseja excluir o novo PN Nº {0}?</LtxtConfDelBP>
+    <LtxtConfCancel>PN foi Cancelado</LtxtConfCancel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>&lt;--&gt;</LtxtConfDelBP>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>&lt;--&gt;</LtxtConfDelBP>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>&lt;--&gt;</LtxtConfDelBP>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Jste si jistý/á, že chcete vymazat nového OP #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>OP byl odstraněn</LtxtConfCancel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Czy jesteś pewien, że chcesz usunąć  nowego PB  #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>PB został usunięty</LtxtConfCancel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>Ste si istí, že chcete vymazať nového Obchodného partnera #{0}?</LtxtConfDelBP>
+    <LtxtConfCancel>Obchodný partner bol zrušený</LtxtConfCancel>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>&lt;--&gt;</LtxtConfDelBP>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelBP>LtxtConfDelBP</LtxtConfDelBP>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+  </language>
+</languages>

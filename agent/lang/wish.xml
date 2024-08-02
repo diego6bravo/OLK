@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlWishList>Wish List</LttlWishList>
+    <LtxtConfRemWLItem>Are you sure you want to remove the item {0} from your wish list?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LttlWishList>Mis Deseos</LttlWishList>
+    <LtxtConfRemWLItem>¿Está seguro que desea eliminar el artículo {0} de su lista de deseo?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LttlWishList>רשימת משאלות</LttlWishList>
+    <LtxtConfRemWLItem>האם למחוק את פריט {0} מרשימת המשאלות?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlWishList>Wish List</LttlWishList>
+    <LtxtConfRemWLItem>Are you sure you want to remove the item {0} from your wish list?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LttlWishList>Meus Desejos</LttlWishList>
+    <LtxtConfRemWLItem>Tem certeza que deseja excluir o item {0} da sua lista de desejos?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LttlWishList>Mes voeux</LttlWishList>
+    <LtxtConfRemWLItem>Êtes-vous sûre d'éliminer l'article {0} de votre liste de voeu?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LttlWishList>Wunschliste</LttlWishList>
+    <LtxtConfRemWLItem>Möchten Sie den Artikel {0} wirklich von Ihrer Wunschliste entfernen?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LttlWishList>Список вопросов</LttlWishList>
+    <LtxtConfRemWLItem>Стереть деталь{0}из списка вопросов?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LttlWishList>Seznam přání</LttlWishList>
+    <LtxtConfRemWLItem>Určitě chcete odebrat položku {0} ze svého seznamu přání?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LttlWishList>Lista życzeń </LttlWishList>
+    <LtxtConfRemWLItem>Czy jesteś pewien, że chcesz usunąć pozycję {0] z listy życzeń?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LttlWishList>Zoznam prianí</LttlWishList>
+    <LtxtConfRemWLItem>Ste si istí, že chcete odstrániť položku {0} z Vášho zoznamu prianí?</LtxtConfRemWLItem>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LttlWishList>LttlWishList</LttlWishList>
+    <LtxtConfRemWLItem>LtxtConfRemWLItem</LtxtConfRemWLItem>
+  </language>
+</languages>

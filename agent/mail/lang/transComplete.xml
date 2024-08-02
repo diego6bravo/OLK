@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <LtxtTransNote>Your transaction has completed successfully
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <LtxtTransNote>Su transacción fue completada con éxito
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <LtxtTransNote>העיסקה נרשמה בהצלחה
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <LtxtTransNote>Your transaction has completed successfully
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <LtxtTransNote>Sua transação foi completada com sucesso
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <LtxtTransNote>&lt;--&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <LtxtTransNote>&lt;--&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <LtxtTransNote>Сделка успешно записана &lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <LtxtTransNote>Vaše transakce byla úspěšně dokončena
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <LtxtTransNote>Twoja transakcja zakończyła się z sukcesem &lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <LtxtTransNote>Vaša transakcia bola dokončená úspešne
+&lt;:-ObjectDesc-&gt; #&lt;:-DocNum-&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <LtxtTransNote>LtxtTransNote</LtxtTransNote>
+  </language>
+</languages>

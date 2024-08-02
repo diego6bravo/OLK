@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtType>Type</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Does not apply</DtxtNotApply>
+    <LtxtSelFromLst>Choose from list</LtxtSelFromLst>
+    <LtxtBestPrice>Best Price</LtxtBestPrice>
+    <LtxtInv>Inventory</LtxtInv>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtFilterInCart>View item in cart</LtxtFilterInCart>
+    <LtxtValOnLst>This item is already on your list</LtxtValOnLst>
+    <LtxtUnitInCart>There are {0} {1} in the cart.</LtxtUnitInCart>
+    <LtxtHasComp>Item has components</LtxtHasComp>
+    <LtxtNoteDis>Lines notes is disabled</LtxtNoteDis>
+    <LtxtCartQty>Cart Quantity</LtxtCartQty>
+    <LtxtInvNotAvl>Inventory not available</LtxtInvNotAvl>
+    <LtxtComponents>Components</LtxtComponents>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtSalesRep>Sales Report</LtxtSalesRep>
+    <LtxtOLKCommited>OLK Commited</LtxtOLKCommited>
+    <LtxtSAPCommited>SAP Commited</LtxtSAPCommited>
+    <LtxtNoAvlInv>There is no available inventory for the item {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>The item was added successfully</LtxtItemAddOK>
+    <LtxtSellAll>Sell all available stock</LtxtSellAll>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>No aplica</DtxtNotApply>
+    <LtxtSelFromLst>Escoja de lista</LtxtSelFromLst>
+    <LtxtBestPrice>Mejor Precio</LtxtBestPrice>
+    <LtxtInv>Inventario</LtxtInv>
+    <LtxtTaxCode>Indicador de impuesto</LtxtTaxCode>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+    <LtxtFilterInCart>Ver articulo en canasta</LtxtFilterInCart>
+    <LtxtValOnLst>Este artículo ya esta en su lista</LtxtValOnLst>
+    <LtxtUnitInCart>Hay {0} {1} en la canasta.</LtxtUnitInCart>
+    <LtxtHasComp>Articulo tiene componentes</LtxtHasComp>
+    <LtxtNoteDis>Las notas a la linea estan deshabilitadas</LtxtNoteDis>
+    <LtxtCartQty>Cantidad Canasta</LtxtCartQty>
+    <LtxtInvNotAvl>Inventario no disponible</LtxtInvNotAvl>
+    <LtxtComponents>Componentes</LtxtComponents>
+    <LtxtDetails>Detalles</LtxtDetails>
+    <LtxtSalesRep>Reporte de Venta</LtxtSalesRep>
+    <LtxtOLKCommited>Reservado OLK</LtxtOLKCommited>
+    <LtxtSAPCommited>Reservado SAP</LtxtSAPCommited>
+    <LtxtNoAvlInv>No hay inventario disponible para el artículo {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>El artículo fue agregado con éxito</LtxtItemAddOK>
+    <LtxtSellAll>Vender todo el inventario disponible</LtxtSellAll>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtSalUnit>יח\' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח\' אריזה</DtxtPackUnit>
+    <DtxtType>סוג</DtxtType>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtAvl>זמין</DtxtAvl>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtNotApply>לא מיושם</DtxtNotApply>
+    <LtxtSelFromLst>בחר מרשימה</LtxtSelFromLst>
+    <LtxtBestPrice>מחיר הכי טוב</LtxtBestPrice>
+    <LtxtInv>מלאי</LtxtInv>
+    <LtxtTaxCode>קוד קבוצת מע"מ</LtxtTaxCode>
+    <LtxtVolDiscount>הנחה על כמויות</LtxtVolDiscount>
+    <LtxtFilterInCart>ראה פריט בסל הקניות</LtxtFilterInCart>
+    <LtxtValOnLst>פריט זה נמצא ברשימה</LtxtValOnLst>
+    <LtxtUnitInCart>יש {1} {0} בסל הקניות</LtxtUnitInCart>
+    <LtxtHasComp>לפריט יש רכיבים</LtxtHasComp>
+    <LtxtNoteDis>הערות לשורות מבוטלות</LtxtNoteDis>
+    <LtxtCartQty>כמות בסל</LtxtCartQty>
+    <LtxtInvNotAvl>מלאי לא זמין</LtxtInvNotAvl>
+    <LtxtComponents>רכיבים</LtxtComponents>
+    <LtxtDetails>פרטים</LtxtDetails>
+    <LtxtSalesRep>דו"ח מכירות</LtxtSalesRep>
+    <LtxtOLKCommited>מחויב אולק</LtxtOLKCommited>
+    <LtxtSAPCommited>מחויב סאפ</LtxtSAPCommited>
+    <LtxtNoAvlInv>אין מלאי זמין לפריט {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>הפריט הוסף בהצלחה</LtxtItemAddOK>
+    <LtxtSellAll>מכור את כל המלאי הזמין</LtxtSellAll>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtType>Type</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Does not apply</DtxtNotApply>
+    <LtxtSelFromLst>Choose from list</LtxtSelFromLst>
+    <LtxtBestPrice>Best Price</LtxtBestPrice>
+    <LtxtInv>Inventory</LtxtInv>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtFilterInCart>View item in cart</LtxtFilterInCart>
+    <LtxtValOnLst>This item is already on your list</LtxtValOnLst>
+    <LtxtUnitInCart>There are {0} {1} in the cart.</LtxtUnitInCart>
+    <LtxtHasComp>Item has components</LtxtHasComp>
+    <LtxtNoteDis>Lines notes is disabled</LtxtNoteDis>
+    <LtxtCartQty>Cart Quantity</LtxtCartQty>
+    <LtxtInvNotAvl>Inventory not available</LtxtInvNotAvl>
+    <LtxtComponents>Components</LtxtComponents>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtSalesRep>Sales Report</LtxtSalesRep>
+    <LtxtOLKCommited>OLK Commited</LtxtOLKCommited>
+    <LtxtSAPCommited>SAP Commited</LtxtSAPCommited>
+    <LtxtNoAvlInv>There is no available inventory for the item {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>The item was added successfully</LtxtItemAddOK>
+    <LtxtSellAll>Sell all available stock</LtxtSellAll>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtWarehouse>Armazem</DtxtWarehouse>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtAvl>Disponível</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Não se aplica</DtxtNotApply>
+    <LtxtSelFromLst>Escolha da lista</LtxtSelFromLst>
+    <LtxtBestPrice>Melhor Preço</LtxtBestPrice>
+    <LtxtInv>Estoque</LtxtInv>
+    <LtxtTaxCode>Código de Imposto</LtxtTaxCode>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+    <LtxtFilterInCart>Ver item na cesta</LtxtFilterInCart>
+    <LtxtValOnLst>Este item já esta na sua lista</LtxtValOnLst>
+    <LtxtUnitInCart>Existe {0} {1} na  cesta.</LtxtUnitInCart>
+    <LtxtHasComp>Item possui componentes</LtxtHasComp>
+    <LtxtNoteDis>As notas de linhas estão desabilitadas</LtxtNoteDis>
+    <LtxtCartQty>Quantidade Cesta</LtxtCartQty>
+    <LtxtInvNotAvl>Estoque não disponível</LtxtInvNotAvl>
+    <LtxtComponents>Componentes</LtxtComponents>
+    <LtxtDetails>Detalhes</LtxtDetails>
+    <LtxtSalesRep>Relatório de Venda</LtxtSalesRep>
+    <LtxtOLKCommited>Reservado OLK</LtxtOLKCommited>
+    <LtxtSAPCommited>Reservado SAP</LtxtSAPCommited>
+    <LtxtNoAvlInv>Não possui estoque disponível para o item {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>O item foi adicionado com sucesso</LtxtItemAddOK>
+    <LtxtSellAll>Vender todo o estoque disponível</LtxtSellAll>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d\'emballage</DtxtPackUnit>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>&lt;--&gt;</DtxtNotApply>
+    <LtxtSelFromLst>Choisissez-vous de la liste</LtxtSelFromLst>
+    <LtxtBestPrice>Meilleur prix</LtxtBestPrice>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+    <LtxtFilterInCart>&lt;--&gt;</LtxtFilterInCart>
+    <LtxtValOnLst>&lt;--&gt;</LtxtValOnLst>
+    <LtxtUnitInCart>Il y a  {0} {1} dans la corbeille</LtxtUnitInCart>
+    <LtxtHasComp>&lt;--&gt;</LtxtHasComp>
+    <LtxtNoteDis>&lt;--&gt;</LtxtNoteDis>
+    <LtxtCartQty>&lt;--&gt;</LtxtCartQty>
+    <LtxtInvNotAvl>&lt;--&gt;</LtxtInvNotAvl>
+    <LtxtComponents>&lt;--&gt;</LtxtComponents>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtSalesRep>&lt;--&gt;</LtxtSalesRep>
+    <LtxtOLKCommited>&lt;--&gt;</LtxtOLKCommited>
+    <LtxtSAPCommited>&lt;--&gt;</LtxtSAPCommited>
+    <LtxtNoAvlInv>&lt;--&gt;</LtxtNoAvlInv>
+    <LtxtItemAddOK>&lt;--&gt;</LtxtItemAddOK>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtType>Art</DtxtType>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtAvl>Vorhanden</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Nicht Gültig</DtxtNotApply>
+    <LtxtSelFromLst>Wählen Sie aus der Liste</LtxtSelFromLst>
+    <LtxtBestPrice>Bester Preis</LtxtBestPrice>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+    <LtxtFilterInCart>&lt;--&gt;</LtxtFilterInCart>
+    <LtxtValOnLst>&lt;--&gt;</LtxtValOnLst>
+    <LtxtUnitInCart>Es sind {0} {1} im Einkaufswagen</LtxtUnitInCart>
+    <LtxtHasComp>&lt;--&gt;</LtxtHasComp>
+    <LtxtNoteDis>&lt;--&gt;</LtxtNoteDis>
+    <LtxtCartQty>&lt;--&gt;</LtxtCartQty>
+    <LtxtInvNotAvl>&lt;--&gt;</LtxtInvNotAvl>
+    <LtxtComponents>&lt;--&gt;</LtxtComponents>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtSalesRep>&lt;--&gt;</LtxtSalesRep>
+    <LtxtOLKCommited>&lt;--&gt;</LtxtOLKCommited>
+    <LtxtSAPCommited>&lt;--&gt;</LtxtSAPCommited>
+    <LtxtNoAvlInv>&lt;--&gt;</LtxtNoAvlInv>
+    <LtxtItemAddOK>&lt;--&gt;</LtxtItemAddOK>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtType>Вид</DtxtType>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtAvl>Доступный</DtxtAvl>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtNotApply>Не выполнено</DtxtNotApply>
+    <LtxtSelFromLst>Выбрать из списка</LtxtSelFromLst>
+    <LtxtBestPrice>Наилучшая цена</LtxtBestPrice>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtTaxCode>Код групп НДС</LtxtTaxCode>
+    <LtxtVolDiscount>Скидка на количество</LtxtVolDiscount>
+    <LtxtFilterInCart>Смотрите деталь в корзине покупок</LtxtFilterInCart>
+    <LtxtValOnLst>&lt;--&gt;</LtxtValOnLst>
+    <LtxtUnitInCart>Есть {1} {0} в корзине покупок</LtxtUnitInCart>
+    <LtxtHasComp>&lt;--&gt;</LtxtHasComp>
+    <LtxtNoteDis>&lt;--&gt;</LtxtNoteDis>
+    <LtxtCartQty>&lt;--&gt;</LtxtCartQty>
+    <LtxtInvNotAvl>&lt;--&gt;</LtxtInvNotAvl>
+    <LtxtComponents>&lt;--&gt;</LtxtComponents>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtSalesRep>&lt;--&gt;</LtxtSalesRep>
+    <LtxtOLKCommited>&lt;--&gt;</LtxtOLKCommited>
+    <LtxtSAPCommited>&lt;--&gt;</LtxtSAPCommited>
+    <LtxtNoAvlInv>&lt;--&gt;</LtxtNoAvlInv>
+    <LtxtItemAddOK>&lt;--&gt;</LtxtItemAddOK>
+    <LtxtSellAll>&lt;--&gt;</LtxtSellAll>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Neaplikuje se</DtxtNotApply>
+    <LtxtSelFromLst>Vyberte ze seznamu</LtxtSelFromLst>
+    <LtxtBestPrice>Nejlepší cena</LtxtBestPrice>
+    <LtxtInv>&lt;--&gt;</LtxtInv>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+    <LtxtVolDiscount>Objemová sleva</LtxtVolDiscount>
+    <LtxtFilterInCart>Zobrazit položku v košíku</LtxtFilterInCart>
+    <LtxtValOnLst>&lt;--&gt;</LtxtValOnLst>
+    <LtxtUnitInCart>V košíku jsou {0} {1}</LtxtUnitInCart>
+    <LtxtHasComp>&lt;--&gt;</LtxtHasComp>
+    <LtxtNoteDis>&lt;--&gt;</LtxtNoteDis>
+    <LtxtCartQty>&lt;--&gt;</LtxtCartQty>
+    <LtxtInvNotAvl>&lt;--&gt;</LtxtInvNotAvl>
+    <LtxtComponents>&lt;--&gt;</LtxtComponents>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtSalesRep>&lt;--&gt;</LtxtSalesRep>
+    <LtxtOLKCommited>&lt;--&gt;</LtxtOLKCommited>
+    <LtxtSAPCommited>&lt;--&gt;</LtxtSAPCommited>
+    <LtxtNoAvlInv>&lt;--&gt;</LtxtNoAvlInv>
+    <LtxtItemAddOK>&lt;--&gt;</LtxtItemAddOK>
+    <LtxtSellAll>Prodat dostupné zásoby</LtxtSellAll>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtAvl>Dostępny</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Nie dotyczy</DtxtNotApply>
+    <LtxtSelFromLst>Wybierz z listy</LtxtSelFromLst>
+    <LtxtBestPrice>Najlepsza cena</LtxtBestPrice>
+    <LtxtInv>Zapas</LtxtInv>
+    <LtxtTaxCode>Kod podatkowy</LtxtTaxCode>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+    <LtxtFilterInCart>Zobacz pozycję w koszyku</LtxtFilterInCart>
+    <LtxtValOnLst>Pozycja już jest na twojej liście</LtxtValOnLst>
+    <LtxtUnitInCart> {0} {1} są w koszyku</LtxtUnitInCart>
+    <LtxtHasComp>Pozycja składa się z komponentów</LtxtHasComp>
+    <LtxtNoteDis>Notatki wierszy są zablokowane</LtxtNoteDis>
+    <LtxtCartQty>Ilość koszyka</LtxtCartQty>
+    <LtxtInvNotAvl>Zapas niedostępny</LtxtInvNotAvl>
+    <LtxtComponents>Komponenty</LtxtComponents>
+    <LtxtDetails>Szczegóły</LtxtDetails>
+    <LtxtSalesRep>Raport sprzedaży</LtxtSalesRep>
+    <LtxtOLKCommited>Zakontraktowany OLK</LtxtOLKCommited>
+    <LtxtSAPCommited>Zakontraktowany SAP</LtxtSAPCommited>
+    <LtxtNoAvlInv>Nie ma dostępnego zapasu dla pozycji {0}</LtxtNoAvlInv>
+    <LtxtItemAddOK>Pozycja została dodana z sukcesem</LtxtItemAddOK>
+    <LtxtSellAll>Sprzedaż całego dostępnego zapasu</LtxtSellAll>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtNotApply>Neaplikuje</DtxtNotApply>
+    <LtxtSelFromLst>Vyberte zo zoznamu</LtxtSelFromLst>
+    <LtxtBestPrice>Najlepšia cena</LtxtBestPrice>
+    <LtxtInv>Inventár</LtxtInv>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+    <LtxtFilterInCart>Zobraziť položku v košíku</LtxtFilterInCart>
+    <LtxtValOnLst>Položka je už na Vašom zozname</LtxtValOnLst>
+    <LtxtUnitInCart>V košíku sú {0} {1}</LtxtUnitInCart>
+    <LtxtHasComp>Položka má zložky</LtxtHasComp>
+    <LtxtNoteDis>Riadkové poznámky sú zablokované</LtxtNoteDis>
+    <LtxtCartQty>Množstvo v košíku</LtxtCartQty>
+    <LtxtInvNotAvl>Inventár nie je k dispozícii</LtxtInvNotAvl>
+    <LtxtComponents>Zložky</LtxtComponents>
+    <LtxtDetails>Podrobnosti</LtxtDetails>
+    <LtxtSalesRep>Výkaz o predaji</LtxtSalesRep>
+    <LtxtOLKCommited>Zaviazaný OLK</LtxtOLKCommited>
+    <LtxtSAPCommited>Zaviazaný SAP</LtxtSAPCommited>
+    <LtxtNoAvlInv>Pre položku {0} nie je žiaden dostupný inventár</LtxtNoAvlInv>
+    <LtxtItemAddOK>Položka bola pridaná úspešne</LtxtItemAddOK>
+    <LtxtSellAll>Predať všetky dostupné zásoby</LtxtSellAll>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtAvl>DtxtAvl</DtxtAvl>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtNotApply>DtxtNotApply</DtxtNotApply>
+    <LtxtSelFromLst>LtxtSelFromLst</LtxtSelFromLst>
+    <LtxtBestPrice>LtxtBestPrice</LtxtBestPrice>
+    <LtxtInv>LtxtInv</LtxtInv>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+    <LtxtFilterInCart>LtxtFilterInCart</LtxtFilterInCart>
+    <LtxtValOnLst>LtxtValOnLst</LtxtValOnLst>
+    <LtxtUnitInCart>LtxtUnitInCart</LtxtUnitInCart>
+    <LtxtHasComp>LtxtHasComp</LtxtHasComp>
+    <LtxtNoteDis>LtxtNoteDis</LtxtNoteDis>
+    <LtxtCartQty>LtxtCartQty</LtxtCartQty>
+    <LtxtInvNotAvl>LtxtInvNotAvl</LtxtInvNotAvl>
+    <LtxtComponents>LtxtComponents</LtxtComponents>
+    <LtxtDetails>LtxtDetails</LtxtDetails>
+    <LtxtSalesRep>LtxtSalesRep</LtxtSalesRep>
+    <LtxtOLKCommited>LtxtOLKCommited</LtxtOLKCommited>
+    <LtxtSAPCommited>LtxtSAPCommited</LtxtSAPCommited>
+    <LtxtNoAvlInv>LtxtNoAvlInv</LtxtNoAvlInv>
+    <LtxtItemAddOK>LtxtItemAddOK</LtxtItemAddOK>
+    <LtxtSellAll>LtxtSellAll</LtxtSellAll>
+  </language>
+</languages>

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtCart>Cart</DtxtCart>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtGo>Go</LtxtGo>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt;dd</LtxtAdd>
+    <LtxtAddItmVal>Please enter item number you wish to add</LtxtAddItmVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtCart>Canasta</DtxtCart>
+    <DtxtValEnterValue>Debe introducir un valor</DtxtValEnterValue>
+    <DtxtExact>Exacto</DtxtExact>
+    <DtxtLike>Similar</DtxtLike>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;úsqueda</LtxtSearch>
+    <LtxtGo>Ir</LtxtGo>
+    <LtxtAdvanced>Avanzada</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt;gregar</LtxtAdd>
+    <LtxtAddItmVal>Debe introducir el código del artículo que desea agregar</LtxtAddItmVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtCart>סל הקניות</DtxtCart>
+    <DtxtValEnterValue>יש לתת ערך לשדה</DtxtValEnterValue>
+    <DtxtExact>מדוייק</DtxtExact>
+    <DtxtLike>דומה</DtxtLike>
+    <LtxtSearch>&lt;U&gt;ח&lt;/U&gt;יפוש</LtxtSearch>
+    <LtxtGo>חפש</LtxtGo>
+    <LtxtAdvanced>מתקדם</LtxtAdvanced>
+    <LtxtAdd>&lt;U&gt;ה&lt;/U&gt;וסף</LtxtAdd>
+    <LtxtAddItmVal>יש למלא את המק"ט שאתה רוצה להוסיף</LtxtAddItmVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtCart>Cart</DtxtCart>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtGo>Go</LtxtGo>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt;dd</LtxtAdd>
+    <LtxtAddItmVal>Please enter item number you wish to add</LtxtAddItmVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtCart>Cesta</DtxtCart>
+    <DtxtValEnterValue>Voçê deve inserir um valor</DtxtValEnterValue>
+    <DtxtExact>Exato</DtxtExact>
+    <DtxtLike>Como</DtxtLike>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;usca</LtxtSearch>
+    <LtxtGo>Ir</LtxtGo>
+    <LtxtAdvanced>Avançada</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt;dicionar</LtxtAdd>
+    <LtxtAddItmVal>Deve inserir o código do item que deseja adicionar</LtxtAddItmVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtCart>Corbeille</DtxtCart>
+    <DtxtValEnterValue>&lt;--&gt;</DtxtValEnterValue>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtSearch>&lt;u&gt;R&lt;/u&gt; recherche</LtxtSearch>
+    <LtxtGo>Aller</LtxtGo>
+    <LtxtAdvanced>Avancée</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt; ajouter</LtxtAdd>
+    <LtxtAddItmVal>Devez-vous insérer le code de l\'article que vous voulez ajouter</LtxtAddItmVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtCart>Einkaufswagen</DtxtCart>
+    <DtxtValEnterValue>Sie müssen einen Wert angeben</DtxtValEnterValue>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;uche</LtxtSearch>
+    <LtxtGo>Los</LtxtGo>
+    <LtxtAdvanced>Erweitert</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;H&lt;/u&gt;inzufügen</LtxtAdd>
+    <LtxtAddItmVal>Bitte geben Sie die Nummer des Artikels den Sie hinzufügen möchten an</LtxtAddItmVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtCart>Пакет услуг</DtxtCart>
+    <DtxtValEnterValue>Должны дать значения в поле</DtxtValEnterValue>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtSearch>Искать&lt;U&gt;ח&lt;/U&gt;</LtxtSearch>
+    <LtxtGo>Поиск</LtxtGo>
+    <LtxtAdvanced>Расширенный</LtxtAdvanced>
+    <LtxtAdd>Добавить&lt;U&gt;ה&lt;/U&gt;</LtxtAdd>
+    <LtxtAddItmVal>Нужно заполнить штрих-код который вы хотите добавить</LtxtAddItmVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtCart>Košík</DtxtCart>
+    <DtxtValEnterValue>Musíte zadat hodnotu</DtxtValEnterValue>
+    <DtxtExact>Přesné</DtxtExact>
+    <DtxtLike>jako</DtxtLike>
+    <LtxtSearch>&lt;u&gt;V&lt;/u&gt;yhledávání</LtxtSearch>
+    <LtxtGo>Přejít</LtxtGo>
+    <LtxtAdvanced>Rozšířené</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;P&lt;/u&gt;řidat</LtxtAdd>
+    <LtxtAddItmVal>Zadejte číslo položky, kterou chcete přidat</LtxtAddItmVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtCart>Koszyk</DtxtCart>
+    <DtxtValEnterValue>Musisz wprowadzić wartość</DtxtValEnterValue>
+    <DtxtExact>Dokładny</DtxtExact>
+    <DtxtLike>Podobny</DtxtLike>
+    <LtxtSearch>&lt;u&gt;P&lt;/u&gt;oszukiwanie</LtxtSearch>
+    <LtxtGo>Idź </LtxtGo>
+    <LtxtAdvanced>Zaawansowany</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;D&lt;/u&gt;odaj</LtxtAdd>
+    <LtxtAddItmVal>Proszę wprowadź numer pozycji, która chcesz dodać</LtxtAddItmVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtCart>Košík</DtxtCart>
+    <DtxtValEnterValue>Musíte zadať nejakú hodnotu</DtxtValEnterValue>
+    <DtxtExact>Presné</DtxtExact>
+    <DtxtLike>Podobné</DtxtLike>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtGo>Ďalej</LtxtGo>
+    <LtxtAdvanced>Rozšírené</LtxtAdvanced>
+    <LtxtAdd>&lt;u&gt;A&lt;/u&gt;dd</LtxtAdd>
+    <LtxtAddItmVal>Prosím zadajte číslo položky</LtxtAddItmVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtCart>DtxtCart</DtxtCart>
+    <DtxtValEnterValue>DtxtValEnterValue</DtxtValEnterValue>
+    <DtxtExact>DtxtExact</DtxtExact>
+    <DtxtLike>DtxtLike</DtxtLike>
+    <LtxtSearch>LtxtSearch</LtxtSearch>
+    <LtxtGo>LtxtGo</LtxtGo>
+    <LtxtAdvanced>LtxtAdvanced</LtxtAdvanced>
+    <LtxtAdd>LtxtAdd</LtxtAdd>
+    <LtxtAddItmVal>LtxtAddItmVal</LtxtAddItmVal>
+  </language>
+</languages>

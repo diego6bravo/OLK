@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtBuyUnit>Purchase Unit</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Item Search Result</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>The item or barcode "{0}" was not found on the sales order #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>A conflict was found in the item search result.&lt;br&gt;There are {0} items with the same ItemCode/BarCode.&lt;br&gt;Contact the person in charge of the inventory data management for a conflict solution.</LtxtConflictFound>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtClosedLineFound>The item or barcode "{0}" was found on the sales order #{1} in the line #{2}. &lt;br&gt;The line status is closed and no operations can be made on a closed line.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Packing Unit</LtxtSalPackMsr>
+    <LSalUnitMsr>Sales Unit</LSalUnitMsr>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtValUnitValue>You must enter the value per each unit</LtxtValUnitValue>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtCurSum>Current</LtxtCurSum>
+    <LtxtReqSum>Required</LtxtReqSum>
+    <LtxtRepack>Repack</LtxtRepack>
+    <LtxtValSalOrUnit>You must enter a value in base unit or sales unit but you can\'t leave them both with zero</LtxtValSalOrUnit>
+    <LtxtValPackQty>The value of package quantity must be more then 0 or you must check repack checkbox.</LtxtValPackQty>
+    <LtxtConfClear>Are you sure you want to clear the item counted data?</LtxtConfClear>
+    <LtxtValReqUnit>Applied base unit is more than required base unit</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>Applied sale unit is more than required sale unit</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>The item or barcode "{0}" was not found on the purchase order #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>The item or barcode "{0}" was found on the purchase order #{1} in the line #{2}. &lt;br&gt;The line status is closed and no operations can be made on a closed line.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>You must enter a value in base unit or purchase unit but you can\'t leave them both with zero</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Applied purchase unit is more than required purchase unit</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Serial Numbers</LtxtSerialNumbers>
+    <LtxtValCurUnit>Applied base unit + sale unit is more than the required quantity</LtxtValCurUnit>
+    <LtxtValCalQuantity>The quantity entered differs from the calculated quantity.\nYou must check the field "Repack" in order to continue.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtBack>Regresar</DtxtBack>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtPend>Pendiente</DtxtPend>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtBuyUnit>Unidad de Compra</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Resultado de Búsqueda de Articulo</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>El articulo o código de barra "{0}" no fue encontrado en la orden de venta #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>Se encontró un conflicto en la búsqueda del artículo.&lt;br&gt;Hay {0} artículos con el mismo código/código de barra.&lt;br&gt;Contacte a la persona encargada de los datos de inventario para solicitar solución al conflicto.</LtxtConflictFound>
+    <LtxtBarCode>Código de Barra</LtxtBarCode>
+    <LtxtClosedLineFound>El articulo o código de barra "{0}" fue encontrado en la orden de venta #{1} en la línea #{2}. &lt;br&gt;El estado de la línea está cerrada y por consiguiente no se podrá efectuar operaciones en la misma.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Unidad de Empaque</LtxtSalPackMsr>
+    <LSalUnitMsr>Unidad de Venta</LSalUnitMsr>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtValUnitValue>Debe introducir el valor por cada unidad</LtxtValUnitValue>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecargado</LtxtOverload>
+    <LtxtCurSum>Actual</LtxtCurSum>
+    <LtxtReqSum>Requerida</LtxtReqSum>
+    <LtxtRepack>Re empacado</LtxtRepack>
+    <LtxtValSalOrUnit>Debe introducir un valor en la unidad base o en la unidad de venta pero no puede dejar los dos en 0</LtxtValSalOrUnit>
+    <LtxtValPackQty>El valor de unidad de empaque debe ser mayor que 0 o debe tener presionado el gancho de re empaqué.</LtxtValPackQty>
+    <LtxtConfClear>¿Está seguro que desea eliminar los datos contados de este artículo?</LtxtConfClear>
+    <LtxtValReqUnit>Suma de unidad base es mayor a la unidad base requerida</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>Suma de unidad de venta es mayor a la unidad de venta requerida</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>El articulo o código de barra "{0}" no fue encontrado en la orden de compra #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>El articulo o código de barra "{0}" fue encontrado en la orden de compra #{1} en la línea #{2}. &lt;br&gt;El estado de la línea está cerrada y por consiguiente no se podrá efectuar operaciones en la misma.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>Debe introducir un valor en la unidad base o en la unidad de compra pero no puede dejar los dos en 0</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Suma de unidad de compra es mayor a la unidad de compra requerida</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Números de Series</LtxtSerialNumbers>
+    <LtxtValCurUnit>Cantidad base + venta es mayor que la cantidad requerida</LtxtValCurUnit>
+    <LtxtValCalQuantity>La cantidad de empaque registrada difiere de la cantidad calculada\nDebe marcar el campo "Re empacado" para poder continuar.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtBack>חזור</DtxtBack>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtPend>פתוח</DtxtPend>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtBuyUnit>יח' קניה</DtxtBuyUnit>
+    <LtxtSalesCheckResult>תוצאת חיפוש פריטים</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>הפריט עם קוד או ברקוד "{0}" לא נמצא בהזמנה מס {1}.</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>נמצא סתירה בחיפוש פריטים.&lt;br&gt;יש {0} פריטים עם אותו קוד פריט\ברקוד.&lt;br&gt;צור קשר עם אחראי המלאי ע"מ לבדוק את הסתירה.</LtxtConflictFound>
+    <LtxtBarCode>ברקוד</LtxtBarCode>
+    <LtxtClosedLineFound>הפריט עם קוד או ברקוד "{0}" נמצא בהזמנה מס {1} בשורה {2}#.&lt;br&gt;השורה הנ"ל סגורה.&lt;br&gt;לא ניתן לבצע פעולה על שורות סגורות.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>יח' אריזה</LtxtSalPackMsr>
+    <LSalUnitMsr>יח' מכירה</LSalUnitMsr>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtValUnitValue>יש למלא את הערך לפי כל יחידה</LtxtValUnitValue>
+    <LtxtPartial>חלקי</LtxtPartial>
+    <LtxtCompleted>מלא</LtxtCompleted>
+    <LtxtOverload>עומס יתר</LtxtOverload>
+    <LtxtCurSum>נוכחי</LtxtCurSum>
+    <LtxtReqSum>דרוש</LtxtReqSum>
+    <LtxtRepack>אריזה מחדש</LtxtRepack>
+    <LtxtValSalOrUnit>יש למלא את שדה יח\' בסיס או יח\' מכירה, לא ניתן להשאיר את שתי השדות ב 0.</LtxtValSalOrUnit>
+    <LtxtValPackQty>הכמות היח\' אריזה חייב להיות גדול מ 0 או יש ללחוץ על כפתור "אריזה מחדש".</LtxtValPackQty>
+    <LtxtConfClear>האם לנקות נתוני פריט שנבדק?</LtxtConfClear>
+    <LtxtValReqUnit>כמות בסיס שהוזנה הינה גבוה מכמות בסיס דרושה</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>כמות יחידות המכירה שהוזנה הינה גבוה מכמות יחידות המכירה הדרושות</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>הפריט עם קוד או ברקוד "{0}" לא נמצא בהזמנה רכש מס {1}.</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>הפריט עם קוד או ברקוד "{0}" נמצא בהזמנה רכש מס {1} בשורה {2}#.&lt;br&gt;השורה הנ"ל סגורה.&lt;br&gt;לא ניתן לבצע פעולה על שורות סגורות.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>יש למלא את שדה יח\' בסיס או יח\' קניה, לא ניתן להשאיר את שתי השדות ב 0.</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>כמות יחידות הקניה שהוזנה הינה גבוה מכמות יחידות הקניה הדרושות</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>מספרים סידוריים</LtxtSerialNumbers>
+    <LtxtValCurUnit>כמות יח' הבודדות + יח' המכירה גבוה מהכמות הדרושה </LtxtValCurUnit>
+    <LtxtValCalQuantity>הכמות שהוכנסה שונה מהכמות המחושבת.\nיש לסמן את שדה "נארז מחדש" ע"מ להמשיך.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtBuyUnit>Purchase Unit</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Item Search Result</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>The item or barcode "{0}" was not found on the sales order #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>A conflict was found in the item search result.&lt;br&gt;There are {0} items with the same ItemCode/BarCode.&lt;br&gt;Contact the person in charge of the inventory data management for a conflict solution.</LtxtConflictFound>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtClosedLineFound>The item or barcode "{0}" was found on the sales order #{1} in the line #{2}. &lt;br&gt;The line status is closed and no operations can be made on a closed line.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Packing Unit</LtxtSalPackMsr>
+    <LSalUnitMsr>Sales Unit</LSalUnitMsr>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtValUnitValue>You must enter the value per each unit</LtxtValUnitValue>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtCurSum>Current</LtxtCurSum>
+    <LtxtReqSum>Required</LtxtReqSum>
+    <LtxtRepack>Repack</LtxtRepack>
+    <LtxtValSalOrUnit>You must enter a value in base unit or sales unit but you can\'t leave them both with zero</LtxtValSalOrUnit>
+    <LtxtValPackQty>The value of package quantity must be more then 0 or you must check repack checkbox.</LtxtValPackQty>
+    <LtxtConfClear>Are you sure you want to clear the item counted data?</LtxtConfClear>
+    <LtxtValReqUnit>Applied base unit is more than required base unit</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>Applied sale unit is more than required sale unit</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>The item or barcode "{0}" was not found on the purchase order #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>The item or barcode "{0}" was found on the purchase order #{1} in the line #{2}. &lt;br&gt;The line status is closed and no operations can be made on a closed line.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>You must enter a value in base unit or purchase unit but you can\'t leave them both with zero</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Applied purchase unit is more than required purchase unit</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Serial Numbers</LtxtSerialNumbers>
+    <LtxtValCurUnit>Applied base unit + sale unit is more than the required quantity</LtxtValCurUnit>
+    <LtxtValCalQuantity>The quantity entered differs from the calculated quantity.\nYou must check the field "Repack" in order to continue.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtBack>Retornar</DtxtBack>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtPend>Pendente</DtxtPend>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtBuyUnit>Unidade de Compra</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Resultado da Pesquisa de Item</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>O item ou o código de barras "{0}" não foi encontrado no pedido de venda Nº {1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>Foi encontrado um conflito na busca do item. &lt;br&gt;Existem {0} itens com o mesmo código / Código de barras. Entre em contato com a pessoa encarregada pelos dados de estoque para solucionar o conflito.</LtxtConflictFound>
+    <LtxtBarCode>Código de barras</LtxtBarCode>
+    <LtxtClosedLineFound>O item ou código de barras "{0}" foi encontrado no pedido de venda Nº {1} na linha Nº {2}. &lt;br&gt;O status da linha está como fechado e por consequência não será possível efetuar operações na mesma.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Unidade de Embalagem</LtxtSalPackMsr>
+    <LSalUnitMsr>Unidade de Venda</LSalUnitMsr>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtValUnitValue>Você deve inserir o valor para cada unidade</LtxtValUnitValue>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecarregado</LtxtOverload>
+    <LtxtCurSum>Atual</LtxtCurSum>
+    <LtxtReqSum>Solicitada</LtxtReqSum>
+    <LtxtRepack>Reempacotado</LtxtRepack>
+    <LtxtValSalOrUnit>Você deve digitar um valor na unidade base ou na unidade de venda, mas não pode deixá-los ambos com zero (0)</LtxtValSalOrUnit>
+    <LtxtValPackQty>O valor da unidade de empacotamento deve ser maior que 0 ou você deve verificar checkbox reempacotamento.</LtxtValPackQty>
+    <LtxtConfClear>Você tem certeza que deseja excluir os dados adicionados a este item?</LtxtConfClear>
+    <LtxtValReqUnit>A soma da unidade base é maior do que a unidade base solicitada</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>A soma da unidade de venda é maior do que a unidade de venda solicitada</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>O Item ou código de barras "{0}" não foi encontrado no pedido de compra Nº {1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>O item ou código de barras "{0}" foi encontrado no pedido de compra Nº {1} e na linha Nº {2}. &lt;br&gt;O status da linha está como fechado e por consequência não será possível efetuar operações na mesma.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>Você deve digitar um valor na unidade base ou na unidade de compra, mas não pode deixá-los ambos com zero (0)</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>A soma da unidade de compra é maior do que a unidade de compra solicitada</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Números de Séries</LtxtSerialNumbers>
+    <LtxtValCurUnit>Quantidade base aplicada + venda é maior que a quantidade necessária</LtxtValCurUnit>
+    <LtxtValCalQuantity>A quantidade introduzida é diferente da quantidade calculada.\nVocê deve verificar o campo "Reempacotado" para continuar.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtBack>Revenir</DtxtBack>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtBuyUnit>&lt;--&gt;</DtxtBuyUnit>
+    <LtxtSalesCheckResult>&lt;--&gt;</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>&lt;--&gt;</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>&lt;--&gt;</LtxtConflictFound>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtClosedLineFound>&lt;--&gt;</LtxtClosedLineFound>
+    <LtxtSalPackMsr>&lt;--&gt;</LtxtSalPackMsr>
+    <LSalUnitMsr>&lt;--&gt;</LSalUnitMsr>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtValUnitValue>&lt;--&gt;</LtxtValUnitValue>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtRepack>&lt;--&gt;</LtxtRepack>
+    <LtxtValSalOrUnit>&lt;--&gt;</LtxtValSalOrUnit>
+    <LtxtValPackQty>&lt;--&gt;</LtxtValPackQty>
+    <LtxtConfClear>&lt;--&gt;</LtxtConfClear>
+    <LtxtValReqUnit>&lt;--&gt;</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>&lt;--&gt;</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>&lt;--&gt;</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>&lt;--&gt;</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>&lt;--&gt;</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>&lt;--&gt;</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>&lt;--&gt;</LtxtSerialNumbers>
+    <LtxtValCurUnit>&lt;--&gt;</LtxtValCurUnit>
+    <LtxtValCalQuantity>&lt;--&gt;</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtBack>Zurück</DtxtBack>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtBuyUnit>Einkaufseinheit</DtxtBuyUnit>
+    <LtxtSalesCheckResult>&lt;--&gt;</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>&lt;--&gt;</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>&lt;--&gt;</LtxtConflictFound>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtClosedLineFound>&lt;--&gt;</LtxtClosedLineFound>
+    <LtxtSalPackMsr>&lt;--&gt;</LtxtSalPackMsr>
+    <LSalUnitMsr>&lt;--&gt;</LSalUnitMsr>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtValUnitValue>&lt;--&gt;</LtxtValUnitValue>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtRepack>&lt;--&gt;</LtxtRepack>
+    <LtxtValSalOrUnit>&lt;--&gt;</LtxtValSalOrUnit>
+    <LtxtValPackQty>&lt;--&gt;</LtxtValPackQty>
+    <LtxtConfClear>&lt;--&gt;</LtxtConfClear>
+    <LtxtValReqUnit>&lt;--&gt;</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>&lt;--&gt;</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>&lt;--&gt;</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>&lt;--&gt;</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>&lt;--&gt;</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>&lt;--&gt;</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>&lt;--&gt;</LtxtSerialNumbers>
+    <LtxtValCurUnit>&lt;--&gt;</LtxtValCurUnit>
+    <LtxtValCalQuantity>&lt;--&gt;</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtBack>Назад</DtxtBack>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtPend>Открытый</DtxtPend>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtBuyUnit>Шт  для покупки</DtxtBuyUnit>
+    <LtxtSalesCheckResult>&lt;--&gt;</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>&lt;--&gt;</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>&lt;--&gt;</LtxtConflictFound>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtClosedLineFound>&lt;--&gt;</LtxtClosedLineFound>
+    <LtxtSalPackMsr>&lt;--&gt;</LtxtSalPackMsr>
+    <LSalUnitMsr>&lt;--&gt;</LSalUnitMsr>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtValUnitValue>&lt;--&gt;</LtxtValUnitValue>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtRepack>&lt;--&gt;</LtxtRepack>
+    <LtxtValSalOrUnit>&lt;--&gt;</LtxtValSalOrUnit>
+    <LtxtValPackQty>&lt;--&gt;</LtxtValPackQty>
+    <LtxtConfClear>&lt;--&gt;</LtxtConfClear>
+    <LtxtValReqUnit>&lt;--&gt;</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>&lt;--&gt;</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>&lt;--&gt;</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>&lt;--&gt;</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>&lt;--&gt;</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>&lt;--&gt;</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>&lt;--&gt;</LtxtSerialNumbers>
+    <LtxtValCurUnit>&lt;--&gt;</LtxtValCurUnit>
+    <LtxtValCalQuantity>&lt;--&gt;</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtBack>Zpět</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtBuyUnit>Nákupní jednotka</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Výsledky vyhledávání položek</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>Položka nebo čárový kód "{0}" nebyla nalezena v prodejním příkazu #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>Ve výsledku vyhledávání položek byl nalezen konflikt.&lt;br&gt;Existuje {0} položek se stejným kódem/čárovým kódem.&lt;br&gt;Zkontaktujte se s osobou zodpovědnou za správu údajů zásob pro vyřešení.</LtxtConflictFound>
+    <LtxtBarCode>Čárový kód</LtxtBarCode>
+    <LtxtClosedLineFound>Položka nebo čárový kód "{0}" byla nalezena v prodejním příkazu #{1} na řádce #{2}. &lt;br&gt;Stav řádky je zavřeno, se zavřenou řádkou není možné provádět žádné operace.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Jednotka balení</LtxtSalPackMsr>
+    <LSalUnitMsr>Prodejní jednotka</LSalUnitMsr>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtValUnitValue>Musíte zadat hodnotu pro každou jednotku</LtxtValUnitValue>
+    <LtxtPartial>Částečné</LtxtPartial>
+    <LtxtCompleted>Dokončeno</LtxtCompleted>
+    <LtxtOverload>Přílišný náklad</LtxtOverload>
+    <LtxtCurSum>Aktuální</LtxtCurSum>
+    <LtxtReqSum>Povinný</LtxtReqSum>
+    <LtxtRepack>Znovu zabalit</LtxtRepack>
+    <LtxtValSalOrUnit>Musíte uvést hodnotu k základní jednotce nebo prodejní jednotce, nemůžete je obě nechat nulové</LtxtValSalOrUnit>
+    <LtxtValPackQty>Množství v balíčku musí být větší než 0, nebo musíte zaškrtnout volbu Znovu zabalit</LtxtValPackQty>
+    <LtxtConfClear>Jste si jistý/á, že chcete vymazat vypočtené údaje položky?</LtxtConfClear>
+    <LtxtValReqUnit>Použitá základní jednotka je větší než požadovaná základní jednotka</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>použitá prodejní jednotka je větší než požadovaní prodejní jednotka</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>Položka nebo čárový kód "{0}" nebyla nalezena v nákupní objednávce #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>Položka nebo čárový kód "{0}" byla nalezena v nákupní objednávce příkazu #{1} na řádce #{2}. &lt;br&gt;Stav řádky je zavřeno, se zavřenou řádkou není možné provádět žádné operace.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>Musíte uvést hodnotu k základní jednotce nebo nákupní jednotce, nemůžete je obě nechat nulové</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Použitá nákupní jednotka je větší než požadovaná nákupní jednotka</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Seriová čísla</LtxtSerialNumbers>
+    <LtxtValCurUnit>Použitá základní jednotka a prodejní jednotka jsou větší než požadovaná množství</LtxtValCurUnit>
+    <LtxtValCalQuantity>Zadané množství se liší od vypočítaného množství.\nAbyste mohl/a pokračovat, musíte zaškrtnout pole "Znovu zabalit".</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtBack>Wróć</DtxtBack>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtBuyUnit>Jednostka zakupu</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Wynik poszukiwania pozycji</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>Pozycja lub kod kreskowy "{0}" nie został znaleziony na zleceniu sprzedaży #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>Znaleziono konflikt w wyniku poszukiwania pozycji. Pozycje {0} z tym samym  Kodem pozycji/ kodem kreskowym.  Aby rozwiązać konflikt - skontaktuj się z osoba odpowiedzialną za zarządzanie danymi zapasów. </LtxtConflictFound>
+    <LtxtBarCode>Kod kreskowy</LtxtBarCode>
+    <LtxtClosedLineFound>Pozycja lub kod kreskowy "{0}" nie został znaleziony na zleceniu sprzedaży #{1} w wierszu #{2}.   Status wiersza jest zamknięty i nie mo zna wykonać żadnych operacji w zamkniętym wierszu.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Jednostka pakowania</LtxtSalPackMsr>
+    <LSalUnitMsr>Jednostka sprzedaży</LSalUnitMsr>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtValUnitValue>Musisz wprowadzić wartość każdej jednostki</LtxtValUnitValue>
+    <LtxtPartial>Częściowy</LtxtPartial>
+    <LtxtCompleted>Pełny</LtxtCompleted>
+    <LtxtOverload>Przeładowany</LtxtOverload>
+    <LtxtCurSum>Obecny</LtxtCurSum>
+    <LtxtReqSum>Wymagany</LtxtReqSum>
+    <LtxtRepack>Spakuj ponownie</LtxtRepack>
+    <LtxtValSalOrUnit>Musisz wprowadzić wartość w jednostce podstawowej lub w jednostce sprzedaży, ale nie możesz zostawić obydwu pól pustych</LtxtValSalOrUnit>
+    <LtxtValPackQty>Wartość ilości paczki musi być większa niż 0 lub musisz zaznaczyć pole wyboru przepakuj </LtxtValPackQty>
+    <LtxtConfClear>Czy jesteś pewien, że chcesz wyczyścić przeliczone dane pozycji?</LtxtConfClear>
+    <LtxtValReqUnit>Zastosowana jednostka podstawowa jest większa niż wymagana jednostka podstawowa</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>Zastosowana jednostka sprzedaży jest większa niż wymagana jednostka sprzedaży</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>Pozycja lub kod kreskowy "{0}" nie zostały znalezione na zamówieniu zakupu #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>Pozycja lub kod kreskowy "{0}" nie zostały znalezione na zamówieniu zakupu #{1} w wierszu #{2}. Status wiersza jest zamknięty i nie mo zna wykonać żadnych operacji w zamkniętym wierszu.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>Musisz wprowadzić wartość w jednostce podstawowej lub jednostce zakupu, ale nie możesz zostawić obydwu pól pustych</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Zastosowana jednostka zakupu jest większa niż wymagana jednostka zakupu</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Numery seryjne</LtxtSerialNumbers>
+    <LtxtValCurUnit>Zastosowana jednostka podstawowa + jednostka sprzedaży są większe niż wymagana ilość</LtxtValCurUnit>
+    <LtxtValCalQuantity>Wprowadzona ilość różni się od ilości wyliczonej. Musisz naznaczyć pole "Spakuj ponownie" aby  kontynuować.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtBack>Späť</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtBuyUnit>Nákupná jednotka</DtxtBuyUnit>
+    <LtxtSalesCheckResult>Výsledky vyhľadávania položky</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>Položka alebo čiarový kód "{0}" neboli nájdené na zákazke odberateľa #{1}</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>Vo výsledkoch vyhľadávania položiek bol nájdený konflikt.&lt;br&gt;Existujú {0} položky s rovnakým Kódom položky/Čiarovým kódom.&lt;br&gt;Kontaktujte osoba zodpovednú za riadenie dát inventáru na vyriešenie konfliktu.</LtxtConflictFound>
+    <LtxtBarCode>Čiarový kód</LtxtBarCode>
+    <LtxtClosedLineFound>Položka alebo čiarový kód "{0}" boli nájdené na zákazke odberateľa #{1} v riadku #{2}. &lt;br&gt;Stav riadku je uzavretý a žiadne operácie sa nedajú vykonať na uzavretom riadku.</LtxtClosedLineFound>
+    <LtxtSalPackMsr>Baliaca jednotka</LtxtSalPackMsr>
+    <LSalUnitMsr>Predajná jednotka</LSalUnitMsr>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtValUnitValue>Musíte zadať hodnotu na každú jednotku</LtxtValUnitValue>
+    <LtxtPartial>Čiastkový</LtxtPartial>
+    <LtxtCompleted>Dokončené</LtxtCompleted>
+    <LtxtOverload>Preťaženie</LtxtOverload>
+    <LtxtCurSum>Aktuálny</LtxtCurSum>
+    <LtxtReqSum>Vyžadované</LtxtReqSum>
+    <LtxtRepack>Prebalenie</LtxtRepack>
+    <LtxtValSalOrUnit>Musíte zadať nejakú hodnotu v základnej jednotke alebo predajnej jednotke, ale nemôžete ich nechať obe s nulou</LtxtValSalOrUnit>
+    <LtxtValPackQty>Hodnota baliaceho množstva musí byť viac ako 0 alebo musíte skontrolovať políčko prebalenia</LtxtValPackQty>
+    <LtxtConfClear>Ste si istí, že chcete vymazať spočítané dáta položky?</LtxtConfClear>
+    <LtxtValReqUnit>Použitá základná jednotka je viac ako požadovaná základná jednotka</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>Použitá predajná jednotka je viac ako požadovaná predajná jednotka</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>Položka alebo čiarový kód "{0}" neboli nájdené na objednávke #{1}</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>Položka alebo čiarový kód "{0}" boli nájdené na objednávke #{1} v riadku #{2}. &lt;br&gt;Stav riadku je uzavretý a žiadne operácie sa nedajú vykonať na uzavretom riadku.</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>Musíte zadať nejakú hodnotu v základnej jednotke alebo nákupnej jednotke, ale nemôžete ich necha obe s nulou</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>Použitá nákupná jednotka je viac ako požadovaná nákupná jednotka</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>Sériové čísla</LtxtSerialNumbers>
+    <LtxtValCurUnit>Použitá základná jednotka</LtxtValCurUnit>
+    <LtxtValCalQuantity>Zadané množstvo je rozdielne ako vypočítané množstvo.\nMusíte skontrolovať políčko "Prebaliť" na to, aby ste mohli pokračovať.</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtBaseUnit>&lt;--&gt;</DtxtBaseUnit>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtBack>&lt;--&gt;</DtxtBack>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <DtxtPend>&lt;--&gt;</DtxtPend>
+    <DtxtImage>&lt;--&gt;</DtxtImage>
+    <DtxtBuyUnit>&lt;--&gt;</DtxtBuyUnit>
+    <LtxtSalesCheckResult>&lt;--&gt;</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>&lt;--&gt;</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>&lt;--&gt;</LtxtConflictFound>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtClosedLineFound>&lt;--&gt;</LtxtClosedLineFound>
+    <LtxtSalPackMsr>&lt;--&gt;</LtxtSalPackMsr>
+    <LSalUnitMsr>&lt;--&gt;</LSalUnitMsr>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtValUnitValue>&lt;--&gt;</LtxtValUnitValue>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtRepack>&lt;--&gt;</LtxtRepack>
+    <LtxtValSalOrUnit>&lt;--&gt;</LtxtValSalOrUnit>
+    <LtxtValPackQty>&lt;--&gt;</LtxtValPackQty>
+    <LtxtConfClear>&lt;--&gt;</LtxtConfClear>
+    <LtxtValReqUnit>&lt;--&gt;</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>&lt;--&gt;</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>&lt;--&gt;</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>&lt;--&gt;</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>&lt;--&gt;</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>&lt;--&gt;</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>&lt;--&gt;</LtxtSerialNumbers>
+    <LtxtValCurUnit>&lt;--&gt;</LtxtValCurUnit>
+    <LtxtValCalQuantity>&lt;--&gt;</LtxtValCalQuantity>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtBack>DtxtBack</DtxtBack>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtBuyUnit>DtxtBuyUnit</DtxtBuyUnit>
+    <LtxtSalesCheckResult>LtxtSalesCheckResult</LtxtSalesCheckResult>
+    <LtxtNoItmFoundInDoc>LtxtNoItmFoundInDoc</LtxtNoItmFoundInDoc>
+    <LtxtConflictFound>LtxtConflictFound</LtxtConflictFound>
+    <LtxtBarCode>LtxtBarCode</LtxtBarCode>
+    <LtxtClosedLineFound>LtxtClosedLineFound</LtxtClosedLineFound>
+    <LtxtSalPackMsr>LtxtSalPackMsr</LtxtSalPackMsr>
+    <LSalUnitMsr>LSalUnitMsr</LSalUnitMsr>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtValUnitValue>LtxtValUnitValue</LtxtValUnitValue>
+    <LtxtPartial>LtxtPartial</LtxtPartial>
+    <LtxtCompleted>LtxtCompleted</LtxtCompleted>
+    <LtxtOverload>LtxtOverload</LtxtOverload>
+    <LtxtCurSum>LtxtCurSum</LtxtCurSum>
+    <LtxtReqSum>LtxtReqSum</LtxtReqSum>
+    <LtxtRepack>LtxtRepack</LtxtRepack>
+    <LtxtValSalOrUnit>LtxtValSalOrUnit</LtxtValSalOrUnit>
+    <LtxtValPackQty>LtxtValPackQty</LtxtValPackQty>
+    <LtxtConfClear>LtxtConfClear</LtxtConfClear>
+    <LtxtValReqUnit>LtxtValReqUnit</LtxtValReqUnit>
+    <LtxtValReqSaleUnit>LtxtValReqSaleUnit</LtxtValReqSaleUnit>
+    <LtxtNoItmFoundInPur>LtxtNoItmFoundInPur</LtxtNoItmFoundInPur>
+    <LtxtPurClosedLineFoun>LtxtPurClosedLineFoun</LtxtPurClosedLineFoun>
+    <LtxtValPurOrUnit>LtxtValPurOrUnit</LtxtValPurOrUnit>
+    <LtxtValReqPurUnit>LtxtValReqPurUnit</LtxtValReqPurUnit>
+    <LtxtSerialNumbers>LtxtSerialNumbers</LtxtSerialNumbers>
+    <LtxtValCurUnit>LtxtValCurUnit</LtxtValCurUnit>
+    <LtxtValCalQuantity>LtxtValCalQuantity</LtxtValCalQuantity>
+  </language>
+</languages>

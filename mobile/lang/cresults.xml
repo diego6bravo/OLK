@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LtxtClientSearchResul>Clients Search Results</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtClientSearchResul>Resultados de Búsqueda de Clientes</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <LtxtClientSearchResul>תוצאת חיפוש לקוחות</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LtxtClientSearchResul>Clients Search Results</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtClientSearchResul>Resultado da Busca de Clientes</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBalance>Solde</DtxtBalance>
+    <LtxtClientSearchResul>&lt;--&gt;</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <LtxtClientSearchResul>&lt;--&gt;</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <LtxtClientSearchResul>&lt;--&gt;</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <LtxtClientSearchResul>Výsledky vyhledávání klientů</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtClientSearchResul>Wyniki poszukiwania klientów</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <LtxtClientSearchResul>Výsledky vyhľadávania klientov</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtBalance>&lt;--&gt;</DtxtBalance>
+    <LtxtClientSearchResul>&lt;--&gt;</LtxtClientSearchResul>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <LtxtClientSearchResul>LtxtClientSearchResul</LtxtClientSearchResul>
+  </language>
+</languages>

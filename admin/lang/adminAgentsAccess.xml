@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrator</DtxtAdministrator>
+    <LtxtValUsr>Username already exists, enter a new user and try again!</LtxtValUsr>
+    <LtxtValUName>User Name Missing</LtxtValUName>
+    <LtxtVarUNamAsign>The username "{0}" is already assigned to another user</LtxtVarUNamAsign>
+    <LtxtValEMail>E-Mail not valid</LtxtValEMail>
+    <LtxtAgAccDef>Agent Access Definitions</LtxtAgAccDef>
+    <LtxtAgAccNote>Here agent information such as password, email, and system access type may be updated.</LtxtAgAccNote>
+    <LtxtAsignClient>Assigned Clients</LtxtAsignClient>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtValPwd>Password Missing</LtxtValPwd>
+    <LtxtErrAgents>Agents must be created in SAP before users can be generated!</LtxtErrAgents>
+    <LtxtAddUserNote>Here which agents will have OLK access, their respective passwords, and their user profile may be specified.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Are you sure you want to delete "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>Administrator users must have an e-mail address</LtxtAdminMail>
+    <LtxtMsgAlr>Send Alerts &amp; Messages</LtxtMsgAlr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrador</DtxtAdministrator>
+    <LtxtValUsr>¡Nombre de usuario ya existe, intente de nuevo con otro usuario!</LtxtValUsr>
+    <LtxtValUName>Debe introducir el nombre de usuario</LtxtValUName>
+    <LtxtVarUNamAsign>El nombre de usuario "{0}" está asignado a más de un usuario</LtxtVarUNamAsign>
+    <LtxtValEMail>Correo electrónico no válido</LtxtValEMail>
+    <LtxtAgAccDef>Definición de Acceso de Agentes</LtxtAgAccDef>
+    <LtxtAgAccNote>En esta sección podrá actualizar la información de un agente, como su contraseña, correo electrónico y su tipo de acceso al sistema.</LtxtAgAccNote>
+    <LtxtAsignClient>Clientes Asignados</LtxtAsignClient>
+    <LtxtSuperUser>SuperUsuario</LtxtSuperUser>
+    <LtxtValPwd>Debe introducir la contraseña</LtxtValPwd>
+    <LtxtErrAgents>¡Debe crear agentes en SAP para poder generar usuarios!</LtxtErrAgents>
+    <LtxtAddUserNote>En esta sección podrá especificar que agentes tendrán acceso al OLK, sus respectivas contraseñas y el perfil de usuario con que van a trabajar dentro del sistema.</LtxtAddUserNote>
+    <LtxtConfDelUsr>¿Está seguro que desea eliminar el usuario "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>Un usuario administrador debe tener una dirección de correo electrónico</LtxtAdminMail>
+    <LtxtMsgAlr>Enviar Altertas y Mensajes</LtxtMsgAlr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtGroups>קבוצות</DtxtGroups>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>מנהל מערכת</DtxtAdministrator>
+    <LtxtValUsr>שם משתמש כבר קיים. נסה שוב עם משתמש אחר!</LtxtValUsr>
+    <LtxtValUName>חסר שם משתמש</LtxtValUName>
+    <LtxtVarUNamAsign>שם המשתמש "{0}" נמצא בשימוש ע"י משתמש אחר!</LtxtVarUNamAsign>
+    <LtxtValEMail>דואר אלקטרוני לא חוקי!</LtxtValEMail>
+    <LtxtAgAccDef>הגדרת הרשאות לסוכנים</LtxtAgAccDef>
+    <LtxtAgAccNote>בחלק זה מגדירים את הסוכנים הראשיים להשתמש באולק בעזרת הגדרת סיסמאות ופרופיל משתמש.</LtxtAgAccNote>
+    <LtxtAsignClient>לקוחות מקושרים</LtxtAsignClient>
+    <LtxtSuperUser>משתמש בכיר</LtxtSuperUser>
+    <LtxtValPwd>חסר סיסמה!</LtxtValPwd>
+    <LtxtErrAgents>צריך לייצר את הסוכני מכירות בסאפ לפני שתוכל לייצר משתמשים באולק.</LtxtErrAgents>
+    <LtxtAddUserNote>בחלק זה מנהל המערכת יכול לאשר\לא לאשר לסוכן כניסה לאתר הסוכנים, גם תוכל להגדיר אם המשתמש הוא משתמש רגיל או משתמש בכיר.</LtxtAddUserNote>
+    <LtxtConfDelUsr>האם למחוק משתמש {0}?</LtxtConfDelUsr>
+    <LtxtAdminMail>יש לעדכן דואר של משתמש מסוג מנהל מערכת</LtxtAdminMail>
+    <LtxtMsgAlr>שלח התרעות והודעות</LtxtMsgAlr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrator</DtxtAdministrator>
+    <LtxtValUsr>Username already exists, enter a new user and try again!</LtxtValUsr>
+    <LtxtValUName>User Name Missing</LtxtValUName>
+    <LtxtVarUNamAsign>The username "{0}" is already assigned to another user</LtxtVarUNamAsign>
+    <LtxtValEMail>E-Mail not valid</LtxtValEMail>
+    <LtxtAgAccDef>Agent Access Definitions</LtxtAgAccDef>
+    <LtxtAgAccNote>Here agent information such as password, email, and system access type may be updated.</LtxtAgAccNote>
+    <LtxtAsignClient>Assigned Clients</LtxtAsignClient>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtValPwd>Password Missing</LtxtValPwd>
+    <LtxtErrAgents>Agents must be created in SAP before users can be generated!</LtxtErrAgents>
+    <LtxtAddUserNote>Here which agents will have OLK access, their respective passwords, and their user profile may be specified.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Are you sure you want to delete "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>Administrator users must have an e-mail address</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrador</DtxtAdministrator>
+    <LtxtValUsr>O nome do usuário já existe, insira um novo usuário e tente novamente!</LtxtValUsr>
+    <LtxtValUName>Deve inserir o nome do usuário.</LtxtValUName>
+    <LtxtVarUNamAsign>O nome do usuário "{0}" já está atribuído a outro usuário.</LtxtVarUNamAsign>
+    <LtxtValEMail>E-mail não válido.</LtxtValEMail>
+    <LtxtAgAccDef>Definições de Acesso de Vendedores</LtxtAgAccDef>
+    <LtxtAgAccNote>Nesta seção, podem ser atualizadas as informações do vendedor, tais como senha, e-mail e o tipo de acesso ao sistema.</LtxtAgAccNote>
+    <LtxtAsignClient>Clientes Atribuídos</LtxtAsignClient>
+    <LtxtSuperUser>Super Usuário</LtxtSuperUser>
+    <LtxtValPwd>Deve inserir a senha.</LtxtValPwd>
+    <LtxtErrAgents>Os vendedores devem ser criados em SAP antes que os usuários possam ser gerados!</LtxtErrAgents>
+    <LtxtAddUserNote>Nesta seção, podem ser especificados quais os vendedores que terão acesso ao OnlineKit, suas respectivas senhas e o seu perfil de usuário.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Você tem certeza que deseja excluir "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>O usuário administrador deve ter um endereço de e-mail.</LtxtAdminMail>
+    <LtxtMsgAlr>Enviar mensagens e alertas</LtxtMsgAlr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtGroups>Groupes</DtxtGroups>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>&lt;--&gt;</DtxtAdministrator>
+    <LtxtValUsr>Nom d\'utilisateur déjà existe, essayez de nouveau avec un autre utilisateur!</LtxtValUsr>
+    <LtxtValUName>Nom d\'utilisateur perdu</LtxtValUName>
+    <LtxtVarUNamAsign>Le nom d\'utilisateur "{0}" est déjà attribué à un (e) autre utilisateur</LtxtVarUNamAsign>
+    <LtxtValEMail>E-Mail n\'est pas valable</LtxtValEMail>
+    <LtxtAgAccDef>Definition d'accès d'agent</LtxtAgAccDef>
+    <LtxtAgAccNote>Dans cette section vous pourrez mise à jour l'information d'un (e) agent (e), ainsi donc votre mot de passe, e-mail et votre genre d'accès au système.</LtxtAgAccNote>
+    <LtxtAsignClient>Clients attribués</LtxtAsignClient>
+    <LtxtSuperUser>Super Utilisateur</LtxtSuperUser>
+    <LtxtValPwd>Mot de passe perdu</LtxtValPwd>
+    <LtxtErrAgents>Devez-vous créer des agents chez SAP à fin de pouvoir générer des utiisateurs!</LtxtErrAgents>
+    <LtxtAddUserNote>Dans cette section vous pourrez spécifier auxquels (elles) agents (es) auront l'accès au OLK, ses respectifs (ives) mots de passe et le profil d'utilisateur qu'ils vont y utiliser avec le système.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Êtes-vous sûre d\'éliminer l\'utilisateur?</LtxtConfDelUsr>
+    <LtxtAdminMail>&lt;--&gt;</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtGroups>Gruppen</DtxtGroups>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtIP>IP-Adresse</DtxtIP>
+    <DtxtAdministrator>Administrator</DtxtAdministrator>
+    <LtxtValUsr>Der Benutzername ist schon vergeben, geben Sie ein neuen Namen ein und versuchen Sie es erneut!</LtxtValUsr>
+    <LtxtValUName>Fehlender Benutzername</LtxtValUName>
+    <LtxtVarUNamAsign>Der Benutzername "{0}" ist schon vergeben</LtxtVarUNamAsign>
+    <LtxtValEMail>E-Mail nicht gültig</LtxtValEMail>
+    <LtxtAgAccDef>Agentenzugang Definierung</LtxtAgAccDef>
+    <LtxtAgAccNote>In diesem Bereich können Sie Agenteninformationen aktualisieren z.B. Kennwort, E-Mail und Zugangsart.</LtxtAgAccNote>
+    <LtxtAsignClient>Zugewiesene Kunden</LtxtAsignClient>
+    <LtxtSuperUser>Super Benutzer</LtxtSuperUser>
+    <LtxtValPwd>Fehlendes Kennwort</LtxtValPwd>
+    <LtxtErrAgents>Sie müßen zuerst Agenten in SAP erstellen bevor Sie Benutzer erstellen!</LtxtErrAgents>
+    <LtxtAddUserNote>In diesem Bereich kann der Administrator festlegen welche Agenten OLK Zugang haben werden, ihre jeweiligen Kennwörter, und das Profil des Benutzers mit dem sie im System arbeiten werden.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Möchten Sie den Benutzer "{0}" wirklich löschen?</LtxtConfDelUsr>
+    <LtxtAdminMail>&lt;--&gt;</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtGroups>Группы</DtxtGroups>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Администратор</DtxtAdministrator>
+    <LtxtValUsr>Имя пользователя уже существует. Попробуйте другое!</LtxtValUsr>
+    <LtxtValUName>Отсутствует имя пользователя</LtxtValUName>
+    <LtxtVarUNamAsign>Имя пользователя "{0}" в настоящее время используется другим пользователем!</LtxtVarUNamAsign>
+    <LtxtValEMail>Электронная почта не законна\n!</LtxtValEMail>
+    <LtxtAgAccDef>Настройка разрешений для агентов</LtxtAgAccDef>
+    <LtxtAgAccNote>Этот раздел определяет основные агенты использовали в олк установки паролей и пользовательских профилей.</LtxtAgAccNote>
+    <LtxtAsignClient>Клиенты, относящиеся</LtxtAsignClient>
+    <LtxtSuperUser>Старший пользователь</LtxtSuperUser>
+    <LtxtValPwd>Нет пароля!</LtxtValPwd>
+    <LtxtErrAgents>Должны производить агентов по продажам SAP прежде чем вы сможете использовать в олк</LtxtErrAgents>
+    <LtxtAddUserNote>В этом разделе администратор может одобрить / не одобрить вход для области агентов и выбрать сорт пользователя </LtxtAddUserNote>
+    <LtxtConfDelUsr>Удалить пользователя {0}?</LtxtConfDelUsr>
+    <LtxtAdminMail>Необходимо обновить почтовый администратор пользователей</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrátor</DtxtAdministrator>
+    <LtxtValUsr>Uživatelské jméno již existuje. Zadejte nové a zkuste znovu!</LtxtValUsr>
+    <LtxtValUName>Chybí uživatelské jméno</LtxtValUName>
+    <LtxtVarUNamAsign>Uživatelské jméno "{0}" je již přiřazeno jinému uživateli</LtxtVarUNamAsign>
+    <LtxtValEMail>Neplatný e-mail</LtxtValEMail>
+    <LtxtAgAccDef>Definice přístupu agenta</LtxtAgAccDef>
+    <LtxtAgAccNote>V této sekci je možné aktualizvoat informace o agentovi, jako je heslo, e-mail nebo přístup do systému.</LtxtAgAccNote>
+    <LtxtAsignClient>Přiřazení klienti</LtxtAsignClient>
+    <LtxtSuperUser>Nadřazený uživatel</LtxtSuperUser>
+    <LtxtValPwd>Chybí heslo</LtxtValPwd>
+    <LtxtErrAgents>Než budete moci vytvářet uživatele musí být vytvořeni agenti v SAP!</LtxtErrAgents>
+    <LtxtAddUserNote>V této sekci je možné definovat, kteří agenti budou mít přístup do OLK, případně jejich hesla a uživatelské profily.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Jste si jistý/á, že chcete vymazat uživatele "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>Administrátorský účet musí mít e-mailovou adresu</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtGroups>Grupy materiałów</DtxtGroups>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrator</DtxtAdministrator>
+    <LtxtValUsr>Nazwa użytkownika już istnieje, wpisz nowego użytkownika i spróbuj ponownie</LtxtValUsr>
+    <LtxtValUName>Brakuje nazwy użytkownika</LtxtValUName>
+    <LtxtVarUNamAsign>Nazwa użytkownika  "{0}" jest już przypisana do innego użytkownika</LtxtVarUNamAsign>
+    <LtxtValEMail>Email nieważny!</LtxtValEMail>
+    <LtxtAgAccDef>Definicje dostępu sprzedawcy</LtxtAgAccDef>
+    <LtxtAgAccNote>Tutaj można uaktualnić informacje na temat sprzedawcy takie jak hasło, email czy rodzaj dostępu do systemu</LtxtAgAccNote>
+    <LtxtAsignClient>Przypisani Klienci</LtxtAsignClient>
+    <LtxtSuperUser>Super Użytkownik</LtxtSuperUser>
+    <LtxtValPwd>Brakuje hasła</LtxtValPwd>
+    <LtxtErrAgents>Należy zdefiniować sprzedawców w SAP-ie zanim można będzie wygenerować użytkowników </LtxtErrAgents>
+    <LtxtAddUserNote>Tutaj można określić, którzy sprzedawcy będą mieć dostęp do OLK , ich hasła oraz ich profil użytkownika.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Czy jesteś pewien, że chcesz usunąć {0}?</LtxtConfDelUsr>
+    <LtxtAdminMail>Użytkownicy administratora muszą mieć adres email</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtIP>IP</DtxtIP>
+    <DtxtAdministrator>Administrátor</DtxtAdministrator>
+    <LtxtValUsr>Užívateľské meno už existuje, zadajte nové a skúste znovu!</LtxtValUsr>
+    <LtxtValUName>Chýbajúce užívateľské meno</LtxtValUName>
+    <LtxtVarUNamAsign>Užívateľské meno "{0}" je už pridelené inému užívateľovi</LtxtVarUNamAsign>
+    <LtxtValEMail>E-mail neplatný</LtxtValEMail>
+    <LtxtAgAccDef>Definície prístupu agenta</LtxtAgAccDef>
+    <LtxtAgAccNote>Tu sa dajú aktualizovať údaje o agentovi ako heslo, email a prístup do systému.</LtxtAgAccNote>
+    <LtxtAsignClient>Pridelení klienti</LtxtAsignClient>
+    <LtxtSuperUser>Superužívateľ</LtxtSuperUser>
+    <LtxtValPwd>Chýbajúce heslo</LtxtValPwd>
+    <LtxtErrAgents>Agenti musia byť vytvorení v SAP predtým ako sa dajú vygenerovať užívatelia!</LtxtErrAgents>
+    <LtxtAddUserNote>Tu sa dá špecifikovať, ktorí agenti budú mať prístup do OLK, ich príslušné heslá a profil užívateľa.</LtxtAddUserNote>
+    <LtxtConfDelUsr>Ste si istí, že chcete zmazať "{0}"?</LtxtConfDelUsr>
+    <LtxtAdminMail>Užívatelia - admini musia mať e-mailovú adresu</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtGroups>&lt;--&gt;</DtxtGroups>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtIP>&lt;--&gt;</DtxtIP>
+    <DtxtAdministrator>&lt;--&gt;</DtxtAdministrator>
+    <LtxtValUsr>&lt;--&gt;</LtxtValUsr>
+    <LtxtValUName>&lt;--&gt;</LtxtValUName>
+    <LtxtVarUNamAsign>&lt;--&gt;</LtxtVarUNamAsign>
+    <LtxtValEMail>&lt;--&gt;</LtxtValEMail>
+    <LtxtAgAccDef>&lt;--&gt;</LtxtAgAccDef>
+    <LtxtAgAccNote>&lt;--&gt;</LtxtAgAccNote>
+    <LtxtAsignClient>&lt;--&gt;</LtxtAsignClient>
+    <LtxtSuperUser>&lt;--&gt;</LtxtSuperUser>
+    <LtxtValPwd>&lt;--&gt;</LtxtValPwd>
+    <LtxtErrAgents>&lt;--&gt;</LtxtErrAgents>
+    <LtxtAddUserNote>&lt;--&gt;</LtxtAddUserNote>
+    <LtxtConfDelUsr>&lt;--&gt;</LtxtConfDelUsr>
+    <LtxtAdminMail>&lt;--&gt;</LtxtAdminMail>
+    <LtxtMsgAlr>&lt;--&gt;</LtxtMsgAlr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtGroups>DtxtGroups</DtxtGroups>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtIP>DtxtIP</DtxtIP>
+    <DtxtAdministrator>DtxtAdministrator</DtxtAdministrator>
+    <LtxtValUsr>LtxtValUsr</LtxtValUsr>
+    <LtxtValUName>LtxtValUName</LtxtValUName>
+    <LtxtVarUNamAsign>LtxtVarUNamAsign</LtxtVarUNamAsign>
+    <LtxtValEMail>LtxtValEMail</LtxtValEMail>
+    <LtxtAgAccDef>LtxtAgAccDef</LtxtAgAccDef>
+    <LtxtAgAccNote>LtxtAgAccNote</LtxtAgAccNote>
+    <LtxtAsignClient>LtxtAsignClient</LtxtAsignClient>
+    <LtxtSuperUser>LtxtSuperUser</LtxtSuperUser>
+    <LtxtValPwd>LtxtValPwd</LtxtValPwd>
+    <LtxtErrAgents>LtxtErrAgents</LtxtErrAgents>
+    <LtxtAddUserNote>LtxtAddUserNote</LtxtAddUserNote>
+    <LtxtConfDelUsr>LtxtConfDelUsr</LtxtConfDelUsr>
+    <LtxtAdminMail>LtxtAdminMail</LtxtAdminMail>
+    <LtxtMsgAlr>LtxtMsgAlr</LtxtMsgAlr>
+  </language>
+</languages>

@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtProvider>Provider</DtxtProvider>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <LtxtDocCheck>{0} #{1} Check</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Item code or barcode</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Last item</LtxtLastItem>
+    <LtxtBackToRep>Back to report</LtxtBackToRep>
+    <LtxtErrItmCodBar>Item code or code bar was not found</LtxtErrItmCodBar>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtCurSum>Current</LtxtCurSum>
+    <LtxtReqSum>Required</LtxtReqSum>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCreatePackage>Create new package</LtxtCreatePackage>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtPend>Pendiente</DtxtPend>
+    <DtxtProvider>Proveedor</DtxtProvider>
+    <DtxtValEnterValue>Debe introducir un valor</DtxtValEnterValue>
+    <LtxtDocCheck>Revisión de {0} #{1}</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Código de artículo o barra</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Ultimo artículo</LtxtLastItem>
+    <LtxtBackToRep>Regresar a reporte</LtxtBackToRep>
+    <LtxtErrItmCodBar>No se encontró el código de articulo / barra</LtxtErrItmCodBar>
+    <LtxtBarCode>Código de Barra</LtxtBarCode>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecargado</LtxtOverload>
+    <LtxtCurSum>Actual</LtxtCurSum>
+    <LtxtReqSum>Requerida</LtxtReqSum>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCreatePackage>Crear paquete nuevo</LtxtCreatePackage>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtPend>פתוח</DtxtPend>
+    <DtxtProvider>ספק</DtxtProvider>
+    <DtxtValEnterValue>יש לתת ערך לשדה</DtxtValEnterValue>
+    <LtxtDocCheck>בדיקת ל{0} {1}</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>מק"ט פריט או ברקוד</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>מק"ט אחרון</LtxtLastItem>
+    <LtxtBackToRep>חזרה לדוח</LtxtBackToRep>
+    <LtxtErrItmCodBar>מק"ט או ברקוד לא קיים</LtxtErrItmCodBar>
+    <LtxtBarCode>ברקוד</LtxtBarCode>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtCompleted>מלא</LtxtCompleted>
+    <LtxtOverload>עומס יתר</LtxtOverload>
+    <LtxtCurSum>נוכחי</LtxtCurSum>
+    <LtxtReqSum>דרוש</LtxtReqSum>
+    <LtxtPartial>חלקי</LtxtPartial>
+    <LtxtCreatePackage>צור יח' אריזה חדשה</LtxtCreatePackage>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtProvider>Provider</DtxtProvider>
+    <DtxtValEnterValue>You must enter a value</DtxtValEnterValue>
+    <LtxtDocCheck>{0} #{1} Check</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Item code or barcode</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Last item</LtxtLastItem>
+    <LtxtBackToRep>Back to report</LtxtBackToRep>
+    <LtxtErrItmCodBar>Item code or code bar was not found</LtxtErrItmCodBar>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtCurSum>Current</LtxtCurSum>
+    <LtxtReqSum>Required</LtxtReqSum>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCreatePackage>Create new package</LtxtCreatePackage>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtPend>Pendente</DtxtPend>
+    <DtxtProvider>Fornecedor</DtxtProvider>
+    <DtxtValEnterValue>Você deve inserir um valor</DtxtValEnterValue>
+    <LtxtDocCheck>Revisão de {0} Nº {1}</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Código do item ou Código de barras</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Último item</LtxtLastItem>
+    <LtxtBackToRep>Voltar ao Relatório</LtxtBackToRep>
+    <LtxtErrItmCodBar>Código do Item ou Código de Barras não foi encontrado</LtxtErrItmCodBar>
+    <LtxtBarCode>Código de Barras</LtxtBarCode>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecarregado</LtxtOverload>
+    <LtxtCurSum>Atual</LtxtCurSum>
+    <LtxtReqSum>Solicitada</LtxtReqSum>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCreatePackage>Criar novo pacote</LtxtCreatePackage>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <DtxtProvider>&lt;--&gt;</DtxtProvider>
+    <DtxtValEnterValue>&lt;--&gt;</DtxtValEnterValue>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>&lt;--&gt;</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>&lt;--&gt;</LtxtLastItem>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtErrItmCodBar>&lt;--&gt;</LtxtErrItmCodBar>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCreatePackage>&lt;--&gt;</LtxtCreatePackage>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <DtxtProvider>Anbieter</DtxtProvider>
+    <DtxtValEnterValue>Sie müssen einen Wert angeben</DtxtValEnterValue>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>&lt;--&gt;</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>&lt;--&gt;</LtxtLastItem>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtErrItmCodBar>&lt;--&gt;</LtxtErrItmCodBar>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCreatePackage>&lt;--&gt;</LtxtCreatePackage>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtPend>Открытый</DtxtPend>
+    <DtxtProvider>Поставщик</DtxtProvider>
+    <DtxtValEnterValue>Должны дать значения в поле</DtxtValEnterValue>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>&lt;--&gt;</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>&lt;--&gt;</LtxtLastItem>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtErrItmCodBar>&lt;--&gt;</LtxtErrItmCodBar>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCreatePackage>&lt;--&gt;</LtxtCreatePackage>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <DtxtProvider>Poskytovatel</DtxtProvider>
+    <DtxtValEnterValue>Musíte zadat hodnotu</DtxtValEnterValue>
+    <LtxtDocCheck>{0} #{1} Check</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Kód položky nebo čárový kód</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Poslední položka</LtxtLastItem>
+    <LtxtBackToRep>Zpět na report</LtxtBackToRep>
+    <LtxtErrItmCodBar>Kód položky nebo čárový kód nebyl nalezen</LtxtErrItmCodBar>
+    <LtxtBarCode>Čárový kód</LtxtBarCode>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtCompleted>Dokončeno</LtxtCompleted>
+    <LtxtOverload>Přetížení</LtxtOverload>
+    <LtxtCurSum>Aktuální</LtxtCurSum>
+    <LtxtReqSum>Povinný</LtxtReqSum>
+    <LtxtPartial>Částečné</LtxtPartial>
+    <LtxtCreatePackage>Vytvořit nový balíček</LtxtCreatePackage>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <DtxtProvider>Dostawca</DtxtProvider>
+    <DtxtValEnterValue>Musisz wprowadzić wartość</DtxtValEnterValue>
+    <LtxtDocCheck>{0} #{1} Sprawdzenie</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Kod lub kod kreskowy pozycji</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Ostatnia pozycja</LtxtLastItem>
+    <LtxtBackToRep>Powrót do raportu</LtxtBackToRep>
+    <LtxtErrItmCodBar>Kod lub kod kreskowy pozycji nie został znaleziony</LtxtErrItmCodBar>
+    <LtxtBarCode>Kod kreskowy</LtxtBarCode>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Zakończony</LtxtCompleted>
+    <LtxtOverload>Przeładowany</LtxtOverload>
+    <LtxtCurSum>Aktualny</LtxtCurSum>
+    <LtxtReqSum>Wymagany</LtxtReqSum>
+    <LtxtPartial>Częściowy</LtxtPartial>
+    <LtxtCreatePackage>Stwórz nowy pakiet</LtxtCreatePackage>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <DtxtProvider>Poskytovateľ</DtxtProvider>
+    <DtxtValEnterValue>Musíte zadať nejakú hodnotu</DtxtValEnterValue>
+    <LtxtDocCheck>Kontrola {0} #{1}</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>Kód alebo čiarový kód položky</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>Posledná položka</LtxtLastItem>
+    <LtxtBackToRep>Späť na správu</LtxtBackToRep>
+    <LtxtErrItmCodBar>Kód položky alebo čiarový kód položky nebol nájdený</LtxtErrItmCodBar>
+    <LtxtBarCode>Čiarový kód</LtxtBarCode>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtCompleted>Ukončené</LtxtCompleted>
+    <LtxtOverload>Preťaženie</LtxtOverload>
+    <LtxtCurSum>Aktuálne</LtxtCurSum>
+    <LtxtReqSum>Požadované</LtxtReqSum>
+    <LtxtPartial>Čiastkový</LtxtPartial>
+    <LtxtCreatePackage>Vytvorte nový balík</LtxtCreatePackage>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtBaseUnit>&lt;--&gt;</DtxtBaseUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtPend>&lt;--&gt;</DtxtPend>
+    <DtxtProvider>&lt;--&gt;</DtxtProvider>
+    <DtxtValEnterValue>&lt;--&gt;</DtxtValEnterValue>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>&lt;--&gt;</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>&lt;--&gt;</LtxtLastItem>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtErrItmCodBar>&lt;--&gt;</LtxtErrItmCodBar>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtCurSum>&lt;--&gt;</LtxtCurSum>
+    <LtxtReqSum>&lt;--&gt;</LtxtReqSum>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCreatePackage>&lt;--&gt;</LtxtCreatePackage>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <DtxtProvider>DtxtProvider</DtxtProvider>
+    <DtxtValEnterValue>DtxtValEnterValue</DtxtValEnterValue>
+    <LtxtDocCheck>LtxtDocCheck</LtxtDocCheck>
+    <LtxtItemCodeOrCodBar>LtxtItemCodeOrCodBar</LtxtItemCodeOrCodBar>
+    <LtxtLastItem>LtxtLastItem</LtxtLastItem>
+    <LtxtBackToRep>LtxtBackToRep</LtxtBackToRep>
+    <LtxtErrItmCodBar>LtxtErrItmCodBar</LtxtErrItmCodBar>
+    <LtxtBarCode>LtxtBarCode</LtxtBarCode>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtCompleted>LtxtCompleted</LtxtCompleted>
+    <LtxtOverload>LtxtOverload</LtxtOverload>
+    <LtxtCurSum>LtxtCurSum</LtxtCurSum>
+    <LtxtReqSum>LtxtReqSum</LtxtReqSum>
+    <LtxtPartial>LtxtPartial</LtxtPartial>
+    <LtxtCreatePackage>LtxtCreatePackage</LtxtCreatePackage>
+  </language>
+</languages>

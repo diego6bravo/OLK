@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtValGrmNam>You must enter a group name</LtxtValGrmNam>
+    <LttlFooter>Footer</LttlFooter>
+    <LttlFooterNote>Here you can define the list of sections for the footer for the client session</LttlFooterNote>
+    <LtxtConfDelGrp>Are you sure you want to remove the group {0}?</LtxtConfDelGrp>
+    <LttlFooterGroup>Footer Sections</LttlFooterGroup>
+    <LtxtSection>Section</LtxtSection>
+    <LtxtConfDelSec>Are you sure you want to remove section {0}?</LtxtConfDelSec>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LtxtValGrmNam>Debe introducir el nombre del grupo</LtxtValGrmNam>
+    <LttlFooter>Pie de Pagina</LttlFooter>
+    <LttlFooterNote>En esta seccion podra definir la lista de secciones para el pie de página en la sesion de cliente</LttlFooterNote>
+    <LtxtConfDelGrp>¿Está seguro que desea eliminar el grupo {0}?</LtxtConfDelGrp>
+    <LttlFooterGroup>Secciones de Pie de Pagina</LttlFooterGroup>
+    <LtxtSection>Sección</LtxtSection>
+    <LtxtConfDelSec>¿Está seguro que desea eliminar la sección {0}?</LtxtConfDelSec>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LtxtValGrmNam>עליך להזין שם קבוצה</LtxtValGrmNam>
+    <LttlFooter>כותרת תחתונה</LttlFooter>
+    <LttlFooterNote>כאן תוכל להגדיר רשימה של סעיפים לכותרת התחתונה בחיבור לקוח</LttlFooterNote>
+    <LtxtConfDelGrp>האם אתה בטוח שברצונך להסיר את הקבוצה {0}?</LtxtConfDelGrp>
+    <LttlFooterGroup>סעיפיי כותרת תחתונה</LttlFooterGroup>
+    <LtxtSection>אזור</LtxtSection>
+    <LtxtConfDelSec>האם אתה בטוח שברצונך להסיר סעיף {0}?</LtxtConfDelSec>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LtxtValGrmNam>Você deve colocar o nome do grupo</LtxtValGrmNam>
+    <LttlFooter>Rodapé</LttlFooter>
+    <LttlFooterNote>Aqui você poderá estabelecer a lista de seções para o rodapé na seção do cliente</LttlFooterNote>
+    <LtxtConfDelGrp>Você tem certeza que deseja excluir o grupo {0}?</LtxtConfDelGrp>
+    <LttlFooterGroup>Seções do Rodapé</LttlFooterGroup>
+    <LtxtSection>Seção</LtxtSection>
+    <LtxtConfDelSec>Você tem certeza que deseja excluir a seção {0}?</LtxtConfDelSec>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LtxtValGrmNam>&lt;--&gt;</LtxtValGrmNam>
+    <LttlFooter>&lt;--&gt;</LttlFooter>
+    <LttlFooterNote>&lt;--&gt;</LttlFooterNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlFooterGroup>&lt;--&gt;</LttlFooterGroup>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LtxtValGrmNam>LtxtValGrmNam</LtxtValGrmNam>
+    <LttlFooter>LttlFooter</LttlFooter>
+    <LttlFooterNote>LttlFooterNote</LttlFooterNote>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+    <LttlFooterGroup>LttlFooterGroup</LttlFooterGroup>
+    <LtxtSection>LtxtSection</LtxtSection>
+    <LtxtConfDelSec>LtxtConfDelSec</LtxtConfDelSec>
+  </language>
+</languages>

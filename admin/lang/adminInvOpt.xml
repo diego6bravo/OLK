@@ -1,0 +1,1069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customized</DtxtCustomized>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Inventory/Availability Report Order</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Here the order in which the inventory quantities and available quantities appear in the Item Details window are defined.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Update Item Details</LttlItmDet>
+    <LttlItmDetNote>Here the names of the custom fields appearing in item details window and the user types that can access it are defined.</LttlItmDetNote>
+    <LttlAddFldItmDet>Add Field to Item Details</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Here Item Details fields may be added and edited.</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Price List (Cart Only)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Does not work with Mobile</LtxtNoWPocket>
+    <LttlEditFldItmDet>Edit Item Details Field</LttlEditFldItmDet>
+    <LtxtValFldNam>You can\'t have a field without a name</LtxtValFldNam>
+    <LtxtConfDelFld>Are you sure you want to delete the field {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValFldNam2>Please enter the field\'s name</LtxtValFldNam2>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtNoRSVars>The selected report does not have variables.</LtxtNoRSVars>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>You must enter the query of the variable {0} value.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>You must validate the query of the variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>You must select the link report</LtxtValRepLnk>
+    <LtxtQtyInUnit>Quantity in unit</LtxtQtyInUnit>
+    <LtxtHideNull>Hide Null</LtxtHideNull>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificación</DtxtCodification>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtMedium>Media</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatoria</DtxtRndLtr>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtWhsCode>Código de Almacén</DtxtWhsCode>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Importes</DtxtDecSum>
+    <DtxtDecPrice>Precios</DtxtDecPrice>
+    <DtxtDecRate>Tasas</DtxtDecRate>
+    <DtxtDecQty>Cantidades</DtxtDecQty>
+    <DtxtDecPercent>Porcentaje</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Orden de Reporte de Inventario/Disponible</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>En esta sección podrá escoger el orden en que aparecerán la cantidad de inventario y la cantidad disponible en la ventana de detalles de artículo.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Actualización de Detalles de los Artículos</LttlItmDet>
+    <LttlItmDetNote>En esta sección podrá definir los nombres de los campos que aparecerán dentro del área de detalles de los artículos y que usuarios tendrán acceso a los mismos.</LttlItmDetNote>
+    <LttlAddFldItmDet>Agregar Campo a los Detalles de los Artículos </LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>En esta sección podrá agregar/editar campos dentro del área de detalles de los artículos.</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Lista de precios (Canasta solamente)</LtxtPListCartOnly>
+    <LtxtNoWPocket>No trabaja en Movil</LtxtNoWPocket>
+    <LttlEditFldItmDet>Editar Campo de los Detalles de los Artículos </LttlEditFldItmDet>
+    <LtxtValFldNam>No se puede agregar un campo sin nombre</LtxtValFldNam>
+    <LtxtConfDelFld>¿Está seguro que desea eliminar el campo {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Debe verificar la consulta antes de agregar el campo</LtxtValQryVal>
+    <LtxtValFldNam2>Debe introducir el nombre del campo</LtxtValFldNam2>
+    <LtxtValQry>Debe introducir la consulta</LtxtValQry>
+    <LtxtRep>Reporte</LtxtRep>
+    <LtxtNoRSVars>El reporte seleccionado no tiene variables.</LtxtNoRSVars>
+    <LtxtSelFldVar>Debe seleccionar el campo para la variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Debe introducir el valor para la variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Debe introducir la consulta del valor de la variable {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Debe validar la consulta del valor de la variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Debe seleccionar el reporte del enlace</LtxtValRepLnk>
+    <LtxtQtyInUnit>Cantidad en unidad</LtxtQtyInUnit>
+    <LtxtHideNull>Ocultar Nulo</LtxtHideNull>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtCodification>קידוד</DtxtCodification>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtMedium>אמצע</DtxtMedium>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtRndLtr>קידוד אוטומטי</DtxtRndLtr>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtCustomized>התאמה אישית</DtxtCustomized>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtWhsCode>קוד מחסן</DtxtWhsCode>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtVariable>משתנה</DtxtVariable>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtDecSum>סכומים</DtxtDecSum>
+    <DtxtDecPrice>מחירים</DtxtDecPrice>
+    <DtxtDecRate>שערים</DtxtDecRate>
+    <DtxtDecQty>כמויות</DtxtDecQty>
+    <DtxtDecPercent>אחוזים</DtxtDecPercent>
+    <DtxtDecMeasure>יחידות</DtxtDecMeasure>
+    <DtxtDecimal>עשרוני</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LttlInvAvlRepOrdr>סדר דוח למלאי זמין</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>בחלק זה תוכל לקבוע את הסדר בו יופיעו זמינויות המלאי בפירוט פריטים</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>עריכת פירוט פריטים</LttlItmDet>
+    <LttlItmDetNote>בחלק זה תוכל לתת שמות לשדות שיצרת לפירוט פריטים ולקבוע לאיזה סוג משתמשים יהיה גישה לשדות הנ"ל</LttlItmDetNote>
+    <LttlAddFldItmDet>הוסף שדה לפירוט פריטים</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>בחלק זה תוכל להוסיף ולערוך שדות לפירוט פריטים</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>מחירון (סל קניות בלבד)</LtxtPListCartOnly>
+    <LtxtNoWPocket>לא עובד בפוקט</LtxtNoWPocket>
+    <LttlEditFldItmDet>עריכת שדה לפירוט פריטים</LttlEditFldItmDet>
+    <LtxtValFldNam>לא ניתן להוסיף שדה ללא תאור</LtxtValFldNam>
+    <LtxtConfDelFld>האם למחוק שדה {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>צריך לאשר את השאילתא לפני הוספת השדה</LtxtValQryVal>
+    <LtxtValFldNam2>צריך לתת תאור לשדה</LtxtValFldNam2>
+    <LtxtValQry>יש למלא את השאילתא</LtxtValQry>
+    <LtxtRep>דוח</LtxtRep>
+    <LtxtNoRSVars>אין משתנים בדוח הנבחר</LtxtNoRSVars>
+    <LtxtSelFldVar>צריך לבחור ערך לשדה {0}@</LtxtSelFldVar>
+    <LtxtValVarVal>צריך להכניס ערך למשתנה {0}@</LtxtValVarVal>
+    <LtxtValVarQry>יש למלא שאילתא למשתנה {0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>יש לאשר את השאילתא למשתנה {0}</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>יש לבחור את הדוח לקישור</LtxtValRepLnk>
+    <LtxtQtyInUnit>כמות ליח'</LtxtQtyInUnit>
+    <LtxtHideNull>הסתר NULL</LtxtHideNull>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Encryption</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customised</DtxtCustomized>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Inventory/Availability Report Order</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Here the order in which the inventory quantities and available quantities appear in the Item Details window are defined.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Update Item Details</LttlItmDet>
+    <LttlItmDetNote>Here the names of the custom fields appearing in item details window and the user types that can access it are defined.</LttlItmDetNote>
+    <LttlAddFldItmDet>Add Field to Item Details</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Here Item Details fields may be added and edited.</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Price List (Cart Only)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Does not work with Mobile</LtxtNoWPocket>
+    <LttlEditFldItmDet>Edit Item Details Field</LttlEditFldItmDet>
+    <LtxtValFldNam>You can\'t have a field without a name</LtxtValFldNam>
+    <LtxtConfDelFld>Are you sure you want to delete the field {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValFldNam2>Please enter the field\'s name</LtxtValFldNam2>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtNoRSVars>The selected report does not have variables.</LtxtNoRSVars>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>You must enter the query of the variable {0} value.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>You must validate the query of the variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>You must select the link report</LtxtValRepLnk>
+    <LtxtQtyInUnit>Quantity in unit</LtxtQtyInUnit>
+    <LtxtHideNull>Hide Null</LtxtHideNull>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificação</DtxtCodification>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtMedium>Médio</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatória</DtxtRndLtr>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtWhsCode>Código do Armazém</DtxtWhsCode>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtVariable>Variável</DtxtVariable>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtDecSum>Quantidades</DtxtDecSum>
+    <DtxtDecPrice>Preços</DtxtDecPrice>
+    <DtxtDecRate>Taxas</DtxtDecRate>
+    <DtxtDecQty>Quantidades</DtxtDecQty>
+    <DtxtDecPercent>Percentagem</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Ordem do Relatório do Inventário/Disponível</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Nesta seção, poderá escolher a ordem em que aparecerão quantidade do inventário e a quantidade disponível na janela dos detalhes do iten.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Atualização de Detalhes dos Itens</LttlItmDet>
+    <LttlItmDetNote>Nesta seção, poderá definir os nomes dos campos que aparecerão dentro da área de detalhes dos itens e que os usuários terão acesso aos mesmos.</LttlItmDetNote>
+    <LttlAddFldItmDet>Adicionar Campo aos Detalhes dos Itens</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Nesta seção, poderá adicionar/editar campos dentro da área de detalhes dos itens.</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Lista de Preços (Carrinho somente)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Não funciona com Mobile</LtxtNoWPocket>
+    <LttlEditFldItmDet>Editar campo dos detalhes dos Itens</LttlEditFldItmDet>
+    <LtxtValFldNam>Não pode ser adicionado um campo sem nome</LtxtValFldNam>
+    <LtxtConfDelFld>Você tem certeza de que deseja excluir o campo {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Deve verificar a consulta antes de adicionar o campo</LtxtValQryVal>
+    <LtxtValFldNam2>Deve inserir o nome do campo</LtxtValFldNam2>
+    <LtxtValQry>Deve inserir a consulta</LtxtValQry>
+    <LtxtRep>Relatório</LtxtRep>
+    <LtxtNoRSVars>O relatório selecionado não possui variáveis</LtxtNoRSVars>
+    <LtxtSelFldVar>Deve selecionar o campo para a variável @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Deve inserir o valor para a variável @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Deve inserir a consulta do valor da variável {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Deve validar a consulta do valor da variável {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Deve selecionar o relatório do enlace</LtxtValRepLnk>
+    <LtxtQtyInUnit>Quantidade em unidade</LtxtQtyInUnit>
+    <LtxtHideNull>Ocultar Nulo</LtxtHideNull>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtMedium>Moyenne</DtxtMedium>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtRndLtr>Caractère aléatoire</DtxtRndLtr>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtCustomized>Personnalisé</DtxtCustomized>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtWhsCode>Code de magasin</DtxtWhsCode>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Montants, Valeurs</DtxtDecSum>
+    <DtxtDecPrice>Prix</DtxtDecPrice>
+    <DtxtDecRate>Taux</DtxtDecRate>
+    <DtxtDecQty>Quantités</DtxtDecQty>
+    <DtxtDecPercent>Taux</DtxtDecPercent>
+    <DtxtDecMeasure>Unités</DtxtDecMeasure>
+    <DtxtDecimal>Décimal</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Ordre du report d'Inventaire/Disponible</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Dans cette section vous pourrez choisir l'ordre lequel apparaîtra la quantité d'inventaire et la quantité disponible dans la fenêtre des détails d'article.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Mise à jour des détails des articles</LttlItmDet>
+    <LttlItmDetNote>Dans cette section vous pourrez définir les noms des domaines qu'ils apparaîtront dedans la surface de détails des articles et qui utilisateurs auront l'accès aux mêmes.</LttlItmDetNote>
+    <LttlAddFldItmDet>Ajouter domaine aux détails des articles</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Dans cette section vous pourrez ajouter/éditer des domaines dedans la surface de détails des articles</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Liste des prix (Corbeille seulement)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Ne travail pas en Poche</LtxtNoWPocket>
+    <LttlEditFldItmDet>Éditer le domaine des détails des articles</LttlEditFldItmDet>
+    <LtxtValFldNam>Ne peut pas ajouter un domaine sans nom</LtxtValFldNam>
+    <LtxtConfDelFld>Êtes-vous sûre d\'éliminer le domaine{0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Devez-vous vérifier la consultation avant d\'ajouter le domaine</LtxtValQryVal>
+    <LtxtValFldNam2>Devez-vous insérer le nom du domaine</LtxtValFldNam2>
+    <LtxtValQry>Devez-vous insérer la consultation</LtxtValQry>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtNoRSVars>Le report sélectionné n\'a pas des variables</LtxtNoRSVars>
+    <LtxtSelFldVar>Devez-vous sélectionner le domaine pour la variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Devez-vous insérer la valeur pour la variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Devez-vous insérer la consultation de la valeur pour la variable{0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Devez-vous valider la consultation de la valeur pour la variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Devez-vous sélectione le report du lien</LtxtValRepLnk>
+    <LtxtQtyInUnit>Quantité d'unité</LtxtQtyInUnit>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtCodification>Verschlüsselung</DtxtCodification>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtRndLtr>Wilkürlicher Buchstabe</DtxtRndLtr>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtCustomized>Kundenindividuell</DtxtCustomized>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtWhsCode>Lagerkennzeichen</DtxtWhsCode>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Mengen</DtxtDecSum>
+    <DtxtDecPrice>Preise</DtxtDecPrice>
+    <DtxtDecRate>Tarife</DtxtDecRate>
+    <DtxtDecQty>Mengen</DtxtDecQty>
+    <DtxtDecPercent>Prozent</DtxtDecPercent>
+    <DtxtDecMeasure>Einheiten</DtxtDecMeasure>
+    <DtxtDecimal>Dezimal</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Inventur/Verfügbarkeits Bescheid </LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>In diesem Bereich kann man festlegen in welcher Reihenfolge die Inventurmenge und die verfügbare Menge erscheinen im Artikel Einzelheiten Fenster.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Artikel Einzelheiten aktualisieren</LttlItmDet>
+    <LttlItmDetNote>In diesem Bereich kann man die Namen der Felder, die unter Artikel Einzelheiten erscheinen, festlegen und bestimmen welcher Benutzertyp Zugang hat.</LttlItmDetNote>
+    <LttlAddFldItmDet>Artikel Einzelheiten - Feld hinzufügen</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>In diesem Bereich kann man ein Feld hinzufügen/bearbeiten für den Artikel-Einzelheiten-Bereich</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Preisliste (nur Einkaufswagen)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Funktioniert nicht mit der Ablage</LtxtNoWPocket>
+    <LttlEditFldItmDet>Artikel Einzelheiten - Feld ändern</LttlEditFldItmDet>
+    <LtxtValFldNam>Sie können kein Feld ohne Namen haben</LtxtValFldNam>
+    <LtxtConfDelFld>Möchten Sie das Feld {0} wirklich löschen?</LtxtConfDelFld>
+    <LtxtValQryVal>Sie müssen die Anfrage zuerst bestätigen um alle Änderungen zu speichern</LtxtValQryVal>
+    <LtxtValFldNam2>Bitte geben Sie den Feldnamen an</LtxtValFldNam2>
+    <LtxtValQry>Bitte geben Sie die Anfrage an</LtxtValQry>
+    <LtxtRep>Bericht</LtxtRep>
+    <LtxtNoRSVars>Der ausgewählte Bericht enthält keine Variablen</LtxtNoRSVars>
+    <LtxtSelFldVar>Sie müssen das Feld der Variable @{0} auswählen</LtxtSelFldVar>
+    <LtxtValVarVal>Bitte geben Sie den Wert der Variablen @{0} an</LtxtValVarVal>
+    <LtxtValVarQry>Sie müssen die Anfrage des Variablenwerts {0} angeben.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Sie müssen die Anfrage der Variable {0} bestätigen.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Sie müssen den Verknüpfungsbericht auswählen</LtxtValRepLnk>
+    <LtxtQtyInUnit>Menge der Einheit</LtxtQtyInUnit>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtCodification>Кодирование</DtxtCodification>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtMedium>Среднее</DtxtMedium>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtRndLtr>Автоматическое кодирование</DtxtRndLtr>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtCustomized>Настройка</DtxtCustomized>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtWhsCode>Код склада</DtxtWhsCode>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtVariable>Переменная</DtxtVariable>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtDecSum>Суммы</DtxtDecSum>
+    <DtxtDecPrice>Цены</DtxtDecPrice>
+    <DtxtDecRate>Курсы</DtxtDecRate>
+    <DtxtDecQty>Сумма</DtxtDecQty>
+    <DtxtDecPercent>Проценты</DtxtDecPercent>
+    <DtxtDecMeasure>Единицы</DtxtDecMeasure>
+    <DtxtDecimal>Десятичный</DtxtDecimal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Упорядочить документы инвентаризации</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Используйте этот раздел, чтобы определить порядок, в котором будет подробноя инвентаризация деталей </LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Изменить описание деталей</LttlItmDet>
+    <LttlItmDetNote>В этом разделе можно давать имена полей, которые вы создали подробно определить детали, а так же пользователей которым будет доступ к этим полям</LttlItmDetNote>
+    <LttlAddFldItmDet>Добавить поле для описания деталей</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>В этой части можно добавить и изменять поля описания деталей</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Прескурант(только корзина покупок)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Не работает в покет</LtxtNoWPocket>
+    <LttlEditFldItmDet>Изменить поле для описания деталей</LttlEditFldItmDet>
+    <LtxtValFldNam>Не возможно добавить поле без описания</LtxtValFldNam>
+    <LtxtConfDelFld>Удалить поле {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Вы должны подтвердить запрос прежде чем вы сможете сохранить изменения</LtxtValQryVal>
+    <LtxtValFldNam2>Должны дать название полю </LtxtValFldNam2>
+    <LtxtValQry>Нужно заполнить запрос</LtxtValQry>
+    <LtxtRep>Документ</LtxtRep>
+    <LtxtNoRSVars>Нет переменных в выбранном документе</LtxtNoRSVars>
+    <LtxtSelFldVar>Нужно выбрать поле перенной  {0}@</LtxtSelFldVar>
+    <LtxtValVarVal> Должны внести значения переменных  {0}@</LtxtValVarVal>
+    <LtxtValVarQry>Нужно заполнить запрос для переменных {0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Вы должны проверить запросы переменных</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Нужно выбрать документ для связи</LtxtValRepLnk>
+    <LtxtQtyInUnit>Корличество штук</LtxtQtyInUnit>
+    <LtxtHideNull>Скрыть Нуль</LtxtHideNull>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kódování</DtxtCodification>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtMedium>Střední</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný dopis</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Přizpůsobené</DtxtCustomized>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtVariable>Proměnná</DtxtVariable>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Částky</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Sazby</DtxtDecRate>
+    <DtxtDecQty>Množství</DtxtDecQty>
+    <DtxtDecPercent>Procento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Decimální</DtxtDecimal>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Zásoby/dostupnost - pořadí v reportu</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>V této sekci je možné zvolit pořadí, v jakém se zobrazí množství zásob a dostupné množství v okně údajů o položce</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Aktualizovat údaje o položce</LttlItmDet>
+    <LttlItmDetNote>V této sekci je možné definovat názvy polí, která se zobrazí pod údaji o položce, a typ uživatele, který k nim může mít přístup.</LttlItmDetNote>
+    <LttlAddFldItmDet>Přidat pole do údajů položky</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>V této sekci je možné přidat/upravit pole v oblasti údajů o položce</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Ceník (pouze košík)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Nefunguje s Kapesním</LtxtNoWPocket>
+    <LttlEditFldItmDet>Upravit pole v údajích o položce</LttlEditFldItmDet>
+    <LtxtValFldNam>Není možné mít pole bez jména</LtxtValFldNam>
+    <LtxtConfDelFld>Jste si jistý/á, že chcete vymazat pole {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Před uložením změn musíte ověřit dotaz</LtxtValQryVal>
+    <LtxtValFldNam2>Zadejte prosím název pole</LtxtValFldNam2>
+    <LtxtValQry>Vložte prosím dotaz</LtxtValQry>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtNoRSVars>Vybraný report neobsahuje proměnné.</LtxtNoRSVars>
+    <LtxtSelFldVar>Musíte vybrat pole pro proměnnou @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Zadejte prosím hodnotu proměnné @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musíte zadat dotaz pro hodnotu proměnné {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Ověřte dotaz na proměnnou {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Zvolte navázaný report</LtxtValRepLnk>
+    <LtxtQtyInUnit>Množství v jednotkách</LtxtQtyInUnit>
+    <LtxtHideNull>Schovat null</LtxtHideNull>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kodowanie</DtxtCodification>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtMedium>Średni/a</DtxtMedium>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtRndLtr>Przypadkowa litera</DtxtRndLtr>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtCustomized>Wykonane na zamówienie/zindywidualizowane</DtxtCustomized>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtWhsCode>Kod magazynu</DtxtWhsCode>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtVariable>Zmienne</DtxtVariable>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kursy</DtxtDecRate>
+    <DtxtDecQty>Ilości</DtxtDecQty>
+    <DtxtDecPercent>Procenty</DtxtDecPercent>
+    <DtxtDecMeasure>Jednostki</DtxtDecMeasure>
+    <DtxtDecimal>Miejsce po przecinku</DtxtDecimal>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Porządek raportu zapasów/dostępności</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Tutaj definiuje się porządek w jakim w oknie Szczegóły pozycji pojawiają się ilości zapasu oraz dostępne ilości </LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Uaktualnij szczegóły pozycji</LttlItmDet>
+    <LttlItmDetNote>Tutaj określa się nazwy zindywidualizowanych pól pojawiających się w oknie szczegółów pozycji oraz rodzaje użytkowników, którzy mogą mieć do niego dostęp</LttlItmDetNote>
+    <LttlAddFldItmDet>Dodaj pole do szczegółów pozycji</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Tutaj pola szczegółów pozycji mogą być dodawane i edytowane. </LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Cennik (tylko koszyk)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Nie działa ze Schowkiem</LtxtNoWPocket>
+    <LttlEditFldItmDet>Edytuj pole szczegółów pozycji</LttlEditFldItmDet>
+    <LtxtValFldNam>Nie można stworzyć pola bez nazwy</LtxtValFldNam>
+    <LtxtConfDelFld>Czy jesteś pewien, że chcesz skasować pole {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie zanim będziesz mógł zapamiętać zmiany</LtxtValQryVal>
+    <LtxtValFldNam2>Proszę wprowadź nazwę pola</LtxtValFldNam2>
+    <LtxtValQry>Proszę wpisz zapytanie</LtxtValQry>
+    <LtxtRep>Raport</LtxtRep>
+    <LtxtNoRSVars>Wybrany raport nie ma zmiennych</LtxtNoRSVars>
+    <LtxtSelFldVar>Musisz wybrać pole dla zmiennej @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Proszę wpisz wartość dla zmiennej @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musisz wpisać zapytanie o wartość {0} zmiennej</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Musisz zatwierdzić zapytanie o zmienna {0}</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Musisz wybrać link</LtxtValRepLnk>
+    <LtxtQtyInUnit>Ilość w jednostce</LtxtQtyInUnit>
+    <LtxtHideNull>Ukryj NULL</LtxtHideNull>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtCodification>Kodifikácia</DtxtCodification>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtMedium>Stredný</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný list</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Prispôsobené na mieru</DtxtCustomized>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtVariable>Premenná</DtxtVariable>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kurzy</DtxtDecRate>
+    <DtxtDecQty>Množstvá</DtxtDecQty>
+    <DtxtDecPercent>Percento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Desatinné</DtxtDecimal>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LttlInvAvlRepOrdr>Poradie výkazu zásob/dostupnosti</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>Tu sa definuje poradie, v ktorom sa zobrazujú množstvá zásob a dostupné množstvá v okne údajov o položke.</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>Aktualizovať údaje o položke</LttlItmDet>
+    <LttlItmDetNote>Tu sa definujú názvy vlastných políčok zobrazených v okne údajov o položke a typy užívateľov, ktorí k nim majú prístup.</LttlItmDetNote>
+    <LttlAddFldItmDet>Pridať políčko k údajom o položke</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>Tu sa dajú pridať a editovať políčka údajov o položke</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>Cenník (Len košík)</LtxtPListCartOnly>
+    <LtxtNoWPocket>Nefunguje s Vreckovým počítačom</LtxtNoWPocket>
+    <LttlEditFldItmDet>Editovať políčko údajov o položke</LttlEditFldItmDet>
+    <LtxtValFldNam>Nemôžete mať políčko bez názvu</LtxtValFldNam>
+    <LtxtConfDelFld>Ste si istí, že chcete vymazať políčko {0}?</LtxtConfDelFld>
+    <LtxtValQryVal>Musíte overiť dotaz predtým ako uložíte zmeny</LtxtValQryVal>
+    <LtxtValFldNam2>Prosím zadajte názov políčka</LtxtValFldNam2>
+    <LtxtValQry>Prosím zadajte dotaz</LtxtValQry>
+    <LtxtRep>Výkaz</LtxtRep>
+    <LtxtNoRSVars>Zvolený výkaz nemá premenné.</LtxtNoRSVars>
+    <LtxtSelFldVar>Musíte zvoliť políčko pre premennú @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Prosím zadajte hodnotu pre premennú @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musíte zadať dotaz hodnoty premennej {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Musíte overiť dotaz premennej {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Musíte zvoliť link výkazu</LtxtValRepLnk>
+    <LtxtQtyInUnit>Množstvo v jednotke</LtxtQtyInUnit>
+    <LtxtHideNull>Ukryť nulu</LtxtHideNull>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtCodification>&lt;--&gt;</DtxtCodification>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtMedium>&lt;--&gt;</DtxtMedium>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <DtxtRndLtr>&lt;--&gt;</DtxtRndLtr>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtCustomized>&lt;--&gt;</DtxtCustomized>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtWhsCode>&lt;--&gt;</DtxtWhsCode>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtVariable>&lt;--&gt;</DtxtVariable>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtSAP>&lt;--&gt;</DtxtSAP>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtDecSum>&lt;--&gt;</DtxtDecSum>
+    <DtxtDecPrice>&lt;--&gt;</DtxtDecPrice>
+    <DtxtDecRate>&lt;--&gt;</DtxtDecRate>
+    <DtxtDecQty>&lt;--&gt;</DtxtDecQty>
+    <DtxtDecPercent>&lt;--&gt;</DtxtDecPercent>
+    <DtxtDecMeasure>&lt;--&gt;</DtxtDecMeasure>
+    <DtxtDecimal>&lt;--&gt;</DtxtDecimal>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlInvAvlRepOrdr>&lt;--&gt;</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>&lt;--&gt;</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>&lt;--&gt;</LttlItmDet>
+    <LttlItmDetNote>&lt;--&gt;</LttlItmDetNote>
+    <LttlAddFldItmDet>&lt;--&gt;</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>&lt;--&gt;</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>&lt;--&gt;</LtxtPListCartOnly>
+    <LtxtNoWPocket>&lt;--&gt;</LtxtNoWPocket>
+    <LttlEditFldItmDet>&lt;--&gt;</LttlEditFldItmDet>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+    <LtxtConfDelFld>&lt;--&gt;</LtxtConfDelFld>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LtxtValFldNam2>&lt;--&gt;</LtxtValFldNam2>
+    <LtxtValQry>&lt;--&gt;</LtxtValQry>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtNoRSVars>&lt;--&gt;</LtxtNoRSVars>
+    <LtxtSelFldVar>&lt;--&gt;</LtxtSelFldVar>
+    <LtxtValVarVal>&lt;--&gt;</LtxtValVarVal>
+    <LtxtValVarQry>&lt;--&gt;</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>&lt;--&gt;</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>&lt;--&gt;</LtxtValRepLnk>
+    <LtxtQtyInUnit>&lt;--&gt;</LtxtQtyInUnit>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtCodification>DtxtCodification</DtxtCodification>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtMedium>DtxtMedium</DtxtMedium>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtRndLtr>DtxtRndLtr</DtxtRndLtr>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtCustomized>DtxtCustomized</DtxtCustomized>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtWhsCode>DtxtWhsCode</DtxtWhsCode>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtVariable>DtxtVariable</DtxtVariable>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtDecSum>DtxtDecSum</DtxtDecSum>
+    <DtxtDecPrice>DtxtDecPrice</DtxtDecPrice>
+    <DtxtDecRate>DtxtDecRate</DtxtDecRate>
+    <DtxtDecQty>DtxtDecQty</DtxtDecQty>
+    <DtxtDecPercent>DtxtDecPercent</DtxtDecPercent>
+    <DtxtDecMeasure>DtxtDecMeasure</DtxtDecMeasure>
+    <DtxtDecimal>DtxtDecimal</DtxtDecimal>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LttlInvAvlRepOrdr>LttlInvAvlRepOrdr</LttlInvAvlRepOrdr>
+    <LttlInvAvlRepOrdrNote>LttlInvAvlRepOrdrNote</LttlInvAvlRepOrdrNote>
+    <LttlItmDet>LttlItmDet</LttlItmDet>
+    <LttlItmDetNote>LttlItmDetNote</LttlItmDetNote>
+    <LttlAddFldItmDet>LttlAddFldItmDet</LttlAddFldItmDet>
+    <LttlAddFldItmDetNote>LttlAddFldItmDetNote</LttlAddFldItmDetNote>
+    <LtxtPListCartOnly>LtxtPListCartOnly</LtxtPListCartOnly>
+    <LtxtNoWPocket>LtxtNoWPocket</LtxtNoWPocket>
+    <LttlEditFldItmDet>LttlEditFldItmDet</LttlEditFldItmDet>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+    <LtxtConfDelFld>LtxtConfDelFld</LtxtConfDelFld>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LtxtValFldNam2>LtxtValFldNam2</LtxtValFldNam2>
+    <LtxtValQry>LtxtValQry</LtxtValQry>
+    <LtxtRep>LtxtRep</LtxtRep>
+    <LtxtNoRSVars>LtxtNoRSVars</LtxtNoRSVars>
+    <LtxtSelFldVar>LtxtSelFldVar</LtxtSelFldVar>
+    <LtxtValVarVal>LtxtValVarVal</LtxtValVarVal>
+    <LtxtValVarQry>LtxtValVarQry</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>LtxtValVarQryBrnVerfy</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>LtxtValRepLnk</LtxtValRepLnk>
+    <LtxtQtyInUnit>LtxtQtyInUnit</LtxtQtyInUnit>
+    <LtxtHideNull>LtxtHideNull</LtxtHideNull>
+  </language>
+</languages>

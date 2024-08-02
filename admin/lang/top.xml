@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Company</DtxtCmp>
+    <DoptEngUS>English (United States)</DoptEngUS>
+    <DoptSpanLA>Spanish (Latin America)</DoptSpanLA>
+    <DoptHeb>Hebrew</DoptHeb>
+    <LTtlAdmin>ADMINISTRATION</LTtlAdmin>
+    <LerrEMailValDomain>Domain is not valid.</LerrEMailValDomain>
+    <LerrEMailValURL>Your E-Mail\'s URL is not valid!</LerrEMailValURL>
+    <LtxtHome>Home</LtxtHome>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtAmbient>Environment</LtxtAmbient>
+    <LtxtAccess>Access</LtxtAccess>
+    <LtxtCustomize>Customizing</LtxtCustomize>
+    <LtxtReports>Reports</LtxtReports>
+    <LtxtUpdates>Updates</LtxtUpdates>
+    <LtxtLicence>License</LtxtLicence>
+    <LtxtSignOut>Sign Out</LtxtSignOut>
+    <LtxtSystem>System</LtxtSystem>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DoptEngUS>Inglés (Estados Unidos)</DoptEngUS>
+    <DoptSpanLA>Español (Latinoamérica)</DoptSpanLA>
+    <DoptHeb>Hebreo</DoptHeb>
+    <LTtlAdmin>ADMINISTRACION</LTtlAdmin>
+    <LerrEMailValDomain>El dominio no existe.</LerrEMailValDomain>
+    <LerrEMailValURL>¡El URL de su correo no es válido!</LerrEMailValURL>
+    <LtxtHome>Inicio</LtxtHome>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtAmbient>Ambiente</LtxtAmbient>
+    <LtxtAccess>Accesos</LtxtAccess>
+    <LtxtCustomize>Personalización</LtxtCustomize>
+    <LtxtReports>Reportes</LtxtReports>
+    <LtxtUpdates>Actualizaciones</LtxtUpdates>
+    <LtxtLicence>Licencia</LtxtLicence>
+    <LtxtSignOut>Cerrar Sesión</LtxtSignOut>
+    <LtxtSystem>Sistema</LtxtSystem>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DoptEngUS>אנגלית (ארה"ב)</DoptEngUS>
+    <DoptSpanLA>ספרדית (לטין אמריקה)</DoptSpanLA>
+    <DoptHeb>עברית</DoptHeb>
+    <LTtlAdmin>מנהלה</LTtlAdmin>
+    <LerrEMailValDomain>התחום לא קיים!</LerrEMailValDomain>
+    <LerrEMailValURL>ה URL של בדואר האלקטרוני חסר תוקף!</LerrEMailValURL>
+    <LtxtHome>התחלה</LtxtHome>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtAmbient>סביבה</LtxtAmbient>
+    <LtxtAccess>הרשאות</LtxtAccess>
+    <LtxtCustomize>התאמה אישית</LtxtCustomize>
+    <LtxtReports>דוחות</LtxtReports>
+    <LtxtUpdates>שידרוגים</LtxtUpdates>
+    <LtxtLicence>רשיון</LtxtLicence>
+    <LtxtSignOut>להתנתק</LtxtSignOut>
+    <LtxtSystem>מערכת</LtxtSystem>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Company</DtxtCmp>
+    <DoptEngUS>English</DoptEngUS>
+    <DoptSpanLA>Spanish</DoptSpanLA>
+    <DoptHeb>Hebrew</DoptHeb>
+    <LTtlAdmin>ADMINISTRATION</LTtlAdmin>
+    <LerrEMailValDomain>Domain is not valid.</LerrEMailValDomain>
+    <LerrEMailValURL>Your E-Mail\'s URL is not valid!</LerrEMailValURL>
+    <LtxtHome>Home</LtxtHome>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtAmbient>Environment</LtxtAmbient>
+    <LtxtAccess>Access</LtxtAccess>
+    <LtxtCustomize>Customizing</LtxtCustomize>
+    <LtxtReports>Reports</LtxtReports>
+    <LtxtUpdates>Updates</LtxtUpdates>
+    <LtxtLicence>License</LtxtLicence>
+    <LtxtSignOut>Sign Out</LtxtSignOut>
+    <LtxtSystem>System</LtxtSystem>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Empresa</DtxtCmp>
+    <DoptEngUS>Inglês (Estados Unidos)</DoptEngUS>
+    <DoptSpanLA>Espanhol (Latino Americano)</DoptSpanLA>
+    <DoptHeb>Hebreu</DoptHeb>
+    <LTtlAdmin>ADMINISTRAÇÃO</LTtlAdmin>
+    <LerrEMailValDomain>O domínio não é válido.</LerrEMailValDomain>
+    <LerrEMailValURL>O URL do seu e-mail não é válido.</LerrEMailValURL>
+    <LtxtHome>Início</LtxtHome>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtAmbient>Ambiente</LtxtAmbient>
+    <LtxtAccess>Acesso</LtxtAccess>
+    <LtxtCustomize>Personalização</LtxtCustomize>
+    <LtxtReports>Relatórios</LtxtReports>
+    <LtxtUpdates>Atualizações</LtxtUpdates>
+    <LtxtLicence>Licença</LtxtLicence>
+    <LtxtSignOut>Sair</LtxtSignOut>
+    <LtxtSystem>Sistema</LtxtSystem>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DoptEngUS>Anglais (État-Unis)</DoptEngUS>
+    <DoptSpanLA>Espagnol (Amérique Latine)</DoptSpanLA>
+    <DoptHeb>Hébreu</DoptHeb>
+    <LTtlAdmin>ADMINISTRATION</LTtlAdmin>
+    <LerrEMailValDomain>Le domaine n\'existe pas.</LerrEMailValDomain>
+    <LerrEMailValURL>L\'URL de votre courrier n\'est pas valable!</LerrEMailValURL>
+    <LtxtHome>Start (Début)</LtxtHome>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtAmbient>Atmosphère</LtxtAmbient>
+    <LtxtAccess>Accès</LtxtAccess>
+    <LtxtCustomize>Personnalisation</LtxtCustomize>
+    <LtxtReports>Report</LtxtReports>
+    <LtxtUpdates>Mise à jour</LtxtUpdates>
+    <LtxtLicence>Licence</LtxtLicence>
+    <LtxtSignOut>Fermer séance</LtxtSignOut>
+    <LtxtSystem>&lt;--&gt;</LtxtSystem>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DoptEngUS>Englisch (US)</DoptEngUS>
+    <DoptSpanLA>Spanisch (Lateinamerika)</DoptSpanLA>
+    <DoptHeb>Hebräisch</DoptHeb>
+    <LTtlAdmin>ADMINISTRATION</LTtlAdmin>
+    <LerrEMailValDomain>Das Domain ist nicht gültig.</LerrEMailValDomain>
+    <LerrEMailValURL>Ihre E-Mail Internetadresse ist nicht gültig!</LerrEMailValURL>
+    <LtxtHome>Startseite</LtxtHome>
+    <LtxtGeneral>Allgemein</LtxtGeneral>
+    <LtxtAmbient>Umfeld</LtxtAmbient>
+    <LtxtAccess>Zugang</LtxtAccess>
+    <LtxtCustomize>Individualisieren</LtxtCustomize>
+    <LtxtReports>Berichte</LtxtReports>
+    <LtxtUpdates>Updates</LtxtUpdates>
+    <LtxtLicence>Lizenz</LtxtLicence>
+    <LtxtSignOut>Ausloggen</LtxtSignOut>
+    <LtxtSystem>&lt;--&gt;</LtxtSystem>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DoptEngUS>Английский(сша)</DoptEngUS>
+    <DoptSpanLA>Испанский(латинская америка)</DoptSpanLA>
+    <DoptHeb>Иврит</DoptHeb>
+    <LTtlAdmin>Администрация</LTtlAdmin>
+    <LerrEMailValDomain>Домен не существует!</LerrEMailValDomain>
+    <LerrEMailValURL>URL Адрес электронной почты недействительный !</LerrEMailValURL>
+    <LtxtHome>Начало</LtxtHome>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtAmbient>Окружение</LtxtAmbient>
+    <LtxtAccess>Разрешения</LtxtAccess>
+    <LtxtCustomize>Личная настройка</LtxtCustomize>
+    <LtxtReports>Отчеты</LtxtReports>
+    <LtxtUpdates>Обновления</LtxtUpdates>
+    <LtxtLicence>Лицензия</LtxtLicence>
+    <LtxtSignOut>Отключить</LtxtSignOut>
+    <LtxtSystem>Система</LtxtSystem>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DoptEngUS>Angličtina (Spojené Státy)</DoptEngUS>
+    <DoptSpanLA>Španělština (Latinská Amerika)</DoptSpanLA>
+    <DoptHeb>Hebrejština</DoptHeb>
+    <LTtlAdmin>SPRÁVA</LTtlAdmin>
+    <LerrEMailValDomain>Doména není platná.</LerrEMailValDomain>
+    <LerrEMailValURL>URL vašeho e-mailu není platná!</LerrEMailValURL>
+    <LtxtHome>Domů</LtxtHome>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtAmbient>Prostředí</LtxtAmbient>
+    <LtxtAccess>Přístup</LtxtAccess>
+    <LtxtCustomize>Úpravy na zakázku</LtxtCustomize>
+    <LtxtReports>Reporty</LtxtReports>
+    <LtxtUpdates>Aktualizace</LtxtUpdates>
+    <LtxtLicence>Licence</LtxtLicence>
+    <LtxtSignOut>Odhlásit se</LtxtSignOut>
+    <LtxtSystem>Systém</LtxtSystem>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DoptEngUS>Angielski (Stany Zjednoczone)</DoptEngUS>
+    <DoptSpanLA>Hiszpański (Ameryka Południowa)</DoptSpanLA>
+    <DoptHeb>Hebrajski</DoptHeb>
+    <LTtlAdmin>Administracja</LTtlAdmin>
+    <LerrEMailValDomain>Domena nie istnieje!</LerrEMailValDomain>
+    <LerrEMailValURL>URL twojego Emaila jest nie ważny!</LerrEMailValURL>
+    <LtxtHome>Początek</LtxtHome>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtAmbient>Środowisko</LtxtAmbient>
+    <LtxtAccess>Dostęp</LtxtAccess>
+    <LtxtCustomize>Dostosowanie/zindywidualizowanie</LtxtCustomize>
+    <LtxtReports>Raporty</LtxtReports>
+    <LtxtUpdates>Uaktualnienia</LtxtUpdates>
+    <LtxtLicence>Licencja</LtxtLicence>
+    <LtxtSignOut>Wyloguj się</LtxtSignOut>
+    <LtxtSystem>System</LtxtSystem>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DoptEngUS>Angličtina (Spojené štáty americké)</DoptEngUS>
+    <DoptSpanLA>Španielčina (Latinská Amerika)</DoptSpanLA>
+    <DoptHeb>Hebrejčina</DoptHeb>
+    <LTtlAdmin>ADMINISTRÁCIA</LTtlAdmin>
+    <LerrEMailValDomain>Doména nie je platná.</LerrEMailValDomain>
+    <LerrEMailValURL>URL Vášho E-mailu nie je platný.</LerrEMailValURL>
+    <LtxtHome>Úvod</LtxtHome>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtAmbient>Prostredie</LtxtAmbient>
+    <LtxtAccess>Prístup</LtxtAccess>
+    <LtxtCustomize>Prispôsobenie na mieru</LtxtCustomize>
+    <LtxtReports>Výkazy</LtxtReports>
+    <LtxtUpdates>Aktualizácie</LtxtUpdates>
+    <LtxtLicence>Licencia</LtxtLicence>
+    <LtxtSignOut>Odhlásenie</LtxtSignOut>
+    <LtxtSystem>Systém</LtxtSystem>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>&lt;--&gt;</DtxtCmp>
+    <DoptEngUS>&lt;--&gt;</DoptEngUS>
+    <DoptSpanLA>&lt;--&gt;</DoptSpanLA>
+    <DoptHeb>&lt;--&gt;</DoptHeb>
+    <LTtlAdmin>&lt;--&gt;</LTtlAdmin>
+    <LerrEMailValDomain>&lt;--&gt;</LerrEMailValDomain>
+    <LerrEMailValURL>&lt;--&gt;</LerrEMailValURL>
+    <LtxtHome>&lt;--&gt;</LtxtHome>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtAmbient>&lt;--&gt;</LtxtAmbient>
+    <LtxtAccess>&lt;--&gt;</LtxtAccess>
+    <LtxtCustomize>&lt;--&gt;</LtxtCustomize>
+    <LtxtReports>&lt;--&gt;</LtxtReports>
+    <LtxtUpdates>&lt;--&gt;</LtxtUpdates>
+    <LtxtLicence>&lt;--&gt;</LtxtLicence>
+    <LtxtSignOut>&lt;--&gt;</LtxtSignOut>
+    <LtxtSystem>&lt;--&gt;</LtxtSystem>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DoptEngUS>DoptEngUS</DoptEngUS>
+    <DoptSpanLA>DoptSpanLA</DoptSpanLA>
+    <DoptHeb>DoptHeb</DoptHeb>
+    <LTtlAdmin>LTtlAdmin</LTtlAdmin>
+    <LerrEMailValDomain>LerrEMailValDomain</LerrEMailValDomain>
+    <LerrEMailValURL>LerrEMailValURL</LerrEMailValURL>
+    <LtxtHome>LtxtHome</LtxtHome>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtAmbient>LtxtAmbient</LtxtAmbient>
+    <LtxtAccess>LtxtAccess</LtxtAccess>
+    <LtxtCustomize>LtxtCustomize</LtxtCustomize>
+    <LtxtReports>LtxtReports</LtxtReports>
+    <LtxtUpdates>LtxtUpdates</LtxtUpdates>
+    <LtxtLicence>LtxtLicence</LtxtLicence>
+    <LtxtSignOut>LtxtSignOut</LtxtSignOut>
+    <LtxtSystem>LtxtSystem</LtxtSystem>
+  </language>
+</languages>

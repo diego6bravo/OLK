@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customized</DtxtCustomized>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtForms>Forms</DtxtForms>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtExport>Export</DtxtExport>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtAuthorize>Authorize</DtxtAuthorize>
+    <LtxtAgentInt>{0} Interface</LtxtAgentInt>
+    <LtxtComDocs>Commercial&amp;nbsp;Documents</LtxtComDocs>
+    <LtxtAbout>About&amp;nbsp;us</LtxtAbout>
+    <LtxtOpenDocs>Open&amp;nbsp;Documents</LtxtOpenDocs>
+    <LtxtOpenItms>Open&amp;nbsp;Items</LtxtOpenItms>
+    <LtxtOpenCrd>Open Business Partners</LtxtOpenCrd>
+    <LtxtAnonRegActive>Anonymous Registration Activation</LtxtAnonRegActive>
+    <LtxtClientSearch>Search&amp;nbsp;Business&amp;nbsp;Partners</LtxtClientSearch>
+    <LtxtObjsToConf>Objects&amp;nbsp;to&amp;nbsp;Confirm</LtxtObjsToConf>
+    <LtxtStateOfAcct>Statement&amp;nbsp;of&amp;nbsp;Account</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Management</LtxtOfertMan>
+    <LtxtErrItmInv>The item you wish to add does not have enough available stock</LtxtErrItmInv>
+    <LtxtLicRejected>License Rejected</LtxtLicRejected>
+    <LtxtNoLic>You are not licensed</LtxtNoLic>
+    <LtxtLicLimit>You license has reached its limit</LtxtLicLimit>
+    <LtxtLicExp>License Expired</LtxtLicExp>
+    <LtxtBackToPortal>Return to the portal</LtxtBackToPortal>
+    <LtxtLogOut>Sign Out</LtxtLogOut>
+    <LtxtOperations>Operations</LtxtOperations>
+    <LtxtReps>Reports</LtxtReps>
+    <LtxtHelp>Help</LtxtHelp>
+    <LtxtCurClient>Current BP</LtxtCurClient>
+    <LtxtExpExcell>Export to Excel</LtxtExpExcell>
+    <LtxtExpPDF>Export to PDF</LtxtExpPDF>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtPrint>Print</LtxtPrint>
+    <LtxtCart>Shopping Cart</LtxtCart>
+    <LtxtOpWithClient>Operations with Business Partner</LtxtOpWithClient>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtFastAddErr>The reference/barcode "{0}" was not found.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Client document cannot be created for price list "Last purchase price"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Client document cannot be created for price list "Last determined price"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>You license is not enabled to add transactions.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtErrMultItmInv>The item(s) you wish to add does not have enough available stock</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Open Objects</LtxtOpenObjs>
+    <LtxtLoginSecReq>You must select a Business Partner in order to enter this form</LtxtLoginSecReq>
+    <LtxtShipAdd>Shipping Addresses</LtxtShipAdd>
+    <LtxtBillAdd>Billing Addresses</LtxtBillAdd>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LtxtPollMngmnt>Poll Management</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Extended Poll Management</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>News Management</LtxtNewsMngmnt>
+    <LtxtGenMan>General Management</LtxtGenMan>
+    <LtxtPredefined>Predefined</LtxtPredefined>
+    <LtxtCustom>Custom</LtxtCustom>
+    <LtxtMyTasks>My Tasks</LtxtMyTasks>
+    <LtxtExtendedPolls>Extended Polls</LtxtExtendedPolls>
+    <LtxtMsgBox>Inbox</LtxtMsgBox>
+    <LtxtChangePwd>Change Password</LtxtChangePwd>
+    <LtxtFastAddErrDisc>The price is more than the maximum discount allowed</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>The item {0} is blocked for sale</LtxtFastAddErrBlock>
+    <LtxtActions>Actions</LtxtActions>
+    <LtxtGoTop>Go to page top</LtxtGoTop>
+    <LtxtGoBottom>Go to page bottom</LtxtGoBottom>
+    <LtxtRecover>Data Recovery</LtxtRecover>
+    <LtxtOpenSO>Open Sales Opportunities</LtxtOpenSO>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtMessage>Mensaje</DtxtMessage>
+    <DtxtForms>Formularios</DtxtForms>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <DtxtExport>Exportar</DtxtExport>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtAuthorize>Autorizar</DtxtAuthorize>
+    <LtxtAgentInt>Interface {0}</LtxtAgentInt>
+    <LtxtComDocs>Documentos&amp;nbsp;Comerciales</LtxtComDocs>
+    <LtxtAbout>Acerca&amp;nbsp;de</LtxtAbout>
+    <LtxtOpenDocs>Documentos&amp;nbsp;Pendientes</LtxtOpenDocs>
+    <LtxtOpenItms>Artículos&amp;nbsp;Pendientes</LtxtOpenItms>
+    <LtxtOpenCrd>Socios de Negocios Pendientes</LtxtOpenCrd>
+    <LtxtAnonRegActive>Activación de Registro Anónimo</LtxtAnonRegActive>
+    <LtxtClientSearch>Búsqueda&amp;nbsp;de&amp;nbsp;Socios&amp;nbsp;de&amp;nbsp;negocios</LtxtClientSearch>
+    <LtxtObjsToConf>Objetos&amp;nbsp;por&amp;nbsp;confirmar</LtxtObjsToConf>
+    <LtxtStateOfAcct>Estado&amp;nbsp;de&amp;nbsp;Cuenta</LtxtStateOfAcct>
+    <LtxtOfertMan>Manejo&amp;nbsp;de&amp;nbsp;{0}</LtxtOfertMan>
+    <LtxtErrItmInv>El artículo que desea agregar no tiene inventario disponible</LtxtErrItmInv>
+    <LtxtLicRejected>Licencia rechazada</LtxtLicRejected>
+    <LtxtNoLic>No cuenta con una licencia</LtxtNoLic>
+    <LtxtLicLimit>Su licencia está agotada</LtxtLicLimit>
+    <LtxtLicExp>Licencia vencida</LtxtLicExp>
+    <LtxtBackToPortal>Regresar al portal</LtxtBackToPortal>
+    <LtxtLogOut>Cerrar Sesión</LtxtLogOut>
+    <LtxtOperations>Operaciones</LtxtOperations>
+    <LtxtReps>Reportes</LtxtReps>
+    <LtxtHelp>Ayuda</LtxtHelp>
+    <LtxtCurClient>SN Actual</LtxtCurClient>
+    <LtxtExpExcell>Exportar a Excel</LtxtExpExcell>
+    <LtxtExpPDF>Exportar a PDF</LtxtExpPDF>
+    <LtxtWishList>Lista de deseos</LtxtWishList>
+    <LtxtPrint>Imprimir</LtxtPrint>
+    <LtxtCart>Canasta de Compras</LtxtCart>
+    <LtxtOpWithClient>Operaciones con el Socio de Negocios</LtxtOpWithClient>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>T. Bancaria</LtxtBankTrans>
+    <LtxtCredCard>T. Crédito</LtxtCredCard>
+    <LtxtFastAddErr>La referencia/código de barra "{0}" no fue encontrado.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>No se puede crear un documento para cliente con la lista de precio "Último precio de compra"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>No se puede crear un documento para cliente con la lista de precio "Último precio determinado"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Su licencia no está habilitada para agregar transacciones.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Actividades Pendientes</LtxtOpenActivities>
+    <LtxtErrMultItmInv>El artículo(s) que desea agregar no tiene(n) inventario disponible</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Objetos Pendientes</LtxtOpenObjs>
+    <LtxtLoginSecReq>Debe seleccionar un Socio de Negocios para poder entrar a este formulario</LtxtLoginSecReq>
+    <LtxtShipAdd>Direcciones de Envío</LtxtShipAdd>
+    <LtxtBillAdd>Direcciones de Pago</LtxtBillAdd>
+    <LtxtContacts>Contactos</LtxtContacts>
+    <LtxtPollMngmnt>Manejo de Encuestas</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Manejo de Encuestas Extendidas</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Manejo de Noticias</LtxtNewsMngmnt>
+    <LtxtGenMan>Manejo General</LtxtGenMan>
+    <LtxtPredefined>Predefinidos</LtxtPredefined>
+    <LtxtCustom>Personalizado</LtxtCustom>
+    <LtxtMyTasks>Mis Tareas</LtxtMyTasks>
+    <LtxtExtendedPolls>Encuestas Extendidas</LtxtExtendedPolls>
+    <LtxtMsgBox>Buzón de Mensajes</LtxtMsgBox>
+    <LtxtChangePwd>Cambiar Contraseña</LtxtChangePwd>
+    <LtxtFastAddErrDisc>El precio es mayor al máximo descuento permitido</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>El articulo {0} está bloqueado para venta</LtxtFastAddErrBlock>
+    <LtxtActions>Acciones</LtxtActions>
+    <LtxtGoTop>Ir al tope de página</LtxtGoTop>
+    <LtxtGoBottom>Ir a pie de página</LtxtGoBottom>
+    <LtxtRecover>Recuperación de Datos</LtxtRecover>
+    <LtxtOpenSO>Oportunidaded de Ventas Pendientes</LtxtOpenSO>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtCustomized>התאמה אישית</DtxtCustomized>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtMessage>הודעה</DtxtMessage>
+    <DtxtForms>טפסים</DtxtForms>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtBP>כרטיס</DtxtBP>
+    <DtxtExport>יצוא</DtxtExport>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtAuthorize>אישור</DtxtAuthorize>
+    <LtxtAgentInt>מימשק {0}</LtxtAgentInt>
+    <LtxtComDocs>מסמכי&amp;nbsp;שיווק</LtxtComDocs>
+    <LtxtAbout>אודות</LtxtAbout>
+    <LtxtOpenDocs>מסמכים&amp;nbsp;פתוחים</LtxtOpenDocs>
+    <LtxtOpenItms>פריטים&amp;nbsp;פתוחים</LtxtOpenItms>
+    <LtxtOpenCrd>כרטיסים פתוחים</LtxtOpenCrd>
+    <LtxtAnonRegActive>הפעלת לקוח אנונמי</LtxtAnonRegActive>
+    <LtxtClientSearch>חיפוש&amp;nbsp;כרטיסים</LtxtClientSearch>
+    <LtxtObjsToConf>אובייקטים&amp;nbsp;לאישור</LtxtObjsToConf>
+    <LtxtStateOfAcct>יתרת&amp;nbsp;חשבון</LtxtStateOfAcct>
+    <LtxtOfertMan>ניהול&amp;nbsp;{0}</LtxtOfertMan>
+    <LtxtErrItmInv>הפריט שבחרת לא ניתן להוספה כיוון שאין מלאי זמין</LtxtErrItmInv>
+    <LtxtLicRejected>רשיון נידחה</LtxtLicRejected>
+    <LtxtNoLic>לא קיים רשיון</LtxtNoLic>
+    <LtxtLicLimit>הרשיון נגמר (אין פעולות זמינות לרשיון)</LtxtLicLimit>
+    <LtxtLicExp>זמן הרשיון נגמר </LtxtLicExp>
+    <LtxtBackToPortal>חזרה לאתר</LtxtBackToPortal>
+    <LtxtLogOut>יציאה</LtxtLogOut>
+    <LtxtOperations>פעולות לביצוע</LtxtOperations>
+    <LtxtReps>דוחות</LtxtReps>
+    <LtxtHelp>עזרה</LtxtHelp>
+    <LtxtCurClient>כרטיס נוכחי</LtxtCurClient>
+    <LtxtExpExcell>יצוא לאקסל</LtxtExpExcell>
+    <LtxtExpPDF>יצוא ל PDF</LtxtExpPDF>
+    <LtxtWishList>רשימת משאלות</LtxtWishList>
+    <LtxtPrint>הדפס</LtxtPrint>
+    <LtxtCart>סל קניות</LtxtCart>
+    <LtxtOpWithClient>פעולות עם כרטיס</LtxtOpWithClient>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheck>צ'קים</LtxtCheck>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtCredCard>כרטיס אשראי</LtxtCredCard>
+    <LtxtFastAddErr>המק"ט או הבר קוד "{0}" לא נמצאו</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>לא ניתן לעבוד על מסמכים של לקוח שמקושר למחירון "מחיר קניה אחרון"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>לא ניתן לעבוד על מסמכים של לקוח שמקושר למחירון "מחיר אחרון שחושב"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>לא ניתן להוסיף תנועות עם הרשיון הנוכחי. במידה ואת\ה מעוניין בהוספת תנועות לסאפ פנה לספק המקומי ע"מ לקנות את הרשיון.</LtxtLicReadOnly>
+    <LtxtOpenActivities>פעילויות פתוחות</LtxtOpenActivities>
+    <LtxtErrMultItmInv>אין מלאי זמין מהפריט שבחרת.</LtxtErrMultItmInv>
+    <LtxtOpenObjs>אובייקטים פתוחים</LtxtOpenObjs>
+    <LtxtLoginSecReq>יש לבחור כרטיס על מנת לכנס לטופס</LtxtLoginSecReq>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtBillAdd>כתובת תשלום</LtxtBillAdd>
+    <LtxtContacts>אנשי קשר</LtxtContacts>
+    <LtxtPollMngmnt>ניהול סקרים</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>ניהול סקר מורחב</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>ניהול חדשות</LtxtNewsMngmnt>
+    <LtxtGenMan>ניהול כללי</LtxtGenMan>
+    <LtxtPredefined>מוגדר מראש</LtxtPredefined>
+    <LtxtCustom>מותאם</LtxtCustom>
+    <LtxtMyTasks>משימות שלי</LtxtMyTasks>
+    <LtxtExtendedPolls>סקרים מורחבים</LtxtExtendedPolls>
+    <LtxtMsgBox>תא דואר</LtxtMsgBox>
+    <LtxtChangePwd>שנה סיסמה</LtxtChangePwd>
+    <LtxtFastAddErrDisc>המחיר עובר את ההנחה הנקסימלית המותרת</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>פריט {0} חסום למכירה</LtxtFastAddErrBlock>
+    <LtxtActions>פעולות</LtxtActions>
+    <LtxtGoTop>לך למעלה</LtxtGoTop>
+    <LtxtGoBottom>לך למטה</LtxtGoBottom>
+    <LtxtRecover>Data Recovery</LtxtRecover>
+    <LtxtOpenSO>הזדמנויות מכירה פתוחות</LtxtOpenSO>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customised</DtxtCustomized>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtForms>Forms</DtxtForms>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtExport>Export</DtxtExport>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtAuthorize>Authorize</DtxtAuthorize>
+    <LtxtAgentInt>{0} Interface</LtxtAgentInt>
+    <LtxtComDocs>Commercial&amp;nbsp;Documents</LtxtComDocs>
+    <LtxtAbout>About&amp;nbsp;us</LtxtAbout>
+    <LtxtOpenDocs>Open&amp;nbsp;Documents</LtxtOpenDocs>
+    <LtxtOpenItms>Open&amp;nbsp;Items</LtxtOpenItms>
+    <LtxtOpenCrd>Open Business Partners</LtxtOpenCrd>
+    <LtxtAnonRegActive>Anonymous Registration Activation</LtxtAnonRegActive>
+    <LtxtClientSearch>Search&amp;nbsp;Business&amp;nbsp;Partners</LtxtClientSearch>
+    <LtxtObjsToConf>Objects&amp;nbsp;to&amp;nbsp;Confirm</LtxtObjsToConf>
+    <LtxtStateOfAcct>Statement&amp;nbsp;of&amp;nbsp;Account</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Management</LtxtOfertMan>
+    <LtxtErrItmInv>The item you wish to add does not have enough available stock</LtxtErrItmInv>
+    <LtxtLicRejected>License Rejected</LtxtLicRejected>
+    <LtxtNoLic>You are not licensed</LtxtNoLic>
+    <LtxtLicLimit>You license has reached its limit</LtxtLicLimit>
+    <LtxtLicExp>License Expired</LtxtLicExp>
+    <LtxtBackToPortal>Return to the portal</LtxtBackToPortal>
+    <LtxtLogOut>Sign Out</LtxtLogOut>
+    <LtxtOperations>Operations</LtxtOperations>
+    <LtxtReps>Reports</LtxtReps>
+    <LtxtHelp>Help</LtxtHelp>
+    <LtxtCurClient>Current BP</LtxtCurClient>
+    <LtxtExpExcell>Export to Excel</LtxtExpExcell>
+    <LtxtExpPDF>Export to PDF</LtxtExpPDF>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtPrint>Print</LtxtPrint>
+    <LtxtCart>Shopping Cart</LtxtCart>
+    <LtxtOpWithClient>Operations with Business Partner</LtxtOpWithClient>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtFastAddErr>The reference/barcode "{0}" was not found.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Client document cannot be created for price list "Last purchase price"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Client document cannot be created for price list "Last determined price"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>You license is not enabled to add transactions.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtErrMultItmInv>The item(s) you wish to add does not have enough available stock</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Open Objects</LtxtOpenObjs>
+    <LtxtLoginSecReq>You must select a Business Partner in order to enter this form</LtxtLoginSecReq>
+    <LtxtShipAdd>Shipping Addresses</LtxtShipAdd>
+    <LtxtBillAdd>Billing Addresses</LtxtBillAdd>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LtxtPollMngmnt>Poll Management</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Extended Poll Management</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>News Management</LtxtNewsMngmnt>
+    <LtxtGenMan>General Management</LtxtGenMan>
+    <LtxtPredefined>Predefined</LtxtPredefined>
+    <LtxtCustom>Custom</LtxtCustom>
+    <LtxtMyTasks>My Tasks</LtxtMyTasks>
+    <LtxtExtendedPolls>Extended Polls</LtxtExtendedPolls>
+    <LtxtMsgBox>Inbox</LtxtMsgBox>
+    <LtxtChangePwd>Change Password</LtxtChangePwd>
+    <LtxtFastAddErrDisc>The price is more than the maximum discount allowed</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>The item {0} is blocked for sale</LtxtFastAddErrBlock>
+    <LtxtActions>Actions</LtxtActions>
+    <LtxtGoTop>Go to page top</LtxtGoTop>
+    <LtxtGoBottom>Go to page bottom</LtxtGoBottom>
+    <LtxtRecover>Data Recovery</LtxtRecover>
+    <LtxtOpenSO>Open Sales Opportunities</LtxtOpenSO>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtMessage>Mensagem</DtxtMessage>
+    <DtxtForms>Formulários</DtxtForms>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <DtxtExport>Exportar</DtxtExport>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtAuthorize>Autorizar</DtxtAuthorize>
+    <LtxtAgentInt>Interfase {0}</LtxtAgentInt>
+    <LtxtComDocs>Documentos&amp;nbsp;Comerciais</LtxtComDocs>
+    <LtxtAbout>Em relação&amp;nbsp;a</LtxtAbout>
+    <LtxtOpenDocs>Documentos&amp;nbsp;Pendentes</LtxtOpenDocs>
+    <LtxtOpenItms>Itens&amp;nbsp;Pendentes</LtxtOpenItms>
+    <LtxtOpenCrd>Parceiros de Negócios Pendentes</LtxtOpenCrd>
+    <LtxtAnonRegActive>Ativação de Registro Anônimo</LtxtAnonRegActive>
+    <LtxtClientSearch>Busca&amp;nbsp;de&amp;nbsp;Parceiro&amp;nbsp;de&amp;nbsp;negócios</LtxtClientSearch>
+    <LtxtObjsToConf>Objetos&amp;nbsp;por&amp;nbsp;confirmar</LtxtObjsToConf>
+    <LtxtStateOfAcct>Estado&amp;nbsp;de&amp;nbsp;Conta</LtxtStateOfAcct>
+    <LtxtOfertMan>Manejo&amp;nbsp;de&amp;nbsp;{0}</LtxtOfertMan>
+    <LtxtErrItmInv>O item que deseja adicionar não tem inventário disponível</LtxtErrItmInv>
+    <LtxtLicRejected>Licença recusada</LtxtLicRejected>
+    <LtxtNoLic>Não tem uma licença</LtxtNoLic>
+    <LtxtLicLimit>Sua licença está esgotada</LtxtLicLimit>
+    <LtxtLicExp>Licença vencida</LtxtLicExp>
+    <LtxtBackToPortal>Retornar ao portal</LtxtBackToPortal>
+    <LtxtLogOut>Fechar Sessão</LtxtLogOut>
+    <LtxtOperations>Operações</LtxtOperations>
+    <LtxtReps>Relatórios</LtxtReps>
+    <LtxtHelp>Ajuda</LtxtHelp>
+    <LtxtCurClient>PN Atual</LtxtCurClient>
+    <LtxtExpExcell>Exportar a Excel</LtxtExpExcell>
+    <LtxtExpPDF>Exportar a PDF</LtxtExpPDF>
+    <LtxtWishList>Lista de desejos</LtxtWishList>
+    <LtxtPrint>Imprimir</LtxtPrint>
+    <LtxtCart>Cesta de Compras</LtxtCart>
+    <LtxtOpWithClient>Operações com Parceiros de Negócios</LtxtOpWithClient>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Cartão Bancário</LtxtBankTrans>
+    <LtxtCredCard>Cartão Crédito</LtxtCredCard>
+    <LtxtFastAddErr>A referência/código de barra "{0}" não foi encontrado.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Não  pode criar um documento para cliente com a lista de preço "Último preço de compra"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Não  pode criar um documento para cliente com a lista de preço "Último preço determinado"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Sua licença não está habilitada para adicionar transações.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Atividades Pendentes</LtxtOpenActivities>
+    <LtxtErrMultItmInv>O item(s) que deseja adicionar não tem estoque disponível</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Objetos Pendentes</LtxtOpenObjs>
+    <LtxtLoginSecReq>Você deve selecionar um Parceiro de Negócios para poder entrar neste formulário</LtxtLoginSecReq>
+    <LtxtShipAdd>Endereços de Envio</LtxtShipAdd>
+    <LtxtBillAdd>Endereço de Pagamento</LtxtBillAdd>
+    <LtxtContacts>Contatos</LtxtContacts>
+    <LtxtPollMngmnt>Gestão Pesquisas</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Gestão de pesquisas extendidas</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Gestão de Notícias</LtxtNewsMngmnt>
+    <LtxtGenMan>Gestão Geral</LtxtGenMan>
+    <LtxtPredefined>Predefinidos</LtxtPredefined>
+    <LtxtCustom>Personalizado</LtxtCustom>
+    <LtxtMyTasks>Minhas Tarefas</LtxtMyTasks>
+    <LtxtExtendedPolls>Pesquisas Extendidas</LtxtExtendedPolls>
+    <LtxtMsgBox>Caixa de  Mensagens</LtxtMsgBox>
+    <LtxtChangePwd>Modificar Senha</LtxtChangePwd>
+    <LtxtFastAddErrDisc>O valor é maior do que o desconto máximo permitido </LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>O item {0} esta bloqueado para venda</LtxtFastAddErrBlock>
+    <LtxtActions>Ações</LtxtActions>
+    <LtxtGoTop>Ir para o topo da página</LtxtGoTop>
+    <LtxtGoBottom>Ir para o rodapé da página</LtxtGoBottom>
+    <LtxtRecover>Recuperação de Dados</LtxtRecover>
+    <LtxtOpenSO>Oportunidades de Vendas Pendentes</LtxtOpenSO>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtCustomized>Personnalisé</DtxtCustomized>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtExport>&lt;--&gt;</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>Interface {0}</LtxtAgentInt>
+    <LtxtComDocs>Documents&amp;nbsp; Commerciaux</LtxtComDocs>
+    <LtxtAbout>Au sujet de &amp;nbsp; de</LtxtAbout>
+    <LtxtOpenDocs>Documents&amp;nbsp; Ouvert</LtxtOpenDocs>
+    <LtxtOpenItms>Articles&amp;nbsp; Ouvert</LtxtOpenItms>
+    <LtxtOpenCrd>&lt;--&gt;</LtxtOpenCrd>
+    <LtxtAnonRegActive>Activation de Registre Anonyme</LtxtAnonRegActive>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtObjsToConf>Objets&amp;nbsp;pour&amp;nbsp;confirmer</LtxtObjsToConf>
+    <LtxtStateOfAcct>Relevé&amp;nbsp; de&amp;nbsp; Compte</LtxtStateOfAcct>
+    <LtxtOfertMan>Administration&amp;nbsp; de&amp;nbsp;{0}</LtxtOfertMan>
+    <LtxtErrItmInv>L'article que vous voulez ajouter n'a pas d'inventaire disponible</LtxtErrItmInv>
+    <LtxtLicRejected>Licence refusée</LtxtLicRejected>
+    <LtxtNoLic>Vous n\'avez pas une licence</LtxtNoLic>
+    <LtxtLicLimit>Votre licence est-elle épuisée</LtxtLicLimit>
+    <LtxtLicExp>Licence échue</LtxtLicExp>
+    <LtxtBackToPortal>Retourner au portail</LtxtBackToPortal>
+    <LtxtLogOut>Fermer séance</LtxtLogOut>
+    <LtxtOperations>Operations</LtxtOperations>
+    <LtxtReps>Reports</LtxtReps>
+    <LtxtHelp>Aide</LtxtHelp>
+    <LtxtCurClient>&lt;--&gt;</LtxtCurClient>
+    <LtxtExpExcell>Exporter à Excel</LtxtExpExcell>
+    <LtxtExpPDF>Exporter à PDF</LtxtExpPDF>
+    <LtxtWishList>Liste des voeux</LtxtWishList>
+    <LtxtPrint>Imprimer</LtxtPrint>
+    <LtxtCart>Corbeille des achats</LtxtCart>
+    <LtxtOpWithClient>&lt;--&gt;</LtxtOpWithClient>
+    <LtxtCash>Effectif (Liquide)</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Virement Bancaire</LtxtBankTrans>
+    <LtxtCredCard>Card de Crédit</LtxtCredCard>
+    <LtxtFastAddErr>La reférence/barre-code "{0}" n\'avait pas trouvé</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>On ne peut pas crée un document au client avec la liste de prix "Dernier prix d\'achat"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>On ne peut pas crée un document au client avec la liste de prix "Dernier prix déterminé"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>&lt;--&gt;</LtxtLicReadOnly>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtErrMultItmInv>&lt;--&gt;</LtxtErrMultItmInv>
+    <LtxtOpenObjs>&lt;--&gt;</LtxtOpenObjs>
+    <LtxtLoginSecReq>&lt;--&gt;</LtxtLoginSecReq>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtBillAdd>Adresse de paiement</LtxtBillAdd>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LtxtPollMngmnt>&lt;--&gt;</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>&lt;--&gt;</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>&lt;--&gt;</LtxtNewsMngmnt>
+    <LtxtGenMan>&lt;--&gt;</LtxtGenMan>
+    <LtxtPredefined>&lt;--&gt;</LtxtPredefined>
+    <LtxtCustom>&lt;--&gt;</LtxtCustom>
+    <LtxtMyTasks>&lt;--&gt;</LtxtMyTasks>
+    <LtxtExtendedPolls>&lt;--&gt;</LtxtExtendedPolls>
+    <LtxtMsgBox>Boîte des messages</LtxtMsgBox>
+    <LtxtChangePwd>&lt;--&gt;</LtxtChangePwd>
+    <LtxtFastAddErrDisc>&lt;--&gt;</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>&lt;--&gt;</LtxtFastAddErrBlock>
+    <LtxtActions>&lt;--&gt;</LtxtActions>
+    <LtxtGoTop>&lt;--&gt;</LtxtGoTop>
+    <LtxtGoBottom>&lt;--&gt;</LtxtGoBottom>
+    <LtxtRecover>&lt;--&gt;</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtCustomized>Kundenindividuell</DtxtCustomized>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtMessage>Nachricht</DtxtMessage>
+    <DtxtForms>Formulare</DtxtForms>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <DtxtExport>Exportieren</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>{0} Interface</LtxtAgentInt>
+    <LtxtComDocs>Handel&amp;nbsp;Dokumente</LtxtComDocs>
+    <LtxtAbout>Über&amp;nbsp;us</LtxtAbout>
+    <LtxtOpenDocs>Öffnen&amp;nbsp;Dokumente</LtxtOpenDocs>
+    <LtxtOpenItms>Öffnen&amp;nbsp;Artikel</LtxtOpenItms>
+    <LtxtOpenCrd>&lt;--&gt;</LtxtOpenCrd>
+    <LtxtAnonRegActive>Anonyme Anmeldung Aktivierung</LtxtAnonRegActive>
+    <LtxtClientSearch>&lt;--&gt;</LtxtClientSearch>
+    <LtxtObjsToConf>Objekte&amp;nbsp;an&amp;nbsp;Bestätigen</LtxtObjsToConf>
+    <LtxtStateOfAcct>Auszug&amp;nbsp;von&amp;nbsp;Konto</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Verwaltung</LtxtOfertMan>
+    <LtxtErrItmInv>Der Artikel hat nicht genug Bestand verfügbar</LtxtErrItmInv>
+    <LtxtLicRejected>Lizenz abgelehnt</LtxtLicRejected>
+    <LtxtNoLic>Sie sind nicht lizensiert</LtxtNoLic>
+    <LtxtLicLimit>Ihre Lizenz hat das Limit erreicht</LtxtLicLimit>
+    <LtxtLicExp>Lizenz abgelaufen</LtxtLicExp>
+    <LtxtBackToPortal>Zurück zum Portal</LtxtBackToPortal>
+    <LtxtLogOut>Ausloggen</LtxtLogOut>
+    <LtxtOperations>Arbeitsprozess</LtxtOperations>
+    <LtxtReps>Berichte</LtxtReps>
+    <LtxtHelp>Hilfe</LtxtHelp>
+    <LtxtCurClient>&lt;--&gt;</LtxtCurClient>
+    <LtxtExpExcell>In Excel exportieren</LtxtExpExcell>
+    <LtxtExpPDF>Als PDF exportieren</LtxtExpPDF>
+    <LtxtWishList>Wunschliste</LtxtWishList>
+    <LtxtPrint>Drucken</LtxtPrint>
+    <LtxtCart>Einkaufswagen</LtxtCart>
+    <LtxtOpWithClient>&lt;--&gt;</LtxtOpWithClient>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtBankTrans>Banküberweisung</LtxtBankTrans>
+    <LtxtCredCard>Kreditkarte</LtxtCredCard>
+    <LtxtFastAddErr>Der Bezug/Barcode "{0}" wurde nicht gefunden.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Kundendokument kann für die Preisliste nicht erstellt werden "letzter Kaufpreis"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Kundendokument kann für die Preisliste nicht erstellt werden "zuletzt bestimmter Preis"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>&lt;--&gt;</LtxtLicReadOnly>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtErrMultItmInv>&lt;--&gt;</LtxtErrMultItmInv>
+    <LtxtOpenObjs>&lt;--&gt;</LtxtOpenObjs>
+    <LtxtLoginSecReq>&lt;--&gt;</LtxtLoginSecReq>
+    <LtxtShipAdd>Versandadresse</LtxtShipAdd>
+    <LtxtBillAdd>Rechnungsadresse</LtxtBillAdd>
+    <LtxtContacts>Kontakte</LtxtContacts>
+    <LtxtPollMngmnt>&lt;--&gt;</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>&lt;--&gt;</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>&lt;--&gt;</LtxtNewsMngmnt>
+    <LtxtGenMan>&lt;--&gt;</LtxtGenMan>
+    <LtxtPredefined>&lt;--&gt;</LtxtPredefined>
+    <LtxtCustom>&lt;--&gt;</LtxtCustom>
+    <LtxtMyTasks>&lt;--&gt;</LtxtMyTasks>
+    <LtxtExtendedPolls>&lt;--&gt;</LtxtExtendedPolls>
+    <LtxtMsgBox>Posteingang</LtxtMsgBox>
+    <LtxtChangePwd>&lt;--&gt;</LtxtChangePwd>
+    <LtxtFastAddErrDisc>&lt;--&gt;</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>&lt;--&gt;</LtxtFastAddErrBlock>
+    <LtxtActions>&lt;--&gt;</LtxtActions>
+    <LtxtGoTop>&lt;--&gt;</LtxtGoTop>
+    <LtxtGoBottom>&lt;--&gt;</LtxtGoBottom>
+    <LtxtRecover>&lt;--&gt;</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtCustomized>Настройка</DtxtCustomized>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtMessage>Сообщение</DtxtMessage>
+    <DtxtForms>Формы</DtxtForms>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <DtxtExport>Экспорт</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>{0} Интерфейс</LtxtAgentInt>
+    <LtxtComDocs>Документы&amp;nbsp;распостранение</LtxtComDocs>
+    <LtxtAbout>Сообщения</LtxtAbout>
+    <LtxtOpenDocs>Документы&amp;nbsp;открытые</LtxtOpenDocs>
+    <LtxtOpenItms>Детали&amp;nbsp;открытые</LtxtOpenItms>
+    <LtxtOpenCrd>Открыть бизнес-партнеры</LtxtOpenCrd>
+    <LtxtAnonRegActive>Анонимные действия клиента</LtxtAnonRegActive>
+    <LtxtClientSearch>Поиск&amp;nbsp;бизнес&amp;nbsp;партеры</LtxtClientSearch>
+    <LtxtObjsToConf>Объекты утверждения &amp;nbsp</LtxtObjsToConf>
+    <LtxtStateOfAcct>Остаток&amp;nbsp;счет</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Управление</LtxtOfertMan>
+    <LtxtErrItmInv>Не выбран пункт не может быть добавлено из-за отсутствия имеющихся запасов</LtxtErrItmInv>
+    <LtxtLicRejected>Лицензия отклонена</LtxtLicRejected>
+    <LtxtNoLic>Вы не лицензируетесь</LtxtNoLic>
+    <LtxtLicLimit>Ваша  лицензия достигла своего предела</LtxtLicLimit>
+    <LtxtLicExp>Срок действия лицензии истек</LtxtLicExp>
+    <LtxtBackToPortal>Вернуться на портал</LtxtBackToPortal>
+    <LtxtLogOut>Выйти</LtxtLogOut>
+    <LtxtOperations>Операции</LtxtOperations>
+    <LtxtReps>Отчеты</LtxtReps>
+    <LtxtHelp>Помощь</LtxtHelp>
+    <LtxtCurClient>Текущая карточка</LtxtCurClient>
+    <LtxtExpExcell>Экспорт в Excel</LtxtExpExcell>
+    <LtxtExpPDF>Экспорт в PDF</LtxtExpPDF>
+    <LtxtWishList>Список пожеланий</LtxtWishList>
+    <LtxtPrint>Распечатать</LtxtPrint>
+    <LtxtCart>Тип покупки</LtxtCart>
+    <LtxtOpWithClient>Операции с партнером по бизнесу</LtxtOpWithClient>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheck>Чеки</LtxtCheck>
+    <LtxtBankTrans>Банковский перевод</LtxtBankTrans>
+    <LtxtCredCard>Кредитная карточка</LtxtCredCard>
+    <LtxtFastAddErr>Серийный номер или штрих-код"{0}" не найден</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Документ клиенты  не может быть создан для прайс-листа "Последний определяется закупочной ценой   "</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Документ клиенты  не может быть создан для прайс-листа "Последний определяется  ценой" "</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Ваша лицензия не позволяет добавить сделок.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Открытые мероприятия</LtxtOpenActivities>
+    <LtxtErrMultItmInv>На складе нет деталей из списка ,что вы выбрали</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Открытые объекты</LtxtOpenObjs>
+    <LtxtLoginSecReq>Вы должны выбрать бизнес-партнеров, с тем чтобы ввести эту форму</LtxtLoginSecReq>
+    <LtxtShipAdd>Адреса доставки</LtxtShipAdd>
+    <LtxtBillAdd>Платежные адреса</LtxtBillAdd>
+    <LtxtContacts>Контакты</LtxtContacts>
+    <LtxtPollMngmnt>Управление опросом</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Расширить управление опросом</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Новости управления</LtxtNewsMngmnt>
+    <LtxtGenMan>Общее управление</LtxtGenMan>
+    <LtxtPredefined>Предопределенные</LtxtPredefined>
+    <LtxtCustom>Клиентура</LtxtCustom>
+    <LtxtMyTasks>Мои задачи</LtxtMyTasks>
+    <LtxtExtendedPolls>Расширение опросов</LtxtExtendedPolls>
+    <LtxtMsgBox>Почтовый ящик</LtxtMsgBox>
+    <LtxtChangePwd>Изменение пароля</LtxtChangePwd>
+    <LtxtFastAddErrDisc>Цена больше, чем позволяет максимальный размер скидки </LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>Деталь {0} блокирует продажу</LtxtFastAddErrBlock>
+    <LtxtActions>действия</LtxtActions>
+    <LtxtGoTop>Идите в верх</LtxtGoTop>
+    <LtxtGoBottom>Идите в низ</LtxtGoBottom>
+    <LtxtRecover>&lt;--&gt;</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Přizpůsobené</DtxtCustomized>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtMessage>Vzkaz</DtxtMessage>
+    <DtxtForms>Formuláře</DtxtForms>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <DtxtExport>Exportovat</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>{0} Interface</LtxtAgentInt>
+    <LtxtComDocs>Komerční&amp;nbsp;dokumenty</LtxtComDocs>
+    <LtxtAbout>O&amp;nbsp;nás</LtxtAbout>
+    <LtxtOpenDocs>Otevřené&amp;nbsp;dokumenty</LtxtOpenDocs>
+    <LtxtOpenItms>Otevřené&amp;nbsp;položky</LtxtOpenItms>
+    <LtxtOpenCrd>Otevření obchodní partneři</LtxtOpenCrd>
+    <LtxtAnonRegActive>Aktivace anonymní registrace</LtxtAnonRegActive>
+    <LtxtClientSearch>Vyhledávat&amp;nbsp;obchodní&amp;nbsp;partnery</LtxtClientSearch>
+    <LtxtObjsToConf>Objekty&amp;nbsp;k&amp;nbsp;potvrzení</LtxtObjsToConf>
+    <LtxtStateOfAcct>Výpis&amp;nbsp;of&amp;nbsp;účtu</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Správa</LtxtOfertMan>
+    <LtxtErrItmInv>Položka, kterou chcete přidat, není skladem v dostatečném množství</LtxtErrItmInv>
+    <LtxtLicRejected>Licence zamítnuta</LtxtLicRejected>
+    <LtxtNoLic>Nemáte licenci</LtxtNoLic>
+    <LtxtLicLimit>Dosáhl/a jste limit vaší licence</LtxtLicLimit>
+    <LtxtLicExp>Licence vypršela</LtxtLicExp>
+    <LtxtBackToPortal>Návrat na portál</LtxtBackToPortal>
+    <LtxtLogOut>Odhlásit se</LtxtLogOut>
+    <LtxtOperations>Operace</LtxtOperations>
+    <LtxtReps>Reporty</LtxtReps>
+    <LtxtHelp>Nápověda</LtxtHelp>
+    <LtxtCurClient>Aktuální OP</LtxtCurClient>
+    <LtxtExpExcell>Export do Excelu</LtxtExpExcell>
+    <LtxtExpPDF>Export do PDF</LtxtExpPDF>
+    <LtxtWishList>Seznam přání</LtxtWishList>
+    <LtxtPrint>Tisk</LtxtPrint>
+    <LtxtCart>Nákupní košík</LtxtCart>
+    <LtxtOpWithClient>Operace nad obchodními partnery</LtxtOpWithClient>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtCredCard>Kreditní karta</LtxtCredCard>
+    <LtxtFastAddErr>Refereční/čárový kód "{0}" nebyl nalezen</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Pro ceník "Poslední nákupní cena" není možné vytvořit dokument klienta</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Pro ceník "Naposledy zjištěná cena" není možné vytvořit dokument klienta</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Vaše licence neumožňuje přidávat transakce.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Otevřené aktivity</LtxtOpenActivities>
+    <LtxtErrMultItmInv>Položka(y), kterou si přijete přidat, nemá zásoby v dostatečné výši</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Otevřené objekty</LtxtOpenObjs>
+    <LtxtLoginSecReq>Abyste mohli tuto obrazovku otevřít, musíte zvolit obchodního partnera</LtxtLoginSecReq>
+    <LtxtShipAdd>Dodací adresy</LtxtShipAdd>
+    <LtxtBillAdd>Fakturační adresy</LtxtBillAdd>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtPollMngmnt>Správa anket</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Správa rozšířených anket</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Správa novinek</LtxtNewsMngmnt>
+    <LtxtGenMan>Všeobecná správa</LtxtGenMan>
+    <LtxtPredefined>Předdefinované</LtxtPredefined>
+    <LtxtCustom>Volitelné</LtxtCustom>
+    <LtxtMyTasks>Moje úkoly</LtxtMyTasks>
+    <LtxtExtendedPolls>Rozšířené ankety</LtxtExtendedPolls>
+    <LtxtMsgBox>Schránka</LtxtMsgBox>
+    <LtxtChangePwd>Změnit heslo</LtxtChangePwd>
+    <LtxtFastAddErrDisc>Cena je vyšší, než kolik je povolená maximální sleva</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>Položka {0} má blokovaný prodej</LtxtFastAddErrBlock>
+    <LtxtActions>Akce</LtxtActions>
+    <LtxtGoTop>Přejít do horní části obrazovky</LtxtGoTop>
+    <LtxtGoBottom>Přejít do spodní části obrazovky</LtxtGoBottom>
+    <LtxtRecover>&lt;--&gt;</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtCustomized>Wykonane na zamówienie/zindywidualizowane</DtxtCustomized>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtMessage>Wiadomość</DtxtMessage>
+    <DtxtForms>Formularze</DtxtForms>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <DtxtExport>Eksport</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>{0} Interface</LtxtAgentInt>
+    <LtxtComDocs>Dokumenty handlowe &amp;nbsp;</LtxtComDocs>
+    <LtxtAbout>O nas</LtxtAbout>
+    <LtxtOpenDocs>Otwarte &amp;nbsp; dokumenty</LtxtOpenDocs>
+    <LtxtOpenItms>Otwarte &amp;nbsp; pozycje</LtxtOpenItms>
+    <LtxtOpenCrd>Otwarci Partnerów Biznesowych</LtxtOpenCrd>
+    <LtxtAnonRegActive>Aktywacja anonimowej rejestracji </LtxtAnonRegActive>
+    <LtxtClientSearch>Poszukiwanie</LtxtClientSearch>
+    <LtxtObjsToConf>Przedmioty&amp;nbsp;to&amp;nbsp;Potwierdź</LtxtObjsToConf>
+    <LtxtStateOfAcct>Stan&amp;nbsp;of&amp;nbsp;Konto</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Zarządzanie</LtxtOfertMan>
+    <LtxtErrItmInv>Pozycja, która chcesz dodać nie ma dostępnego wystarczającego zapasu</LtxtErrItmInv>
+    <LtxtLicRejected>Licencja odrzucona</LtxtLicRejected>
+    <LtxtNoLic>Nie masz licencji</LtxtNoLic>
+    <LtxtLicLimit>Twoja licencja osiągnęła limit</LtxtLicLimit>
+    <LtxtLicExp>Licencja wygasła</LtxtLicExp>
+    <LtxtBackToPortal>Wróć do portalu</LtxtBackToPortal>
+    <LtxtLogOut>Wyjście</LtxtLogOut>
+    <LtxtOperations>Operacje</LtxtOperations>
+    <LtxtReps>Raporty </LtxtReps>
+    <LtxtHelp>Pomoc</LtxtHelp>
+    <LtxtCurClient>Obecny PB</LtxtCurClient>
+    <LtxtExpExcell>Eksport do excella</LtxtExpExcell>
+    <LtxtExpPDF>Eksport do PDF</LtxtExpPDF>
+    <LtxtWishList>Lista życzeń </LtxtWishList>
+    <LtxtPrint>Drukuj</LtxtPrint>
+    <LtxtCart>Koszyk</LtxtCart>
+    <LtxtOpWithClient>Operacje z Partnerem Biznesowym</LtxtOpWithClient>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtBankTrans>Przelew</LtxtBankTrans>
+    <LtxtCredCard>Karta kredytowa</LtxtCredCard>
+    <LtxtFastAddErr>Adnotacja/ kod kreskowy "{0}" nie został znaleziony</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Nie można stworzyć dokumentu klienta dla cennika "ostatnia cena zakupu"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Nie można stworzyć dokumentu klienta dla cennika "ostatnia określona cena"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Twoja licencja nie pozwala na dodawanie transakcji</LtxtLicReadOnly>
+    <LtxtOpenActivities>Działania otwarte</LtxtOpenActivities>
+    <LtxtErrMultItmInv>Przedmiot(y), który chcesz dodać nie ma wystarczającego dostępnego zapasu</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Przedmioty otwarte</LtxtOpenObjs>
+    <LtxtLoginSecReq>Aby wejść do tego formularza musisz wybrać Partnera Biznesowego</LtxtLoginSecReq>
+    <LtxtShipAdd>Adresy do wysyłki</LtxtShipAdd>
+    <LtxtBillAdd>Adresy do faktury</LtxtBillAdd>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtPollMngmnt>Zarządzanie ankietami</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Zarządzanie rozszerzona ankietą</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Zarządzanie wiadomościami</LtxtNewsMngmnt>
+    <LtxtGenMan>Zarządzanie ogólne</LtxtGenMan>
+    <LtxtPredefined>Wcześniej zdefiniowane</LtxtPredefined>
+    <LtxtCustom>Dostosowany </LtxtCustom>
+    <LtxtMyTasks>Moje zadania</LtxtMyTasks>
+    <LtxtExtendedPolls>Rozszerzone ankiety</LtxtExtendedPolls>
+    <LtxtMsgBox>Skrzynka</LtxtMsgBox>
+    <LtxtChangePwd>Zmień hasło</LtxtChangePwd>
+    <LtxtFastAddErrDisc>Cena jest wyższa niż maksymalny dozwolony rabat</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>Pozycja {0} jest zablokowana do sprzedaży</LtxtFastAddErrBlock>
+    <LtxtActions>Działania</LtxtActions>
+    <LtxtGoTop>Idź do góry strony</LtxtGoTop>
+    <LtxtGoBottom>Idź do dołu strony</LtxtGoBottom>
+    <LtxtRecover>Odzyskanie danych</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Prispôsobené na mieru</DtxtCustomized>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtMessage>Správa</DtxtMessage>
+    <DtxtForms>Formuláre</DtxtForms>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <DtxtExport>Exportovať</DtxtExport>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtAgentInt>Rozhranie {0}</LtxtAgentInt>
+    <LtxtComDocs>Commercial&amp;nbsp;Documents</LtxtComDocs>
+    <LtxtAbout>About&amp;nbsp;us</LtxtAbout>
+    <LtxtOpenDocs>Open&amp;nbsp;Documents</LtxtOpenDocs>
+    <LtxtOpenItms>Open&amp;nbsp;Items</LtxtOpenItms>
+    <LtxtOpenCrd>Otvorení Obchodní partneri</LtxtOpenCrd>
+    <LtxtAnonRegActive>Aktivácia anonymnej registrácie</LtxtAnonRegActive>
+    <LtxtClientSearch>Search&amp;nbsp;Business&amp;nbsp;Partners</LtxtClientSearch>
+    <LtxtObjsToConf>Objects&amp;nbsp;to&amp;nbsp;Confirm</LtxtObjsToConf>
+    <LtxtStateOfAcct>Statement&amp;nbsp;of&amp;nbsp;Account</LtxtStateOfAcct>
+    <LtxtOfertMan>{0}&amp;nbsp;Management</LtxtOfertMan>
+    <LtxtErrItmInv>Položka, ktorú si prajete pridať nemá dosť dostupných zásob</LtxtErrItmInv>
+    <LtxtLicRejected>Zamietnutá licencia</LtxtLicRejected>
+    <LtxtNoLic>Nie ste licencovaní</LtxtNoLic>
+    <LtxtLicLimit>Vaša licencia dosiahla svoj limit</LtxtLicLimit>
+    <LtxtLicExp>Expirovaná licencia</LtxtLicExp>
+    <LtxtBackToPortal>Návrat na portál</LtxtBackToPortal>
+    <LtxtLogOut>Odhlásenie</LtxtLogOut>
+    <LtxtOperations>Operácie</LtxtOperations>
+    <LtxtReps>Výkazy</LtxtReps>
+    <LtxtHelp>Nápoveda</LtxtHelp>
+    <LtxtCurClient>Aktuálny Obchodný partner</LtxtCurClient>
+    <LtxtExpExcell>Exportovať do Excelu</LtxtExpExcell>
+    <LtxtExpPDF>Exportovať do PDF</LtxtExpPDF>
+    <LtxtWishList>Zoznam prianí</LtxtWishList>
+    <LtxtPrint>Tlač</LtxtPrint>
+    <LtxtCart>Nákupný košík</LtxtCart>
+    <LtxtOpWithClient>Operácie s Obchodným partnerom</LtxtOpWithClient>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtCredCard>Kreditná karta</LtxtCredCard>
+    <LtxtFastAddErr>Odkaz/čiarový kód "{0}" nebol nájdený.</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>Dokument klienta nemôže byť vytvorený pre cenník "Posledná nákupná cena"</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Dokument klienta nemôže byť vytvorený pre cenník "Posledná stanovená cena"</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>Vaša licencia nie je sprístupnená na pridávanie transakcií.</LtxtLicReadOnly>
+    <LtxtOpenActivities>Otvorené aktivity</LtxtOpenActivities>
+    <LtxtErrMultItmInv>Položka(y), ktorú si prajete pridať nemá dosť dostupných zásob</LtxtErrMultItmInv>
+    <LtxtOpenObjs>Otvorené objekty</LtxtOpenObjs>
+    <LtxtLoginSecReq>Musíte zvoliť Obchodného partnera na to, aby ste mohli vstúpiť do tohto formulára</LtxtLoginSecReq>
+    <LtxtShipAdd>Doručovacia adresa</LtxtShipAdd>
+    <LtxtBillAdd>Fakturačná adresa</LtxtBillAdd>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtPollMngmnt>Riadenie ankiet</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>Rozšírené riadenie ankiet</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>Riadenie správ</LtxtNewsMngmnt>
+    <LtxtGenMan>Všeobecné riadenie</LtxtGenMan>
+    <LtxtPredefined>Preddefinované</LtxtPredefined>
+    <LtxtCustom>Vlastný</LtxtCustom>
+    <LtxtMyTasks>Moje úlohy</LtxtMyTasks>
+    <LtxtExtendedPolls>Rozšírené ankety</LtxtExtendedPolls>
+    <LtxtMsgBox>Doručená pošta</LtxtMsgBox>
+    <LtxtChangePwd>Zmeniť heslo</LtxtChangePwd>
+    <LtxtFastAddErrDisc>Cena je vyššia ako maximálna povolená zľava</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>Položka {0} je zablokovaná na predaj</LtxtFastAddErrBlock>
+    <LtxtActions>Úkon</LtxtActions>
+    <LtxtGoTop>Prejdite na vrchnú časť stránky</LtxtGoTop>
+    <LtxtGoBottom>Prejdite na spodnú časť stránky</LtxtGoBottom>
+    <LtxtRecover>Obnova dát</LtxtRecover>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtCustomized>DtxtCustomized</DtxtCustomized>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtMessage>DtxtMessage</DtxtMessage>
+    <DtxtForms>DtxtForms</DtxtForms>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <DtxtExport>DtxtExport</DtxtExport>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtAuthorize>DtxtAuthorize</DtxtAuthorize>
+    <LtxtAgentInt>LtxtAgentInt</LtxtAgentInt>
+    <LtxtComDocs>LtxtComDocs</LtxtComDocs>
+    <LtxtAbout>LtxtAbout</LtxtAbout>
+    <LtxtOpenDocs>LtxtOpenDocs</LtxtOpenDocs>
+    <LtxtOpenItms>LtxtOpenItms</LtxtOpenItms>
+    <LtxtOpenCrd>LtxtOpenCrd</LtxtOpenCrd>
+    <LtxtAnonRegActive>LtxtAnonRegActive</LtxtAnonRegActive>
+    <LtxtClientSearch>LtxtClientSearch</LtxtClientSearch>
+    <LtxtObjsToConf>LtxtObjsToConf</LtxtObjsToConf>
+    <LtxtStateOfAcct>LtxtStateOfAcct</LtxtStateOfAcct>
+    <LtxtOfertMan>LtxtOfertMan</LtxtOfertMan>
+    <LtxtErrItmInv>LtxtErrItmInv</LtxtErrItmInv>
+    <LtxtLicRejected>LtxtLicRejected</LtxtLicRejected>
+    <LtxtNoLic>LtxtNoLic</LtxtNoLic>
+    <LtxtLicLimit>LtxtLicLimit</LtxtLicLimit>
+    <LtxtLicExp>LtxtLicExp</LtxtLicExp>
+    <LtxtBackToPortal>LtxtBackToPortal</LtxtBackToPortal>
+    <LtxtLogOut>LtxtLogOut</LtxtLogOut>
+    <LtxtOperations>LtxtOperations</LtxtOperations>
+    <LtxtReps>LtxtReps</LtxtReps>
+    <LtxtHelp>LtxtHelp</LtxtHelp>
+    <LtxtCurClient>LtxtCurClient</LtxtCurClient>
+    <LtxtExpExcell>LtxtExpExcell</LtxtExpExcell>
+    <LtxtExpPDF>LtxtExpPDF</LtxtExpPDF>
+    <LtxtWishList>LtxtWishList</LtxtWishList>
+    <LtxtPrint>LtxtPrint</LtxtPrint>
+    <LtxtCart>LtxtCart</LtxtCart>
+    <LtxtOpWithClient>LtxtOpWithClient</LtxtOpWithClient>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtCredCard>LtxtCredCard</LtxtCredCard>
+    <LtxtFastAddErr>LtxtFastAddErr</LtxtFastAddErr>
+    <LtxtValCLastPurListNu>LtxtValCLastPurListNu</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>LtxtValCLastDetListNu</LtxtValCLastDetListNu>
+    <LtxtLicReadOnly>LtxtLicReadOnly</LtxtLicReadOnly>
+    <LtxtOpenActivities>LtxtOpenActivities</LtxtOpenActivities>
+    <LtxtErrMultItmInv>LtxtErrMultItmInv</LtxtErrMultItmInv>
+    <LtxtOpenObjs>LtxtOpenObjs</LtxtOpenObjs>
+    <LtxtLoginSecReq>LtxtLoginSecReq</LtxtLoginSecReq>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtBillAdd>LtxtBillAdd</LtxtBillAdd>
+    <LtxtContacts>LtxtContacts</LtxtContacts>
+    <LtxtPollMngmnt>LtxtPollMngmnt</LtxtPollMngmnt>
+    <LtxtExtPollMngmnt>LtxtExtPollMngmnt</LtxtExtPollMngmnt>
+    <LtxtNewsMngmnt>LtxtNewsMngmnt</LtxtNewsMngmnt>
+    <LtxtGenMan>LtxtGenMan</LtxtGenMan>
+    <LtxtPredefined>LtxtPredefined</LtxtPredefined>
+    <LtxtCustom>LtxtCustom</LtxtCustom>
+    <LtxtMyTasks>LtxtMyTasks</LtxtMyTasks>
+    <LtxtExtendedPolls>LtxtExtendedPolls</LtxtExtendedPolls>
+    <LtxtMsgBox>LtxtMsgBox</LtxtMsgBox>
+    <LtxtChangePwd>LtxtChangePwd</LtxtChangePwd>
+    <LtxtFastAddErrDisc>LtxtFastAddErrDisc</LtxtFastAddErrDisc>
+    <LtxtFastAddErrBlock>LtxtFastAddErrBlock</LtxtFastAddErrBlock>
+    <LtxtActions>LtxtActions</LtxtActions>
+    <LtxtGoTop>LtxtGoTop</LtxtGoTop>
+    <LtxtGoBottom>LtxtGoBottom</LtxtGoBottom>
+    <LtxtRecover>LtxtRecover</LtxtRecover>
+    <LtxtOpenSO>LtxtOpenSO</LtxtOpenSO>
+  </language>
+</languages>

@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtType>Type</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtNormal>Normal</DtxtNormal>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtContent>Content</LtxtContent>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtClosed>Cerrado</DtxtClosed>
+    <DtxtPriority>Prioridad</DtxtPriority>
+    <DtxtNormal>Normal</DtxtNormal>
+    <LtxtAsignedTo>Asignado a</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtContent>Contenido</LtxtContent>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtType>סוג</DtxtType>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtPersonal>פרטי</DtxtPersonal>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtClosed>סגור</DtxtClosed>
+    <DtxtPriority>חשיבות</DtxtPriority>
+    <DtxtNormal>רגיל</DtxtNormal>
+    <LtxtAsignedTo>מקושר ל</LtxtAsignedTo>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtContent>תוכן</LtxtContent>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtType>Type</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtNormal>Normal</DtxtNormal>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtContent>Content</LtxtContent>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtPersonal>Pessoal</DtxtPersonal>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtClosed>Finalizado</DtxtClosed>
+    <DtxtPriority>Prioridade</DtxtPriority>
+    <DtxtNormal>Normal</DtxtNormal>
+    <LtxtAsignedTo>Atribuído para</LtxtAsignedTo>
+    <LtxtGeneral>Geral</LtxtGeneral>
+    <LtxtContent>Conteúdo</LtxtContent>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtPersonal>&lt;--&gt;</DtxtPersonal>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtClosed>&lt;--&gt;</DtxtClosed>
+    <DtxtPriority>&lt;--&gt;</DtxtPriority>
+    <DtxtNormal>&lt;--&gt;</DtxtNormal>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtType>Art</DtxtType>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtPersonal>Persönlich</DtxtPersonal>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtClosed>Geshlossen</DtxtClosed>
+    <DtxtPriority>Priorität</DtxtPriority>
+    <DtxtNormal>Normal</DtxtNormal>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtType>Вид</DtxtType>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtPersonal>Частный</DtxtPersonal>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtClosed>Закрыт</DtxtClosed>
+    <DtxtPriority>Приоритет</DtxtPriority>
+    <DtxtNormal>Обычный</DtxtNormal>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtPersonal>Osobní</DtxtPersonal>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtClosed>Zavřeno</DtxtClosed>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtNormal>Normální</DtxtNormal>
+    <LtxtAsignedTo>Přiřazené</LtxtAsignedTo>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtContent>Obsah</LtxtContent>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtPersonal>Osobisty/e</DtxtPersonal>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtClosed>Zamknięty</DtxtClosed>
+    <DtxtPriority>Priorytety</DtxtPriority>
+    <DtxtNormal>Normalny</DtxtNormal>
+    <LtxtAsignedTo>Przypisany do </LtxtAsignedTo>
+    <LtxtGeneral>Ogólny </LtxtGeneral>
+    <LtxtContent>Treść</LtxtContent>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtPersonal>Osobné</DtxtPersonal>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtClosed>Uzavreté</DtxtClosed>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtNormal>Bežný</DtxtNormal>
+    <LtxtAsignedTo>Priradené komu</LtxtAsignedTo>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtContent>Obsah</LtxtContent>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtSubject>&lt;--&gt;</DtxtSubject>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtOther>&lt;--&gt;</DtxtOther>
+    <DtxtTask>&lt;--&gt;</DtxtTask>
+    <DtxtConv>&lt;--&gt;</DtxtConv>
+    <DtxtMeeting>&lt;--&gt;</DtxtMeeting>
+    <DtxtPersonal>&lt;--&gt;</DtxtPersonal>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtClosed>&lt;--&gt;</DtxtClosed>
+    <DtxtPriority>&lt;--&gt;</DtxtPriority>
+    <DtxtNormal>&lt;--&gt;</DtxtNormal>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtPersonal>DtxtPersonal</DtxtPersonal>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtClosed>DtxtClosed</DtxtClosed>
+    <DtxtPriority>DtxtPriority</DtxtPriority>
+    <DtxtNormal>DtxtNormal</DtxtNormal>
+    <LtxtAsignedTo>LtxtAsignedTo</LtxtAsignedTo>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtContent>LtxtContent</LtxtContent>
+  </language>
+</languages>

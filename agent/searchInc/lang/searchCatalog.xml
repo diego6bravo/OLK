@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtValDocNum>Please enter document number you wish to catalog</LtxtValDocNum>
+    <LtxtDocSrc>Please select document source you wish to catalog</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtNoPrice>Without price</LtxtNoPrice>
+    <LtxtDocPrice>Document Price</LtxtDocPrice>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtDocNum>Document #</LtxtDocNum>
+    <LtxtDoc>Document</LtxtDoc>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Exacto</DtxtExact>
+    <DtxtLike>Similar</DtxtLike>
+    <LtxtValDocNum>Debe introducir el número del documento que desea catalogar</LtxtValDocNum>
+    <LtxtDocSrc>Seleccione el documento fuente que desea catalogar</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;úsqueda</LtxtSearch>
+    <LtxtNoPrice>Sin precio</LtxtNoPrice>
+    <LtxtDocPrice>Precio Documento</LtxtDocPrice>
+    <LtxtAdvanced>Avanzada</LtxtAdvanced>
+    <LtxtDocNum>N° Documento</LtxtDocNum>
+    <LtxtDoc>Documento</LtxtDoc>
+    <LtxtPriceList>Lista de precios</LtxtPriceList>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtExact>מדוייק</DtxtExact>
+    <DtxtLike>דומה</DtxtLike>
+    <LtxtValDocNum>יש למלא את מספר המסמך שאתה רוצה להציג </LtxtValDocNum>
+    <LtxtDocSrc>בחר את סוג המסמך שאתה רוצה להציג</LtxtDocSrc>
+    <LtxtSearch>&lt;U&gt;ח&lt;/U&gt;יפוש</LtxtSearch>
+    <LtxtNoPrice>ללא מחיר</LtxtNoPrice>
+    <LtxtDocPrice>מחיר מסמך</LtxtDocPrice>
+    <LtxtAdvanced>מתקדם</LtxtAdvanced>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtDoc>מסמך</LtxtDoc>
+    <LtxtPriceList>מחירונים</LtxtPriceList>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtPur>קניה</LtxtPur>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtValDocNum>Please enter document number you wish to catalog</LtxtValDocNum>
+    <LtxtDocSrc>Please select document source you wish to catalog</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtNoPrice>Without price</LtxtNoPrice>
+    <LtxtDocPrice>Document Price</LtxtDocPrice>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtDocNum>Document #</LtxtDocNum>
+    <LtxtDoc>Document</LtxtDoc>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Exato</DtxtExact>
+    <DtxtLike>Como</DtxtLike>
+    <LtxtValDocNum>Deve introduzir o número do documento que deseja catalogar</LtxtValDocNum>
+    <LtxtDocSrc>Selecione o documento fonte que deseja catalogar</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;usca</LtxtSearch>
+    <LtxtNoPrice>Sem preço</LtxtNoPrice>
+    <LtxtDocPrice>Preço Documento</LtxtDocPrice>
+    <LtxtAdvanced>Avançada</LtxtAdvanced>
+    <LtxtDocNum>Nº Documento</LtxtDocNum>
+    <LtxtDoc>Documento</LtxtDoc>
+    <LtxtPriceList>Lista de preços</LtxtPriceList>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtValDocNum>Devez-vous insérer le numéro de la document que vous voulez cataloguer</LtxtValDocNum>
+    <LtxtDocSrc>Sélectionnez-vous la documentation source que vous voulez cataloguer</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;R&lt;/u&gt; recherche</LtxtSearch>
+    <LtxtNoPrice>Sans prix</LtxtNoPrice>
+    <LtxtDocPrice>Prix documentation</LtxtDocPrice>
+    <LtxtAdvanced>Avancée</LtxtAdvanced>
+    <LtxtDocNum>Numéro de documentation</LtxtDocNum>
+    <LtxtDoc>Documentation</LtxtDoc>
+    <LtxtPriceList>Liste des prix</LtxtPriceList>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtPur>Achat</LtxtPur>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtValDocNum>Bitte geben Sie die Nummer des Dokuments ein, welches Sie katalogisieren möchten</LtxtValDocNum>
+    <LtxtDocSrc>Bitte geben Sie die Quelle des Dokuments ein, welches Sie katalogisieren möchten</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;uche</LtxtSearch>
+    <LtxtNoPrice>Ohne Preis</LtxtNoPrice>
+    <LtxtDocPrice>Dokumentpreis</LtxtDocPrice>
+    <LtxtAdvanced>Erweitert</LtxtAdvanced>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtPriceList>Preisliste</LtxtPriceList>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtPur>Ankauf</LtxtPur>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtValDocNum>Заполните, пожалуйста, номер документа, который вы хотите показывать</LtxtValDocNum>
+    <LtxtDocSrc>Выберите тип документа, который вы хотите показывать</LtxtDocSrc>
+    <LtxtSearch>&lt;U&gt;ח&lt;/U&gt;поиск</LtxtSearch>
+    <LtxtNoPrice>Без цены</LtxtNoPrice>
+    <LtxtDocPrice>Цена документа</LtxtDocPrice>
+    <LtxtAdvanced>Расширенный</LtxtAdvanced>
+    <LtxtDocNum>Номер документа</LtxtDocNum>
+    <LtxtDoc>Документ</LtxtDoc>
+    <LtxtPriceList>Ценники</LtxtPriceList>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtPur>Покупка</LtxtPur>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Přesné</DtxtExact>
+    <DtxtLike>jako</DtxtLike>
+    <LtxtValDocNum>Zadejte prosím číslo dokumentu, který si přejete zkatalogizovat</LtxtValDocNum>
+    <LtxtDocSrc>Zadejte prosím zdroj dokumenty, který si přejete zkatalogizovat</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;V&lt;/u&gt;yhledávání</LtxtSearch>
+    <LtxtNoPrice>Bez ceny</LtxtNoPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtAdvanced>Rozšířené</LtxtAdvanced>
+    <LtxtDocNum>Č. dokumentu</LtxtDocNum>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtPriceList>Ceník</LtxtPriceList>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Dokładny</DtxtExact>
+    <DtxtLike>Podobny</DtxtLike>
+    <LtxtValDocNum>Proszę wprowadź numer dokumentu, który chcesz skatalogować</LtxtValDocNum>
+    <LtxtDocSrc>Proszę wybierz źródło dokumentu, który chcesz skatalogować</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;P&lt;/u&gt;oszukiwanie</LtxtSearch>
+    <LtxtNoPrice>Bez ceny</LtxtNoPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtAdvanced>Zaawansowany</LtxtAdvanced>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtDoc>Dokument </LtxtDoc>
+    <LtxtPriceList>Cennik</LtxtPriceList>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtPur>Zakup</LtxtPur>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtExact>Presné</DtxtExact>
+    <DtxtLike>Podobné</DtxtLike>
+    <LtxtValDocNum>Prosím zadajte číslo dokumentu, ktorý si prajete pridať do katalógu</LtxtValDocNum>
+    <LtxtDocSrc>Prosím zvoľte zdroj dokumentu, ktorý si prajete pridať do katalógu</LtxtDocSrc>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtNoPrice>Bez ceny</LtxtNoPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtAdvanced>Rozšírené</LtxtAdvanced>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtPriceList>Cenník</LtxtPriceList>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtExact>DtxtExact</DtxtExact>
+    <DtxtLike>DtxtLike</DtxtLike>
+    <LtxtValDocNum>LtxtValDocNum</LtxtValDocNum>
+    <LtxtDocSrc>LtxtDocSrc</LtxtDocSrc>
+    <LtxtSearch>LtxtSearch</LtxtSearch>
+    <LtxtNoPrice>LtxtNoPrice</LtxtNoPrice>
+    <LtxtDocPrice>LtxtDocPrice</LtxtDocPrice>
+    <LtxtAdvanced>LtxtAdvanced</LtxtAdvanced>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtDoc>LtxtDoc</LtxtDoc>
+    <LtxtPriceList>LtxtPriceList</LtxtPriceList>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPur>LtxtPur</LtxtPur>
+  </language>
+</languages>

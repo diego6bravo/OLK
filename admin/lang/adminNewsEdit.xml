@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlAddNews>Add News</LttlAddNews>
+    <LttlEditNews>Edit News</LttlEditNews>
+    <LttlNewsNote>Here News items displayed to users upon entering the system may be added and edited.</LttlNewsNote>
+    <LtxtMainImg>Main Image</LtxtMainImg>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtSmallText>Brief Text &lt;br&gt;(Introduction)</LtxtSmallText>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtSource>Source</LtxtSource>
+    <LtxtValNewsNam>Please enter the news title</LtxtValNewsNam>
+    <LtxtValNewsDate>Please enter the publication date of the news</LtxtValNewsDate>
+    <LtxtValSmallText>Please enter a brief text introduction</LtxtValSmallText>
+    <LtxtValNewsCont>Please enter the news content</LtxtValNewsCont>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicación</DtxtDateOfPub>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlAddNews>Agregar Noticia</LttlAddNews>
+    <LttlEditNews>Editar Noticia</LttlEditNews>
+    <LttlNewsNote>En esta sección podrá agregar/editar una noticia, para que el cliente la observe al entrar a su sistema.</LttlNewsNote>
+    <LtxtMainImg>Imagen principal</LtxtMainImg>
+    <LtxtUpload>Subir</LtxtUpload>
+    <LtxtSmallText>Texto breve&lt;br&gt;(Introducción)</LtxtSmallText>
+    <LtxtContent>Contenido</LtxtContent>
+    <LtxtSource>Origen</LtxtSource>
+    <LtxtValNewsNam>Debe introducir el título de la noticia</LtxtValNewsNam>
+    <LtxtValNewsDate>Debe introducir la fecha de la noticia</LtxtValNewsDate>
+    <LtxtValSmallText>Debe introducir el texto breve de introducción</LtxtValSmallText>
+    <LtxtValNewsCont>Debe introducir el contenido de la noticia</LtxtValNewsCont>
+    <LtxtConfRemImg>¿Esta seguro que desea eliminar la imagen?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtDateOfPub>הפצה</DtxtDateOfPub>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlAddNews>הוסף חדשות</LttlAddNews>
+    <LttlEditNews>עריכת חדשות</LttlEditNews>
+    <LttlNewsNote>בחלק זה תוכל להוסיף ולערוך חדשות באתר.</LttlNewsNote>
+    <LtxtMainImg>תמונה ראשית</LtxtMainImg>
+    <LtxtUpload>עלה תמונה</LtxtUpload>
+    <LtxtSmallText>טקסט מקוצר לחדשות</LtxtSmallText>
+    <LtxtContent>תוכן</LtxtContent>
+    <LtxtSource>מקור</LtxtSource>
+    <LtxtValNewsNam>חסר כותרת לחדשות!</LtxtValNewsNam>
+    <LtxtValNewsDate>חסר תאריך לחדשות!</LtxtValNewsDate>
+    <LtxtValSmallText>חסר טקסט מקוצר לחדשות!</LtxtValSmallText>
+    <LtxtValNewsCont>חסר תוכן לחדשות!</LtxtValNewsCont>
+    <LtxtConfRemImg>האם למחוק תמונה ?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlAddNews>Add News</LttlAddNews>
+    <LttlEditNews>Edit News</LttlEditNews>
+    <LttlNewsNote>Here News items displayed to users upon entering the system may be added and edited.</LttlNewsNote>
+    <LtxtMainImg>Main Image</LtxtMainImg>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtSmallText>Brief Text &lt;br&gt;(Introduction)</LtxtSmallText>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtSource>Source</LtxtSource>
+    <LtxtValNewsNam>Please enter the news title</LtxtValNewsNam>
+    <LtxtValNewsDate>Please enter the publication date of the news</LtxtValNewsDate>
+    <LtxtValSmallText>Please enter a brief text introduction</LtxtValSmallText>
+    <LtxtValNewsCont>Please enter the news content</LtxtValNewsCont>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicação</DtxtDateOfPub>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlAddNews>Adicionar Notícia</LttlAddNews>
+    <LttlEditNews>Editar Notícia</LttlEditNews>
+    <LttlNewsNote>Nesta seção, pode ser adicionada e editada a Notícia exibida para os usuários ao entrar no sistema.</LttlNewsNote>
+    <LtxtMainImg>Imagem Principal</LtxtMainImg>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtSmallText>Texto Breve&lt;br&gt;(Introdução)&lt;br&gt;</LtxtSmallText>
+    <LtxtContent>Conteúdo</LtxtContent>
+    <LtxtSource>Fonte</LtxtSource>
+    <LtxtValNewsNam>Por favor, insira o título da notícia.</LtxtValNewsNam>
+    <LtxtValNewsDate>Por favor, insira a data de publicação da notícia.</LtxtValNewsDate>
+    <LtxtValSmallText>Por favor, insira um breve texto de introdução.</LtxtValSmallText>
+    <LtxtValNewsCont>Por favor, insira o conteúdo da notícia.
+</LtxtValNewsCont>
+    <LtxtConfRemImg>Você tem certeza que deseja remover a imagem?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlAddNews>Ajouter la Nouvelle</LttlAddNews>
+    <LttlEditNews>Éditer la nouvelle</LttlEditNews>
+    <LttlNewsNote>Dans cette section pourrez-vous ajouter/éditer une nouvelle, à fin que le client l'observe au moment d'entrer dans le système.</LttlNewsNote>
+    <LtxtMainImg>Image principale</LtxtMainImg>
+    <LtxtUpload>Monter</LtxtUpload>
+    <LtxtSmallText>Texte bref&lt;br&gt;(Introduction)</LtxtSmallText>
+    <LtxtContent>Contenu</LtxtContent>
+    <LtxtSource>Origine</LtxtSource>
+    <LtxtValNewsNam>Devez-vous insérer le titre de la nouvelle</LtxtValNewsNam>
+    <LtxtValNewsDate>Devez-vous insérer la date de la nouvelle</LtxtValNewsDate>
+    <LtxtValSmallText>Devez-vous insérer le texte bref d\'introduction</LtxtValSmallText>
+    <LtxtValNewsCont>Devez-vous insérer le contenu de la nouvelle</LtxtValNewsCont>
+    <LtxtConfRemImg>Êtes-vous sûre que vous souhaitez éliminer l\'image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtDateOfPub>Erscheinungsdatum</DtxtDateOfPub>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlAddNews>Neuigkeiten hinzufügen</LttlAddNews>
+    <LttlEditNews>Neuigkeiten bearbeiten</LttlEditNews>
+    <LttlNewsNote>In diesem Teil können Sie die Neuigkeiten, die der Kunde anfangs zu sehen bekommt, hinzufügen/bearbeiten.</LttlNewsNote>
+    <LtxtMainImg>Hauptbild</LtxtMainImg>
+    <LtxtUpload>Hochladen</LtxtUpload>
+    <LtxtSmallText>Kurztext&lt;br&gt;(Einleitung)</LtxtSmallText>
+    <LtxtContent>Inhalt</LtxtContent>
+    <LtxtSource>Quelle</LtxtSource>
+    <LtxtValNewsNam>Bitte geben Sie den Neuigkeiten einen Namen</LtxtValNewsNam>
+    <LtxtValNewsDate>Bitte geben Sie das Datum der Neuigkeiten an</LtxtValNewsDate>
+    <LtxtValSmallText>Bitte geben Sie eine kurze Texteinleitung ein</LtxtValSmallText>
+    <LtxtValNewsCont>Bitte geben Sie den Inhalt der Neuigkeiten ein</LtxtValNewsCont>
+    <LtxtConfRemImg>Möchten Sie das Bild wirklich löschen?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtDateOfPub>Распределение</DtxtDateOfPub>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlAddNews>Добавить новость</LttlAddNews>
+    <LttlEditNews>Правка новостей</LttlEditNews>
+    <LttlNewsNote>В этом разделе вы можете добавлять и редактировать статьи новостей.</LttlNewsNote>
+    <LtxtMainImg>Главная фотография</LtxtMainImg>
+    <LtxtUpload>Загрузить фото</LtxtUpload>
+    <LtxtSmallText>Сокращенный текст для новостей</LtxtSmallText>
+    <LtxtContent>Содержание</LtxtContent>
+    <LtxtSource>Источник</LtxtSource>
+    <LtxtValNewsNam>Отсутствует название  новостей!</LtxtValNewsNam>
+    <LtxtValNewsDate> Новости без даты!</LtxtValNewsDate>
+    <LtxtValSmallText>Не хватает сокращенного текста  новостей </LtxtValSmallText>
+    <LtxtValNewsCont>Отсутствие содержания в новостях!</LtxtValNewsCont>
+    <LtxtConfRemImg>Удалить фотографию?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtDateOfPub>Uveřejnění</DtxtDateOfPub>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlAddNews>Přidat novinku</LttlAddNews>
+    <LttlEditNews>Upravit novinky</LttlEditNews>
+    <LttlNewsNote>V této sekci můžete přidat/upravit nové položky zobrazené uživatelům při přihlášení do systému</LttlNewsNote>
+    <LtxtMainImg>Hlavní obrázek</LtxtMainImg>
+    <LtxtUpload>Nahrát</LtxtUpload>
+    <LtxtSmallText>Krátký text&lt;br&gt;(Úvod)</LtxtSmallText>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtSource>Zdroj</LtxtSource>
+    <LtxtValNewsNam>Vložte titulek pro novinky</LtxtValNewsNam>
+    <LtxtValNewsDate>Zadejte datum novinek</LtxtValNewsDate>
+    <LtxtValSmallText>Vložte prosím krátký úvodní text</LtxtValSmallText>
+    <LtxtValNewsCont>Vložte obsah novinek</LtxtValNewsCont>
+    <LtxtConfRemImg>Jste si jistý/á, že chcete odstranit tento obrázek?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtDateOfPub>Publikacja</DtxtDateOfPub>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlAddNews>Dodaj wiadomości</LttlAddNews>
+    <LttlEditNews>Edytuj wiadomości </LttlEditNews>
+    <LttlNewsNote>Tutaj pozycje wiadomości wyświetlające się użytkownikom podczas wejścia do systemu mogą być dodawane i edytowane.</LttlNewsNote>
+    <LtxtMainImg>Główne zdjęcie</LtxtMainImg>
+    <LtxtUpload>Pobierz</LtxtUpload>
+    <LtxtSmallText>Krótki tekst (wstęp)</LtxtSmallText>
+    <LtxtContent>Treść/zawartość</LtxtContent>
+    <LtxtSource>Źródło</LtxtSource>
+    <LtxtValNewsNam>Proszę wprowadź tytuł wiadomości </LtxtValNewsNam>
+    <LtxtValNewsDate>Proszę wprowadź datę publikacji wiadomości</LtxtValNewsDate>
+    <LtxtValSmallText>Proszę wprowadź krótki tekst wprowadzenia</LtxtValSmallText>
+    <LtxtValNewsCont>Proszę wprowadź treść wiadomości</LtxtValNewsCont>
+    <LtxtConfRemImg>Czy jesteś pewien, że chcesz skasować zdjęcie?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtDateOfPub>Publikácia</DtxtDateOfPub>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlAddNews>Pridať správy</LttlAddNews>
+    <LttlEditNews>Editovať správy</LttlEditNews>
+    <LttlNewsNote>Tu sa dajú pridať a editovať jednotlivé správy zobrazované užívateľom po vstupe do systému.</LttlNewsNote>
+    <LtxtMainImg>Hlavný obrázok</LtxtMainImg>
+    <LtxtUpload>Uploadovať</LtxtUpload>
+    <LtxtSmallText>Stručný text&lt;br&gt;(Úvod)</LtxtSmallText>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtSource>Zdroj</LtxtSource>
+    <LtxtValNewsNam>Prosím zadajte názov správ</LtxtValNewsNam>
+    <LtxtValNewsDate>Prosím zadajte dátum publikácie správ</LtxtValNewsDate>
+    <LtxtValSmallText>Prosím zadajte stručný textový úvod</LtxtValSmallText>
+    <LtxtValNewsCont>Prosím zadajte obsah správ</LtxtValNewsCont>
+    <LtxtConfRemImg>Ste si istí, že chcete odstrániť tento obrázok?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtTitle>&lt;--&gt;</DtxtTitle>
+    <DtxtDateOfPub>&lt;--&gt;</DtxtDateOfPub>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlAddNews>&lt;--&gt;</LttlAddNews>
+    <LttlEditNews>&lt;--&gt;</LttlEditNews>
+    <LttlNewsNote>&lt;--&gt;</LttlNewsNote>
+    <LtxtMainImg>&lt;--&gt;</LtxtMainImg>
+    <LtxtUpload>&lt;--&gt;</LtxtUpload>
+    <LtxtSmallText>&lt;--&gt;</LtxtSmallText>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtSource>&lt;--&gt;</LtxtSource>
+    <LtxtValNewsNam>&lt;--&gt;</LtxtValNewsNam>
+    <LtxtValNewsDate>&lt;--&gt;</LtxtValNewsDate>
+    <LtxtValSmallText>&lt;--&gt;</LtxtValSmallText>
+    <LtxtValNewsCont>&lt;--&gt;</LtxtValNewsCont>
+    <LtxtConfRemImg>&lt;--&gt;</LtxtConfRemImg>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtDateOfPub>DtxtDateOfPub</DtxtDateOfPub>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlAddNews>LttlAddNews</LttlAddNews>
+    <LttlEditNews>LttlEditNews</LttlEditNews>
+    <LttlNewsNote>LttlNewsNote</LttlNewsNote>
+    <LtxtMainImg>LtxtMainImg</LtxtMainImg>
+    <LtxtUpload>LtxtUpload</LtxtUpload>
+    <LtxtSmallText>LtxtSmallText</LtxtSmallText>
+    <LtxtContent>LtxtContent</LtxtContent>
+    <LtxtSource>LtxtSource</LtxtSource>
+    <LtxtValNewsNam>LtxtValNewsNam</LtxtValNewsNam>
+    <LtxtValNewsDate>LtxtValNewsDate</LtxtValNewsDate>
+    <LtxtValSmallText>LtxtValSmallText</LtxtValSmallText>
+    <LtxtValNewsCont>LtxtValNewsCont</LtxtValNewsCont>
+    <LtxtConfRemImg>LtxtConfRemImg</LtxtConfRemImg>
+  </language>
+</languages>

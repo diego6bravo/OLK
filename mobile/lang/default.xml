@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtPwd>Password</DtxtPwd>
+    <LtxtEnter>ENTER</LtxtEnter>
+    <LtxtSavePwd>Save Password</LtxtSavePwd>
+    <LtxtLng>Language</LtxtLng>
+    <LtxtWelcome>Welcome to &lt;i&gt;Mobile OLK&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Please enter your username and password</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Wrong username or password</LtxtWrongUidPwd>
+    <LtxtWrongIP>You user doesn’t have Access through your current IP.</LtxtWrongIP>
+    <LtxtInactiveLicServer>License Server Inactive</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>The "License Server" doesn’t have a OLK license.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>The OLK license has expired.</LtxtOLKLicExp>
+    <LtxtValUser>Please enter user</LtxtValUser>
+    <LtxtValPwd>Please enter password</LtxtValPwd>
+    <LtxtValConfBranch>To login, at least one branch must be configured, or disable this option.</LtxtValConfBranch>
+    <LtxtNoBranchAccess>You don't have access to this branch</LtxtNoBranchAccess>
+    <LtxtNoDBConf>No databases configured!</LtxtNoDBConf>
+    <LtxtDBNotUpd>Database is not updated, contact your system administrator.</LtxtDBNotUpd>
+    <LtxtNoUserLic>Your user does not have an assigned license</LtxtNoUserLic>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtPwd>Contraseña</DtxtPwd>
+    <LtxtEnter>INGRESAR</LtxtEnter>
+    <LtxtSavePwd>Guardar Contraseña</LtxtSavePwd>
+    <LtxtLng>Idioma</LtxtLng>
+    <LtxtWelcome>Bienvenido a &lt;i&gt;Mobile OLK&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Por favor ingrese su usuario y contraseña</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Usuario o contraseña errónea</LtxtWrongUidPwd>
+    <LtxtWrongIP>Su usuario no tiene acceso con la dirección IP actual.</LtxtWrongIP>
+    <LtxtInactiveLicServer>Servidor de Licencias Inactivo</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>El "Servidor de Licencias" no cuenta con la licencia de OLK.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>La licencia de OLK esta expirada.</LtxtOLKLicExp>
+    <LtxtValUser>Debe introducir su usuario</LtxtValUser>
+    <LtxtValPwd>Debe introducir su contraseña</LtxtValPwd>
+    <LtxtValConfBranch>Debe configurar por lo menos una sucursal o deshabilitar esta opción para poder entrar</LtxtValConfBranch>
+    <LtxtNoBranchAccess>No tiene acceso a esta sucursal</LtxtNoBranchAccess>
+    <LtxtNoDBConf>¡No hay base de datos configurada!</LtxtNoDBConf>
+    <LtxtDBNotUpd>Base de datos no está actualizada, contacte su administrador de sistemas.</LtxtDBNotUpd>
+    <LtxtNoUserLic>Su usuario no tiene asignado una licencia</LtxtNoUserLic>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtPwd>סיסמה</DtxtPwd>
+    <LtxtEnter>כניסה</LtxtEnter>
+    <LtxtSavePwd>שמור סיסמה</LtxtSavePwd>
+    <LtxtLng>שפה</LtxtLng>
+    <LtxtWelcome>ברוך הבא &lt;i&gt;לאולק נייד&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>הכנס משתמש וסיסמה</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>משתמש או סיסמה לא חוקית</LtxtWrongUidPwd>
+    <LtxtWrongIP>למשתמש אין כניסה דרך ה-IP הנ"ל</LtxtWrongIP>
+    <LtxtInactiveLicServer>שרת רשיונות לא פעיל</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>אין רשיון OLK בשרת</LtxtNoOLKLic>
+    <LtxtOLKLicExp>רשיון OLK ניגמרה</LtxtOLKLicExp>
+    <LtxtValUser>יש לשים משתמש</LtxtValUser>
+    <LtxtValPwd>יש לשים סיסמה</LtxtValPwd>
+    <LtxtValConfBranch>יש להגדיר לפחות סניף אחד או לבטל את ניהול סניפים לפני כניסה לאתר</LtxtValConfBranch>
+    <LtxtNoBranchAccess>אין לך הרשאה לסניף הנוכחי</LtxtNoBranchAccess>
+    <LtxtNoDBConf>אין בסיס נתונים מוגדר!</LtxtNoDBConf>
+    <LtxtDBNotUpd>בסיס הנתונים לא מעודכן, נא צור קשר עם מנהל המערכת שלך</LtxtDBNotUpd>
+    <LtxtNoUserLic>לא הוקצה רשיון למשתמש שלך</LtxtNoUserLic>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtPwd>Password</DtxtPwd>
+    <LtxtEnter>ENTER</LtxtEnter>
+    <LtxtSavePwd>Save Password</LtxtSavePwd>
+    <LtxtLng>Language</LtxtLng>
+    <LtxtWelcome>Welcome to &lt;i&gt;Mobile OLK&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Please enter your username and password</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Wrong username or password</LtxtWrongUidPwd>
+    <LtxtWrongIP>You user doesn’t have Access through your current IP.</LtxtWrongIP>
+    <LtxtInactiveLicServer>License Server Inactive</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>The "License Server" doesn’t have a OLK license.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>The OLK license has expired.</LtxtOLKLicExp>
+    <LtxtValUser>Please enter user</LtxtValUser>
+    <LtxtValPwd>Please enter password</LtxtValPwd>
+    <LtxtValConfBranch>To login, at least one branch must be configured, or disable this option.</LtxtValConfBranch>
+    <LtxtNoBranchAccess>You don't have access to this branch</LtxtNoBranchAccess>
+    <LtxtNoDBConf>No databases configured!</LtxtNoDBConf>
+    <LtxtDBNotUpd>Database is not updated, contact your system administrator.</LtxtDBNotUpd>
+    <LtxtNoUserLic>Your user does not have an assigned license</LtxtNoUserLic>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtPwd>Senha</DtxtPwd>
+    <LtxtEnter>Entrar</LtxtEnter>
+    <LtxtSavePwd>Salvar Senha</LtxtSavePwd>
+    <LtxtLng>Idioma</LtxtLng>
+    <LtxtWelcome>Bem Vindo a &lt;i&gt; OnlineKit Mobile &lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Por favor digite seu usuário e senha</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Usuário ou senha inválida</LtxtWrongUidPwd>
+    <LtxtWrongIP>Seu usuário não tem acesso com o endereço de IP atual</LtxtWrongIP>
+    <LtxtInactiveLicServer>Servidor de Licenças Inativo</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>O "Servidor de Licenças" não possui licença do OnlineKit.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>A licença do OnlineKit está expirada.</LtxtOLKLicExp>
+    <LtxtValUser>Por favor, digite seu usuário</LtxtValUser>
+    <LtxtValPwd>Por favor, digite sua senha</LtxtValPwd>
+    <LtxtValConfBranch>Você deve configurar pelo menos uma filial ou desabilitar esta opção para poder entrar</LtxtValConfBranch>
+    <LtxtNoBranchAccess>Você não tem acesso a esta filial</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Não existe base de dados configurada</LtxtNoDBConf>
+    <LtxtDBNotUpd>A Base de dados não está atualizada, entre em contato com o administrador do sistema</LtxtDBNotUpd>
+    <LtxtNoUserLic>Seu usuário não tem uma licença atribuida</LtxtNoUserLic>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtPwd>Mot de passe</DtxtPwd>
+    <LtxtEnter>ENTRER</LtxtEnter>
+    <LtxtSavePwd>Garder mot de passe</LtxtSavePwd>
+    <LtxtLng>Langue</LtxtLng>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>&lt;--&gt;</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Utilisateur ou mot de passe érronés</LtxtWrongUidPwd>
+    <LtxtWrongIP>&lt;--&gt;</LtxtWrongIP>
+    <LtxtInactiveLicServer>&lt;--&gt;</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>&lt;--&gt;</LtxtNoOLKLic>
+    <LtxtOLKLicExp>&lt;--&gt;</LtxtOLKLicExp>
+    <LtxtValUser>Devez-vous insérer votre nom d\'utilisateur</LtxtValUser>
+    <LtxtValPwd>Devez-vous insérer votre mot de passe</LtxtValPwd>
+    <LtxtValConfBranch>Devez-vous configurer au moins une succursale ou épuiser</LtxtValConfBranch>
+    <LtxtNoBranchAccess>&lt;--&gt;</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Il n'y a pas de base de données configurée</LtxtNoDBConf>
+    <LtxtDBNotUpd>&lt;--&gt;</LtxtDBNotUpd>
+    <LtxtNoUserLic>&lt;--&gt;</LtxtNoUserLic>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtPwd>Kennwort</DtxtPwd>
+    <LtxtEnter>HINEIN</LtxtEnter>
+    <LtxtSavePwd>Kennwort speichern</LtxtSavePwd>
+    <LtxtLng>Sprache</LtxtLng>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>&lt;--&gt;</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Benutzername oder Kennwort ist falsch</LtxtWrongUidPwd>
+    <LtxtWrongIP>&lt;--&gt;</LtxtWrongIP>
+    <LtxtInactiveLicServer>&lt;--&gt;</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>&lt;--&gt;</LtxtNoOLKLic>
+    <LtxtOLKLicExp>&lt;--&gt;</LtxtOLKLicExp>
+    <LtxtValUser>Benutzername eingeben</LtxtValUser>
+    <LtxtValPwd>Kennwort eingeben</LtxtValPwd>
+    <LtxtValConfBranch>Um sich anzumelden muss mindestens ein Zweig konfiguriert sein, oder sperren Sie die Option.</LtxtValConfBranch>
+    <LtxtNoBranchAccess>&lt;--&gt;</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Es sind keine Datenbanken konfiguriert!</LtxtNoDBConf>
+    <LtxtDBNotUpd>&lt;--&gt;</LtxtDBNotUpd>
+    <LtxtNoUserLic>&lt;--&gt;</LtxtNoUserLic>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtPwd>Пароль</DtxtPwd>
+    <LtxtEnter>&lt;--&gt;</LtxtEnter>
+    <LtxtSavePwd>&lt;--&gt;</LtxtSavePwd>
+    <LtxtLng>&lt;--&gt;</LtxtLng>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>&lt;--&gt;</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>&lt;--&gt;</LtxtWrongUidPwd>
+    <LtxtWrongIP>&lt;--&gt;</LtxtWrongIP>
+    <LtxtInactiveLicServer>&lt;--&gt;</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>&lt;--&gt;</LtxtNoOLKLic>
+    <LtxtOLKLicExp>&lt;--&gt;</LtxtOLKLicExp>
+    <LtxtValUser>&lt;--&gt;</LtxtValUser>
+    <LtxtValPwd>&lt;--&gt;</LtxtValPwd>
+    <LtxtValConfBranch>&lt;--&gt;</LtxtValConfBranch>
+    <LtxtNoBranchAccess>&lt;--&gt;</LtxtNoBranchAccess>
+    <LtxtNoDBConf>&lt;--&gt;</LtxtNoDBConf>
+    <LtxtDBNotUpd>&lt;--&gt;</LtxtDBNotUpd>
+    <LtxtNoUserLic>&lt;--&gt;</LtxtNoUserLic>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtPwd>Heslo</DtxtPwd>
+    <LtxtEnter>VSTUPTE</LtxtEnter>
+    <LtxtSavePwd>Uložit heslo</LtxtSavePwd>
+    <LtxtLng>Jazyk</LtxtLng>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Zadejte svoje uživatelské jméno a heslo</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Chybné jméno nebo heslo</LtxtWrongUidPwd>
+    <LtxtWrongIP>Váš uživatelský účet nemá přístup přes Vaši ktuální IP.</LtxtWrongIP>
+    <LtxtInactiveLicServer>Licenční server není aktivní</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>"Licenční server" nemá licenci OLK.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>OLK licence vypršela.</LtxtOLKLicExp>
+    <LtxtValUser>Vložte uživatele</LtxtValUser>
+    <LtxtValPwd>Zadejte heslo</LtxtValPwd>
+    <LtxtValConfBranch>Pro přihlášení musí být nakonfigurovaná aspon jedna pobočka. Jinak tuto možnost deaktivujte.</LtxtValConfBranch>
+    <LtxtNoBranchAccess>K této pobočce nemáte přístup</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Nejsou nakonfigurované žádné databáze!</LtxtNoDBConf>
+    <LtxtDBNotUpd>&lt;--&gt;</LtxtDBNotUpd>
+    <LtxtNoUserLic>&lt;--&gt;</LtxtNoUserLic>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtPwd>Hasło</DtxtPwd>
+    <LtxtEnter>Wejście</LtxtEnter>
+    <LtxtSavePwd>Zapamiętaj hasło</LtxtSavePwd>
+    <LtxtLng>Język</LtxtLng>
+    <LtxtWelcome>Witamy w &lt;i&gt;Komórka OLK&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Proszę wprowadź nazwę użytkownika i hasło</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Błędna nazwa użytkownik lub hasło</LtxtWrongUidPwd>
+    <LtxtWrongIP>Twój użytkownik nie ma dostępu poprzez obecny adres IP</LtxtWrongIP>
+    <LtxtInactiveLicServer>Serwer licencji nieaktywny</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>"Serwer Licencji" nie posiada licencji OLK</LtxtNoOLKLic>
+    <LtxtOLKLicExp>Licencja OLK wygasła</LtxtOLKLicExp>
+    <LtxtValUser>Proszę wprowadź użytkownika</LtxtValUser>
+    <LtxtValPwd>Proszę wprowadź hasło</LtxtValPwd>
+    <LtxtValConfBranch>Przy najmniej jeden oddział musi być skonfigurowany aby się zalogować lub skasuj tę opcję</LtxtValConfBranch>
+    <LtxtNoBranchAccess>Nie masz dostępu do tego oddziału</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Brak skonfigurowanej bazy danych!</LtxtNoDBConf>
+    <LtxtDBNotUpd>Baza danych nie jest uaktualniona, skontaktuj się ze swoim administratorem systemu</LtxtDBNotUpd>
+    <LtxtNoUserLic>Twój użytkownik nie posiada przypisanej licencji</LtxtNoUserLic>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtPwd>Heslo</DtxtPwd>
+    <LtxtEnter>VSTÚPIŤ</LtxtEnter>
+    <LtxtSavePwd>Uložiť heslo</LtxtSavePwd>
+    <LtxtLng>Jazyk</LtxtLng>
+    <LtxtWelcome>Vitajte v &lt;i&gt;Mobile OLK&lt;/i&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>Prosím zadajte svoje užívateľské meno a heslo</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>Nesprávne užívateľské meno alebo heslo</LtxtWrongUidPwd>
+    <LtxtWrongIP>Váš užívateľ nemá prístup cez Vašu aktuálnu IP.</LtxtWrongIP>
+    <LtxtInactiveLicServer>Licenčný server neaktívny</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>Licenčný server nemá OLK licenciu.</LtxtNoOLKLic>
+    <LtxtOLKLicExp>OLK licencia expirovala.</LtxtOLKLicExp>
+    <LtxtValUser>Prosím zadajte užívateľa</LtxtValUser>
+    <LtxtValPwd>Prosím zadajte heslo</LtxtValPwd>
+    <LtxtValConfBranch>Na prihlásenie musí byť nakonfigurovaná aspoň jedna pobočka alebo zablokujte túto možnosť.</LtxtValConfBranch>
+    <LtxtNoBranchAccess>Nemáte prístup do tejto pobočky</LtxtNoBranchAccess>
+    <LtxtNoDBConf>Žiadne databázy nie sú nakonfigurované!</LtxtNoDBConf>
+    <LtxtDBNotUpd>Databáza nie je aktualizovaná, kontaktujte Systémového administrátora.</LtxtDBNotUpd>
+    <LtxtNoUserLic>Váš užívateľ nemá pridelenú licenciu</LtxtNoUserLic>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtPwd>&lt;--&gt;</DtxtPwd>
+    <LtxtEnter>&lt;--&gt;</LtxtEnter>
+    <LtxtSavePwd>&lt;--&gt;</LtxtSavePwd>
+    <LtxtLng>&lt;--&gt;</LtxtLng>
+    <LtxtWelcome>&lt;--&gt;</LtxtWelcome>
+    <LtxtEnterUidPwd>&lt;--&gt;</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>&lt;--&gt;</LtxtWrongUidPwd>
+    <LtxtWrongIP>&lt;--&gt;</LtxtWrongIP>
+    <LtxtInactiveLicServer>&lt;--&gt;</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>&lt;--&gt;</LtxtNoOLKLic>
+    <LtxtOLKLicExp>&lt;--&gt;</LtxtOLKLicExp>
+    <LtxtValUser>&lt;--&gt;</LtxtValUser>
+    <LtxtValPwd>&lt;--&gt;</LtxtValPwd>
+    <LtxtValConfBranch>&lt;--&gt;</LtxtValConfBranch>
+    <LtxtNoBranchAccess>&lt;--&gt;</LtxtNoBranchAccess>
+    <LtxtNoDBConf>&lt;--&gt;</LtxtNoDBConf>
+    <LtxtDBNotUpd>&lt;--&gt;</LtxtDBNotUpd>
+    <LtxtNoUserLic>&lt;--&gt;</LtxtNoUserLic>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtPwd>DtxtPwd</DtxtPwd>
+    <LtxtEnter>LtxtEnter</LtxtEnter>
+    <LtxtSavePwd>LtxtSavePwd</LtxtSavePwd>
+    <LtxtLng>LtxtLng</LtxtLng>
+    <LtxtWelcome>LtxtWelcome</LtxtWelcome>
+    <LtxtEnterUidPwd>LtxtEnterUidPwd</LtxtEnterUidPwd>
+    <LtxtWrongUidPwd>LtxtWrongUidPwd</LtxtWrongUidPwd>
+    <LtxtWrongIP>LtxtWrongIP</LtxtWrongIP>
+    <LtxtInactiveLicServer>LtxtInactiveLicServer</LtxtInactiveLicServer>
+    <LtxtNoOLKLic>LtxtNoOLKLic</LtxtNoOLKLic>
+    <LtxtOLKLicExp>LtxtOLKLicExp</LtxtOLKLicExp>
+    <LtxtValUser>LtxtValUser</LtxtValUser>
+    <LtxtValPwd>LtxtValPwd</LtxtValPwd>
+    <LtxtValConfBranch>LtxtValConfBranch</LtxtValConfBranch>
+    <LtxtNoBranchAccess>LtxtNoBranchAccess</LtxtNoBranchAccess>
+    <LtxtNoDBConf>LtxtNoDBConf</LtxtNoDBConf>
+    <LtxtDBNotUpd>LtxtDBNotUpd</LtxtDBNotUpd>
+    <LtxtNoUserLic>LtxtNoUserLic</LtxtNoUserLic>
+  </language>
+</languages>

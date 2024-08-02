@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Send</DtxtSend>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>You have not selected to whom you wish to send message</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Please enter the message subject</LtxtValMsgSubject>
+    <LttlSendMsg>Send Message</LttlSendMsg>
+    <LtxtUrgent>Urgent</LtxtUrgent>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtMessage>Mensaje</DtxtMessage>
+    <DtxtSend>Enviar</DtxtSend>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>No ha seleccionado a quien desea enviarle el mensaje</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Debe introducir el asunto del mensaje</LtxtValMsgSubject>
+    <LttlSendMsg>Enviar Mensaje</LttlSendMsg>
+    <LtxtUrgent>Urgente</LtxtUrgent>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtMessage>הודעה</DtxtMessage>
+    <DtxtSend>שלח</DtxtSend>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <LtxtValMsgToUser>לא בחרת למי את רוצה לשלוח את ההודעה</LtxtValMsgToUser>
+    <LtxtValMsgSubject>יש לתת נושא להודעה</LtxtValMsgSubject>
+    <LttlSendMsg>שלח הודעה</LttlSendMsg>
+    <LtxtUrgent>דחוף</LtxtUrgent>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Send</DtxtSend>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>You have not selected to whom you wish to send message</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Please enter the message subject</LtxtValMsgSubject>
+    <LttlSendMsg>Send Message</LttlSendMsg>
+    <LtxtUrgent>Urgent</LtxtUrgent>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtMessage>Mensagem</DtxtMessage>
+    <DtxtSend>Enviar</DtxtSend>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Não selecionou a quem deseja enviar a mensagem</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Deve introduzir o assunto da mensagem</LtxtValMsgSubject>
+    <LttlSendMsg>Enviar mensagem</LttlSendMsg>
+    <LtxtUrgent>Urgente</LtxtUrgent>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtSend>Envoyer</DtxtSend>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Vous n'avez pas sélectionné à qui est-ce que veuillez-vous envoyer le message</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Devez-vous insérer le sujet du message</LtxtValMsgSubject>
+    <LttlSendMsg>Envoyer message</LttlSendMsg>
+    <LtxtUrgent>Urgent</LtxtUrgent>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtMessage>Nachricht</DtxtMessage>
+    <DtxtSend>Senden</DtxtSend>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Sie haben keinen Empfänger für diese Nachricht eingegeben</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Bitte geben Sie den Betreff der Nachricht ein</LtxtValMsgSubject>
+    <LttlSendMsg>Nachricht senden</LttlSendMsg>
+    <LtxtUrgent>Dringend</LtxtUrgent>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtMessage>Сообщение</DtxtMessage>
+    <DtxtSend>Посылать</DtxtSend>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtSAP>Сап</DtxtSAP>
+    <LtxtValMsgToUser>Вы не выбрали, кому вы хотите отправить сообщение</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Следует выдавать сообщения</LtxtValMsgSubject>
+    <LttlSendMsg>Отправить сообщение</LttlSendMsg>
+    <LtxtUrgent>Срочно</LtxtUrgent>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtMessage>Vzkaz</DtxtMessage>
+    <DtxtSend>Poslat</DtxtSend>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Nevybral/a jste, komu si přejete zprávu odeslat</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Vložte prosím předmět zprávy</LtxtValMsgSubject>
+    <LttlSendMsg>Poslat zprávu</LttlSendMsg>
+    <LtxtUrgent>Naléhavé</LtxtUrgent>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtMessage>Wiadomość</DtxtMessage>
+    <DtxtSend>Wyślij</DtxtSend>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Nie wybrałeś do kogo chcesz wysłać tę wiadomość</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Proszę wprowadź temat wiadomości</LtxtValMsgSubject>
+    <LttlSendMsg>Wyślij wiadomość</LttlSendMsg>
+    <LtxtUrgent>Pilne</LtxtUrgent>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtMessage>Správa</DtxtMessage>
+    <DtxtSend>Odoslať</DtxtSend>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtSAP>SAP</DtxtSAP>
+    <LtxtValMsgToUser>Nezvolili ste komu si prajete zaslať správu</LtxtValMsgToUser>
+    <LtxtValMsgSubject>Prosím zadajte predmet správy</LtxtValMsgSubject>
+    <LttlSendMsg>Zaslať správu</LttlSendMsg>
+    <LtxtUrgent>Urgentné</LtxtUrgent>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtMessage>DtxtMessage</DtxtMessage>
+    <DtxtSend>DtxtSend</DtxtSend>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <LtxtValMsgToUser>LtxtValMsgToUser</LtxtValMsgToUser>
+    <LtxtValMsgSubject>LtxtValMsgSubject</LtxtValMsgSubject>
+    <LttlSendMsg>LttlSendMsg</LttlSendMsg>
+    <LtxtUrgent>LtxtUrgent</LtxtUrgent>
+  </language>
+</languages>

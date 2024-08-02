@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Close</DtxtClose>
+    <LaltConf>Query -  Confirm that you agree</LaltConf>
+    <LaltError>Error - Please correct to continue</LaltError>
+    <LaltFlow>Flow - Missing super user authorization</LaltFlow>
+    <LttlDocFlow>Document Flow</LttlDocFlow>
+    <LtxtNoStockAvl>Insufficient quantity available for the following items</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Stock not available</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtClose>Cerrar</DtxtClose>
+    <LaltConf>Consulta - Confirme que está de acuerdo</LaltConf>
+    <LaltError>Error - Debe corregirlo para poder continuar</LaltError>
+    <LaltFlow>Flujo - Falta autorización de SuperUsuario</LaltFlow>
+    <LttlDocFlow>Flujo de documentos</LttlDocFlow>
+    <LtxtNoStockAvl>Los siguientes artículos no tienen suficiente inventario disponible</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Inventario no disponible</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtClose>סגור</DtxtClose>
+    <LaltConf>שאילתא -  אשר אם אתה מסכים</LaltConf>
+    <LaltError>תקלה - יש לתקן ע"מ להמשיך</LaltError>
+    <LaltFlow>תזרים - צריך אישור של משתמש בכיר</LaltFlow>
+    <LttlDocFlow>זרימת מסמכים</LttlDocFlow>
+    <LtxtNoStockAvl>לפריטים הבאים אין מספיק מלאי זמין </LtxtNoStockAvl>
+    <LtxtNoStockTtl>מלאי לא זמין</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Close</DtxtClose>
+    <LaltConf>Query -  Confirm that you agree</LaltConf>
+    <LaltError>Error - Please correct to continue</LaltError>
+    <LaltFlow>Flow - Missing super user authorization</LaltFlow>
+    <LttlDocFlow>Document Flow</LttlDocFlow>
+    <LtxtNoStockAvl>Insufficient quantity available for the following items</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Stock not available</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtClose>Fechar</DtxtClose>
+    <LaltConf>Consulta - Confirma que está de acordo</LaltConf>
+    <LaltError>Erro - Deve corrigir-se  para poder continuar</LaltError>
+    <LaltFlow>Fluxo - Falta autorização do SuperUsuário</LaltFlow>
+    <LttlDocFlow>Fluxo de documentos</LttlDocFlow>
+    <LtxtNoStockAvl>Os seguintes itens não possuem estoque suficiente disponível</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Estoque não disponível</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Fermer</DtxtClose>
+    <LaltConf>Consultation - Confirmez-vous que vous êtes d'accord</LaltConf>
+    <LaltError>Erreur - Devez-vous le corriger avant de continuer</LaltError>
+    <LaltFlow>Flux - Il manque l'autorisation de SuperUtilisateur</LaltFlow>
+    <LttlDocFlow>Flux des documentations</LttlDocFlow>
+    <LtxtNoStockAvl>Les articles suivants n'ont pas assez d'inventaire disponible</LtxtNoStockAvl>
+    <LtxtNoStockTtl>L'inventaire ne pas disponible</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtClose>Schließen</DtxtClose>
+    <LaltConf>Anfrage - Bestätigen das Sie zustimmen</LaltConf>
+    <LaltError>Fehlermeldung - Bitte korrigieren Sie um fortzufahren</LaltError>
+    <LaltFlow>Fluss - Es fehlt die Berechtigung des Superbenutzers</LaltFlow>
+    <LttlDocFlow>Dokument Fluss</LttlDocFlow>
+    <LtxtNoStockAvl>Nicht ausreichende Menge für folgende Artikel</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Bestand nicht verfügbar</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtClose>Закрыт</DtxtClose>
+    <LaltConf>Запрос - разрешение, если вы согласны</LaltConf>
+    <LaltError>Неисправность - должна быть исправлена для  продолжения</LaltError>
+    <LaltFlow>Поток - необходимо утверждение старшим пользователем</LaltFlow>
+    <LttlDocFlow>Поток документов</LttlDocFlow>
+    <LtxtNoStockAvl>Следующие детали не имеются в достаточном количестве в запасе</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Нет достаточно запасов</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtClose>Zavřít</DtxtClose>
+    <LaltConf>Dotaz - potvrďte, že souhlasíte</LaltConf>
+    <LaltError>Chyba - pro pokračování opravte</LaltError>
+    <LaltFlow>Tok - chybí autorizace nadřazeného uživatele</LaltFlow>
+    <LttlDocFlow>Tok dokumentů</LttlDocFlow>
+    <LtxtNoStockAvl>Nedostatečné množství skladem u uvedených položek</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Nejsou dostupné zásoby</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <LaltConf>Zapytanie - potwierdź, że się zgadzasz</LaltConf>
+    <LaltError>Błąd - proszę popraw by kontynuować</LaltError>
+    <LaltFlow>Przepływ - brakuje autoryzacji Super użytkownika</LaltFlow>
+    <LttlDocFlow>Przepływ dokumentów</LttlDocFlow>
+    <LtxtNoStockAvl>Niewystarczająca ilość dostępna dla następujących pozycji</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Zapas nie jest dostępny</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <LaltConf>Dotaz - Potvrďte, že súhlasíte</LaltConf>
+    <LaltError>Chyba - Prosím opravte, aby ste mohli pokračovať</LaltError>
+    <LaltFlow>Tok - Chýbajúca autorizácia superužívateľa</LaltFlow>
+    <LttlDocFlow>Tok dokumentov</LttlDocFlow>
+    <LtxtNoStockAvl>Nedostatočné dostupné množstvo pre nasledovné položky</LtxtNoStockAvl>
+    <LtxtNoStockTtl>Zásoby nedostupné</LtxtNoStockTtl>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <LaltConf>LaltConf</LaltConf>
+    <LaltError>LaltError</LaltError>
+    <LaltFlow>LaltFlow</LaltFlow>
+    <LttlDocFlow>LttlDocFlow</LttlDocFlow>
+    <LtxtNoStockAvl>LtxtNoStockAvl</LtxtNoStockAvl>
+    <LtxtNoStockTtl>LtxtNoStockTtl</LtxtNoStockTtl>
+  </language>
+</languages>

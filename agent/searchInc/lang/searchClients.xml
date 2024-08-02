@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;úsqueda</LtxtSearch>
+    <LtxtAdvanced>Avanzada</LtxtAdvanced>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtSearch>&lt;U&gt;ח&lt;/U&gt;יפוש</LtxtSearch>
+    <LtxtAdvanced>מתקדם</LtxtAdvanced>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;B&lt;/u&gt;usca</LtxtSearch>
+    <LtxtAdvanced>Avançada</LtxtAdvanced>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;R&lt;/u&gt; recherche</LtxtSearch>
+    <LtxtAdvanced>Avancée</LtxtAdvanced>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtAdvanced>Erweitert</LtxtAdvanced>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtSearch>&lt;U&gt;ח&lt;/U&gt;поиск</LtxtSearch>
+    <LtxtAdvanced>Расширенный</LtxtAdvanced>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;V&lt;/u&gt;yhledávání</LtxtSearch>
+    <LtxtAdvanced>Rozšířené</LtxtAdvanced>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;P&lt;/u&gt;oszukiwanie</LtxtSearch>
+    <LtxtAdvanced>Zaawansowany</LtxtAdvanced>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtSearch>&lt;u&gt;S&lt;/u&gt;earch</LtxtSearch>
+    <LtxtAdvanced>Rozšírené</LtxtAdvanced>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtSearch>LtxtSearch</LtxtSearch>
+    <LtxtAdvanced>LtxtAdvanced</LtxtAdvanced>
+  </language>
+</languages>

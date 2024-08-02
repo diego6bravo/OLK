@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtCompany>Company</DtxtCompany>
+    <DtxtString>String</DtxtString>
+    <DtxtMatch>Match</DtxtMatch>
+    <DtxtWeight>Weight</DtxtWeight>
+    <LttlShipSys>Shipping System</LttlShipSys>
+    <LttlShipSysNote>In this section it is possible to activate different shipping methods (Clients).&lt;br&gt;&lt;b&gt;Observation:&lt;/b&gt; Only services related to your country will appear (base on you database general settings)</LttlShipSysNote>
+    <LttlShipSysFields>In this section it is possible to set the different properties required by the selected shipping system</LttlShipSysFields>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtCurr>Moneda</DtxtCurr>
+    <DtxtCompany>Compañía</DtxtCompany>
+    <DtxtString>Cadena</DtxtString>
+    <DtxtMatch>Pareo</DtxtMatch>
+    <DtxtWeight>Peso</DtxtWeight>
+    <LttlShipSys>Sistema de Envió</LttlShipSys>
+    <LttlShipSysNote>En esta sección podrá activar diferentes métodos de envió(Clientes).&lt;br&gt;&lt;b&gt;Observación:&lt;/b&gt; solo aparecerán los servicios relacionados a su país (según datos generales de base de datos)</LttlShipSysNote>
+    <LttlShipSysFields>En esta sección podrá definir las diferentes propiedades requeridas por el sistema de envió seleccionado</LttlShipSysFields>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtField>שדה</DtxtField>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtNumeric>נומרי</DtxtNumeric>
+    <DtxtMeasure>מידה</DtxtMeasure>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtCurr>מטבע</DtxtCurr>
+    <DtxtCompany>חברה</DtxtCompany>
+    <DtxtString>מחרוזת</DtxtString>
+    <DtxtMatch>התאמה</DtxtMatch>
+    <DtxtWeight>משקל</DtxtWeight>
+    <LttlShipSys>מערכת משלוחים</LttlShipSys>
+    <LttlShipSysNote>בחלק זה תוכל להפעיל שירותי משלוח שונים (כגון UPS)&lt;br&gt;הערה: רק שירותים הפעילים למדינה שלך יהיו זמינים להפעלה (לפי הגדרות כלליות של בסיס הנתונים)</LttlShipSysNote>
+    <LttlShipSysFields>בחלק זה תוכל להגדיר מאפיינים יחודים הקשורים למערכת המשלוחים שבחרת</LttlShipSysFields>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtCompany>Company</DtxtCompany>
+    <DtxtString>String</DtxtString>
+    <DtxtMatch>Match</DtxtMatch>
+    <DtxtWeight>Weight</DtxtWeight>
+    <LttlShipSys>Shipping System</LttlShipSys>
+    <LttlShipSysNote>In this section it is possible to activate different shipping methods (Clients).&lt;br&gt;&lt;b&gt;Observation:&lt;/b&gt; Only services related to your country will appear (base on you database general settings)</LttlShipSysNote>
+    <LttlShipSysFields>In this section it is possible to set the different properties required by the selected shipping system</LttlShipSysFields>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtCurr>Moeda</DtxtCurr>
+    <DtxtCompany>Empresa</DtxtCompany>
+    <DtxtString>Sequência</DtxtString>
+    <DtxtMatch>Similar</DtxtMatch>
+    <DtxtWeight>Peso</DtxtWeight>
+    <LttlShipSys>Sistema de Transporte</LttlShipSys>
+    <LttlShipSysNote>Nesta seção, você poderá ativar diferentes métodos de envio (Clientes).</LttlShipSysNote>
+    <LttlShipSysFields>Nesta seção, você poderá definir as diferentes propriedades requeridas por um sistema de transporte selecionado.</LttlShipSysFields>
+    <LtxtValFld>Falta dados para o campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtNumeric>Numérique</DtxtNumeric>
+    <DtxtMeasure>Mesure</DtxtMeasure>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtCurr>Monnaie</DtxtCurr>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <DtxtString>&lt;--&gt;</DtxtString>
+    <DtxtMatch>&lt;--&gt;</DtxtMatch>
+    <DtxtWeight>&lt;--&gt;</DtxtWeight>
+    <LttlShipSys>&lt;--&gt;</LttlShipSys>
+    <LttlShipSysNote>&lt;--&gt;</LttlShipSysNote>
+    <LttlShipSysFields>&lt;--&gt;</LttlShipSysFields>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtField>Feld</DtxtField>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtNumeric>Numerisch</DtxtNumeric>
+    <DtxtMeasure>Maß</DtxtMeasure>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Währung</DtxtCurr>
+    <DtxtCompany>Firma</DtxtCompany>
+    <DtxtString>Reihung</DtxtString>
+    <DtxtMatch>Treffer</DtxtMatch>
+    <DtxtWeight>Gewicht</DtxtWeight>
+    <LttlShipSys>&lt;--&gt;</LttlShipSys>
+    <LttlShipSysNote>&lt;--&gt;</LttlShipSysNote>
+    <LttlShipSysFields>&lt;--&gt;</LttlShipSysFields>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtField>Поле</DtxtField>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtNumeric>Числовой</DtxtNumeric>
+    <DtxtMeasure>Размер</DtxtMeasure>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtCurr>Валюта</DtxtCurr>
+    <DtxtCompany>Компания</DtxtCompany>
+    <DtxtString>Строка</DtxtString>
+    <DtxtMatch>Совпадать</DtxtMatch>
+    <DtxtWeight>Вес</DtxtWeight>
+    <LttlShipSys>Система доставки</LttlShipSys>
+    <LttlShipSysNote>В этом разделе можно активировать различные способы доставки (клиентам).&lt;br&gt;&lt;b&gt; Наблюдение: &lt;/ B&gt; только услуги, связанные в вашей стране появятся (база от Вас в базу данных общих настройках)</LttlShipSysNote>
+    <LttlShipSysFields>В этом разделе можно установить различные свойства, необходимые в выбранной системе доставки</LttlShipSysFields>
+    <LtxtValFld>Пожалуйста, введите области "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselné</DtxtNumeric>
+    <DtxtMeasure>Opatření</DtxtMeasure>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtCurr>Měna</DtxtCurr>
+    <DtxtCompany>Společnost</DtxtCompany>
+    <DtxtString>Řetězec</DtxtString>
+    <DtxtMatch>Párovat</DtxtMatch>
+    <DtxtWeight>Hmotnost</DtxtWeight>
+    <LttlShipSys>Systém zasílání</LttlShipSys>
+    <LttlShipSysNote>V této sekci můžete aktivovat různé způsoby dodání (Klienti).&lt;br&gt;&lt;b&gt;Poznámka:&lt;/b&gt; Budou zobrazeny pouze služby vztahující se k vaší zemi (na základě všeobecných nastavení vaší databáze)</LttlShipSysNote>
+    <LttlShipSysFields>V této sekci je možné nastavit různé vlastnosti požadované vybraným systémem zasílání</LttlShipSysFields>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtNumeric>Numeryczny</DtxtNumeric>
+    <DtxtMeasure>Miara</DtxtMeasure>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Waluta</DtxtCurr>
+    <DtxtCompany>Firma</DtxtCompany>
+    <DtxtString>Sekwencja</DtxtString>
+    <DtxtMatch>Dopasowanie</DtxtMatch>
+    <DtxtWeight>Waga</DtxtWeight>
+    <LttlShipSys>System wysyłki</LttlShipSys>
+    <LttlShipSysNote>W tym dziale można aktywować różne metody wysyłki (Klienci).&lt;b&gt;Observation:&lt;/b&gt; Pojawią się tylko usługi związane z twoim krajem (na podstawie ogólnych ustawień bazy danych)</LttlShipSysNote>
+    <LttlShipSysFields>W tym dziale można ustawić różne właściwości wymagane przez wybrany system wysyłki</LttlShipSysFields>
+    <LtxtValFld>Proszę wprowadź pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselný</DtxtNumeric>
+    <DtxtMeasure>Zmerať</DtxtMeasure>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtCurr>Mena</DtxtCurr>
+    <DtxtCompany>Spoločnosť</DtxtCompany>
+    <DtxtString>Rad</DtxtString>
+    <DtxtMatch>Zhoda</DtxtMatch>
+    <DtxtWeight>Váha</DtxtWeight>
+    <LttlShipSys>Systém prepravy</LttlShipSys>
+    <LttlShipSysNote>V tejto sekcii je možné aktivovať rôzne spôsoby prepravy (Klienti).&lt;br&gt;&lt;b&gt;Observation:&lt;/b&gt; Len služby súvisiace s Vašou krajinou budú zobrazené (na základe Vašich všeobecných nastavení databázy).</LttlShipSysNote>
+    <LttlShipSysFields>V tejto sekcii je možné nastaviť rôzne vlastnosti vyžadované zvoleným systémom prepravy</LttlShipSysFields>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtNumeric>&lt;--&gt;</DtxtNumeric>
+    <DtxtMeasure>&lt;--&gt;</DtxtMeasure>
+    <DtxtValNumValWhole>&lt;--&gt;</DtxtValNumValWhole>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtCurr>&lt;--&gt;</DtxtCurr>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <DtxtString>&lt;--&gt;</DtxtString>
+    <DtxtMatch>&lt;--&gt;</DtxtMatch>
+    <DtxtWeight>&lt;--&gt;</DtxtWeight>
+    <LttlShipSys>&lt;--&gt;</LttlShipSys>
+    <LttlShipSysNote>&lt;--&gt;</LttlShipSysNote>
+    <LttlShipSysFields>&lt;--&gt;</LttlShipSysFields>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtNumeric>DtxtNumeric</DtxtNumeric>
+    <DtxtMeasure>DtxtMeasure</DtxtMeasure>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtCurr>DtxtCurr</DtxtCurr>
+    <DtxtCompany>DtxtCompany</DtxtCompany>
+    <DtxtString>DtxtString</DtxtString>
+    <DtxtMatch>DtxtMatch</DtxtMatch>
+    <DtxtWeight>DtxtWeight</DtxtWeight>
+    <LttlShipSys>LttlShipSys</LttlShipSys>
+    <LttlShipSysNote>LttlShipSysNote</LttlShipSysNote>
+    <LttlShipSysFields>LttlShipSysFields</LttlShipSysFields>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+  </language>
+</languages>

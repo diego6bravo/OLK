@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlOpsLst>Operations</LttlOpsLst>
+    <LttlOpsLstNote>Here custom operations can be defined for system objects</LttlOpsLstNote>
+    <LtxtConfDelOp>Are you sure you want to remove the operation {0}?</LtxtConfDelOp>
+    <LtxtValNoGrp>At least one group must be created to create an operation.</LtxtValNoGrp>
+    <LttlGrpNote>Here the operations groups</LttlGrpNote>
+    <LtxtConfDelGrp>Are you sure you want to remove the group {0}?</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlOpsLst>Operaciones</LttlOpsLst>
+    <LttlOpsLstNote>En esta sección podrá definir operaciones personalizadas para objetos del sistema.</LttlOpsLstNote>
+    <LtxtConfDelOp>¿Esta seguro que desea eliminar la operación {0}?</LtxtConfDelOp>
+    <LtxtValNoGrp>Debe tener por lo menos un grupo creado para crear una operación.</LtxtValNoGrp>
+    <LttlGrpNote>En esta sección podrá definir los grupos de las operationes.</LttlGrpNote>
+    <LtxtConfDelGrp>¿Esta seguro que desea eliminar el grupo {0}?</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtGroups>קבוצות</DtxtGroups>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlOpsLst>תהליכים</LttlOpsLst>
+    <LttlOpsLstNote>כאן להגדיר תהליכים מותאמים אישית בשביל אובייקטי המערכת</LttlOpsLstNote>
+    <LtxtConfDelOp>האם אתה בטוח שברצונך להסיר את התהליך {0}?</LtxtConfDelOp>
+    <LtxtValNoGrp>לפחות קבוצה אחת חייבת להיות קיימת על מנת ליצור תהליך</LtxtValNoGrp>
+    <LttlGrpNote>כאן מוגדרים קבוצות התהליכים</LttlGrpNote>
+    <LtxtConfDelGrp>האם אתה בטוח שברצונך להסיר את הקבוצה {0}?</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlOpsLst>Operações</LttlOpsLst>
+    <LttlOpsLstNote>Nesta seção poderá definir as operações personalizadas para objetos do sistema.</LttlOpsLstNote>
+    <LtxtConfDelOp>Tem certeza que deseja excluir a operação {0}?</LtxtConfDelOp>
+    <LtxtValNoGrp>Você deve pelo menos possuir um grupo gerado para poder criar uma operação.</LtxtValNoGrp>
+    <LttlGrpNote>Nesta seção poderá definir os grupos das operações.</LttlGrpNote>
+    <LtxtConfDelGrp>Tem certeza que deseja excluir o grupo {0}?</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtGroups>Groupes</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroups>Gruppen</DtxtGroups>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtGroups>Группы</DtxtGroups>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtGroups>Grupy materiałów</DtxtGroups>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtGroups>&lt;--&gt;</DtxtGroups>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlOpsLst>&lt;--&gt;</LttlOpsLst>
+    <LttlOpsLstNote>&lt;--&gt;</LttlOpsLstNote>
+    <LtxtConfDelOp>&lt;--&gt;</LtxtConfDelOp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtGroups>DtxtGroups</DtxtGroups>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlOpsLst>LttlOpsLst</LttlOpsLst>
+    <LttlOpsLstNote>LttlOpsLstNote</LttlOpsLstNote>
+    <LtxtConfDelOp>LtxtConfDelOp</LtxtConfDelOp>
+    <LtxtValNoGrp>LtxtValNoGrp</LtxtValNoGrp>
+    <LttlGrpNote>LttlGrpNote</LttlGrpNote>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+  </language>
+</languages>

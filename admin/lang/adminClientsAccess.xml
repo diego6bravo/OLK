@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtLeads>Leads</DtxtLeads>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPList>Price List</DtxtPList>
+    <DtxtState2>State</DtxtState2>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlClientsAccess>Client User Definitions</LttlClientsAccess>
+    <LttlClientsAccessNote>Here a client search may be performed to find clients you wish to grant access to OLK.</LttlClientsAccessNote>
+    <LtxtActives>Actives</LtxtActives>
+    <LtxtNotActives>Not Active</LtxtNotActives>
+    <LttlSearchNote>Here the results of the client search are displayed where clients can be selected and permitted to access OLK.</LttlSearchNote>
+    <LtxtNoData>No Data Found</LtxtNoData>
+    <LttlAccessProp>Access Properties</LttlAccessProp>
+    <LtxtAccessPropNote>Here the client access configurations regarding password, access limitations, and allowed IP range the client may use to access OLK may be defined.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Access From</LtxtAccessFrom>
+    <LtxtAccessTo>Access To</LtxtAccessTo>
+    <LtxtIPFrom>IP From</LtxtIPFrom>
+    <LtxtIPTo>IP To</LtxtIPTo>
+    <LtxtCatFlt>Catalog Filter</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Apply Filter to Agent</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Are you sure you want to delete the IP range from {0} to {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>A new access is being created for this user. Enter a password.</LtxtValNewUPwd>
+    <LtxtValPwdConf>Confirmation password does not match</LtxtValPwdConf>
+    <LtxtValQryVal>You must verify the catalog filter query</LtxtValQryVal>
+    <LtxtValFldLimit>This field has a limit between 1 and 255 characters</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Apply Price List to Agent</LtxtApplyPListAgent>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtPwdConf>Confirm Password</LtxtPwdConf>
+    <LtxtLng>Language</LtxtLng>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtClientDef>Client Default</LtxtClientDef>
+    <LtxtIPFilter>IP Filter</LtxtIPFilter>
+    <LtxtRepGrp>Report Groups</LtxtRepGrp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLeads>Prospectos</DtxtLeads>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPList>Lista de Precio</DtxtPList>
+    <DtxtState2>Estado</DtxtState2>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LttlClientsAccess>Definición de Usuarios (Clientes) </LttlClientsAccess>
+    <LttlClientsAccessNote>En esta sección podrá realizar la búsqueda del cliente que desea que tenga acceso al OLK.</LttlClientsAccessNote>
+    <LtxtActives>Activos</LtxtActives>
+    <LtxtNotActives>No Activos</LtxtNotActives>
+    <LttlSearchNote>En esta sección podrá observar el resultado de la búsqueda de clientes, y seleccionar el cliente al cual se le va a permitir el acceso al OLK.</LttlSearchNote>
+    <LtxtNoData>¡No hay registros para mostrar!</LtxtNoData>
+    <LttlAccessProp>Propiedades de Acceso</LttlAccessProp>
+    <LtxtAccessPropNote>En esta sección podrá definir la configuración de acceso del cliente por medio de una contraseña, podrá limitar su acceso y a la vez podrá configurar el rango de número IP en que puede acceder al OLK.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Acceso desde</LtxtAccessFrom>
+    <LtxtAccessTo>Acceso hasta</LtxtAccessTo>
+    <LtxtIPFrom>IP Desde </LtxtIPFrom>
+    <LtxtIPTo>IP Hasta</LtxtIPTo>
+    <LtxtCatFlt>Filtro de catálogo</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Aplicar filtro a agente</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>¿Está seguro que desea eliminar el rango de IP desde {0} hasta {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>A este usuario se le está creando un acceso nuevo, debe introducir una contraseña</LtxtValNewUPwd>
+    <LtxtValPwdConf>La confirmación de la contraseña no concuerda</LtxtValPwdConf>
+    <LtxtValQryVal>Debe verificar la consulta de filtro de catálogo</LtxtValQryVal>
+    <LtxtValFldLimit>Este campo tiene un límite de 255 caracteres</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Aplicar lista de precio a agente</LtxtApplyPListAgent>
+    <LtxtNewPwd>Nueva Contraseña</LtxtNewPwd>
+    <LtxtPwdConf>Confirmar Contraseña</LtxtPwdConf>
+    <LtxtLng>Idioma</LtxtLng>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtClientDef>Predeterminada de cliente</LtxtClientDef>
+    <LtxtIPFilter>Filtro de IP</LtxtIPFilter>
+    <LtxtRepGrp>Grupos de Reportes</LtxtRepGrp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtLeads>לידים</DtxtLeads>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtPList>מחירון</DtxtPList>
+    <DtxtState2>סטטוס</DtxtState2>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LttlClientsAccess>הגדרת משתמשים - לקוחות</LttlClientsAccess>
+    <LttlClientsAccessNote>בחלק זה תוכל לבחור לאילו לקוחות אתה נותן אישור כניסה לאתר.</LttlClientsAccessNote>
+    <LtxtActives>פעילים</LtxtActives>
+    <LtxtNotActives>לא פעילים</LtxtNotActives>
+    <LttlSearchNote>בחלק זה רואים את תוצאות החיפוש ולקבוע תנאי שימוש ללקוחות האתר.</LttlSearchNote>
+    <LtxtNoData>לא נמצאו נתונים</LtxtNoData>
+    <LttlAccessProp>מאפייני כניסה</LttlAccessProp>
+    <LtxtAccessPropNote>בחלק זה תוכל הגדיר סיסמת לקוח, זמן שימוש, תחום IP ופילטר לכל לקוח באתר.</LtxtAccessPropNote>
+    <LtxtAccessFrom>כניסה מ-</LtxtAccessFrom>
+    <LtxtAccessTo>עד</LtxtAccessTo>
+    <LtxtIPFrom>מ- IP</LtxtIPFrom>
+    <LtxtIPTo>ל IP</LtxtIPTo>
+    <LtxtCatFlt>פילטר קטלוג</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>יישם פילטר על סוכן</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>האם למחוק מטווח IP מ- {0} עד {1} ?</LtxtConfDelIP>
+    <LtxtValNewUPwd>יש להגדיר סיסמה למשתמש חדש!</LtxtValNewUPwd>
+    <LtxtValPwdConf>סיסמת האימות לא תואמת!</LtxtValPwdConf>
+    <LtxtValQryVal>צריך לאשר את השאילתא של פילטר הקטלוג</LtxtValQryVal>
+    <LtxtValFldLimit>מוגבל ל 1 עד 25 5</LtxtValFldLimit>
+    <LtxtApplyPListAgent>יישם מחירון על סוכן</LtxtApplyPListAgent>
+    <LtxtNewPwd>סיסמה חדשה</LtxtNewPwd>
+    <LtxtPwdConf>אשר סיסמה</LtxtPwdConf>
+    <LtxtLng>שפה</LtxtLng>
+    <LtxtNatLng>שפה מקורית</LtxtNatLng>
+    <LtxtClientDef>ברירת מחדל לקוח</LtxtClientDef>
+    <LtxtIPFilter>פילטר IP</LtxtIPFilter>
+    <LtxtRepGrp>קבוצת דוחות</LtxtRepGrp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtLeads>Leads</DtxtLeads>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPList>Price List</DtxtPList>
+    <DtxtState2>County</DtxtState2>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LttlClientsAccess>Client User Definitions</LttlClientsAccess>
+    <LttlClientsAccessNote>Here a client search may be performed to find clients you wish to grant access to OLK.</LttlClientsAccessNote>
+    <LtxtActives>Actives</LtxtActives>
+    <LtxtNotActives>Not Active</LtxtNotActives>
+    <LttlSearchNote>Here the results of the client search are displayed where clients can be selected and permitted to access OLK.</LttlSearchNote>
+    <LtxtNoData>No Data Found</LtxtNoData>
+    <LttlAccessProp>Access Properties</LttlAccessProp>
+    <LtxtAccessPropNote>Here the client access configurations regarding password, access limitations, and allowed IP range the client may use to access OLK may be defined.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Access From</LtxtAccessFrom>
+    <LtxtAccessTo>Access To</LtxtAccessTo>
+    <LtxtIPFrom>IP From</LtxtIPFrom>
+    <LtxtIPTo>IP To</LtxtIPTo>
+    <LtxtCatFlt>Catalog Filter</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Apply Filter to Agent</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Are you sure you want to delete the IP range from {0} to {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>A new access is being created for this user. Enter a password.</LtxtValNewUPwd>
+    <LtxtValPwdConf>Confirmation password does not match</LtxtValPwdConf>
+    <LtxtValQryVal>You must verify the catalog filter query</LtxtValQryVal>
+    <LtxtValFldLimit>This field has a limit between 1 and 255 characters</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Apply Price List to Agent</LtxtApplyPListAgent>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtPwdConf>Confirm Password</LtxtPwdConf>
+    <LtxtLng>Language</LtxtLng>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtClientDef>Client Default</LtxtClientDef>
+    <LtxtIPFilter>IP Filter</LtxtIPFilter>
+    <LtxtRepGrp>Report Groups</LtxtRepGrp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLeads>Leads</DtxtLeads>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtPList>Lista de Preço</DtxtPList>
+    <DtxtState2>Estado</DtxtState2>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LttlClientsAccess>Definições de Usuário Cliente</LttlClientsAccess>
+    <LttlClientsAccessNote>Nesta seção, poderá ser realizada uma busca para encontrar clientes que você deseja conceder acesso a OnlineKit.</LttlClientsAccessNote>
+    <LtxtActives>Ativos</LtxtActives>
+    <LtxtNotActives>Não Ativo</LtxtNotActives>
+    <LttlSearchNote>Nesta seção, poderá observar os resultados da pesquisa do cliente, são exibidos onde os clientes podem ser selecionados e têm permissão para acessar OnlineKit.</LttlSearchNote>
+    <LtxtNoData>Dados não encontrados.</LtxtNoData>
+    <LttlAccessProp>Propriedades de Acesso</LttlAccessProp>
+    <LtxtAccessPropNote>Nesta seção, podem ser definidas as configurações de acesso do cliente em relação a senha, as limitações de acesso, e o intervalo de IP permitido que o cliente pode usar para acessar OnlineKit. </LtxtAccessPropNote>
+    <LtxtAccessFrom>Acesso a partir de</LtxtAccessFrom>
+    <LtxtAccessTo>Acesso até</LtxtAccessTo>
+    <LtxtIPFrom>IP desde</LtxtIPFrom>
+    <LtxtIPTo>IP até</LtxtIPTo>
+    <LtxtCatFlt>Filtro do Catálogo</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Aplicar filtro ao Vendedor</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Você tem certeza que deseja excluir a série de IP desde {0} até {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Um novo acesso está sendo criado para este usuário. Digite uma senha.</LtxtValNewUPwd>
+    <LtxtValPwdConf>A senha de confirmação não coincide.</LtxtValPwdConf>
+    <LtxtValQryVal>Você deve verificar a consulta de filtro do catálogo.</LtxtValQryVal>
+    <LtxtValFldLimit>Este campo tem um limite entre 1 e 255 caracteres.</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Aplicar lista de preço ao Vendedor</LtxtApplyPListAgent>
+    <LtxtNewPwd>Nova Senha</LtxtNewPwd>
+    <LtxtPwdConf>Confirmar Senha</LtxtPwdConf>
+    <LtxtLng>Idioma</LtxtLng>
+    <LtxtNatLng>Língua Nativa</LtxtNatLng>
+    <LtxtClientDef>Cliente Padrão</LtxtClientDef>
+    <LtxtIPFilter>Filtro de IP</LtxtIPFilter>
+    <LtxtRepGrp>Grupos de Relatórios</LtxtRepGrp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtLeads>Prospectus</DtxtLeads>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtPList>Liste de Prix</DtxtPList>
+    <DtxtState2>État</DtxtState2>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlClientsAccess>Définition des utilisateurs (Clients)</LttlClientsAccess>
+    <LttlClientsAccessNote>Dans cette section vous pourrez réaliser la recherche du client que vous souhaitez qui a l'accès à l'OLK.</LttlClientsAccessNote>
+    <LtxtActives>Actives</LtxtActives>
+    <LtxtNotActives>Ne pas actives</LtxtNotActives>
+    <LttlSearchNote>Dans cette section vous pourrez observer le résultat de la recherche des clients, et sélectionner le client lequel on va lui permettre l'accès à l'OLK</LttlSearchNote>
+    <LtxtNoData>Il n'y a pas des resgistres à montrer!</LtxtNoData>
+    <LttlAccessProp>Propriétés d'accès</LttlAccessProp>
+    <LtxtAccessPropNote>Dans cette section vous pourrez détérminer la configuration d'accès du client parmi d'un mot de passe, pourrez-vous limiter votre accès et au même temps pourrez-vous configurer le rang de numéro IP lequel vous pouvez accéder à l'OLK</LtxtAccessPropNote>
+    <LtxtAccessFrom>Accès dès</LtxtAccessFrom>
+    <LtxtAccessTo>Accès jusque</LtxtAccessTo>
+    <LtxtIPFrom>IP dès</LtxtIPFrom>
+    <LtxtIPTo>IP jusque</LtxtIPTo>
+    <LtxtCatFlt>Filtre du catalogue</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Appliquer filtre à l'agent</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Êtes-vous sûre d'éliminer le rang d'IP dès {0} jusqu'à {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>À cet utilisateur on l'a crée un nouveau accès, devez-vous insérer un mot de passe</LtxtValNewUPwd>
+    <LtxtValPwdConf>La confirmation du pmot de passe ne concorde pas</LtxtValPwdConf>
+    <LtxtValQryVal>Devez-vous vérifier la consultation du filtre du catalogue</LtxtValQryVal>
+    <LtxtValFldLimit>Ce domaine a une limite de 255 caractères</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Appliquer liste de prix à l'agent</LtxtApplyPListAgent>
+    <LtxtNewPwd>Mot de passe actuel</LtxtNewPwd>
+    <LtxtPwdConf>Confirmer mot de passe</LtxtPwdConf>
+    <LtxtLng>Langue</LtxtLng>
+    <LtxtNatLng>Langue maternelle</LtxtNatLng>
+    <LtxtClientDef>Prédéterminé du client</LtxtClientDef>
+    <LtxtIPFilter>&lt;--&gt;</LtxtIPFilter>
+    <LtxtRepGrp>&lt;--&gt;</LtxtRepGrp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtLeads>Hinweise</DtxtLeads>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtPList>Preisliste</DtxtPList>
+    <DtxtState2>Bundesland</DtxtState2>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LttlClientsAccess>Benutzereinstellungen (Kunden)</LttlClientsAccess>
+    <LttlClientsAccessNote>In diesem Bereich kann man nach Kunden suchen denen Sie Zugang zum OLK ermöglichen möchten.</LttlClientsAccessNote>
+    <LtxtActives>Aktive</LtxtActives>
+    <LtxtNotActives>Nicht Aktiv</LtxtNotActives>
+    <LttlSearchNote>In diesem Bereich kann man Kundensuchergebnisse einsehen und auswählen welchen Kunden man Zugang zum OLK ermöglicht.</LttlSearchNote>
+    <LtxtNoData>Es wurden keine Daten gefunden</LtxtNoData>
+    <LttlAccessProp>Zugangseigenschaften</LttlAccessProp>
+    <LtxtAccessPropNote>In diesem Bereich kann man Einstellungen festlegen für den Kundenzugang mit einem Kennwort, den Zugang einschränken und die IP-Weite für den OLK-Zugang einstellen.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Zugang von</LtxtAccessFrom>
+    <LtxtAccessTo>Zugang an</LtxtAccessTo>
+    <LtxtIPFrom>Ausgangs IP</LtxtIPFrom>
+    <LtxtIPTo>Eingangs IP</LtxtIPTo>
+    <LtxtCatFlt>Katalogfilter</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Filter für Agent anwenden</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Möchten Sie die IP-Weite von {0} bis {1} wirklich löschen ?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Ein neuer Zugang wird für diesen Benutzer erstellt. Geben Sie ein Kennwort ein.</LtxtValNewUPwd>
+    <LtxtValPwdConf>Das bestätigte Kennwort stimmt nicht überein</LtxtValPwdConf>
+    <LtxtValQryVal>Sie müssen die Anfrage für den Katalogfilter bestätigen</LtxtValQryVal>
+    <LtxtValFldLimit>Dieses Feld darf zwischen 1 und 255 Zeichen beinhalten</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Preisliste für Agent anwenden</LtxtApplyPListAgent>
+    <LtxtNewPwd>Neues Kennwort</LtxtNewPwd>
+    <LtxtPwdConf>Kennwort bestätigen</LtxtPwdConf>
+    <LtxtLng>Sprache</LtxtLng>
+    <LtxtNatLng>Muttersprache</LtxtNatLng>
+    <LtxtClientDef>Kundenstandard</LtxtClientDef>
+    <LtxtIPFilter>&lt;--&gt;</LtxtIPFilter>
+    <LtxtRepGrp>&lt;--&gt;</LtxtRepGrp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtLeads />
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtPList>Прейскурант</DtxtPList>
+    <DtxtState2>Статус</DtxtState2>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LttlClientsAccess>Пользователь определений (клиенты){1} ?</LttlClientsAccess>
+    <LttlClientsAccessNote>В этом разделе вы можете выбрать, каким  клиентам вы даете разрешение на вход в сайт.</LttlClientsAccessNote>
+    <LtxtActives>Активный</LtxtActives>
+    <LtxtNotActives>Не активный</LtxtNotActives>
+    <LttlSearchNote>В этом разделе можно видеть результаты и определять условия клиентам пользоваться данным сайтом.</LttlSearchNote>
+    <LtxtNoData>Нет данных</LtxtNoData>
+    <LttlAccessProp>Особенности входа</LttlAccessProp>
+    <LtxtAccessPropNote>В этом разделе вы можете установить пароль клиенту,время использования ,профиль IP-фильтр для каждого клиента сайта.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Вход с</LtxtAccessFrom>
+    <LtxtAccessTo>До</LtxtAccessTo>
+    <LtxtIPFrom>С IP</LtxtIPFrom>
+    <LtxtIPTo>К IP</LtxtIPTo>
+    <LtxtCatFlt>Фильтр каталога</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Применить фильтр агента</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Удалить посредникаIP с{0} до {1} ?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Установить пароль для нового пользователя</LtxtValNewUPwd>
+    <LtxtValPwdConf>Проверка подлинности пароля не совпадает!</LtxtValPwdConf>
+    <LtxtValQryVal>Вам необходимо убедиться, запрос на каталог фильтров</LtxtValQryVal>
+    <LtxtValFldLimit>Это поле имеет предел от 1 до 255 символов</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Применить прейскурант агента</LtxtApplyPListAgent>
+    <LtxtNewPwd>Новый пароль</LtxtNewPwd>
+    <LtxtPwdConf>Разрешить пароль</LtxtPwdConf>
+    <LtxtLng>Язык</LtxtLng>
+    <LtxtNatLng>Язык оригинала</LtxtNatLng>
+    <LtxtClientDef>Выбор клиента по умолчанию</LtxtClientDef>
+    <LtxtIPFilter>Филтр IP</LtxtIPFilter>
+    <LtxtRepGrp>Доклады групп</LtxtRepGrp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtLeads>Vedoucí</DtxtLeads>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtPList>Ceník</DtxtPList>
+    <DtxtState2>Stát</DtxtState2>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LttlClientsAccess>Definice uživatelů klienta</LttlClientsAccess>
+    <LttlClientsAccessNote>V této sekci je možné vyhledávat klienty, kteří by měli mít přístup do OLK.</LttlClientsAccessNote>
+    <LtxtActives>Aktivní</LtxtActives>
+    <LtxtNotActives>Neaktivní</LtxtNotActives>
+    <LttlSearchNote>V této sekci je možné sledovat výsledek hledání klienta a vybrat klienta, který bude mít přístup do OLK.</LttlSearchNote>
+    <LtxtNoData>Nenalezeny žádné údaje </LtxtNoData>
+    <LttlAccessProp>Vlastnosti přístupu</LttlAccessProp>
+    <LtxtAccessPropNote>V této sekci je možné definovat nastavení přístupu klienta, heslo, omezení přístupu, rozpětí IP adres, které klient může použít pro přístup k OLK.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Přístup z</LtxtAccessFrom>
+    <LtxtAccessTo>Přístup k</LtxtAccessTo>
+    <LtxtIPFrom>IP adresa od</LtxtIPFrom>
+    <LtxtIPTo>IP adresa do</LtxtIPTo>
+    <LtxtCatFlt>Filtr katalogu</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Použít filtr na agenta</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Jste si jistý/á, že chcete vymazat rozpětí IP adres od {0} do {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Pro tohoto uživatele byl vytvořen nový přístup. Zadejte heslo</LtxtValNewUPwd>
+    <LtxtValPwdConf>Potvrzení hesla neodpovídá</LtxtValPwdConf>
+    <LtxtValQryVal>Musíte ověřit dotaz filtru katalogu</LtxtValQryVal>
+    <LtxtValFldLimit>Toto pole má omezení v rozahu 1 a 255 znaků</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Použít ceník pro agenta</LtxtApplyPListAgent>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtPwdConf>Potvrdit heslo</LtxtPwdConf>
+    <LtxtLng>Jazyk</LtxtLng>
+    <LtxtNatLng>Mateřský jazyk</LtxtNatLng>
+    <LtxtClientDef>Výchozí pro klienty</LtxtClientDef>
+    <LtxtIPFilter>Filtr IP adres</LtxtIPFilter>
+    <LtxtRepGrp>Reportovací skupiny</LtxtRepGrp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtLeads>Leads</DtxtLeads>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtPList>Cennik</DtxtPList>
+    <DtxtState2>Stan</DtxtState2>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LttlClientsAccess>Definicje użytkowników klienta</LttlClientsAccess>
+    <LttlClientsAccessNote>Tutaj można przeprowadzić poszukiwanie klientów, którym chcesz przydzielić dostęp do OLK</LttlClientsAccessNote>
+    <LtxtActives>Aktywni</LtxtActives>
+    <LtxtNotActives>Nie aktywni</LtxtNotActives>
+    <LttlSearchNote>Tutaj są wyświetlane wyniki poszukiwania klientów, gdzie klienci mogą być wybierani i może być im przyznawany dostęp do OLK</LttlSearchNote>
+    <LtxtNoData>Nie znaleziono danych!</LtxtNoData>
+    <LttlAccessProp>Dostęp do właściwości</LttlAccessProp>
+    <LtxtAccessPropNote>Tutaj można zdefiniować konfiguracje dostępu klienta pod kątem hasła, ograniczeń dostępu i dozwolonego zakresu IP, z którego klient może korzystać, aby połączyć się z OLK</LtxtAccessPropNote>
+    <LtxtAccessFrom>Dostęp od</LtxtAccessFrom>
+    <LtxtAccessTo>Dostęp do</LtxtAccessTo>
+    <LtxtIPFrom>IP od</LtxtIPFrom>
+    <LtxtIPTo>IP do</LtxtIPTo>
+    <LtxtCatFlt>Filtr katalogu</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Zastosuj filtr do Sprzedawcy</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Czy jesteś pewien, że chcesz skasować zakres IP od {0} do {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Nowy dostęp jest tworzony dla tego użytkownika. Wprowadź hasło. </LtxtValNewUPwd>
+    <LtxtValPwdConf>Potwierdzenie hasła nie odpowiada </LtxtValPwdConf>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie filtra katalogu</LtxtValQryVal>
+    <LtxtValFldLimit>To pole ma limit od 1 do 255 znaków</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Zastosuj cennik do Sprzedawcy</LtxtApplyPListAgent>
+    <LtxtNewPwd>Nowe hasło</LtxtNewPwd>
+    <LtxtPwdConf>Potwierdź hasło</LtxtPwdConf>
+    <LtxtLng>Język</LtxtLng>
+    <LtxtNatLng>Język ojczysty</LtxtNatLng>
+    <LtxtClientDef>Domyślny klient</LtxtClientDef>
+    <LtxtIPFilter>IP filtr</LtxtIPFilter>
+    <LtxtRepGrp>Raport grup materiałów</LtxtRepGrp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtLeads>Prospekty</DtxtLeads>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtPList>Cenník</DtxtPList>
+    <DtxtState2>Štát</DtxtState2>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LttlClientsAccess>Definície užívateľa - klienta</LttlClientsAccess>
+    <LttlClientsAccessNote>Tu sa dá uskutočniť vyhľadávanie klientov za účelom nájdenia klientov, ktorým si prajete udeliť prístup do OLK.</LttlClientsAccessNote>
+    <LtxtActives>Aktíva</LtxtActives>
+    <LtxtNotActives>Neaktívne</LtxtNotActives>
+    <LttlSearchNote>Tu sa zobrazujú výsledky vyhľadávania klientov, kde sa dajú vybrať klienti a udeliť im prístup do OLK.</LttlSearchNote>
+    <LtxtNoData>Žiadne dáta neboli nájdené</LtxtNoData>
+    <LttlAccessProp>Vlastnosti prístupu</LttlAccessProp>
+    <LtxtAccessPropNote>Tu sa dajú definovať konfigurácie prístupu klienta týkajúce sa hesla, obmedzení prístupu a povolený rozsah IP, ktoré môže klient použiť na prístup.</LtxtAccessPropNote>
+    <LtxtAccessFrom>Formulár prístupu</LtxtAccessFrom>
+    <LtxtAccessTo>Prístup k</LtxtAccessTo>
+    <LtxtIPFrom>IP od</LtxtIPFrom>
+    <LtxtIPTo>IP komu</LtxtIPTo>
+    <LtxtCatFlt>Filter katalógu</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>Uplatniť filter pre agenta</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>Ste si istí, že chcete vymazať rozsah IP od {0} do {1}?</LtxtConfDelIP>
+    <LtxtValNewUPwd>Nový prístup pre tohto užívateľa je v procese tvorby. Zadajte heslo.</LtxtValNewUPwd>
+    <LtxtValPwdConf>Potvrdené heslo sa nezhoduje</LtxtValPwdConf>
+    <LtxtValQryVal>Musíte overiť dotaz filtra katalógu</LtxtValQryVal>
+    <LtxtValFldLimit>Toto políčko má limit medzi 1 a 255 znakmi</LtxtValFldLimit>
+    <LtxtApplyPListAgent>Uplatniť cenník pre agenta</LtxtApplyPListAgent>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtPwdConf>Potvrdiť heslo</LtxtPwdConf>
+    <LtxtLng>Jazyk</LtxtLng>
+    <LtxtNatLng>Rodný jazyk</LtxtNatLng>
+    <LtxtClientDef>Predvolený klient</LtxtClientDef>
+    <LtxtIPFilter>IP filter</LtxtIPFilter>
+    <LtxtRepGrp>Nahlásiť skupiny</LtxtRepGrp>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtState>&lt;--&gt;</DtxtState>
+    <DtxtLeads>&lt;--&gt;</DtxtLeads>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtPList>&lt;--&gt;</DtxtPList>
+    <DtxtState2>&lt;--&gt;</DtxtState2>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LttlClientsAccess>&lt;--&gt;</LttlClientsAccess>
+    <LttlClientsAccessNote>&lt;--&gt;</LttlClientsAccessNote>
+    <LtxtActives>&lt;--&gt;</LtxtActives>
+    <LtxtNotActives>&lt;--&gt;</LtxtNotActives>
+    <LttlSearchNote>&lt;--&gt;</LttlSearchNote>
+    <LtxtNoData>&lt;--&gt;</LtxtNoData>
+    <LttlAccessProp>&lt;--&gt;</LttlAccessProp>
+    <LtxtAccessPropNote>&lt;--&gt;</LtxtAccessPropNote>
+    <LtxtAccessFrom>&lt;--&gt;</LtxtAccessFrom>
+    <LtxtAccessTo>&lt;--&gt;</LtxtAccessTo>
+    <LtxtIPFrom>&lt;--&gt;</LtxtIPFrom>
+    <LtxtIPTo>&lt;--&gt;</LtxtIPTo>
+    <LtxtCatFlt>&lt;--&gt;</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>&lt;--&gt;</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>&lt;--&gt;</LtxtConfDelIP>
+    <LtxtValNewUPwd>&lt;--&gt;</LtxtValNewUPwd>
+    <LtxtValPwdConf>&lt;--&gt;</LtxtValPwdConf>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LtxtValFldLimit>&lt;--&gt;</LtxtValFldLimit>
+    <LtxtApplyPListAgent>&lt;--&gt;</LtxtApplyPListAgent>
+    <LtxtNewPwd>&lt;--&gt;</LtxtNewPwd>
+    <LtxtPwdConf>&lt;--&gt;</LtxtPwdConf>
+    <LtxtLng>&lt;--&gt;</LtxtLng>
+    <LtxtNatLng>&lt;--&gt;</LtxtNatLng>
+    <LtxtClientDef>&lt;--&gt;</LtxtClientDef>
+    <LtxtIPFilter>&lt;--&gt;</LtxtIPFilter>
+    <LtxtRepGrp>&lt;--&gt;</LtxtRepGrp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtLeads>DtxtLeads</DtxtLeads>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtPList>DtxtPList</DtxtPList>
+    <DtxtState2>DtxtState2</DtxtState2>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LttlClientsAccess>LttlClientsAccess</LttlClientsAccess>
+    <LttlClientsAccessNote>LttlClientsAccessNote</LttlClientsAccessNote>
+    <LtxtActives>LtxtActives</LtxtActives>
+    <LtxtNotActives>LtxtNotActives</LtxtNotActives>
+    <LttlSearchNote>LttlSearchNote</LttlSearchNote>
+    <LtxtNoData>LtxtNoData</LtxtNoData>
+    <LttlAccessProp>LttlAccessProp</LttlAccessProp>
+    <LtxtAccessPropNote>LtxtAccessPropNote</LtxtAccessPropNote>
+    <LtxtAccessFrom>LtxtAccessFrom</LtxtAccessFrom>
+    <LtxtAccessTo>LtxtAccessTo</LtxtAccessTo>
+    <LtxtIPFrom>LtxtIPFrom</LtxtIPFrom>
+    <LtxtIPTo>LtxtIPTo</LtxtIPTo>
+    <LtxtCatFlt>LtxtCatFlt</LtxtCatFlt>
+    <LtxtCatalogFilterAgen>LtxtCatalogFilterAgen</LtxtCatalogFilterAgen>
+    <LtxtConfDelIP>LtxtConfDelIP</LtxtConfDelIP>
+    <LtxtValNewUPwd>LtxtValNewUPwd</LtxtValNewUPwd>
+    <LtxtValPwdConf>LtxtValPwdConf</LtxtValPwdConf>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LtxtValFldLimit>LtxtValFldLimit</LtxtValFldLimit>
+    <LtxtApplyPListAgent>LtxtApplyPListAgent</LtxtApplyPListAgent>
+    <LtxtNewPwd>LtxtNewPwd</LtxtNewPwd>
+    <LtxtPwdConf>LtxtPwdConf</LtxtPwdConf>
+    <LtxtLng>LtxtLng</LtxtLng>
+    <LtxtNatLng>LtxtNatLng</LtxtNatLng>
+    <LtxtClientDef>LtxtClientDef</LtxtClientDef>
+    <LtxtIPFilter>LtxtIPFilter</LtxtIPFilter>
+    <LtxtRepGrp>LtxtRepGrp</LtxtRepGrp>
+  </language>
+</languages>

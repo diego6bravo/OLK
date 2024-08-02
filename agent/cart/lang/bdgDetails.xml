@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Item report - Warehouse Inventory</LttlInvWhsRep>
+    <LtxtOnHand>On Hand</LtxtOnHand>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtWHS>WHS</LtxtWHS>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtBack>Regresar</DtxtBack>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Reporte de artículos - Inventario de bodegas</LttlInvWhsRep>
+    <LtxtOnHand>Inv. Físico</LtxtOnHand>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtWHS>BDG</LtxtWHS>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtBack>חזור</DtxtBack>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <LttlInvWhsRep>דוח פריטים - מצב מלאי במחסנים</LttlInvWhsRep>
+    <LtxtOnHand>כמות במלאי</LtxtOnHand>
+    <LtxtAvl>זמין</LtxtAvl>
+    <LtxtWHS>מחסן</LtxtWHS>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Item report - Warehouse Inventory</LttlInvWhsRep>
+    <LtxtOnHand>On Hand</LtxtOnHand>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtWHS>WHS</LtxtWHS>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtBack>Retornar</DtxtBack>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Relatório de  itens - Inventário de armazéns</LttlInvWhsRep>
+    <LtxtOnHand>Inv. Físico</LtxtOnHand>
+    <LtxtAvl>Disponível</LtxtAvl>
+    <LtxtWHS>ARM</LtxtWHS>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtBack>Revenir</DtxtBack>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Report des articles - Inventaire d'entrepôt</LttlInvWhsRep>
+    <LtxtOnHand>Inventaire physique</LtxtOnHand>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtWHS>BDG</LtxtWHS>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtBack>Zurück</DtxtBack>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Artikelbericht - Lagerinventur</LttlInvWhsRep>
+    <LtxtOnHand>Vorhanden</LtxtOnHand>
+    <LtxtAvl>Verfügbar</LtxtAvl>
+    <LtxtWHS>LGR</LtxtWHS>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtBack>Назад</DtxtBack>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <LttlInvWhsRep>Детали отчета - состояние складских запасов</LttlInvWhsRep>
+    <LtxtOnHand>Доступное количество</LtxtOnHand>
+    <LtxtAvl>Доступный</LtxtAvl>
+    <LtxtWHS>Склад</LtxtWHS>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtBack>Zpět</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Položkový report - Skladové zásoby</LttlInvWhsRep>
+    <LtxtOnHand>Dostupné</LtxtOnHand>
+    <LtxtAvl>Dostupné</LtxtAvl>
+    <LtxtWHS>SKL</LtxtWHS>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtBack>Wróć</DtxtBack>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Raport pozycji - zapas magazynu</LttlInvWhsRep>
+    <LtxtOnHand>Ilość w zapasie</LtxtOnHand>
+    <LtxtAvl>Dostępny</LtxtAvl>
+    <LtxtWHS>Magazyn</LtxtWHS>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtBack>Späť</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <LttlInvWhsRep>Správa o položke - Skladový inventár</LttlInvWhsRep>
+    <LtxtOnHand>Po ruke</LtxtOnHand>
+    <LtxtAvl>K dispozícii</LtxtAvl>
+    <LtxtWHS>WHS</LtxtWHS>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtBack>DtxtBack</DtxtBack>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <LttlInvWhsRep>LttlInvWhsRep</LttlInvWhsRep>
+    <LtxtOnHand>LtxtOnHand</LtxtOnHand>
+    <LtxtAvl>LtxtAvl</LtxtAvl>
+    <LtxtWHS>LtxtWHS</LtxtWHS>
+  </language>
+</languages>

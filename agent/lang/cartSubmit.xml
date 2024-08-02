@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddDoc>Error in adding document</LtxtErrAddDoc>
+    <LtxtConfAddDoc>The {1} #{0} was added successfully.</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Create another {0}</LtxtCreateNewDoc>
+    <LtxtView>View</LtxtView>
+    <LtxtConfAddDoc2>The {1} #{0} was added successfully.</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Create another {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>Continue Shopping</LtxtContShop>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtErrAddDoc>Error al agregar documento</LtxtErrAddDoc>
+    <LtxtConfAddDoc>El {1} N°{0} fue agregado con éxito.</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Crear otro {0}</LtxtCreateNewDoc>
+    <LtxtView>Ver</LtxtView>
+    <LtxtConfAddDoc2>La {1} N°{0} fue agregada con éxito.</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Crear otra {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>Seguir Comprando</LtxtContShop>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtErrAddDoc>תקלה בהוספת המסמך</LtxtErrAddDoc>
+    <LtxtConfAddDoc>ה{1} {0}# נוסף בהצלחה</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>צור עוד {0}</LtxtCreateNewDoc>
+    <LtxtView>ראה</LtxtView>
+    <LtxtConfAddDoc2>ה{1} {0}# נוסף בהצלחה</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>צור עוד {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>המשך קניה</LtxtContShop>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddDoc>Error in adding document</LtxtErrAddDoc>
+    <LtxtConfAddDoc>The {1} #{0} was added successfully.</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Create another {0}</LtxtCreateNewDoc>
+    <LtxtView>View</LtxtView>
+    <LtxtConfAddDoc2>The {1} #{0} was added successfully.</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Create another {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>Continue Shopping</LtxtContShop>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtErrAddDoc>Erro ao adicionar documento</LtxtErrAddDoc>
+    <LtxtConfAddDoc>O {1} Nº {0} foi adicionado com sucesso</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Criar outro {0}</LtxtCreateNewDoc>
+    <LtxtView>Visualizar</LtxtView>
+    <LtxtConfAddDoc2>A {1} Nº {0} foi adicionada com sucesso </LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Criar outra {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>Continuar Comprando</LtxtContShop>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtErrAddDoc>Erreur au moment d'ajouter le document</LtxtErrAddDoc>
+    <LtxtConfAddDoc>&lt;--&gt;</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>&lt;--&gt;</LtxtCreateNewDoc>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtConfAddDoc2>&lt;--&gt;</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>&lt;--&gt;</LtxtCreateNewDoc2>
+    <LtxtContShop>&lt;--&gt;</LtxtContShop>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtErrAddDoc>Beim hinzufügen des Dokuments ist ein Fehler aufgetreten</LtxtErrAddDoc>
+    <LtxtConfAddDoc>&lt;--&gt;</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>&lt;--&gt;</LtxtCreateNewDoc>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtConfAddDoc2>&lt;--&gt;</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>&lt;--&gt;</LtxtCreateNewDoc2>
+    <LtxtContShop>&lt;--&gt;</LtxtContShop>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtErrAddDoc>Ошибка при добавлении документа</LtxtErrAddDoc>
+    <LtxtConfAddDoc>&lt;--&gt;</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>&lt;--&gt;</LtxtCreateNewDoc>
+    <LtxtView>Смотреть</LtxtView>
+    <LtxtConfAddDoc2>&lt;--&gt;</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>&lt;--&gt;</LtxtCreateNewDoc2>
+    <LtxtContShop>&lt;--&gt;</LtxtContShop>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtErrAddDoc>Chyba při vytváření dokumentu</LtxtErrAddDoc>
+    <LtxtConfAddDoc>{1} #{0} úspěšně vytvořen.</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Vytvořit další {0}</LtxtCreateNewDoc>
+    <LtxtView>Zobrazit</LtxtView>
+    <LtxtConfAddDoc2>{1} #{0} úspěšně vytvořen.</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Vytvořit další {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>&lt;--&gt;</LtxtContShop>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtErrAddDoc>Błąd przy dodawaniu dokumentu</LtxtErrAddDoc>
+    <LtxtConfAddDoc> {1} #{0} został dodany z sukcesem</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Stwórz kolejne</LtxtCreateNewDoc>
+    <LtxtView>Zobacz</LtxtView>
+    <LtxtConfAddDoc2> {1} #{0} został dodany z sukcesem</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Stwórz kolejne {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>Kontynuuj zakupy</LtxtContShop>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtErrAddDoc>Chyba v pridaní dokumentu</LtxtErrAddDoc>
+    <LtxtConfAddDoc>{1} #{0} bolo pridané úspešne.</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>Vytvoriť iné {0}</LtxtCreateNewDoc>
+    <LtxtView>Zobraziť</LtxtView>
+    <LtxtConfAddDoc2>{1} #{0} bolo pridané úspešne.</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>Vytvoriť iné {0}</LtxtCreateNewDoc2>
+    <LtxtContShop>&lt;--&gt;</LtxtContShop>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtErrAddDoc>LtxtErrAddDoc</LtxtErrAddDoc>
+    <LtxtConfAddDoc>LtxtConfAddDoc</LtxtConfAddDoc>
+    <LtxtCreateNewDoc>LtxtCreateNewDoc</LtxtCreateNewDoc>
+    <LtxtView>LtxtView</LtxtView>
+    <LtxtConfAddDoc2>LtxtConfAddDoc2</LtxtConfAddDoc2>
+    <LtxtCreateNewDoc2>LtxtCreateNewDoc2</LtxtCreateNewDoc2>
+    <LtxtContShop>LtxtContShop</LtxtContShop>
+  </language>
+</languages>

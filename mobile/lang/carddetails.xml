@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivities>Activities</DtxtActivities>
+    <LtxtClientDetails>Client Details</LtxtClientDetails>
+    <LtxtMobile>Mobile</LtxtMobile>
+    <LtxtEditData>Edit Data</LtxtEditData>
+    <LtxtBackToSearch>Back to search</LtxtBackToSearch>
+    <LtxtProvDetails>Supplier Details</LtxtProvDetails>
+    <LtxtLeadDetails>Lead Details</LtxtLeadDetails>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtActivities>Actvidades</DtxtActivities>
+    <LtxtClientDetails>Datos de Cliente</LtxtClientDetails>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtEditData>Editar Datos</LtxtEditData>
+    <LtxtBackToSearch>Volver a búsqueda</LtxtBackToSearch>
+    <LtxtProvDetails>Datos de Proveedor</LtxtProvDetails>
+    <LtxtLeadDetails>Datos de Prospecto</LtxtLeadDetails>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtDocs>מסמכים</DtxtDocs>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtActivities>פעילויות</DtxtActivities>
+    <LtxtClientDetails>פירוט לקוח</LtxtClientDetails>
+    <LtxtMobile>נייד</LtxtMobile>
+    <LtxtEditData>ערוך נתונים</LtxtEditData>
+    <LtxtBackToSearch>חזרה לחיפוש</LtxtBackToSearch>
+    <LtxtProvDetails>פירוט ספק</LtxtProvDetails>
+    <LtxtLeadDetails>פירוט ליד</LtxtLeadDetails>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivities>Activities</DtxtActivities>
+    <LtxtClientDetails>Client Details</LtxtClientDetails>
+    <LtxtMobile>Mobile</LtxtMobile>
+    <LtxtEditData>Edit Data</LtxtEditData>
+    <LtxtBackToSearch>Back to search</LtxtBackToSearch>
+    <LtxtProvDetails>Supplier Details</LtxtProvDetails>
+    <LtxtLeadDetails>Lead Details</LtxtLeadDetails>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtActivities>Atividades</DtxtActivities>
+    <LtxtClientDetails>Dados do Cliente</LtxtClientDetails>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtEditData>Editar Dados</LtxtEditData>
+    <LtxtBackToSearch>Voltar para a busca</LtxtBackToSearch>
+    <LtxtProvDetails>Dados do Fornecedor</LtxtProvDetails>
+    <LtxtLeadDetails>Dados do Lead</LtxtLeadDetails>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <LtxtClientDetails>&lt;--&gt;</LtxtClientDetails>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtEditData>&lt;--&gt;</LtxtEditData>
+    <LtxtBackToSearch>&lt;--&gt;</LtxtBackToSearch>
+    <LtxtProvDetails>&lt;--&gt;</LtxtProvDetails>
+    <LtxtLeadDetails>&lt;--&gt;</LtxtLeadDetails>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtDocs>Dokumente</DtxtDocs>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivities>Aktivitäten</DtxtActivities>
+    <LtxtClientDetails>&lt;--&gt;</LtxtClientDetails>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtEditData>&lt;--&gt;</LtxtEditData>
+    <LtxtBackToSearch>&lt;--&gt;</LtxtBackToSearch>
+    <LtxtProvDetails>&lt;--&gt;</LtxtProvDetails>
+    <LtxtLeadDetails>&lt;--&gt;</LtxtLeadDetails>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtDocs>Документы</DtxtDocs>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtActivities>Активность</DtxtActivities>
+    <LtxtClientDetails>&lt;--&gt;</LtxtClientDetails>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtEditData>&lt;--&gt;</LtxtEditData>
+    <LtxtBackToSearch>&lt;--&gt;</LtxtBackToSearch>
+    <LtxtProvDetails>&lt;--&gt;</LtxtProvDetails>
+    <LtxtLeadDetails>&lt;--&gt;</LtxtLeadDetails>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <LtxtClientDetails>Detaily klienta</LtxtClientDetails>
+    <LtxtMobile>Mobil</LtxtMobile>
+    <LtxtEditData>Upravit údaje</LtxtEditData>
+    <LtxtBackToSearch>Zpět na vyhledávání</LtxtBackToSearch>
+    <LtxtProvDetails>Údaje o dodavateli</LtxtProvDetails>
+    <LtxtLeadDetails>Zavést podrobnosti</LtxtLeadDetails>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivities>Działania</DtxtActivities>
+    <LtxtClientDetails>Dane klienta</LtxtClientDetails>
+    <LtxtMobile>Komórka</LtxtMobile>
+    <LtxtEditData>Edytuj dane</LtxtEditData>
+    <LtxtBackToSearch>Powrót do poszukiwania</LtxtBackToSearch>
+    <LtxtProvDetails>Dane dostawcy</LtxtProvDetails>
+    <LtxtLeadDetails>Szczegóły Leadu</LtxtLeadDetails>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <LtxtClientDetails>Údaje klienta</LtxtClientDetails>
+    <LtxtMobile>Mobilný</LtxtMobile>
+    <LtxtEditData>Editovať dáta</LtxtEditData>
+    <LtxtBackToSearch>Späť na vyhľadávanie</LtxtBackToSearch>
+    <LtxtProvDetails>Údaje o dodávateľovi</LtxtProvDetails>
+    <LtxtLeadDetails>Údaje o Prospekte</LtxtLeadDetails>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtDocs>&lt;--&gt;</DtxtDocs>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtFax>&lt;--&gt;</DtxtFax>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <LtxtClientDetails>&lt;--&gt;</LtxtClientDetails>
+    <LtxtMobile>&lt;--&gt;</LtxtMobile>
+    <LtxtEditData>&lt;--&gt;</LtxtEditData>
+    <LtxtBackToSearch>&lt;--&gt;</LtxtBackToSearch>
+    <LtxtProvDetails>&lt;--&gt;</LtxtProvDetails>
+    <LtxtLeadDetails>&lt;--&gt;</LtxtLeadDetails>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtDocs>DtxtDocs</DtxtDocs>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtActivities>DtxtActivities</DtxtActivities>
+    <LtxtClientDetails>LtxtClientDetails</LtxtClientDetails>
+    <LtxtMobile>LtxtMobile</LtxtMobile>
+    <LtxtEditData>LtxtEditData</LtxtEditData>
+    <LtxtBackToSearch>LtxtBackToSearch</LtxtBackToSearch>
+    <LtxtProvDetails>LtxtProvDetails</LtxtProvDetails>
+    <LtxtLeadDetails>LtxtLeadDetails</LtxtLeadDetails>
+  </language>
+</languages>

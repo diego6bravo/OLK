@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <LtxtValLtr>The letter {0} was found more than one time</LtxtValLtr>
+    <LttlNumCod>Number Encoding</LttlNumCod>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtMedium>Media</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <LtxtValLtr>La letra {0} está repetida</LtxtValLtr>
+    <LttlNumCod>Codificación de Números</LttlNumCod>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtMedium>אמצע</DtxtMedium>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <LtxtValLtr>האות {0} חוזרת על עצמה!</LtxtValLtr>
+    <LttlNumCod>קידוד מספרים</LttlNumCod>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <LtxtValLtr>The letter {0} was found more than one time</LtxtValLtr>
+    <LttlNumCod>Number Encoding</LttlNumCod>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtMedium>Médio</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <LtxtValLtr>A letra {0} está repetida</LtxtValLtr>
+    <LttlNumCod>Codificação de Números</LttlNumCod>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtMedium>Moyenne</DtxtMedium>
+    <DtxtHigh>Haute</DtxtHigh>
+    <LtxtValLtr>La lettre {0} est déjà répétée</LtxtValLtr>
+    <LttlNumCod>Codification des chiffres</LttlNumCod>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <LtxtValLtr>Der Buchstabe {0} wurde mehrmals gefunden</LtxtValLtr>
+    <LttlNumCod>Nummer Verschlüsselung</LttlNumCod>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtMedium>Среднее</DtxtMedium>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <LtxtValLtr>Письмо {0} было найдено более одного раза</LtxtValLtr>
+    <LttlNumCod>Номер кодирование</LttlNumCod>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtMedium>Střední</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <LtxtValLtr>Písmeno {0} bylo nalezeno víc než jednou</LtxtValLtr>
+    <LttlNumCod>Číselné kódování</LttlNumCod>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtMedium>Średni/a</DtxtMedium>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <LtxtValLtr>Litera {0} została znaleziona więcej niż jeden raz</LtxtValLtr>
+    <LttlNumCod>Kodowanie numerów</LttlNumCod>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtMedium>Stredný</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <LtxtValLtr>Písmeno {0} bolo nájdené viac ako jedenkrát</LtxtValLtr>
+    <LttlNumCod>Číselné kódovanie</LttlNumCod>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtMedium>&lt;--&gt;</DtxtMedium>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <LtxtValLtr>&lt;--&gt;</LtxtValLtr>
+    <LttlNumCod>&lt;--&gt;</LttlNumCod>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtMedium>DtxtMedium</DtxtMedium>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <LtxtValLtr>LtxtValLtr</LtxtValLtr>
+    <LttlNumCod>LttlNumCod</LttlNumCod>
+  </language>
+</languages>

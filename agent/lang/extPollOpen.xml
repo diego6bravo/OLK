@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+    <LtxtExtPolls>Extended Poll Execution - Client Selection</LtxtExtPolls>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtStartDate>Fecha Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtPending>Pendientes</LtxtPending>
+    <LtxtExtPolls>Ejecución de Encuesta Extendidas - Selección de Cliente</LtxtExtPolls>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtStartDate>תאריך סיום</LtxtStartDate>
+    <LtxtEndDate>תאריך התחלה</LtxtEndDate>
+    <LtxtPending>פתוחים</LtxtPending>
+    <LtxtExtPolls>הרצת סקר מורחב - בחירת כרטיס</LtxtExtPolls>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtPending>Pending</LtxtPending>
+    <LtxtExtPolls>Extended Poll Execution - Client Selection</LtxtExtPolls>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LtxtStartDate>Data Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtPending>Pendentes</LtxtPending>
+    <LtxtExtPolls>Execução de Pesquisa Extendida - Seleção de Cliente</LtxtExtPolls>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtPending>&lt;--&gt;</LtxtPending>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtStartDate>Дата конца</LtxtStartDate>
+    <LtxtEndDate>Дата начала</LtxtEndDate>
+    <LtxtPending>Открытые</LtxtPending>
+    <LtxtExtPolls>Выполненние расширенного опроса- выбор карточек</LtxtExtPolls>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtPending>Nevyřízené</LtxtPending>
+    <LtxtExtPolls>Spuštění rozšířené ankety - Výběr klientů</LtxtExtPolls>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtPending>Otwarte/oczekujące/ w trakcie realizacji</LtxtPending>
+    <LtxtExtPolls>Wykonanie rozszerzonej ankiety - wybór klienta</LtxtExtPolls>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtPending>Nespracované</LtxtPending>
+    <LtxtExtPolls>Realizácia rozšírenej ankety - Výber klienta</LtxtExtPolls>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtPending>LtxtPending</LtxtPending>
+    <LtxtExtPolls>LtxtExtPolls</LtxtExtPolls>
+  </language>
+</languages>

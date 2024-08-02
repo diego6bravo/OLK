@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtMonthJanuary>January</DtxtMonthJanuary>
+    <DtxtMonthFebruary>February</DtxtMonthFebruary>
+    <DtxtMonthMarch>March</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>May</DtxtMonthMay>
+    <DtxtMonthJune>June</DtxtMonthJune>
+    <DtxtMonthJuly>July</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>October</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtSmallDayFriday>Fri</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Mon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sat</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Sun</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Thu</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Tue</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Wed</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtToday>Today</DtxtToday>
+    <LttlPendListSearch>Pending List Search</LttlPendListSearch>
+    <LtxtDocType>Doc. Type</LtxtDocType>
+    <LtxtDocDate>Doc. Date</LtxtDocDate>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+    <LtxtOpenDocsSearch>Open Documents Search</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtMonthJanuary>Enero</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Febrero</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marzo</DtxtMonthMarch>
+    <DtxtMonthApril>Abril</DtxtMonthApril>
+    <DtxtMonthMay>Mayo</DtxtMonthMay>
+    <DtxtMonthJune>Junio</DtxtMonthJune>
+    <DtxtMonthJuly>Julio</DtxtMonthJuly>
+    <DtxtMonthAugust>Agosto</DtxtMonthAugust>
+    <DtxtMonthSeptember>Septiembre</DtxtMonthSeptember>
+    <DtxtMonthOctober>Octubre</DtxtMonthOctober>
+    <DtxtMonthNovember>Noviembre</DtxtMonthNovember>
+    <DtxtMonthDecember>Diciembre</DtxtMonthDecember>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtSmallDayFriday>Vie</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Lun</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sáb</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Dom</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Jue</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Mar</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Mié</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtToday>Hoy</DtxtToday>
+    <LttlPendListSearch>Búsqueda de Listado de Pendientes</LttlPendListSearch>
+    <LtxtDocType>Tipo Doc.</LtxtDocType>
+    <LtxtDocDate>Fecha Doc.</LtxtDocDate>
+    <LtxtSelVal>Seleccione Valor</LtxtSelVal>
+    <LtxtOpenDocsSearch>Búsqueda de Documentos Pendientes</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtMonthJanuary>ינואר</DtxtMonthJanuary>
+    <DtxtMonthFebruary>פבואר</DtxtMonthFebruary>
+    <DtxtMonthMarch>מרץ</DtxtMonthMarch>
+    <DtxtMonthApril>אפריל</DtxtMonthApril>
+    <DtxtMonthMay>מאי</DtxtMonthMay>
+    <DtxtMonthJune>יוני</DtxtMonthJune>
+    <DtxtMonthJuly>יולי</DtxtMonthJuly>
+    <DtxtMonthAugust>אוגוסט</DtxtMonthAugust>
+    <DtxtMonthSeptember>ספטמבר</DtxtMonthSeptember>
+    <DtxtMonthOctober>אוקטובר</DtxtMonthOctober>
+    <DtxtMonthNovember>נובמבר</DtxtMonthNovember>
+    <DtxtMonthDecember>דצמבר</DtxtMonthDecember>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtSmallDayFriday>ו</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>ב</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>ש</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>א</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>ה</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>ג</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>ד</DtxtSmallDayWednesday>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtToday>היום</DtxtToday>
+    <LttlPendListSearch>חיפוש ברשימת פתוחים</LttlPendListSearch>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtDocDate>תאריך מסמך</LtxtDocDate>
+    <LtxtSelVal>בחר ערך</LtxtSelVal>
+    <LtxtOpenDocsSearch>חיפוש מסמכים פתוחים</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtMonthJanuary>January</DtxtMonthJanuary>
+    <DtxtMonthFebruary>February</DtxtMonthFebruary>
+    <DtxtMonthMarch>March</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>May</DtxtMonthMay>
+    <DtxtMonthJune>June</DtxtMonthJune>
+    <DtxtMonthJuly>July</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>October</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtSmallDayFriday>Fri</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Mon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sat</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Sun</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Thu</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Tue</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Wed</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtToday>Today</DtxtToday>
+    <LttlPendListSearch>Pending List Search</LttlPendListSearch>
+    <LtxtDocType>Doc. Type</LtxtDocType>
+    <LtxtDocDate>Doc. Date</LtxtDocDate>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+    <LtxtOpenDocsSearch>Open Documents Search</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtMonthJanuary>Janeiro</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Fevereiro</DtxtMonthFebruary>
+    <DtxtMonthMarch>Março</DtxtMonthMarch>
+    <DtxtMonthApril>Abril</DtxtMonthApril>
+    <DtxtMonthMay>Maio</DtxtMonthMay>
+    <DtxtMonthJune>Junho</DtxtMonthJune>
+    <DtxtMonthJuly>Julho</DtxtMonthJuly>
+    <DtxtMonthAugust>Agosto</DtxtMonthAugust>
+    <DtxtMonthSeptember>Setembro</DtxtMonthSeptember>
+    <DtxtMonthOctober>Outubro</DtxtMonthOctober>
+    <DtxtMonthNovember>Novembro</DtxtMonthNovember>
+    <DtxtMonthDecember>Dezembro</DtxtMonthDecember>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtSmallDayFriday>Sex</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Seg</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sáb</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Dom</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Qui</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Ter</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Qua</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtToday>Hoje</DtxtToday>
+    <LttlPendListSearch>Busca de lista de pendências</LttlPendListSearch>
+    <LtxtDocType>Tipo Doc.</LtxtDocType>
+    <LtxtDocDate>Data Doc.</LtxtDocDate>
+    <LtxtSelVal>Selecione um Valor</LtxtSelVal>
+    <LtxtOpenDocsSearch>Busca de Documentos Pendentes</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtMonthJanuary>Janvier</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Février</DtxtMonthFebruary>
+    <DtxtMonthMarch>Mars</DtxtMonthMarch>
+    <DtxtMonthApril>Avril</DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Juin</DtxtMonthJune>
+    <DtxtMonthJuly>Juillet</DtxtMonthJuly>
+    <DtxtMonthAugust>Août</DtxtMonthAugust>
+    <DtxtMonthSeptember>Septembre</DtxtMonthSeptember>
+    <DtxtMonthOctober>Octobre</DtxtMonthOctober>
+    <DtxtMonthNovember>Novembre</DtxtMonthNovember>
+    <DtxtMonthDecember>Décembre</DtxtMonthDecember>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSmallDayFriday>&lt;--&gt;</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>&lt;--&gt;</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>&lt;--&gt;</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>&lt;--&gt;</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>&lt;--&gt;</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>&lt;--&gt;</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>&lt;--&gt;</DtxtSmallDayWednesday>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LttlPendListSearch>&lt;--&gt;</LttlPendListSearch>
+    <LtxtDocType>Genre de documentation</LtxtDocType>
+    <LtxtDocDate>Date de documentation</LtxtDocDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+    <LtxtOpenDocsSearch>&lt;--&gt;</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtMonthJanuary>Januar</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Februar</DtxtMonthFebruary>
+    <DtxtMonthMarch>März</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Juni</DtxtMonthJune>
+    <DtxtMonthJuly>Juli</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>Oktober</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>Dezember</DtxtMonthDecember>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtSmallDayFriday>FR.</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>MO.</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>SA.</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>SO.</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>DO.</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>DI.</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>MI.</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtToday>Heute</DtxtToday>
+    <LttlPendListSearch>&lt;--&gt;</LttlPendListSearch>
+    <LtxtDocType>Dok. Art</LtxtDocType>
+    <LtxtDocDate>Dok. Datum</LtxtDocDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+    <LtxtOpenDocsSearch>&lt;--&gt;</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtMonthJanuary>Январь</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Февраль</DtxtMonthFebruary>
+    <DtxtMonthMarch>Март</DtxtMonthMarch>
+    <DtxtMonthApril>Апрель</DtxtMonthApril>
+    <DtxtMonthMay>Май</DtxtMonthMay>
+    <DtxtMonthJune>Июнь</DtxtMonthJune>
+    <DtxtMonthJuly>Июль</DtxtMonthJuly>
+    <DtxtMonthAugust>Август</DtxtMonthAugust>
+    <DtxtMonthSeptember>Сентябрь</DtxtMonthSeptember>
+    <DtxtMonthOctober>Октябрь</DtxtMonthOctober>
+    <DtxtMonthNovember>Ноябрь</DtxtMonthNovember>
+    <DtxtMonthDecember>Декабрь</DtxtMonthDecember>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtSmallDayFriday>Пятница</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Понедельник</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Суббота</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Воскресенье</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Четверг</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Вторник</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Среда</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtToday>Сегодня</DtxtToday>
+    <LttlPendListSearch>&lt;--&gt;</LttlPendListSearch>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocDate>&lt;--&gt;</LtxtDocDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+    <LtxtOpenDocsSearch>&lt;--&gt;</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtMonthJanuary>Leden</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Únor</DtxtMonthFebruary>
+    <DtxtMonthMarch>Březen</DtxtMonthMarch>
+    <DtxtMonthApril>Duben</DtxtMonthApril>
+    <DtxtMonthMay>Květen</DtxtMonthMay>
+    <DtxtMonthJune>Červen</DtxtMonthJune>
+    <DtxtMonthJuly>Červenec</DtxtMonthJuly>
+    <DtxtMonthAugust>Srpen</DtxtMonthAugust>
+    <DtxtMonthSeptember>Září</DtxtMonthSeptember>
+    <DtxtMonthOctober>Říjen</DtxtMonthOctober>
+    <DtxtMonthNovember>Listopad</DtxtMonthNovember>
+    <DtxtMonthDecember>Prosinec</DtxtMonthDecember>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtSmallDayFriday>Pá</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Po</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>So</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Ne</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Čt</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Út</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>St</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtToday>Dnes</DtxtToday>
+    <LttlPendListSearch>Vyhledávání v Seznamu nevyřízených</LttlPendListSearch>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocDate>Datum dokumentu</LtxtDocDate>
+    <LtxtSelVal>Vyberte hodnotu</LtxtSelVal>
+    <LtxtOpenDocsSearch>Vyhledávání otevřených dokumentů</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtMonthJanuary>Styczeń </DtxtMonthJanuary>
+    <DtxtMonthFebruary>Luty</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marzec</DtxtMonthMarch>
+    <DtxtMonthApril>Kwiecień </DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Czerwiec</DtxtMonthJune>
+    <DtxtMonthJuly>Lipiec</DtxtMonthJuly>
+    <DtxtMonthAugust>Sierpień </DtxtMonthAugust>
+    <DtxtMonthSeptember>Wrzesień </DtxtMonthSeptember>
+    <DtxtMonthOctober>Październik</DtxtMonthOctober>
+    <DtxtMonthNovember>Listopad</DtxtMonthNovember>
+    <DtxtMonthDecember>Grudzień</DtxtMonthDecember>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtSmallDayFriday>Pt</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Pn</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sob</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Nie</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Czw</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Wt</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Śr</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtToday>Dziś </DtxtToday>
+    <LttlPendListSearch>Poszukiwanie na liście oczekującej/w toku</LttlPendListSearch>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtDocDate>Data dokumentu</LtxtDocDate>
+    <LtxtSelVal>Wybierz wartość</LtxtSelVal>
+    <LtxtOpenDocsSearch>Poszukiwanie otwartych dokumentów</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtMonthJanuary>Január</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Február</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marec</DtxtMonthMarch>
+    <DtxtMonthApril>Apríl</DtxtMonthApril>
+    <DtxtMonthMay>Máj</DtxtMonthMay>
+    <DtxtMonthJune>Jún</DtxtMonthJune>
+    <DtxtMonthJuly>Júl</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>Október</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtSmallDayFriday>Pia</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Pon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>So</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Ne</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Št</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Ut</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>St</DtxtSmallDayWednesday>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtToday>Dnes</DtxtToday>
+    <LttlPendListSearch>Vyhľadávanie zoznamu čakajúcich</LttlPendListSearch>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocDate>Dátum dokumentu</LtxtDocDate>
+    <LtxtSelVal>Vyberte hodnotu</LtxtSelVal>
+    <LtxtOpenDocsSearch>Vyhľadávanie otvorených dokumentov</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <DtxtAsc>&lt;--&gt;</DtxtAsc>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <DtxtMonthJanuary>&lt;--&gt;</DtxtMonthJanuary>
+    <DtxtMonthFebruary>&lt;--&gt;</DtxtMonthFebruary>
+    <DtxtMonthMarch>&lt;--&gt;</DtxtMonthMarch>
+    <DtxtMonthApril>&lt;--&gt;</DtxtMonthApril>
+    <DtxtMonthMay>&lt;--&gt;</DtxtMonthMay>
+    <DtxtMonthJune>&lt;--&gt;</DtxtMonthJune>
+    <DtxtMonthJuly>&lt;--&gt;</DtxtMonthJuly>
+    <DtxtMonthAugust>&lt;--&gt;</DtxtMonthAugust>
+    <DtxtMonthSeptember>&lt;--&gt;</DtxtMonthSeptember>
+    <DtxtMonthOctober>&lt;--&gt;</DtxtMonthOctober>
+    <DtxtMonthNovember>&lt;--&gt;</DtxtMonthNovember>
+    <DtxtMonthDecember>&lt;--&gt;</DtxtMonthDecember>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSmallDayFriday>&lt;--&gt;</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>&lt;--&gt;</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>&lt;--&gt;</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>&lt;--&gt;</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>&lt;--&gt;</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>&lt;--&gt;</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>&lt;--&gt;</DtxtSmallDayWednesday>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LttlPendListSearch>&lt;--&gt;</LttlPendListSearch>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocDate>&lt;--&gt;</LtxtDocDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+    <LtxtOpenDocsSearch>&lt;--&gt;</LtxtOpenDocsSearch>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtMonthJanuary>DtxtMonthJanuary</DtxtMonthJanuary>
+    <DtxtMonthFebruary>DtxtMonthFebruary</DtxtMonthFebruary>
+    <DtxtMonthMarch>DtxtMonthMarch</DtxtMonthMarch>
+    <DtxtMonthApril>DtxtMonthApril</DtxtMonthApril>
+    <DtxtMonthMay>DtxtMonthMay</DtxtMonthMay>
+    <DtxtMonthJune>DtxtMonthJune</DtxtMonthJune>
+    <DtxtMonthJuly>DtxtMonthJuly</DtxtMonthJuly>
+    <DtxtMonthAugust>DtxtMonthAugust</DtxtMonthAugust>
+    <DtxtMonthSeptember>DtxtMonthSeptember</DtxtMonthSeptember>
+    <DtxtMonthOctober>DtxtMonthOctober</DtxtMonthOctober>
+    <DtxtMonthNovember>DtxtMonthNovember</DtxtMonthNovember>
+    <DtxtMonthDecember>DtxtMonthDecember</DtxtMonthDecember>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtSmallDayFriday>DtxtSmallDayFriday</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>DtxtSmallDayMonday</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>DtxtSmallDaySaturday</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>DtxtSmallDaySunday</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>DtxtSmallDayThursday</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>DtxtSmallDayTuesday</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>DtxtSmallDayWednesday</DtxtSmallDayWednesday>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtToday>DtxtToday</DtxtToday>
+    <LttlPendListSearch>LttlPendListSearch</LttlPendListSearch>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtDocDate>LtxtDocDate</LtxtDocDate>
+    <LtxtSelVal>LtxtSelVal</LtxtSelVal>
+    <LtxtOpenDocsSearch>LtxtOpenDocsSearch</LtxtOpenDocsSearch>
+  </language>
+</languages>

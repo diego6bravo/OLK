@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <LtxtBPConf>BP Confirmation</LtxtBPConf>
+    <LtxtBPOk>BP "{0}" added successfully</LtxtBPOk>
+    <LtxtWaitForConf>BP #{0} added successfully&lt;br&gt;&lt;br&gt;Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddBP>Error adding BP</LtxtErrAddBP>
+    <LtxtBPUpdOk>BP "{0}" was updated successfully</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Error updating BP</LtxtErrUpdBP>
+    <LtxtOpenBP>Open BP</LtxtOpenBP>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <LtxtBPConf>Confirmación de SN</LtxtBPConf>
+    <LtxtBPOk>SN "{0}" agregado con éxito</LtxtBPOk>
+    <LtxtWaitForConf>SN #{0} agregado con éxito&lt;br&gt;&lt;br&gt;Esperando confirmación</LtxtWaitForConf>
+    <LtxtErrAddBP>Error al agregar SN</LtxtErrAddBP>
+    <LtxtBPUpdOk>SN "{0}" fue actualizado con éxito</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Error al actualizar SN</LtxtErrUpdBP>
+    <LtxtOpenBP>Abrir SN</LtxtOpenBP>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <LtxtBPConf>אישור כרטיס</LtxtBPConf>
+    <LtxtBPOk>כרטיס "{0}" הוסף בהצלחה</LtxtBPOk>
+    <LtxtWaitForConf>כרטיס "{0}" הוסף בהצלחה&lt;br&gt;&lt;br&gt;ממתין לאישור</LtxtWaitForConf>
+    <LtxtErrAddBP>תקלה בהוספת כרטיס</LtxtErrAddBP>
+    <LtxtBPUpdOk>כרטיס "{0}" עודכן בהצלחה</LtxtBPUpdOk>
+    <LtxtErrUpdBP>תקלה בעדכון הכרטיס</LtxtErrUpdBP>
+    <LtxtOpenBP>פתח כרטיס</LtxtOpenBP>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <LtxtBPConf>BP Confirmation</LtxtBPConf>
+    <LtxtBPOk>BP "{0}" added successfully</LtxtBPOk>
+    <LtxtWaitForConf>BP #{0} added successfully&lt;br&gt;&lt;br&gt;Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddBP>Error adding BP</LtxtErrAddBP>
+    <LtxtBPUpdOk>BP "{0}" was updated successfully</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Error updating BP</LtxtErrUpdBP>
+    <LtxtOpenBP>Open BP</LtxtOpenBP>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <LtxtBPConf>Confirmação de PN</LtxtBPConf>
+    <LtxtBPOk>PN "{0}" adicionado com sucesso</LtxtBPOk>
+    <LtxtWaitForConf>PN Nº {0} adicionado com sucesso &lt;br&gt; &lt;br&gt;Aguardando confirmação.</LtxtWaitForConf>
+    <LtxtErrAddBP>Erro ao adicionar PN</LtxtErrAddBP>
+    <LtxtBPUpdOk>PN "{0}" foi atualizado com sucesso</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Erro ao atualizar PN</LtxtErrUpdBP>
+    <LtxtOpenBP>Abrir PN</LtxtOpenBP>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <LtxtBPConf>&lt;--&gt;</LtxtBPConf>
+    <LtxtBPOk>&lt;--&gt;</LtxtBPOk>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddBP>&lt;--&gt;</LtxtErrAddBP>
+    <LtxtBPUpdOk>&lt;--&gt;</LtxtBPUpdOk>
+    <LtxtErrUpdBP>&lt;--&gt;</LtxtErrUpdBP>
+    <LtxtOpenBP>&lt;--&gt;</LtxtOpenBP>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <LtxtBPConf>&lt;--&gt;</LtxtBPConf>
+    <LtxtBPOk>&lt;--&gt;</LtxtBPOk>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddBP>&lt;--&gt;</LtxtErrAddBP>
+    <LtxtBPUpdOk>&lt;--&gt;</LtxtBPUpdOk>
+    <LtxtErrUpdBP>&lt;--&gt;</LtxtErrUpdBP>
+    <LtxtOpenBP>&lt;--&gt;</LtxtOpenBP>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <LtxtBPConf>&lt;--&gt;</LtxtBPConf>
+    <LtxtBPOk>&lt;--&gt;</LtxtBPOk>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddBP>&lt;--&gt;</LtxtErrAddBP>
+    <LtxtBPUpdOk>&lt;--&gt;</LtxtBPUpdOk>
+    <LtxtErrUpdBP>&lt;--&gt;</LtxtErrUpdBP>
+    <LtxtOpenBP>&lt;--&gt;</LtxtOpenBP>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <LtxtBPConf>Potvrzení OP</LtxtBPConf>
+    <LtxtBPOk>OP "{0}" úspěšně přidán</LtxtBPOk>
+    <LtxtWaitForConf>BP #{0} úspěšně přidán&lt;br&gt;&lt;br&gt;Čeká se na potvrzení</LtxtWaitForConf>
+    <LtxtErrAddBP>Chyba při vytváření OP</LtxtErrAddBP>
+    <LtxtBPUpdOk>BP "{0}" byl úspěšně aktualizován</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Chyba při aktualizaci OP</LtxtErrUpdBP>
+    <LtxtOpenBP>Otevřít OP</LtxtOpenBP>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <LtxtBPConf>Potwierdzenie PB</LtxtBPConf>
+    <LtxtBPOk>PB "{0}" dodany z sukcesem</LtxtBPOk>
+    <LtxtWaitForConf>PB #{0} dodany z sukcesem&lt;br&gt; Oczekuje na potwierdzenie</LtxtWaitForConf>
+    <LtxtErrAddBP>Błąd przy dodawaniu PB</LtxtErrAddBP>
+    <LtxtBPUpdOk>PB "{0}" został zaktualizowany z sukcesem</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Błąd przy aktualizacji PB</LtxtErrUpdBP>
+    <LtxtOpenBP>Otwórz PB</LtxtOpenBP>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <LtxtBPConf>Potvrdenie Obchodného partnera</LtxtBPConf>
+    <LtxtBPOk>Obchodný partner "{0}" pridaný úspešne</LtxtBPOk>
+    <LtxtWaitForConf>Obchodný partner "{0}" pridaný úspešne&lt;br&gt;&lt;br&gt;Čaká na potvrdenie</LtxtWaitForConf>
+    <LtxtErrAddBP>Chyba v pridaní Obchodného partnera</LtxtErrAddBP>
+    <LtxtBPUpdOk>Obchodný partner "{0}" bol aktualizovaný úspešne</LtxtBPUpdOk>
+    <LtxtErrUpdBP>Chyba v aktualizácii Obchodného partnera</LtxtErrUpdBP>
+    <LtxtOpenBP>Otvorení Obchodní partneri</LtxtOpenBP>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>&lt;--&gt;</DtxtRestore>
+    <DtxtRetry>&lt;--&gt;</DtxtRetry>
+    <LtxtBPConf>&lt;--&gt;</LtxtBPConf>
+    <LtxtBPOk>&lt;--&gt;</LtxtBPOk>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddBP>&lt;--&gt;</LtxtErrAddBP>
+    <LtxtBPUpdOk>&lt;--&gt;</LtxtBPUpdOk>
+    <LtxtErrUpdBP>&lt;--&gt;</LtxtErrUpdBP>
+    <LtxtOpenBP>&lt;--&gt;</LtxtOpenBP>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <LtxtBPConf>LtxtBPConf</LtxtBPConf>
+    <LtxtBPOk>LtxtBPOk</LtxtBPOk>
+    <LtxtWaitForConf>LtxtWaitForConf</LtxtWaitForConf>
+    <LtxtErrAddBP>LtxtErrAddBP</LtxtErrAddBP>
+    <LtxtBPUpdOk>LtxtBPUpdOk</LtxtBPUpdOk>
+    <LtxtErrUpdBP>LtxtErrUpdBP</LtxtErrUpdBP>
+    <LtxtOpenBP>LtxtOpenBP</LtxtOpenBP>
+  </language>
+</languages>

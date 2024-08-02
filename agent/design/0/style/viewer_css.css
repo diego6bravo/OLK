@@ -1,0 +1,53 @@
+<!-- STYLES PARA VIEWER DE IMAGENES DE OLK {  }
+BODY {
+	SCROLLBAR-FACE-COLOR: #9ECEFE;  
+	SCROLLBAR-HIGHLIGHT-COLOR: #D7EBFF; 
+	SCROLLBAR-SHADOW-COLOR: #D7EBFF; 
+	COLOR: #5F5F5F; 
+	SCROLLBAR-3DLIGHT-COLOR: #0D7FF1; 
+	SCROLLBAR-ARROW-COLOR: #2089F4; 
+	SCROLLBAR-TRACK-COLOR: #C1E3FF; 
+	FONT-FAMILY: Verdana; 
+	SCROLLBAR-DARKSHADOW-COLOR: #0D7FF1; 
+	SCROLLBAR-BASE-COLOR: #4b4b4b; 
+	BACKGROUND-COLOR: #A2D1FD; 
+	FONT-SIZE: 8px 
+}
+
+.BrdViw {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#A2D1FD;
+	font-weight:bold;
+	}
+.TblBackViw {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color: #DFEFFE;
+	font-weight:bold;
+	}
+.TblBrdBackViw {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color: #0C89FB;
+	font-weight:bold;
+	}
+.TblBackIntoViw {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color: #CDE3FC;
+	font-weight:bold;
+	}
+.hlt {
+	background-color: #A2D1FD;
+	color: #000000;
+}
+select       { 
+	font-family: Verdana; 
+	font-size: 10px; 
+	background-color:#CDE3FC 
+}

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtMessage>Message</DtxtMessage>
+    <LtxtOkMsg>Message was successfully sent </LtxtOkMsg>
+    <LtxtSendOtherMsg>Send another message</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtMessage>Mensaje</DtxtMessage>
+    <LtxtOkMsg>Su mensaje ha sido enviado con éxito</LtxtOkMsg>
+    <LtxtSendOtherMsg>Enviar otro mensaje</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtMessage>הודעה</DtxtMessage>
+    <LtxtOkMsg>ההודעה נשלחה בהצלחה</LtxtOkMsg>
+    <LtxtSendOtherMsg>שלח הודעה אחרת</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtMessage>Message</DtxtMessage>
+    <LtxtOkMsg>Message was successfully sent </LtxtOkMsg>
+    <LtxtSendOtherMsg>Send another message</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtFrom>Até</DtxtFrom>
+    <DtxtMessage>Mensagem</DtxtMessage>
+    <LtxtOkMsg>Sua mensagem foi enviada com êxito</LtxtOkMsg>
+    <LtxtSendOtherMsg>Enviar outra mensagem</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtMessage>Message</DtxtMessage>
+    <LtxtOkMsg>Votre message a été envoyé</LtxtOkMsg>
+    <LtxtSendOtherMsg>Envoyer un autre message</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtMessage>Nachricht</DtxtMessage>
+    <LtxtOkMsg>Die Nachricht wurde erfolgreich gesendet</LtxtOkMsg>
+    <LtxtSendOtherMsg>Weitere Nachrichten senden</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtMessage>Сообщение</DtxtMessage>
+    <LtxtOkMsg>Ваше сообщение успешно отправленно</LtxtOkMsg>
+    <LtxtSendOtherMsg>Отправить еще одно сообщение</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtMessage>Vzkaz</DtxtMessage>
+    <LtxtOkMsg>Zpráva byla úspěšně odeslána</LtxtOkMsg>
+    <LtxtSendOtherMsg>Poslat další zprávu</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtMessage>Wiadomość</DtxtMessage>
+    <LtxtOkMsg>Wiadomość została wysłana z sukcesem</LtxtOkMsg>
+    <LtxtSendOtherMsg>Wyślij jeszcze jedna wiadomość</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtMessage>Správa</DtxtMessage>
+    <LtxtOkMsg>Správa bola úspešne odoslaná</LtxtOkMsg>
+    <LtxtSendOtherMsg>Poslať ďalšiu správu</LtxtSendOtherMsg>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtMessage>DtxtMessage</DtxtMessage>
+    <LtxtOkMsg>LtxtOkMsg</LtxtOkMsg>
+    <LtxtSendOtherMsg>LtxtSendOtherMsg</LtxtSendOtherMsg>
+  </language>
+</languages>

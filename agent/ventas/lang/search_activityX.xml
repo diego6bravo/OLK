@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtSource>Source</DtxtSource>
+    <LttlPendActSearch>Open Activities Search</LttlPendActSearch>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtAsignedTo>Assigned to</LtxtAsignedTo>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtSource>Origen</DtxtSource>
+    <LttlPendActSearch>Búsqueda de Actividades Pendientes</LttlPendActSearch>
+    <LtxtCntDate>Fecha de Contacto</LtxtCntDate>
+    <LtxtAsignedTo>Asignado a</LtxtAsignedTo>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtSource>מקור</DtxtSource>
+    <LttlPendActSearch>חיפוש פעילויות פתוחות</LttlPendActSearch>
+    <LtxtCntDate>תקף עד</LtxtCntDate>
+    <LtxtAsignedTo>מקושר ל</LtxtAsignedTo>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtSource>Source</DtxtSource>
+    <LttlPendActSearch>Open Activities Search</LttlPendActSearch>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtAsignedTo>Assigned to</LtxtAsignedTo>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtSource>Origem</DtxtSource>
+    <LttlPendActSearch>Pesquisa de Atividades Pendentes</LttlPendActSearch>
+    <LtxtCntDate>Data de Contato</LtxtCntDate>
+    <LtxtAsignedTo>Designado para</LtxtAsignedTo>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <LttlPendActSearch>&lt;--&gt;</LttlPendActSearch>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtSource>Quelle</DtxtSource>
+    <LttlPendActSearch>&lt;--&gt;</LttlPendActSearch>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtSource>Источник</DtxtSource>
+    <LttlPendActSearch>Поиск открытых действий</LttlPendActSearch>
+    <LtxtCntDate>Годен до</LtxtCntDate>
+    <LtxtAsignedTo>Связан с</LtxtAsignedTo>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtSource>Zdroj</DtxtSource>
+    <LttlPendActSearch>Vyhledávání otevřených aktivit</LttlPendActSearch>
+    <LtxtCntDate>Datum kontaktu</LtxtCntDate>
+    <LtxtAsignedTo>Připsané komu</LtxtAsignedTo>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtSource>Źródło</DtxtSource>
+    <LttlPendActSearch>Poszukiwanie otwartych działań</LttlPendActSearch>
+    <LtxtCntDate>Data kontaktu</LtxtCntDate>
+    <LtxtAsignedTo>Przypisany do </LtxtAsignedTo>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtSource>Zdroj</DtxtSource>
+    <LttlPendActSearch>Vyhľadávanie Otvorených aktivít</LttlPendActSearch>
+    <LtxtCntDate>Dátum kontaktu</LtxtCntDate>
+    <LtxtAsignedTo>Priradené komu</LtxtAsignedTo>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtSource>DtxtSource</DtxtSource>
+    <LttlPendActSearch>LttlPendActSearch</LttlPendActSearch>
+    <LtxtCntDate>LtxtCntDate</LtxtCntDate>
+    <LtxtAsignedTo>LtxtAsignedTo</LtxtAsignedTo>
+  </language>
+</languages>

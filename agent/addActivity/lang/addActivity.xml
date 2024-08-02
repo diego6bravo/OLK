@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Sales Opportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LttlNewActivity>Add Activity</LttlNewActivity>
+    <LtxtConfCancel>Are you sure you want to delete this activity?</LtxtConfCancel>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtConfFld>Please enter the field "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Edit Activity</LtxtEditActivity>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Calle</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+    <DtxtReminder>Recordatorio</DtxtReminder>
+    <DtxtDuration>Duración</DtxtDuration>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtClosed>Cerrado</DtxtClosed>
+    <DtxtInactive>Inactivo</DtxtInactive>
+    <DtxtPriority>Prioridad</DtxtPriority>
+    <DtxtPosible>Posible</DtxtPosible>
+    <DtxtLocation>Localidad</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtSource>Origen</DtxtSource>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Oportunidades</DtxtSalesOportunity>
+    <DtxtServiceCall>Llamada de servicio</DtxtServiceCall>
+    <LttlNewActivity>Agregar Actividad</LttlNewActivity>
+    <LtxtConfCancel>¿Está seguro que desea cancelar esta actividad?</LtxtConfCancel>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtAsignedTo>Asignado a</LtxtAsignedTo>
+    <LtxtStartTime>Hora de Inicio</LtxtStartTime>
+    <LtxtEndTime>Hora de Fin</LtxtEndTime>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Día(s)</LtxtDays>
+    <LtxtStartDate>Fecha de Inicio</LtxtStartDate>
+    <LtxtDueDate>Fecha de Vencimiento</LtxtDueDate>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtTime>Tiempo</LtxtTime>
+    <LtxtContent>Contenido</LtxtContent>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Clase de documento</LtxtDocType>
+    <LtxtDocNum>Número de documento</LtxtDocNum>
+    <LtxtInvDownPay>Anticipo de Cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferencia de Inventario</LtxtInvTrans>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtInventory>Inventario</LtxtInventory>
+    <LtxtConfFld>Debe introducir el campo "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Editar Actividad</LtxtEditActivity>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtPersonal>פרטי</DtxtPersonal>
+    <DtxtStreet>רחוב</DtxtStreet>
+    <DtxtRoom>חדר</DtxtRoom>
+    <DtxtReminder>תזכורת</DtxtReminder>
+    <DtxtDuration>משך זמן</DtxtDuration>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtClosed>סגור</DtxtClosed>
+    <DtxtInactive>לא פעיל</DtxtInactive>
+    <DtxtPriority>חשיבות</DtxtPriority>
+    <DtxtPosible>אפשרי</DtxtPosible>
+    <DtxtLocation>מקום</DtxtLocation>
+    <DtxtNormal>רגיל</DtxtNormal>
+    <DtxtSource>מקור</DtxtSource>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <DtxtSalesOportunity>הזדמנות מכירה</DtxtSalesOportunity>
+    <DtxtServiceCall>קריאת שירות</DtxtServiceCall>
+    <LttlNewActivity>הוסף פעילות</LttlNewActivity>
+    <LtxtConfCancel>האם למחוק פעילות?</LtxtConfCancel>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtAsignedTo>מקושר ל</LtxtAsignedTo>
+    <LtxtStartTime>שעת התחלה</LtxtStartTime>
+    <LtxtEndTime>שעת סיום</LtxtEndTime>
+    <LtxtMinutes>דקות</LtxtMinutes>
+    <LtxtHours>שעות</LtxtHours>
+    <LtxtDays>ימים</LtxtDays>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtTime>שעה</LtxtTime>
+    <LtxtContent>תוכן</LtxtContent>
+    <LtxtLinkDoc>מסמך מקושר</LtxtLinkDoc>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtInvDownPay>חשבונית מקדמה - לקוח</LtxtInvDownPay>
+    <LtxtInvTrans>העברה בין מחסנים</LtxtInvTrans>
+    <LtxtSale>מכירות</LtxtSale>
+    <LtxtPur>קניות</LtxtPur>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtConfFld>יש למלא את שדה {0}?</LtxtConfFld>
+    <LtxtEditActivity>ערוך פעילות</LtxtEditActivity>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtClosed>Closed</DtxtClosed>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPriority>Priority</DtxtPriority>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Sales Opportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LttlNewActivity>Add Activity</LttlNewActivity>
+    <LtxtConfCancel>Are you sure you want to delete this activity?</LtxtConfCancel>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtConfFld>Please enter the field "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Edit Activity</LtxtEditActivity>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtPersonal>Pessoal</DtxtPersonal>
+    <DtxtStreet>Rua</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+    <DtxtReminder>Recordar</DtxtReminder>
+    <DtxtDuration>Duração</DtxtDuration>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtClosed>Finalizado</DtxtClosed>
+    <DtxtInactive>Inativo</DtxtInactive>
+    <DtxtPriority>Prioridade</DtxtPriority>
+    <DtxtPosible>Possível</DtxtPosible>
+    <DtxtLocation>Localidade</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtSource>Origem</DtxtSource>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Oportunidades</DtxtSalesOportunity>
+    <DtxtServiceCall>Chamada de serviço</DtxtServiceCall>
+    <LttlNewActivity>Adicionar Atividade</LttlNewActivity>
+    <LtxtConfCancel>Tem certeza que desejas cancelar esta atividade ?</LtxtConfCancel>
+    <LtxtGeneral>Geral</LtxtGeneral>
+    <LtxtAsignedTo>Designado para </LtxtAsignedTo>
+    <LtxtStartTime>Hora de Início</LtxtStartTime>
+    <LtxtEndTime>Hora de Fim</LtxtEndTime>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Dia(s)</LtxtDays>
+    <LtxtStartDate>Data de Início</LtxtStartDate>
+    <LtxtDueDate>Data de Vencimento</LtxtDueDate>
+    <LtxtStatus>Situação</LtxtStatus>
+    <LtxtTime>Tempo</LtxtTime>
+    <LtxtContent>Conteúdo</LtxtContent>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtDocNum>Número do documento</LtxtDocNum>
+    <LtxtInvDownPay>Adiantamento de Cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferência de Estoque</LtxtInvTrans>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtConfFld>Por favor, insira o campo "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Editar Atividade</LtxtEditActivity>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtPersonal>&lt;--&gt;</DtxtPersonal>
+    <DtxtStreet>&lt;--&gt;</DtxtStreet>
+    <DtxtRoom>&lt;--&gt;</DtxtRoom>
+    <DtxtReminder>&lt;--&gt;</DtxtReminder>
+    <DtxtDuration>&lt;--&gt;</DtxtDuration>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtClosed>&lt;--&gt;</DtxtClosed>
+    <DtxtInactive>&lt;--&gt;</DtxtInactive>
+    <DtxtPriority>&lt;--&gt;</DtxtPriority>
+    <DtxtPosible>&lt;--&gt;</DtxtPosible>
+    <DtxtLocation>&lt;--&gt;</DtxtLocation>
+    <DtxtNormal>&lt;--&gt;</DtxtNormal>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtSalesOportunity>Opportunité</DtxtSalesOportunity>
+    <DtxtServiceCall>Appel client</DtxtServiceCall>
+    <LttlNewActivity>&lt;--&gt;</LttlNewActivity>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtPur>Achat</LtxtPur>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtConfFld>Devez-vous insérer le domaine "{0}"</LtxtConfFld>
+    <LtxtEditActivity>&lt;--&gt;</LtxtEditActivity>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtPersonal>Persönlich</DtxtPersonal>
+    <DtxtStreet>Strasse</DtxtStreet>
+    <DtxtRoom>Raum</DtxtRoom>
+    <DtxtReminder>Erinnerung</DtxtReminder>
+    <DtxtDuration>Laufzeit</DtxtDuration>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtClosed>Geshlossen</DtxtClosed>
+    <DtxtInactive>Nicht Aktiv</DtxtInactive>
+    <DtxtPriority>Priorität</DtxtPriority>
+    <DtxtPosible>Möglich</DtxtPosible>
+    <DtxtLocation>Ortsangabe</DtxtLocation>
+    <DtxtNormal>Normal</DtxtNormal>
+    <DtxtSource>Quelle</DtxtSource>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Verkausmöglichkeit</DtxtSalesOportunity>
+    <DtxtServiceCall>Serviceabruf</DtxtServiceCall>
+    <LttlNewActivity>&lt;--&gt;</LttlNewActivity>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtPur>Ankauf</LtxtPur>
+    <LtxtBanks>Banken</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtConfFld>Bitte geben Sie das Feld "{0}" an</LtxtConfFld>
+    <LtxtEditActivity>&lt;--&gt;</LtxtEditActivity>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtPersonal>Частный</DtxtPersonal>
+    <DtxtStreet>Улица</DtxtStreet>
+    <DtxtRoom>Комната</DtxtRoom>
+    <DtxtReminder> Памятка</DtxtReminder>
+    <DtxtDuration>Период времени</DtxtDuration>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtClosed>Закрыт</DtxtClosed>
+    <DtxtInactive>не активный</DtxtInactive>
+    <DtxtPriority>Приоритет</DtxtPriority>
+    <DtxtPosible>Возможная</DtxtPosible>
+    <DtxtLocation>Место</DtxtLocation>
+    <DtxtNormal>Обычный</DtxtNormal>
+    <DtxtSource>Источник</DtxtSource>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtSalesOportunity>Возможность</DtxtSalesOportunity>
+    <DtxtServiceCall>Сервисная заявка</DtxtServiceCall>
+    <LttlNewActivity>Добавить действие</LttlNewActivity>
+    <LtxtConfCancel>Вы уверены, что хотите удалить эту деятельность?</LtxtConfCancel>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtAsignedTo>Связанный с</LtxtAsignedTo>
+    <LtxtStartTime>Время начала</LtxtStartTime>
+    <LtxtEndTime>Время окончания</LtxtEndTime>
+    <LtxtMinutes>Минут (ы)</LtxtMinutes>
+    <LtxtHours>Час (ы)</LtxtHours>
+    <LtxtDays>День(дни)</LtxtDays>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtDueDate>Cрок платежа</LtxtDueDate>
+    <LtxtStatus>Статус</LtxtStatus>
+    <LtxtTime>Время</LtxtTime>
+    <LtxtContent>Содержание</LtxtContent>
+    <LtxtLinkDoc>Связанный документ</LtxtLinkDoc>
+    <LtxtDocType>Тип документа</LtxtDocType>
+    <LtxtDocNum>Номер документа</LtxtDocNum>
+    <LtxtInvDownPay>Предварительный счет клиента</LtxtInvDownPay>
+    <LtxtInvTrans>Передача между складами</LtxtInvTrans>
+    <LtxtSale>Продажи</LtxtSale>
+    <LtxtPur>Покупки</LtxtPur>
+    <LtxtBanks>Банки</LtxtBanks>
+    <LtxtInventory>Запас</LtxtInventory>
+    <LtxtConfFld>Пожалуйста, заполните поле "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Изменить деятельность</LtxtEditActivity>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtPersonal>Osobní</DtxtPersonal>
+    <DtxtStreet>Ulice</DtxtStreet>
+    <DtxtRoom>Místnost</DtxtRoom>
+    <DtxtReminder>Připomenutí</DtxtReminder>
+    <DtxtDuration>Trvání</DtxtDuration>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtClosed>Zavřeno</DtxtClosed>
+    <DtxtInactive>Neaktivní</DtxtInactive>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Místo</DtxtLocation>
+    <DtxtNormal>Normální</DtxtNormal>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Možnost prodeje</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LttlNewActivity>Vytvořit aktivitu</LttlNewActivity>
+    <LtxtConfCancel>Jste si jistý/á, že chcete tuto aktivitu vymazat?</LtxtConfCancel>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtAsignedTo>Přiřazené komu</LtxtAsignedTo>
+    <LtxtStartTime>Počáteční datum</LtxtStartTime>
+    <LtxtEndTime>Konečné datum</LtxtEndTime>
+    <LtxtMinutes>Minut(a)</LtxtMinutes>
+    <LtxtHours>Hodin(a)</LtxtHours>
+    <LtxtDays>den/dnů</LtxtDays>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtLinkDoc>Navázaný dokument</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LtxtInvDownPay>Pohledávky - Záloha</LtxtInvDownPay>
+    <LtxtInvTrans>Převod zásob</LtxtInvTrans>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtInventory>Zásoby</LtxtInventory>
+    <LtxtConfFld>Vyplňte prosím pole "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Upravit aktivitu</LtxtEditActivity>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtPersonal>Osobisty/e</DtxtPersonal>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Pokój</DtxtRoom>
+    <DtxtReminder>Przypomnienie</DtxtReminder>
+    <DtxtDuration>Czas trwania</DtxtDuration>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtClosed>Zamknięty</DtxtClosed>
+    <DtxtInactive>Nieaktywny</DtxtInactive>
+    <DtxtPriority>Priorytety</DtxtPriority>
+    <DtxtPosible>Możliwy</DtxtPosible>
+    <DtxtLocation>Lokalizacja</DtxtLocation>
+    <DtxtNormal>Normalny</DtxtNormal>
+    <DtxtSource>Źródło</DtxtSource>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Możliwości sprzedaży</DtxtSalesOportunity>
+    <DtxtServiceCall>Wezwanie obsługi</DtxtServiceCall>
+    <LttlNewActivity>Dodaj działanie </LttlNewActivity>
+    <LtxtConfCancel>Czy jesteś pewien, że chcesz skasować to działanie?</LtxtConfCancel>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtAsignedTo>Przypisany do </LtxtAsignedTo>
+    <LtxtStartTime>Czas rozpoczęcia</LtxtStartTime>
+    <LtxtEndTime>Czas zakończenia</LtxtEndTime>
+    <LtxtMinutes>Minuty</LtxtMinutes>
+    <LtxtHours>Godzina (y)</LtxtHours>
+    <LtxtDays>Dzień (dni)</LtxtDays>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtTime>Czas</LtxtTime>
+    <LtxtContent>Treść</LtxtContent>
+    <LtxtLinkDoc>Dokument powiązany </LtxtLinkDoc>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtDocNum>Numer dokumentu</LtxtDocNum>
+    <LtxtInvDownPay>Zaliczka z tyt. Sprzedaży  - Klient</LtxtInvDownPay>
+    <LtxtInvTrans>Transfer między magazynami</LtxtInvTrans>
+    <LtxtSale>Sprzedaż </LtxtSale>
+    <LtxtPur>Zakup</LtxtPur>
+    <LtxtBanks>Banki</LtxtBanks>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtConfFld>proszę wprowadź pole "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Edytuj działanie</LtxtEditActivity>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtPersonal>Osobné</DtxtPersonal>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Miestnosť</DtxtRoom>
+    <DtxtReminder>Upomienka</DtxtReminder>
+    <DtxtDuration>Trvanie</DtxtDuration>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtClosed>Uzavreté</DtxtClosed>
+    <DtxtInactive>Neaktívne</DtxtInactive>
+    <DtxtPriority>Priorita</DtxtPriority>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Miesto</DtxtLocation>
+    <DtxtNormal>Bežný</DtxtNormal>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <DtxtSalesOportunity>Predajná príležitosť</DtxtSalesOportunity>
+    <DtxtServiceCall>Servisný hovor</DtxtServiceCall>
+    <LttlNewActivity>Pridať aktivitu</LttlNewActivity>
+    <LtxtConfCancel>Ste si istí, že chcete zmazať túto aktivitu?</LtxtConfCancel>
+    <LtxtGeneral>Všeobecný</LtxtGeneral>
+    <LtxtAsignedTo>Pridelené k</LtxtAsignedTo>
+    <LtxtStartTime>Čas zahájenia</LtxtStartTime>
+    <LtxtEndTime>Dátum ukončenia</LtxtEndTime>
+    <LtxtMinutes>Minúta(y)</LtxtMinutes>
+    <LtxtHours>Hodina(y)</LtxtHours>
+    <LtxtDays>Deň(Dni)</LtxtDays>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtLinkDoc>Pripojený dokument</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LtxtInvDownPay>Záloha z predaja</LtxtInvDownPay>
+    <LtxtInvTrans>Prevod inventáru</LtxtInvTrans>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtInventory>Inventár</LtxtInventory>
+    <LtxtConfFld>Prosím zadajte políčko "{0}"</LtxtConfFld>
+    <LtxtEditActivity>Editovať aktivitu</LtxtEditActivity>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtPersonal>DtxtPersonal</DtxtPersonal>
+    <DtxtStreet>DtxtStreet</DtxtStreet>
+    <DtxtRoom>DtxtRoom</DtxtRoom>
+    <DtxtReminder>DtxtReminder</DtxtReminder>
+    <DtxtDuration>DtxtDuration</DtxtDuration>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtClosed>DtxtClosed</DtxtClosed>
+    <DtxtInactive>DtxtInactive</DtxtInactive>
+    <DtxtPriority>DtxtPriority</DtxtPriority>
+    <DtxtPosible>DtxtPosible</DtxtPosible>
+    <DtxtLocation>DtxtLocation</DtxtLocation>
+    <DtxtNormal>DtxtNormal</DtxtNormal>
+    <DtxtSource>DtxtSource</DtxtSource>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <DtxtSalesOportunity>DtxtSalesOportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>DtxtServiceCall</DtxtServiceCall>
+    <LttlNewActivity>LttlNewActivity</LttlNewActivity>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtAsignedTo>LtxtAsignedTo</LtxtAsignedTo>
+    <LtxtStartTime>LtxtStartTime</LtxtStartTime>
+    <LtxtEndTime>LtxtEndTime</LtxtEndTime>
+    <LtxtMinutes>LtxtMinutes</LtxtMinutes>
+    <LtxtHours>LtxtHours</LtxtHours>
+    <LtxtDays>LtxtDays</LtxtDays>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtTime>LtxtTime</LtxtTime>
+    <LtxtContent>LtxtContent</LtxtContent>
+    <LtxtLinkDoc>LtxtLinkDoc</LtxtLinkDoc>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtInvDownPay>LtxtInvDownPay</LtxtInvDownPay>
+    <LtxtInvTrans>LtxtInvTrans</LtxtInvTrans>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPur>LtxtPur</LtxtPur>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtConfFld>LtxtConfFld</LtxtConfFld>
+    <LtxtEditActivity>LtxtEditActivity</LtxtEditActivity>
+  </language>
+</languages>

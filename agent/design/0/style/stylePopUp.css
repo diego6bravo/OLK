@@ -1,0 +1,362 @@
+﻿BODY {
+	SCROLLBAR-FACE-COLOR: #9ECEFE;  
+	SCROLLBAR-HIGHLIGHT-COLOR: #D7EBFF; 
+	SCROLLBAR-SHADOW-COLOR: #D7EBFF; 
+	COLOR: #5F5F5F; 
+	SCROLLBAR-3DLIGHT-COLOR: #0D7FF1; 
+	SCROLLBAR-ARROW-COLOR: #2089F4; 
+	SCROLLBAR-TRACK-COLOR: #C1E3FF; 
+	FONT-FAMILY: Verdana; 
+	SCROLLBAR-DARKSHADOW-COLOR: #0D7FF1; 
+	SCROLLBAR-BASE-COLOR: #4b4b4b; 
+	BACKGROUND-COLOR: #FFFFFF; 
+	FONT-SIZE: 8px 
+}
+A {
+	font-family:Verdana; font-size:8px; color:#000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: #EF0E0E; TEXT-DECORATION: underline;
+}
+
+a.LinkNoticiasMas {
+	COLOR: #787878; FONT-SIZE: 8pt; FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+a:active.LinkNoticiasMas {
+	COLOR: #787878; TEXT-DECORATION: none; font-weight:bold;
+}
+a:hover.LinkNoticiasMas {
+	COLOR: #787878; TEXT-DECORATION: underline;
+}
+<!-- objetos{  }
+.Botones {
+	COLOR: #000000; FONT-SIZE: 8pt; FONT-FAMILY: tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif; HEIGHT: 20px; WIDTH: 110px; font-weight: bold; Border-left: 1px solid #FFEBAE; Border-top: 1px solid #FFEBAE; Border-right: 1px solid #806000; Border-bottom: 1px solid #806000; background-color:#FFD044;
+}
+SELECT {
+	BORDER-RIGHT:  #ffffff 1px solid; BORDER-TOP: medium none; FONT-SIZE: 11px; BORDER-LEFT: medium none; COLOR: #000000; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #FFFFFF
+}
+INPUT {
+	BORDER-RIGHT: #757864 1px solid; BORDER-TOP: #757864 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #757864 1px solid; COLOR: #000000; BORDER-BOTTOM: #757864 1px solid; BACKGROUND-COLOR: #FFFFFF;
+}
+.InputDis{
+				BORDER-RIGHT: #757864 1px solid;
+				BORDER-TOP: #757864 1px solid;
+				FONT-SIZE: 8pt;
+				BORDER-LEFT: #757864 1px solid;
+				COLOR: #000000;
+				BORDER-BOTTOM: #757864 1px solid;
+				BACKGROUND-COLOR: #B8B8B8;
+}
+.OptionButton {
+	BORDER-RIGHT: none; BORDER-TOP: none; BORDER-LEFT: none; BORDER-BOTTOM: none; BACKGROUND-COLOR: #FFFFFF;
+}
+TEXTAREA {
+	BORDER-RIGHT: #464646 1px solid; BORDER-TOP: #464646 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #464646 1px solid; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BORDER-BOTTOM: #464646 1px solid; BACKGROUND-COLOR: #FFFFFF
+}
+.File {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #FFFFFF
+}
+hr           { border:1px dotted #399FFB;  }
+
+<!-- BuzonMensajes{  }
+.MsgTlt {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	font-weight:bold;
+	background-color:#A2D1FD;
+	}
+.MsgTlt2 {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	font-weight:bold;
+	background-color:#E1E7EC;
+	}
+.Msgtbl {
+	font-family:verdana;
+	font-size:10px;
+	color:#787878;
+	font-weight:none;
+	background-color:#EDF5FE;
+	}
+<!-- Style/CAT{  }
+.FirmTlt {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#A2D1FD;
+	font-weight:bold;
+	}
+.FirmTlt3 {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#E1E7EC;
+	font-weight:bold;
+	}
+.FirmTbl {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#EDF5FE;
+	font-weight:none;
+	}
+.FirmTblY {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#FFFFD9;
+	font-weight:none;
+	}
+.FirmTblNeutra {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	font-weight:bold;
+	}
+.FirmTblNeutra2 {
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	font-weight:none;
+	}
+<!-- calendario{  }
+.bgTable {
+	background-color: #F2F2F2;
+}
+
+
+.bgTableBorder {
+	background-color: #46A1FC;
+}
+
+.bgMouseOver {
+	background-color: #FFFFFF;
+}
+.bgMouseOff {
+}
+.textGrey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #CCCCCC;
+}
+.textRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #FF0000;
+}
+
+
+.bgGrey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	color: #666666;
+	background-color: #EEEEEE;
+}
+.bgCurrentDay {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	background-color:#C7E3FE;
+}
+.bgDayListing {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	color: #000000;
+	background-color: #E1E7EC;
+}
+
+
+.bgWhite{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	color: #666666;
+	background-color: #FFFFFF;
+}
+.tablaCalenfoot{
+	font-family: Verdana;
+	font-size: 8pt;
+    color: #666666;
+	background-color: #C8BB93;
+}
+.bgCalHeader{
+	font-family: Verdana;
+	font-size: small;
+	background-color: #C8BB93
+}
+<!-- Poll{  }
+.PollTlt{
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #A2D1FD;
+	}
+.PollTbl{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: none;
+	background-color: #EDF5FE;
+	}
+.PollTtl2{
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #E1E7EC;
+	}
+.PollTbl2{
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+}
+<!-- CamposEspeciales{  }
+.CSpecialTlt{
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color:#4A4A4A;
+	background-color: #A2D1FD;
+	}
+.CSpecialTlt2{
+	font-family:verdana;
+	font-size:10px;
+	color:#4A4A4A;
+	background-color:#CDE3FC;
+	font-weight:bold;
+	}
+.CSpecialTbl{
+	font-family:verdana;
+	font-size:10px;
+	color:#787878;
+	background-color:#EDF5FE;
+	}
+a.LinkCSpecial {
+	COLOR: #4A4A4A; FONT-SIZE: 8pt; FONT-FAMILY: Verdana; TEXT-DECORATION: underline;
+}
+a:active.LinkCSpecial {
+	COLOR: #4A4A4A; TEXT-DECORATION: none; font-weight:bold;
+}
+a:hover.LinkCSpecial {
+	COLOR: #888888; TEXT-DECORATION: underline;
+}
+<!-- ParaMsg{  }
+.ParaMsgTlt{
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color:#4A4A4A;
+	background-color: #A2D1FD;
+	}
+.ParaMsgTbl{
+	font-family:verdana;
+	font-size:10px;
+	color:#787878;
+	font-weight: bold;
+	background-color:#EDF5FE;
+	}
+<!--General{  }
+.GeneralTlt{
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color:#4A4A4A;
+	background-color: #A2D1FD;
+	}
+.GeneralTbl{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: none;
+	color:#4A4A4A;
+	background-color: #EDF5FE;
+	}
+.GeneralTblHigh{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: none;
+	color:#4A4A4A;
+	background-color: #D7E9FD;
+	}
+.GeneralTblBold{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight:bold;
+	color:#4A4A4A;
+	background-color: #EDF5FE;
+	}
+.GeneralTblBold2{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight:bold;
+	color:#4A4A4A;
+	background-color: #E1EEFD;
+	}
+.GeneralTblBold2HighLight{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight:bold;
+	color:#4A4A4A;
+	background-color: #FFD2A6;
+	}
+.GeneralTltBig{
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight:bold;
+	color:#4A4A4A;
+	background-color: #A2D1FD;
+	}
+a.LinkGeneral {
+	COLOR: #4A4A4A; FONT-SIZE: 8pt; FONT-FAMILY: Verdana; TEXT-DECORATION: underline;
+}
+a:active.LinkGeneral {
+	COLOR: #4A4A4A; TEXT-DECORATION: none; font-weight:bold;
+}
+a:hover.LinkGeneral {
+	COLOR: #888888; TEXT-DECORATION: underline;
+}
+.InputDes{
+	BORDER-RIGHT: #757864 1px solid; 
+	BORDER-TOP: #757864 1px solid; 
+	FONT-SIZE: 8pt; 
+	BORDER-LEFT: #757864 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: #757864 1px solid; 
+	BACKGROUND-COLOR: #C2DEFC;
+}
+a.LinkTop {
+	COLOR: #787878; FONT-SIZE: 7pt; FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+a:active.LinkTop {
+	COLOR: #787878; TEXT-DECORATION: none;
+}
+a:hover.LinkTop {
+	COLOR: #787878; TEXT-DECORATION: underline;
+}
+.LinkNormal {
+	COLOR: #787878; FONT-SIZE: 8pt; FONT-FAMILY: Verdana;
+}
+.CanastaTblExpense{
+font-family:verdana;
+font-size:10px;
+color:#787878;
+background-color:#ffffcc;
+font-weight:bold;
+}
+
+<!-- Otros{  }
+.ImgBorder
+{
+	border: 1px #416DD0 solid;
+}
+.TblCombo {
+	border: 1px solid #757864;
+	font-family: Verdana;
+	font-size: 10px;
+	color: black;
+	background-color: white;
+}

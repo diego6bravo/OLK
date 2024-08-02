@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>English (United States)</DoptEngUS>
+    <DoptSpanLA>Spanish (Latin America)</DoptSpanLA>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DoptHeb>Hebrew</DoptHeb>
+    <DtxtInactiveLicServer>License Server Inactive</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>The OLK license has expired.</DtxtOLKLicExp>
+    <DtxtNoOLKLic>The "License Server" doesn’t have a OLK license.</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRATION</LttlAdmin>
+    <LtxtUserName>Username</LtxtUserName>
+    <LtxtPwd>Password</LtxtPwd>
+    <LtxtEnter>Enter</LtxtEnter>
+    <LtxtEntryUidPwd>Please enter you username and password</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Wrong username or password, please try again</LtxtBadUidPwd>
+    <LtxtLng>Language</LtxtLng>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Inglés (Estados Unidos)</DoptEngUS>
+    <DoptSpanLA>Español (Latinoamérica)</DoptSpanLA>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DoptHeb>Hebreo</DoptHeb>
+    <DtxtInactiveLicServer>Servidor de Licencias Inactivo</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>La licencia de OLK esta expirada.</DtxtOLKLicExp>
+    <DtxtNoOLKLic>El "Servidor de Licencias" no cuenta con la licencia de OLK.</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRACION</LttlAdmin>
+    <LtxtUserName>Nombre de Usuario</LtxtUserName>
+    <LtxtPwd>Contraseña</LtxtPwd>
+    <LtxtEnter>Entrar</LtxtEnter>
+    <LtxtEntryUidPwd>Por favor, introduzca su usuario y contraseña</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Usuario o contraseña errónea, por favor intente de nuevo</LtxtBadUidPwd>
+    <LtxtLng>Idioma</LtxtLng>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DoptEngUS>אנגלית (ארה"ב)</DoptEngUS>
+    <DoptSpanLA>ספרדית (לטין אמריקה)</DoptSpanLA>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DoptHeb>עברית</DoptHeb>
+    <DtxtInactiveLicServer>שרת רשיונות לא פעיל</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>רשיון OLK ניגמר</DtxtOLKLicExp>
+    <DtxtNoOLKLic>לא נמצא רשיון של OLK בשרת</DtxtNoOLKLic>
+    <LttlAdmin>מנהלה</LttlAdmin>
+    <LtxtUserName>משתמש</LtxtUserName>
+    <LtxtPwd>סיסמה</LtxtPwd>
+    <LtxtEnter>כנס</LtxtEnter>
+    <LtxtEntryUidPwd>יש להכניס שם משתמש וסיסמא</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>המשתמש או הסיסמה אינם נכונים! נסה שוב.</LtxtBadUidPwd>
+    <LtxtLng>שפה</LtxtLng>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>English</DoptEngUS>
+    <DoptSpanLA>Spanish</DoptSpanLA>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DoptHeb>Hebrew</DoptHeb>
+    <DtxtInactiveLicServer>License Server Inactive</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>The OLK license has expired.</DtxtOLKLicExp>
+    <DtxtNoOLKLic>The "License Server" doesn’t have a OLK license.</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRATION</LttlAdmin>
+    <LtxtUserName>Username</LtxtUserName>
+    <LtxtPwd>Password</LtxtPwd>
+    <LtxtEnter>Enter</LtxtEnter>
+    <LtxtEntryUidPwd>Please enter you username and password</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Wrong username or password, please try again</LtxtBadUidPwd>
+    <LtxtLng>Language</LtxtLng>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Inglês (Estados Unidos)</DoptEngUS>
+    <DoptSpanLA>Espanhol (Latino Americano)</DoptSpanLA>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DoptHeb>Hebreu</DoptHeb>
+    <DtxtInactiveLicServer>Servidor de Licenças Inativo</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>A licença do OnlineKit expirou</DtxtOLKLicExp>
+    <DtxtNoOLKLic>O "Servidor de Licenças" não possui a licença do OnlineKit.</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRAÇÃO</LttlAdmin>
+    <LtxtUserName>Nome de Usuário</LtxtUserName>
+    <LtxtPwd>Senha</LtxtPwd>
+    <LtxtEnter>Entrar</LtxtEnter>
+    <LtxtEntryUidPwd>Por favor, inserir seu usuário e senha</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Usuário ou senha errada, por favor tente novamente</LtxtBadUidPwd>
+    <LtxtLng>Idioma</LtxtLng>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Anglais (État-Unis)</DoptEngUS>
+    <DoptSpanLA>Espagnol (Amérique Latine)</DoptSpanLA>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DoptHeb>Hébreu</DoptHeb>
+    <DtxtInactiveLicServer>&lt;--&gt;</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>&lt;--&gt;</DtxtOLKLicExp>
+    <DtxtNoOLKLic>&lt;--&gt;</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRATION</LttlAdmin>
+    <LtxtUserName>Nom d'utilisateur</LtxtUserName>
+    <LtxtPwd>Mot de passe</LtxtPwd>
+    <LtxtEnter>Entrer</LtxtEnter>
+    <LtxtEntryUidPwd>S.V.P, insérer vos nom d'utilisateur et mot de passe</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Nom d'utilisateur et mot de passe erronés</LtxtBadUidPwd>
+    <LtxtLng>Langue</LtxtLng>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Englisch (US)</DoptEngUS>
+    <DoptSpanLA>Spanisch (Lateinamerika)</DoptSpanLA>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DoptHeb>Hebräisch</DoptHeb>
+    <DtxtInactiveLicServer>Lizenzserver Nicht Aktiv</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>Die OLKlizenz ist abgelaufen</DtxtOLKLicExp>
+    <DtxtNoOLKLic>Der "Lizenzserver" hat keine OLKlizenz</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRATION</LttlAdmin>
+    <LtxtUserName>Benutzername</LtxtUserName>
+    <LtxtPwd>Kennwort</LtxtPwd>
+    <LtxtEnter>Betreten</LtxtEnter>
+    <LtxtEntryUidPwd>Bitte geben Sie Ihren Benutzernamen und Kennwort ein</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Falscher Benutzername oder Kennwort, bitte erneut versuchen</LtxtBadUidPwd>
+    <LtxtLng>Sprache</LtxtLng>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Английский(сша)</DoptEngUS>
+    <DoptSpanLA>Испанский(латинская америка)</DoptSpanLA>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DoptHeb>Иврит</DoptHeb>
+    <DtxtInactiveLicServer>Обслужевание лицензии не работает</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>Лицензия олк закончилась</DtxtOLKLicExp>
+    <DtxtNoOLKLic>Лицензия не найдена в сервере олк</DtxtNoOLKLic>
+    <LttlAdmin>Администрация</LttlAdmin>
+    <LtxtUserName>Имя пользователя</LtxtUserName>
+    <LtxtPwd>Пароль </LtxtPwd>
+    <LtxtEnter>Войти</LtxtEnter>
+    <LtxtEntryUidPwd>Пожалуйста, введите имя и пароль  пользователя </LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Неверное имя пользователя или пароль, пожалуйста, попробуйте снова</LtxtBadUidPwd>
+    <LtxtLng>Язык</LtxtLng>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Angličtina (Spojené Státy)</DoptEngUS>
+    <DoptSpanLA>Španělština (Latinská Amerika)</DoptSpanLA>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DoptHeb>Hebrejština</DoptHeb>
+    <DtxtInactiveLicServer>Licenční server neaktivní</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>OLK licence vypršela.</DtxtOLKLicExp>
+    <DtxtNoOLKLic>"Licenční server" nemá licenci OLK.</DtxtNoOLKLic>
+    <LttlAdmin>SPRÁVA</LttlAdmin>
+    <LtxtUserName>Uživatelské jméno</LtxtUserName>
+    <LtxtPwd>Heslo</LtxtPwd>
+    <LtxtEnter>Vstoupit</LtxtEnter>
+    <LtxtEntryUidPwd>Zadejte prosím Vaše uživatelské jméno a heslo</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Chybné uživatelské jméno nebo heslo. Zkuste prosím znovu</LtxtBadUidPwd>
+    <LtxtLng>Jazyk</LtxtLng>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Angielski (Stany Zjednoczone)</DoptEngUS>
+    <DoptSpanLA>Hiszpański (Ameryka Południowa)</DoptSpanLA>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DoptHeb>Hebrajski</DoptHeb>
+    <DtxtInactiveLicServer>Server licencji nieaktywny</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>Licencja OLK  wygasła</DtxtOLKLicExp>
+    <DtxtNoOLKLic>"Serwer licencji" nie ma licencji OLK</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRACJA</LttlAdmin>
+    <LtxtUserName>Nazwa użytkownika</LtxtUserName>
+    <LtxtPwd>Hasło</LtxtPwd>
+    <LtxtEnter>Wejdź</LtxtEnter>
+    <LtxtEntryUidPwd>Proszę wprowadzić Twoja nazwę użytkownika i hasło</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Błędna nazwa użytkownika lub hasło, proszę spróbuj ponownie</LtxtBadUidPwd>
+    <LtxtLng>Język</LtxtLng>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>Angličtina (Spojené štáty americké)</DoptEngUS>
+    <DoptSpanLA>Španielčina (Latinská Amerika)</DoptSpanLA>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DoptHeb>Hebrejčina</DoptHeb>
+    <DtxtInactiveLicServer>Licenčný server neaktívny</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>OLK licencia je expirovaná.</DtxtOLKLicExp>
+    <DtxtNoOLKLic>"Licenčný server" nemá OLK licenciu.</DtxtNoOLKLic>
+    <LttlAdmin>ADMINISTRÁCIA</LttlAdmin>
+    <LtxtUserName>Užívateľské meno</LtxtUserName>
+    <LtxtPwd>Heslo</LtxtPwd>
+    <LtxtEnter>Vstúpiť</LtxtEnter>
+    <LtxtEntryUidPwd>Prosím zadajte svoje užívateľské meno a heslo</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>Nesprávne užívateľské meno alebo heslo, prosím pokúste sa znovu</LtxtBadUidPwd>
+    <LtxtLng>Jazyk</LtxtLng>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>&lt;--&gt;</DoptEngUS>
+    <DoptSpanLA>&lt;--&gt;</DoptSpanLA>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DoptHeb>&lt;--&gt;</DoptHeb>
+    <DtxtInactiveLicServer>&lt;--&gt;</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>&lt;--&gt;</DtxtOLKLicExp>
+    <DtxtNoOLKLic>&lt;--&gt;</DtxtNoOLKLic>
+    <LttlAdmin>&lt;--&gt;</LttlAdmin>
+    <LtxtUserName>&lt;--&gt;</LtxtUserName>
+    <LtxtPwd>&lt;--&gt;</LtxtPwd>
+    <LtxtEnter>&lt;--&gt;</LtxtEnter>
+    <LtxtEntryUidPwd>&lt;--&gt;</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>&lt;--&gt;</LtxtBadUidPwd>
+    <LtxtLng>&lt;--&gt;</LtxtLng>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DoptEngUS>DoptEngUS</DoptEngUS>
+    <DoptSpanLA>DoptSpanLA</DoptSpanLA>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DoptHeb>DoptHeb</DoptHeb>
+    <DtxtInactiveLicServer>DtxtInactiveLicServer</DtxtInactiveLicServer>
+    <DtxtOLKLicExp>DtxtOLKLicExp</DtxtOLKLicExp>
+    <DtxtNoOLKLic>DtxtNoOLKLic</DtxtNoOLKLic>
+    <LttlAdmin>LttlAdmin</LttlAdmin>
+    <LtxtUserName>LtxtUserName</LtxtUserName>
+    <LtxtPwd>LtxtPwd</LtxtPwd>
+    <LtxtEnter>LtxtEnter</LtxtEnter>
+    <LtxtEntryUidPwd>LtxtEntryUidPwd</LtxtEntryUidPwd>
+    <LtxtBadUidPwd>LtxtBadUidPwd</LtxtBadUidPwd>
+    <LtxtLng>LtxtLng</LtxtLng>
+  </language>
+</languages>

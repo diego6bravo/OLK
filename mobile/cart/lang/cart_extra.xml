@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtCompFld>You must complete mandatory fields in order to continue.</DtxtCompFld>
+    <LtxtShopCartDet>Shopping cart - Details</LtxtShopCartDet>
+    <LtxtComments>Comments</LtxtComments>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtPartSupply>Allow partial delivery</LtxtPartSupply>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Update prices according to the price list for the selected payment terms?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Currency</LtxtCurr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtProject>Proyecto</DtxtProject>
+    <DtxtCompFld>Debe completar todos los campos obligatorios antes de poder continuar.</DtxtCompFld>
+    <LtxtShopCartDet>Canasta de compras - Detalles</LtxtShopCartDet>
+    <LtxtComments>Comentarios</LtxtComments>
+    <LtxtPymntCod>Condición de pago</LtxtPymntCod>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+    <LtxtDelDate>Fecha de entrega</LtxtDelDate>
+    <LtxtComDate>Valido Hasta</LtxtComDate>
+    <LtxtPymntDue>A pagar hasta</LtxtPymntDue>
+    <LtxtPartSupply>Permitir entrega parcial</LtxtPartSupply>
+    <LtxtShipAdd>Dirección de envío</LtxtShipAdd>
+    <LtxtPayAdd>Dirección de pago</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>¿Actualizar precios de acuerdo con la lista de precios para las condiciones de pago seleccionadas?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Moneda</LtxtCurr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtFor>ל</DtxtFor>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtProject>פרויקט</DtxtProject>
+    <DtxtCompFld>נא השלם שדות חובה.</DtxtCompFld>
+    <LtxtShopCartDet>סל קניות - פרטים</LtxtShopCartDet>
+    <LtxtComments>הערות</LtxtComments>
+    <LtxtPymntCod>כתובת תשלום</LtxtPymntCod>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+    <LtxtDelDate>תאריך אספקה</LtxtDelDate>
+    <LtxtComDate>תאריך תוקף</LtxtComDate>
+    <LtxtPymntDue>תשלום עד</LtxtPymntDue>
+    <LtxtPartSupply>אפשר אספקה חלקית</LtxtPartSupply>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtPayAdd>כתובת תשלום</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>האם לעדכן מחירים לפני המחירון המקושר לתנאי התשלום שנבחר?</LtxtApplyPListByPTerm>
+    <LtxtCurr>מטבע</LtxtCurr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtCompFld>You must complete mandatory fields in order to continue.</DtxtCompFld>
+    <LtxtShopCartDet>Shopping cart - Details</LtxtShopCartDet>
+    <LtxtComments>Comments</LtxtComments>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtPartSupply>Allow partial delivery</LtxtPartSupply>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Update prices according to the price list for the selected payment terms?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Currency</LtxtCurr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtProject>Projeto</DtxtProject>
+    <DtxtCompFld>Você deve preencher todos os campos obrigatórios antes de continuar.</DtxtCompFld>
+    <LtxtShopCartDet>Carrinho de Compras - Detalhes</LtxtShopCartDet>
+    <LtxtComments>Comentários</LtxtComments>
+    <LtxtPymntCod>Condição de pagamento</LtxtPymntCod>
+    <LtxtValFld>Faltam dados para o campo "{0}"</LtxtValFld>
+    <LtxtDelDate>Data de entrega</LtxtDelDate>
+    <LtxtComDate>Válido até</LtxtComDate>
+    <LtxtPymntDue>Vencimento</LtxtPymntDue>
+    <LtxtPartSupply>Permitir entrega parcial</LtxtPartSupply>
+    <LtxtShipAdd>Endereço de Envio</LtxtShipAdd>
+    <LtxtPayAdd>Endereço de Cobrança</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Atualizar o preço de acordo com a lista de preços para as condições de pagamento selecionados?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Moeda</LtxtCurr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>Pour</DtxtFor>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>&lt;--&gt;</LtxtShopCartDet>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+    <LtxtPymntCod>Condition de paiement</LtxtPymntCod>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+    <LtxtDelDate>Date de livraison</LtxtDelDate>
+    <LtxtComDate>Date de communication</LtxtComDate>
+    <LtxtPymntDue>À payer jusqu'au</LtxtPymntDue>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>&lt;--&gt;</LtxtApplyPListByPTerm>
+    <LtxtCurr>Monnaie</LtxtCurr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Für</DtxtFor>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>&lt;--&gt;</LtxtShopCartDet>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+    <LtxtPymntCod>Zahlungsbedingungen</LtxtPymntCod>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+    <LtxtDelDate>Lieferdatum</LtxtDelDate>
+    <LtxtComDate>Kommunikationsdatum</LtxtComDate>
+    <LtxtPymntDue>Zahlung fällig</LtxtPymntDue>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtShipAdd>Lieferadresse</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>&lt;--&gt;</LtxtApplyPListByPTerm>
+    <LtxtCurr>Währung</LtxtCurr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtFor>для</DtxtFor>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>&lt;--&gt;</LtxtShopCartDet>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+    <LtxtPymntCod>&lt;--&gt;</LtxtPymntCod>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+    <LtxtDelDate>&lt;--&gt;</LtxtDelDate>
+    <LtxtComDate>&lt;--&gt;</LtxtComDate>
+    <LtxtPymntDue>&lt;--&gt;</LtxtPymntDue>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtShipAdd>Адрес доставки</LtxtShipAdd>
+    <LtxtPayAdd>Платежный адрес</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Обновление цен в соответствии с прейскурантом выбранных условий оплаты?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Валюты</LtxtCurr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Pro</DtxtFor>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>Nákupní košík - Podrobnosti</LtxtShopCartDet>
+    <LtxtComments>Komentáře</LtxtComments>
+    <LtxtPymntCod>Platební podmínky</LtxtPymntCod>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+    <LtxtDelDate>Datum dodání</LtxtDelDate>
+    <LtxtComDate>Datum platnosti</LtxtComDate>
+    <LtxtPymntDue>Zaplatit do</LtxtPymntDue>
+    <LtxtPartSupply>Povolit částečnou dodávku</LtxtPartSupply>
+    <LtxtShipAdd>Dodací adresa</LtxtShipAdd>
+    <LtxtPayAdd>Adresa pro platbu</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Aktualizovat ceny podle ceníku pro vybrané platební podmínky?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Měna</LtxtCurr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Dla</DtxtFor>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>Koszyk - szczegóły</LtxtShopCartDet>
+    <LtxtComments>Uwagi</LtxtComments>
+    <LtxtPymntCod>Warunki płatności</LtxtPymntCod>
+    <LtxtValFld>Proszę wprowadź pole {0]</LtxtValFld>
+    <LtxtDelDate>Data dostawy</LtxtDelDate>
+    <LtxtComDate>Data prawidłowa</LtxtComDate>
+    <LtxtPymntDue>Należna płatność</LtxtPymntDue>
+    <LtxtPartSupply>Zezwól na częściowa dostawę</LtxtPartSupply>
+    <LtxtShipAdd>Adres do wysyłki</LtxtShipAdd>
+    <LtxtPayAdd>Adres do faktury</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Zaktualizować ceny zgodnie z cennikiem dla wybranych warunków płatności?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Waluta</LtxtCurr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtFor>Pre</DtxtFor>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>Nákupný košík - Podrobnosti</LtxtShopCartDet>
+    <LtxtComments>Komentáre</LtxtComments>
+    <LtxtPymntCod>Platobné podmienky</LtxtPymntCod>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+    <LtxtDelDate>Dátum dodania</LtxtDelDate>
+    <LtxtComDate>Platný dátum</LtxtComDate>
+    <LtxtPymntDue>Splatnosť</LtxtPymntDue>
+    <LtxtPartSupply>Povoliť čiastkovú dodávku</LtxtPartSupply>
+    <LtxtShipAdd>Doručovacia adresa</LtxtShipAdd>
+    <LtxtPayAdd>Platobná adresa</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>Aktualizovať ceny podľa cenníka pre zvolené platobné podmienky?</LtxtApplyPListByPTerm>
+    <LtxtCurr>Mena</LtxtCurr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtFor>&lt;--&gt;</DtxtFor>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtCompFld>&lt;--&gt;</DtxtCompFld>
+    <LtxtShopCartDet>&lt;--&gt;</LtxtShopCartDet>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+    <LtxtPymntCod>&lt;--&gt;</LtxtPymntCod>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+    <LtxtDelDate>&lt;--&gt;</LtxtDelDate>
+    <LtxtComDate>&lt;--&gt;</LtxtComDate>
+    <LtxtPymntDue>&lt;--&gt;</LtxtPymntDue>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtShipAdd>&lt;--&gt;</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>&lt;--&gt;</LtxtApplyPListByPTerm>
+    <LtxtCurr>&lt;--&gt;</LtxtCurr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtFor>DtxtFor</DtxtFor>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtProject>DtxtProject</DtxtProject>
+    <DtxtCompFld>DtxtCompFld</DtxtCompFld>
+    <LtxtShopCartDet>LtxtShopCartDet</LtxtShopCartDet>
+    <LtxtComments>LtxtComments</LtxtComments>
+    <LtxtPymntCod>LtxtPymntCod</LtxtPymntCod>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+    <LtxtDelDate>LtxtDelDate</LtxtDelDate>
+    <LtxtComDate>LtxtComDate</LtxtComDate>
+    <LtxtPymntDue>LtxtPymntDue</LtxtPymntDue>
+    <LtxtPartSupply>LtxtPartSupply</LtxtPartSupply>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtPayAdd>LtxtPayAdd</LtxtPayAdd>
+    <LtxtApplyPListByPTerm>LtxtApplyPListByPTerm</LtxtApplyPListByPTerm>
+    <LtxtCurr>LtxtCurr</LtxtCurr>
+  </language>
+</languages>

@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtAlphaNumeric>Alphanumeric</DtxtAlphaNumeric>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtAddObj>Add Object</LtxtAddObj>
+    <LtxtEditObj>Edit Object</LtxtEditObj>
+    <LtxtObjNote>Here system objects may be customized.</LtxtObjNote>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtValRestoreFld>If you restore the object any changes made will be lost.\nDo you wish to continue?\n</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtPreview>Vista Previa</DtxtPreview>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtAlphaNumeric>Alfanumérico</DtxtAlphaNumeric>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LtxtAddObj>Agregar Objeto</LtxtAddObj>
+    <LtxtEditObj>Editar Objeto</LtxtEditObj>
+    <LtxtObjNote>En esta sección podrá personalizar los objetos del sistema.</LtxtObjNote>
+    <LtxtContent>Contenido</LtxtContent>
+    <LtxtValRestoreFld>Al restaurar el objeto perderá todos los cambios que ha realizado. ¿Desea continuar?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtType>סוג</DtxtType>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtPreview>תצוגה מוקדמת</DtxtPreview>
+    <DtxtNumeric>נומרי</DtxtNumeric>
+    <DtxtAlphaNumeric>אלפבתי</DtxtAlphaNumeric>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LtxtAddObj>הוסף אובייקט</LtxtAddObj>
+    <LtxtEditObj>ערוך אובייקט</LtxtEditObj>
+    <LtxtObjNote>בחלק זה תוכל לערוך אובייקטים של האתר</LtxtObjNote>
+    <LtxtContent>תוכן</LtxtContent>
+    <LtxtValRestoreFld>שיחזור אובייקט ייאבד את כל השינויים שביצעת. המשך?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtAlphaNumeric>Alphanumeric</DtxtAlphaNumeric>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtAddObj>Add Object</LtxtAddObj>
+    <LtxtEditObj>Edit Object</LtxtEditObj>
+    <LtxtObjNote>Here system objects may be customized.</LtxtObjNote>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtValRestoreFld>If you restore the object any changes made will be lost.\nDo you wish to continue?\n</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtPreview>Pré Visualizar</DtxtPreview>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtAlphaNumeric>Alfanumérico</DtxtAlphaNumeric>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LtxtAddObj>Adicionar Objeto</LtxtAddObj>
+    <LtxtEditObj>Editar Objeto</LtxtEditObj>
+    <LtxtObjNote>Nesta seção, os objetos do sistema podem ser personalizados.</LtxtObjNote>
+    <LtxtContent>Conteúdo</LtxtContent>
+    <LtxtValRestoreFld>Se você restaurar o objeto, algumas modificações feitas serão perdidas. Deseja continuar?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtPreview>Vue préalable</DtxtPreview>
+    <DtxtNumeric>Numérique</DtxtNumeric>
+    <DtxtAlphaNumeric>Alphanumérique</DtxtAlphaNumeric>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LtxtAddObj>Ajouter l'object</LtxtAddObj>
+    <LtxtEditObj>Éditer l'object</LtxtEditObj>
+    <LtxtObjNote>Dans cette section vous pourrez personnaliser les objects du système</LtxtObjNote>
+    <LtxtContent>Contenu</LtxtContent>
+    <LtxtValRestoreFld>Au moment de restaurer l\'object vous perdrez tous les modifications que vous avez fait. Veuillez-vous continuer?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtType>Art</DtxtType>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtPreview>Vorschau</DtxtPreview>
+    <DtxtNumeric>Numerisch</DtxtNumeric>
+    <DtxtAlphaNumeric>Alphanumerisch</DtxtAlphaNumeric>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LtxtAddObj>Objekt hinzufügen</LtxtAddObj>
+    <LtxtEditObj>Objekt bearbeiten</LtxtEditObj>
+    <LtxtObjNote>In diesem Teil können Sie die Objekte im System individuell gestalten.</LtxtObjNote>
+    <LtxtContent>Inhalt</LtxtContent>
+    <LtxtValRestoreFld>Wenn Sie das Objekt wiederherstellen werden alle Änderungen gelöscht. Möchten Sie fortfahren?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtType>Вид</DtxtType>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtPreview>Досрочная экспозиция</DtxtPreview>
+    <DtxtNumeric>Числовой</DtxtNumeric>
+    <DtxtAlphaNumeric>Алфавит</DtxtAlphaNumeric>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LtxtAddObj>Вставить объект</LtxtAddObj>
+    <LtxtEditObj>Изменение объекта</LtxtEditObj>
+    <LtxtObjNote>В этом разделе вы можете редактировать объект сайта</LtxtObjNote>
+    <LtxtContent>Содержание</LtxtContent>
+    <LtxtValRestoreFld>Реконструкция объекта удалит  все изменения . Продолжить?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtPreview>Náhled</DtxtPreview>
+    <DtxtNumeric>Číselné</DtxtNumeric>
+    <DtxtAlphaNumeric>Alfanumerické</DtxtAlphaNumeric>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LtxtAddObj>Přidat objekt</LtxtAddObj>
+    <LtxtEditObj>Upravit object</LtxtEditObj>
+    <LtxtObjNote>V této sekci bude možné personalizovat objekty systému.</LtxtObjNote>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtValRestoreFld>Pokud obnovíte tento objekt, ztratíte všechny změny, které jste provedl/a. Určitě chcete pokračovat?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtPreview>Podgląd</DtxtPreview>
+    <DtxtNumeric>Numeryczny</DtxtNumeric>
+    <DtxtAlphaNumeric>Alfabetyczny</DtxtAlphaNumeric>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LtxtAddObj>Dodaj przedmiot</LtxtAddObj>
+    <LtxtEditObj>Edytuj przedmiot</LtxtEditObj>
+    <LtxtObjNote>Tutaj można zindywidualizować przedmioty systemu</LtxtObjNote>
+    <LtxtContent>Treść</LtxtContent>
+    <LtxtValRestoreFld>Jeśli przywrócisz ten przedmiot wszelkie zmiany zostaną utracone. Czy chcesz kontynuować?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtPreview>Náhľad</DtxtPreview>
+    <DtxtNumeric>Číselný</DtxtNumeric>
+    <DtxtAlphaNumeric>Abecedno-číselné</DtxtAlphaNumeric>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LtxtAddObj>Pridať objekt</LtxtAddObj>
+    <LtxtEditObj>Editovať objekt</LtxtEditObj>
+    <LtxtObjNote>Tu sa dajú prispôsobiť systémové objekty.</LtxtObjNote>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtValRestoreFld>Ak objekt obnovíte, akékoľvek uskutočnené zmeny budú stratené.\nPrajete si pokračovať?</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtRestore>&lt;--&gt;</DtxtRestore>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtPreview>&lt;--&gt;</DtxtPreview>
+    <DtxtNumeric>&lt;--&gt;</DtxtNumeric>
+    <DtxtAlphaNumeric>&lt;--&gt;</DtxtAlphaNumeric>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <LtxtAddObj>&lt;--&gt;</LtxtAddObj>
+    <LtxtEditObj>&lt;--&gt;</LtxtEditObj>
+    <LtxtObjNote>&lt;--&gt;</LtxtObjNote>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtValRestoreFld>&lt;--&gt;</LtxtValRestoreFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtPreview>DtxtPreview</DtxtPreview>
+    <DtxtNumeric>DtxtNumeric</DtxtNumeric>
+    <DtxtAlphaNumeric>DtxtAlphaNumeric</DtxtAlphaNumeric>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LtxtAddObj>LtxtAddObj</LtxtAddObj>
+    <LtxtEditObj>LtxtEditObj</LtxtEditObj>
+    <LtxtObjNote>LtxtObjNote</LtxtObjNote>
+    <LtxtContent>LtxtContent</LtxtContent>
+    <LtxtValRestoreFld>LtxtValRestoreFld</LtxtValRestoreFld>
+  </language>
+</languages>

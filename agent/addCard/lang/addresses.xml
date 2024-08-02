@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>State</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtShipAdd>Shipping Addresses</LtxtShipAdd>
+    <LtxtBillAdd>Billing Addresses</LtxtBillAdd>
+    <LtxtDoSel>Make your selection</LtxtDoSel>
+    <LtxtAddAddress>Add Address</LtxtAddAddress>
+    <LtxtStreet>Street / P.O. Box</LtxtStreet>
+    <LtxtBlock>Block</LtxtBlock>
+    <LtxtPostalCode>Zip Code</LtxtPostalCode>
+    <LtxtCounty>County</LtxtCounty>
+    <LtxtValNam>Please enter name of address</LtxtValNam>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtConfDel>Are you sure your want to remove the address {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Set as default</LtxtSetAsDef>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LtxtShipAdd>Direcciones de Envío</LtxtShipAdd>
+    <LtxtBillAdd>Direcciones de Pago</LtxtBillAdd>
+    <LtxtDoSel>Haga su selección</LtxtDoSel>
+    <LtxtAddAddress>Agregar Dirección</LtxtAddAddress>
+    <LtxtStreet>Calle / Apto. postal</LtxtStreet>
+    <LtxtBlock>Cuadra</LtxtBlock>
+    <LtxtPostalCode>Código postal</LtxtPostalCode>
+    <LtxtCounty>Distrito</LtxtCounty>
+    <LtxtValNam>Debe introducir el nombre de la dirección</LtxtValNam>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtConfDel>¿Está seguro que desea eliminar la dirección {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Establecer como predeterminado</LtxtSetAsDef>
+    <LtxtTaxCode>Indicador de impuesto</LtxtTaxCode>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtBillAdd>כתובת תשלום</LtxtBillAdd>
+    <LtxtDoSel>בחר מרשימה</LtxtDoSel>
+    <LtxtAddAddress>הוסף כתובת</LtxtAddAddress>
+    <LtxtStreet>רחוב \ תא דואר</LtxtStreet>
+    <LtxtBlock>בניין</LtxtBlock>
+    <LtxtPostalCode>מיקוד</LtxtPostalCode>
+    <LtxtCounty>מחוז</LtxtCounty>
+    <LtxtValNam>צריך לתת שם לכתובת</LtxtValNam>
+    <LtxtDelete>מחק</LtxtDelete>
+    <LtxtConfDel>האם למחוק כתובת {0}?</LtxtConfDel>
+    <LtxtSetAsDef>קבע כברירת מחדל</LtxtSetAsDef>
+    <LtxtTaxCode>קוד מס</LtxtTaxCode>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>County</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtShipAdd>Shipping Addresses</LtxtShipAdd>
+    <LtxtBillAdd>Billing Addresses</LtxtBillAdd>
+    <LtxtDoSel>Make your selection</LtxtDoSel>
+    <LtxtAddAddress>Add Address</LtxtAddAddress>
+    <LtxtStreet>Street / P.O. Box</LtxtStreet>
+    <LtxtBlock>Block</LtxtBlock>
+    <LtxtPostalCode>Zip Code</LtxtPostalCode>
+    <LtxtCounty>County</LtxtCounty>
+    <LtxtValNam>Please enter name of address</LtxtValNam>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtConfDel>Are you sure your want to remove the address {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Set as default</LtxtSetAsDef>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LtxtShipAdd>Endereços de Envio</LtxtShipAdd>
+    <LtxtBillAdd>Endereço de Pagamento</LtxtBillAdd>
+    <LtxtDoSel>Faça sua seleção</LtxtDoSel>
+    <LtxtAddAddress>Adicionar Endereço</LtxtAddAddress>
+    <LtxtStreet>Rua / Caixa Postal</LtxtStreet>
+    <LtxtBlock>Quadra</LtxtBlock>
+    <LtxtPostalCode>CEP</LtxtPostalCode>
+    <LtxtCounty>Estado</LtxtCounty>
+    <LtxtValNam>Por favor, insira o endereço</LtxtValNam>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtConfDel>Tem certeza que desejas excluir o endereço {0} ?</LtxtConfDel>
+    <LtxtSetAsDef>Definir como padrão</LtxtSetAsDef>
+    <LtxtTaxCode>Indicador de Imposto</LtxtTaxCode>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtState>État</DtxtState>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtBillAdd>Adresse de paiement</LtxtBillAdd>
+    <LtxtDoSel>Faites-vous votre sélection</LtxtDoSel>
+    <LtxtAddAddress>&lt;--&gt;</LtxtAddAddress>
+    <LtxtStreet>Rue / Boîte Postale</LtxtStreet>
+    <LtxtBlock>Bloc</LtxtBlock>
+    <LtxtPostalCode>Code postal</LtxtPostalCode>
+    <LtxtCounty>Quartier</LtxtCounty>
+    <LtxtValNam>S.V.P. insérer le nom de l'adresse</LtxtValNam>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LtxtShipAdd>Versandadresse</LtxtShipAdd>
+    <LtxtBillAdd>Rechnungsadresse</LtxtBillAdd>
+    <LtxtDoSel>Machen Sie eine Auswahl</LtxtDoSel>
+    <LtxtAddAddress>&lt;--&gt;</LtxtAddAddress>
+    <LtxtStreet>Strasse/Postfach</LtxtStreet>
+    <LtxtBlock>Blockieren</LtxtBlock>
+    <LtxtPostalCode>Postleitzahl</LtxtPostalCode>
+    <LtxtCounty>Bezirk</LtxtCounty>
+    <LtxtValNam>Bitte geben Sie den Namen der Adresse ein</LtxtValNam>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtSetAsDef>&lt;--&gt;</LtxtSetAsDef>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtState>Государство</DtxtState>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LtxtShipAdd>Адреса доставки</LtxtShipAdd>
+    <LtxtBillAdd>Платежный адрес</LtxtBillAdd>
+    <LtxtDoSel>Выбрать из списка</LtxtDoSel>
+    <LtxtAddAddress>Добавить адрес.</LtxtAddAddress>
+    <LtxtStreet>Улица / почтовый адрес</LtxtStreet>
+    <LtxtBlock>Блок</LtxtBlock>
+    <LtxtPostalCode>Индекс</LtxtPostalCode>
+    <LtxtCounty>Страна</LtxtCounty>
+    <LtxtValNam>Пожалуйста,дать имя адресу</LtxtValNam>
+    <LtxtDelete>Стереть</LtxtDelete>
+    <LtxtConfDel>Вы уверены, что Вы захотите удалить адреса {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Установить по умолчанию</LtxtSetAsDef>
+    <LtxtTaxCode>Налоговый код</LtxtTaxCode>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtState>Stát</DtxtState>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LtxtShipAdd>Dodací adresy</LtxtShipAdd>
+    <LtxtBillAdd>Fakturační adresy</LtxtBillAdd>
+    <LtxtDoSel>Vyberte</LtxtDoSel>
+    <LtxtAddAddress>Přidat adresu</LtxtAddAddress>
+    <LtxtStreet>Ulice / P.O. Box</LtxtStreet>
+    <LtxtBlock>Blok</LtxtBlock>
+    <LtxtPostalCode>PSČ</LtxtPostalCode>
+    <LtxtCounty>Hrabství</LtxtCounty>
+    <LtxtValNam>Zadejte prosím název adresy</LtxtValNam>
+    <LtxtDelete>Vymazat</LtxtDelete>
+    <LtxtConfDel>Jste si jistý/á, že chcete odebrat adresu {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Nastavit jako výchozí</LtxtSetAsDef>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LtxtShipAdd>Adres wysyłkowy</LtxtShipAdd>
+    <LtxtBillAdd>Adres do faktury</LtxtBillAdd>
+    <LtxtDoSel>Dokonaj wyboru</LtxtDoSel>
+    <LtxtAddAddress>Dodaj adres</LtxtAddAddress>
+    <LtxtStreet>Ulica/ Skrytka pocztowa</LtxtStreet>
+    <LtxtBlock>Budynek/numer domu</LtxtBlock>
+    <LtxtPostalCode>Kod pocztowy</LtxtPostalCode>
+    <LtxtCounty>Kraj</LtxtCounty>
+    <LtxtValNam>Proszę wprowadź nazwę adresu</LtxtValNam>
+    <LtxtDelete>Kasuj</LtxtDelete>
+    <LtxtConfDel>Czy jesteś pewien, że chcesz usunąć adres {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Ustaw jako domyślny</LtxtSetAsDef>
+    <LtxtTaxCode>Kod podatkowy</LtxtTaxCode>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtState>Štát</DtxtState>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LtxtShipAdd>Dodacie adresy</LtxtShipAdd>
+    <LtxtBillAdd>Fakturačná adresa</LtxtBillAdd>
+    <LtxtDoSel>Spravte svoj výber</LtxtDoSel>
+    <LtxtAddAddress>Pridať adresu</LtxtAddAddress>
+    <LtxtStreet>Ulica / P.O. Box</LtxtStreet>
+    <LtxtBlock>Zablokovať</LtxtBlock>
+    <LtxtPostalCode>Poštové smerovacie číslo</LtxtPostalCode>
+    <LtxtCounty>Kraj</LtxtCounty>
+    <LtxtValNam>Prosím zadajte názov adresy</LtxtValNam>
+    <LtxtDelete>Zmazať</LtxtDelete>
+    <LtxtConfDel>Ste si istí, že chcete odstrániť adresu {0}?</LtxtConfDel>
+    <LtxtSetAsDef>Nastaviť ako východiskové</LtxtSetAsDef>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtBillAdd>LtxtBillAdd</LtxtBillAdd>
+    <LtxtDoSel>LtxtDoSel</LtxtDoSel>
+    <LtxtAddAddress>LtxtAddAddress</LtxtAddAddress>
+    <LtxtStreet>LtxtStreet</LtxtStreet>
+    <LtxtBlock>LtxtBlock</LtxtBlock>
+    <LtxtPostalCode>LtxtPostalCode</LtxtPostalCode>
+    <LtxtCounty>LtxtCounty</LtxtCounty>
+    <LtxtValNam>LtxtValNam</LtxtValNam>
+    <LtxtDelete>LtxtDelete</LtxtDelete>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtSetAsDef>LtxtSetAsDef</LtxtSetAsDef>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+  </language>
+</languages>

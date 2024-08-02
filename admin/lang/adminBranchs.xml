@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtValBranchNam>Please enter the branch name </LtxtValBranchNam>
+    <LtxtValWhs>Please select a warehouse</LtxtValWhs>
+    <LttlAddBranch>Add Branch</LttlAddBranch>
+    <LttlAddBranchNote>Here the administrator may define and edit the branches of the company for OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Edit Branch</LttlEditBranch>
+    <LttlEditBranchNote>Here the information of the selected branch may be edited.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Are you sure you want to delete the branch {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LtxtValBranchNam>Debe introducir el nombre de la sucursal</LtxtValBranchNam>
+    <LtxtValWhs>Debe seleccionar el almacén</LtxtValWhs>
+    <LttlAddBranch>Agregar Sucursal</LttlAddBranch>
+    <LttlAddBranchNote>En esta sección podrá definir las sucursales de la compañía para el OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Editar Sucursal</LttlEditBranch>
+    <LttlEditBranchNote>En esta sección podrá editar la información de la sucursal que seleccione.</LttlEditBranchNote>
+    <LtxtConfDelBranch>¿Está seguro que desea eliminar la sucursal {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LtxtValBranchNam>צריך לתת שם לסניף!</LtxtValBranchNam>
+    <LtxtValWhs>צריך לבחור מחסן!</LtxtValWhs>
+    <LttlAddBranch>הוסף סניף</LttlAddBranch>
+    <LttlAddBranchNote>בחלק זה תוכל להגדיר את הסניפים הפעילים באתר</LttlAddBranchNote>
+    <LttlEditBranch>ניהול סניף</LttlEditBranch>
+    <LttlEditBranchNote>בחלק זה תוכל לבחור את הסניפים לניהול</LttlEditBranchNote>
+    <LtxtConfDelBranch>האם למחוק סניף {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LtxtValBranchNam>Please enter the branch name </LtxtValBranchNam>
+    <LtxtValWhs>Please select a warehouse</LtxtValWhs>
+    <LttlAddBranch>Add Branch</LttlAddBranch>
+    <LttlAddBranchNote>Here the administrator may define and edit the branches of the company for OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Edit Branch</LttlEditBranch>
+    <LttlEditBranchNote>Here the information of the selected branch may be edited.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Are you sure you want to delete the branch {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LtxtValBranchNam>Por favor, insira o nome da filial.</LtxtValBranchNam>
+    <LtxtValWhs>Por favor, selecione um armazém.</LtxtValWhs>
+    <LttlAddBranch>Adicionar Filial</LttlAddBranch>
+    <LttlAddBranchNote>Nesta seção, o administrador pode definir e editar as filiais da empresa para o OnlineKit.</LttlAddBranchNote>
+    <LttlEditBranch>Editar Filial</LttlEditBranch>
+    <LttlEditBranchNote>Nesta seção, pode ser editada a informação da filial selecionada.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Você tem certeza que deseja excluir a filial {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LtxtValBranchNam>Devez-vous insérer le nom de la succursale</LtxtValBranchNam>
+    <LtxtValWhs>Devez-vous sélectionner le magasin</LtxtValWhs>
+    <LttlAddBranch>Ajouter la succursale</LttlAddBranch>
+    <LttlAddBranchNote>Dans cette section vous pourrez déterminer les succursales de la compagnie pour le OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Éditer la succursale</LttlEditBranch>
+    <LttlEditBranchNote>Dans cette section vous pourrez éditer l'information de la succursale à votre sélection.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Êtes-vous sûre d\'éliminer la succursale {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LtxtValBranchNam>Bitte geben Sie den Zweignamen an</LtxtValBranchNam>
+    <LtxtValWhs>Bitte wählen Sie ein Lagerhaus</LtxtValWhs>
+    <LttlAddBranch>Zweig hinzufügen</LttlAddBranch>
+    <LttlAddBranchNote>In diesem Bereich kann der Administrator die Zweige der Firma, für den OLK, festlegen.</LttlAddBranchNote>
+    <LttlEditBranch>Zweig bearbeiten</LttlEditBranch>
+    <LttlEditBranchNote>In diesem Bereich können die Daten der ausgewählten Zweige bearbeitet werden.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Möchten Sie den Zweig {0} wirklich löschen?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LtxtValBranchNam>Нужно присвоить название филиала!</LtxtValBranchNam>
+    <LtxtValWhs>Необходимо выбрать  склад!</LtxtValWhs>
+    <LttlAddBranch>Добавить отделение</LttlAddBranch>
+    <LttlAddBranchNote>В этом разделе вы можете установить рабочие филиалы</LttlAddBranchNote>
+    <LttlEditBranch>Управление отделением</LttlEditBranch>
+    <LttlEditBranchNote>В этом разделе вы можете выбрать руководство филиалом
+
+
+</LttlEditBranchNote>
+    <LtxtConfDelBranch>Или стереть филиал\n{0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LtxtValBranchNam>Zadejte prosím název pobočky</LtxtValBranchNam>
+    <LtxtValWhs>Vyberte prosím sklad</LtxtValWhs>
+    <LttlAddBranch>Přidat pobočku</LttlAddBranch>
+    <LttlAddBranchNote>Zde může administrátor vytvářet a upravovat pobočky společnosti pro OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Upravit pobočku</LttlEditBranch>
+    <LttlEditBranchNote>V této sekci bude možné upravovat informace o vybrané pobočce.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Jste si jistý/á, že chcete vymazat pobočku {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LtxtValBranchNam>Proszę wprowadź nazwę partii</LtxtValBranchNam>
+    <LtxtValWhs>Proszę wybierz magazyn</LtxtValWhs>
+    <LttlAddBranch>Dodaj Partię</LttlAddBranch>
+    <LttlAddBranchNote>Tutaj administrator może definiować i edytować oddziały firmy dla OLK</LttlAddBranchNote>
+    <LttlEditBranch>Edytuj Partię</LttlEditBranch>
+    <LttlEditBranchNote>Tutaj informacje na temat wybranego oddziału mogą być edytowane</LttlEditBranchNote>
+    <LtxtConfDelBranch>Czy jesteś pewien, że chcesz skasować oddział {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LtxtValBranchNam>Prosím zadajte názov pobočky</LtxtValBranchNam>
+    <LtxtValWhs>Prosím, vyberte sklad</LtxtValWhs>
+    <LttlAddBranch>Pridať pobočku</LttlAddBranch>
+    <LttlAddBranchNote>Tu môže administrátor definovať a editovať pobočky spoločnosti pre OLK.</LttlAddBranchNote>
+    <LttlEditBranch>Editovať pobočku</LttlEditBranch>
+    <LttlEditBranchNote>Tu sa dajú editovať informácie vybraných pobočiek.</LttlEditBranchNote>
+    <LtxtConfDelBranch>Ste si istí, že chcete vymazať pobočku {0}?</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LtxtValBranchNam>&lt;--&gt;</LtxtValBranchNam>
+    <LtxtValWhs>&lt;--&gt;</LtxtValWhs>
+    <LttlAddBranch>&lt;--&gt;</LttlAddBranch>
+    <LttlAddBranchNote>&lt;--&gt;</LttlAddBranchNote>
+    <LttlEditBranch>&lt;--&gt;</LttlEditBranch>
+    <LttlEditBranchNote>&lt;--&gt;</LttlEditBranchNote>
+    <LtxtConfDelBranch>&lt;--&gt;</LtxtConfDelBranch>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LtxtValBranchNam>LtxtValBranchNam</LtxtValBranchNam>
+    <LtxtValWhs>LtxtValWhs</LtxtValWhs>
+    <LttlAddBranch>LttlAddBranch</LttlAddBranch>
+    <LttlAddBranchNote>LttlAddBranchNote</LttlAddBranchNote>
+    <LttlEditBranch>LttlEditBranch</LttlEditBranch>
+    <LttlEditBranchNote>LttlEditBranchNote</LttlEditBranchNote>
+    <LtxtConfDelBranch>LtxtConfDelBranch</LtxtConfDelBranch>
+  </language>
+</languages>

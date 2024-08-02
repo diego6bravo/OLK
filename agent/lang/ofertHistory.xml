@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtState>State</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LttlHisOfert>History of {0} for item {1}</LttlHisOfert>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtHour>Hour</LtxtHour>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtBack>Regresar</DtxtBack>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprobado</DtxtAproved>
+    <DtxtAnuled>Anulado</DtxtAnuled>
+    <DtxtCounter>Contra</DtxtCounter>
+    <DtxtReject>Rechazar</DtxtReject>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <LttlHisOfert>Historial de {0} para artículo {1}</LttlHisOfert>
+    <LtxtPurchase>Comprar</LtxtPurchase>
+    <LtxtBasePrice>Precio Base</LtxtBasePrice>
+    <LtxtResp>Respuesta</LtxtResp>
+    <LtxtHour>Hora</LtxtHour>
+    <LtxtLimit>Límite</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtBack>חזור</DtxtBack>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtWaiting>בהמתנה</DtxtWaiting>
+    <DtxtAproved>מאושר</DtxtAproved>
+    <DtxtAnuled>מבוטל</DtxtAnuled>
+    <DtxtCounter>נגד</DtxtCounter>
+    <DtxtReject>לא מאשר</DtxtReject>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <LttlHisOfert>{0} - היסטוריה של פריט {1}</LttlHisOfert>
+    <LtxtPurchase>קנה</LtxtPurchase>
+    <LtxtBasePrice>מחיר בסיס</LtxtBasePrice>
+    <LtxtResp>תשובה</LtxtResp>
+    <LtxtHour>שעה</LtxtHour>
+    <LtxtLimit>מקסימום</LtxtLimit>
+    <LformatNewOffer>{1} חדשה</LformatNewOffer>
+    <LformatCounterOffer>{1} נגדית</LformatCounterOffer>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtState>County</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LttlHisOfert>History of {0} for item {1}</LttlHisOfert>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtHour>Hour</LtxtHour>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtBack>Retornar</DtxtBack>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprovado</DtxtAproved>
+    <DtxtAnuled>Cancelado</DtxtAnuled>
+    <DtxtCounter>Contador</DtxtCounter>
+    <DtxtReject>Recusar</DtxtReject>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <LttlHisOfert>Historial</LttlHisOfert>
+    <LtxtPurchase>Comprar</LtxtPurchase>
+    <LtxtBasePrice>Preço</LtxtBasePrice>
+    <LtxtResp>Resposta</LtxtResp>
+    <LtxtHour>Hora</LtxtHour>
+    <LtxtLimit>Limite</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtState>État</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtBack>Revenir</DtxtBack>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtWaiting>En attendant</DtxtWaiting>
+    <DtxtAproved>Approuvé</DtxtAproved>
+    <DtxtAnuled>Annulé</DtxtAnuled>
+    <DtxtCounter>vis à vis (contre, en face)</DtxtCounter>
+    <DtxtReject>Rejeter</DtxtReject>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <LttlHisOfert>Historique de {0} pour l'article {1}</LttlHisOfert>
+    <LtxtPurchase>Acheter</LtxtPurchase>
+    <LtxtBasePrice>Prix base</LtxtBasePrice>
+    <LtxtResp>Réponse</LtxtResp>
+    <LtxtHour>Heure</LtxtHour>
+    <LtxtLimit>Limite</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtBack>Zurück</DtxtBack>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtWaiting>Wartend</DtxtWaiting>
+    <DtxtAproved>Genehmigt</DtxtAproved>
+    <DtxtAnuled>Annulliert</DtxtAnuled>
+    <DtxtCounter>Zähler</DtxtCounter>
+    <DtxtReject>Ablehnen</DtxtReject>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <LttlHisOfert>Geschichte von {0} für Artikel {1}</LttlHisOfert>
+    <LtxtPurchase>Ankauf</LtxtPurchase>
+    <LtxtBasePrice>Basispreis</LtxtBasePrice>
+    <LtxtResp>Rückmeldung</LtxtResp>
+    <LtxtHour>Stunde</LtxtHour>
+    <LtxtLimit>Grenze</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtState>Государство</DtxtState>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtBack>Назад</DtxtBack>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtWaiting>Рассматриеваемый</DtxtWaiting>
+    <DtxtAproved>Подтверждён</DtxtAproved>
+    <DtxtAnuled>Отменён</DtxtAnuled>
+    <DtxtCounter>Против</DtxtCounter>
+    <DtxtReject>Отклонить</DtxtReject>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <LttlHisOfert>{0} - история детали {1}</LttlHisOfert>
+    <LtxtPurchase>Покупка</LtxtPurchase>
+    <LtxtBasePrice>Базовая цена</LtxtBasePrice>
+    <LtxtResp>Ответ</LtxtResp>
+    <LtxtHour>Час</LtxtHour>
+    <LtxtLimit>Максимум</LtxtLimit>
+    <LformatNewOffer>{1}новый</LformatNewOffer>
+    <LformatCounterOffer>{1}противоположный</LformatCounterOffer>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtState>Stát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtBack>Zpět</DtxtBack>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtWaiting>Čekání</DtxtWaiting>
+    <DtxtAproved>Schváleno</DtxtAproved>
+    <DtxtAnuled>Zrušeno</DtxtAnuled>
+    <DtxtCounter>Protinávrh</DtxtCounter>
+    <DtxtReject>Zamítnout</DtxtReject>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <LttlHisOfert>Historie {0} pro položku {1}</LttlHisOfert>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtBasePrice>Základní cena</LtxtBasePrice>
+    <LtxtResp>Odpověď</LtxtResp>
+    <LtxtHour>Hodina</LtxtHour>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtBack>Wróć</DtxtBack>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtWaiting>Oczekujący</DtxtWaiting>
+    <DtxtAproved>Zatwierdzony</DtxtAproved>
+    <DtxtAnuled>Anulowany</DtxtAnuled>
+    <DtxtCounter>Przeciwny</DtxtCounter>
+    <DtxtReject>Odrzuć</DtxtReject>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <LttlHisOfert>Historia  {0} dla pozycji {1}</LttlHisOfert>
+    <LtxtPurchase>Zakup</LtxtPurchase>
+    <LtxtBasePrice>Cena podstawowa</LtxtBasePrice>
+    <LtxtResp>Odpowiedź</LtxtResp>
+    <LtxtHour>Godzina</LtxtHour>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtState>Štát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtBack>Späť</DtxtBack>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtWaiting>Čaká</DtxtWaiting>
+    <DtxtAproved>Schválené</DtxtAproved>
+    <DtxtAnuled>Anulované</DtxtAnuled>
+    <DtxtCounter>Pokladňa</DtxtCounter>
+    <DtxtReject>Zamietnuť</DtxtReject>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <LttlHisOfert>História {0} pre položku {1}</LttlHisOfert>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtBasePrice>Základná cena</LtxtBasePrice>
+    <LtxtResp>Odpoveď</LtxtResp>
+    <LtxtHour>Hodina</LtxtHour>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LformatNewOffer>{0} {1}</LformatNewOffer>
+    <LformatCounterOffer>{0} {1}</LformatCounterOffer>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtBack>DtxtBack</DtxtBack>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtWaiting>DtxtWaiting</DtxtWaiting>
+    <DtxtAproved>DtxtAproved</DtxtAproved>
+    <DtxtAnuled>DtxtAnuled</DtxtAnuled>
+    <DtxtCounter>DtxtCounter</DtxtCounter>
+    <DtxtReject>DtxtReject</DtxtReject>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <LttlHisOfert>LttlHisOfert</LttlHisOfert>
+    <LtxtPurchase>LtxtPurchase</LtxtPurchase>
+    <LtxtBasePrice>LtxtBasePrice</LtxtBasePrice>
+    <LtxtResp>LtxtResp</LtxtResp>
+    <LtxtHour>LtxtHour</LtxtHour>
+    <LtxtLimit>LtxtLimit</LtxtLimit>
+    <LformatNewOffer>LformatNewOffer</LformatNewOffer>
+    <LformatCounterOffer>LformatCounterOffer</LformatCounterOffer>
+  </language>
+</languages>

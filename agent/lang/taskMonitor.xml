@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <LtxtTaskMon>Task Monitor</LtxtTaskMon>
+    <LtxtPendObjToConf>Total objects waiting for confirmation</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Anonymous session registrations waiting for confirmation</LtxtAnonRegAct>
+    <LtxtOpenActivities>Open activities</LtxtOpenActivities>
+    <LtxtNextActivity>Next activity</LtxtNextActivity>
+    <LtxtOpenDocs>Open Documents</LtxtOpenDocs>
+    <LtxtOpenPolls>Open polls</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} waiting for answer</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>My objects waiting for confirmation</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Total Actions waiting for confirmation</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Total Business Partners waiting for confirmation</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Total Items waiting for confirmation</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Total Commercial Documents waiting for confirmation</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Total Receipts waiting for confirmation</LtxtMyPendRctToConf>
+    <LtxtOpenSO>Open sales opportunities</LtxtOpenSO>
+    <LtxtAutAction>Total Actions waiting for authorization</LtxtAutAction>
+    <LtxtAutBP>Total Business Partners waiting for authorization</LtxtAutBP>
+    <LtxtAutItm>Total Items waiting for authorization</LtxtAutItm>
+    <LtxtAutRec>Total Receipts waiting for authorization</LtxtAutRec>
+    <LtxtAutDoc>Total Commercial Documents waiting for authorization</LtxtAutDoc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <LtxtTaskMon>Monitor de Tareas</LtxtTaskMon>
+    <LtxtPendObjToConf>Total objetos esperando confirmación</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Registros de sesión anónima esperando respuesta</LtxtAnonRegAct>
+    <LtxtOpenActivities>Actividades pendientes</LtxtOpenActivities>
+    <LtxtNextActivity>Próxima actividad</LtxtNextActivity>
+    <LtxtOpenDocs>Documentos Pendientes</LtxtOpenDocs>
+    <LtxtOpenPolls>Encuestas pendientes</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} esperando respuesta</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Mis objetos esperando confirmación</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Total Acciones esperando confirmación</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Total Socios de Negocio esperando confirmación</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Total Articulos esperando confirmación</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Total Documentos Comerciales esperando confirmación</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Total Recibos esperando confirmación</LtxtMyPendRctToConf>
+    <LtxtOpenSO>Oportunidades de venta abiertas</LtxtOpenSO>
+    <LtxtAutAction>Total Acciones esperando autorización</LtxtAutAction>
+    <LtxtAutBP>Total Socios de Negocio esperando autorización</LtxtAutBP>
+    <LtxtAutItm>Total Articulos esperando autorización</LtxtAutItm>
+    <LtxtAutRec>Total Recibos esperando autorizacón</LtxtAutRec>
+    <LtxtAutDoc>Total Documentos Comerciales esperando autorización</LtxtAutDoc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRefresh>רענן</DtxtRefresh>
+    <LtxtTaskMon>צג משימות</LtxtTaskMon>
+    <LtxtPendObjToConf>סה"כ אובייקטים בהמתנה לאישור</LtxtPendObjToConf>
+    <LtxtAnonRegAct>משתמשים אנונימים שמחכים לאישור רישום</LtxtAnonRegAct>
+    <LtxtOpenActivities>פעילויות פתוחות</LtxtOpenActivities>
+    <LtxtNextActivity>הפעילות הבאה</LtxtNextActivity>
+    <LtxtOpenDocs>מסמכים פתוחים</LtxtOpenDocs>
+    <LtxtOpenPolls>סקרים פתוחים</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} ממתינים לתגובה</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>אובייקטים שלי בהמתנה לאישור</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>סה"כ פעולות בהמתנה לאישור</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>סה"כ כרטיסים בהמתנה לאישור</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>סה"כ פריטים בהמתנה לאישור</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>סה"כ מסמכי שיווק בהמתנה לאישור</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>סה"כ קבלות בהמתנה לאישור</LtxtMyPendRctToConf>
+    <LtxtOpenSO>הזדמנויות מכירה פתוחות</LtxtOpenSO>
+    <LtxtAutAction>סה"כ פעולות הממתינות לאישור</LtxtAutAction>
+    <LtxtAutBP>סה"כ כרטיסים הממתינים לאישור</LtxtAutBP>
+    <LtxtAutItm>סה"כ פריטים הממתינים לאישור</LtxtAutItm>
+    <LtxtAutRec>סה"כ קבלות הממתינות לאישור</LtxtAutRec>
+    <LtxtAutDoc>סה"כ מסמכי שיווק הממתינים לאישור</LtxtAutDoc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <LtxtTaskMon>Task Monitor</LtxtTaskMon>
+    <LtxtPendObjToConf>Total objects waiting for confirmation</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Anonymous session registrations waiting for confirmation</LtxtAnonRegAct>
+    <LtxtOpenActivities>Open activities</LtxtOpenActivities>
+    <LtxtNextActivity>Next activity</LtxtNextActivity>
+    <LtxtOpenDocs>Open Documents</LtxtOpenDocs>
+    <LtxtOpenPolls>Open polls</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} waiting for answer</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>My objects waiting for confirmation</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Total Actions waiting for confirmation</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Total Business Partners waiting for confirmation</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Total Items waiting for confirmation</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Total Commercial Documents waiting for confirmation</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Total Receipts waiting for confirmation</LtxtMyPendRctToConf>
+    <LtxtOpenSO>Open sales opportunities</LtxtOpenSO>
+    <LtxtAutAction>Total Actions waiting for authorization</LtxtAutAction>
+    <LtxtAutBP>Total Business Partners waiting for authorization</LtxtAutBP>
+    <LtxtAutItm>Total Items waiting for authorization</LtxtAutItm>
+    <LtxtAutRec>Total Receipts waiting for authorization</LtxtAutRec>
+    <LtxtAutDoc>Total Commercial Documents waiting for authorization</LtxtAutDoc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <LtxtTaskMon>Monitor de Tarefas</LtxtTaskMon>
+    <LtxtPendObjToConf>Total de objetos aguardando confirmação</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Registros da seção anônima aguardando resposta</LtxtAnonRegAct>
+    <LtxtOpenActivities>Atividades Pendentes</LtxtOpenActivities>
+    <LtxtNextActivity>Próxima atividade</LtxtNextActivity>
+    <LtxtOpenDocs>Documentos Pendentes</LtxtOpenDocs>
+    <LtxtOpenPolls>Pesquisas pendentes</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} aguardando resposta</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Documentos aguardando confirmação</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Total de ações aguardando a confirmação</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Total de Parceiros de Negócios aguardando confirmação</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Total de itens aguardando confirmação</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Total de Documentos comerciais aguardando a confirmação</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Total de Recibos aguardando confirmação</LtxtMyPendRctToConf>
+    <LtxtOpenSO>Oportunidades de vendas abertas</LtxtOpenSO>
+    <LtxtAutAction>Total de ações aguardando autorização</LtxtAutAction>
+    <LtxtAutBP>Total de Parceiros de Negócios aguardando autorização</LtxtAutBP>
+    <LtxtAutItm>Total de itens aguardando aprovação</LtxtAutItm>
+    <LtxtAutRec>Total de Recibos aguardando autorização</LtxtAutRec>
+    <LtxtAutDoc>Total de Documentos comerciais aguardando autorização</LtxtAutDoc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Rafraîchir</DtxtRefresh>
+    <LtxtTaskMon>&lt;--&gt;</LtxtTaskMon>
+    <LtxtPendObjToConf>&lt;--&gt;</LtxtPendObjToConf>
+    <LtxtAnonRegAct>&lt;--&gt;</LtxtAnonRegAct>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtNextActivity>&lt;--&gt;</LtxtNextActivity>
+    <LtxtOpenDocs>Documents Ouvert</LtxtOpenDocs>
+    <LtxtOpenPolls>&lt;--&gt;</LtxtOpenPolls>
+    <LtxtOffersWaitAns>&lt;--&gt;</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>&lt;--&gt;</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>&lt;--&gt;</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>&lt;--&gt;</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>&lt;--&gt;</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>&lt;--&gt;</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>&lt;--&gt;</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Aktualisieren</DtxtRefresh>
+    <LtxtTaskMon>&lt;--&gt;</LtxtTaskMon>
+    <LtxtPendObjToConf>&lt;--&gt;</LtxtPendObjToConf>
+    <LtxtAnonRegAct>&lt;--&gt;</LtxtAnonRegAct>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtNextActivity>&lt;--&gt;</LtxtNextActivity>
+    <LtxtOpenDocs>Öffnen Dokumente</LtxtOpenDocs>
+    <LtxtOpenPolls>&lt;--&gt;</LtxtOpenPolls>
+    <LtxtOffersWaitAns>&lt;--&gt;</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>&lt;--&gt;</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>&lt;--&gt;</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>&lt;--&gt;</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>&lt;--&gt;</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>&lt;--&gt;</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>&lt;--&gt;</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Освежать</DtxtRefresh>
+    <LtxtTaskMon>Отслеживать задачи</LtxtTaskMon>
+    <LtxtPendObjToConf>Всего объектов в ожидании разрешения</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Анонимные пользователи, которые ждут письменного разрешения</LtxtAnonRegAct>
+    <LtxtOpenActivities>Открытые действия</LtxtOpenActivities>
+    <LtxtNextActivity>Следущее действия</LtxtNextActivity>
+    <LtxtOpenDocs>Открытые документы</LtxtOpenDocs>
+    <LtxtOpenPolls>Открытые опросы</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0}ожидание для ответа</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Мои объекты в ожидании разрешения</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>&lt;--&gt;</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>&lt;--&gt;</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>&lt;--&gt;</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>&lt;--&gt;</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>&lt;--&gt;</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Obnovit</DtxtRefresh>
+    <LtxtTaskMon>Monitorování úkolů</LtxtTaskMon>
+    <LtxtPendObjToConf>Celkem objektů čekajících na potvrzení</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Registrace anonymních relací čekající na potvrzení</LtxtAnonRegAct>
+    <LtxtOpenActivities>Otevřené aktivity</LtxtOpenActivities>
+    <LtxtNextActivity>Další aktivita</LtxtNextActivity>
+    <LtxtOpenDocs>Otevřené dokumenty</LtxtOpenDocs>
+    <LtxtOpenPolls>Otevřené ankety</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} čeká na odpověď</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Moje objekty čekající na potvrzení</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Celkem akcí čekajících na potvrzení</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Celkem obchodních partnerů čekajících na potvrzení</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Celkem položek čekajících na potvrzení</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Celkem obchodních dokumentů čekajících na potvrzení</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Celkem příjemek čekajících na potvrzení</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Odśwież</DtxtRefresh>
+    <LtxtTaskMon>Ekran zadań </LtxtTaskMon>
+    <LtxtPendObjToConf>Razem przedmioty oczekujące na potwierdzenie</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Rejestracje sesji anonimowych oczekujące na potwierdzenie</LtxtAnonRegAct>
+    <LtxtOpenActivities>Otwórz działania</LtxtOpenActivities>
+    <LtxtNextActivity>Nowe działanie</LtxtNextActivity>
+    <LtxtOpenDocs>Otwórz dokumenty</LtxtOpenDocs>
+    <LtxtOpenPolls>Otwórz ankiety</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} czekając na odpowiedź</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Moje przedmioty oczekujące na potwierdzenie</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Razem działania oczekujące na potwierdzenie</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Razem Partnerzy Biznesowi oczekujący na potwierdzenie</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Razem pozycje oczekujące na potwierdzenie</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Razem dokumenty handlowe oczekujące na potwierdzenie</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Razem pokwitowania oczekujące na potwierdzenie</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>Obnoviť</DtxtRefresh>
+    <LtxtTaskMon>Monitor úloh</LtxtTaskMon>
+    <LtxtPendObjToConf>Celkový počet Objektov čakajúcich na potvrdenie</LtxtPendObjToConf>
+    <LtxtAnonRegAct>Registrácie anonymných relácií čakajú na potvrdenie</LtxtAnonRegAct>
+    <LtxtOpenActivities>Otvorené aktivity</LtxtOpenActivities>
+    <LtxtNextActivity>Ďalšia aktivita</LtxtNextActivity>
+    <LtxtOpenDocs>Otvorené dokumenty</LtxtOpenDocs>
+    <LtxtOpenPolls>Otvorené ankety</LtxtOpenPolls>
+    <LtxtOffersWaitAns>{0} čaká na odpoveď</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>Moje objekty čakajú na potvrdenie</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>Celkové aktivity čakajúce na potvrdenie</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>Celkový počet Obchodných partnerov čakajúcich na potvrdenie</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>Celkový počet Položiek čakajúcich na potvrdenie</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>Celkový počet Komerčných dokumentov čakajúcich na potvrdenie</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>Celkový počet Potvrdeniek čakajúcich na potvrdenie</LtxtMyPendRctToConf>
+    <LtxtOpenSO>&lt;--&gt;</LtxtOpenSO>
+    <LtxtAutAction>&lt;--&gt;</LtxtAutAction>
+    <LtxtAutBP>&lt;--&gt;</LtxtAutBP>
+    <LtxtAutItm>&lt;--&gt;</LtxtAutItm>
+    <LtxtAutRec>&lt;--&gt;</LtxtAutRec>
+    <LtxtAutDoc>&lt;--&gt;</LtxtAutDoc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRefresh>DtxtRefresh</DtxtRefresh>
+    <LtxtTaskMon>LtxtTaskMon</LtxtTaskMon>
+    <LtxtPendObjToConf>LtxtPendObjToConf</LtxtPendObjToConf>
+    <LtxtAnonRegAct>LtxtAnonRegAct</LtxtAnonRegAct>
+    <LtxtOpenActivities>LtxtOpenActivities</LtxtOpenActivities>
+    <LtxtNextActivity>LtxtNextActivity</LtxtNextActivity>
+    <LtxtOpenDocs>LtxtOpenDocs</LtxtOpenDocs>
+    <LtxtOpenPolls>LtxtOpenPolls</LtxtOpenPolls>
+    <LtxtOffersWaitAns>LtxtOffersWaitAns</LtxtOffersWaitAns>
+    <LtxtMyPendObjToConf>LtxtMyPendObjToConf</LtxtMyPendObjToConf>
+    <LtxtMyPendActToConf>LtxtMyPendActToConf</LtxtMyPendActToConf>
+    <LtxtMyPendBPToConf>LtxtMyPendBPToConf</LtxtMyPendBPToConf>
+    <LtxtMyPendItmToConf>LtxtMyPendItmToConf</LtxtMyPendItmToConf>
+    <LtxtMyPendCDToConf>LtxtMyPendCDToConf</LtxtMyPendCDToConf>
+    <LtxtMyPendRctToConf>LtxtMyPendRctToConf</LtxtMyPendRctToConf>
+    <LtxtOpenSO>LtxtOpenSO</LtxtOpenSO>
+    <LtxtAutAction>LtxtAutAction</LtxtAutAction>
+    <LtxtAutBP>LtxtAutBP</LtxtAutBP>
+    <LtxtAutItm>LtxtAutItm</LtxtAutItm>
+    <LtxtAutRec>LtxtAutRec</LtxtAutRec>
+    <LtxtAutDoc>LtxtAutDoc</LtxtAutDoc>
+  </language>
+</languages>

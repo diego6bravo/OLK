@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtDesc>Desc</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>Last 10 sales of the item</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtDesc>Desc</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>Ultimas 10 ventas del artículo</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <LtxtReference>מק"ט</LtxtReference>
+    <LtxtLast10SalesOfItm>10 מכירות אחרונות של הפריט</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtDesc>Descending</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>Last 10 sales of the item</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>Últimas 10 vendas do item</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtDesc>Desc</DtxtDesc>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtLast10SalesOfItm>&lt;--&gt;</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtLast10SalesOfItm>&lt;--&gt;</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtDesc>Описание</DtxtDesc>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtLast10SalesOfItm>&lt;--&gt;</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtDesc>Popis</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>10 posledních prodejů položky</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtDesc>Desc</DtxtDesc>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtLast10SalesOfItm>Ostatnie 10 sprzedaży tej pozycji</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtDesc>Desc</DtxtDesc>
+    <LtxtReference>Ref.</LtxtReference>
+    <LtxtLast10SalesOfItm>Posledných 10 predajov tejto položky</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtLast10SalesOfItm>&lt;--&gt;</LtxtLast10SalesOfItm>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <LtxtReference>LtxtReference</LtxtReference>
+    <LtxtLast10SalesOfItm>LtxtLast10SalesOfItm</LtxtLast10SalesOfItm>
+  </language>
+</languages>

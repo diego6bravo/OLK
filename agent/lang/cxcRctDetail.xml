@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtInstallment>Installment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtDocTotal>Doc. Total</LtxtDocTotal>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtChecks>Checks</LtxtChecks>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtTotalPaid>Total Paid</LtxtTotalPaid>
+    <LtxtTotalBalance>Total Balance</LtxtTotalBalance>
+    <LtxtTotalCanceled>Total Canceled</LtxtTotalCanceled>
+    <LtxtPymntDet>Payment Details</LtxtPymntDet>
+    <LtxtExpToExcell>Export to Excell</LtxtExpToExcell>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtDetail>Detalle</DtxtDetail>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Plazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtNoAccessObj>No tiene acceso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <LtxtCounterRef>Contra Comprobante</LtxtCounterRef>
+    <LtxtDocTotal>Total Doc.</LtxtDocTotal>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtChecks>Cheques</LtxtChecks>
+    <LtxtCredCard>Tarjeta de Crédito</LtxtCredCard>
+    <LtxtBankTrans>Transferencia Bancaria</LtxtBankTrans>
+    <LtxtTotalPaid>Total Pagado</LtxtTotalPaid>
+    <LtxtTotalBalance>Total Saldo</LtxtTotalBalance>
+    <LtxtTotalCanceled>Total Cancelado</LtxtTotalCanceled>
+    <LtxtPymntDet>Detalles de Pago</LtxtPymntDet>
+    <LtxtExpToExcell>Exportar a Excell</LtxtExpToExcell>
+    <LttlDraftNote>Este documento fue creado como borrador y está sujeto a aprobación</LttlDraftNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtDetail>פרטים</DtxtDetail>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtInstallment>תשלום</DtxtInstallment>
+    <DtxtXofY>{0} מתוך {1}</DtxtXofY>
+    <DtxtNoAccessObj>אין לך הרשאה לראות "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <LtxtCounterRef>אסמכתא נגדית</LtxtCounterRef>
+    <LtxtDocTotal>סכום מסמך</LtxtDocTotal>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtChecks>צ'קים</LtxtChecks>
+    <LtxtCredCard>כרטיס אשראי</LtxtCredCard>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtTotalPaid>סכום ששולם</LtxtTotalPaid>
+    <LtxtTotalBalance>סכום יתרה</LtxtTotalBalance>
+    <LtxtTotalCanceled>סכום ששולם</LtxtTotalCanceled>
+    <LtxtPymntDet>נתוני תשלום</LtxtPymntDet>
+    <LtxtExpToExcell>ייצא לאקסל</LtxtExpToExcell>
+    <LttlDraftNote>המסמך הנ"ל נוצר כטיוטה ודורש אישור נוסף</LttlDraftNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtInstallment>Instalment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtDocTotal>Doc. Total</LtxtDocTotal>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtChecks>Checks</LtxtChecks>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtTotalPaid>Total Paid</LtxtTotalPaid>
+    <LtxtTotalBalance>Total Balance</LtxtTotalBalance>
+    <LtxtTotalCanceled>Total Canceled</LtxtTotalCanceled>
+    <LtxtPymntDet>Payment Details</LtxtPymntDet>
+    <LtxtExpToExcell>Export to Excell</LtxtExpToExcell>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtDetail>Detalhe</DtxtDetail>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Prazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtNoAccessObj>Você não tem acesso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <LtxtCounterRef>Contra Comprovante</LtxtCounterRef>
+    <LtxtDocTotal>Total Doc.</LtxtDocTotal>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtChecks>Cheques</LtxtChecks>
+    <LtxtCredCard>Cartão de Crédito</LtxtCredCard>
+    <LtxtBankTrans>Transferência Bancária</LtxtBankTrans>
+    <LtxtTotalPaid>Total Pago</LtxtTotalPaid>
+    <LtxtTotalBalance>Total Saldo</LtxtTotalBalance>
+    <LtxtTotalCanceled>Total Cancelado</LtxtTotalCanceled>
+    <LtxtPymntDet>Detalhes de Pagamento</LtxtPymntDet>
+    <LtxtExpToExcell>Exportar para Excel</LtxtExpToExcell>
+    <LttlDraftNote>Este documento foi criado como esboço e está sujeito a aprovação</LttlDraftNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtDetail>Détail</DtxtDetail>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtInstallment>&lt;--&gt;</DtxtInstallment>
+    <DtxtXofY>&lt;--&gt;</DtxtXofY>
+    <DtxtNoAccessObj>&lt;--&gt;</DtxtNoAccessObj>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <LtxtCounterRef>Contre quittance</LtxtCounterRef>
+    <LtxtDocTotal>Document totale</LtxtDocTotal>
+    <LtxtCash>Effectif</LtxtCash>
+    <LtxtChecks>Cheques</LtxtChecks>
+    <LtxtCredCard>Carte de crédit</LtxtCredCard>
+    <LtxtBankTrans>Virement bancaire</LtxtBankTrans>
+    <LtxtTotalPaid>Total payé</LtxtTotalPaid>
+    <LtxtTotalBalance>Solde total</LtxtTotalBalance>
+    <LtxtTotalCanceled>Total cancellé</LtxtTotalCanceled>
+    <LtxtPymntDet>Détails de versement</LtxtPymntDet>
+    <LtxtExpToExcell>Export vers l'Excell</LtxtExpToExcell>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtDetail>Einzelheit</DtxtDetail>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtInstallment>Rate</DtxtInstallment>
+    <DtxtXofY>{0} von {1}</DtxtXofY>
+    <DtxtNoAccessObj>Sie haben keinen Zugang zu der Ansicht von "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <LtxtCounterRef>Gegenreferenz</LtxtCounterRef>
+    <LtxtDocTotal>Dok. Gesamtbetrag</LtxtDocTotal>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtChecks>Schecks</LtxtChecks>
+    <LtxtCredCard>Kreditkarte</LtxtCredCard>
+    <LtxtBankTrans>Überweisung</LtxtBankTrans>
+    <LtxtTotalPaid>Gesamt gezahlter Betrag</LtxtTotalPaid>
+    <LtxtTotalBalance>Gesamtsumme</LtxtTotalBalance>
+    <LtxtTotalCanceled>Gesamt gestrichen</LtxtTotalCanceled>
+    <LtxtPymntDet>Zahlungseinzelheiten</LtxtPymntDet>
+    <LtxtExpToExcell>Zu Excell exportieren</LtxtExpToExcell>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtDetail>Детали</DtxtDetail>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtInstallment>Платеж</DtxtInstallment>
+    <DtxtXofY>{0} из {1}</DtxtXofY>
+    <DtxtNoAccessObj>Вам не разрешено видеть"{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <LtxtCounterRef>Противоположная ссылка</LtxtCounterRef>
+    <LtxtDocTotal>Сумма документа</LtxtDocTotal>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtChecks>Чеки</LtxtChecks>
+    <LtxtCredCard>Кредитные карточки</LtxtCredCard>
+    <LtxtBankTrans>Банковский перевод</LtxtBankTrans>
+    <LtxtTotalPaid>Оплаченная сумма</LtxtTotalPaid>
+    <LtxtTotalBalance>Сумма баланса</LtxtTotalBalance>
+    <LtxtTotalCanceled>Оплаченная сумма</LtxtTotalCanceled>
+    <LtxtPymntDet>Данные платежа</LtxtPymntDet>
+    <LtxtExpToExcell>Экспорт для ЭКСЕЛ</LtxtExpToExcell>
+    <LttlDraftNote>Этот документ был создан в качестве проекта, и требует дополнительного подтверждения</LttlDraftNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtDetail>Podrobnosti</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtInstallment>Instalace</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtNoAccessObj>Nemáte přístup pro zobrazení "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtCounterRef>Reference protinávrhu</LtxtCounterRef>
+    <LtxtDocTotal>Dok. celkem</LtxtDocTotal>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtChecks>Šeky</LtxtChecks>
+    <LtxtCredCard>Kreditní karta</LtxtCredCard>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtTotalPaid>Celkem zaplaceno</LtxtTotalPaid>
+    <LtxtTotalBalance>Celkový zůstatek</LtxtTotalBalance>
+    <LtxtTotalCanceled>Celkem odstraněno</LtxtTotalCanceled>
+    <LtxtPymntDet>Payment Details</LtxtPymntDet>
+    <LtxtExpToExcell>Export do Excelu</LtxtExpToExcell>
+    <LttlDraftNote>Tento dokument byl vytvořen jako návrh a musí být schválen</LttlDraftNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtDetail>Szczegóły</DtxtDetail>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Rata</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtNoAccessObj>Nie masz dostępu do podglądu "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <LtxtCounterRef>Adnotacja</LtxtCounterRef>
+    <LtxtDocTotal>Razem dokument</LtxtDocTotal>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtChecks>Czek</LtxtChecks>
+    <LtxtCredCard>Przelew bankowy</LtxtCredCard>
+    <LtxtBankTrans>Karta kredytowa</LtxtBankTrans>
+    <LtxtTotalPaid>Razem zapłacone</LtxtTotalPaid>
+    <LtxtTotalBalance>Razem saldo</LtxtTotalBalance>
+    <LtxtTotalCanceled>Razem anulowane</LtxtTotalCanceled>
+    <LtxtPymntDet>Szczegóły płatności </LtxtPymntDet>
+    <LtxtExpToExcell>Eksport do excella</LtxtExpToExcell>
+    <LttlDraftNote>Ten dokument powstał jako projekt i musi być zaakceptowany</LttlDraftNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtInstallment>Splátka</DtxtInstallment>
+    <DtxtXofY>{0} alebo {1}</DtxtXofY>
+    <DtxtNoAccessObj>Nemáte prístup pozrieť si "{0}"</DtxtNoAccessObj>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtCounterRef>Odkaz pokladne</LtxtCounterRef>
+    <LtxtDocTotal>Súčet dokumentu</LtxtDocTotal>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtChecks>Šeky</LtxtChecks>
+    <LtxtCredCard>Kreditná karta</LtxtCredCard>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtTotalPaid>Uhradené celkom</LtxtTotalPaid>
+    <LtxtTotalBalance>Celkový zostatok</LtxtTotalBalance>
+    <LtxtTotalCanceled>Zrušené celkom</LtxtTotalCanceled>
+    <LtxtPymntDet>Platobné údaje</LtxtPymntDet>
+    <LtxtExpToExcell>Exportovať do Excelu</LtxtExpToExcell>
+    <LttlDraftNote>Tento dokument bol vytvorený ako návrh a je predmetom na schválenie</LttlDraftNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtDetail>DtxtDetail</DtxtDetail>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtInstallment>DtxtInstallment</DtxtInstallment>
+    <DtxtXofY>DtxtXofY</DtxtXofY>
+    <DtxtNoAccessObj>DtxtNoAccessObj</DtxtNoAccessObj>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <LtxtCounterRef>LtxtCounterRef</LtxtCounterRef>
+    <LtxtDocTotal>LtxtDocTotal</LtxtDocTotal>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtChecks>LtxtChecks</LtxtChecks>
+    <LtxtCredCard>LtxtCredCard</LtxtCredCard>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtTotalPaid>LtxtTotalPaid</LtxtTotalPaid>
+    <LtxtTotalBalance>LtxtTotalBalance</LtxtTotalBalance>
+    <LtxtTotalCanceled>LtxtTotalCanceled</LtxtTotalCanceled>
+    <LtxtPymntDet>LtxtPymntDet</LtxtPymntDet>
+    <LtxtExpToExcell>LtxtExpToExcell</LtxtExpToExcell>
+    <LttlDraftNote>LttlDraftNote</LttlDraftNote>
+  </language>
+</languages>

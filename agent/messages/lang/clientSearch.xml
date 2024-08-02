@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSendTo>Send to</LtxtSendTo>
+    <LttlCSearch>Message - Search of {0}</LttlCSearch>
+    <LtxtValSelCard>Select the {0} you wish to add</LtxtValSelCard>
+    <LtxtValRemCard>Select the {0} you wish to remove</LtxtValRemCard>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSendTo>Enviar a</LtxtSendTo>
+    <LttlCSearch>Envío de mensajes - Búsqueda de {0}</LttlCSearch>
+    <LtxtValSelCard>Debe escoger el {0} que desea agregar</LtxtValSelCard>
+    <LtxtValRemCard>Debe escoger el {0} que desea eliminar</LtxtValRemCard>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtSendTo>לשלוח ל</LtxtSendTo>
+    <LttlCSearch>משלוח הודעות - חיפוש {0}</LttlCSearch>
+    <LtxtValSelCard>יש לבחור {0} שאתה רוצה להוסיף</LtxtValSelCard>
+    <LtxtValRemCard>יש לבחור {0} שאתה רוצה למחוק</LtxtValRemCard>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSendTo>Send to</LtxtSendTo>
+    <LttlCSearch>Message - Search of {0}</LttlCSearch>
+    <LtxtValSelCard>Select the {0} you wish to add</LtxtValSelCard>
+    <LtxtValRemCard>Select the {0} you wish to remove</LtxtValRemCard>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSendTo>Enviar a </LtxtSendTo>
+    <LttlCSearch>Envio de mensagens - Busca de {0}</LttlCSearch>
+    <LtxtValSelCard>Deve escolher o {0} que deseja adicionar</LtxtValSelCard>
+    <LtxtValRemCard>Deve escolher o {0} que deseja eliminar</LtxtValRemCard>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtSendTo>Envoyer à</LtxtSendTo>
+    <LttlCSearch>Envoie de messages - Recherche de {0}</LttlCSearch>
+    <LtxtValSelCard>Devez-vous choisir le {0} que vous voulez ajouter</LtxtValSelCard>
+    <LtxtValRemCard>Devez-vous choisir le {0} que vous voulez éliminer</LtxtValRemCard>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtSendTo>Senden an</LtxtSendTo>
+    <LttlCSearch>Nachricht - Suche nach {0}</LttlCSearch>
+    <LtxtValSelCard>Wählen Sie die {0} die Sie hinzufügen möchten</LtxtValSelCard>
+    <LtxtValRemCard>Wählen Sie die {0} die Sie entfernen möchten</LtxtValRemCard>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtSendTo>Послать в</LtxtSendTo>
+    <LttlCSearch>Отправка сообщений - поиск  {0}</LttlCSearch>
+    <LtxtValSelCard>Нужно выбрать {0} который вы хотите добавить</LtxtValSelCard>
+    <LtxtValRemCard>Нужно выбрать {0} который вы хотите стереть</LtxtValRemCard>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtSendTo>Odeslat</LtxtSendTo>
+    <LttlCSearch>Zpráva - Vyhledávání {0}</LttlCSearch>
+    <LtxtValSelCard>Zvolte {0}, kterou chcete přidat</LtxtValSelCard>
+    <LtxtValRemCard>Zvolte {0}, kterou chcet odebrat</LtxtValRemCard>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtSendTo>Wyślij do </LtxtSendTo>
+    <LttlCSearch>Wiadomość - Poszukiwanie {0}</LttlCSearch>
+    <LtxtValSelCard>Wybierz {0} który chcesz dodać</LtxtValSelCard>
+    <LtxtValRemCard>Wybierz {0} który chcesz usunąć</LtxtValRemCard>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtSendTo>Zaslať komu</LtxtSendTo>
+    <LttlCSearch>Správa - Vyhľadávanie {0}</LttlCSearch>
+    <LtxtValSelCard>Zvoľte {0}, ktorú si prajete pridať</LtxtValSelCard>
+    <LtxtValRemCard>Zvoľte {0}, ktorú si prajete odstrániť</LtxtValRemCard>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtSendTo>LtxtSendTo</LtxtSendTo>
+    <LttlCSearch>LttlCSearch</LttlCSearch>
+    <LtxtValSelCard>LtxtValSelCard</LtxtValSelCard>
+    <LtxtValRemCard>LtxtValRemCard</LtxtValRemCard>
+  </language>
+</languages>

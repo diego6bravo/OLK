@@ -1,0 +1,9 @@
+.TblTltMnu { background-color: #66A4FF; font-family:Verdana; font-size:10px }
+.TblAfueraMnu { background-color: #82B4FF; font-family:Verdana; font-size:10px }
+td { font-size: 10px; font-face: Verdana; }
+a            { color: #0053CE }
+.RepTotalCel{
+	border-top: 3px double #66A4FF; 
+	border-bottom: 3px double #66A4FF; 
+	font-size:4px
+	}

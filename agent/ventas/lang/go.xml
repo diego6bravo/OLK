@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Client document cannot be accessed with price list "Last purchase price", make sure the client is related to a sales price list.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Client document cannot be accessed with price list "Last determined price", make sure the client is related to a sales price list.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>No se puede acceder un documento para cliente con la lista de precio "Último precio de compra", asegúrese que el cliente está relacionado con una lista de precio de venta.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>No se puede acceder un documento para cliente con la lista de precio "Último precio determinado", asegúrese que el cliente está relacionado con una lista de precio de venta.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtValCLastPurListNu>לא ניתן לעבוד עם לקוח שמקושר ל"מחיר קניה אחרון", וודא שהלקוח מקושר לאחד ממחירוני המכירה.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>לא ניתן לעבוד עם לקוח שמקושר ל"מחיר מחושב אחרון", וודא שהלקוח מקושר לאחד ממחירוני המכירה.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Client document cannot be accessed with price list "Last purchase price", make sure the client is related to a sales price list.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Client document cannot be accessed with price list "Last determined price", make sure the client is related to a sales price list.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Não é possível acessar um documento de cliente com a lista de preço "Último preço de compra" , verifique se o cliente está relacionado a uma lista de preço de venda.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Não é possível acessar um documento de cliente com a lista de preço "Último preço analisado", verifique se o cliente está relacionado a uma lista de preço de venda.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>&lt;--&gt;</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>&lt;--&gt;</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Auf das Kundendokument kann mit der Preisliste "Letzter Kaufpreis" nicht zugegriffen werden, stellen Sie sicher das der Kunde einer Verkaufspreisliste zugeordnet wird.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Auf das Kundendokument kann mit der Preisliste "Letzter festgelegter Preis" nicht zugegriffen werden, stellen Sie sicher das der Kunde einer Verkaufspreisliste zugeordnet wird.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Невозможно работать с клиентом,связанным с"предыдущей ценой",убедитесь, что клиент связан с той же ценой продажи.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Невозможно работать с клиентом связанным с"предыдущей ценой",убедитесь, что клиент связан с той же ценой продажи.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Dokument klienta s ceníkem "Poslední nákupní cena" není možné otevřít. Ujistěte se, že klient je ve vztahu k ceníku.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Dokument klienta s ceníkem "Poslední zjištěná cena" není možné otevřít. Ujistěte se, že klient je ve vztahu k ceníku.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Nie można dostać się do dokumentu klienta przy pomocy cennika "ostatnia cena zakupu", sprawdź czy klient jest powiązany z lista cen sprzedaży</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Nie można dostać się do dokumentu klienta przy pomocy cennika "ostatnia określona cena", sprawdź czy klient jest powiązany z lista cen sprzedaży</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>Do dokumentu klienta nie je prístup s cenníkom "Posledná nákupná cena", uistite sa, že klient súvisí s predajným cenníkom.</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>Do dokumentu klienta nie je prístup s cenníkom "Posledná stanovená cena", uistite sa, že klient súvisí s predajným cenníkom.</LtxtValCLastDetListNu>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValCLastPurListNu>LtxtValCLastPurListNu</LtxtValCLastPurListNu>
+    <LtxtValCLastDetListNu>LtxtValCLastDetListNu</LtxtValCLastDetListNu>
+  </language>
+</languages>

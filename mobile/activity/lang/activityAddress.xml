@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>State</DtxtState>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtStreet>Calle</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtStreet>רחוב</DtxtStreet>
+    <DtxtRoom>חדר</DtxtRoom>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>County</DtxtState>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtStreet>Street</DtxtStreet>
+    <DtxtRoom>Room</DtxtRoom>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtStreet>Rua</DtxtStreet>
+    <DtxtRoom>Sala</DtxtRoom>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtState>État</DtxtState>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtStreet>&lt;--&gt;</DtxtStreet>
+    <DtxtRoom>&lt;--&gt;</DtxtRoom>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtStreet>Strasse</DtxtStreet>
+    <DtxtRoom>Raum</DtxtRoom>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtState>Государство</DtxtState>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtStreet>Улица</DtxtStreet>
+    <DtxtRoom>Комната</DtxtRoom>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtState>Stát</DtxtState>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtStreet>Ulice</DtxtStreet>
+    <DtxtRoom>Místnost</DtxtRoom>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Pokój</DtxtRoom>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtState>Štát</DtxtState>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtStreet>Ulica</DtxtStreet>
+    <DtxtRoom>Miestnosť</DtxtRoom>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtState>&lt;--&gt;</DtxtState>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtCity>&lt;--&gt;</DtxtCity>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtStreet>&lt;--&gt;</DtxtStreet>
+    <DtxtRoom>&lt;--&gt;</DtxtRoom>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtStreet>DtxtStreet</DtxtStreet>
+    <DtxtRoom>DtxtRoom</DtxtRoom>
+  </language>
+</languages>

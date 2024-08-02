@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <LtxtAccount>Accounts</LtxtAccount>
+    <LcolAccount>Account</LcolAccount>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheques>Checks</LtxtCheques>
+    <LtxtCreditCard>Credit Card</LtxtCreditCard>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <LtxtAccount>Cuenta Contable</LtxtAccount>
+    <LcolAccount>Cuenta</LcolAccount>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheques>Cheques</LtxtCheques>
+    <LtxtCreditCard>T. Crédito</LtxtCreditCard>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <LtxtAccount>חשבון (הנח"ש)</LtxtAccount>
+    <LcolAccount>חשבון</LcolAccount>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheques>צ'קים</LtxtCheques>
+    <LtxtCreditCard>כרטיס אשראי</LtxtCreditCard>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <LtxtAccount>Accounts</LtxtAccount>
+    <LcolAccount>Account</LcolAccount>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheques>Checks</LtxtCheques>
+    <LtxtCreditCard>Credit Card</LtxtCreditCard>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <LtxtAccount>Conta Contábil</LtxtAccount>
+    <LcolAccount>Conta</LcolAccount>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheques>Cheques</LtxtCheques>
+    <LtxtCreditCard>Cartão de Crédito</LtxtCreditCard>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Description</DtxtDescription>
+    <LtxtAccount>Compte comptable</LtxtAccount>
+    <LcolAccount>Compte</LcolAccount>
+    <LtxtCash>Effectif (Liquide)</LtxtCash>
+    <LtxtCheques>Cheques</LtxtCheques>
+    <LtxtCreditCard>Card de Crédit</LtxtCreditCard>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <LtxtAccount>Konten</LtxtAccount>
+    <LcolAccount>Konto</LcolAccount>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtCheques>Schecks</LtxtCheques>
+    <LtxtCreditCard>Kreditkarte</LtxtCreditCard>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Описание</DtxtDescription>
+    <LtxtAccount>Счет (Бугалтерия)</LtxtAccount>
+    <LcolAccount>Счет</LcolAccount>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheques>Чеки</LtxtCheques>
+    <LtxtCreditCard>Кредитная карточка</LtxtCreditCard>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Popis</DtxtDescription>
+    <LtxtAccount>Účty</LtxtAccount>
+    <LcolAccount>Účet</LcolAccount>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheques>Šeky</LtxtCheques>
+    <LtxtCreditCard>Kreditní karta</LtxtCreditCard>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Opis</DtxtDescription>
+    <LtxtAccount>Rachunki/konta</LtxtAccount>
+    <LcolAccount>Rachunek/konto</LcolAccount>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheques>Czeki</LtxtCheques>
+    <LtxtCreditCard>Karta kredytowa</LtxtCreditCard>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>Popis</DtxtDescription>
+    <LtxtAccount>Kontá</LtxtAccount>
+    <LcolAccount>Konto</LcolAccount>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheques>Šeky</LtxtCheques>
+    <LtxtCreditCard>Kreditná karta</LtxtCreditCard>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <LtxtAccount>&lt;--&gt;</LtxtAccount>
+    <LcolAccount>&lt;--&gt;</LcolAccount>
+    <LtxtCash>&lt;--&gt;</LtxtCash>
+    <LtxtCheques>&lt;--&gt;</LtxtCheques>
+    <LtxtCreditCard>&lt;--&gt;</LtxtCreditCard>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <LtxtAccount>LtxtAccount</LtxtAccount>
+    <LcolAccount>LcolAccount</LcolAccount>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheques>LtxtCheques</LtxtCheques>
+    <LtxtCreditCard>LtxtCreditCard</LtxtCreditCard>
+  </language>
+</languages>

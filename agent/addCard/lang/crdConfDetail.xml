@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Postal/Zip Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Federal Tax ID</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <LttlClientDetails>Business Partner Details</LttlClientDetails>
+    <LttlClientConfDetails>Business Partner Confirmation Details</LttlClientConfDetails>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtNoAccessCard>You do not have access to the BP type "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Dirección de Envío</DtxtShipAddress>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtZipCode>Código Postal</DtxtZipCode>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtDetail>Detalle</DtxtDetail>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtLicTradNum>Número de identificación fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <LttlClientDetails>Detalle de Socio de Negocio</LttlClientDetails>
+    <LttlClientConfDetails>Detalle de Confirmación de Socio de Negocio</LttlClientConfDetails>
+    <LtxtPhone1>Teléfono 1</LtxtPhone1>
+    <LtxtPhone2>Teléfono 2</LtxtPhone2>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contacto</LtxtContact>
+    <LtxtNatPer>Persona Natural</LtxtNatPer>
+    <LtxtNoAccessCard>No tiene acceso a SN tipo "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtBillAddress>כתובת לתשלום</DtxtBillAddress>
+    <DtxtShipAddress>כתובת למשלוח</DtxtShipAddress>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtZipCode>מיקוד</DtxtZipCode>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtDetail>פרטים</DtxtDetail>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtLicTradNum>מספר עוסק מורשה</DtxtLicTradNum>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <LttlClientDetails>נתוני כרטיס</LttlClientDetails>
+    <LttlClientConfDetails>נתוני אישור כרטיס</LttlClientConfDetails>
+    <LtxtPhone1>טלפון 1</LtxtPhone1>
+    <LtxtPhone2>טלפון 2</LtxtPhone2>
+    <LtxtMobile>נייד</LtxtMobile>
+    <LtxtFax>פקס</LtxtFax>
+    <LtxtContact>איש קשר</LtxtContact>
+    <LtxtNatPer>אדם פרטי</LtxtNatPer>
+    <LtxtNoAccessCard>אין לך הרשאה לכרטיס מסוג "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Post Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>VAT Code</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <LttlClientDetails>Business Partner Details</LttlClientDetails>
+    <LttlClientConfDetails>Business Partner Confirmation Details</LttlClientConfDetails>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtNoAccessCard>You do not have access to the BP type "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtCmp>Companhia</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Endereço de Envio</DtxtShipAddress>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtZipCode>CEP</DtxtZipCode>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtDetail>Detalhe</DtxtDetail>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtLicTradNum>Nº de identificação fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <LttlClientDetails>Detalhes do Parceiro de Negócio</LttlClientDetails>
+    <LttlClientConfDetails>Detalhes da confirmação do Parceiro de Negócio</LttlClientConfDetails>
+    <LtxtPhone1>Telefone 1</LtxtPhone1>
+    <LtxtPhone2>Telefone 2</LtxtPhone2>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contato</LtxtContact>
+    <LtxtNatPer>Pessoa Natural</LtxtNatPer>
+    <LtxtNoAccessCard>Você não tem acesso ao PN tipo "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtBillAddress>Adresse de paiement</DtxtBillAddress>
+    <DtxtShipAddress>Adresse d'envoi</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Code Postal</DtxtZipCode>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtDetail>Détail</DtxtDetail>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Numéro d'identification fiscal</DtxtLicTradNum>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <LttlClientDetails>&lt;--&gt;</LttlClientDetails>
+    <LttlClientConfDetails>&lt;--&gt;</LttlClientConfDetails>
+    <LtxtPhone1>Téléphone 1</LtxtPhone1>
+    <LtxtPhone2>Téléphone 2</LtxtPhone2>
+    <LtxtMobile>Portable</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtNatPer>Personne naturelle</LtxtNatPer>
+    <LtxtNoAccessCard>&lt;--&gt;</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtBillAddress>Rechnungsanschrift</DtxtBillAddress>
+    <DtxtShipAddress>Lieferadresse</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Postleitzahl</DtxtZipCode>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtDetail>Einzelheit</DtxtDetail>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtLicTradNum>Steuernummer</DtxtLicTradNum>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <LttlClientDetails>&lt;--&gt;</LttlClientDetails>
+    <LttlClientConfDetails>&lt;--&gt;</LttlClientConfDetails>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtMobile>Mobil Telefon</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtNoAccessCard>&lt;--&gt;</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtBillAddress>Адрес для оплаты</DtxtBillAddress>
+    <DtxtShipAddress>Почтовый адрес</DtxtShipAddress>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtZipCode>Индекс</DtxtZipCode>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtDetail>Детали</DtxtDetail>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtLicTradNum>Номер предпринимателя</DtxtLicTradNum>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <LttlClientDetails>Бизнес-партнер- детали</LttlClientDetails>
+    <LttlClientConfDetails>Бизнес-партнер, детали подтверждения </LttlClientConfDetails>
+    <LtxtPhone1>Телефон 1</LtxtPhone1>
+    <LtxtPhone2>Телефон 2</LtxtPhone2>
+    <LtxtMobile>Мобильный телефон</LtxtMobile>
+    <LtxtFax>Факс</LtxtFax>
+    <LtxtContact>Контакт</LtxtContact>
+    <LtxtNatPer>Человек</LtxtNatPer>
+    <LtxtNoAccessCard>У вас нет доступа к типу ВР "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtBillAddress>Fakturační adresa</DtxtBillAddress>
+    <DtxtShipAddress>Dodací adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>PSČ</DtxtZipCode>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtDetail>Podrobnosti</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtLicTradNum>Federální DIČ</DtxtLicTradNum>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <LttlClientDetails>Obchodní partner - podrobnosti</LttlClientDetails>
+    <LttlClientConfDetails>Obchodní partner - údaje o potvrzení</LttlClientConfDetails>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtMobile>Mobilní telefon</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LtxtNoAccessCard>K OP typu "{0}" nemáte přístup</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Adres do faktury</DtxtBillAddress>
+    <DtxtShipAddress>Adres wysyłki</DtxtShipAddress>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtZipCode>Kod pocztowy</DtxtZipCode>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtDetail>Szczegóły</DtxtDetail>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtLicTradNum>Identyfikacyjny Numer Podatkowy</DtxtLicTradNum>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <LttlClientDetails>Dane Partnera Biznesowego</LttlClientDetails>
+    <LttlClientConfDetails>Potwierdzenie Danych Partnera Biznesowego</LttlClientConfDetails>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtMobile>Komórka</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtNatPer>osoba</LtxtNatPer>
+    <LtxtNoAccessCard>Nie masz dostępu do PB typu {0}</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtBillAddress>Fakturačná adresa</DtxtBillAddress>
+    <DtxtShipAddress>Doručovacia adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>Poštové smerovacie číslo</DtxtZipCode>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtLicTradNum>Daňové identifikačné číslo</DtxtLicTradNum>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <LttlClientDetails>Údaje Obchodného partnera</LttlClientDetails>
+    <LttlClientConfDetails>Údaje o potvrdení Obchodného partnera</LttlClientConfDetails>
+    <LtxtPhone1>Telefón 1</LtxtPhone1>
+    <LtxtPhone2>Telefón 2</LtxtPhone2>
+    <LtxtMobile>Mobilný telefón</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LtxtNoAccessCard>Nemáte prístup k typu Ochodného partnera "{0}"</LtxtNoAccessCard>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtBillAddress>DtxtBillAddress</DtxtBillAddress>
+    <DtxtShipAddress>DtxtShipAddress</DtxtShipAddress>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtZipCode>DtxtZipCode</DtxtZipCode>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtDetail>DtxtDetail</DtxtDetail>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtLicTradNum>DtxtLicTradNum</DtxtLicTradNum>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <LttlClientDetails>LttlClientDetails</LttlClientDetails>
+    <LttlClientConfDetails>LttlClientConfDetails</LttlClientConfDetails>
+    <LtxtPhone1>LtxtPhone1</LtxtPhone1>
+    <LtxtPhone2>LtxtPhone2</LtxtPhone2>
+    <LtxtMobile>LtxtMobile</LtxtMobile>
+    <LtxtFax>LtxtFax</LtxtFax>
+    <LtxtContact>LtxtContact</LtxtContact>
+    <LtxtNatPer>LtxtNatPer</LtxtNatPer>
+    <LtxtNoAccessCard>LtxtNoAccessCard</LtxtNoAccessCard>
+  </language>
+</languages>

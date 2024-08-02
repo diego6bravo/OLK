@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSearchItmInCart>Search Items in Cart</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Search by Item</LtxtSearchByItm>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSearchItmInCart>Búsqueda de Artículos en Canasta </LtxtSearchItmInCart>
+    <LtxtSearchByItm>Búsqueda por Artículo</LtxtSearchByItm>
+    <LtxtExact>Exacto</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtSearchItmInCart>חפש פריט בסל הקניות</LtxtSearchItmInCart>
+    <LtxtSearchByItm>חיפוש פריט</LtxtSearchByItm>
+    <LtxtExact>מדוייק</LtxtExact>
+    <LtxtLike>דומה</LtxtLike>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtSearchItmInCart>Search Items in Cart</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Search by Item</LtxtSearchByItm>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtSearchItmInCart>Busca de Itens no Carrinho de Compras?</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Busca por Item</LtxtSearchByItm>
+    <LtxtExact>Exato</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtSearchItmInCart>&lt;--&gt;</LtxtSearchItmInCart>
+    <LtxtSearchByItm>&lt;--&gt;</LtxtSearchByItm>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtSearchItmInCart>&lt;--&gt;</LtxtSearchItmInCart>
+    <LtxtSearchByItm>&lt;--&gt;</LtxtSearchByItm>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtSearchItmInCart>&lt;--&gt;</LtxtSearchItmInCart>
+    <LtxtSearchByItm>&lt;--&gt;</LtxtSearchByItm>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtSearchItmInCart>Hledat položky v košíku</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Položkové hledání</LtxtSearchByItm>
+    <LtxtExact>Přesné</LtxtExact>
+    <LtxtLike>jako</LtxtLike>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtSearchItmInCart>Szukaj pozycji w koszyku</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Szukaj po pozycji</LtxtSearchByItm>
+    <LtxtExact>Dokładny</LtxtExact>
+    <LtxtLike>Podobny</LtxtLike>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtSearchItmInCart>Vyhľadávanie položiek v košíku</LtxtSearchItmInCart>
+    <LtxtSearchByItm>Vyhľadávanie podľa položky</LtxtSearchByItm>
+    <LtxtExact>Presné</LtxtExact>
+    <LtxtLike>Ako</LtxtLike>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <LtxtSearchItmInCart>&lt;--&gt;</LtxtSearchItmInCart>
+    <LtxtSearchByItm>&lt;--&gt;</LtxtSearchByItm>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtSearchItmInCart>LtxtSearchItmInCart</LtxtSearchItmInCart>
+    <LtxtSearchByItm>LtxtSearchByItm</LtxtSearchByItm>
+    <LtxtExact>LtxtExact</LtxtExact>
+    <LtxtLike>LtxtLike</LtxtLike>
+  </language>
+</languages>

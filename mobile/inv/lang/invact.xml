@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtSelWHS>Select the warehouse you want to work with</LtxtSelWHS>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtDelSearchOrder>Search Sales Order</LtxtDelSearchOrder>
+    <LtxtSelect>Select</LtxtSelect>
+    <LtxtValSelHWS>You must select a warehouse</LtxtValSelHWS>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtInvRecount>Recuento de Inventario</LtxtInvRecount>
+    <LtxtSelWHS>Escoja el almacén en la que desea trabajar</LtxtSelWHS>
+    <LtxtRep>Reporte</LtxtRep>
+    <LtxtDelSearchOrder>Busqueda de Orden de Venta</LtxtDelSearchOrder>
+    <LtxtSelect>Seleccionar</LtxtSelect>
+    <LtxtValSelHWS>Debe seleccionar un almacén</LtxtValSelHWS>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtInvRecount>ספירת מלאי</LtxtInvRecount>
+    <LtxtSelWHS>בחר מחסן לעבודה</LtxtSelWHS>
+    <LtxtRep>דוח</LtxtRep>
+    <LtxtDelSearchOrder>חיפוש הזמנה</LtxtDelSearchOrder>
+    <LtxtSelect>בחר</LtxtSelect>
+    <LtxtValSelHWS>יש לבחור מחסן</LtxtValSelHWS>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtSelWHS>Select the warehouse you want to work with</LtxtSelWHS>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtDelSearchOrder>Search Sales Order</LtxtDelSearchOrder>
+    <LtxtSelect>Select</LtxtSelect>
+    <LtxtValSelHWS>You must select a warehouse</LtxtValSelHWS>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtInvRecount>Recontagem de Estoque</LtxtInvRecount>
+    <LtxtSelWHS>Escolha o armazém em que deseja trabalhar</LtxtSelWHS>
+    <LtxtRep>Relatório</LtxtRep>
+    <LtxtDelSearchOrder>Busca de Ordem de Venda</LtxtDelSearchOrder>
+    <LtxtSelect>Selecionar</LtxtSelect>
+    <LtxtValSelHWS>Deve selecionar um armazém</LtxtValSelHWS>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelWHS>&lt;--&gt;</LtxtSelWHS>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtDelSearchOrder>&lt;--&gt;</LtxtDelSearchOrder>
+    <LtxtSelect>&lt;--&gt;</LtxtSelect>
+    <LtxtValSelHWS>&lt;--&gt;</LtxtValSelHWS>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelWHS>&lt;--&gt;</LtxtSelWHS>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtDelSearchOrder>&lt;--&gt;</LtxtDelSearchOrder>
+    <LtxtSelect>&lt;--&gt;</LtxtSelect>
+    <LtxtValSelHWS>&lt;--&gt;</LtxtValSelHWS>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelWHS>&lt;--&gt;</LtxtSelWHS>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtDelSearchOrder>&lt;--&gt;</LtxtDelSearchOrder>
+    <LtxtSelect>&lt;--&gt;</LtxtSelect>
+    <LtxtValSelHWS>&lt;--&gt;</LtxtValSelHWS>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtInvRecount>Přepočítání zásob</LtxtInvRecount>
+    <LtxtSelWHS>Vyberte sklad, se kterým chcete pracovat</LtxtSelWHS>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtDelSearchOrder>Vyhledávat příkazy k prodeji</LtxtDelSearchOrder>
+    <LtxtSelect>Vyberte</LtxtSelect>
+    <LtxtValSelHWS>Musíte vybrat sklad</LtxtValSelHWS>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtInvRecount>Przeliczenie zapasu</LtxtInvRecount>
+    <LtxtSelWHS>Wybierz magazyn, z którym chcesz pracować</LtxtSelWHS>
+    <LtxtRep>Raport</LtxtRep>
+    <LtxtDelSearchOrder>Szukaj zlecenia sprzedaży</LtxtDelSearchOrder>
+    <LtxtSelect>Wybierz</LtxtSelect>
+    <LtxtValSelHWS>Musisz wybrać magazyn </LtxtValSelHWS>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtInvRecount>Prepočítanie inventáru</LtxtInvRecount>
+    <LtxtSelWHS>Vybrať sklad, s ktorým chcete pracovať</LtxtSelWHS>
+    <LtxtRep>Správa</LtxtRep>
+    <LtxtDelSearchOrder>Vyhľadať Zákazku odberateľa</LtxtDelSearchOrder>
+    <LtxtSelect>Vybrať</LtxtSelect>
+    <LtxtValSelHWS>Musíte vybrať nejaký sklad</LtxtValSelHWS>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtSelWHS>&lt;--&gt;</LtxtSelWHS>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtDelSearchOrder>&lt;--&gt;</LtxtDelSearchOrder>
+    <LtxtSelect>&lt;--&gt;</LtxtSelect>
+    <LtxtValSelHWS>&lt;--&gt;</LtxtValSelHWS>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtInvRecount>LtxtInvRecount</LtxtInvRecount>
+    <LtxtSelWHS>LtxtSelWHS</LtxtSelWHS>
+    <LtxtRep>LtxtRep</LtxtRep>
+    <LtxtDelSearchOrder>LtxtDelSearchOrder</LtxtDelSearchOrder>
+    <LtxtSelect>LtxtSelect</LtxtSelect>
+    <LtxtValSelHWS>LtxtValSelHWS</LtxtValSelHWS>
+  </language>
+</languages>

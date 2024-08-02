@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <LttlCartLineBatch>Cart - Lines - Batches</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Defined value greater than available value</LtxtValMoreThenAvl>
+    <LtxtValReqQty>The selected quantity is greater than the required quantity</LtxtValReqQty>
+    <LttlBatchSel>Batch Selection</LttlBatchSel>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtSelection>Selection</LtxtSelection>
+    <LtxtBatch>Batch</LtxtBatch>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtSelQty>Selected Quantity</LtxtSelQty>
+    <LtxtPendQty>Pending Quantity</LtxtPendQty>
+    <LtxtValCloseWin>All changes will be lost.\nDo you wish to continue?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtItem>Artículo</DtxtItem>
+    <LttlCartLineBatch>Canasta - Líneas - Lotes</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>No puede definir un valor mayor que el disponible</LtxtValMoreThenAvl>
+    <LtxtValReqQty>La cantidad seleccionada sobrepasa la cantidad requerida</LtxtValReqQty>
+    <LttlBatchSel>Selección de Lotes</LttlBatchSel>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtSelection>Selección</LtxtSelection>
+    <LtxtBatch>Lote</LtxtBatch>
+    <LtxtReqQty>Cantidad Requerida</LtxtReqQty>
+    <LtxtSelQty>Cantidad Seleccionada</LtxtSelQty>
+    <LtxtPendQty>Cantidad Pendiente</LtxtPendQty>
+    <LtxtValCloseWin>Perderá todos los cambios que ha realizado.\n¿Desea continuar?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtItem>פריט</DtxtItem>
+    <LttlCartLineBatch>סל קניות - שורות - אצוות</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>לא ניתן לקחת כמות גבוה מהכמות הזמינה</LtxtValMoreThenAvl>
+    <LtxtValReqQty>הכמות שנבחרה גבוה מהכמות הנחוצה</LtxtValReqQty>
+    <LttlBatchSel>בחירת אצוות</LttlBatchSel>
+    <LtxtAvl>זמין</LtxtAvl>
+    <LtxtSelection>בחירה</LtxtSelection>
+    <LtxtBatch>אצווה</LtxtBatch>
+    <LtxtReqQty>כמות נחוצה</LtxtReqQty>
+    <LtxtSelQty>כמות שנבחרה</LtxtSelQty>
+    <LtxtPendQty>כמות לפריסה</LtxtPendQty>
+    <LtxtValCloseWin>ביטול יגרום לאיבוד כל השינויים שביצעת! המשך ?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <LttlCartLineBatch>Cart - Lines - Batches</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Defined value greater than available value</LtxtValMoreThenAvl>
+    <LtxtValReqQty>The selected quantity is greater than the required quantity</LtxtValReqQty>
+    <LttlBatchSel>Batch Selection</LttlBatchSel>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtSelection>Selection</LtxtSelection>
+    <LtxtBatch>Batch</LtxtBatch>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtSelQty>Selected Quantity</LtxtSelQty>
+    <LtxtPendQty>Pending Quantity</LtxtPendQty>
+    <LtxtValCloseWin>All changes will be lost.\nDo you wish to continue?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Armazem</DtxtWarehouse>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <LttlCartLineBatch>Cesta - Linhas - Lotes</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Não pode definir um valor maior que o disponível</LtxtValMoreThenAvl>
+    <LtxtValReqQty>A quantidade selecionada supera a quantidade requisitada</LtxtValReqQty>
+    <LttlBatchSel>Seleção de Lotes</LttlBatchSel>
+    <LtxtAvl>Disponível</LtxtAvl>
+    <LtxtSelection>Seleção</LtxtSelection>
+    <LtxtBatch>Lote</LtxtBatch>
+    <LtxtReqQty>Quantidade Requisitada</LtxtReqQty>
+    <LtxtSelQty>Quantidade Selecionada</LtxtSelQty>
+    <LtxtPendQty>Quantidade Pendente</LtxtPendQty>
+    <LtxtValCloseWin>Perderá todas as modificações que realizou. Deseja continuar?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Article</DtxtItem>
+    <LttlCartLineBatch>Corbeilles - Lignes - Lots</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Vous ne pouvez pas définir une valeur plus grand que la disponible</LtxtValMoreThenAvl>
+    <LtxtValReqQty>La quantité sélectionnée dépasse la quantité demandée</LtxtValReqQty>
+    <LttlBatchSel>Sélection des lots</LttlBatchSel>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtSelection>Sélection</LtxtSelection>
+    <LtxtBatch>Lots</LtxtBatch>
+    <LtxtReqQty>Quantité demandée</LtxtReqQty>
+    <LtxtSelQty>Quantité sélectionnée</LtxtSelQty>
+    <LtxtPendQty>Quantité exigible</LtxtPendQty>
+    <LtxtValCloseWin>Vous-perdrez tous les changements que vous avez déjà fait. Veuillez-vous continuer?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtItem>Artikel</DtxtItem>
+    <LttlCartLineBatch>Einkaufswagen - Zeilen - Bündel</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Der angegebene Wert überschreitet den vorhandenen Wert</LtxtValMoreThenAvl>
+    <LtxtValReqQty>Die ausgewählte Menge überschreitet die erforderliche Menge</LtxtValReqQty>
+    <LttlBatchSel>Bündel Auswahl</LttlBatchSel>
+    <LtxtAvl>Vorhanden</LtxtAvl>
+    <LtxtSelection>Auswahl</LtxtSelection>
+    <LtxtBatch>Bündel</LtxtBatch>
+    <LtxtReqQty>Erforderliche Menge</LtxtReqQty>
+    <LtxtSelQty>Ausgewählte Menge</LtxtSelQty>
+    <LtxtPendQty>Anliegende Menge</LtxtPendQty>
+    <LtxtValCloseWin>Alle Änderungen werden gelöscht.\nMöchten Sie wirklich fortfahren?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtItem>Деталь</DtxtItem>
+    <LttlCartLineBatch>Корзины - линии - партии</LttlCartLineBatch>
+    <LtxtValMoreThenAvl> Цены не могут быть выше доступных</LtxtValMoreThenAvl>
+    <LtxtValReqQty>Выбраная величина больше требуемой</LtxtValReqQty>
+    <LttlBatchSel>Выбор партии</LttlBatchSel>
+    <LtxtAvl>Доступный</LtxtAvl>
+    <LtxtSelection>Выбор</LtxtSelection>
+    <LtxtBatch>Партии</LtxtBatch>
+    <LtxtReqQty>Необходимое количество</LtxtReqQty>
+    <LtxtSelQty>Выбранное количество</LtxtSelQty>
+    <LtxtPendQty>Предварительное количество</LtxtPendQty>
+    <LtxtValCloseWin>Все изменения будут потеряны.\nВы хотите продолжить?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <LttlCartLineBatch>Košík - Řádky - Dávky</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Definovaná hodnota je větší než dostupné množství</LtxtValMoreThenAvl>
+    <LtxtValReqQty>Vybrané množství je větší než požadované množství</LtxtValReqQty>
+    <LttlBatchSel>Výběr dávky</LttlBatchSel>
+    <LtxtAvl>Dostupné</LtxtAvl>
+    <LtxtSelection>Výběr</LtxtSelection>
+    <LtxtBatch>Dávka</LtxtBatch>
+    <LtxtReqQty>Požadované množství</LtxtReqQty>
+    <LtxtSelQty>Zvolené množství</LtxtSelQty>
+    <LtxtPendQty>Nevyřízené množství</LtxtPendQty>
+    <LtxtValCloseWin>Všechny změny budou ztraceny.\nUrčitě chcete pokračovat?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtItem>Pozycja</DtxtItem>
+    <LttlCartLineBatch>Koszyk - wiersze - partie</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Wartość nie może być większa niż dostępna wartość</LtxtValMoreThenAvl>
+    <LtxtValReqQty>Wybrana ilość jest większa niż wymagana ilość</LtxtValReqQty>
+    <LttlBatchSel>Wybór partii</LttlBatchSel>
+    <LtxtAvl>Dostępny</LtxtAvl>
+    <LtxtSelection>Wybór</LtxtSelection>
+    <LtxtBatch>Partia</LtxtBatch>
+    <LtxtReqQty>Wymagana ilość</LtxtReqQty>
+    <LtxtSelQty>Wybrana ilość</LtxtSelQty>
+    <LtxtPendQty>Pozostająca ilość</LtxtPendQty>
+    <LtxtValCloseWin>Wszystkie zmiany zostaną utracone. Czy chcesz kontynuować?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <LttlCartLineBatch>Košík - Riadky - Šarže</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>Definovaná hodnota je väčšia ako dostupná hodnota</LtxtValMoreThenAvl>
+    <LtxtValReqQty>Zvolené množstvo je väčšie ako požadované množstvo</LtxtValReqQty>
+    <LttlBatchSel>Výber šarže</LttlBatchSel>
+    <LtxtAvl>Dostupné</LtxtAvl>
+    <LtxtSelection>Výber</LtxtSelection>
+    <LtxtBatch>Šarža</LtxtBatch>
+    <LtxtReqQty>Požadované množstvo</LtxtReqQty>
+    <LtxtSelQty>Zvolené množstvo</LtxtSelQty>
+    <LtxtPendQty>Nespracované množstvo</LtxtPendQty>
+    <LtxtValCloseWin>Všetky zmeny budú stratené.\nPrajete si pokračovať?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <LttlCartLineBatch>LttlCartLineBatch</LttlCartLineBatch>
+    <LtxtValMoreThenAvl>LtxtValMoreThenAvl</LtxtValMoreThenAvl>
+    <LtxtValReqQty>LtxtValReqQty</LtxtValReqQty>
+    <LttlBatchSel>LttlBatchSel</LttlBatchSel>
+    <LtxtAvl>LtxtAvl</LtxtAvl>
+    <LtxtSelection>LtxtSelection</LtxtSelection>
+    <LtxtBatch>LtxtBatch</LtxtBatch>
+    <LtxtReqQty>LtxtReqQty</LtxtReqQty>
+    <LtxtSelQty>LtxtSelQty</LtxtSelQty>
+    <LtxtPendQty>LtxtPendQty</LtxtPendQty>
+    <LtxtValCloseWin>LtxtValCloseWin</LtxtValCloseWin>
+  </language>
+</languages>

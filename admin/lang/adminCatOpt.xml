@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customized</DtxtCustomized>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtJustify>Justify</DtxtJustify>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtList>List</DtxtList>
+    <DtxtDocEntry>Document entry</DtxtDocEntry>
+    <LttlItmSearchCust>Catalog Customization</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Here the manner in which item search results will be displayed, the amount of items per page, and the size of the item images may be customized.</LttlItmSearchCustNote>
+    <LtxtCatOf>Catalog</LtxtCatOf>
+    <LtxtImgSize>Image Size</LtxtImgSize>
+    <LtxtAmountRows>Amount of Rows</LtxtAmountRows>
+    <LtxtAmountCols>Column Quantity</LtxtAmountCols>
+    <LtxtValDelFld>Are you sure you want to delete the field {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Please enter the field name</LtxtValFldNam>
+    <LtxtValQry>You need to enter the query that you want to use for the value of this field</LtxtValQry>
+    <LtxtValQryVal>You need to verify the query before you can add the field</LtxtValQryVal>
+    <LttlAddCustFld>Add Customized Field</LttlAddCustFld>
+    <LttlEditCustFld>Edit Customized Field</LttlEditCustFld>
+    <LttlCustFldNote>Here fields displayed for items in search results may be added, edited, and have their accesses defined.</LttlCustFldNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtItemsMaster>Items Master</LtxtItemsMaster>
+    <LtxtItmMasWhs>Items Master in Warehouses - Only if the inventory availability is by warehouse</LtxtItmMasWhs>
+    <LtxtPList>Price List (Cart only)</LtxtPList>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtCatOnly>Catalog Only</LtxtCatOnly>
+    <LtxtDocTable>Document Table</LtxtDocTable>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificación</DtxtCodification>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtMedium>Media</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatoria</DtxtRndLtr>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAlignment>Alineamiento</DtxtAlignment>
+    <DtxtLeft>Izquierda</DtxtLeft>
+    <DtxtRight>Derecha</DtxtRight>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtJustify>Justificado</DtxtJustify>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtLine>Línea</DtxtLine>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtDecSum>Importes</DtxtDecSum>
+    <DtxtDecPrice>Precios</DtxtDecPrice>
+    <DtxtDecRate>Tasas</DtxtDecRate>
+    <DtxtDecQty>Cantidades</DtxtDecQty>
+    <DtxtDecPercent>Porcentaje</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtPosition2>Posición</DtxtPosition2>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDocEntry>Llave de documento</DtxtDocEntry>
+    <LttlItmSearchCust>Personalización de catálogo</LttlItmSearchCust>
+    <LttlItmSearchCustNote>En esta sección podrá personalizar la forma como se va a desplegar la búsqueda de los artículos en el catálogo, la cantidad de artículos en la ventana y además podrá personalizar el tamaño de las imágenes de los artículos.</LttlItmSearchCustNote>
+    <LtxtCatOf>Catálogo de</LtxtCatOf>
+    <LtxtImgSize>Tamaño de imágenes</LtxtImgSize>
+    <LtxtAmountRows>Cantidad de filas</LtxtAmountRows>
+    <LtxtAmountCols>Cantidad de columnas</LtxtAmountCols>
+    <LtxtValDelFld>¿Está seguro que desea eliminar el campo {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Debe introducir el nombre del campo</LtxtValFldNam>
+    <LtxtValQry>Debe introducir la consulta que desea utilizar para el campo</LtxtValQry>
+    <LtxtValQryVal>Debe verificar la consulta antes de agregar el campo</LtxtValQryVal>
+    <LttlAddCustFld>Agregar Campo Personalizado</LttlAddCustFld>
+    <LttlEditCustFld>Editar Campo Personalizado</LttlEditCustFld>
+    <LttlCustFldNote>En esta sección podrá agregar/editar campos para mayor detalle del artículo en la búsqueda y podrá definir quienes van a tener acceso a estos campos.</LttlCustFldNote>
+    <LtxtAvlTables>Tablas</LtxtAvlTables>
+    <LtxtItemsMaster>Tabla de artículos</LtxtItemsMaster>
+    <LtxtItmMasWhs>Maestro de artículos en almacenes - Solo si la disponibilidad del inventario es por almacén</LtxtItmMasWhs>
+    <LtxtPList>Lista de precios (Canasta solamente)</LtxtPList>
+    <LtxtCCode>Código de Cliente (Cliente activo solamente)</LtxtCCode>
+    <LtxtSesion>Sesión</LtxtSesion>
+    <LtxtCatOnly>Catalogo Solamente</LtxtCatOnly>
+    <LtxtDocTable>Tabla de Documento</LtxtDocTable>
+    <LtxtDocNum>Numero de Documento</LtxtDocNum>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtCodification>קידוד</DtxtCodification>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtMedium>אמצע</DtxtMedium>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtRndLtr>קידוד אוטומטי</DtxtRndLtr>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtCustomized>התאמה אישית</DtxtCustomized>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtAlignment>יישור</DtxtAlignment>
+    <DtxtLeft>שמאל</DtxtLeft>
+    <DtxtRight>ימין</DtxtRight>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCenter>אמצע</DtxtCenter>
+    <DtxtJustify>מאוזן</DtxtJustify>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtLine>שורה</DtxtLine>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtDecSum>סכומים</DtxtDecSum>
+    <DtxtDecPrice>מחירים</DtxtDecPrice>
+    <DtxtDecRate>שערים</DtxtDecRate>
+    <DtxtDecQty>כמויות</DtxtDecQty>
+    <DtxtDecPercent>אחוזים</DtxtDecPercent>
+    <DtxtDecMeasure>יחידות</DtxtDecMeasure>
+    <DtxtDecimal>עשרוני</DtxtDecimal>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtPosition2>מיקום</DtxtPosition2>
+    <DtxtList>רשימה</DtxtList>
+    <DtxtDocEntry>מפתח מסמך</DtxtDocEntry>
+    <LttlItmSearchCust>עריכה אישית של הקטלוג</LttlItmSearchCust>
+    <LttlItmSearchCustNote>בחלק זה תוכל לערוך את תצוגת הקטלוג באופן אישי כגון כמות פריטים לשורה, גודל תמונה ויצירה\עריכה של שדות אישיים.</LttlItmSearchCustNote>
+    <LtxtCatOf>קטלוג</LtxtCatOf>
+    <LtxtImgSize>גודל תמונה</LtxtImgSize>
+    <LtxtAmountRows>כמות שורות</LtxtAmountRows>
+    <LtxtAmountCols>כמות טורים</LtxtAmountCols>
+    <LtxtValDelFld>האם למחוק שדה, {0}?</LtxtValDelFld>
+    <LtxtValFldNam>צריך לתת שם לשדה</LtxtValFldNam>
+    <LtxtValQry>יש למלא את השאילתא לשדה</LtxtValQry>
+    <LtxtValQryVal>צריך לאשר את השאילתא לפני הוספת</LtxtValQryVal>
+    <LttlAddCustFld>הוסף שדה אישי</LttlAddCustFld>
+    <LttlEditCustFld>ערוך שדה אישי</LttlEditCustFld>
+    <LttlCustFldNote>בחלק זה תוכל לערוך וליצור שדות אישים אשר יופיעו בחיפוש פריטים, גם תוכל להגדיר אילו שדות היו זמינים (לקוחות\סוכנים).</LttlCustFldNote>
+    <LtxtAvlTables>טבלות</LtxtAvlTables>
+    <LtxtItemsMaster>טבלת פריטים</LtxtItemsMaster>
+    <LtxtItmMasWhs>נתוני הפריט לפי מחסן זמינים רק עם מוגדר בדיקת מלאי לפי מחסן</LtxtItmMasWhs>
+    <LtxtPList>מחירון (רק כאשר סל קניות פעיל)</LtxtPList>
+    <LtxtCCode>קוד לקוח (רק כאשר סל קניות פעיל)</LtxtCCode>
+    <LtxtSesion>מחובר</LtxtSesion>
+    <LtxtCatOnly>קטלוג בלבד</LtxtCatOnly>
+    <LtxtDocTable>טבלת המסמך</LtxtDocTable>
+    <LtxtDocNum>מספר המסמך</LtxtDocNum>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Encryption</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtCustomized>Customised</DtxtCustomized>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtJustify>Justify</DtxtJustify>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtList>List</DtxtList>
+    <DtxtDocEntry>Document entry</DtxtDocEntry>
+    <LttlItmSearchCust>Catalog Customization</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Here the manner in which item search results will be displayed, the amount of items per page, and the size of the item images may be customized.</LttlItmSearchCustNote>
+    <LtxtCatOf>Catalog</LtxtCatOf>
+    <LtxtImgSize>Image Size</LtxtImgSize>
+    <LtxtAmountRows>Amount of Rows</LtxtAmountRows>
+    <LtxtAmountCols>Column Quantity</LtxtAmountCols>
+    <LtxtValDelFld>Are you sure you want to delete the field {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Please enter the field name</LtxtValFldNam>
+    <LtxtValQry>You need to enter the query that you want to use for the value of this field</LtxtValQry>
+    <LtxtValQryVal>You need to verify the query before you can add the field</LtxtValQryVal>
+    <LttlAddCustFld>Add Customized Field</LttlAddCustFld>
+    <LttlEditCustFld>Edit Customized Field</LttlEditCustFld>
+    <LttlCustFldNote>Here fields displayed for items in search results may be added, edited, and have their accesses defined.</LttlCustFldNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtItemsMaster>Items Master</LtxtItemsMaster>
+    <LtxtItmMasWhs>Items Master in Warehouses - Only if the inventory availability is by warehouse</LtxtItmMasWhs>
+    <LtxtPList>Price List (Cart only)</LtxtPList>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtCatOnly>Catalog Only</LtxtCatOnly>
+    <LtxtDocTable>Document Table</LtxtDocTable>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificação</DtxtCodification>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtMedium>Médio</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatória</DtxtRndLtr>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAlignment>Alinhamento</DtxtAlignment>
+    <DtxtLeft>Esquerda</DtxtLeft>
+    <DtxtRight>Direita</DtxtRight>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtJustify>Justificado</DtxtJustify>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtLine>Linha</DtxtLine>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtDecSum>Quantidades</DtxtDecSum>
+    <DtxtDecPrice>Preços</DtxtDecPrice>
+    <DtxtDecRate>Taxas</DtxtDecRate>
+    <DtxtDecQty>Quantidades</DtxtDecQty>
+    <DtxtDecPercent>Percentagem</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtPosition2>Posição</DtxtPosition2>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDocEntry>Entrada do documento</DtxtDocEntry>
+    <LttlItmSearchCust>Personalização do catálogo</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Nesta seção, poderá personalizar a forma como vai realizar a busca dos itens no catálogo, a quantidade de itens na janela e ainda poderá personalizar o tamanho das imagens dos itens.</LttlItmSearchCustNote>
+    <LtxtCatOf>Catálogo de </LtxtCatOf>
+    <LtxtImgSize>Tamanho de imagens</LtxtImgSize>
+    <LtxtAmountRows>Quantidade de filas</LtxtAmountRows>
+    <LtxtAmountCols>Quantidade de colunas</LtxtAmountCols>
+    <LtxtValDelFld>Você tem certeza que deseja excluir o campo {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Deve inserir o nome do campo</LtxtValFldNam>
+    <LtxtValQry>Deve inserir a consulta que deseja utilizar para o campo</LtxtValQry>
+    <LtxtValQryVal>Deve verificar a consulta antes de adicionar o campo</LtxtValQryVal>
+    <LttlAddCustFld>Adicionar Campo personalizado</LttlAddCustFld>
+    <LttlEditCustFld>Editar Campo Personalizado</LttlEditCustFld>
+    <LttlCustFldNote>Nesta seção, poderá adicionar/editar campos para maior detalhe do item na busca e poderá definir quem vão ter acesso a estes campos.</LttlCustFldNote>
+    <LtxtAvlTables>Tabelas</LtxtAvlTables>
+    <LtxtItemsMaster>Tabela de itens</LtxtItemsMaster>
+    <LtxtItmMasWhs>Cadastro de Item no armazém - Somente se a disponibilidade de estoque for por armazém </LtxtItmMasWhs>
+    <LtxtPList>Lista de preços (Carrinho somente)</LtxtPList>
+    <LtxtCCode>Código de Cliente (Somente Cliente ativo )</LtxtCCode>
+    <LtxtSesion>Sessão</LtxtSesion>
+    <LtxtCatOnly>Somente Catálago</LtxtCatOnly>
+    <LtxtDocTable>Tabela de Documento</LtxtDocTable>
+    <LtxtDocNum>Número de Documento</LtxtDocNum>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtMedium>Moyenne</DtxtMedium>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtRndLtr>Caractère aléatoire</DtxtRndLtr>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtCustomized>Personnalisé</DtxtCustomized>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAlignment>Alignement</DtxtAlignment>
+    <DtxtLeft>Gauche</DtxtLeft>
+    <DtxtRight>Droite</DtxtRight>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtJustify>Justifié</DtxtJustify>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtLine>Ligne</DtxtLine>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtDecSum>Montants, Valeurs</DtxtDecSum>
+    <DtxtDecPrice>Prix</DtxtDecPrice>
+    <DtxtDecRate>Taux</DtxtDecRate>
+    <DtxtDecQty>Quantités</DtxtDecQty>
+    <DtxtDecPercent>Taux</DtxtDecPercent>
+    <DtxtDecMeasure>Unités</DtxtDecMeasure>
+    <DtxtDecimal>Décimal</DtxtDecimal>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtDocEntry>&lt;--&gt;</DtxtDocEntry>
+    <LttlItmSearchCust>Personnalisation du catalogue</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Dans cette section vous pourrez personnaliser le moyen comme on va à déplier la recherche des articles dans le catalogue, la quantité des articles dans la fenêtre et aussi pourrez-vous personnaliser la taille des images des articles.</LttlItmSearchCustNote>
+    <LtxtCatOf>Catalogue de</LtxtCatOf>
+    <LtxtImgSize>Taille d'images</LtxtImgSize>
+    <LtxtAmountRows>Quantité des files</LtxtAmountRows>
+    <LtxtAmountCols>Quantité des colonnes</LtxtAmountCols>
+    <LtxtValDelFld>Êtes-vous sûre d\'éliminer le domaine {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Devez-vous insérer le nom du domaine</LtxtValFldNam>
+    <LtxtValQry>Devez-vous insérer la consultation que vous souhaitez utiliser pour le domaine</LtxtValQry>
+    <LtxtValQryVal>Devez-vous vérifier la consultation avant d\'ajouter le domaine</LtxtValQryVal>
+    <LttlAddCustFld>Ajouter le domaine personnalisé</LttlAddCustFld>
+    <LttlEditCustFld>Éditer le domaine personnalisé</LttlEditCustFld>
+    <LttlCustFldNote>Dans cette section vous pourrez ajouter/éditer de domaines pour plus grand détail de l'article dans la recherche et pourrez-vous détérminer qui vont avoir l'accès à ces domaines</LttlCustFldNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtItemsMaster>Table des articles</LtxtItemsMaster>
+    <LtxtItmMasWhs>&lt;--&gt;</LtxtItmMasWhs>
+    <LtxtPList>Liste des prix (seulement corbeille)</LtxtPList>
+    <LtxtCCode>Code du client (seulement que Client active)</LtxtCCode>
+    <LtxtSesion>Séance</LtxtSesion>
+    <LtxtCatOnly>&lt;--&gt;</LtxtCatOnly>
+    <LtxtDocTable>&lt;--&gt;</LtxtDocTable>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtCodification>Verschlüsselung</DtxtCodification>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtRndLtr>Wilkürlicher Buchstabe</DtxtRndLtr>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtCustomized>Kundenindividuell</DtxtCustomized>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAlignment>Anpassung</DtxtAlignment>
+    <DtxtLeft>Links</DtxtLeft>
+    <DtxtRight>Rechts</DtxtRight>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtJustify>Ausrichten</DtxtJustify>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtLine>Zeile</DtxtLine>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtDecSum>Mengen</DtxtDecSum>
+    <DtxtDecPrice>Preise</DtxtDecPrice>
+    <DtxtDecRate>Tarife</DtxtDecRate>
+    <DtxtDecQty>Mengen</DtxtDecQty>
+    <DtxtDecPercent>Prozent</DtxtDecPercent>
+    <DtxtDecMeasure>Einheiten</DtxtDecMeasure>
+    <DtxtDecimal>Dezimal</DtxtDecimal>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtList>Aufstellung</DtxtList>
+    <DtxtDocEntry>Dokument Eingabe</DtxtDocEntry>
+    <LttlItmSearchCust>Katalog individuell gestalten</LttlItmSearchCust>
+    <LttlItmSearchCustNote>In diesem Bereich kann man bestimmen wie das Suchergebniss eines Artikels im Katalog erscheint, die Menge der Artikel im Fenster, und die grösse der Artikelbilder.</LttlItmSearchCustNote>
+    <LtxtCatOf>Katalog</LtxtCatOf>
+    <LtxtImgSize>Bildgrösse</LtxtImgSize>
+    <LtxtAmountRows>Menge der Reihen</LtxtAmountRows>
+    <LtxtAmountCols>Menge der Spalten</LtxtAmountCols>
+    <LtxtValDelFld>Möchten Sie das Feld {0} wirklich löschen?</LtxtValDelFld>
+    <LtxtValFldNam>Bitte geben Sie den Feldnamen ein</LtxtValFldNam>
+    <LtxtValQry>Sie müssen die Anfrage eingeben die Sie für den Feldwert benutzen möchten.</LtxtValQry>
+    <LtxtValQryVal>Sie müssen die Anfrage bestätigen um das Feld hinzuzufügen</LtxtValQryVal>
+    <LttlAddCustFld>Indivisualisiertes Feld hinzufügen</LttlAddCustFld>
+    <LttlEditCustFld>Individualisiertes Feld bearbeiten</LttlEditCustFld>
+    <LttlCustFldNote>In diesem Bereich kann man Felder für die Suche von Artikeln hinzufügen/bearbeiten und bestimmen wer sie abrufen darf.</LttlCustFldNote>
+    <LtxtAvlTables>Tabellen</LtxtAvlTables>
+    <LtxtItemsMaster>Artikel-Hauptvorlage</LtxtItemsMaster>
+    <LtxtItmMasWhs>&lt;--&gt;</LtxtItmMasWhs>
+    <LtxtPList>Preisliste (nur Einkaufswagen)</LtxtPList>
+    <LtxtCCode>Kundenkennzeichen (Nur aktive Kunden)</LtxtCCode>
+    <LtxtSesion>Sitzung</LtxtSesion>
+    <LtxtCatOnly>&lt;--&gt;</LtxtCatOnly>
+    <LtxtDocTable>&lt;--&gt;</LtxtDocTable>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtCodification>Кодирование</DtxtCodification>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtMedium>Среднее</DtxtMedium>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtRndLtr>Автоматическое кодирование</DtxtRndLtr>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtCustomized>Настройка</DtxtCustomized>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtAlignment>Выравнивание</DtxtAlignment>
+    <DtxtLeft>Левое</DtxtLeft>
+    <DtxtRight>Правый</DtxtRight>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCenter>Середина</DtxtCenter>
+    <DtxtJustify>Сбалансирован</DtxtJustify>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtLine>Линия</DtxtLine>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtDecSum>Суммы</DtxtDecSum>
+    <DtxtDecPrice>Цены</DtxtDecPrice>
+    <DtxtDecRate>Курсы</DtxtDecRate>
+    <DtxtDecQty>Сумма</DtxtDecQty>
+    <DtxtDecPercent>Проценты</DtxtDecPercent>
+    <DtxtDecMeasure>Единицы</DtxtDecMeasure>
+    <DtxtDecimal>Десятичный</DtxtDecimal>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtPosition2>Положение</DtxtPosition2>
+    <DtxtList>Список</DtxtList>
+    <DtxtDocEntry>&lt;--&gt;</DtxtDocEntry>
+    <LttlItmSearchCust> Настройка собственного каталога</LttlItmSearchCust>
+    <LttlItmSearchCustNote>В этом разделе можно настроить способ результат поиска деталей которых собирается показать в каталоге, количестводеталей в окне и персонализировать размер изображения предметов.</LttlItmSearchCustNote>
+    <LtxtCatOf>Каталог</LtxtCatOf>
+    <LtxtImgSize>Калибровать изображение</LtxtImgSize>
+    <LtxtAmountRows>Количество строк</LtxtAmountRows>
+    <LtxtAmountCols>Количество колонок</LtxtAmountCols>
+    <LtxtValDelFld>Вы уверены, что хотите удалить поле {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Пожалуйста, введите имя поля</LtxtValFldNam>
+    <LtxtValQry>Вам нужно ввести запрос, который вы хотите использовать в качестве значения данного поля</LtxtValQry>
+    <LtxtValQryVal>Вам необходимо проверить запрос  прежде чем вы сможете добавить области</LtxtValQryVal>
+    <LttlAddCustFld>Добавить часное поле</LttlAddCustFld>
+    <LttlEditCustFld>Изменить собственное поле</LttlEditCustFld>
+    <LttlCustFldNote>В этом разделе можно будет добавлять / редактировать поля для поиска товаров и определить, кто может получить к ним доступ.</LttlCustFldNote>
+    <LtxtAvlTables>Таблицы</LtxtAvlTables>
+    <LtxtItemsMaster>Таблицы деталей</LtxtItemsMaster>
+    <LtxtItmMasWhs>Данные деталей находящихся на складе только после проверки о наличие на складе</LtxtItmMasWhs>
+    <LtxtPList>Прескурант (толко в рабочей корзине)</LtxtPList>
+    <LtxtCCode>Код клиента (только в рабочей корзине)</LtxtCCode>
+    <LtxtSesion>Подключен</LtxtSesion>
+    <LtxtCatOnly>&lt;--&gt;</LtxtCatOnly>
+    <LtxtDocTable>&lt;--&gt;</LtxtDocTable>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kódování</DtxtCodification>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtMedium>Střední</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný dopis</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Přizpůsobené</DtxtCustomized>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAlignment>Zarovnání</DtxtAlignment>
+    <DtxtLeft>Vlevo</DtxtLeft>
+    <DtxtRight>Vpravo</DtxtRight>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCenter>Středisko</DtxtCenter>
+    <DtxtJustify>Vysvětlit</DtxtJustify>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtLine>Řádka</DtxtLine>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtDecSum>Částky</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Sazby</DtxtDecRate>
+    <DtxtDecQty>Množství</DtxtDecQty>
+    <DtxtDecPercent>Procento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Decimální</DtxtDecimal>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtPosition2>Pozice</DtxtPosition2>
+    <DtxtList>Seznam</DtxtList>
+    <DtxtDocEntry>&lt;--&gt;</DtxtDocEntry>
+    <LttlItmSearchCust>Přizpůsobení katalogu</LttlItmSearchCust>
+    <LttlItmSearchCustNote>V této sekci je možné přizpůsobit způsob, jakým se výsledky vyhledávání položek zobrazí v katalogu, nastavit počet položek v okně, upravit velikost obrázku položek.</LttlItmSearchCustNote>
+    <LtxtCatOf>Katalog</LtxtCatOf>
+    <LtxtImgSize>Velikost obrázku</LtxtImgSize>
+    <LtxtAmountRows>Počet řádek</LtxtAmountRows>
+    <LtxtAmountCols>Sloupec Množství</LtxtAmountCols>
+    <LtxtValDelFld>Jste si jistý/á, že chcete vymazat pole {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Zadejte prosím název pole</LtxtValFldNam>
+    <LtxtValQry>Musíte zadat dotaz, který chcete použít pro hodnotu tohoto pole</LtxtValQry>
+    <LtxtValQryVal>Abyste mohl/a přidat pole, musíte ověřit dotaz</LtxtValQryVal>
+    <LttlAddCustFld>Přidat přizpůsobené pole</LttlAddCustFld>
+    <LttlEditCustFld>Upravit přizpůsobené pole</LttlEditCustFld>
+    <LttlCustFldNote>V této sekci bude možné přidat/upravit pole pro položkové vyhledávání a definovat, kdo k nim bude mít přístup.</LttlCustFldNote>
+    <LtxtAvlTables>Tabulky</LtxtAvlTables>
+    <LtxtItemsMaster>Master polozka</LtxtItemsMaster>
+    <LtxtItmMasWhs>Master polozky ve skladech - pouze, pokud dostupnost zásob je podle skladu</LtxtItmMasWhs>
+    <LtxtPList>Ceník (pouze košík)</LtxtPList>
+    <LtxtCCode>Kód klienta (pouze aktivní klient)</LtxtCCode>
+    <LtxtSesion>Relace</LtxtSesion>
+    <LtxtCatOnly>&lt;--&gt;</LtxtCatOnly>
+    <LtxtDocTable>&lt;--&gt;</LtxtDocTable>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kodowanie</DtxtCodification>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtMedium>Średni/a</DtxtMedium>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtRndLtr>Przypadkowa litera</DtxtRndLtr>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtCustomized>Wykonane na zamówienie/zindywidualizowane</DtxtCustomized>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAlignment>Wyrównanie</DtxtAlignment>
+    <DtxtLeft>Lewy</DtxtLeft>
+    <DtxtRight>Prawy</DtxtRight>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCenter>Środek</DtxtCenter>
+    <DtxtJustify>Wyjustowane</DtxtJustify>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtLine>Wiersz</DtxtLine>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kursy</DtxtDecRate>
+    <DtxtDecQty>Ilości</DtxtDecQty>
+    <DtxtDecPercent>Procenty</DtxtDecPercent>
+    <DtxtDecMeasure>Jednostki</DtxtDecMeasure>
+    <DtxtDecimal>Miejsce po przecinku</DtxtDecimal>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtPosition2>Położenie</DtxtPosition2>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDocEntry>Zapis w dokumencie</DtxtDocEntry>
+    <LttlItmSearchCust>Zindywidualizowanie katalogu</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Tutaj można zindywidualizować sposób, w jaki będę wyświetlane wyniki poszukiwania pozycji, ilość pozycji na stronę, rozmiar zdjęć pozycji. </LttlItmSearchCustNote>
+    <LtxtCatOf>Katalog</LtxtCatOf>
+    <LtxtImgSize>Rozmiar zdjęcia</LtxtImgSize>
+    <LtxtAmountRows>Liczba wierszy</LtxtAmountRows>
+    <LtxtAmountCols>Liczba kolumn</LtxtAmountCols>
+    <LtxtValDelFld>Czy jesteś pewien, że chcesz skasować pole {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Proszę wprowadź nazwę pola</LtxtValFldNam>
+    <LtxtValQry>Musisz wprowadzić zapytanie, którego chcesz użyć dla wartości  tego pola</LtxtValQry>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie zanim dodasz pole</LtxtValQryVal>
+    <LttlAddCustFld>Dodaj zindywidualizowane pole</LttlAddCustFld>
+    <LttlEditCustFld>Edytuj zindywidualizowane pole</LttlEditCustFld>
+    <LttlCustFldNote>Tutaj można dodawać, edytować i określać dostęp dla pól wyświetlanych dla pozycji w poszukiwaniu wyników.</LttlCustFldNote>
+    <LtxtAvlTables>Tabele</LtxtAvlTables>
+    <LtxtItemsMaster>Tabela pozycji</LtxtItemsMaster>
+    <LtxtItmMasWhs>Tabela pozycji w magazynie - tylko jeśli dostępność zapasów jest w podziale na magazyny</LtxtItmMasWhs>
+    <LtxtPList>Cennik (tylko gdy koszyk jest aktywny)</LtxtPList>
+    <LtxtCCode>Kod klienta (tylko aktywni klienci)</LtxtCCode>
+    <LtxtSesion>Sesja</LtxtSesion>
+    <LtxtCatOnly>Tylko katalog</LtxtCatOnly>
+    <LtxtDocTable>Tabela dokumentu</LtxtDocTable>
+    <LtxtDocNum>Numer Dokumentu</LtxtDocNum>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtCodification>Kodifikácia</DtxtCodification>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtMedium>Stredný</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný list</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtCustomized>Prispôsobené na mieru</DtxtCustomized>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtAlignment>Zarovnanie</DtxtAlignment>
+    <DtxtLeft>Naľavo</DtxtLeft>
+    <DtxtRight>Pravý</DtxtRight>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCenter>Stred</DtxtCenter>
+    <DtxtJustify>Vyrovnať</DtxtJustify>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtLine>Riadok</DtxtLine>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kurzy</DtxtDecRate>
+    <DtxtDecQty>Množstvá</DtxtDecQty>
+    <DtxtDecPercent>Percento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Desatinné</DtxtDecimal>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtPosition2>Pozícia</DtxtPosition2>
+    <DtxtList>Zoznam</DtxtList>
+    <DtxtDocEntry>Vloženie dokumentu</DtxtDocEntry>
+    <LttlItmSearchCust>Prispôsobenie katalógu</LttlItmSearchCust>
+    <LttlItmSearchCustNote>Tu sa dá prispôsobiť spôsob, akým budú položky výsledkov vyhľadávania zobrazené, počet položiek na stránku a veľkosť obrázkov položky.</LttlItmSearchCustNote>
+    <LtxtCatOf>Katalóg</LtxtCatOf>
+    <LtxtImgSize>Veľkosť obrázka</LtxtImgSize>
+    <LtxtAmountRows>Počet riadkov</LtxtAmountRows>
+    <LtxtAmountCols>Množstvo stĺpca</LtxtAmountCols>
+    <LtxtValDelFld>Ste si istí, že chcete zmazať políčko {0}?</LtxtValDelFld>
+    <LtxtValFldNam>Prosím, zadajte názov políčka</LtxtValFldNam>
+    <LtxtValQry>Musíte zadať dotaz, ktorý chcete použiť pre hodnotu tohto políčka</LtxtValQry>
+    <LtxtValQryVal>Musíte overiť dotaz pred pridaním políčka</LtxtValQryVal>
+    <LttlAddCustFld>Pridať prispôsobené políčko</LttlAddCustFld>
+    <LttlEditCustFld>Editovať prispôsobené políčko</LttlEditCustFld>
+    <LttlCustFldNote>Tu sa dajú pridať a editovať políčka zobrazené pre položky vo výsledkoch vyhľadávania a definovať prístupy k nim.</LttlCustFldNote>
+    <LtxtAvlTables>Tabuľky</LtxtAvlTables>
+    <LtxtItemsMaster>Vlastník položky</LtxtItemsMaster>
+    <LtxtItmMasWhs>Vlastník položiek v Skladoch - Len ak je dostupnosť inventára podľa skladu</LtxtItmMasWhs>
+    <LtxtPList>Cenník (Len košík9</LtxtPList>
+    <LtxtCCode>Kód klienta (Len aktívny klient)</LtxtCCode>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtCatOnly>Len katalóg</LtxtCatOnly>
+    <LtxtDocTable>Tabuľka dokumentu</LtxtDocTable>
+    <LtxtDocNum>Císlo dokumentu</LtxtDocNum>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtCodification>&lt;--&gt;</DtxtCodification>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtMedium>&lt;--&gt;</DtxtMedium>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <DtxtRndLtr>&lt;--&gt;</DtxtRndLtr>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtCustomized>&lt;--&gt;</DtxtCustomized>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtStore>&lt;--&gt;</DtxtStore>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtAlignment>&lt;--&gt;</DtxtAlignment>
+    <DtxtLeft>&lt;--&gt;</DtxtLeft>
+    <DtxtRight>&lt;--&gt;</DtxtRight>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtCenter>&lt;--&gt;</DtxtCenter>
+    <DtxtJustify>&lt;--&gt;</DtxtJustify>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtLine>&lt;--&gt;</DtxtLine>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtDecSum>&lt;--&gt;</DtxtDecSum>
+    <DtxtDecPrice>&lt;--&gt;</DtxtDecPrice>
+    <DtxtDecRate>&lt;--&gt;</DtxtDecRate>
+    <DtxtDecQty>&lt;--&gt;</DtxtDecQty>
+    <DtxtDecPercent>&lt;--&gt;</DtxtDecPercent>
+    <DtxtDecMeasure>&lt;--&gt;</DtxtDecMeasure>
+    <DtxtDecimal>&lt;--&gt;</DtxtDecimal>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtDocEntry>&lt;--&gt;</DtxtDocEntry>
+    <LttlItmSearchCust>&lt;--&gt;</LttlItmSearchCust>
+    <LttlItmSearchCustNote>&lt;--&gt;</LttlItmSearchCustNote>
+    <LtxtCatOf>&lt;--&gt;</LtxtCatOf>
+    <LtxtImgSize>&lt;--&gt;</LtxtImgSize>
+    <LtxtAmountRows>&lt;--&gt;</LtxtAmountRows>
+    <LtxtAmountCols>&lt;--&gt;</LtxtAmountCols>
+    <LtxtValDelFld>&lt;--&gt;</LtxtValDelFld>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+    <LtxtValQry>&lt;--&gt;</LtxtValQry>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LttlAddCustFld>&lt;--&gt;</LttlAddCustFld>
+    <LttlEditCustFld>&lt;--&gt;</LttlEditCustFld>
+    <LttlCustFldNote>&lt;--&gt;</LttlCustFldNote>
+    <LtxtAvlTables>&lt;--&gt;</LtxtAvlTables>
+    <LtxtItemsMaster>&lt;--&gt;</LtxtItemsMaster>
+    <LtxtItmMasWhs>&lt;--&gt;</LtxtItmMasWhs>
+    <LtxtPList>&lt;--&gt;</LtxtPList>
+    <LtxtCCode>&lt;--&gt;</LtxtCCode>
+    <LtxtSesion>&lt;--&gt;</LtxtSesion>
+    <LtxtCatOnly>&lt;--&gt;</LtxtCatOnly>
+    <LtxtDocTable>&lt;--&gt;</LtxtDocTable>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtCodification>DtxtCodification</DtxtCodification>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtMedium>DtxtMedium</DtxtMedium>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtRndLtr>DtxtRndLtr</DtxtRndLtr>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtCustomized>DtxtCustomized</DtxtCustomized>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtAlignment>DtxtAlignment</DtxtAlignment>
+    <DtxtLeft>DtxtLeft</DtxtLeft>
+    <DtxtRight>DtxtRight</DtxtRight>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCenter>DtxtCenter</DtxtCenter>
+    <DtxtJustify>DtxtJustify</DtxtJustify>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtLine>DtxtLine</DtxtLine>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtDecSum>DtxtDecSum</DtxtDecSum>
+    <DtxtDecPrice>DtxtDecPrice</DtxtDecPrice>
+    <DtxtDecRate>DtxtDecRate</DtxtDecRate>
+    <DtxtDecQty>DtxtDecQty</DtxtDecQty>
+    <DtxtDecPercent>DtxtDecPercent</DtxtDecPercent>
+    <DtxtDecMeasure>DtxtDecMeasure</DtxtDecMeasure>
+    <DtxtDecimal>DtxtDecimal</DtxtDecimal>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtPosition2>DtxtPosition2</DtxtPosition2>
+    <DtxtList>DtxtList</DtxtList>
+    <DtxtDocEntry>DtxtDocEntry</DtxtDocEntry>
+    <LttlItmSearchCust>LttlItmSearchCust</LttlItmSearchCust>
+    <LttlItmSearchCustNote>LttlItmSearchCustNote</LttlItmSearchCustNote>
+    <LtxtCatOf>LtxtCatOf</LtxtCatOf>
+    <LtxtImgSize>LtxtImgSize</LtxtImgSize>
+    <LtxtAmountRows>LtxtAmountRows</LtxtAmountRows>
+    <LtxtAmountCols>LtxtAmountCols</LtxtAmountCols>
+    <LtxtValDelFld>LtxtValDelFld</LtxtValDelFld>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+    <LtxtValQry>LtxtValQry</LtxtValQry>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LttlAddCustFld>LttlAddCustFld</LttlAddCustFld>
+    <LttlEditCustFld>LttlEditCustFld</LttlEditCustFld>
+    <LttlCustFldNote>LttlCustFldNote</LttlCustFldNote>
+    <LtxtAvlTables>LtxtAvlTables</LtxtAvlTables>
+    <LtxtItemsMaster>LtxtItemsMaster</LtxtItemsMaster>
+    <LtxtItmMasWhs>LtxtItmMasWhs</LtxtItmMasWhs>
+    <LtxtPList>LtxtPList</LtxtPList>
+    <LtxtCCode>LtxtCCode</LtxtCCode>
+    <LtxtSesion>LtxtSesion</LtxtSesion>
+    <LtxtCatOnly>LtxtCatOnly</LtxtCatOnly>
+    <LtxtDocTable>LtxtDocTable</LtxtDocTable>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+  </language>
+</languages>

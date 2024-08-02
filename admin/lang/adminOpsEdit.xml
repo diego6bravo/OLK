@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCustomized>Customized</DtxtCustomized>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtReturn>Return</DtxtReturn>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtReadOnly>Read Only</DtxtReadOnly>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtCol>Column</DtxtCol>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtCredNote>Credit Note</DtxtCredNote>
+    <DtxtGoodRecPO>Goods Receipt PO</DtxtGoodRecPO>
+    <DtxtPurReturn>Purchase Return</DtxtPurReturn>
+    <DtxtCredMemPO>Credit Memo P.O.</DtxtCredMemPO>
+    <DtxtDownPayReq>A/R Down Payment Request</DtxtDownPayReq>
+    <DtxtDownPayInv>A/R Down Payment Invoice</DtxtDownPayInv>
+    <DtxtPurInv>A/P Invoice</DtxtPurInv>
+    <LttlNewOpt>New Operation</LttlNewOpt>
+    <LttlEditOpt>Edit Operation</LttlEditOpt>
+    <LttlOptNote>Here you can defined the custom operation detail</LttlOptNote>
+    <LtxtWriteRegular>Write</LtxtWriteRegular>
+    <LtxtCheckBox>Check Box</LtxtCheckBox>
+    <LtxtVendorSelector>Vendor Selector</LtxtVendorSelector>
+    <LtxtOperation>Operation</LtxtOperation>
+    <LtxtUpdOnly>Update Only</LtxtUpdOnly>
+    <LtxtConvToObj>Convert to Object</LtxtConvToObj>
+    <LtxtGenNewDoc>New Document</LtxtGenNewDoc>
+    <LtxtGenJrnls>Journal Entry</LtxtGenJrnls>
+    <LtxtDraftAproval>Draft Approval</LtxtDraftAproval>
+    <LtxtSourceObj>Source Object</LtxtSourceObj>
+    <LtxtFilter>Filtro</LtxtFilter>
+    <LtxtTargetObj>Target Object</LtxtTargetObj>
+    <LtxtMultipleSource>Multiple Sources</LtxtMultipleSource>
+    <LtxtOpDet>Operation Fields</LtxtOpDet>
+    <LtxtOpDetNote>Here you can defined the fields for each section of the operation</LtxtOpDetNote>
+    <LtxtSection>Section</LtxtSection>
+    <LtxtHeader>Header</LtxtHeader>
+    <LtxtLines>Lines</LtxtLines>
+    <LtxtFooter>Footer</LtxtFooter>
+    <LtxtStyle>Style</LtxtStyle>
+    <LtxtConfDelLine>Are you sure you want to remove this line?</LtxtConfDelLine>
+    <LtxtAddFld>Add Field</LtxtAddFld>
+    <LtxtEditFld>Edit Field</LtxtEditFld>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LvalOpName>You must enter operation name</LvalOpName>
+    <LvalOpFilter>You must validate the operation filter</LvalOpFilter>
+    <LvalFldDesc>You must enter the field description</LvalFldDesc>
+    <LvalFld>You must select a field type</LvalFld>
+    <LvalFldQry>You must validate the field query</LvalFldQry>
+    <LtxtKeepHistory>Keep History</LtxtKeepHistory>
+    <LtxtMultUpdOnly>Multiple Document Update</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtReturn>Devolución</DtxtReturn>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtReadOnly>Lectura Solamente</DtxtReadOnly>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtCol>Columna</DtxtCol>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtPurOrder>Orden de Compra</DtxtPurOrder>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtCredNote>Nota de crédito</DtxtCredNote>
+    <DtxtGoodRecPO>Consignación de mercancía</DtxtGoodRecPO>
+    <DtxtPurReturn>Devolución en compra</DtxtPurReturn>
+    <DtxtCredMemPO>Débito en compra</DtxtCredMemPO>
+    <DtxtDownPayReq>Solicitud de anticipo de clientes</DtxtDownPayReq>
+    <DtxtDownPayInv>Factura de anticipo de clientes</DtxtDownPayInv>
+    <DtxtPurInv>Comprobante de Compra</DtxtPurInv>
+    <LttlNewOpt>Nueva Operación</LttlNewOpt>
+    <LttlEditOpt>Editar Operación</LttlEditOpt>
+    <LttlOptNote>En esta sección podrá definir les detalles de la operación.</LttlOptNote>
+    <LtxtWriteRegular>Escritura</LtxtWriteRegular>
+    <LtxtCheckBox>Cajilla</LtxtCheckBox>
+    <LtxtVendorSelector>Seleccionador de Proveedor</LtxtVendorSelector>
+    <LtxtOperation>operación</LtxtOperation>
+    <LtxtUpdOnly>Actualizar Solamente</LtxtUpdOnly>
+    <LtxtConvToObj>Convertir a Objeto</LtxtConvToObj>
+    <LtxtGenNewDoc>Nuevo Documento</LtxtGenNewDoc>
+    <LtxtGenJrnls>Asiento Diario</LtxtGenJrnls>
+    <LtxtDraftAproval>Aprobación de Borrador</LtxtDraftAproval>
+    <LtxtSourceObj>Object Fuente</LtxtSourceObj>
+    <LtxtFilter>Filtro</LtxtFilter>
+    <LtxtTargetObj>Objecto Destino</LtxtTargetObj>
+    <LtxtMultipleSource>Fuentes Múltiples</LtxtMultipleSource>
+    <LtxtOpDet>Campos de Operación</LtxtOpDet>
+    <LtxtOpDetNote>En esta sección podrá definir los campos para cada sección de la operación.</LtxtOpDetNote>
+    <LtxtSection>Sección</LtxtSection>
+    <LtxtHeader>Encabezado</LtxtHeader>
+    <LtxtLines>Líneas</LtxtLines>
+    <LtxtFooter>Pie</LtxtFooter>
+    <LtxtStyle>Estilo</LtxtStyle>
+    <LtxtConfDelLine>¿Esta seguro que desea eliminar esta línea?</LtxtConfDelLine>
+    <LtxtAddFld>Agregar Campo</LtxtAddFld>
+    <LtxtEditFld>Editar Campo</LtxtEditFld>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LvalOpName>Debe introducir el nombre de la operacion</LvalOpName>
+    <LvalOpFilter>Debe validar el filtro de la operacion</LvalOpFilter>
+    <LvalFldDesc>Debe introducir la descripción del campo</LvalFldDesc>
+    <LvalFld>Debe seleccionar un tipo de filtro</LvalFld>
+    <LvalFldQry>Debe validar la consulta del campo</LvalFldQry>
+    <LtxtKeepHistory>Mantener Historial</LtxtKeepHistory>
+    <LtxtMultUpdOnly>Actualización de Múltiples Documentos</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtCustomized>התאמה אישית</DtxtCustomized>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtReturn>החזרה</DtxtReturn>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtReadOnly>קריאה בלבד</DtxtReadOnly>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtCol>טור</DtxtCol>
+    <DtxtReserved>שמור\ה</DtxtReserved>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtPurOrder>הזמנה מספקים</DtxtPurOrder>
+    <DtxtPurQuote>הצעת מחיר לקנייה</DtxtPurQuote>
+    <DtxtCredNote>חשבונית מס זיכוי</DtxtCredNote>
+    <DtxtGoodRecPO>תעודת משלוח רכש</DtxtGoodRecPO>
+    <DtxtPurReturn>החזרת רכש</DtxtPurReturn>
+    <DtxtCredMemPO>חשבונית מס זיכוי רכש</DtxtCredMemPO>
+    <DtxtDownPayReq>בקשה למקדמה – לקוח</DtxtDownPayReq>
+    <DtxtDownPayInv>חשבונית מקדמה – לקוח</DtxtDownPayInv>
+    <DtxtPurInv>חשבונית מס רכש</DtxtPurInv>
+    <LttlNewOpt>תהליך חדש</LttlNewOpt>
+    <LttlEditOpt>עריכת תהליך</LttlEditOpt>
+    <LttlOptNote>כאן תוכל להגדיר פרטי התהליך המותאם אישית</LttlOptNote>
+    <LtxtWriteRegular>כתיבה</LtxtWriteRegular>
+    <LtxtCheckBox>תיבת סימון</LtxtCheckBox>
+    <LtxtVendorSelector>בורר ספקים</LtxtVendorSelector>
+    <LtxtOperation>תהליך</LtxtOperation>
+    <LtxtUpdOnly>עדכון בלבד</LtxtUpdOnly>
+    <LtxtConvToObj>המר לאובייקט</LtxtConvToObj>
+    <LtxtGenNewDoc>מסמך חדש</LtxtGenNewDoc>
+    <LtxtGenJrnls>יומן תנועות </LtxtGenJrnls>
+    <LtxtDraftAproval>אישור טיוטה</LtxtDraftAproval>
+    <LtxtSourceObj>אובייקט מקור</LtxtSourceObj>
+    <LtxtFilter>מסנן</LtxtFilter>
+    <LtxtTargetObj>אובייקט יעד</LtxtTargetObj>
+    <LtxtMultipleSource>ריבוי מקורות</LtxtMultipleSource>
+    <LtxtOpDet>שדות תהליך</LtxtOpDet>
+    <LtxtOpDetNote>כאן אתה יכול להגדיר את השדות עבור כל סעיף של התהליך</LtxtOpDetNote>
+    <LtxtSection>סעיף</LtxtSection>
+    <LtxtHeader>כותרת</LtxtHeader>
+    <LtxtLines>שורות</LtxtLines>
+    <LtxtFooter>כותרת תחתונה</LtxtFooter>
+    <LtxtStyle>סגנון</LtxtStyle>
+    <LtxtConfDelLine>האם אתה בטוח שברצונך להסיר את השורה הזאת?</LtxtConfDelLine>
+    <LtxtAddFld>הוסף שדה</LtxtAddFld>
+    <LtxtEditFld>עריכת שדה</LtxtEditFld>
+    <LtxtPur>קניות</LtxtPur>
+    <LtxtSale>מכירות</LtxtSale>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LvalOpName>אתה חייב להכניס את שם התהליך</LvalOpName>
+    <LvalOpFilter>עליך לאמת את מסנן התהליך</LvalOpFilter>
+    <LvalFldDesc>עליך להזין תיאור שדה</LvalFldDesc>
+    <LvalFld>עליך לבחור סוג שדה</LvalFld>
+    <LvalFldQry>עליך לאמת את שדה השאילתה</LvalFldQry>
+    <LtxtKeepHistory>שמור היסטוריה</LtxtKeepHistory>
+    <LtxtMultUpdOnly>עדכון מסמכים מרובים</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCustomized>Customised</DtxtCustomized>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtReturn>Return</DtxtReturn>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtReadOnly>Read Only</DtxtReadOnly>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtCol>Column</DtxtCol>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtCredNote>Credit Note</DtxtCredNote>
+    <DtxtGoodRecPO>Goods Receipt PO</DtxtGoodRecPO>
+    <DtxtPurReturn>Purchase Return</DtxtPurReturn>
+    <DtxtCredMemPO>Credit Memo P.O.</DtxtCredMemPO>
+    <DtxtDownPayReq>A/R Down Payment Request</DtxtDownPayReq>
+    <DtxtDownPayInv>A/R Down Payment Invoice</DtxtDownPayInv>
+    <DtxtPurInv>A/P Invoice</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtReturn>Devolução</DtxtReturn>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtReadOnly>Somente leitura</DtxtReadOnly>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtCol>Coluna</DtxtCol>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtPurOrder>Pedido de Compra</DtxtPurOrder>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtCredNote>Nota de Crédito</DtxtCredNote>
+    <DtxtGoodRecPO>Consignação da mercadoria</DtxtGoodRecPO>
+    <DtxtPurReturn>Devolução em compra</DtxtPurReturn>
+    <DtxtCredMemPO>Débito na compra</DtxtCredMemPO>
+    <DtxtDownPayReq>Solicitação de adiantamento C/R</DtxtDownPayReq>
+    <DtxtDownPayInv>NF de adiantamento de cliente</DtxtDownPayInv>
+    <DtxtPurInv>Comprovante da Compra</DtxtPurInv>
+    <LttlNewOpt>Nova operação</LttlNewOpt>
+    <LttlEditOpt>Editar operação</LttlEditOpt>
+    <LttlOptNote>Nesta seção você poderá definir os detalhes da operação</LttlOptNote>
+    <LtxtWriteRegular>Escrita</LtxtWriteRegular>
+    <LtxtCheckBox>Caixa de depósito</LtxtCheckBox>
+    <LtxtVendorSelector>Seleção de Fornecedor</LtxtVendorSelector>
+    <LtxtOperation>Operação</LtxtOperation>
+    <LtxtUpdOnly>Somente atualizar</LtxtUpdOnly>
+    <LtxtConvToObj>Converter a objeto</LtxtConvToObj>
+    <LtxtGenNewDoc>Novo documento</LtxtGenNewDoc>
+    <LtxtGenJrnls>Balancete</LtxtGenJrnls>
+    <LtxtDraftAproval>Aprovação do rascunho</LtxtDraftAproval>
+    <LtxtSourceObj>Objeto fonte</LtxtSourceObj>
+    <LtxtFilter>Filtro</LtxtFilter>
+    <LtxtTargetObj>Objeto destino</LtxtTargetObj>
+    <LtxtMultipleSource>Múltiplas fontes</LtxtMultipleSource>
+    <LtxtOpDet>Campos da operação</LtxtOpDet>
+    <LtxtOpDetNote>Nesta seção você poderá definir os campos para cada seção da operação</LtxtOpDetNote>
+    <LtxtSection>Seção</LtxtSection>
+    <LtxtHeader>Cabeçalho</LtxtHeader>
+    <LtxtLines>Linhas</LtxtLines>
+    <LtxtFooter>Pé</LtxtFooter>
+    <LtxtStyle>Estilo</LtxtStyle>
+    <LtxtConfDelLine>Tem certeza que deseja excluir esta linha?</LtxtConfDelLine>
+    <LtxtAddFld>Adicionar campo</LtxtAddFld>
+    <LtxtEditFld>Editar campo</LtxtEditFld>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LvalOpName>Você deve digitar o nome da operação</LvalOpName>
+    <LvalOpFilter>Você deve validar o filtro da operação</LvalOpFilter>
+    <LvalFldDesc>Você deve digitar a descrição do campo</LvalFldDesc>
+    <LvalFld>Você deve escolher um modelo de filtro</LvalFld>
+    <LvalFldQry>Você deve validar a consulta do campo</LvalFldQry>
+    <LtxtKeepHistory>Manter histórico</LtxtKeepHistory>
+    <LtxtMultUpdOnly>Atualização de múltiplos documentos</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtCustomized>Personnalisé</DtxtCustomized>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtReturn>Dévolution</DtxtReturn>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtReadOnly>Seule lecture</DtxtReadOnly>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtCol>&lt;--&gt;</DtxtCol>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPurOrder>Ordre d'achat</DtxtPurOrder>
+    <DtxtPurQuote>Appel d'offres</DtxtPurQuote>
+    <DtxtCredNote>Note de crédit</DtxtCredNote>
+    <DtxtGoodRecPO>Consignation de marchandise</DtxtGoodRecPO>
+    <DtxtPurReturn>Dévolution en achat</DtxtPurReturn>
+    <DtxtCredMemPO>Débit en achat</DtxtCredMemPO>
+    <DtxtDownPayReq>Demande d'acompte client</DtxtDownPayReq>
+    <DtxtDownPayInv>Facture d'acompte client</DtxtDownPayInv>
+    <DtxtPurInv>Quittance d'achat</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Achat</LtxtPur>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtCustomized>Kundenindividuell</DtxtCustomized>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtReturn>Zurück</DtxtReturn>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtReadOnly>Ausschließlich Lesbar</DtxtReadOnly>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtCol>
+Spalte</DtxtCol>
+    <DtxtReserved>Belegt</DtxtReserved>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtPurOrder>Einkaufsauftrag</DtxtPurOrder>
+    <DtxtPurQuote>Lieferantenanfrage</DtxtPurQuote>
+    <DtxtCredNote>Gutschein</DtxtCredNote>
+    <DtxtGoodRecPO>Wareneingang P.O.</DtxtGoodRecPO>
+    <DtxtPurReturn>Ankauf Rückgabe</DtxtPurReturn>
+    <DtxtCredMemPO>Gutschrift P.O.</DtxtCredMemPO>
+    <DtxtDownPayReq>Verkaufsanzahlungsanforderung</DtxtDownPayReq>
+    <DtxtDownPayInv>Verkaufsanzahlungsrechnung</DtxtDownPayInv>
+    <DtxtPurInv>A/P Rechnung</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Ankauf</LtxtPur>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtGeneral>Allgemein</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtCustomized>Настройка</DtxtCustomized>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtReturn>Возврат</DtxtReturn>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtReadOnly>Только вызов</DtxtReadOnly>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtCol>Колонка</DtxtCol>
+    <DtxtReserved>Сохранить</DtxtReserved>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtPurOrder>Заказ от поставщиков</DtxtPurOrder>
+    <DtxtPurQuote>Предложение поставщика</DtxtPurQuote>
+    <DtxtCredNote>Возвратная квитанция</DtxtCredNote>
+    <DtxtGoodRecPO>Накладная поставки товара</DtxtGoodRecPO>
+    <DtxtPurReturn>Возврат покупки</DtxtPurReturn>
+    <DtxtCredMemPO>Возвратная квитанция на покупку</DtxtCredMemPO>
+    <DtxtDownPayReq>Продажа: счет на предоплату</DtxtDownPayReq>
+    <DtxtDownPayInv>Продажа: счет на предоплату</DtxtDownPayInv>
+    <DtxtPurInv>Квитанция покупки</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Покупка</LtxtPur>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtGeneral>Общий</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCustomized>Přizpůsobené</DtxtCustomized>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtReturn>Návrat</DtxtReturn>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtReadOnly>Pouze pro čtení</DtxtReadOnly>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtCol>Sloupek</DtxtCol>
+    <DtxtReserved>Vyhrazeno</DtxtReserved>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtPurOrder>Nákupní objednávka</DtxtPurOrder>
+    <DtxtPurQuote>Poptávka</DtxtPurQuote>
+    <DtxtCredNote>Dobropis</DtxtCredNote>
+    <DtxtGoodRecPO>Příjemka NO</DtxtGoodRecPO>
+    <DtxtPurReturn>Nákupní vratka</DtxtPurReturn>
+    <DtxtCredMemPO>Směnka NO</DtxtCredMemPO>
+    <DtxtDownPayReq>Prodej - požadavek na zálohu</DtxtDownPayReq>
+    <DtxtDownPayInv>Prodej - daňový doklad k záloze</DtxtDownPayInv>
+    <DtxtPurInv>Závazky - Faktura</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCustomized>Wykonane na zamówienie/zindywidualizowane</DtxtCustomized>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtReturn>Powrót</DtxtReturn>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtReadOnly>Tylko do odczytu</DtxtReadOnly>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtCol>Kolumna</DtxtCol>
+    <DtxtReserved>Zarezerwowany/a</DtxtReserved>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtPurOrder>Zamówienie zakupu</DtxtPurOrder>
+    <DtxtPurQuote>Oferta zakupu</DtxtPurQuote>
+    <DtxtCredNote>Nota kredytowa</DtxtCredNote>
+    <DtxtGoodRecPO>Dokument Pz</DtxtGoodRecPO>
+    <DtxtPurReturn>Zwrot zakupu</DtxtPurReturn>
+    <DtxtCredMemPO>Anulowanie faktury zakupu</DtxtCredMemPO>
+    <DtxtDownPayReq>Żądanie zaliczki z tyt. sprzedaży</DtxtDownPayReq>
+    <DtxtDownPayInv>Faktura sprzedaży</DtxtDownPayInv>
+    <DtxtPurInv>Faktura zakupu</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Zakup</LtxtPur>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtCustomized>Prispôsobené na mieru</DtxtCustomized>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtReturn>Vrátená dodávka</DtxtReturn>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtReadOnly>Len prečítať</DtxtReadOnly>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtCol>Stĺpec</DtxtCol>
+    <DtxtReserved>Rezervované</DtxtReserved>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtPurOrder>Objednávka</DtxtPurOrder>
+    <DtxtPurQuote>Požiadavka na ponuku</DtxtPurQuote>
+    <DtxtCredNote>Dobropis</DtxtCredNote>
+    <DtxtGoodRecPO>Príjemka</DtxtGoodRecPO>
+    <DtxtPurReturn>Vrátená príjemka</DtxtPurReturn>
+    <DtxtCredMemPO>Dobropis z predaja</DtxtCredMemPO>
+    <DtxtDownPayReq>Predaj - požiadavka na zálohu</DtxtDownPayReq>
+    <DtxtDownPayInv>Predaj - zálohová faktúra</DtxtDownPayInv>
+    <DtxtPurInv>Došlá faktúra</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtGeneral>Všeobecný</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtCustomized>&lt;--&gt;</DtxtCustomized>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtReturn>&lt;--&gt;</DtxtReturn>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtReadOnly>&lt;--&gt;</DtxtReadOnly>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtCol>&lt;--&gt;</DtxtCol>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPurOrder>&lt;--&gt;</DtxtPurOrder>
+    <DtxtPurQuote>&lt;--&gt;</DtxtPurQuote>
+    <DtxtCredNote>&lt;--&gt;</DtxtCredNote>
+    <DtxtGoodRecPO>&lt;--&gt;</DtxtGoodRecPO>
+    <DtxtPurReturn>&lt;--&gt;</DtxtPurReturn>
+    <DtxtCredMemPO>&lt;--&gt;</DtxtCredMemPO>
+    <DtxtDownPayReq>&lt;--&gt;</DtxtDownPayReq>
+    <DtxtDownPayInv>&lt;--&gt;</DtxtDownPayInv>
+    <DtxtPurInv>&lt;--&gt;</DtxtPurInv>
+    <LttlNewOpt>&lt;--&gt;</LttlNewOpt>
+    <LttlEditOpt>&lt;--&gt;</LttlEditOpt>
+    <LttlOptNote>&lt;--&gt;</LttlOptNote>
+    <LtxtWriteRegular>&lt;--&gt;</LtxtWriteRegular>
+    <LtxtCheckBox>&lt;--&gt;</LtxtCheckBox>
+    <LtxtVendorSelector>&lt;--&gt;</LtxtVendorSelector>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtUpdOnly>&lt;--&gt;</LtxtUpdOnly>
+    <LtxtConvToObj>&lt;--&gt;</LtxtConvToObj>
+    <LtxtGenNewDoc>&lt;--&gt;</LtxtGenNewDoc>
+    <LtxtGenJrnls>&lt;--&gt;</LtxtGenJrnls>
+    <LtxtDraftAproval>&lt;--&gt;</LtxtDraftAproval>
+    <LtxtSourceObj>&lt;--&gt;</LtxtSourceObj>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtTargetObj>&lt;--&gt;</LtxtTargetObj>
+    <LtxtMultipleSource>&lt;--&gt;</LtxtMultipleSource>
+    <LtxtOpDet>&lt;--&gt;</LtxtOpDet>
+    <LtxtOpDetNote>&lt;--&gt;</LtxtOpDetNote>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+    <LtxtHeader>&lt;--&gt;</LtxtHeader>
+    <LtxtLines>&lt;--&gt;</LtxtLines>
+    <LtxtFooter>&lt;--&gt;</LtxtFooter>
+    <LtxtStyle>&lt;--&gt;</LtxtStyle>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtAddFld>&lt;--&gt;</LtxtAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LvalOpName>&lt;--&gt;</LvalOpName>
+    <LvalOpFilter>&lt;--&gt;</LvalOpFilter>
+    <LvalFldDesc>&lt;--&gt;</LvalFldDesc>
+    <LvalFld>&lt;--&gt;</LvalFld>
+    <LvalFldQry>&lt;--&gt;</LvalFldQry>
+    <LtxtKeepHistory>&lt;--&gt;</LtxtKeepHistory>
+    <LtxtMultUpdOnly>&lt;--&gt;</LtxtMultUpdOnly>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtCustomized>DtxtCustomized</DtxtCustomized>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtReturn>DtxtReturn</DtxtReturn>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtReadOnly>DtxtReadOnly</DtxtReadOnly>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtCol>DtxtCol</DtxtCol>
+    <DtxtReserved>DtxtReserved</DtxtReserved>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtPurOrder>DtxtPurOrder</DtxtPurOrder>
+    <DtxtPurQuote>DtxtPurQuote</DtxtPurQuote>
+    <DtxtCredNote>DtxtCredNote</DtxtCredNote>
+    <DtxtGoodRecPO>DtxtGoodRecPO</DtxtGoodRecPO>
+    <DtxtPurReturn>DtxtPurReturn</DtxtPurReturn>
+    <DtxtCredMemPO>DtxtCredMemPO</DtxtCredMemPO>
+    <DtxtDownPayReq>DtxtDownPayReq</DtxtDownPayReq>
+    <DtxtDownPayInv>DtxtDownPayInv</DtxtDownPayInv>
+    <DtxtPurInv>DtxtPurInv</DtxtPurInv>
+    <LttlNewOpt>LttlNewOpt</LttlNewOpt>
+    <LttlEditOpt>LttlEditOpt</LttlEditOpt>
+    <LttlOptNote>LttlOptNote</LttlOptNote>
+    <LtxtWriteRegular>LtxtWriteRegular</LtxtWriteRegular>
+    <LtxtCheckBox>LtxtCheckBox</LtxtCheckBox>
+    <LtxtVendorSelector>LtxtVendorSelector</LtxtVendorSelector>
+    <LtxtOperation>LtxtOperation</LtxtOperation>
+    <LtxtUpdOnly>LtxtUpdOnly</LtxtUpdOnly>
+    <LtxtConvToObj>LtxtConvToObj</LtxtConvToObj>
+    <LtxtGenNewDoc>LtxtGenNewDoc</LtxtGenNewDoc>
+    <LtxtGenJrnls>LtxtGenJrnls</LtxtGenJrnls>
+    <LtxtDraftAproval>LtxtDraftAproval</LtxtDraftAproval>
+    <LtxtSourceObj>LtxtSourceObj</LtxtSourceObj>
+    <LtxtFilter>LtxtFilter</LtxtFilter>
+    <LtxtTargetObj>LtxtTargetObj</LtxtTargetObj>
+    <LtxtMultipleSource>LtxtMultipleSource</LtxtMultipleSource>
+    <LtxtOpDet>LtxtOpDet</LtxtOpDet>
+    <LtxtOpDetNote>LtxtOpDetNote</LtxtOpDetNote>
+    <LtxtSection>LtxtSection</LtxtSection>
+    <LtxtHeader>LtxtHeader</LtxtHeader>
+    <LtxtLines>LtxtLines</LtxtLines>
+    <LtxtFooter>LtxtFooter</LtxtFooter>
+    <LtxtStyle>LtxtStyle</LtxtStyle>
+    <LtxtConfDelLine>LtxtConfDelLine</LtxtConfDelLine>
+    <LtxtAddFld>LtxtAddFld</LtxtAddFld>
+    <LtxtEditFld>LtxtEditFld</LtxtEditFld>
+    <LtxtPur>LtxtPur</LtxtPur>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LvalOpName>LvalOpName</LvalOpName>
+    <LvalOpFilter>LvalOpFilter</LvalOpFilter>
+    <LvalFldDesc>LvalFldDesc</LvalFldDesc>
+    <LvalFld>LvalFld</LvalFld>
+    <LvalFldQry>LvalFldQry</LvalFldQry>
+    <LtxtKeepHistory>LtxtKeepHistory</LtxtKeepHistory>
+    <LtxtMultUpdOnly>LtxtMultUpdOnly</LtxtMultUpdOnly>
+  </language>
+</languages>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Cancelled</LtxtCanceled>
+    <LtxtCanceled2>Cancelled</LtxtCanceled2>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Cancelado</LtxtCanceled>
+    <LtxtCanceled2>Cancelada</LtxtCanceled2>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtCanceled>בוטל</LtxtCanceled>
+    <LtxtCanceled2>מבוטל</LtxtCanceled2>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Cancelled</LtxtCanceled>
+    <LtxtCanceled2>Cancelled</LtxtCanceled2>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Cancelado</LtxtCanceled>
+    <LtxtCanceled2>Cancelada</LtxtCanceled2>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Annulé</LtxtCanceled>
+    <LtxtCanceled2>Annulée</LtxtCanceled2>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Abgebrochen</LtxtCanceled>
+    <LtxtCanceled2>Abgebrochen</LtxtCanceled2>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Отменено</LtxtCanceled>
+    <LtxtCanceled2>Отменено</LtxtCanceled2>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Zrušeno</LtxtCanceled>
+    <LtxtCanceled2>Zrušeno</LtxtCanceled2>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Anulowany</LtxtCanceled>
+    <LtxtCanceled2>Anulowany</LtxtCanceled2>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>Zrušené</LtxtCanceled>
+    <LtxtCanceled2>Zrušené</LtxtCanceled2>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtCanceled>LtxtCanceled</LtxtCanceled>
+    <LtxtCanceled2>LtxtCanceled2</LtxtCanceled2>
+  </language>
+</languages>

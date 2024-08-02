@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <LvalDisDocs>Documents {0} are disabled</LvalDisDocs>
+    <LtxtValNoDoc>Select at least one document</LtxtValNoDoc>
+    <LttlRecDocs>Recoverable Documents</LttlRecDocs>
+    <LtxtDel>Delete</LtxtDel>
+    <LtxtRecover>Recover</LtxtRecover>
+    <LtxtConfDel>Are you sure you want to continue?</LtxtConfDel>
+    <LtxtNoRecDocs>No recoverable documents found!</LtxtNoRecDocs>
+    <LtxtEditOf>Edit of</LtxtEditOf>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <LvalDisDocs>Los documentos de "{0}" están deshabilitados</LvalDisDocs>
+    <LtxtValNoDoc>Debe escoger por lo menos un documento</LtxtValNoDoc>
+    <LttlRecDocs>Documentos Recuperables</LttlRecDocs>
+    <LtxtDel>Eliminar</LtxtDel>
+    <LtxtRecover>Recuperar</LtxtRecover>
+    <LtxtConfDel>¿Está seguro que desea continuar?</LtxtConfDel>
+    <LtxtNoRecDocs>!No se encontró Documentos Recuperables!</LtxtNoRecDocs>
+    <LtxtEditOf>Edición de</LtxtEditOf>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <LvalDisDocs>המסמכים "{0}" לא פעילים</LvalDisDocs>
+    <LtxtValNoDoc>יש לבחור לפחות מסמך אחד</LtxtValNoDoc>
+    <LttlRecDocs>מסמכים שניתנים לשיחזור</LttlRecDocs>
+    <LtxtDel>מחק</LtxtDel>
+    <LtxtRecover>שיחזור</LtxtRecover>
+    <LtxtConfDel>האם אתה בטוח שברצונך להמשיך?</LtxtConfDel>
+    <LtxtNoRecDocs>לא נמצאו מסמכים לשיחזור!</LtxtNoRecDocs>
+    <LtxtEditOf>עריכת </LtxtEditOf>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <LvalDisDocs>Documents {0} are disabled</LvalDisDocs>
+    <LtxtValNoDoc>Select at least one document</LtxtValNoDoc>
+    <LttlRecDocs>Recoverable Documents</LttlRecDocs>
+    <LtxtDel>Delete</LtxtDel>
+    <LtxtRecover>Recover</LtxtRecover>
+    <LtxtConfDel>Are you sure you want to continue?</LtxtConfDel>
+    <LtxtNoRecDocs>No recoverable documents found!</LtxtNoRecDocs>
+    <LtxtEditOf>Edit of</LtxtEditOf>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <LvalDisDocs>Os documentos de "{0}" estão desabilitados</LvalDisDocs>
+    <LtxtValNoDoc>Deve escolher pelo menos um documento</LtxtValNoDoc>
+    <LttlRecDocs>Documentos Recuperáveis</LttlRecDocs>
+    <LtxtDel>Eliminar</LtxtDel>
+    <LtxtRecover>Recuperar</LtxtRecover>
+    <LtxtConfDel>Tem certeza  que deseja continuar?</LtxtConfDel>
+    <LtxtNoRecDocs>Não se encontrou Documentos Recuperáveis!</LtxtNoRecDocs>
+    <LtxtEditOf>Edição de </LtxtEditOf>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <LvalDisDocs>Les documents de "{0}" sont épuisés</LvalDisDocs>
+    <LtxtValNoDoc>Devez-vous choisir au moins un document</LtxtValNoDoc>
+    <LttlRecDocs>Documents récupérables</LttlRecDocs>
+    <LtxtDel>Ëliminer</LtxtDel>
+    <LtxtRecover>Recupérer</LtxtRecover>
+    <LtxtConfDel>Êtes-vous sûre de continuer?</LtxtConfDel>
+    <LtxtNoRecDocs>On n'a pas trouvé des documents récupérables!</LtxtNoRecDocs>
+    <LtxtEditOf>Édition de</LtxtEditOf>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <LvalDisDocs>Die Dokumente {0} sind deaktiviert</LvalDisDocs>
+    <LtxtValNoDoc>Wählen Sie mndestens ein Dokument</LtxtValNoDoc>
+    <LttlRecDocs>Wiederherstellbare Dokumente</LttlRecDocs>
+    <LtxtDel>Löschen</LtxtDel>
+    <LtxtRecover>Wiederherstellen</LtxtRecover>
+    <LtxtConfDel>Möchten Sie wirklich fortfahren?</LtxtConfDel>
+    <LtxtNoRecDocs>Es wurden keine wiederherstellbare Dokumente gefunden!</LtxtNoRecDocs>
+    <LtxtEditOf>Bearbeiten von</LtxtEditOf>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <LvalDisDocs>Документы"{0}" не работают</LvalDisDocs>
+    <LtxtValNoDoc>Нужно выбрать хотябы один документ</LtxtValNoDoc>
+    <LttlRecDocs>Документы могут быть восстановлены</LttlRecDocs>
+    <LtxtDel>Стереть</LtxtDel>
+    <LtxtRecover>Реконструкция</LtxtRecover>
+    <LtxtConfDel>Продолжить?</LtxtConfDel>
+    <LtxtNoRecDocs>Не найден документ ля реконструкции!</LtxtNoRecDocs>
+    <LtxtEditOf>Изменить</LtxtEditOf>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <LvalDisDocs>Documenty {0} jsou zablokované</LvalDisDocs>
+    <LtxtValNoDoc>Vyberte aspoň jeden dokument</LtxtValNoDoc>
+    <LttlRecDocs>Obnovitelné dokumenty</LttlRecDocs>
+    <LtxtDel>Vymazat</LtxtDel>
+    <LtxtRecover>Obnovit</LtxtRecover>
+    <LtxtConfDel>Určitě chcete pokračovat?</LtxtConfDel>
+    <LtxtNoRecDocs>Nebyly nalezeny žádné obnovitelné dokumenty!</LtxtNoRecDocs>
+    <LtxtEditOf>Úprava</LtxtEditOf>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <LvalDisDocs>Dokumenty {0} zablokowane</LvalDisDocs>
+    <LtxtValNoDoc>Wybierz przynajmniej jeden dokument</LtxtValNoDoc>
+    <LttlRecDocs>Dokumenty do odzyskania</LttlRecDocs>
+    <LtxtDel>Skasuj</LtxtDel>
+    <LtxtRecover>Odzyskanie</LtxtRecover>
+    <LtxtConfDel>Czy jesteś pewien, że chcesz kontynuować?</LtxtConfDel>
+    <LtxtNoRecDocs>Nie znaleziono żadnych dokumentów do odzyskania!</LtxtNoRecDocs>
+    <LtxtEditOf>Edycja</LtxtEditOf>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <LvalDisDocs>Dokumenty {0} sú zablokované</LvalDisDocs>
+    <LtxtValNoDoc>Zvoľte aspoň jeden dokument</LtxtValNoDoc>
+    <LttlRecDocs>Obnoviteľné dokumenty</LttlRecDocs>
+    <LtxtDel>Zmazať</LtxtDel>
+    <LtxtRecover>Obnoviť</LtxtRecover>
+    <LtxtConfDel>Ste si istí, že chcete pokračovať?</LtxtConfDel>
+    <LtxtNoRecDocs>Žiadne obnoviteľné dokumenty neboli nájdené!</LtxtNoRecDocs>
+    <LtxtEditOf>Editovanie</LtxtEditOf>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <LvalDisDocs>LvalDisDocs</LvalDisDocs>
+    <LtxtValNoDoc>LtxtValNoDoc</LtxtValNoDoc>
+    <LttlRecDocs>LttlRecDocs</LttlRecDocs>
+    <LtxtDel>LtxtDel</LtxtDel>
+    <LtxtRecover>LtxtRecover</LtxtRecover>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtNoRecDocs>LtxtNoRecDocs</LtxtNoRecDocs>
+    <LtxtEditOf>LtxtEditOf</LtxtEditOf>
+  </language>
+</languages>

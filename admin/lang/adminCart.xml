@@ -1,0 +1,1108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtUndefined>Undefined</DtxtUndefined>
+    <LttlCartProp>Shopping Cart Properties</LttlCartProp>
+    <LttlCartPropNote>Here various properties of the shopping cart for clients and agents may be defined.</LttlCartPropNote>
+    <LtxtAfterCartAddC>When Adding an Item to the Cart (OLK - Clients)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>When Adding an Item to the Cart (OLK - Agents)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>When Adding an Item to the Cart (Mobile)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Default Document (Clients)</LtxtDefCDoc>
+    <LtxtDefPDoc>Default Document (Mobile)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Enable Document Type Selection (Clients)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Enable Summarized Cart</LtxtEnableCartSum>
+    <LtxtCartSumQty>Summarized Cart - Amount of Lines Displayed</LtxtCartSumQty>
+    <LtxtEnTop10Items>Enable Best Selling Items (Agents)</LtxtEnTop10Items>
+    <LtxtTop10Items>Best Selling Items - Amount of Items (Agents)</LtxtTop10Items>
+    <LtxtExpItems>Enable Expenses (Agents)</LtxtExpItems>
+    <LtxtCartGroup>Default List (Agents)</LtxtCartGroup>
+    <LtxtGrp>Expenses</LtxtGrp>
+    <LtxtBSel>Best Selling </LtxtBSel>
+    <LtxtCCartNote>Cart Notes (Clients)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Show Note in Cart Confirmation (Clients)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Allow More Than One Line per Item</LtxtBasketMItems>
+    <LtxtDocMCBal>Show multi-currency client balance in documents in currency</LtxtDocMCBal>
+    <LtxtSDKLineMemo>Enable Line Notes in Documents</LtxtSDKLineMemo>
+    <LtxtEditNote>Edit Note</LtxtEditNote>
+    <LtxtNewNote>New Note</LtxtNewNote>
+    <LtxtDelNote>Delete Note</LtxtDelNote>
+    <LtxtOptGoToCart>Go to cart</LtxtOptGoToCart>
+    <LtxtOptCurPag>Current Page</LtxtOptCurPag>
+    <LtxtBackToSearch>Back to Search</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Local</LoptDocMCBalLocal>
+    <LtxtSelNote>Select a Note</LtxtSelNote>
+    <LtxtConfDelNote>Are you sure you want to delete this note?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Enable Cart Import (Clients)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Enable Cart Import (Agents)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Enable Multiple Documents (Clients)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Enable Discount per Line (Agents)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Show Price Before Discount (Agents)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Maximum Discount (Agents)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Apply Maximum Discount to Super Users</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Cart Type (Clients Only)</LtxtCartType>
+    <LtxtApplication>Application</LtxtApplication>
+    <LtxtSite>Site</LtxtSite>
+    <LtxtTransConfNote>Transaction Confirmation (Clients)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Custom Note</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Show Line Discount</LtxtShowLineDisco>
+    <LtxtValDefListExp>Default list cannot be "Expenses" when expenses are not enabled </LtxtValDefListExp>
+    <LtxtValDefListVen>Default list cannot be "Best Selling" when best selling items are not enabled </LtxtValDefListVen>
+    <LtxtItmRecSelAll>Automatically select recommended items</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Print Price Before Discount (Agents)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Print Line Discount</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Allow Clients to Assign Partial Delivery</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Enable "Sell All Available Stock" Option</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Enable hide cart header</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Enable project selection (Agent)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Sell all available stock from</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>Enable Anonymous Cart</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>Anonymous Cart Client</LtxtAnonCartClient>
+    <LtxtSelClient>You must enter client code</LtxtSelClient>
+    <LtxtFastAddUnRem>Fast add item - remember last selected unit</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>Fast add item - play beep sound when scan</LtxtFastAddBeep>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtEditItemDesQry>Edit item description query</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>Enable consolidated documents</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>Save bar code when adding item to cart</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtUndefined>No Definido</DtxtUndefined>
+    <LttlCartProp>Propiedades de la Canasta de Compras</LttlCartProp>
+    <LttlCartPropNote>En esta sección podrá definir las diferentes propiedades que presenta la canasta de compras, tanto para clientes como para agentes.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Al agregar artículo a la canasta (OLK - Clientes)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Al agregar artículo a la canasta (OLK - Agentes)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Al agregar artículo a la canasta (Movil)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Documento predeterminado (Clientes)</LtxtDefCDoc>
+    <LtxtDefPDoc>Documento predeterminado (Movil)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Habilitar selección de tipo de documento (Clientes)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Habilitar canasta resumida</LtxtEnableCartSum>
+    <LtxtCartSumQty>Canasta resumida - Cantidad de líneas</LtxtCartSumQty>
+    <LtxtEnTop10Items>Habilitar artículos más vendidos (Agentes)</LtxtEnTop10Items>
+    <LtxtTop10Items>Artículos más vendidos - Cantidad de artículos (Agentes)</LtxtTop10Items>
+    <LtxtExpItems>Habilitar gastos (Agentes)</LtxtExpItems>
+    <LtxtCartGroup>Lista predeterminada (Agentes)</LtxtCartGroup>
+    <LtxtGrp>Gastos</LtxtGrp>
+    <LtxtBSel>+Vendidos</LtxtBSel>
+    <LtxtCCartNote>Nota de canasta (Clientes)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Mostrar nota en confirmación de canasta (Clientes)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Permitir más de una línea por artículo en la canasta</LtxtBasketMItems>
+    <LtxtDocMCBal>Mostrar saldo de cliente multi-moneda en documentos en moneda.</LtxtDocMCBal>
+    <LtxtSDKLineMemo>Habilitar notas para líneas de documentos</LtxtSDKLineMemo>
+    <LtxtEditNote>Editar Nota</LtxtEditNote>
+    <LtxtNewNote>Nueva Nota</LtxtNewNote>
+    <LtxtDelNote>Eliminar nota</LtxtDelNote>
+    <LtxtOptGoToCart>Ir a canasta</LtxtOptGoToCart>
+    <LtxtOptCurPag>Pantalla actual</LtxtOptCurPag>
+    <LtxtBackToSearch>Volver a búsqueda</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Local</LoptDocMCBalLocal>
+    <LtxtSelNote>Seleccione una nota</LtxtSelNote>
+    <LtxtConfDelNote>¿Está seguro que desea eliminar esta nota?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Habilitar importación de canasta (Clientes)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Habilitar importación de canasta (Agentes)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Habilitar múltiples documentos (Clientes)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Habilitar descuento por línea (Agentes)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Mostrar precio antes de descuento (Agentes)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Descuento máximo (Agentes)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Aplicar descuento máximo a súper usuario</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Tipo de Canasta (Clientes Solamente)</LtxtCartType>
+    <LtxtApplication>Aplicación</LtxtApplication>
+    <LtxtSite>Sitio</LtxtSite>
+    <LtxtTransConfNote>Confirmación de Transacción (Clientes)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Personalizar Nota</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Mostrar descuento por línea</LtxtShowLineDisco>
+    <LtxtValDefListExp>La lista predeterminada no puede ser "Gastos" cuando los gastos no están habilitados</LtxtValDefListExp>
+    <LtxtValDefListVen>La lista predeterminada no puede ser "+Vendidos" cuando los artículos más vendidos no están habilitados</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Seleccionar automáticamente artículos recomendados</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Imprimir precio antes de descuento (Agentes)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Imprimir descuento por línea</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Permitir cliente asignar entrega parcial</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Habilitar la opción "Vender todo el inventario disponible"</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Habilitar ocultar encabezado de canasta</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Habilitar selección de proyecto (Agente)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Vender todo el inventario disponible desde</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>Habilitar Canasta Anónima</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>Cliente de Canasta Anónima</LtxtAnonCartClient>
+    <LtxtSelClient>Debe introducir código cliente</LtxtSelClient>
+    <LtxtFastAddUnRem>Agregar artículo rápido - recordar ultima selección de unidad</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>Agregar artículo rápido - reproducir el sonido bip cuando escanea</LtxtFastAddBeep>
+    <LtxtAvlTables>Tablas</LtxtAvlTables>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LtxtEditItemDesQry>Consulta de edición de descripción de artículo</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>Habilitar documentos consolidados</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>Guardar código de barra al agregar articulo a la canasta</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtDoc>מסמך</DtxtDoc>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtUndefined>לא הוגדר</DtxtUndefined>
+    <LttlCartProp>מאפיינים של סל הקניות</LttlCartProp>
+    <LttlCartPropNote>בחלק זה תוכל להגדיר ברירות מחדל לסל קניות ללקוחות וסוכנים</LttlCartPropNote>
+    <LtxtAfterCartAddC>בהוספת פריט לסל קניות (לקוחות)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>בהוספת פריט לסל קניות (סוכנים)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>בהוספת פריט לסל קניות (פוקט)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>מסמך ברירת מחדל (לקוחות)</LtxtDefCDoc>
+    <LtxtDefPDoc>מסמך ברירת מחדל (פוקט)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>הפעל בחירת סוג מסמך שיווק ללקוחות</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>הפעל סל קניות מקוצר</LtxtEnableCartSum>
+    <LtxtCartSumQty>סל קניות מקוצר - כמות שורות</LtxtCartSumQty>
+    <LtxtEnTop10Items>הפעל פריטים הכי נמכרים (סוכנים)</LtxtEnTop10Items>
+    <LtxtTop10Items>פריטים הכי נמכרים - כמות (סוכנים)</LtxtTop10Items>
+    <LtxtExpItems>הפעל הוצאות למסמכי שיווק  (סוכנים)</LtxtExpItems>
+    <LtxtCartGroup>רשימת ברירת מחדל (סוכנים)</LtxtCartGroup>
+    <LtxtGrp>הוצאות</LtxtGrp>
+    <LtxtBSel>פריטים הכי נמכרים</LtxtBSel>
+    <LtxtCCartNote>הודעה ללקוחות - סל קניות</LtxtCCartNote>
+    <LtxtPrintCCartNote>הצג הודעה באישור סיכום סל הקניות (לקוחות)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>לאפשר יותר משורה אחת לפריט בסל קניות</LtxtBasketMItems>
+    <LtxtDocMCBal>הצג יתרת לקוח במטבע מקומי ללקוח רב מטבעי</LtxtDocMCBal>
+    <LtxtSDKLineMemo>הפעל הערות לשורות במסמכים</LtxtSDKLineMemo>
+    <LtxtEditNote>ערוך הערה</LtxtEditNote>
+    <LtxtNewNote>הערה חדשה</LtxtNewNote>
+    <LtxtDelNote>מחק הערה</LtxtDelNote>
+    <LtxtOptGoToCart>עבור לסל קניות</LtxtOptGoToCart>
+    <LtxtOptCurPag>עמוד נוכחי</LtxtOptCurPag>
+    <LtxtBackToSearch>חזרה לחיפוש</LtxtBackToSearch>
+    <LoptDocMCBalLocal>מקומי</LoptDocMCBalLocal>
+    <LtxtSelNote>בחר הערה</LtxtSelNote>
+    <LtxtConfDelNote>האם למחוק את הערה?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>הפעל יבוא סל קניות (לקוחות)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>הפעל יבוא סל קניות (סוכנים)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>הפעל ניהול ריבוי מסמכים (ללקוחות)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>אפשר הנחה לשורה (סוכנים)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>הצג מחיר לפני הנחה (סוכנים)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>הנחה מקסימלית (סוכנים)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>אפשר הנחה מקסימלית למשתמש בכיר</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>סוג סל (לקוחות בלבד)</LtxtCartType>
+    <LtxtApplication>אפליקציה</LtxtApplication>
+    <LtxtSite>אתר אינטרנט</LtxtSite>
+    <LtxtTransConfNote>אישור עיסקה ללקוחות</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>הערה מותאמת אישית</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>הצג הנחה לשורה</LtxtShowLineDisco>
+    <LtxtValDefListExp>רשימת ברירת מחדל לא יכולה להיות "הוצאות נוספות" כאלה שתצוגת "הוצאות נוספות" אינה פעילה</LtxtValDefListExp>
+    <LtxtValDefListVen>רשימת ברירת מחדל לא יכולה להיות "הכי נמכרים" מתי שתצוגת "הכי נמכרים" אינה פעילה</LtxtValDefListVen>
+    <LtxtItmRecSelAll>בחר פריטים ממולצים באופן אוטומתי</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>הדפס מחיר לפני הנחה (סוכנים)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>הדפס הנחה לשורה</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>אפשר ללקוחות לקבוע אופן משלוח חלקי\מלא</LtxtAllowClParSupp>
+    <LtxtEnSelAll>הפעל כפתור "מכור את כל המלאי הזמין"</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>אפשר הסתרת כותרת העגלה</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>אפשר בחרת הפרויקט (סוכן)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>מכור את כל המלאי מ</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>אפשר סל קניות אנונימי</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>סל קניות לקוח אנונימי</LtxtAnonCartClient>
+    <LtxtSelClient>נא הכנס קוד לקוח</LtxtSelClient>
+    <LtxtFastAddUnRem>הוספה מהירה של פריט - זכור את היחידה האחרונה.</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>הוספה מהירה של פריט - השמע צליל בעת הסריקה</LtxtFastAddBeep>
+    <LtxtAvlTables>טבלות</LtxtAvlTables>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LtxtEditItemDesQry>עריכת שאילתא תיאור פריט</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>אפשר מסמכים מאוחדים</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>שמור ברקוד בעת הוספת פריט לסל</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtUndefined>Undefined</DtxtUndefined>
+    <LttlCartProp>Shopping Cart Properties</LttlCartProp>
+    <LttlCartPropNote>Here various properties of the shopping cart for clients and agents may be defined.</LttlCartPropNote>
+    <LtxtAfterCartAddC>When Adding an Item to the Cart (OLK - Clients)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>When Adding an Item to the Cart (OLK - Agents)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>When Adding an Item to the Cart (Mobile)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Default Document (Clients)</LtxtDefCDoc>
+    <LtxtDefPDoc>Default Document (Mobile)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Enable Document Type Selection (Clients)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Enable Summarized Cart</LtxtEnableCartSum>
+    <LtxtCartSumQty>Summarized Cart - Amount of Lines Displayed</LtxtCartSumQty>
+    <LtxtEnTop10Items>Enable Best Selling Items (Agents)</LtxtEnTop10Items>
+    <LtxtTop10Items>Best Selling Items - Amount of Items (Agents)</LtxtTop10Items>
+    <LtxtExpItems>Enable Expenses (Agents)</LtxtExpItems>
+    <LtxtCartGroup>Default List (Agents)</LtxtCartGroup>
+    <LtxtGrp>Expenses</LtxtGrp>
+    <LtxtBSel>Best Selling </LtxtBSel>
+    <LtxtCCartNote>Cart Notes (Clients)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Show Note in Cart Confirmation (Clients)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Allow More Than One Line per Item</LtxtBasketMItems>
+    <LtxtDocMCBal>Show multi-currency client balance in documents in currency</LtxtDocMCBal>
+    <LtxtSDKLineMemo>Enable Line Notes in Documents</LtxtSDKLineMemo>
+    <LtxtEditNote>Edit Note</LtxtEditNote>
+    <LtxtNewNote>New Note</LtxtNewNote>
+    <LtxtDelNote>Delete Note</LtxtDelNote>
+    <LtxtOptGoToCart>Go to cart</LtxtOptGoToCart>
+    <LtxtOptCurPag>Current Page</LtxtOptCurPag>
+    <LtxtBackToSearch>Back to Search</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Local</LoptDocMCBalLocal>
+    <LtxtSelNote>Select a Note</LtxtSelNote>
+    <LtxtConfDelNote>Are you sure you want to delete this note?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Enable Cart Import (Clients)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Enable Cart Import (Agents)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Enable Multiple Documents (Clients)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Enable Discount per Line (Agents)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Show Price Before Discount (Agents)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Maximum Discount (Agents)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Apply Maximum Discount to Super Users</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Cart Type (Clients Only)</LtxtCartType>
+    <LtxtApplication>Application</LtxtApplication>
+    <LtxtSite>Site</LtxtSite>
+    <LtxtTransConfNote>Transaction Confirmation (Clients)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Custom Note</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Show Line Discount</LtxtShowLineDisco>
+    <LtxtValDefListExp>Default list cannot be "Expenses" when expenses are not enabled </LtxtValDefListExp>
+    <LtxtValDefListVen>Default list cannot be "Best Selling" when best selling items are not enabled </LtxtValDefListVen>
+    <LtxtItmRecSelAll>Automatically select recommended items</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Print Price Before Discount (Agents)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Print Line Discount</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Allow Clients to Assign Partial Delivery</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Enable "Sell All Available Stock" Option</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Enable hide cart header</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Enable project selection (Agent)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Sell all available stock from</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>Enable Anonymous Cart</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>Anonymous Cart Client</LtxtAnonCartClient>
+    <LtxtSelClient>You must enter client code</LtxtSelClient>
+    <LtxtFastAddUnRem>Fast add item - remember last selected unit</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtUndefined>Indefinido</DtxtUndefined>
+    <LttlCartProp>Propriedades do Carrinho de Compras</LttlCartProp>
+    <LttlCartPropNote>Nesta seção, podem ser definidas várias propriedades do carrinho de compras para os clientes e vendedores.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Ao adicionar um item no carrinho (OnlineKit - Clientes)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Ao adicionar um item no carrinho (OnlineKit - Vendedores)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Ao adicionar um item no Carrinho (Mobile)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Documento Padrão (Clientes)</LtxtDefCDoc>
+    <LtxtDefPDoc>Documento Padrão (Mobile)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Habilitar seleção do tipo de documento (Clientes)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Habilitar Carrinho Resumido</LtxtEnableCartSum>
+    <LtxtCartSumQty>Resumo do Carrinho - Quantidade de linhas exibidas.</LtxtCartSumQty>
+    <LtxtEnTop10Items>Habilitar itens mais vendidos (Vendedor)</LtxtEnTop10Items>
+    <LtxtTop10Items>Itens mais vendidos - Quantidade de Itens (Vendedores)</LtxtTop10Items>
+    <LtxtExpItems>Habilitar Despesas (Vendedores)</LtxtExpItems>
+    <LtxtCartGroup>Lista Padrão (Vendedores)</LtxtCartGroup>
+    <LtxtGrp>Despesas</LtxtGrp>
+    <LtxtBSel>Mais Vendidos</LtxtBSel>
+    <LtxtCCartNote>Notas de Compra (Clientes)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Mostrar nota na confirmação de compras. (Clientes)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Permitir mais de uma linha por item.</LtxtBasketMItems>
+    <LtxtDocMCBal>Mostrar saldo de cliente multi-moeda na moeda do documento.</LtxtDocMCBal>
+    <LtxtSDKLineMemo>Habilitar notas para linhas de documentos</LtxtSDKLineMemo>
+    <LtxtEditNote>Editar Nota</LtxtEditNote>
+    <LtxtNewNote>Nova Nota</LtxtNewNote>
+    <LtxtDelNote>Excluir Nota</LtxtDelNote>
+    <LtxtOptGoToCart>Ir para Carrinho</LtxtOptGoToCart>
+    <LtxtOptCurPag>Página Atual</LtxtOptCurPag>
+    <LtxtBackToSearch>Retornar à Busca</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Local</LoptDocMCBalLocal>
+    <LtxtSelNote>Selecione uma Nota</LtxtSelNote>
+    <LtxtConfDelNote>Você tem certeza que deseja excluir esta nota?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Habilitar importação de carrinho (Clientes)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Habilitar importação de carrinho (Vendedores)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Habilitar Múltiplos Documentos (Clientes)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Habilitar desconto por linha (Vendedores)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Mostrar preço antes do desconto. (Vendedores)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Desconto Máximo (Vendedores)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Aplicar Desconto Máximo para os Super Usuários.</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Tipo de Compra (Somente Clientes)</LtxtCartType>
+    <LtxtApplication>Aplicação</LtxtApplication>
+    <LtxtSite>Site</LtxtSite>
+    <LtxtTransConfNote>Confirmação de Transação (Clientes)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Nota Personalizada</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Mostrar Linha de Desconto</LtxtShowLineDisco>
+    <LtxtValDefListExp>A lista padrão não pode ser "Despesas" quando as despesas não estão habilitadas.</LtxtValDefListExp>
+    <LtxtValDefListVen>A lista padrão não pode ser "mais vendidos" quando os itens mais vendidos não estão habilitados.</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Selecionar automaticamente itens recomendados.</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Imprimir Preço antes do Desconto (Vendedor)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Imprimir Desconto por Linha</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Permitir que os Clientes atribuam entrega parcial.</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Ativar Opção "Vender todo o estoque disponível".</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Habilitar / Ocultar Cabeçalho do Carrinho</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Habilitar seleção de projeto (Vendedor)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Vender todo o estoque disponível de</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>Habilitar Carrinho Anônimo</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>Cliente de Carrinho Anônimo</LtxtAnonCartClient>
+    <LtxtSelClient>Você deve inserir o código do cliente.</LtxtSelClient>
+    <LtxtFastAddUnRem>Adicionar item rápido - lembrar última unidade selecionada.</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>Adicionar item rápido - reproduzir um Bip quando escaneado</LtxtFastAddBeep>
+    <LtxtAvlTables>Tabelas</LtxtAvlTables>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LtxtEditItemDesQry>Consulta de edição da descrição do item</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>Habilitar documentos consolidados</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>Gravar o código de barras ao adicionar o item no Carrinho de Compras</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtDoc>Documentation</DtxtDoc>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtUndefined>&lt;--&gt;</DtxtUndefined>
+    <LttlCartProp>Propriétés de la corbeille des achats</LttlCartProp>
+    <LttlCartPropNote>Dans cette section vous pourrez déterminer les divers propriétés qui présent la corbeille des achats, pour les clients ainsi que pour les agents.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Au moment d'ajouter l'article à la cobeille (OLK - Clients)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Au moment  d'ajouter l'article à la corbeille (OLK - Agents)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Au moment d'ajouter l'article à la corbeille (Poche)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>La documentation prédéterminée (Clients)</LtxtDefCDoc>
+    <LtxtDefPDoc>La documentation prédéterminée (Poche)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Habiliter la sélection du genre de documentation (clients)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Habiliter la corbeille réduite</LtxtEnableCartSum>
+    <LtxtCartSumQty>Corbeille réduite - Quantité des lignes</LtxtCartSumQty>
+    <LtxtEnTop10Items>Habiliter des articles les plus vendus (Agents)</LtxtEnTop10Items>
+    <LtxtTop10Items>Des articles les plus vendus - Quantité des articles (Agents)</LtxtTop10Items>
+    <LtxtExpItems>Habiliter des frais (Agents)</LtxtExpItems>
+    <LtxtCartGroup>Liste prédéterminée (Agents)</LtxtCartGroup>
+    <LtxtGrp>Frais</LtxtGrp>
+    <LtxtBSel>Vendus</LtxtBSel>
+    <LtxtCCartNote>Note de corbeille (Clients)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Montrer la note en confirmation de corbeille (Clients)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Permettre plus d'une ligne par article dans la corbeille</LtxtBasketMItems>
+    <LtxtDocMCBal>Montrer solde de client multi-monnaie en documents monnaie.</LtxtDocMCBal>
+    <LtxtSDKLineMemo>Habiliter des notes pour les lignes de documentation</LtxtSDKLineMemo>
+    <LtxtEditNote>Éditer la note</LtxtEditNote>
+    <LtxtNewNote>Note actuelle</LtxtNewNote>
+    <LtxtDelNote>Effacer la note</LtxtDelNote>
+    <LtxtOptGoToCart>Aller à la corbeille</LtxtOptGoToCart>
+    <LtxtOptCurPag>Écran actuel</LtxtOptCurPag>
+    <LtxtBackToSearch>Retourner à la recherche</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Local</LoptDocMCBalLocal>
+    <LtxtSelNote>Sélectionnez-vous une note</LtxtSelNote>
+    <LtxtConfDelNote>Êtes-vous sûre d'éliminer cette note?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Habiliter l'importation de corbeille (Clients)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Habiliter l'importation de corbeille (Agents)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>&lt;--&gt;</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>&lt;--&gt;</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>&lt;--&gt;</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>&lt;--&gt;</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>&lt;--&gt;</LtxtCartType>
+    <LtxtApplication>&lt;--&gt;</LtxtApplication>
+    <LtxtSite>&lt;--&gt;</LtxtSite>
+    <LtxtTransConfNote>&lt;--&gt;</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>&lt;--&gt;</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>&lt;--&gt;</LtxtShowLineDisco>
+    <LtxtValDefListExp>&lt;--&gt;</LtxtValDefListExp>
+    <LtxtValDefListVen>&lt;--&gt;</LtxtValDefListVen>
+    <LtxtItmRecSelAll>&lt;--&gt;</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>&lt;--&gt;</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>&lt;--&gt;</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>&lt;--&gt;</LtxtAllowClParSupp>
+    <LtxtEnSelAll>&lt;--&gt;</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>&lt;--&gt;</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>&lt;--&gt;</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>&lt;--&gt;</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+    <LtxtAvlVars>Variables disponibles</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtUndefined>Undefiniert</DtxtUndefined>
+    <LttlCartProp>Einkaufswagen Eigenschaften</LttlCartProp>
+    <LttlCartPropNote>In diesem Bereich kann man die verschiedenen Eigenschaften des Einkaufswagen bestimmen, sowohl für Kunden als auch für Agenten.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Beim hinzufügen eines Artikels in den Einkaufswagen (OLK - Kunden)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Beim hinzufügen eines Artikels in den Einkaufswagen (OLK - Agenten)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Beim hinzufügen eines Artikels in den Einkaufswagen (Ablage)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Standard Dokument (Kunden)</LtxtDefCDoc>
+    <LtxtDefPDoc>Standard Dokument (Tasche)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Auswahl der Dokumentenart aktivieren (Kunde)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Übersichtliche Einkaufswagen aktivieren</LtxtEnableCartSum>
+    <LtxtCartSumQty>Übersichtliche Einkaufswagen - Menge der Zeilen</LtxtCartSumQty>
+    <LtxtEnTop10Items>Meistgekaufte Artikel freigeben (Agenten)</LtxtEnTop10Items>
+    <LtxtTop10Items>Meistgekaufte Artikel - Menge der Artikel (Agenten)</LtxtTop10Items>
+    <LtxtExpItems>Ausgaben aktivieren (Agenten)</LtxtExpItems>
+    <LtxtCartGroup>Standard Liste (Agenten)</LtxtCartGroup>
+    <LtxtGrp>Ausgaben</LtxtGrp>
+    <LtxtBSel>Meistgekauft</LtxtBSel>
+    <LtxtCCartNote>Einkaufswagen-Notizen (Kunde)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Notiz in der Einkaufswagenbestätigung anzeigen (Kunden)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Mehr als eine Zeile pro Artikel im Einkaufswagen zulassen</LtxtBasketMItems>
+    <LtxtDocMCBal>Multiwährung Kundenbilanz in Währungsdokument anzeigen</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>Notiz Bearbeiten</LtxtEditNote>
+    <LtxtNewNote>Neue Notiz</LtxtNewNote>
+    <LtxtDelNote>Notiz Löschen</LtxtDelNote>
+    <LtxtOptGoToCart>Zum Einkaufswagen</LtxtOptGoToCart>
+    <LtxtOptCurPag>Aktuelle Seite</LtxtOptCurPag>
+    <LtxtBackToSearch>Zurück zur Suche</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Lokal</LoptDocMCBalLocal>
+    <LtxtSelNote>Notiz Wählen</LtxtSelNote>
+    <LtxtConfDelNote>Möchten Sie diese Notiz wirklich löschen?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Einkaufswagen import aktivieren (Kunden)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Einkaufswagen import aktivieren (Agenten)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>&lt;--&gt;</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>&lt;--&gt;</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>&lt;--&gt;</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>&lt;--&gt;</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>&lt;--&gt;</LtxtCartType>
+    <LtxtApplication>&lt;--&gt;</LtxtApplication>
+    <LtxtSite>&lt;--&gt;</LtxtSite>
+    <LtxtTransConfNote>&lt;--&gt;</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>&lt;--&gt;</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>&lt;--&gt;</LtxtShowLineDisco>
+    <LtxtValDefListExp>&lt;--&gt;</LtxtValDefListExp>
+    <LtxtValDefListVen>&lt;--&gt;</LtxtValDefListVen>
+    <LtxtItmRecSelAll>&lt;--&gt;</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>&lt;--&gt;</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>&lt;--&gt;</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>&lt;--&gt;</LtxtAllowClParSupp>
+    <LtxtEnSelAll>&lt;--&gt;</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>&lt;--&gt;</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>&lt;--&gt;</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>&lt;--&gt;</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tabellen</LtxtAvlTables>
+    <LtxtAvlVars>Vorhandene Variablen</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtDoc>Документ</DtxtDoc>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtUndefined>Не указан</DtxtUndefined>
+    <LttlCartProp>Свойства корзины</LttlCartProp>
+    <LttlCartPropNote>В этом разделе можно определить различные свойства корзины, для клиентов, а также агентов</LttlCartPropNote>
+    <LtxtAfterCartAddC>При добавлении деталей в корзину (ОЛК - Клиенты)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>При добавлении  деталей в корзину (ОЛК - агенты)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>При добавлении деталей в корзину (Карманный)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>По умолчанию документ (клиенты)</LtxtDefCDoc>
+    <LtxtDefPDoc>По умолчанию документ (карманный)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Включите Выбор типа документа (клиенты)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Включите краткое Корзина</LtxtEnableCartSum>
+    <LtxtCartSumQty>Краткое корзины - Количество линий</LtxtCartSumQty>
+    <LtxtEnTop10Items>Включите лидеры продаж деталей (агенты)</LtxtEnTop10Items>
+    <LtxtTop10Items>Лучшие продажи предметов - количество предметов (агенты)</LtxtTop10Items>
+    <LtxtExpItems>Включите расходы (агенты)</LtxtExpItems>
+    <LtxtCartGroup>По умолчанию список (агенты)</LtxtCartGroup>
+    <LtxtGrp>Расходы</LtxtGrp>
+    <LtxtBSel>Самые популярные детали</LtxtBSel>
+    <LtxtCCartNote>Корзина Заметки (клиенты)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Показать обратить внимание, в подтверждение корзина (клиенты)</LtxtPrintCCartNote>
+    <LtxtBasketMItems> Позволить более чем одну строку на каждый пункт в корзине             </LtxtBasketMItems>
+    <LtxtDocMCBal>Показать баланс клиентов в местной валюте для клиентов любой другой валюты</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>Изменить примечание</LtxtEditNote>
+    <LtxtNewNote>Новая заметка</LtxtNewNote>
+    <LtxtDelNote>Исключить примечание</LtxtDelNote>
+    <LtxtOptGoToCart>Перейти к корзине</LtxtOptGoToCart>
+    <LtxtOptCurPag>Текущая страница</LtxtOptCurPag>
+    <LtxtBackToSearch>Вернуться к поиску</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Местный</LoptDocMCBalLocal>
+    <LtxtSelNote>Выберите заметку</LtxtSelNote>
+    <LtxtConfDelNote>Вы уверены, что хотите удалить эту заметку?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Включите импорт корзине (клиенты)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Включите импорт корзине (агенты)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Разрешить различные документы (клиенты)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Включите скидка на линию (агенты)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Показать цены до скидок (агенты)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Максимальная скидка (агенты)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Применить максимальную скидку на супер-пользователя</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Корзина типа (только клиентам)</LtxtCartType>
+    <LtxtApplication>Апликация</LtxtApplication>
+    <LtxtSite>Сайт</LtxtSite>
+    <LtxtTransConfNote>Подтверждение сделки (клиенты)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Пользовательские примечания</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Показать скидку в строке</LtxtShowLineDisco>
+    <LtxtValDefListExp>По умолчанию в списоке не может быть "Расходы", когда расходы не включены</LtxtValDefListExp>
+    <LtxtValDefListVen>По умолчанию списоке не может быть "бестселлера", когда лучшие пункты продаж не включены</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Автоматический выбор Рекомендуемые детали</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Распечатать цены без скидок (агенты)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Печатать строку со скидкой</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Разрешить клиенту назначить полную или частичную поставку</LtxtAllowClParSupp>
+    <LtxtEnSelAll>&lt;--&gt;</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>&lt;--&gt;</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>&lt;--&gt;</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>&lt;--&gt;</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Таблицы</LtxtAvlTables>
+    <LtxtAvlVars>Доступные переменные</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtUndefined>Nedefinováno</DtxtUndefined>
+    <LttlCartProp>Vlastnosti nákupního košíku</LttlCartProp>
+    <LttlCartPropNote>V této sekci můžete nastavit a upravovat vlastnosti nákupního košíku pro klienty a agenty.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Při přidávání položky do košíku (OLK - klienti)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Při přidávání položky do košíku (OLK - agenti)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Při přidávání položky do košíku (kapesní)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Výchozí dokument (klienti)</LtxtDefCDoc>
+    <LtxtDefPDoc>Výchozí dokument (kapesní)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Povolit výběr typu dokumentu (klienti</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Povolit shrnutí košíku</LtxtEnableCartSum>
+    <LtxtCartSumQty>Shrnutí košíku - Počet zobrazených řádek</LtxtCartSumQty>
+    <LtxtEnTop10Items>Povolit nejprodávanější položky (agenti)</LtxtEnTop10Items>
+    <LtxtTop10Items>Nejprodávanější položky - Počet položek (agenti)</LtxtTop10Items>
+    <LtxtExpItems>Povolit výdaje (agenti)</LtxtExpItems>
+    <LtxtCartGroup>Výchozí seznam (agenti)</LtxtCartGroup>
+    <LtxtGrp>Výdaje</LtxtGrp>
+    <LtxtBSel>Nejlepší prodeje</LtxtBSel>
+    <LtxtCCartNote>Poznámky ke košíku (klienti)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Zobrazit poznámku při potvrzení košíku (klienti)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Povolit víc než jednu řádku pro položku</LtxtBasketMItems>
+    <LtxtDocMCBal>Zobrazit bilanci klienta s více měnami v dokumentech v měně</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>Upravit poznámku</LtxtEditNote>
+    <LtxtNewNote>Nová poznámka</LtxtNewNote>
+    <LtxtDelNote>Vymazat poznámku</LtxtDelNote>
+    <LtxtOptGoToCart>Přejít do košíku</LtxtOptGoToCart>
+    <LtxtOptCurPag>Aktuální stránka</LtxtOptCurPag>
+    <LtxtBackToSearch>Zpět na vyhledávání</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Místní</LoptDocMCBalLocal>
+    <LtxtSelNote>Vybrat poznámku</LtxtSelNote>
+    <LtxtConfDelNote>Jste si jistý/á, že chcete vymazat tuto poznámku?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Povolit import košíku (klienti)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Povolit import košíku (agenti)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Povolit víc dokumentů (klienti)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Povolit slevu na řádku (agenti)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Zobrazit cenu před slevou (agenti)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Maximální sleva (agenti)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Připsat maximální slevu nadřazeným uživatelům</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Typ košíku (pouze klienti)</LtxtCartType>
+    <LtxtApplication>Připsání</LtxtApplication>
+    <LtxtSite>Místo</LtxtSite>
+    <LtxtTransConfNote>Potvrzení transakce (klienti)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Volitelná poznámka</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Zobrazit řádkovou slevu</LtxtShowLineDisco>
+    <LtxtValDefListExp>Výchozí seznam nemůže být "Výdaje", pokud nejsou výdaje povoleny</LtxtValDefListExp>
+    <LtxtValDefListVen>Výchozí seznam nemůže být "Nejprodávanější", pokud nejsou nejprodávanější položky povolené</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Automaticky vybrat doporučené položky</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Tisk ceny před slevou (agenti)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Tisk řádkové slevy</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Povolit klientům přiřadit částečné dodávky</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Povolit možnost "Prodat všechny dostupné zásoby"</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>&lt;--&gt;</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>&lt;--&gt;</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>&lt;--&gt;</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tabulky</LtxtAvlTables>
+    <LtxtAvlVars>Možné proměnné</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtUndefined>Niezdefiniowany</DtxtUndefined>
+    <LttlCartProp>Właściwości koszyka</LttlCartProp>
+    <LttlCartPropNote>Tutaj można zdefiniować różne właściwości koszyka dla klientów i sprzedawców</LttlCartPropNote>
+    <LtxtAfterCartAddC>Dodając pozycję do koszyka (OLK - Klienci)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Dodając pozycję do koszyka (OLK - Sprzedawcy)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Dodając pozycję do koszyka (Schowek)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Dokument domyślny (klienci)</LtxtDefCDoc>
+    <LtxtDefPDoc>Dokument domyślny (sprzedawcy)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Aktywuj wybór rodzaju dokumentu (klienci)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Aktywuj podsumowanie koszyka</LtxtEnableCartSum>
+    <LtxtCartSumQty>Podsumowanie koszyka - liczba wyświetlonych wierszy</LtxtCartSumQty>
+    <LtxtEnTop10Items>Aktywuj najlepiej sprzedające się pozycje (Sprzedawcy)</LtxtEnTop10Items>
+    <LtxtTop10Items>Najlepiej sprzedające się pozycje - liczba pozycji (Sprzedawcy)</LtxtTop10Items>
+    <LtxtExpItems>Aktywuj wydatki (Sprzedawcy)</LtxtExpItems>
+    <LtxtCartGroup>Lista domyślna (Sprzedawcy)</LtxtCartGroup>
+    <LtxtGrp>Wydatki</LtxtGrp>
+    <LtxtBSel>Najlepiej sprzedające się pozycje</LtxtBSel>
+    <LtxtCCartNote>Uwagi dla klientów (koszyk)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Pokaż uwagi w potwierdzeniu koszyka (klienci)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Pozwól na wykorzystanie więcej niż jednego wiersza na pozycję</LtxtBasketMItems>
+    <LtxtDocMCBal>Pokaż wielo-walutowe albo klienta w dokumentach w walucie</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>Edytuj uwagę</LtxtEditNote>
+    <LtxtNewNote>Nowa uwaga</LtxtNewNote>
+    <LtxtDelNote>Usuń uwagę</LtxtDelNote>
+    <LtxtOptGoToCart>Idź do koszyka</LtxtOptGoToCart>
+    <LtxtOptCurPag>Aktualna strona</LtxtOptCurPag>
+    <LtxtBackToSearch>Powrót do poszukiwania</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Miejscowy</LoptDocMCBalLocal>
+    <LtxtSelNote>Wybierz uwagę</LtxtSelNote>
+    <LtxtConfDelNote>Czy jesteś pewien, że chcesz skasować tę uwagę?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Aktywuj import koszyka (Klienci)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Aktywuj import koszyka (Sprzedawcy)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Aktywuj wielokrotne dokumenty (Klienci)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Aktywuj rabat na wiersz (Sprzedawcy)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Pokaż cenę przed rabatem (Sprzedawcy)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Maksymalny rabat (Sprzedawcy)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Zastosuj maksymalny rabat wobec Super użytkowników</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Rodzaj koszyka (tylko klienci)</LtxtCartType>
+    <LtxtApplication>Aplikacja</LtxtApplication>
+    <LtxtSite>Strona internetowa</LtxtSite>
+    <LtxtTransConfNote>Potwierdzenie transakcji (klienci)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Uwaga na zamówienie/zindywidualizowana</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Pokaż wiersze rabatu</LtxtShowLineDisco>
+    <LtxtValDefListExp>Domyślnej listy nie mogą stanowić "wydatki", jeśli wydatki nie są aktywne</LtxtValDefListExp>
+    <LtxtValDefListVen>Domyślnej listy nie mogą stanowić "Najlepiej sprzedające się", jeśli najlepiej sprzedające się pozycje nie są aktywne</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Automatycznie wybrane rekomendowane pozycje</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Wydrukuj cenę przed rabatem (Sprzedawcy)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Wydrukuj wiersz rabatu</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Pozwól klientom na przydzielenie częściowej dostawy</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Aktywuj opcje "sprzedaż całego dostępnego towaru"</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Zezwól na ukrycie nagłówka koszyka</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Zezwól na wybór projektu (Sprzedawca)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Sprzedaż całego dostępnego towaru</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tabele</LtxtAvlTables>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtUndefined>Nedefinované</DtxtUndefined>
+    <LttlCartProp>Vlastnosti nákupného košíka</LttlCartProp>
+    <LttlCartPropNote>Tu sa dajú definovať rôzne vlastnosti nákupného košíka pre klientov a agentov.</LttlCartPropNote>
+    <LtxtAfterCartAddC>Pri pridávaní položky do košíka (OLK - Klienti)</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>Pri pridávaní položky do košíka (OLK - Agenti)</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>Pri pridávaní položky do košíka (Pocket)</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>Predvolený dokument (Klienti)</LtxtDefCDoc>
+    <LtxtDefPDoc>Predvolený dokument (Pocket)</LtxtDefPDoc>
+    <LtxtEnCSelDoc>Umožniť výber typu dokumentu (Klienti)</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>Umožniť Sumarizovaný košík</LtxtEnableCartSum>
+    <LtxtCartSumQty>Sumarizovaný košík - Zobrazený počet riadkov</LtxtCartSumQty>
+    <LtxtEnTop10Items>Umožniť najpredávanejšie položky (Agenti)</LtxtEnTop10Items>
+    <LtxtTop10Items>Najpredávanejšie</LtxtTop10Items>
+    <LtxtExpItems>Umožniť výdavky (Agenti)</LtxtExpItems>
+    <LtxtCartGroup>Predvolený zoznam (Agenti)</LtxtCartGroup>
+    <LtxtGrp>Výdavky</LtxtGrp>
+    <LtxtBSel>Najpredávanejšie</LtxtBSel>
+    <LtxtCCartNote>Poznámky košíka (Klienti)</LtxtCCartNote>
+    <LtxtPrintCCartNote>Zobraziť poznámku v potvrdení košika (Klienti)</LtxtPrintCCartNote>
+    <LtxtBasketMItems>Povoliť viac ako jeden riadok na položku</LtxtBasketMItems>
+    <LtxtDocMCBal>Zobraziť zostatok klienta v dokumentoch vo viacerých menách</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>Editovať poznámku</LtxtEditNote>
+    <LtxtNewNote>Nová poznámka</LtxtNewNote>
+    <LtxtDelNote>Vymazať poznámku</LtxtDelNote>
+    <LtxtOptGoToCart>Prejdi do košíka</LtxtOptGoToCart>
+    <LtxtOptCurPag>Aktuálna stránka</LtxtOptCurPag>
+    <LtxtBackToSearch>Späť na vyhľadávanie</LtxtBackToSearch>
+    <LoptDocMCBalLocal>Lokálny</LoptDocMCBalLocal>
+    <LtxtSelNote>Vybrať poznámku</LtxtSelNote>
+    <LtxtConfDelNote>Ste si istí, že chcete vymazať túto poznámku?</LtxtConfDelNote>
+    <LtxtEnableCartImpC>Umožniť import košíka (Klienti)</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>Umožniť import košíka (Agenti)</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>Umožniť viacpočetné dokumenty (Klienti)</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>Umožniť zľavu na riadok (Agenti)</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>Zobraziť cenu pred zľavou (Agenti)</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>Maximálna zľava (Agenti)</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>Uplatniť maximálnu zľavu pre Superužívateľov</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>Typ košíka (Len klienti)</LtxtCartType>
+    <LtxtApplication>Aplikácia</LtxtApplication>
+    <LtxtSite>Stránka</LtxtSite>
+    <LtxtTransConfNote>Potvrdenie transakcie (Klienti)</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>Frekventovaná poznámka</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>Zobraziť zľavu na riadok</LtxtShowLineDisco>
+    <LtxtValDefListExp>Predvolený zoznam nemôže byť "Výdavky", ked výdavky nie sú sprístupnené</LtxtValDefListExp>
+    <LtxtValDefListVen>Predvolený zoznam nemôže byť "Najpredávanejší", ked nie sú najpredávanejšie položky sprístupnené</LtxtValDefListVen>
+    <LtxtItmRecSelAll>Automaticky vybrať odporučené položky</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>Vytlačiť cenu pred zľavou (Agenti)</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>Vytlačiť zľavu na riadok</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>Povoliť klientom prideľovať čiastkové dodávky</LtxtAllowClParSupp>
+    <LtxtEnSelAll>Umožniť možnosť "Predať všetky dostupné zásoby"</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>Umožniť skrytie nadpisu košíka</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>Umožniť výber projektu (Agent)</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>Predať všetky dostupné zásoby z</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>Tabuľky</LtxtAvlTables>
+    <LtxtAvlVars>Dostupné premenné</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtDoc>&lt;--&gt;</DtxtDoc>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtBaseUnit>&lt;--&gt;</DtxtBaseUnit>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtUndefined>&lt;--&gt;</DtxtUndefined>
+    <LttlCartProp>&lt;--&gt;</LttlCartProp>
+    <LttlCartPropNote>&lt;--&gt;</LttlCartPropNote>
+    <LtxtAfterCartAddC>&lt;--&gt;</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>&lt;--&gt;</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>&lt;--&gt;</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>&lt;--&gt;</LtxtDefCDoc>
+    <LtxtDefPDoc>&lt;--&gt;</LtxtDefPDoc>
+    <LtxtEnCSelDoc>&lt;--&gt;</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>&lt;--&gt;</LtxtEnableCartSum>
+    <LtxtCartSumQty>&lt;--&gt;</LtxtCartSumQty>
+    <LtxtEnTop10Items>&lt;--&gt;</LtxtEnTop10Items>
+    <LtxtTop10Items>&lt;--&gt;</LtxtTop10Items>
+    <LtxtExpItems>&lt;--&gt;</LtxtExpItems>
+    <LtxtCartGroup>&lt;--&gt;</LtxtCartGroup>
+    <LtxtGrp>&lt;--&gt;</LtxtGrp>
+    <LtxtBSel>&lt;--&gt;</LtxtBSel>
+    <LtxtCCartNote>&lt;--&gt;</LtxtCCartNote>
+    <LtxtPrintCCartNote>&lt;--&gt;</LtxtPrintCCartNote>
+    <LtxtBasketMItems>&lt;--&gt;</LtxtBasketMItems>
+    <LtxtDocMCBal>&lt;--&gt;</LtxtDocMCBal>
+    <LtxtSDKLineMemo>&lt;--&gt;</LtxtSDKLineMemo>
+    <LtxtEditNote>&lt;--&gt;</LtxtEditNote>
+    <LtxtNewNote>&lt;--&gt;</LtxtNewNote>
+    <LtxtDelNote>&lt;--&gt;</LtxtDelNote>
+    <LtxtOptGoToCart>&lt;--&gt;</LtxtOptGoToCart>
+    <LtxtOptCurPag>&lt;--&gt;</LtxtOptCurPag>
+    <LtxtBackToSearch>&lt;--&gt;</LtxtBackToSearch>
+    <LoptDocMCBalLocal>&lt;--&gt;</LoptDocMCBalLocal>
+    <LtxtSelNote>&lt;--&gt;</LtxtSelNote>
+    <LtxtConfDelNote>&lt;--&gt;</LtxtConfDelNote>
+    <LtxtEnableCartImpC>&lt;--&gt;</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>&lt;--&gt;</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>&lt;--&gt;</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>&lt;--&gt;</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>&lt;--&gt;</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>&lt;--&gt;</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>&lt;--&gt;</LtxtCartType>
+    <LtxtApplication>&lt;--&gt;</LtxtApplication>
+    <LtxtSite>&lt;--&gt;</LtxtSite>
+    <LtxtTransConfNote>&lt;--&gt;</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>&lt;--&gt;</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>&lt;--&gt;</LtxtShowLineDisco>
+    <LtxtValDefListExp>&lt;--&gt;</LtxtValDefListExp>
+    <LtxtValDefListVen>&lt;--&gt;</LtxtValDefListVen>
+    <LtxtItmRecSelAll>&lt;--&gt;</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>&lt;--&gt;</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>&lt;--&gt;</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>&lt;--&gt;</LtxtAllowClParSupp>
+    <LtxtEnSelAll>&lt;--&gt;</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>&lt;--&gt;</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>&lt;--&gt;</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>&lt;--&gt;</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>&lt;--&gt;</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>&lt;--&gt;</LtxtAnonCartClient>
+    <LtxtSelClient>&lt;--&gt;</LtxtSelClient>
+    <LtxtFastAddUnRem>&lt;--&gt;</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>&lt;--&gt;</LtxtFastAddBeep>
+    <LtxtAvlTables>&lt;--&gt;</LtxtAvlTables>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LtxtEditItemDesQry>&lt;--&gt;</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>&lt;--&gt;</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>&lt;--&gt;</LtxtCartItmBarCode>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtDoc>DtxtDoc</DtxtDoc>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtUndefined>DtxtUndefined</DtxtUndefined>
+    <LttlCartProp>LttlCartProp</LttlCartProp>
+    <LttlCartPropNote>LttlCartPropNote</LttlCartPropNote>
+    <LtxtAfterCartAddC>LtxtAfterCartAddC</LtxtAfterCartAddC>
+    <LtxtAfterCartAddV>LtxtAfterCartAddV</LtxtAfterCartAddV>
+    <LtxtAfterCartAddPocke>LtxtAfterCartAddPocke</LtxtAfterCartAddPocke>
+    <LtxtDefCDoc>LtxtDefCDoc</LtxtDefCDoc>
+    <LtxtDefPDoc>LtxtDefPDoc</LtxtDefPDoc>
+    <LtxtEnCSelDoc>LtxtEnCSelDoc</LtxtEnCSelDoc>
+    <LtxtEnableCartSum>LtxtEnableCartSum</LtxtEnableCartSum>
+    <LtxtCartSumQty>LtxtCartSumQty</LtxtCartSumQty>
+    <LtxtEnTop10Items>LtxtEnTop10Items</LtxtEnTop10Items>
+    <LtxtTop10Items>LtxtTop10Items</LtxtTop10Items>
+    <LtxtExpItems>LtxtExpItems</LtxtExpItems>
+    <LtxtCartGroup>LtxtCartGroup</LtxtCartGroup>
+    <LtxtGrp>LtxtGrp</LtxtGrp>
+    <LtxtBSel>LtxtBSel</LtxtBSel>
+    <LtxtCCartNote>LtxtCCartNote</LtxtCCartNote>
+    <LtxtPrintCCartNote>LtxtPrintCCartNote</LtxtPrintCCartNote>
+    <LtxtBasketMItems>LtxtBasketMItems</LtxtBasketMItems>
+    <LtxtDocMCBal>LtxtDocMCBal</LtxtDocMCBal>
+    <LtxtSDKLineMemo>LtxtSDKLineMemo</LtxtSDKLineMemo>
+    <LtxtEditNote>LtxtEditNote</LtxtEditNote>
+    <LtxtNewNote>LtxtNewNote</LtxtNewNote>
+    <LtxtDelNote>LtxtDelNote</LtxtDelNote>
+    <LtxtOptGoToCart>LtxtOptGoToCart</LtxtOptGoToCart>
+    <LtxtOptCurPag>LtxtOptCurPag</LtxtOptCurPag>
+    <LtxtBackToSearch>LtxtBackToSearch</LtxtBackToSearch>
+    <LoptDocMCBalLocal>LoptDocMCBalLocal</LoptDocMCBalLocal>
+    <LtxtSelNote>LtxtSelNote</LtxtSelNote>
+    <LtxtConfDelNote>LtxtConfDelNote</LtxtConfDelNote>
+    <LtxtEnableCartImpC>LtxtEnableCartImpC</LtxtEnableCartImpC>
+    <LtxtEnableCartImpV>LtxtEnableCartImpV</LtxtEnableCartImpV>
+    <LtxtEnableClientMDoc>LtxtEnableClientMDoc</LtxtEnableClientMDoc>
+    <LtxtEnableDiscount>LtxtEnableDiscount</LtxtEnableDiscount>
+    <LtxtShowPriceBefDisco>LtxtShowPriceBefDisco</LtxtShowPriceBefDisco>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtApplyMaxDiscToSU>LtxtApplyMaxDiscToSU</LtxtApplyMaxDiscToSU>
+    <LtxtCartType>LtxtCartType</LtxtCartType>
+    <LtxtApplication>LtxtApplication</LtxtApplication>
+    <LtxtSite>LtxtSite</LtxtSite>
+    <LtxtTransConfNote>LtxtTransConfNote</LtxtTransConfNote>
+    <LtxtUseCustomTransMsg>LtxtUseCustomTransMsg</LtxtUseCustomTransMsg>
+    <LtxtShowLineDisco>LtxtShowLineDisco</LtxtShowLineDisco>
+    <LtxtValDefListExp>LtxtValDefListExp</LtxtValDefListExp>
+    <LtxtValDefListVen>LtxtValDefListVen</LtxtValDefListVen>
+    <LtxtItmRecSelAll>LtxtItmRecSelAll</LtxtItmRecSelAll>
+    <LtxtPrintPriceBefDisc>LtxtPrintPriceBefDisc</LtxtPrintPriceBefDisc>
+    <LtxtPrintLineDisco>LtxtPrintLineDisco</LtxtPrintLineDisco>
+    <LtxtAllowClParSupp>LtxtAllowClParSupp</LtxtAllowClParSupp>
+    <LtxtEnSelAll>LtxtEnSelAll</LtxtEnSelAll>
+    <LtxtEnableHideCartHdr>LtxtEnableHideCartHdr</LtxtEnableHideCartHdr>
+    <LtxtEnableDocPrjSel>LtxtEnableDocPrjSel</LtxtEnableDocPrjSel>
+    <LtxtSellAllFrom>LtxtSellAllFrom</LtxtSellAllFrom>
+    <LtxtEnableAnonCart>LtxtEnableAnonCart</LtxtEnableAnonCart>
+    <LtxtAnonCartClient>LtxtAnonCartClient</LtxtAnonCartClient>
+    <LtxtSelClient>LtxtSelClient</LtxtSelClient>
+    <LtxtFastAddUnRem>LtxtFastAddUnRem</LtxtFastAddUnRem>
+    <LtxtFastAddBeep>LtxtFastAddBeep</LtxtFastAddBeep>
+    <LtxtAvlTables>LtxtAvlTables</LtxtAvlTables>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LtxtEditItemDesQry>LtxtEditItemDesQry</LtxtEditItemDesQry>
+    <LtxtEnableMultiBPCart>LtxtEnableMultiBPCart</LtxtEnableMultiBPCart>
+    <LtxtCartItmBarCode>LtxtCartItmBarCode</LtxtCartItmBarCode>
+  </language>
+</languages>

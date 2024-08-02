@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtRate>Rate</DtxtRate>
+    <LttlSelTax>Select {0} code</LttlSelTax>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtRate>Tasas</DtxtRate>
+    <LttlSelTax>Seleccionar indicador de {0}</LttlSelTax>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtRate>שערים</DtxtRate>
+    <LttlSelTax>בחר קוד {0}</LttlSelTax>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtRate>Rate</DtxtRate>
+    <LttlSelTax>Select {0} code</LttlSelTax>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtRate>Taxas</DtxtRate>
+    <LttlSelTax>Selecionar indicador de {0}</LttlSelTax>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtRate>Taux</DtxtRate>
+    <LttlSelTax>Sélectionner l'indicateur de {0}</LttlSelTax>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtRate>Tarif</DtxtRate>
+    <LttlSelTax>{0} Code wählen</LttlSelTax>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtRate>Курс</DtxtRate>
+    <LttlSelTax>Выбрать код  {0}</LttlSelTax>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtRate>Sazba</DtxtRate>
+    <LttlSelTax>Vyberte kód {0}</LttlSelTax>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtRate>Kurs</DtxtRate>
+    <LttlSelTax>Wybierz {0} kod</LttlSelTax>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtRate>Kurz</DtxtRate>
+    <LttlSelTax>Zvoľte kód {0}</LttlSelTax>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtRate>DtxtRate</DtxtRate>
+    <LttlSelTax>LttlSelTax</LttlSelTax>
+  </language>
+</languages>

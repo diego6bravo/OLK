@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Client Cancelled</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Client data update canceled</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Cliente Cancelado</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Edición de datos de cliente cancelado</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtClientCancel>לקוח בוטל</LtxtClientCancel>
+    <LtxtClientUpdCanceled>עידכון נתוניי לקוח בוטל</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Client Cancelled</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Client data update canceled</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Cliente Cancelado</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Edição de dados de clientes cancelados</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Client annulé</LtxtClientCancel>
+    <LtxtClientUpdCanceled>&lt;--&gt;</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Kunde gestrichen</LtxtClientCancel>
+    <LtxtClientUpdCanceled>&lt;--&gt;</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Клиент отменён</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Обновления отменили ,клиент отменён</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Klient zrušen</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Aktualizace údajů klienta zrušena</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Anulowany klient</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Anulowana aktualizacja danych klienta</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>Klient zrušený</LtxtClientCancel>
+    <LtxtClientUpdCanceled>Aktualizácia dát klienta zrušená</LtxtClientUpdCanceled>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtClientCancel>LtxtClientCancel</LtxtClientCancel>
+    <LtxtClientUpdCanceled>LtxtClientUpdCanceled</LtxtClientUpdCanceled>
+  </language>
+</languages>

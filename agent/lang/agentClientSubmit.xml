@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Postal/Zip Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Federal Tax ID</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <DtxtVatNum>VAT Number</DtxtVatNum>
+    <LtxtErrAddClient>Error adding Business Partner</LtxtErrAddClient>
+    <LttlAddClient>Business Partner Added</LttlAddClient>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LttlUpdClient>Business Partner Updated</LttlUpdClient>
+    <LtxtConfAddCrd>The Business Partner “{0}” was added successfully.</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>The Business Partner “{0}” was updated successfully.</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Create another BP</LtxtCreateNewBP>
+    <LtxtView>View</LtxtView>
+    <LtxtBPOp>BP Operations</LtxtBPOp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Dirección de Envío</DtxtShipAddress>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtZipCode>Código Postal</DtxtZipCode>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtLicTradNum>Número de identificación fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <DtxtVatNum>Número de IVA</DtxtVatNum>
+    <LtxtErrAddClient>Error al agregar Socio de Negocios</LtxtErrAddClient>
+    <LttlAddClient>Socio de Negocio Agregado</LttlAddClient>
+    <LtxtPhone1>Teléfono 1</LtxtPhone1>
+    <LtxtPhone2>Teléfono 2</LtxtPhone2>
+    <LtxtContact>Contacto</LtxtContact>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Persona Natural</LtxtNatPer>
+    <LttlUpdClient>Socio de Negocio Actualizado</LttlUpdClient>
+    <LtxtConfAddCrd>El socio de negocio “{0}” fue agregado con éxito.</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>El socio de negocio “{0}” fue actualizado con éxito.</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Crear otro SN</LtxtCreateNewBP>
+    <LtxtView>Ver</LtxtView>
+    <LtxtBPOp>Operaciones de SN</LtxtBPOp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtBillAddress>כתובת לתשלום</DtxtBillAddress>
+    <DtxtShipAddress>כתובת למשלוח</DtxtShipAddress>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtZipCode>מיקוד</DtxtZipCode>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtLicTradNum>מספר עוסק מורשה</DtxtLicTradNum>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtBP>כרטיס</DtxtBP>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <DtxtVatNum>מספר מע"מ</DtxtVatNum>
+    <LtxtErrAddClient>תקלה בהוספת כרטיס</LtxtErrAddClient>
+    <LttlAddClient>כרטיס הוסף</LttlAddClient>
+    <LtxtPhone1>טלפון 1</LtxtPhone1>
+    <LtxtPhone2>טלפון 2</LtxtPhone2>
+    <LtxtContact>איש קשר</LtxtContact>
+    <LtxtMobile>נייד</LtxtMobile>
+    <LtxtFax>פקס</LtxtFax>
+    <LtxtNatPer>אדם פרטי</LtxtNatPer>
+    <LttlUpdClient>כרטיס עודכן</LttlUpdClient>
+    <LtxtConfAddCrd>הכרטיס {0}# נוצר בהצלחה</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>הכרטיס {0}# עודכן בהצלחה</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>צור עוד כרטיס</LtxtCreateNewBP>
+    <LtxtView>ראה</LtxtView>
+    <LtxtBPOp>פעילויות כרטיסים</LtxtBPOp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Post Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>VAT Code</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <DtxtVatNum>VAT Number</DtxtVatNum>
+    <LtxtErrAddClient>Error adding Business Partner</LtxtErrAddClient>
+    <LttlAddClient>Business Partner Added</LttlAddClient>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LttlUpdClient>Business Partner Updated</LttlUpdClient>
+    <LtxtConfAddCrd>The Business Partner “{0}” was added successfully.</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>The Business Partner “{0}” was updated successfully.</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Create another BP</LtxtCreateNewBP>
+    <LtxtView>View</LtxtView>
+    <LtxtBPOp>BP Operations</LtxtBPOp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtCmp>Companhia</DtxtCmp>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Endereço de Envio</DtxtShipAddress>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtZipCode>CEP</DtxtZipCode>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtLicTradNum>Nº de identificação fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <DtxtVatNum>Código de Imposto</DtxtVatNum>
+    <LtxtErrAddClient>Erro ao adicionar o Parceiro de Negócios</LtxtErrAddClient>
+    <LttlAddClient>Parceiro de Negócio Adicionado</LttlAddClient>
+    <LtxtPhone1>Telefone 1</LtxtPhone1>
+    <LtxtPhone2>Telefone 2</LtxtPhone2>
+    <LtxtContact>Contato</LtxtContact>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Pessoa Natural</LtxtNatPer>
+    <LttlUpdClient>Parceiro de Negócio Atualizado</LttlUpdClient>
+    <LtxtConfAddCrd>O parceiro de negócio "{0}" foi adicionado com sucesso</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>O parceiro de negócio "{0}" foi atualizado com sucesso</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Criar outro PN</LtxtCreateNewBP>
+    <LtxtView>Visualizar</LtxtView>
+    <LtxtBPOp>Operações de PN</LtxtBPOp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtBillAddress>Adresse de paiement</DtxtBillAddress>
+    <DtxtShipAddress>Adresse d'envoi</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Code Postal</DtxtZipCode>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Numéro d'identification fiscal</DtxtLicTradNum>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <DtxtVatNum>Numéro de TVA</DtxtVatNum>
+    <LtxtErrAddClient>&lt;--&gt;</LtxtErrAddClient>
+    <LttlAddClient>&lt;--&gt;</LttlAddClient>
+    <LtxtPhone1>Téléphone 1</LtxtPhone1>
+    <LtxtPhone2>Téléphone 2</LtxtPhone2>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtMobile>Portable</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Personne naturelle</LtxtNatPer>
+    <LttlUpdClient>&lt;--&gt;</LttlUpdClient>
+    <LtxtConfAddCrd>&lt;--&gt;</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>&lt;--&gt;</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>&lt;--&gt;</LtxtCreateNewBP>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtBPOp>&lt;--&gt;</LtxtBPOp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtBillAddress>Rechnungsanschrift</DtxtBillAddress>
+    <DtxtShipAddress>Lieferadresse</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Postleitzahl</DtxtZipCode>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtLicTradNum>Steuernummer</DtxtLicTradNum>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <DtxtVatNum>Umsatzsteuer-Identifikationsnummer</DtxtVatNum>
+    <LtxtErrAddClient>&lt;--&gt;</LtxtErrAddClient>
+    <LttlAddClient>&lt;--&gt;</LttlAddClient>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtMobile>Mobil Telefon</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LttlUpdClient>&lt;--&gt;</LttlUpdClient>
+    <LtxtConfAddCrd>&lt;--&gt;</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>&lt;--&gt;</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>&lt;--&gt;</LtxtCreateNewBP>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtBPOp>&lt;--&gt;</LtxtBPOp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtBillAddress>Адрес для оплаты</DtxtBillAddress>
+    <DtxtShipAddress>Почтовый адрес</DtxtShipAddress>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtZipCode>Индекс</DtxtZipCode>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtLicTradNum>Номер предпринимателя</DtxtLicTradNum>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <DtxtVatNum>ИНН</DtxtVatNum>
+    <LtxtErrAddClient>Неисправность в добавлении карточки</LtxtErrAddClient>
+    <LttlAddClient>Карточка добавлена</LttlAddClient>
+    <LtxtPhone1>Телефон1</LtxtPhone1>
+    <LtxtPhone2>Телефон2</LtxtPhone2>
+    <LtxtContact>Человек для связи</LtxtContact>
+    <LtxtMobile>Сотовый</LtxtMobile>
+    <LtxtFax>Факс</LtxtFax>
+    <LtxtNatPer>Частное лицо</LtxtNatPer>
+    <LttlUpdClient>Карточка обновлена</LttlUpdClient>
+    <LtxtConfAddCrd>&lt;--&gt;</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>&lt;--&gt;</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>&lt;--&gt;</LtxtCreateNewBP>
+    <LtxtView>Смотреть</LtxtView>
+    <LtxtBPOp>&lt;--&gt;</LtxtBPOp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtBillAddress>Fakturační adresa</DtxtBillAddress>
+    <DtxtShipAddress>Dodací adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>PSČ</DtxtZipCode>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtLicTradNum>Federální DIČ</DtxtLicTradNum>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <DtxtVatNum>DIČ</DtxtVatNum>
+    <LtxtErrAddClient>Chyba při vytváření obchodního partnera</LtxtErrAddClient>
+    <LttlAddClient>Obchodní partner vytvořen</LttlAddClient>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtMobile>Mobilní telefon</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Osoba </LtxtNatPer>
+    <LttlUpdClient>Obchodní partner aktualizován</LttlUpdClient>
+    <LtxtConfAddCrd>Obchodní partner “{0}” byl úspěšně přidán.</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>Obchodní partner “{0}” byl úspěšně aktualizován.</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Vytvořit nového OP</LtxtCreateNewBP>
+    <LtxtView>Zobrazit</LtxtView>
+    <LtxtBPOp>Operace OP</LtxtBPOp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Adres do faktury</DtxtBillAddress>
+    <DtxtShipAddress>Adres wysyłki</DtxtShipAddress>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtZipCode>Kod pocztowy</DtxtZipCode>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtLicTradNum>Identyfikacyjny Numer Podatkowy</DtxtLicTradNum>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <DtxtVatNum>Numer VAT</DtxtVatNum>
+    <LtxtErrAddClient>Błąd przy dodawaniu Partnera Biznesowego</LtxtErrAddClient>
+    <LttlAddClient>Dodany Partner Biznesowy</LttlAddClient>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtMobile>Komórka</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LttlUpdClient>Zaktualizowany Partner Biznesowy</LttlUpdClient>
+    <LtxtConfAddCrd>Partner biznesowy “{0}” został dodany z sukcesem</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>Partner biznesowy “{0}” został zaktualizowany z sukcesem</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Stwórz kolejnego PB</LtxtCreateNewBP>
+    <LtxtView>Zobacz</LtxtView>
+    <LtxtBPOp>Operacje PB</LtxtBPOp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtBillAddress>Fakturačná adresa</DtxtBillAddress>
+    <DtxtShipAddress>Doručovacia adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>Poštové smerovacie číslo</DtxtZipCode>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtLicTradNum>Daňové identifikačné číslo</DtxtLicTradNum>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <DtxtVatNum>DIČ</DtxtVatNum>
+    <LtxtErrAddClient>Chyba v pridaní Obchodného partnera</LtxtErrAddClient>
+    <LttlAddClient>Obchodný partner pridaný</LttlAddClient>
+    <LtxtPhone1>Telefón 1</LtxtPhone1>
+    <LtxtPhone2>Telefón 2</LtxtPhone2>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtMobile>Mobilný telefón</LtxtMobile>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LttlUpdClient>Obchodný partner aktualizovaný</LttlUpdClient>
+    <LtxtConfAddCrd>Obchodný partner “{0}” bol pridaný úspešne.</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>Obchodný partner “{0}” bol aktualizovaný úspešne.</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>Vytvoriť ďalšieho Obchodného partnera</LtxtCreateNewBP>
+    <LtxtView>Zobraziť</LtxtView>
+    <LtxtBPOp>Činnosti Obchodného partnera</LtxtBPOp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtBillAddress>DtxtBillAddress</DtxtBillAddress>
+    <DtxtShipAddress>DtxtShipAddress</DtxtShipAddress>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtZipCode>DtxtZipCode</DtxtZipCode>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtLicTradNum>DtxtLicTradNum</DtxtLicTradNum>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <DtxtVatNum>DtxtVatNum</DtxtVatNum>
+    <LtxtErrAddClient>LtxtErrAddClient</LtxtErrAddClient>
+    <LttlAddClient>LttlAddClient</LttlAddClient>
+    <LtxtPhone1>LtxtPhone1</LtxtPhone1>
+    <LtxtPhone2>LtxtPhone2</LtxtPhone2>
+    <LtxtContact>LtxtContact</LtxtContact>
+    <LtxtMobile>LtxtMobile</LtxtMobile>
+    <LtxtFax>LtxtFax</LtxtFax>
+    <LtxtNatPer>LtxtNatPer</LtxtNatPer>
+    <LttlUpdClient>LttlUpdClient</LttlUpdClient>
+    <LtxtConfAddCrd>LtxtConfAddCrd</LtxtConfAddCrd>
+    <LtxtConfUpdCrd>LtxtConfUpdCrd</LtxtConfUpdCrd>
+    <LtxtCreateNewBP>LtxtCreateNewBP</LtxtCreateNewBP>
+    <LtxtView>LtxtView</LtxtView>
+    <LtxtBPOp>LtxtBPOp</LtxtBPOp>
+  </language>
+</languages>

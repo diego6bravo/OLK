@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtState2>State</DtxtState2>
+    <LttlAddItmRes>Add items result</LttlAddItmRes>
+    <LtxtAdded>Added</LtxtAdded>
+    <LtxtInvErr>Inventory not available</LtxtInvErr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtFlow>Flujo</DtxtFlow>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlAddItmRes>Resultado de agregar artículos</LttlAddItmRes>
+    <LtxtAdded>Agregado</LtxtAdded>
+    <LtxtInvErr>Inventario no disponible</LtxtInvErr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtFlow>תזרים</DtxtFlow>
+    <DtxtState2>סטטוס</DtxtState2>
+    <LttlAddItmRes>הוסף את תוצאת הפריטים</LttlAddItmRes>
+    <LtxtAdded>נוסף</LtxtAdded>
+    <LtxtInvErr>המלאי אינו זמין</LtxtInvErr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtState2>County</DtxtState2>
+    <LttlAddItmRes>Add items result</LttlAddItmRes>
+    <LtxtAdded>Added</LtxtAdded>
+    <LtxtInvErr>Inventory not available</LtxtInvErr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Fluxo</DtxtFlow>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlAddItmRes>Resultado de itens adicionados</LttlAddItmRes>
+    <LtxtAdded>Adicionado</LtxtAdded>
+    <LtxtInvErr>Estoque não disponível</LtxtInvErr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtFlow>Flux</DtxtFlow>
+    <DtxtState2>État</DtxtState2>
+    <LttlAddItmRes>&lt;--&gt;</LttlAddItmRes>
+    <LtxtAdded>&lt;--&gt;</LtxtAdded>
+    <LtxtInvErr>&lt;--&gt;</LtxtInvErr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtFlow>Fluß</DtxtFlow>
+    <DtxtState2>Bundesland</DtxtState2>
+    <LttlAddItmRes>&lt;--&gt;</LttlAddItmRes>
+    <LtxtAdded>&lt;--&gt;</LtxtAdded>
+    <LtxtInvErr>&lt;--&gt;</LtxtInvErr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtFlow>Вливание</DtxtFlow>
+    <DtxtState2>Статус</DtxtState2>
+    <LttlAddItmRes>&lt;--&gt;</LttlAddItmRes>
+    <LtxtAdded>&lt;--&gt;</LtxtAdded>
+    <LtxtInvErr>&lt;--&gt;</LtxtInvErr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtState2>Stát</DtxtState2>
+    <LttlAddItmRes>&lt;--&gt;</LttlAddItmRes>
+    <LtxtAdded>&lt;--&gt;</LtxtAdded>
+    <LtxtInvErr>&lt;--&gt;</LtxtInvErr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtFlow>Przepływy</DtxtFlow>
+    <DtxtState2>Stan</DtxtState2>
+    <LttlAddItmRes>Dodaj wynik pozycji</LttlAddItmRes>
+    <LtxtAdded>Dodany</LtxtAdded>
+    <LtxtInvErr>Zapas nie jest dostępny</LtxtInvErr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtState2>Štát</DtxtState2>
+    <LttlAddItmRes>Pridať výsledok položiek</LttlAddItmRes>
+    <LtxtAdded>Pridané</LtxtAdded>
+    <LtxtInvErr>Inventár nie je k dispozícii</LtxtInvErr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtFlow>&lt;--&gt;</DtxtFlow>
+    <DtxtState2>&lt;--&gt;</DtxtState2>
+    <LttlAddItmRes>&lt;--&gt;</LttlAddItmRes>
+    <LtxtAdded>&lt;--&gt;</LtxtAdded>
+    <LtxtInvErr>&lt;--&gt;</LtxtInvErr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtFlow>DtxtFlow</DtxtFlow>
+    <DtxtState2>DtxtState2</DtxtState2>
+    <LttlAddItmRes>LttlAddItmRes</LttlAddItmRes>
+    <LtxtAdded>LtxtAdded</LtxtAdded>
+    <LtxtInvErr>LtxtInvErr</LtxtInvErr>
+  </language>
+</languages>

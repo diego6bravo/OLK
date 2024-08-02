@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtInternal>Internal</DtxtInternal>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtNew>New</DtxtNew>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtNew2>New</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRegular>Regular</DtxtRegular>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <LtxtAsignAgent>Assigned Agents</LtxtAsignAgent>
+    <LttlAlertDef>Definition of Alerts</LttlAlertDef>
+    <LttlAlertDefNot>Here which users will receive notifications when new objects are created is defined.</LttlAlertDefNot>
+    <LtxtAlert>Alert</LtxtAlert>
+    <LtxtNotifyTo>Notify</LtxtNotifyTo>
+    <LtxtOlkAgents>OLK Agents</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Users</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>By cancelling all changes will be lost.\nDo you wish to continue?</LtxtConfChangeAlr>
+    <LtxtSelDest>At least one destination must be selected before activating the Alert.</LtxtSelDest>
+    <LtxtLang>Language</LtxtLang>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtOffers>Offers</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Purchase</LtxtPur>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtBranches>Sucursales</DtxtBranches>
+    <DtxtInternal>Interno</DtxtInternal>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtNew2>Nueva</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <DtxtRegular>Regular</DtxtRegular>
+    <DtxtARDownPayReq>Solicitud de anticipo de clientes</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Factura de anticipo de clientes</DtxtARDownPayInv>
+    <DtxtPurOrder>Orden de Compra</DtxtPurOrder>
+    <LtxtAsignAgent>Agentes Asignados</LtxtAsignAgent>
+    <LttlAlertDef>Definición de Alertas</LttlAlertDef>
+    <LttlAlertDefNot>En esta sección podrá especificar los usuarios aptos para recibir la notificación correspondiente al momento en que se crea un objeto nuevo.</LttlAlertDefNot>
+    <LtxtAlert>Alerta</LtxtAlert>
+    <LtxtNotifyTo>Notificar a</LtxtNotifyTo>
+    <LtxtOlkAgents>Agentes OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Usuarios SAP</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Al cancelar perderá todos los cambios que ha realizado. \n¿Desea continuar?</LtxtConfChangeAlr>
+    <LtxtSelDest>Debe seleccionar por lo menos un destino antes de activar la alerta</LtxtSelDest>
+    <LtxtLang>Idioma</LtxtLang>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtOffers>Ofertas</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Compras</LtxtPur>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtBranches>סניפים</DtxtBranches>
+    <DtxtInternal>פנימי</DtxtInternal>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtNew2>חדש</DtxtNew2>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtReserved>שמור\ה</DtxtReserved>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <DtxtRegular>רגיל</DtxtRegular>
+    <DtxtARDownPayReq>בקשה למקדמה – לקוח</DtxtARDownPayReq>
+    <DtxtARDownPayInv>חשבונית מקדמה – לקוח</DtxtARDownPayInv>
+    <DtxtPurOrder>הזמנה מספקים</DtxtPurOrder>
+    <LtxtAsignAgent>סוכנים מקושרים</LtxtAsignAgent>
+    <LttlAlertDef>הגדרת התראות</LttlAlertDef>
+    <LttlAlertDefNot>בחלק זה תוכל להגדיר אילו משתמשים יקבלו התראה\הודעה למערכת סאפ\האתר סוכנים ברגע שנוצר מסמך חדש דרך האתר</LttlAlertDefNot>
+    <LtxtAlert>התראה</LtxtAlert>
+    <LtxtNotifyTo>להודיע ל</LtxtNotifyTo>
+    <LtxtOlkAgents>סוכני האתר</LtxtOlkAgents>
+    <LtxtSapUsers>משתמשים סאפ</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>פקס</LtxtFax>
+    <LtxtConfChangeAlr>ביטול יגרום לאיבוד כל השינויים שביצעת! המשך ?</LtxtConfChangeAlr>
+    <LtxtSelDest>יש לבחור לפחות יעד אחד ע"מ להפעיל את התראה</LtxtSelDest>
+    <LtxtLang>שפה</LtxtLang>
+    <LtxtNatLng>שפה מקורית</LtxtNatLng>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtOffers>הצעות</LtxtOffers>
+    <LformatAlert1>{1} חדש</LformatAlert1>
+    <LformatAlert2>{1} חדשה</LformatAlert2>
+    <LtxtPur>קניה</LtxtPur>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtInternal>Internal</DtxtInternal>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtNew>New</DtxtNew>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtNew2>New</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtReserved>Reserved</DtxtReserved>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRegular>Regular</DtxtRegular>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <LtxtAsignAgent>Assigned Agents</LtxtAsignAgent>
+    <LttlAlertDef>Definition of Alerts</LttlAlertDef>
+    <LttlAlertDefNot>Here which users will receive notifications when new objects are created is defined.</LttlAlertDefNot>
+    <LtxtAlert>Alert</LtxtAlert>
+    <LtxtNotifyTo>Notify</LtxtNotifyTo>
+    <LtxtOlkAgents>OLK Agents</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Users</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>By cancelling all changes will be lost.\nDo you wish to continue?</LtxtConfChangeAlr>
+    <LtxtSelDest>At least one destination must be selected before activating the Alert.</LtxtSelDest>
+    <LtxtLang>Language</LtxtLang>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtOffers>Offers</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Purchase</LtxtPur>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtBranches>Filiais</DtxtBranches>
+    <DtxtInternal>Interno</DtxtInternal>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtNew2>Nova</DtxtNew2>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtReserved>Reservadas</DtxtReserved>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <DtxtRegular>Regular</DtxtRegular>
+    <DtxtARDownPayReq>Solicitação de adiantamento de cliente</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Adiantamento de cliente</DtxtARDownPayInv>
+    <DtxtPurOrder>Pedido de Compra</DtxtPurOrder>
+    <LtxtAsignAgent>Vendedores Atribuídos</LtxtAsignAgent>
+    <LttlAlertDef>Definição de Alertas</LttlAlertDef>
+    <LttlAlertDefNot>Nesta seção, são definidos quais os usuários que receberão notificações quando novos objetos forem criados.</LttlAlertDefNot>
+    <LtxtAlert>Alerta</LtxtAlert>
+    <LtxtNotifyTo>Notificar</LtxtNotifyTo>
+    <LtxtOlkAgents>Vendedores OnlineKit</LtxtOlkAgents>
+    <LtxtSapUsers>Usuários SAP</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Ao cancelar, todas as alterações serão perdidas.\nVocê deseja continuar?</LtxtConfChangeAlr>
+    <LtxtSelDest>Pelo menos um destino deve ser selecionado antes de ativar o Alerta.</LtxtSelDest>
+    <LtxtLang>Idioma</LtxtLang>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtOffers>Ofertas</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Compra</LtxtPur>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtBranches>Succursales (Annexes)</DtxtBranches>
+    <DtxtInternal>Interne</DtxtInternal>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtNew2>Nouvelle</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <DtxtARDownPayReq>Demande d'acompte client</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Facture d'acompte client</DtxtARDownPayInv>
+    <DtxtPurOrder>Ordre d'achat</DtxtPurOrder>
+    <LtxtAsignAgent>Agents attribués</LtxtAsignAgent>
+    <LttlAlertDef>Définition d'alertes</LttlAlertDef>
+    <LttlAlertDefNot>Dans cette section vous pourrez spécifier les usagers compétents à recevoir la notification correspondant au moment qu'on crée un nouveau object.</LttlAlertDefNot>
+    <LtxtAlert>Alerte</LtxtAlert>
+    <LtxtNotifyTo>Notifier à</LtxtNotifyTo>
+    <LtxtOlkAgents>Agents OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Utilisateurs SAP</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</LtxtConfChangeAlr>
+    <LtxtSelDest>Devez-vous sélectionner au moins qu\'un destin avant d\'activer l\'alerte</LtxtSelDest>
+    <LtxtLang>Langue</LtxtLang>
+    <LtxtNatLng>Langue maternelle</LtxtNatLng>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtOffers>Offres</LtxtOffers>
+    <LformatAlert1>{0}  {1}</LformatAlert1>
+    <LformatAlert2>{0}  {1}</LformatAlert2>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtBranches>Zweige</DtxtBranches>
+    <DtxtInternal>Intern</DtxtInternal>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtNew2>Neu</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtReserved>Belegt</DtxtReserved>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <DtxtRegular>Normal</DtxtRegular>
+    <DtxtARDownPayReq>Verkaufsanzahlungsanforderung</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Verkaufsanzahlungsrechnung</DtxtARDownPayInv>
+    <DtxtPurOrder>Einkaufsauftrag</DtxtPurOrder>
+    <LtxtAsignAgent>Zugewiesene Agenten</LtxtAsignAgent>
+    <LttlAlertDef>Meldungs Definierung</LttlAlertDef>
+    <LttlAlertDefNot>In diesem Bereich kann der Administrator des OLKs angeben welche Benutzer eine Sofortmeldung erhalten, sobald ein neues Objekt erstellt wird. </LttlAlertDefNot>
+    <LtxtAlert>Meldung</LtxtAlert>
+    <LtxtNotifyTo>Melden</LtxtNotifyTo>
+    <LtxtOlkAgents>OLK Agenten</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Benutzer</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Wenn Sie abbrechen werden alle Änderungen gelöscht. Möchten Sie fortfahren?</LtxtConfChangeAlr>
+    <LtxtSelDest>Sie müßen mindestens ein Ziel angeben bevor Sie die Meldung aktivieren können.</LtxtSelDest>
+    <LtxtLang>Sprache</LtxtLang>
+    <LtxtNatLng>Muttersprache</LtxtNatLng>
+    <LtxtGeneral>Allgemein</LtxtGeneral>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtBanks>Kreditinstitute</LtxtBanks>
+    <LtxtOffers>Angebote</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtBranches>Филиалы</DtxtBranches>
+    <DtxtInternal>Внутренний</DtxtInternal>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtNew2>Новый</DtxtNew2>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtReserved>Сохранить</DtxtReserved>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <DtxtARDownPayReq>Продажа: счет на предоплату</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Продажа: счет на предоплату</DtxtARDownPayInv>
+    <DtxtPurOrder>Заказ от поставщиков</DtxtPurOrder>
+    <LtxtAsignAgent>Связаные агенты</LtxtAsignAgent>
+    <LttlAlertDef>Настроить оповещения</LttlAlertDef>
+    <LttlAlertDefNot>В этом разделе вы можете указать, какие пользователи получат предупреждения / оповещения Sapp \ Карта агентов После создания нового документа через сайт</LttlAlertDefNot>
+    <LtxtAlert>Оповещение</LtxtAlert>
+    <LtxtNotifyTo>уведомление</LtxtNotifyTo>
+    <LtxtOlkAgents>Сайт агентов</LtxtOlkAgents>
+    <LtxtSapUsers>Пользователи SAP</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Факс</LtxtFax>
+    <LtxtConfChangeAlr>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</LtxtConfChangeAlr>
+    <LtxtSelDest>Необходимо выбрать по меньшей мере одну цель, чтобы активировать оповещение</LtxtSelDest>
+    <LtxtLang>Язык</LtxtLang>
+    <LtxtNatLng>Язык оригинала</LtxtNatLng>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtBanks>Банки</LtxtBanks>
+    <LtxtOffers> Предложения</LtxtOffers>
+    <LformatAlert1>{1} Новый</LformatAlert1>
+    <LformatAlert2>{1} Новый</LformatAlert2>
+    <LtxtPur>Покупка</LtxtPur>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtInternal>Interní</DtxtInternal>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtNew2>Nový</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtReserved>Vyhrazeno</DtxtReserved>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <DtxtARDownPayReq>Prodej - požadavek na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Prodej - daňový doklad k záloze</DtxtARDownPayInv>
+    <DtxtPurOrder>Nákupní objednávka</DtxtPurOrder>
+    <LtxtAsignAgent>Přiřazení agenti</LtxtAsignAgent>
+    <LttlAlertDef>Definice varování</LttlAlertDef>
+    <LttlAlertDefNot>V této sekci administrátor OLK definuje uživatele, kteří budou moci dostávat upozornění při vytvoření nového objektu.</LttlAlertDefNot>
+    <LtxtAlert>Varování</LtxtAlert>
+    <LtxtNotifyTo>Upozornit</LtxtNotifyTo>
+    <LtxtOlkAgents>OLK agenti</LtxtOlkAgents>
+    <LtxtSapUsers>SAP uživatelé</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Zrušením budou všechny změny ztraceny.\nUrčitě chcete pokračovat?</LtxtConfChangeAlr>
+    <LtxtSelDest>Před aktivováním varování musí být zvolena aspoň jedna destinace.</LtxtSelDest>
+    <LtxtLang>Jazyk</LtxtLang>
+    <LtxtNatLng>Mateřský jazyk</LtxtNatLng>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtOffers>Nabídky</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Nákup</LtxtPur>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtBranches>Oddziały</DtxtBranches>
+    <DtxtInternal>Wewnętrzny</DtxtInternal>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtNew2>Nowy/a</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtReserved>Zarezerwowany/a</DtxtReserved>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <DtxtRegular>Zwykły</DtxtRegular>
+    <DtxtARDownPayReq>Żądanie zaliczki z tyt. sprzedaży</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Faktura za zaliczkę z tyt. sprzedaży</DtxtARDownPayInv>
+    <DtxtPurOrder>Zamówienie zakupu</DtxtPurOrder>
+    <LtxtAsignAgent>Przypisani sprzedawcy</LtxtAsignAgent>
+    <LttlAlertDef>Definicja alertów</LttlAlertDef>
+    <LttlAlertDefNot>Tutaj definiuje się, którzy użytkownicy będą dostawać powiadomienie gdy zostanie stworzony nowy przedmiot</LttlAlertDefNot>
+    <LtxtAlert>Alert</LtxtAlert>
+    <LtxtNotifyTo>Powiadom</LtxtNotifyTo>
+    <LtxtOlkAgents>Sprzedawcy OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Użytkownicy SAP</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Anulacja spowoduje utratę zmian. Czy chcesz kontynuować?</LtxtConfChangeAlr>
+    <LtxtSelDest>Należy wybrać przynajmniej jedno miejsce przeznaczenia przed aktywacją Alertu.</LtxtSelDest>
+    <LtxtLang>Język</LtxtLang>
+    <LtxtNatLng>Język ojczysty</LtxtNatLng>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtBanks>Banki</LtxtBanks>
+    <LtxtOffers>Oferty</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Zakup</LtxtPur>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtInternal>Vnútorný</DtxtInternal>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtNew2>Nový</DtxtNew2>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtReserved>Rezervované</DtxtReserved>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRegular>Pravidelný</DtxtRegular>
+    <DtxtARDownPayReq>Predaj - požiadavka na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Predaj - zálohová faktúra</DtxtARDownPayInv>
+    <DtxtPurOrder>Objednávka</DtxtPurOrder>
+    <LtxtAsignAgent>Pridelení agenti</LtxtAsignAgent>
+    <LttlAlertDef>Definovanie upozornení</LttlAlertDef>
+    <LttlAlertDefNot>Tu sa definuje, ktorí užívatelia budú dostávať oznámenia o vytvorení nových objektov.</LttlAlertDefNot>
+    <LtxtAlert>Upozornenie</LtxtAlert>
+    <LtxtNotifyTo>Oznám</LtxtNotifyTo>
+    <LtxtOlkAgents>OLK agenti</LtxtOlkAgents>
+    <LtxtSapUsers>SAP užívatelia</LtxtSapUsers>
+    <LtxtSMS>SMS</LtxtSMS>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtConfChangeAlr>Zrušením budú všetky zmeny stratené. \nPrajete si pokračovať?</LtxtConfChangeAlr>
+    <LtxtSelDest>Aspoň jedno cieľové miesto musí byť vybrané pred aktivovaním Upozornení.</LtxtSelDest>
+    <LtxtLang>Jazyk</LtxtLang>
+    <LtxtNatLng>Rodný jazyk</LtxtNatLng>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtOffers>Ponuky</LtxtOffers>
+    <LformatAlert1>{0} {1}</LformatAlert1>
+    <LformatAlert2>{0} {1}</LformatAlert2>
+    <LtxtPur>Nákup</LtxtPur>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtBranches>&lt;--&gt;</DtxtBranches>
+    <DtxtInternal>&lt;--&gt;</DtxtInternal>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtNew2>&lt;--&gt;</DtxtNew2>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtReserved>&lt;--&gt;</DtxtReserved>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtRegular>&lt;--&gt;</DtxtRegular>
+    <DtxtARDownPayReq>&lt;--&gt;</DtxtARDownPayReq>
+    <DtxtARDownPayInv>&lt;--&gt;</DtxtARDownPayInv>
+    <DtxtPurOrder>&lt;--&gt;</DtxtPurOrder>
+    <LtxtAsignAgent>&lt;--&gt;</LtxtAsignAgent>
+    <LttlAlertDef>&lt;--&gt;</LttlAlertDef>
+    <LttlAlertDefNot>&lt;--&gt;</LttlAlertDefNot>
+    <LtxtAlert>&lt;--&gt;</LtxtAlert>
+    <LtxtNotifyTo>&lt;--&gt;</LtxtNotifyTo>
+    <LtxtOlkAgents>&lt;--&gt;</LtxtOlkAgents>
+    <LtxtSapUsers>&lt;--&gt;</LtxtSapUsers>
+    <LtxtSMS>&lt;--&gt;</LtxtSMS>
+    <LtxtFax>&lt;--&gt;</LtxtFax>
+    <LtxtConfChangeAlr>&lt;--&gt;</LtxtConfChangeAlr>
+    <LtxtSelDest>&lt;--&gt;</LtxtSelDest>
+    <LtxtLang>&lt;--&gt;</LtxtLang>
+    <LtxtNatLng>&lt;--&gt;</LtxtNatLng>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtOffers>&lt;--&gt;</LtxtOffers>
+    <LformatAlert1>&lt;--&gt;</LformatAlert1>
+    <LformatAlert2>&lt;--&gt;</LformatAlert2>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtBranches>DtxtBranches</DtxtBranches>
+    <DtxtInternal>DtxtInternal</DtxtInternal>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtNew2>DtxtNew2</DtxtNew2>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtReserved>DtxtReserved</DtxtReserved>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <DtxtRegular>DtxtRegular</DtxtRegular>
+    <DtxtARDownPayReq>DtxtARDownPayReq</DtxtARDownPayReq>
+    <DtxtARDownPayInv>DtxtARDownPayInv</DtxtARDownPayInv>
+    <DtxtPurOrder>DtxtPurOrder</DtxtPurOrder>
+    <LtxtAsignAgent>LtxtAsignAgent</LtxtAsignAgent>
+    <LttlAlertDef>LttlAlertDef</LttlAlertDef>
+    <LttlAlertDefNot>LttlAlertDefNot</LttlAlertDefNot>
+    <LtxtAlert>LtxtAlert</LtxtAlert>
+    <LtxtNotifyTo>LtxtNotifyTo</LtxtNotifyTo>
+    <LtxtOlkAgents>LtxtOlkAgents</LtxtOlkAgents>
+    <LtxtSapUsers>LtxtSapUsers</LtxtSapUsers>
+    <LtxtSMS>LtxtSMS</LtxtSMS>
+    <LtxtFax>LtxtFax</LtxtFax>
+    <LtxtConfChangeAlr>LtxtConfChangeAlr</LtxtConfChangeAlr>
+    <LtxtSelDest>LtxtSelDest</LtxtSelDest>
+    <LtxtLang>LtxtLang</LtxtLang>
+    <LtxtNatLng>LtxtNatLng</LtxtNatLng>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtOffers>LtxtOffers</LtxtOffers>
+    <LformatAlert1>LformatAlert1</LformatAlert1>
+    <LformatAlert2>LformatAlert2</LformatAlert2>
+    <LtxtPur>LtxtPur</LtxtPur>
+  </language>
+</languages>

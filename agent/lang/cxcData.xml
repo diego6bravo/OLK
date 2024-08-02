@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtExpToExcell>Export to Excell</DtxtExpToExcell>
+    <LtxtMy>My</LtxtMy>
+    <LtxtDateRange>Date Range f/t</LtxtDateRange>
+    <LtxtLocalCur>Local Currency</LtxtLocalCur>
+    <LtxtCardCurrency>BP Currency</LtxtCardCurrency>
+    <LbtnPendDocs>Open Documents</LbtnPendDocs>
+    <LtxtPerInitBal>Initial balance of period</LtxtPerInitBal>
+    <LtxtPerEndBal>Final balance of period</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Debit</LtxtDebit>
+    <LttlPendInv>Open {0}</LttlPendInv>
+    <LtxtDocNum>Doc N°</LtxtDocNum>
+    <LtxtCondition>Condition</LtxtCondition>
+    <LtxtDays>Days</LtxtDays>
+    <LtxtCredit>Credit</LtxtCredit>
+    <LtxtIncTrans>Future transactions</LtxtIncTrans>
+    <LtxtFuture>Future</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Balance to date</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>PI</LtxtTransTypePI>
+    <LtxtTransTypeDN>DN</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtDueDate>Fecha de vencimiento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImport2>Importe</DtxtImport2>
+    <DtxtExpToExcell>Exportar a Excell</DtxtExpToExcell>
+    <LtxtMy>Mi</LtxtMy>
+    <LtxtDateRange>Corte de Fecha d/h</LtxtDateRange>
+    <LtxtLocalCur>Moneda Local</LtxtLocalCur>
+    <LtxtCardCurrency>Moneda SN</LtxtCardCurrency>
+    <LbtnPendDocs>Docs. Pendientes</LbtnPendDocs>
+    <LtxtPerInitBal>Saldo inicial de período</LtxtPerInitBal>
+    <LtxtPerEndBal>Saldo final de período</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Débito</LtxtDebit>
+    <LttlPendInv>{0} Pendientes</LttlPendInv>
+    <LtxtDocNum>N° Doc.</LtxtDocNum>
+    <LtxtCondition>Condición</LtxtCondition>
+    <LtxtDays>Días</LtxtDays>
+    <LtxtCredit>Crédito</LtxtCredit>
+    <LtxtIncTrans>Transacciones por venir</LtxtIncTrans>
+    <LtxtFuture>Futuro</LtxtFuture>
+    <LtxtTransTypeOB>SA</LtxtTransTypeOB>
+    <LtxtTransTypeIN>FA</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>NC</LtxtTransTypeCN>
+    <LtxtTransTypeJE>MD</LtxtTransTypeJE>
+    <LtxtBalToDate>Saldo hasta la fecha</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PP</LtxtTransTypePS>
+    <LtxtTransTypePI>CC</LtxtTransTypePI>
+    <LtxtTransTypeDN>ND</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtType>סוג</DtxtType>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtDueDate>תאריך ערך</DtxtDueDate>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtImport2>סכום</DtxtImport2>
+    <DtxtExpToExcell>ייצא לאקסל</DtxtExpToExcell>
+    <LtxtMy>שלי</LtxtMy>
+    <LtxtDateRange>חתך תאריכים מ- עד</LtxtDateRange>
+    <LtxtLocalCur>מטבע מקומי</LtxtLocalCur>
+    <LtxtCardCurrency>מטבע כרטיס</LtxtCardCurrency>
+    <LbtnPendDocs>מסמכים פתוחים</LbtnPendDocs>
+    <LtxtPerInitBal>יתרה בתחילת תקופה</LtxtPerInitBal>
+    <LtxtPerEndBal>יתרה בסוף תקופה</LtxtPerEndBal>
+    <LtxtRef>אסמכתא</LtxtRef>
+    <LtxtMemo>הערות</LtxtMemo>
+    <LtxtDebit>חובה</LtxtDebit>
+    <LttlPendInv>{0} פתוחות</LttlPendInv>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtCondition>תנאים</LtxtCondition>
+    <LtxtDays>ימים</LtxtDays>
+    <LtxtCredit>זכות</LtxtCredit>
+    <LtxtIncTrans>תועות עתידיות</LtxtIncTrans>
+    <LtxtFuture>פרעון עתידי</LtxtFuture>
+    <LtxtTransTypeOB>יפ</LtxtTransTypeOB>
+    <LtxtTransTypeIN>חש</LtxtTransTypeIN>
+    <LtxtTransTypeRC>קב</LtxtTransTypeRC>
+    <LtxtTransTypeCN>חז</LtxtTransTypeCN>
+    <LtxtTransTypeJE>תי</LtxtTransTypeJE>
+    <LtxtBalToDate>מצב חשבון להיום</LtxtBalToDate>
+    <LtxtTransTypeCP>שי</LtxtTransTypeCP>
+    <LtxtTransTypePS>תס</LtxtTransTypePS>
+    <LtxtTransTypePI>חר</LtxtTransTypePI>
+    <LtxtTransTypeDN>זר</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtExpToExcell>Export to Excell</DtxtExpToExcell>
+    <LtxtMy>My</LtxtMy>
+    <LtxtDateRange>Date Range f/t</LtxtDateRange>
+    <LtxtLocalCur>Local Currency</LtxtLocalCur>
+    <LtxtCardCurrency>BP Currency</LtxtCardCurrency>
+    <LbtnPendDocs>Open Documents</LbtnPendDocs>
+    <LtxtPerInitBal>Initial balance of period</LtxtPerInitBal>
+    <LtxtPerEndBal>Final balance of period</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Debit</LtxtDebit>
+    <LttlPendInv>Open {0}</LttlPendInv>
+    <LtxtDocNum>Doc N°</LtxtDocNum>
+    <LtxtCondition>Condition</LtxtCondition>
+    <LtxtDays>Days</LtxtDays>
+    <LtxtCredit>Credit</LtxtCredit>
+    <LtxtIncTrans>Future transactions</LtxtIncTrans>
+    <LtxtFuture>Future</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Balance to date</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>PI</LtxtTransTypePI>
+    <LtxtTransTypeDN>DN</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtDueDate>Data de Vencimento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImport2>Importação</DtxtImport2>
+    <DtxtExpToExcell>Exportar para o Excel</DtxtExpToExcell>
+    <LtxtMy>Meu</LtxtMy>
+    <LtxtDateRange>Corte da Data d/h</LtxtDateRange>
+    <LtxtLocalCur>Moeda Local</LtxtLocalCur>
+    <LtxtCardCurrency>Moeda Ficha</LtxtCardCurrency>
+    <LbtnPendDocs>Docs. Pendentes</LbtnPendDocs>
+    <LtxtPerInitBal>Saldo inicial do periodo</LtxtPerInitBal>
+    <LtxtPerEndBal>Saldo final do periodo</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Débito</LtxtDebit>
+    <LttlPendInv>{0} Pendentes</LttlPendInv>
+    <LtxtDocNum>Nº Doc.</LtxtDocNum>
+    <LtxtCondition>Condição</LtxtCondition>
+    <LtxtDays>Dias</LtxtDays>
+    <LtxtCredit>Crédito</LtxtCredit>
+    <LtxtIncTrans>Transações por chegar</LtxtIncTrans>
+    <LtxtFuture>Futuro</LtxtFuture>
+    <LtxtTransTypeOB>SA</LtxtTransTypeOB>
+    <LtxtTransTypeIN>FC</LtxtTransTypeIN>
+    <LtxtTransTypeRC>PR</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CC</LtxtTransTypeCN>
+    <LtxtTransTypeJE>LD</LtxtTransTypeJE>
+    <LtxtBalToDate>SAldo até a data</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PF</LtxtTransTypePS>
+    <LtxtTransTypePI>CC</LtxtTransTypePI>
+    <LtxtTransTypeDN>ND</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtDueDate>Date d'échéance (Valable jusqu'au)</DtxtDueDate>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtImport2>Montant, Valeur</DtxtImport2>
+    <DtxtExpToExcell>Export vers l'Excell</DtxtExpToExcell>
+    <LtxtMy>Mon</LtxtMy>
+    <LtxtDateRange>Coupe de date d/h</LtxtDateRange>
+    <LtxtLocalCur>Monnaie locale</LtxtLocalCur>
+    <LtxtCardCurrency>&lt;--&gt;</LtxtCardCurrency>
+    <LbtnPendDocs>Documentation pendants</LbtnPendDocs>
+    <LtxtPerInitBal>Solde initiel de la période</LtxtPerInitBal>
+    <LtxtPerEndBal>Solde finale de la période</LtxtPerEndBal>
+    <LtxtRef>Réf.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Débit</LtxtDebit>
+    <LttlPendInv>{0} Pendants</LttlPendInv>
+    <LtxtDocNum>Numéro de documentation</LtxtDocNum>
+    <LtxtCondition>Condition</LtxtCondition>
+    <LtxtDays>Jours</LtxtDays>
+    <LtxtCredit>Crédit</LtxtCredit>
+    <LtxtIncTrans>Transactions à venir</LtxtIncTrans>
+    <LtxtFuture>Future</LtxtFuture>
+    <LtxtTransTypeOB>SA</LtxtTransTypeOB>
+    <LtxtTransTypeIN>FA</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>NC</LtxtTransTypeCN>
+    <LtxtTransTypeJE>MD</LtxtTransTypeJE>
+    <LtxtBalToDate>Solde jusqu'à la date</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PP</LtxtTransTypePS>
+    <LtxtTransTypePI>&lt;--&gt;</LtxtTransTypePI>
+    <LtxtTransTypeDN>&lt;--&gt;</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtType>Art</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtDueDate>Fälligkeitsdatum</DtxtDueDate>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtImport2>Importieren</DtxtImport2>
+    <DtxtExpToExcell>Zu Excell Exportieren</DtxtExpToExcell>
+    <LtxtMy>Mein</LtxtMy>
+    <LtxtDateRange>Datumsgrenze f/t</LtxtDateRange>
+    <LtxtLocalCur>Lokale Währung</LtxtLocalCur>
+    <LtxtCardCurrency>&lt;--&gt;</LtxtCardCurrency>
+    <LbtnPendDocs>Dokumente Öffnen</LbtnPendDocs>
+    <LtxtPerInitBal>Anfangsbestand einer Abrechnungsperiode</LtxtPerInitBal>
+    <LtxtPerEndBal>Enbestand der Abrechnungsperiode</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Vermerk</LtxtMemo>
+    <LtxtDebit>Belastung</LtxtDebit>
+    <LttlPendInv>{0} Öffnen</LttlPendInv>
+    <LtxtDocNum>Dok N°</LtxtDocNum>
+    <LtxtCondition>Kondition</LtxtCondition>
+    <LtxtDays>Tage</LtxtDays>
+    <LtxtCredit>Kredit</LtxtCredit>
+    <LtxtIncTrans>Zukünftige Transaktionen</LtxtIncTrans>
+    <LtxtFuture>Zukunft</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Aktueller Kontostand</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>&lt;--&gt;</LtxtTransTypePI>
+    <LtxtTransTypeDN>&lt;--&gt;</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtType>Вид</DtxtType>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtDueDate>Дата  поставки</DtxtDueDate>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtImport2>Импорт</DtxtImport2>
+    <DtxtExpToExcell>Экспорт для Эксел</DtxtExpToExcell>
+    <LtxtMy>Мое</LtxtMy>
+    <LtxtDateRange>Секции даты от - до</LtxtDateRange>
+    <LtxtLocalCur>Местная валюта</LtxtLocalCur>
+    <LtxtCardCurrency>Валюта карточки</LtxtCardCurrency>
+    <LbtnPendDocs>Открытые документы</LbtnPendDocs>
+    <LtxtPerInitBal>Остаток в начале периода</LtxtPerInitBal>
+    <LtxtPerEndBal>Остаток на конец периода</LtxtPerEndBal>
+    <LtxtRef>Ссылка</LtxtRef>
+    <LtxtMemo>Инструкция</LtxtMemo>
+    <LtxtDebit>Долг</LtxtDebit>
+    <LttlPendInv>{0} открытые</LttlPendInv>
+    <LtxtDocNum>Номер документа</LtxtDocNum>
+    <LtxtCondition>Условия</LtxtCondition>
+    <LtxtDays>Дни</LtxtDays>
+    <LtxtCredit>Кредит</LtxtCredit>
+    <LtxtIncTrans>Будущие документы</LtxtIncTrans>
+    <LtxtFuture>Будущие погашения</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>Чувствовал</LtxtTransTypeIN>
+    <LtxtTransTypeRC>Линия</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Состоянея счета на сегодня</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>PI</LtxtTransTypePI>
+    <LtxtTransTypeDN>Посторонний</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtDueDate>Datum splatnosti</DtxtDueDate>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtImport2>Importovat</DtxtImport2>
+    <DtxtExpToExcell>Export do Excelu</DtxtExpToExcell>
+    <LtxtMy>Můj</LtxtMy>
+    <LtxtDateRange>Rozmezí dat f/t</LtxtDateRange>
+    <LtxtLocalCur>Domácí měna</LtxtLocalCur>
+    <LtxtCardCurrency>Měna OP</LtxtCardCurrency>
+    <LbtnPendDocs>Otevřené dokumenty</LbtnPendDocs>
+    <LtxtPerInitBal>Počáteční zůstatek za období</LtxtPerInitBal>
+    <LtxtPerEndBal>Celkový zůstatek za období</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Memo</LtxtMemo>
+    <LtxtDebit>Debit</LtxtDebit>
+    <LttlPendInv>Otevřít {0}</LttlPendInv>
+    <LtxtDocNum>Č. dok.</LtxtDocNum>
+    <LtxtCondition>Podmínka</LtxtCondition>
+    <LtxtDays>Dny</LtxtDays>
+    <LtxtCredit>Kredit</LtxtCredit>
+    <LtxtIncTrans>Budoucí transakce</LtxtIncTrans>
+    <LtxtFuture>Budoucí</LtxtFuture>
+    <LtxtTransTypeOB>&lt;--&gt;</LtxtTransTypeOB>
+    <LtxtTransTypeIN>&lt;--&gt;</LtxtTransTypeIN>
+    <LtxtTransTypeRC>&lt;--&gt;</LtxtTransTypeRC>
+    <LtxtTransTypeCN>&lt;--&gt;</LtxtTransTypeCN>
+    <LtxtTransTypeJE>&lt;--&gt;</LtxtTransTypeJE>
+    <LtxtBalToDate>Zůstatek k datu</LtxtBalToDate>
+    <LtxtTransTypeCP>&lt;--&gt;</LtxtTransTypeCP>
+    <LtxtTransTypePS>&lt;--&gt;</LtxtTransTypePS>
+    <LtxtTransTypePI>&lt;--&gt;</LtxtTransTypePI>
+    <LtxtTransTypeDN />
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtDueDate>Termin Płatności</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtExpToExcell>Eksport do Excela</DtxtExpToExcell>
+    <LtxtMy>Moje</LtxtMy>
+    <LtxtDateRange>Zakres dat od/do</LtxtDateRange>
+    <LtxtLocalCur>Waluta lokalna</LtxtLocalCur>
+    <LtxtCardCurrency>Waluta PB</LtxtCardCurrency>
+    <LbtnPendDocs>Otwórz dokumenty</LbtnPendDocs>
+    <LtxtPerInitBal>Wstępne saldo okresu</LtxtPerInitBal>
+    <LtxtPerEndBal>Końcowe saldo okresu</LtxtPerEndBal>
+    <LtxtRef>Adnotacja</LtxtRef>
+    <LtxtMemo>Notatka</LtxtMemo>
+    <LtxtDebit>Debet</LtxtDebit>
+    <LttlPendInv>Otwarte {0}</LttlPendInv>
+    <LtxtDocNum>Dokument nr</LtxtDocNum>
+    <LtxtCondition>Warunki</LtxtCondition>
+    <LtxtDays>Dni</LtxtDays>
+    <LtxtCredit>Uznanie</LtxtCredit>
+    <LtxtIncTrans>Przyszłe transakcje</LtxtIncTrans>
+    <LtxtFuture>Przyszłe</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Saldo do dnia</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>PI</LtxtTransTypePI>
+    <LtxtTransTypeDN>DN</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtDueDate>Dátum splatnosti</DtxtDueDate>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtImport2>Importovať</DtxtImport2>
+    <DtxtExpToExcell>Exportovať do Excelu</DtxtExpToExcell>
+    <LtxtMy>Moje</LtxtMy>
+    <LtxtDateRange>Rozsah dátumov</LtxtDateRange>
+    <LtxtLocalCur>Miestna mena</LtxtLocalCur>
+    <LtxtCardCurrency>Mena Obchodného partnera</LtxtCardCurrency>
+    <LbtnPendDocs>Otvorené dokumenty</LbtnPendDocs>
+    <LtxtPerInitBal>Počiatočný zostatok obdobia</LtxtPerInitBal>
+    <LtxtPerEndBal>Konečný zostatok obdobia</LtxtPerEndBal>
+    <LtxtRef>Ref.</LtxtRef>
+    <LtxtMemo>Záznam</LtxtMemo>
+    <LtxtDebit>Debit</LtxtDebit>
+    <LttlPendInv>Otvorené {0}</LttlPendInv>
+    <LtxtDocNum>Dokument Č.</LtxtDocNum>
+    <LtxtCondition>Podmienka</LtxtCondition>
+    <LtxtDays>Dni</LtxtDays>
+    <LtxtCredit>Kredit</LtxtCredit>
+    <LtxtIncTrans>Budúce transakcie</LtxtIncTrans>
+    <LtxtFuture>Budúci</LtxtFuture>
+    <LtxtTransTypeOB>OB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>RC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>CN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>JE</LtxtTransTypeJE>
+    <LtxtBalToDate>Zostatok k dnešnému dňu</LtxtBalToDate>
+    <LtxtTransTypeCP>CP</LtxtTransTypeCP>
+    <LtxtTransTypePS>PS</LtxtTransTypePS>
+    <LtxtTransTypePI>PI</LtxtTransTypePI>
+    <LtxtTransTypeDN>DN</LtxtTransTypeDN>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtDueDate>DtxtDueDate</DtxtDueDate>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtImport2>DtxtImport2</DtxtImport2>
+    <DtxtExpToExcell>DtxtExpToExcell</DtxtExpToExcell>
+    <LtxtMy>LtxtMy</LtxtMy>
+    <LtxtDateRange>LtxtDateRange</LtxtDateRange>
+    <LtxtLocalCur>LtxtLocalCur</LtxtLocalCur>
+    <LtxtCardCurrency>LtxtCardCurrency</LtxtCardCurrency>
+    <LbtnPendDocs>LbtnPendDocs</LbtnPendDocs>
+    <LtxtPerInitBal>LtxtPerInitBal</LtxtPerInitBal>
+    <LtxtPerEndBal>LtxtPerEndBal</LtxtPerEndBal>
+    <LtxtRef>LtxtRef</LtxtRef>
+    <LtxtMemo>LtxtMemo</LtxtMemo>
+    <LtxtDebit>LtxtDebit</LtxtDebit>
+    <LttlPendInv>LttlPendInv</LttlPendInv>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtCondition>LtxtCondition</LtxtCondition>
+    <LtxtDays>LtxtDays</LtxtDays>
+    <LtxtCredit>LtxtCredit</LtxtCredit>
+    <LtxtIncTrans>LtxtIncTrans</LtxtIncTrans>
+    <LtxtFuture>LtxtFuture</LtxtFuture>
+    <LtxtTransTypeOB>LtxtTransTypeOB</LtxtTransTypeOB>
+    <LtxtTransTypeIN>LtxtTransTypeIN</LtxtTransTypeIN>
+    <LtxtTransTypeRC>LtxtTransTypeRC</LtxtTransTypeRC>
+    <LtxtTransTypeCN>LtxtTransTypeCN</LtxtTransTypeCN>
+    <LtxtTransTypeJE>LtxtTransTypeJE</LtxtTransTypeJE>
+    <LtxtBalToDate>LtxtBalToDate</LtxtBalToDate>
+    <LtxtTransTypeCP>LtxtTransTypeCP</LtxtTransTypeCP>
+    <LtxtTransTypePS>LtxtTransTypePS</LtxtTransTypePS>
+    <LtxtTransTypePI>LtxtTransTypePI</LtxtTransTypePI>
+    <LtxtTransTypeDN>LtxtTransTypeDN</LtxtTransTypeDN>
+  </language>
+</languages>

@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtLicTradNum>Federal Tax ID</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtLicTradNum>Número de identificación fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtAutomatic>Automatico</DtxtAutomatic>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LtxtNatPer>Persona Natural</LtxtNatPer>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtLicTradNum>מספר עוסק מורשה</DtxtLicTradNum>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtAutomatic>אוטומטי</DtxtAutomatic>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LtxtNatPer>אדם פרטי</LtxtNatPer>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtLicTradNum>VAT Code</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtCmp>Empresa</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtLicTradNum>Nº de identificação fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Fornecedor</DtxtSupplier>
+    <DtxtAutomatic>Automático</DtxtAutomatic>
+    <LttlNewClient>Novo Parceiro de Negócios</LttlNewClient>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LtxtNatPer>Pessoa Física</LtxtNatPer>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtLicTradNum>Numéro d'identification fiscal</DtxtLicTradNum>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNatPer>Personne naturelle</LtxtNatPer>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtLicTradNum>Steuernummer</DtxtLicTradNum>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtAutomatic>Automatisch</DtxtAutomatic>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtLicTradNum>Номер предпринимателя</DtxtLicTradNum>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNatPer>&lt;--&gt;</LtxtNatPer>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtLicTradNum>Federální DIČ</DtxtLicTradNum>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+    <LttlEditClient>Upravit obchodního partnera</LttlEditClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtLicTradNum>Identyfikacyjny Numer Podatkowy</DtxtLicTradNum>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtAutomatic>Automatyczny</DtxtAutomatic>
+    <LttlNewClient>Nowy Partner Biznesowy</LttlNewClient>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtLicTradNum>Daňové identifikačné číslo</DtxtLicTradNum>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtAutomatic>Automatické</DtxtAutomatic>
+    <LttlNewClient>Nový Obchodný partner</LttlNewClient>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtCmp>&lt;--&gt;</DtxtCmp>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtLead>&lt;--&gt;</DtxtLead>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtAddData>&lt;--&gt;</DtxtAddData>
+    <DtxtUpdate>&lt;--&gt;</DtxtUpdate>
+    <DtxtLicTradNum>&lt;--&gt;</DtxtLicTradNum>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtNatPer>&lt;--&gt;</LtxtNatPer>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtLicTradNum>DtxtLicTradNum</DtxtLicTradNum>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtAutomatic>DtxtAutomatic</DtxtAutomatic>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LtxtNatPer>LtxtNatPer</LtxtNatPer>
+  </language>
+</languages>

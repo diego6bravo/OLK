@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <LttlNewClient>Novo Parceiro de Negócios</LttlNewClient>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LtxtValFld>Faltam dados para o campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+    <LttlEditClient>Upravit obchodního partnera</LttlEditClient>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <LttlNewClient>Nowy Partner Biznesowy</LttlNewClient>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LtxtValFld>Proszę wprowadzić pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <LttlNewClient>Nový Obchodný partner</LttlNewClient>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+  </language>
+</languages>

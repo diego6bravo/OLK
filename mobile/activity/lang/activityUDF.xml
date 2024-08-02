@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtActivity>Activity</DtxtActivity>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtChange>Cambiar</DtxtChange>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtChange>שנה</DtxtChange>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtActivity>Activity</DtxtActivity>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtChange>Modificar</DtxtChange>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <LtxtValFld>Faltam dados para o campo "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtChange>Changer</DtxtChange>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtActivity>Activité</DtxtActivity>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtChange>Ändern</DtxtChange>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtChange>Год</DtxtChange>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtActivity>Активный</DtxtActivity>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtChange>Změnit</DtxtChange>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtChange>Zmiana</DtxtChange>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtActivity>Działania</DtxtActivity>
+    <LtxtValFld>Proszę wprowadź pole "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtChange>Zmeniť</DtxtChange>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtChange>&lt;--&gt;</DtxtChange>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtChange>DtxtChange</DtxtChange>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+  </language>
+</languages>

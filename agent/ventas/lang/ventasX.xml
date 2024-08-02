@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendDocs>Open Documents</LttlPendDocs>
+    <LtxtCondDelDoc>Are you sure you want to delete the selected document(s)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Document you wish to edit is in confirmation state, if you continue, document will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtDisObj>Object "{0}" is disabled</LtxtDisObj>
+    <LtxtConf>Confirmation</LtxtConf>
+    <LtxtPend>Open</LtxtPend>
+    <LtxtValSelDoc>You must select at least one document </LtxtValSelDoc>
+    <LtxtDocuments>Document(s)</LtxtDocuments>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <LttlPendDocs>Documentos Pendientes</LttlPendDocs>
+    <LtxtCondDelDoc>¿Está seguro que desea eliminar el(los) documento(s)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>El documento que desea editar está en estado de confirmación, si continúa el documento volverá al estado de pendiente. \n¿Desea continuar?</LtxtConfReOpen>
+    <LtxtDisObj>El objeto "{0}" está deshabilitado</LtxtDisObj>
+    <LtxtConf>Confirmación</LtxtConf>
+    <LtxtPend>Pendiente</LtxtPend>
+    <LtxtValSelDoc>Debe seleccionar al menos un documento</LtxtValSelDoc>
+    <LtxtDocuments>Documento(s)</LtxtDocuments>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtDelete>מחק</DtxtDelete>
+    <LttlPendDocs>מסמכים פתוחים</LttlPendDocs>
+    <LtxtCondDelDoc>האם למחוק מסמך(ים)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>המסמך שאתה רוצה לערוך נמצא במצב "המתנה לאישור" במידה ותמשיך המסמך יחזור למצב פתוח.\nהאם להמשיך?</LtxtConfReOpen>
+    <LtxtDisObj>האובייקט "{0}" לא פעיל</LtxtDisObj>
+    <LtxtConf>אישור</LtxtConf>
+    <LtxtPend>פתוח</LtxtPend>
+    <LtxtValSelDoc>יש לבחור לפחות מסמך אחד</LtxtValSelDoc>
+    <LtxtDocuments>מסמך(ים)</LtxtDocuments>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendDocs>Open Documents</LttlPendDocs>
+    <LtxtCondDelDoc>Are you sure you want to delete the selected document(s)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Document you wish to edit is in confirmation state, if you continue, document will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtDisObj>Object "{0}" is disabled</LtxtDisObj>
+    <LtxtConf>Confirmation</LtxtConf>
+    <LtxtPend>Open</LtxtPend>
+    <LtxtValSelDoc>You must select at least one document </LtxtValSelDoc>
+    <LtxtDocuments>Document(s)</LtxtDocuments>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <LttlPendDocs>Documentos Pendentes</LttlPendDocs>
+    <LtxtCondDelDoc>Tem certeza que deseja excluir o(s) documento(s) ?</LtxtCondDelDoc>
+    <LtxtConfReOpen>O documento que deseja editar está no estado de confirmação, se continua o documento retornará ao estado de pendente. Deseja continuar?</LtxtConfReOpen>
+    <LtxtDisObj>O objeto "{0}" está desabilitado</LtxtDisObj>
+    <LtxtConf>Confirmação</LtxtConf>
+    <LtxtPend>Pendente</LtxtPend>
+    <LtxtValSelDoc>Você deve selecionar pelo menos um documento</LtxtValSelDoc>
+    <LtxtDocuments>Documento(s)</LtxtDocuments>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <LttlPendDocs>Documentations pendants</LttlPendDocs>
+    <LtxtCondDelDoc>&lt;--&gt;</LtxtCondDelDoc>
+    <LtxtConfReOpen>Le document que vous voulez éditer est-il en état de confirmation, si vous continuez le document retournera-t-il à l\'état pendant. Veuillez-vous continuer?</LtxtConfReOpen>
+    <LtxtDisObj>L\'objet "{0}" est épuisé</LtxtDisObj>
+    <LtxtConf>Confirmation</LtxtConf>
+    <LtxtPend>Pendant</LtxtPend>
+    <LtxtValSelDoc>&lt;--&gt;</LtxtValSelDoc>
+    <LtxtDocuments>&lt;--&gt;</LtxtDocuments>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <LttlPendDocs>Dokumente Öffnen</LttlPendDocs>
+    <LtxtCondDelDoc>&lt;--&gt;</LtxtCondDelDoc>
+    <LtxtConfReOpen>Das Dokument das Sie bearbeiten möchten wird momentan bestätigt, wenn Sie fortfahren, geht das Dokument zurück zum offenen Status. Möchten Sie fortfahren?</LtxtConfReOpen>
+    <LtxtDisObj>Objekt "{0}" ist deaktiviert</LtxtDisObj>
+    <LtxtConf>Bestätigung</LtxtConf>
+    <LtxtPend>Öffnen</LtxtPend>
+    <LtxtValSelDoc>&lt;--&gt;</LtxtValSelDoc>
+    <LtxtDocuments>&lt;--&gt;</LtxtDocuments>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <LttlPendDocs>Открытые документы</LttlPendDocs>
+    <LtxtCondDelDoc>Удалить объект(ы)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Документ, который вы хотите отредактировать, находится в "в ожидании утверждения", если вы продолжите, документ вернется в состояние открытые.\nПродолжить?</LtxtConfReOpen>
+    <LtxtDisObj>Объекты"{0}" не работают</LtxtDisObj>
+    <LtxtConf>Потверждение</LtxtConf>
+    <LtxtPend>Открыто</LtxtPend>
+    <LtxtValSelDoc>Нужно выбрать, открыть один документ</LtxtValSelDoc>
+    <LtxtDocuments>Документ(ы)</LtxtDocuments>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <LttlPendDocs>Otevřené dokumenty</LttlPendDocs>
+    <LtxtCondDelDoc>Jste si jistý/á, že chcete vymazat vybraný dokument / vybrané dokumenty?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Dokument, kteřý chcete upravovat, je ve stavu potvrzení. Pokud budete pokračovat, přejde zpět do stavu otevřeno.\nPřejete si pokračovat?</LtxtConfReOpen>
+    <LtxtDisObj>Objekt "{0}" je zablokovaný</LtxtDisObj>
+    <LtxtConf>Potvrzení</LtxtConf>
+    <LtxtPend>Otevřít</LtxtPend>
+    <LtxtValSelDoc>Musíte vybrat aspoň jeden dokument</LtxtValSelDoc>
+    <LtxtDocuments>Dokument(y)</LtxtDocuments>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <LttlPendDocs>Dokumenty otwarte</LttlPendDocs>
+    <LtxtCondDelDoc>Czy jesteś pewien, że chcesz skasować wybrany/e dokument/y?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Dokument, który chcesz edytować jest w fazie potwierdzania, jeśli będziesz kontynuować dokument powróci do statusu otwartego. Czy chcesz kontynuować?</LtxtConfReOpen>
+    <LtxtDisObj>Przedmiot {0} nie działa</LtxtDisObj>
+    <LtxtConf>Potwierdzenie</LtxtConf>
+    <LtxtPend>Otwórz</LtxtPend>
+    <LtxtValSelDoc>Musisz wybrać przynajmniej jeden dokument</LtxtValSelDoc>
+    <LtxtDocuments>Dokument(y)</LtxtDocuments>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <LttlPendDocs>Otvorené dokumenty</LttlPendDocs>
+    <LtxtCondDelDoc>Ste si istí, že chcete vymazať vybraný(é) dokument(y)?</LtxtCondDelDoc>
+    <LtxtConfReOpen>Dokument, ktorý si prajete editovať je v stave potvrdenia, ak budete pokračovať, dokument sa vráti do otvoreného stavu.\nPrajete si pokračovať?</LtxtConfReOpen>
+    <LtxtDisObj>Objekt "{0}" je zablokovaný</LtxtDisObj>
+    <LtxtConf>Potvrdenie</LtxtConf>
+    <LtxtPend>Otvorené</LtxtPend>
+    <LtxtValSelDoc>Musíte vybrať aspoň jeden dokument</LtxtValSelDoc>
+    <LtxtDocuments>Dokument(y)</LtxtDocuments>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <LttlPendDocs>LttlPendDocs</LttlPendDocs>
+    <LtxtCondDelDoc>LtxtCondDelDoc</LtxtCondDelDoc>
+    <LtxtConfReOpen>LtxtConfReOpen</LtxtConfReOpen>
+    <LtxtDisObj>LtxtDisObj</LtxtDisObj>
+    <LtxtConf>LtxtConf</LtxtConf>
+    <LtxtPend>LtxtPend</LtxtPend>
+    <LtxtValSelDoc>LtxtValSelDoc</LtxtValSelDoc>
+    <LtxtDocuments>LtxtDocuments</LtxtDocuments>
+  </language>
+</languages>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <LtxtAdvClientSearch>Advanced Clients Search</LtxtAdvClientSearch>
+    <LtxtAllGrps>All the groups</LtxtAllGrps>
+    <LtxtAllCnt>All the countries</LtxtAllCnt>
+    <LtxtSimple>Simple</LtxtSimple>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <LtxtAdvClientSearch>Búsqueda Avanzada de Clientes</LtxtAdvClientSearch>
+    <LtxtAllGrps>Todos los grupos</LtxtAllGrps>
+    <LtxtAllCnt>Todos los países</LtxtAllCnt>
+    <LtxtSimple>Simple</LtxtSimple>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <LtxtAdvClientSearch>חיפוש כרטיסים מתקדם</LtxtAdvClientSearch>
+    <LtxtAllGrps>כל הקבוצות</LtxtAllGrps>
+    <LtxtAllCnt>כל המדינות</LtxtAllCnt>
+    <LtxtSimple>פשוט</LtxtSimple>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <LtxtAdvClientSearch>Advanced Clients Search</LtxtAdvClientSearch>
+    <LtxtAllGrps>All the groups</LtxtAllGrps>
+    <LtxtAllCnt>All the countries</LtxtAllCnt>
+    <LtxtSimple>Simple</LtxtSimple>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Busca</DtxtSearch>
+    <LtxtAdvClientSearch>Pesquisa Avançada de Clientes</LtxtAdvClientSearch>
+    <LtxtAllGrps>Todos os grupos</LtxtAllGrps>
+    <LtxtAllCnt>Todos os países</LtxtAllCnt>
+    <LtxtSimple>Simples</LtxtSimple>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <LtxtAdvClientSearch>&lt;--&gt;</LtxtAdvClientSearch>
+    <LtxtAllGrps>&lt;--&gt;</LtxtAllGrps>
+    <LtxtAllCnt>&lt;--&gt;</LtxtAllCnt>
+    <LtxtSimple>&lt;--&gt;</LtxtSimple>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <LtxtAdvClientSearch>&lt;--&gt;</LtxtAdvClientSearch>
+    <LtxtAllGrps>&lt;--&gt;</LtxtAllGrps>
+    <LtxtAllCnt>&lt;--&gt;</LtxtAllCnt>
+    <LtxtSimple>&lt;--&gt;</LtxtSimple>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <LtxtAdvClientSearch>&lt;--&gt;</LtxtAdvClientSearch>
+    <LtxtAllGrps>&lt;--&gt;</LtxtAllGrps>
+    <LtxtAllCnt>&lt;--&gt;</LtxtAllCnt>
+    <LtxtSimple>&lt;--&gt;</LtxtSimple>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <LtxtAdvClientSearch>Rozšířené vyhledávání klientů</LtxtAdvClientSearch>
+    <LtxtAllGrps>Všechny skupiny</LtxtAllGrps>
+    <LtxtAllCnt>Všechny země</LtxtAllCnt>
+    <LtxtSimple>Jednoduché</LtxtSimple>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <LtxtAdvClientSearch>Zaawansowane poszukiwania klientów</LtxtAdvClientSearch>
+    <LtxtAllGrps>Wszystkie grupy</LtxtAllGrps>
+    <LtxtAllCnt>Wszystkie kraje</LtxtAllCnt>
+    <LtxtSimple>Prosty</LtxtSimple>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <LtxtAdvClientSearch>Rozšírené vyhľadávanie klientov</LtxtAdvClientSearch>
+    <LtxtAllGrps>Všetky skupiny</LtxtAllGrps>
+    <LtxtAllCnt>Všetky krajiny</LtxtAllCnt>
+    <LtxtSimple>Jednoduchý</LtxtSimple>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <LtxtAdvClientSearch>&lt;--&gt;</LtxtAdvClientSearch>
+    <LtxtAllGrps>&lt;--&gt;</LtxtAllGrps>
+    <LtxtAllCnt>&lt;--&gt;</LtxtAllCnt>
+    <LtxtSimple>&lt;--&gt;</LtxtSimple>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <LtxtAdvClientSearch>LtxtAdvClientSearch</LtxtAdvClientSearch>
+    <LtxtAllGrps>LtxtAllGrps</LtxtAllGrps>
+    <LtxtAllCnt>LtxtAllCnt</LtxtAllCnt>
+    <LtxtSimple>LtxtSimple</LtxtSimple>
+  </language>
+</languages>

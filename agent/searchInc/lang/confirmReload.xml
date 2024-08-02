@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <LtxtRefresh>Refresh every</LtxtRefresh>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <LtxtRefresh>Refrescar cada</LtxtRefresh>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtHour>שעה</DtxtHour>
+    <DtxtMinute>דקה</DtxtMinute>
+    <DtxtMinutes>דקות</DtxtMinutes>
+    <LtxtRefresh>רענן כל</LtxtRefresh>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <LtxtRefresh>Refresh every</LtxtRefresh>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <LtxtRefresh>Refrescar cada</LtxtRefresh>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtHour>Heure</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <LtxtRefresh>Rafraîchir chaque</LtxtRefresh>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtHour>Stunde</DtxtHour>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minuten</DtxtMinutes>
+    <LtxtRefresh>Aktualisieren alle</LtxtRefresh>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtHour>Время</DtxtHour>
+    <DtxtMinute>Минута</DtxtMinute>
+    <DtxtMinutes>Минуты</DtxtMinutes>
+    <LtxtRefresh>Обновить все</LtxtRefresh>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtHour>Hodin</DtxtHour>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <LtxtRefresh>Obnovit každých</LtxtRefresh>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtHour>Godzina</DtxtHour>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <LtxtRefresh>Odśwież każdy</LtxtRefresh>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtHour>Hodina</DtxtHour>
+    <DtxtMinute>Minúta</DtxtMinute>
+    <DtxtMinutes>Minúty</DtxtMinutes>
+    <LtxtRefresh>Obnoviť každý</LtxtRefresh>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtHour>DtxtHour</DtxtHour>
+    <DtxtMinute>DtxtMinute</DtxtMinute>
+    <DtxtMinutes>DtxtMinutes</DtxtMinutes>
+    <LtxtRefresh>LtxtRefresh</LtxtRefresh>
+  </language>
+</languages>

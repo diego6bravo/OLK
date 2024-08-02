@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtPrint>Print</DtxtPrint>
+    <LtxtShopCartConf>Shopping Cart Confirmation</LtxtShopCartConf>
+    <LtxtDocAddOK>Document added successfully&lt;br&gt;
+{0} #{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Document #{0} added successfully&lt;br&gt;
+Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddDoc>Error in adding document</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <LtxtShopCartConf>Confirmación de Canasta de Compras</LtxtShopCartConf>
+    <LtxtDocAddOK>Documento agregado con éxito&lt;br&gt;
+{0} nº{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Documento #{0} agregado con éxito&lt;br&gt;
+Esperando confirmación</LtxtWaitForConf>
+    <LtxtErrAddDoc>Error al agregar documento</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <LtxtShopCartConf>אישור סל קניות</LtxtShopCartConf>
+    <LtxtDocAddOK>מסמך הוסף בהצלחה&lt;BR&gt;
+{0} {1}#</LtxtDocAddOK>
+    <LtxtWaitForConf>מסמך #{0} הוסף בהצלחה&lt;BR&gt;
+ממתין לאישור</LtxtWaitForConf>
+    <LtxtErrAddDoc>תקלה בהוספת המסמך</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtPrint>Print</DtxtPrint>
+    <LtxtShopCartConf>Shopping Cart Confirmation</LtxtShopCartConf>
+    <LtxtDocAddOK>Document added successfully&lt;br&gt;
+{0} #{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Document #{0} added successfully&lt;br&gt;
+Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddDoc>Error in adding document</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <LtxtShopCartConf>Confirmação do Carrinho de Compras</LtxtShopCartConf>
+    <LtxtDocAddOK>Documento adicionado com sucesso &lt;br&gt;
+{0} nº {1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Documento Nº {0} adicionado com sucesso &lt;br&gt; 
+Aguardando confirmação</LtxtWaitForConf>
+    <LtxtErrAddDoc>Erro ao adicionar documento</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <LtxtShopCartConf>&lt;--&gt;</LtxtShopCartConf>
+    <LtxtDocAddOK>&lt;--&gt;</LtxtDocAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddDoc>Erreur au moment d'ajouter le document</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <LtxtShopCartConf>&lt;--&gt;</LtxtShopCartConf>
+    <LtxtDocAddOK>&lt;--&gt;</LtxtDocAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddDoc>Beim hinzufügen des Dokuments ist ein Fehler aufgetreten</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <LtxtShopCartConf>&lt;--&gt;</LtxtShopCartConf>
+    <LtxtDocAddOK>&lt;--&gt;</LtxtDocAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddDoc>&lt;--&gt;</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <LtxtShopCartConf>Potvrzení nákupního košíku</LtxtShopCartConf>
+    <LtxtDocAddOK>Dokument úspěšně vytvořen&lt;br&gt;
+{0} #{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Dokument #{0} úspěšně vytvořen&lt;br&gt;
+Čeká se na potvrzení</LtxtWaitForConf>
+    <LtxtErrAddDoc>Chyba při vytváření produktu</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <LtxtShopCartConf>Potwierdzenie koszyka</LtxtShopCartConf>
+    <LtxtDocAddOK>Dokument został dodany z sukcesem &lt;br&gt;  {0} #{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Dokument {0} #{1} dodany z sukcesem &lt;br&gt;  Oczekuje na potwierdzenie</LtxtWaitForConf>
+    <LtxtErrAddDoc>Błąd przy dodawaniu dokumentu</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <LtxtShopCartConf>Potvrdenie Nákupného košíka</LtxtShopCartConf>
+    <LtxtDocAddOK>Dokument pridaný úspešne&lt;br&gt;
+{0} #{1}</LtxtDocAddOK>
+    <LtxtWaitForConf>Dokument #{0} pridaný úspešne&lt;br&gt;
+Čaká na potvrdenie</LtxtWaitForConf>
+    <LtxtErrAddDoc>Chyba v pridaní dokumentu</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>&lt;--&gt;</DtxtRestore>
+    <DtxtRetry>&lt;--&gt;</DtxtRetry>
+    <DtxtPrint>&lt;--&gt;</DtxtPrint>
+    <LtxtShopCartConf>&lt;--&gt;</LtxtShopCartConf>
+    <LtxtDocAddOK>&lt;--&gt;</LtxtDocAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddDoc>&lt;--&gt;</LtxtErrAddDoc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <LtxtShopCartConf>LtxtShopCartConf</LtxtShopCartConf>
+    <LtxtDocAddOK>LtxtDocAddOK</LtxtDocAddOK>
+    <LtxtWaitForConf>LtxtWaitForConf</LtxtWaitForConf>
+    <LtxtErrAddDoc>LtxtErrAddDoc</LtxtErrAddDoc>
+  </language>
+</languages>

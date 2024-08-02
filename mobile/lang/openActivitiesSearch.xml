@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtMonthJanuary>January</DtxtMonthJanuary>
+    <DtxtMonthFebruary>February</DtxtMonthFebruary>
+    <DtxtMonthMarch>March</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>May</DtxtMonthMay>
+    <DtxtMonthJune>June</DtxtMonthJune>
+    <DtxtMonthJuly>July</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>October</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Fri</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Mon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sat</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Sun</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Thu</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Tue</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Wed</DtxtSmallDayWednesday>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtToday>Today</DtxtToday>
+    <LtxtOpenActivitiesSea>Open Activities Search</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtMonthJanuary>Enero</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Febrero</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marzo</DtxtMonthMarch>
+    <DtxtMonthApril>Abril</DtxtMonthApril>
+    <DtxtMonthMay>Mayo</DtxtMonthMay>
+    <DtxtMonthJune>Junio</DtxtMonthJune>
+    <DtxtMonthJuly>Julio</DtxtMonthJuly>
+    <DtxtMonthAugust>Agosto</DtxtMonthAugust>
+    <DtxtMonthSeptember>Septiembre</DtxtMonthSeptember>
+    <DtxtMonthOctober>Octubre</DtxtMonthOctober>
+    <DtxtMonthNovember>Noviembre</DtxtMonthNovember>
+    <DtxtMonthDecember>Diciembre</DtxtMonthDecember>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Vie</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Lun</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sáb</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Dom</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Jue</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Mar</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Mié</DtxtSmallDayWednesday>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtSource>Origen</DtxtSource>
+    <DtxtToday>Hoy</DtxtToday>
+    <LtxtOpenActivitiesSea>Búsqueda de Actividades Pendientes</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Fecha de Contacto</LtxtCntDate>
+    <LtxtSelVal>Seleccione Valor</LtxtSelVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtMonthJanuary>ינואר</DtxtMonthJanuary>
+    <DtxtMonthFebruary>פבואר</DtxtMonthFebruary>
+    <DtxtMonthMarch>מרץ</DtxtMonthMarch>
+    <DtxtMonthApril>אפריל</DtxtMonthApril>
+    <DtxtMonthMay>מאי</DtxtMonthMay>
+    <DtxtMonthJune>יוני</DtxtMonthJune>
+    <DtxtMonthJuly>יולי</DtxtMonthJuly>
+    <DtxtMonthAugust>אוגוסט</DtxtMonthAugust>
+    <DtxtMonthSeptember>ספטמבר</DtxtMonthSeptember>
+    <DtxtMonthOctober>אוקטובר</DtxtMonthOctober>
+    <DtxtMonthNovember>נובמבר</DtxtMonthNovember>
+    <DtxtMonthDecember>דצמבר</DtxtMonthDecember>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtSmallDayFriday>ו</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>ב</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>ש</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>א</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>ה</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>ג</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>ד</DtxtSmallDayWednesday>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtSource>מקור</DtxtSource>
+    <DtxtToday>היום</DtxtToday>
+    <LtxtOpenActivitiesSea>חיפוש פעילויות פתוחות</LtxtOpenActivitiesSea>
+    <LtxtCntDate>תקף עד</LtxtCntDate>
+    <LtxtSelVal>בחר ערך</LtxtSelVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtMonthJanuary>January</DtxtMonthJanuary>
+    <DtxtMonthFebruary>February</DtxtMonthFebruary>
+    <DtxtMonthMarch>March</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>May</DtxtMonthMay>
+    <DtxtMonthJune>June</DtxtMonthJune>
+    <DtxtMonthJuly>July</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>October</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Fri</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Mon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sat</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Sun</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Thu</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Tue</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Wed</DtxtSmallDayWednesday>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtToday>Today</DtxtToday>
+    <LtxtOpenActivitiesSea>Open Activities Search</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtMonthJanuary>Janeiro</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Fevereiro</DtxtMonthFebruary>
+    <DtxtMonthMarch>Março</DtxtMonthMarch>
+    <DtxtMonthApril>Abril</DtxtMonthApril>
+    <DtxtMonthMay>Maio</DtxtMonthMay>
+    <DtxtMonthJune>Junho</DtxtMonthJune>
+    <DtxtMonthJuly>Julho</DtxtMonthJuly>
+    <DtxtMonthAugust>Agosto</DtxtMonthAugust>
+    <DtxtMonthSeptember>Setembro</DtxtMonthSeptember>
+    <DtxtMonthOctober>Outubro</DtxtMonthOctober>
+    <DtxtMonthNovember>Novembro</DtxtMonthNovember>
+    <DtxtMonthDecember>Dezembro</DtxtMonthDecember>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtSmallDayFriday>Sex</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Seg</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sáb</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Dom</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Qui</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Ter</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Qua</DtxtSmallDayWednesday>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtSource>Origem</DtxtSource>
+    <DtxtToday>Hoje</DtxtToday>
+    <LtxtOpenActivitiesSea>Busca de Atividades Pendentes</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Data de Contato</LtxtCntDate>
+    <LtxtSelVal>Selecione um valor</LtxtSelVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtMonthJanuary>Janvier</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Février</DtxtMonthFebruary>
+    <DtxtMonthMarch>Mars</DtxtMonthMarch>
+    <DtxtMonthApril>Avril</DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Juin</DtxtMonthJune>
+    <DtxtMonthJuly>Juillet</DtxtMonthJuly>
+    <DtxtMonthAugust>Août</DtxtMonthAugust>
+    <DtxtMonthSeptember>Septembre</DtxtMonthSeptember>
+    <DtxtMonthOctober>Octobre</DtxtMonthOctober>
+    <DtxtMonthNovember>Novembre</DtxtMonthNovember>
+    <DtxtMonthDecember>Décembre</DtxtMonthDecember>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>&lt;--&gt;</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>&lt;--&gt;</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>&lt;--&gt;</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>&lt;--&gt;</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>&lt;--&gt;</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>&lt;--&gt;</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>&lt;--&gt;</DtxtSmallDayWednesday>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LtxtOpenActivitiesSea>&lt;--&gt;</LtxtOpenActivitiesSea>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtMonthJanuary>Januar</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Februar</DtxtMonthFebruary>
+    <DtxtMonthMarch>März</DtxtMonthMarch>
+    <DtxtMonthApril>April</DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Juni</DtxtMonthJune>
+    <DtxtMonthJuly>Juli</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>Oktober</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>Dezember</DtxtMonthDecember>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>FR.</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>MO.</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>SA.</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>SO.</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>DO.</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>DI.</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>MI.</DtxtSmallDayWednesday>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtSource>Quelle</DtxtSource>
+    <DtxtToday>Heute</DtxtToday>
+    <LtxtOpenActivitiesSea>&lt;--&gt;</LtxtOpenActivitiesSea>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtMonthJanuary>Январь</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Февраль</DtxtMonthFebruary>
+    <DtxtMonthMarch>Март</DtxtMonthMarch>
+    <DtxtMonthApril>Апрель</DtxtMonthApril>
+    <DtxtMonthMay>Май</DtxtMonthMay>
+    <DtxtMonthJune>Июнь</DtxtMonthJune>
+    <DtxtMonthJuly>Июль</DtxtMonthJuly>
+    <DtxtMonthAugust>Август</DtxtMonthAugust>
+    <DtxtMonthSeptember>Сентябрь</DtxtMonthSeptember>
+    <DtxtMonthOctober>Октябрь</DtxtMonthOctober>
+    <DtxtMonthNovember>Ноябрь</DtxtMonthNovember>
+    <DtxtMonthDecember>Декабрь</DtxtMonthDecember>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtSmallDayFriday>Пятница</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Понедельник</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Суббота</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Воскресенье</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Четверг</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Вторник</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Среда</DtxtSmallDayWednesday>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtSource>Источник</DtxtSource>
+    <DtxtToday>Сегодня</DtxtToday>
+    <LtxtOpenActivitiesSea>&lt;--&gt;</LtxtOpenActivitiesSea>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtMonthJanuary>Leden</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Únor</DtxtMonthFebruary>
+    <DtxtMonthMarch>Březen</DtxtMonthMarch>
+    <DtxtMonthApril>Duben</DtxtMonthApril>
+    <DtxtMonthMay>Květen</DtxtMonthMay>
+    <DtxtMonthJune>Červen</DtxtMonthJune>
+    <DtxtMonthJuly>Červenec</DtxtMonthJuly>
+    <DtxtMonthAugust>Srpen</DtxtMonthAugust>
+    <DtxtMonthSeptember>Září</DtxtMonthSeptember>
+    <DtxtMonthOctober>Říjen</DtxtMonthOctober>
+    <DtxtMonthNovember>Listopad</DtxtMonthNovember>
+    <DtxtMonthDecember>Prosinec</DtxtMonthDecember>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Pá</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Po</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>So</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Ne</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Čt</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Út</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>St</DtxtSmallDayWednesday>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtToday>Dnes</DtxtToday>
+    <LtxtOpenActivitiesSea>Vyhledávání otevřených aktivit</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Kontaktní datum</LtxtCntDate>
+    <LtxtSelVal>Vyberte hodnotu</LtxtSelVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtMonthJanuary>Styczeń </DtxtMonthJanuary>
+    <DtxtMonthFebruary>Luty</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marzec</DtxtMonthMarch>
+    <DtxtMonthApril>Kwiecień </DtxtMonthApril>
+    <DtxtMonthMay>Mai</DtxtMonthMay>
+    <DtxtMonthJune>Czerwiec</DtxtMonthJune>
+    <DtxtMonthJuly>Lipiec</DtxtMonthJuly>
+    <DtxtMonthAugust>Sierpień </DtxtMonthAugust>
+    <DtxtMonthSeptember>Wrzesień </DtxtMonthSeptember>
+    <DtxtMonthOctober>Październik</DtxtMonthOctober>
+    <DtxtMonthNovember>Listopad</DtxtMonthNovember>
+    <DtxtMonthDecember>Grudzień</DtxtMonthDecember>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Pt</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Pn</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>Sob</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Nie</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Czw</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Wt</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>Śr</DtxtSmallDayWednesday>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtSource>Źródło</DtxtSource>
+    <DtxtToday>Dziś </DtxtToday>
+    <LtxtOpenActivitiesSea>Otwórz poszukiwanie działań</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Data kontaktu</LtxtCntDate>
+    <LtxtSelVal>Wybierz wartość</LtxtSelVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtMonthJanuary>Január</DtxtMonthJanuary>
+    <DtxtMonthFebruary>Február</DtxtMonthFebruary>
+    <DtxtMonthMarch>Marec</DtxtMonthMarch>
+    <DtxtMonthApril>Apríl</DtxtMonthApril>
+    <DtxtMonthMay>Máj</DtxtMonthMay>
+    <DtxtMonthJune>Jún</DtxtMonthJune>
+    <DtxtMonthJuly>Júl</DtxtMonthJuly>
+    <DtxtMonthAugust>August</DtxtMonthAugust>
+    <DtxtMonthSeptember>September</DtxtMonthSeptember>
+    <DtxtMonthOctober>Október</DtxtMonthOctober>
+    <DtxtMonthNovember>November</DtxtMonthNovember>
+    <DtxtMonthDecember>December</DtxtMonthDecember>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSmallDayFriday>Pia</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>Pon</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>So</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>Ne</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>Št</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>Ut</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>St</DtxtSmallDayWednesday>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtToday>Dnes</DtxtToday>
+    <LtxtOpenActivitiesSea>Vyhľadávanie otvorených aktivít</LtxtOpenActivitiesSea>
+    <LtxtCntDate>Dátum kontaktu</LtxtCntDate>
+    <LtxtSelVal>Vybrať hodnotu</LtxtSelVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <DtxtAsc>&lt;--&gt;</DtxtAsc>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <DtxtMonthJanuary>&lt;--&gt;</DtxtMonthJanuary>
+    <DtxtMonthFebruary>&lt;--&gt;</DtxtMonthFebruary>
+    <DtxtMonthMarch>&lt;--&gt;</DtxtMonthMarch>
+    <DtxtMonthApril>&lt;--&gt;</DtxtMonthApril>
+    <DtxtMonthMay>&lt;--&gt;</DtxtMonthMay>
+    <DtxtMonthJune>&lt;--&gt;</DtxtMonthJune>
+    <DtxtMonthJuly>&lt;--&gt;</DtxtMonthJuly>
+    <DtxtMonthAugust>&lt;--&gt;</DtxtMonthAugust>
+    <DtxtMonthSeptember>&lt;--&gt;</DtxtMonthSeptember>
+    <DtxtMonthOctober>&lt;--&gt;</DtxtMonthOctober>
+    <DtxtMonthNovember>&lt;--&gt;</DtxtMonthNovember>
+    <DtxtMonthDecember>&lt;--&gt;</DtxtMonthDecember>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>&lt;--&gt;</DtxtSAP>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtSmallDayFriday>&lt;--&gt;</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>&lt;--&gt;</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>&lt;--&gt;</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>&lt;--&gt;</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>&lt;--&gt;</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>&lt;--&gt;</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>&lt;--&gt;</DtxtSmallDayWednesday>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtOther>&lt;--&gt;</DtxtOther>
+    <DtxtTask>&lt;--&gt;</DtxtTask>
+    <DtxtConv>&lt;--&gt;</DtxtConv>
+    <DtxtMeeting>&lt;--&gt;</DtxtMeeting>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <LtxtOpenActivitiesSea>&lt;--&gt;</LtxtOpenActivitiesSea>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtMonthJanuary>DtxtMonthJanuary</DtxtMonthJanuary>
+    <DtxtMonthFebruary>DtxtMonthFebruary</DtxtMonthFebruary>
+    <DtxtMonthMarch>DtxtMonthMarch</DtxtMonthMarch>
+    <DtxtMonthApril>DtxtMonthApril</DtxtMonthApril>
+    <DtxtMonthMay>DtxtMonthMay</DtxtMonthMay>
+    <DtxtMonthJune>DtxtMonthJune</DtxtMonthJune>
+    <DtxtMonthJuly>DtxtMonthJuly</DtxtMonthJuly>
+    <DtxtMonthAugust>DtxtMonthAugust</DtxtMonthAugust>
+    <DtxtMonthSeptember>DtxtMonthSeptember</DtxtMonthSeptember>
+    <DtxtMonthOctober>DtxtMonthOctober</DtxtMonthOctober>
+    <DtxtMonthNovember>DtxtMonthNovember</DtxtMonthNovember>
+    <DtxtMonthDecember>DtxtMonthDecember</DtxtMonthDecember>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtSmallDayFriday>DtxtSmallDayFriday</DtxtSmallDayFriday>
+    <DtxtSmallDayMonday>DtxtSmallDayMonday</DtxtSmallDayMonday>
+    <DtxtSmallDaySaturday>DtxtSmallDaySaturday</DtxtSmallDaySaturday>
+    <DtxtSmallDaySunday>DtxtSmallDaySunday</DtxtSmallDaySunday>
+    <DtxtSmallDayThursday>DtxtSmallDayThursday</DtxtSmallDayThursday>
+    <DtxtSmallDayTuesday>DtxtSmallDayTuesday</DtxtSmallDayTuesday>
+    <DtxtSmallDayWednesday>DtxtSmallDayWednesday</DtxtSmallDayWednesday>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtSource>DtxtSource</DtxtSource>
+    <DtxtToday>DtxtToday</DtxtToday>
+    <LtxtOpenActivitiesSea>LtxtOpenActivitiesSea</LtxtOpenActivitiesSea>
+    <LtxtCntDate>LtxtCntDate</LtxtCntDate>
+    <LtxtSelVal>LtxtSelVal</LtxtSelVal>
+  </language>
+</languages>

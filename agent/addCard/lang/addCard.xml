@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Postal/Zip Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Federal Tax ID</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtCodeExists>The code you entered has already been used</DtxtCodeExists>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <DtxtVatNum>VAT Number</DtxtVatNum>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtCelular>Mobile Phone</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtCopyToShipAdd>Copy to shipping address</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Copy to billing address</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Are you sure you want to delete this Business Partner?</LtxtConfCancel>
+    <LtxtValCod>Please enter the Business Partner code</LtxtValCod>
+    <LtxtSelGrp>Please select a group</LtxtSelGrp>
+    <LtxtValRFC>Please enter the "RFC" field</LtxtValRFC>
+    <LtxtValRFCLen>The field "RFC" must be at least {0} characters.</LtxtValRFCLen>
+    <LtxtConfFld>Please enter the field "{0}"</LtxtConfFld>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtConfNoSave>Are you sure you don\'t want to save the changes?</LtxtConfNoSave>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Dirección de Envío</DtxtShipAddress>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtZipCode>Código Postal</DtxtZipCode>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtLicTradNum>Número de identificación fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <DtxtCodeExists>El código que introdujo ya fue utilizado</DtxtCodeExists>
+    <DtxtAutomatic>Automatico</DtxtAutomatic>
+    <DtxtVatNum>Número de IVA</DtxtVatNum>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+    <LtxtNatPer>Persona Natural</LtxtNatPer>
+    <LtxtPhone1>Teléfono 1</LtxtPhone1>
+    <LtxtPhone2>Teléfono 2</LtxtPhone2>
+    <LtxtCelular>Celular</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contacto</LtxtContact>
+    <LtxtCopyToShipAdd>Copiar a dirección de envíos</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Copiar a dirección de pago</LtxtCopyToBillAdd>
+    <LtxtConfCancel>¿Está seguro que desea cancelar este Socio de Negocios?</LtxtConfCancel>
+    <LtxtValCod>Debe introducir el código del Socio de Negocios</LtxtValCod>
+    <LtxtSelGrp>Debe escoger un grupo</LtxtSelGrp>
+    <LtxtValRFC>Debe introducir el campo "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>El campo "RFC" debe ser de {0} caracteres.</LtxtValRFCLen>
+    <LtxtConfFld>Debe introducir el campo "{0}"</LtxtConfFld>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LtxtConfNoSave>¿Está seguro que no desea guardar los cambios?</LtxtConfNoSave>
+    <LtxtPymntCod>Condición de pago</LtxtPymntCod>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtBillAddress>כתובת לתשלום</DtxtBillAddress>
+    <DtxtShipAddress>כתובת למשלוח</DtxtShipAddress>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtZipCode>מיקוד</DtxtZipCode>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtLicTradNum>מספר עוסק מורשה</DtxtLicTradNum>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <DtxtCodeExists>הקוד שהקשת כבר קיים במערכת.</DtxtCodeExists>
+    <DtxtAutomatic>אוטומטי</DtxtAutomatic>
+    <DtxtVatNum>מספר מע"מ</DtxtVatNum>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+    <LtxtNatPer>אדם פרטי</LtxtNatPer>
+    <LtxtPhone1>טלפון 1</LtxtPhone1>
+    <LtxtPhone2>טלפון 2</LtxtPhone2>
+    <LtxtCelular>נייד</LtxtCelular>
+    <LtxtFax>פקס</LtxtFax>
+    <LtxtContact>איש קשר</LtxtContact>
+    <LtxtCopyToShipAdd>העתק כתובת משלוח</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>העתק כתוכת תשלום</LtxtCopyToBillAdd>
+    <LtxtConfCancel>האם למחוק כרטיס?</LtxtConfCancel>
+    <LtxtValCod>יש למלא קוד כרטיס</LtxtValCod>
+    <LtxtSelGrp>יש לבחור קבוצה</LtxtSelGrp>
+    <LtxtValRFC>יש למלא את שדה מס\' עוסק מורשה</LtxtValRFC>
+    <LtxtValRFCLen>השדה מס\' עוסק מורשה צריך להיות {0} תווים.</LtxtValRFCLen>
+    <LtxtConfFld>יש למלא את שדה {0}?</LtxtConfFld>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LtxtConfNoSave>השינויים שביצעת יבוטלו. האם להמשיך?</LtxtConfNoSave>
+    <LtxtPymntCod>תנאי תשלום</LtxtPymntCod>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtZipCode>Post Code</DtxtZipCode>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>VAT Code</DtxtLicTradNum>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtCodeExists>The code you entered has already been used</DtxtCodeExists>
+    <DtxtAutomatic>Automatic</DtxtAutomatic>
+    <DtxtVatNum>VAT Number</DtxtVatNum>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtPhone1>Phone 1</LtxtPhone1>
+    <LtxtPhone2>Phone 2</LtxtPhone2>
+    <LtxtCelular>Mobile Phone</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtCopyToShipAdd>Copy to shipping address</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Copy to billing address</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Are you sure you want to delete this Business Partner?</LtxtConfCancel>
+    <LtxtValCod>Please enter the Business Partner code</LtxtValCod>
+    <LtxtSelGrp>Please select a group</LtxtSelGrp>
+    <LtxtValRFC>Please enter the "RFC" field</LtxtValRFC>
+    <LtxtValRFCLen>The field "RFC" must be at least {0} characters.</LtxtValRFCLen>
+    <LtxtConfFld>Please enter the field "{0}"</LtxtConfFld>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtConfNoSave>Are you sure you don\'t want to save the changes?</LtxtConfNoSave>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtCmp>Companhia</DtxtCmp>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Endereço de Envio</DtxtShipAddress>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtZipCode>CEP</DtxtZipCode>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtLicTradNum>Nº de identificação fiscal</DtxtLicTradNum>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <DtxtCodeExists>O código informado ja foi utilizado</DtxtCodeExists>
+    <DtxtAutomatic>Automático</DtxtAutomatic>
+    <DtxtVatNum>Código de Imposto</DtxtVatNum>
+    <LttlNewClient>Novo Parceiro de Negócio</LttlNewClient>
+    <LtxtNatPer>Pessoa Natural</LtxtNatPer>
+    <LtxtPhone1>Telefone 1</LtxtPhone1>
+    <LtxtPhone2>Telefone 2</LtxtPhone2>
+    <LtxtCelular>Celular</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contato</LtxtContact>
+    <LtxtCopyToShipAdd>Copiar o endereço dos envios</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Copiar o endereço de pagamento</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Tem certeza que deseja cancelar este Parceiro de Negócio ?</LtxtConfCancel>
+    <LtxtValCod>Insira o código do Parceiro de Negócios</LtxtValCod>
+    <LtxtSelGrp>Deve escolher um grupo</LtxtSelGrp>
+    <LtxtValRFC>Deve introduzir o campo "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>O campo "RFC" deve ser de {0} caracteres.</LtxtValRFCLen>
+    <LtxtConfFld>Deve introduzir o campo "{0}"</LtxtConfFld>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LtxtConfNoSave>Tem certeza que não deseja salvar as alterações ?</LtxtConfNoSave>
+    <LtxtPymntCod>Condição de pagamento</LtxtPymntCod>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtBillAddress>Adresse de paiement</DtxtBillAddress>
+    <DtxtShipAddress>Adresse d'envoi</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Code Postal</DtxtZipCode>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtLicTradNum>Numéro d'identification fiscal</DtxtLicTradNum>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtCodeExists>&lt;--&gt;</DtxtCodeExists>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <DtxtVatNum>Numéro de TVA</DtxtVatNum>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LtxtNatPer>Personne naturelle</LtxtNatPer>
+    <LtxtPhone1>Téléphone 1:</LtxtPhone1>
+    <LtxtPhone2>Téléphone 2</LtxtPhone2>
+    <LtxtCelular>Portable</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Contact</LtxtContact>
+    <LtxtCopyToShipAdd>Copier à l'adresse d'envoie</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Copier à l'adresse de versement</LtxtCopyToBillAdd>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtValCod>&lt;--&gt;</LtxtValCod>
+    <LtxtSelGrp>Devez-vous choisir un groupe</LtxtSelGrp>
+    <LtxtValRFC>Devez-vous insérer le domaine "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>Le domaine "RFC" doit-être de {0} caractères</LtxtValRFCLen>
+    <LtxtConfFld>Devez-vous insérer le domaine "{0}"</LtxtConfFld>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtConfNoSave>&lt;--&gt;</LtxtConfNoSave>
+    <LtxtPymntCod>Condition de paiement</LtxtPymntCod>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtBillAddress>Rechnungsanschrift</DtxtBillAddress>
+    <DtxtShipAddress>Lieferadresse</DtxtShipAddress>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtZipCode>Postleitzahl</DtxtZipCode>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtLicTradNum>Steuernummer</DtxtLicTradNum>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <DtxtCodeExists>Der Kode den Sie eingegeben haben wurde bereits benutzt</DtxtCodeExists>
+    <DtxtAutomatic>Automatisch</DtxtAutomatic>
+    <DtxtVatNum>Umsatzsteuer-Identifikationsnummer</DtxtVatNum>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LtxtNatPer>Person</LtxtNatPer>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtCelular>Mobil Telefon</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtCopyToShipAdd>Kopie an Lieferadresse</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Kopie an Rechnungsadresse</LtxtCopyToBillAdd>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+    <LtxtValCod>&lt;--&gt;</LtxtValCod>
+    <LtxtSelGrp>Wählen Sie eine Gruppe</LtxtSelGrp>
+    <LtxtValRFC>Bitte geben Sie das "RFC" Feld ein</LtxtValRFC>
+    <LtxtValRFCLen>Das "RFC" Feld muss mindestens {0} Zeichen beinhalten</LtxtValRFCLen>
+    <LtxtConfFld>Bitte geben Sie das Feld "{0}" an</LtxtConfFld>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtConfNoSave>&lt;--&gt;</LtxtConfNoSave>
+    <LtxtPymntCod>Zahlungsbedingungen</LtxtPymntCod>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtBillAddress>Адрес для оплаты</DtxtBillAddress>
+    <DtxtShipAddress>Почтовый адрес</DtxtShipAddress>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtZipCode>Индекс</DtxtZipCode>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtLicTradNum>Номер предпринимателя</DtxtLicTradNum>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtCodeExists>&lt;--&gt;</DtxtCodeExists>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <DtxtVatNum>ИНН</DtxtVatNum>
+    <LttlNewClient>Новые карточки</LttlNewClient>
+    <LtxtNatPer>Человек</LtxtNatPer>
+    <LtxtPhone1>Телефон 1</LtxtPhone1>
+    <LtxtPhone2>Телефон 2</LtxtPhone2>
+    <LtxtCelular>Мобильный телефон</LtxtCelular>
+    <LtxtFax>Факс</LtxtFax>
+    <LtxtContact>Контакт</LtxtContact>
+    <LtxtCopyToShipAdd>Копия в адресе доставки</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Копия платежного адреса</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Вы уверены, что хотите удалить этого бизнес-партнера?</LtxtConfCancel>
+    <LtxtValCod>Пожалуйста, введите код карточек</LtxtValCod>
+    <LtxtSelGrp>Пожалуйста, выберите группу</LtxtSelGrp>
+    <LtxtValRFC>Пожалуйста, введите в поле номер лицензий</LtxtValRFC>
+    <LtxtValRFCLen>Поля "RFC" должно быть не менее {0} символов.</LtxtValRFCLen>
+    <LtxtConfFld>Пожалуйста, заполните поле "{0}"</LtxtConfFld>
+    <LttlEditClient>Изменить карточку</LttlEditClient>
+    <LtxtConfNoSave>Вы уверены, что вы не хотите,  сохранить изменения?</LtxtConfNoSave>
+    <LtxtPymntCod>Условия оплаты</LtxtPymntCod>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtBillAddress>Fakturační adresa</DtxtBillAddress>
+    <DtxtShipAddress>Dodací adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>PSČ</DtxtZipCode>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtLicTradNum>Federální DIČ</DtxtLicTradNum>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <DtxtCodeExists>Kód, který jste zadal/a, už je používán</DtxtCodeExists>
+    <DtxtAutomatic>&lt;--&gt;</DtxtAutomatic>
+    <DtxtVatNum>DIČ</DtxtVatNum>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtCelular>Mobilní telefon</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtCopyToShipAdd>Zkopírovat do dodací adresy</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Zkopírovat do fakturační adresy</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Jste si jistý/á, že chcete vymazat tohoto obchodního partnera?</LtxtConfCancel>
+    <LtxtValCod>Zadejte kód obchodního partnera</LtxtValCod>
+    <LtxtSelGrp>Vyberte prosím skupinu</LtxtSelGrp>
+    <LtxtValRFC>Vyplňte prosím pole "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>Pole "RFC" musí mít minimálně {0} znaků.</LtxtValRFCLen>
+    <LtxtConfFld>Vyplňte prosím pole "{0}"</LtxtConfFld>
+    <LttlEditClient>Upravit obchodního partnera</LttlEditClient>
+    <LtxtConfNoSave>Jste si jistý/á, že nechcete uložit změny?</LtxtConfNoSave>
+    <LtxtPymntCod>Platební podmínky</LtxtPymntCod>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtBillAddress>Adres do faktury</DtxtBillAddress>
+    <DtxtShipAddress>Adres wysyłki</DtxtShipAddress>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtZipCode>Kod pocztowy</DtxtZipCode>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtLicTradNum>Identyfikacyjny Numer Podatkowy</DtxtLicTradNum>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <DtxtCodeExists>Kod, który wpisałeś był już wykorzystany</DtxtCodeExists>
+    <DtxtAutomatic>Automatyczny</DtxtAutomatic>
+    <DtxtVatNum>Numer VAT</DtxtVatNum>
+    <LttlNewClient>Nowy Partner biznesowy</LttlNewClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LtxtPhone1>Telefon 1</LtxtPhone1>
+    <LtxtPhone2>Telefon 2</LtxtPhone2>
+    <LtxtCelular>Komórka</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtCopyToShipAdd>Kopiuj do adresu do wysyłki</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Kopiuj do adresu do faktury</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Czy jesteś pewien, że chcesz usunąć tego Partnera Biznesowego?</LtxtConfCancel>
+    <LtxtValCod>Proszę wprowadź kod Partnera Biznesowego</LtxtValCod>
+    <LtxtSelGrp>Proszę wybierz grupę materiałów</LtxtSelGrp>
+    <LtxtValRFC>Proszę wprowadź pole "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>Pole "RFC" musi składać się z co najmniej {0} znaków</LtxtValRFCLen>
+    <LtxtConfFld>Proszę wprowadź pole "{0}"</LtxtConfFld>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LtxtConfNoSave>Czy jesteś pewien, że chcesz zapamiętać zmiany?</LtxtConfNoSave>
+    <LtxtPymntCod>Warunki płatności</LtxtPymntCod>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtBillAddress>Fakturačná adresa</DtxtBillAddress>
+    <DtxtShipAddress>Doručovacia adresa</DtxtShipAddress>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtZipCode>Poštové smerovacie číslo</DtxtZipCode>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtLicTradNum>Daňové identifikačné číslo</DtxtLicTradNum>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <DtxtCodeExists>Kód, ktorý ste vpísali je už použitý.</DtxtCodeExists>
+    <DtxtAutomatic>Automatické</DtxtAutomatic>
+    <DtxtVatNum>DIČ</DtxtVatNum>
+    <LttlNewClient>Nový Obchodný partner</LttlNewClient>
+    <LtxtNatPer>Osoba</LtxtNatPer>
+    <LtxtPhone1>Telefón 1</LtxtPhone1>
+    <LtxtPhone2>Telefón 2</LtxtPhone2>
+    <LtxtCelular>Mobilný telefón</LtxtCelular>
+    <LtxtFax>Fax</LtxtFax>
+    <LtxtContact>Kontakt</LtxtContact>
+    <LtxtCopyToShipAdd>Skopírovať do dodacej adresy</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>Skopírovať do fakturačnej adresy</LtxtCopyToBillAdd>
+    <LtxtConfCancel>Ste si istí, že chcete vymazať Obchodného partnera?</LtxtConfCancel>
+    <LtxtValCod>Prosím zadajte kód Obchodného partnera</LtxtValCod>
+    <LtxtSelGrp>Prosím zvolte skupinu</LtxtSelGrp>
+    <LtxtValRFC>Prosím zadajte políčko "RFC"</LtxtValRFC>
+    <LtxtValRFCLen>Políčko "RFC" musí mať aspoň {0} znakov.</LtxtValRFCLen>
+    <LtxtConfFld>Prosím zadajte políčko "{0}"</LtxtConfFld>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LtxtConfNoSave>Ste si istí, že nechcete uložiť zmeny?</LtxtConfNoSave>
+    <LtxtPymntCod>Platobné podmienky</LtxtPymntCod>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtBillAddress>DtxtBillAddress</DtxtBillAddress>
+    <DtxtShipAddress>DtxtShipAddress</DtxtShipAddress>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtZipCode>DtxtZipCode</DtxtZipCode>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtLicTradNum>DtxtLicTradNum</DtxtLicTradNum>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <DtxtCodeExists>DtxtCodeExists</DtxtCodeExists>
+    <DtxtAutomatic>DtxtAutomatic</DtxtAutomatic>
+    <DtxtVatNum>DtxtVatNum</DtxtVatNum>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+    <LtxtNatPer>LtxtNatPer</LtxtNatPer>
+    <LtxtPhone1>LtxtPhone1</LtxtPhone1>
+    <LtxtPhone2>LtxtPhone2</LtxtPhone2>
+    <LtxtCelular>LtxtCelular</LtxtCelular>
+    <LtxtFax>LtxtFax</LtxtFax>
+    <LtxtContact>LtxtContact</LtxtContact>
+    <LtxtCopyToShipAdd>LtxtCopyToShipAdd</LtxtCopyToShipAdd>
+    <LtxtCopyToBillAdd>LtxtCopyToBillAdd</LtxtCopyToBillAdd>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+    <LtxtValCod>LtxtValCod</LtxtValCod>
+    <LtxtSelGrp>LtxtSelGrp</LtxtSelGrp>
+    <LtxtValRFC>LtxtValRFC</LtxtValRFC>
+    <LtxtValRFCLen>LtxtValRFCLen</LtxtValRFCLen>
+    <LtxtConfFld>LtxtConfFld</LtxtConfFld>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LtxtConfNoSave>LtxtConfNoSave</LtxtConfNoSave>
+    <LtxtPymntCod>LtxtPymntCod</LtxtPymntCod>
+  </language>
+</languages>

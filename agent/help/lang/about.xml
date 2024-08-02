@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlAbout>About TopManage OLK v</LttlAbout>
+    <LtxtFooter>For more information about &lt;b&gt;OLK&lt;/b&gt;, call us at &lt;b&gt;(507) 300-7200&lt;/b&gt; or visit us at</LtxtFooter>
+    <LttlNote>TopManage of Panama, providing its clients the very latest in technology and development, for the growth of their business; a product that is innovative and unique in content and functionality, the OLK.&lt;br&gt;&lt;br&gt;OLK is an electronic showcase for products and special offers, for clients and salespeople to buy and sell, while verifying their statements.  It represents an easy to use managerial tool useful for effective business decision making.  The Administrative-Accountant SAP Business One operates completely online with this system.&lt;br&gt;&lt;br&gt;The OLK is also a complete electronic Portal, where you can input the general information of your company, verify news and more.</LttlNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <LttlAbout>Acerca de TopManage OLK v</LttlAbout>
+    <LtxtFooter>Para más información sobre &lt;b&gt;OLK&lt;/b&gt;, llámenos al &lt;b&gt;(507) 300-7200&lt;/b&gt; o visítenos a</LtxtFooter>
+    <LttlNote>TopManage de Panamá, brindándole a sus clientes lo último en tecnología y desarrollo para el crecimiento de su negocio, ofrece un producto innovador y único en su contenido y funcionalidad, el OLK.&lt;br&gt;&lt;br&gt;OLK constituye no solamente una vitrina electrónica de productos y ofertas, en donde, tanto clientes como vendedores pueden realizar compras y ventas, al mismo tiempo que verifican sus estados de cuenta; sino que representa una herramienta gerencial muy fácil de utilizar y a la vez útil para la toma de decisiones en su negocio, ya que trabaja completamente en línea con su sistema Administrativo-Contable SAP Business One.&lt;br&gt;&lt;br&gt;&lt;br&gt;El OLK es también un Portal electrónico completo, donde usted puede colocar información general de su empresa, verificar noticias y demás.</LttlNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <LttlAbout>אודות TopManage אולק</LttlAbout>
+    <LtxtFooter>אם ברצונך&amp;nbsp; אינפורמציה נוספת על&amp;nbsp;&lt;strong&gt;אולק התקשר אלינו לט'ל&amp;nbsp;&amp;nbsp;&lt;/strong&gt; 3007200(507)&amp;nbsp;&amp;nbsp;או הכנס לאתר שלנו</LtxtFooter>
+    <LttlNote>TopManage מציעה לך טכנולוגיה חדשנית להתפתחות עסקיך.&lt;br&gt; אולק הינו אתר אינטרנט המאפשר תיקשורת ישירה עם לקוחות וסוכנים אשר מנצל את עולם האינטאנט ומתעדכן באופן ישיר מ- ERP של החברה. </LttlNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlAbout>About TopManage OLK v</LttlAbout>
+    <LtxtFooter>For more information about &lt;b&gt;OLK&lt;/b&gt;, call us at &lt;b&gt;(507) 300-7200&lt;/b&gt; or visit us at</LtxtFooter>
+    <LttlNote>TopManage of Panama, providing its clients the very latest in technology and development, for the growth of their business; a product that is innovative and unique in content and functionality, the OLK.&lt;br&gt;&lt;br&gt;OLK is an electronic showcase for products and special offers, for clients and salespeople to buy and sell, while verifying their statements.  It represents an easy to use managerial tool useful for effective business decision making.  The Administrative-Accountant SAP Business One operates completely online with this system.&lt;br&gt;&lt;br&gt;The OLK is also a complete electronic Portal, where you can input the general information of your company, verify news and more.</LttlNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <LttlAbout>Sobre a TopManage OLK</LttlAbout>
+    <LtxtFooter>Para mais informação sobre &lt;b&gt;OLK&lt;/b&gt;,  faça contato pelo fone &lt;b&gt;(507) 300-7200&lt;/b&gt; ou visite-nos em</LtxtFooter>
+    <LttlNote>A TopManage do Panamá, oferece a seus clientes o que existe de mais novo em tecnologia e desenvolvimento para o crescimento do seu negócio, oferece um produto inovador e único no conteúdo e funcionamento, o OLK. O OLK representa não só uma vitrine eletrônica de produtos e ofertas, onde, tanto clientes como vendedores podem fazer compras e vendas, ao mesmo tempo que verificam seus extratos de conta. Também representa uma ferramenta de gerência muito fácil de usar e ao mesmo tempo útil para tomada de decisões no seu negócio, já que trabalha completamente em linha com seu sistema Administrativo-Contábil SAP Business One. O OLK é também um Portal eletrônico completo, onde você pode colocar informações geral da sua empresa, verificar notícias entre outras.</LttlNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <LttlAbout>Au sujet de TopManage OLK v</LttlAbout>
+    <LtxtFooter>Pour plus d'information sur &lt;b&gt;OLK&lt;/b&gt;, appelez nous au &lt;b&gt;(507) 300-7200&lt;/b&gt; ou visitez nous à</LtxtFooter>
+    <LttlNote>TopManage du Panama, en offrant à ses clients le dernier en technologie et développement pour l'accroissement de votre affaire, vous offre un produit innovateur et unique dans son contenu et fonctionnalité, l'OLK.&lt;br&gt;&lt;br&gt;OLK constitue seulement pas qu'un vitrine électronique des profuits et des offres, où tant des clients comme des vendeurs peuvent réaliser des achats et des ventes, au même temps que vérifier ses relevé de compte; sinon que représente un outil gérance très facile et au même temps util pour la prendre en considération dans votre entreprise, on travaille completement en ligne avec votre système  Administratif-Comptable SAP Business One.&lt;br&gt;&lt;br&gt;L'OLK est aussi un portail électronique complet, où vous pouvez situer l'information général de votre entreprise, vérifier des nouvelles et de plus.</LttlNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <LttlAbout>Info über TopManage OLK v</LttlAbout>
+    <LtxtFooter>Für weitere Informationen über &lt;b&gt;OLK&lt;/b&gt;, rufen Sie uns an &lt;b&gt;(507) 300-7200&lt;/b&gt; oder gehen Sie auf unsere Webseite</LtxtFooter>
+    <LttlNote>TopManage Panama, bietet seinen Kunden die neueste Technologie und Entwicklung für den Wachstum Ihres Geshäfts. Das OLK ist ein produkt welches innovativ und einzigartig ist, in seinem Inhalt und seiner Funktionalität.&lt;br&gt;&lt;br&gt;OLK ist ein electronisches Schaufenster für Produkte und Sonderangebote, Kunden und Verkäufer können Ihre Geschäfte abwickeln, und gleichzeitig alle Angaben überprüfen. Ein leicht bedienbares Verwaltungswerkzeug, welches dabei hilft effektive geschäftliche Entscheidungen zu treffen. Administrative-Accountant SAP Business One arbeitet allein mit diesem System online.&lt;br&gt;&lt;br&gt;OLK ist ein völlig electronisches Portal wo Sie all Infos über Ihrer Firma eingeben können, neuigkeiten verbreiten und vieles mehr.</LttlNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <LttlAbout> Топ менеджер олк</LttlAbout>
+    <LtxtFooter>Если вы хотите получить больше информации о &lt;b&gt; ,олк Lett вызова нам "&lt;/b&gt; 3007200 (507), или войдите на наш сайт</LtxtFooter>
+    <LttlNote>TopManage  предлагает Вам инновационные бизнесы, развитие технологий.&lt;br&gt;Олк это веб-сайт, позволяющий Tiksort напрямую с клиентами и агентами, которые, пользуясь Мир Hayntant обновляются непосредственно от - ERP компании.</LttlNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <LttlAbout>O TopManage OLK v</LttlAbout>
+    <LtxtFooter>Víc informací o &lt;b&gt;OLK&lt;/b&gt;, získáte na tel. č. &lt;b&gt;(507) 300-7200&lt;/b&gt; nebo na stránkách</LtxtFooter>
+    <LttlNote>TopManage z Panamy poskytuje nejnovější technologii a vývoj, které jejím klientům umožní růst jejich obchodních činností. Nabízí produkt, který je inovativní a jedinečný, jak po stránce obsahové, tak po stránce funkcionalit - to je OLK.&lt;br&gt;&lt;br&gt;OLK je elektronický katalog produktů a speciálních nabídek, které klienti a obchodní zástupci mohou nakupovat a prodávat, a současně dokazovat svá tvrzení. Představuje jednoduchý manažerský nástroj pro efektivní rozhodování v obchodních záležitostech. Administrativně-účetní SAP Business One plně spolupracuje s tímto systémem online.&lt;br&gt;&lt;br&gt;OLK je dále plně elektronický portál, kam můžete vkládat informace o vaší společnosti, potvrzovat zprávny a další.</LttlNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <LttlAbout>O TopManage OLK v</LttlAbout>
+    <LtxtFooter>W celu uzyskania dalszych informacji na temat &lt;b&gt;OLK&lt;/b&gt;, zadzwoń pod numer &lt;b&gt;(507) 300-7200&lt;/b&gt; lub odwieź nas na</LtxtFooter>
+    <LttlNote>TopManage of Panama dostarcza klientom najnowszej technologii dla rozwoju ich biznesu; produkt, który jest innowacyjny i unikalny w swojej zawartości i funkcjonalności - OLK.     OLK  jest to elektroniczna witryna dla produktów i ofert specjalnych, dla klientów i sprzedawców do sprzedaży i zakupu, w tym samym czasie weryfikująca ich oświadczenia.   Jest łatwym w użyciu narzędziem zarządczym przydatnym w podejmowaniu efektywnych decyzji biznesowych. Administracyjno - Księgowy SAP Business One współpracuje z tym systemem online.   OLK jest także całościowym, elektronicznym Portalem, gdzie możesz umieścić ogólne dane o swojej firmie, weryfikować aktualności i nie tylko. </LttlNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <LttlAbout>O TopManage OLK</LttlAbout>
+    <LtxtFooter>Pre viac informácií o &lt;b&gt;OLK&lt;/b&gt;, nám zavolajte na &lt;b&gt;(507) 300-7200&lt;/b&gt; alebo nás navštívte na</LtxtFooter>
+    <LttlNote>TopManage of Panama, poskytuje svojim klientom to najnovšie v technológii a vývoji, pre rast ich podnikania, produkt, ktorý je inovatívny a jedinečný čo sa týka obsahu a funkčnosti.</LttlNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <LttlAbout>LttlAbout</LttlAbout>
+    <LtxtFooter>LtxtFooter</LtxtFooter>
+    <LttlNote>LttlNote</LttlNote>
+  </language>
+</languages>

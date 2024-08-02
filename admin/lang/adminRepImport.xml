@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtError>Error</DtxtError>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtValid>Valid</DtxtValid>
+    <LtxtNext>Next</LtxtNext>
+    <LtxtRestoreName>Restore original name</LtxtRestoreName>
+    <LttlRepImp>Reports - Import</LttlRepImp>
+    <LtxtSelDataFile>Select the data file</LtxtSelDataFile>
+    <LtxtSelReps>Select the reports that you want to import.</LtxtSelReps>
+    <LtxtValXmlFile>Only XML files are allowed</LtxtValXmlFile>
+    <LtxtErrUpdFile>An error has occurred while uploading file:</LtxtErrUpdFile>
+    <LtxtValSelRep>You must select at least one report.</LtxtValSelRep>
+    <LtxtValRepName>Report name cannot be empty.</LtxtValRepName>
+    <LtxtValRepGrp>You must assign a group to add the report.</LtxtValRepGrp>
+    <LtxtErrValQry>Query validation error</LtxtErrValQry>
+    <LtxtErrValVar>Variable validation error</LtxtErrValVar>
+    <LtxtErrValDefVal>Default value query validation error</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtError>Error</DtxtError>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtValid>Valido</DtxtValid>
+    <LtxtNext>Siguiente</LtxtNext>
+    <LtxtRestoreName>Restaurar nombre original</LtxtRestoreName>
+    <LttlRepImp>Reportes - Importar</LttlRepImp>
+    <LtxtSelDataFile>Seleccione el archivo de datos</LtxtSelDataFile>
+    <LtxtSelReps>Seleccione los reportes que desea importar.</LtxtSelReps>
+    <LtxtValXmlFile>Solo se permite archivos tipo XML</LtxtValXmlFile>
+    <LtxtErrUpdFile>Un error ha ocurrido al subir el archivo:</LtxtErrUpdFile>
+    <LtxtValSelRep>Debe seleccionar al menos un reporte.</LtxtValSelRep>
+    <LtxtValRepName>Nombre de reporte no puede estar vació.</LtxtValRepName>
+    <LtxtValRepGrp>Debe asignar un grupo para agregar el reporte.</LtxtValRepGrp>
+    <LtxtErrValQry>Error de validación de consulta</LtxtErrValQry>
+    <LtxtErrValVar>Error de validación de variable</LtxtErrValVar>
+    <LtxtErrValDefVal>Error de validación de consulta de valor predeterminado</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtValid>תקף</DtxtValid>
+    <LtxtNext>הבאה</LtxtNext>
+    <LtxtRestoreName>שחזר שם מקורי</LtxtRestoreName>
+    <LttlRepImp>דוחות - יבוא</LttlRepImp>
+    <LtxtSelDataFile>בחר את קובץ הנתונים</LtxtSelDataFile>
+    <LtxtSelReps>בחר  בדוחות שאתה מעוניין לייבא</LtxtSelReps>
+    <LtxtValXmlFile>ניתן לעלות רק קבצים מסוג XML</LtxtValXmlFile>
+    <LtxtErrUpdFile>נוצרה תקלה בתהליך עליית הקובץ:</LtxtErrUpdFile>
+    <LtxtValSelRep>יש לבחור לפחות דוח אחד</LtxtValSelRep>
+    <LtxtValRepName>שם הדוח לא יכול להיות ריק</LtxtValRepName>
+    <LtxtValRepGrp>יש לבחור את הקבוצה להוספת הדוח</LtxtValRepGrp>
+    <LtxtErrValQry>תקלה בבדיקת השאילתא</LtxtErrValQry>
+    <LtxtErrValVar>תקלה בבדיקת הערך</LtxtErrValVar>
+    <LtxtErrValDefVal>תקלה בבדיקת ערך שאילתת ברירת המחדל</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtError>Error</DtxtError>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtValid>Valid</DtxtValid>
+    <LtxtNext>Next</LtxtNext>
+    <LtxtRestoreName>Restore original name</LtxtRestoreName>
+    <LttlRepImp>Reports - Import</LttlRepImp>
+    <LtxtSelDataFile>Select the data file</LtxtSelDataFile>
+    <LtxtSelReps>Select the reports that you want to import.</LtxtSelReps>
+    <LtxtValXmlFile>Only XML files are allowed</LtxtValXmlFile>
+    <LtxtErrUpdFile>An error has occurred while uploading file:</LtxtErrUpdFile>
+    <LtxtValSelRep>You must select at least one report.</LtxtValSelRep>
+    <LtxtValRepName>Report name cannot be empty.</LtxtValRepName>
+    <LtxtValRepGrp>You must assign a group to add the report.</LtxtValRepGrp>
+    <LtxtErrValQry>Query validation error</LtxtErrValQry>
+    <LtxtErrValVar>Variable validation error</LtxtErrValVar>
+    <LtxtErrValDefVal>Default value query validation error</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtError>Erro</DtxtError>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtValid>Válido</DtxtValid>
+    <LtxtNext>Seguinte</LtxtNext>
+    <LtxtRestoreName>Restaurar nome original</LtxtRestoreName>
+    <LttlRepImp>Relatórios - Importar</LttlRepImp>
+    <LtxtSelDataFile>Selecione o arquivo de dados</LtxtSelDataFile>
+    <LtxtSelReps>Selecione os relatórios que deseja importar.</LtxtSelReps>
+    <LtxtValXmlFile>Só se permite arquivos tipo XML.</LtxtValXmlFile>
+    <LtxtErrUpdFile>Um erro ocorreu ao subir o arquivo:</LtxtErrUpdFile>
+    <LtxtValSelRep>Deve selecionar ao menos um relatório.</LtxtValSelRep>
+    <LtxtValRepName>Nome de relatório não pode estar vazio.</LtxtValRepName>
+    <LtxtValRepGrp>Deve atribuir um grupo para acrescentar ao relatório.</LtxtValRepGrp>
+    <LtxtErrValQry>Erro de validação de consulta</LtxtErrValQry>
+    <LtxtErrValVar>Erro de validação de variável</LtxtErrValVar>
+    <LtxtErrValDefVal>Erro de validação de consulta de valor predeterminado</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtValid>Valable</DtxtValid>
+    <LtxtNext>Suivant</LtxtNext>
+    <LtxtRestoreName>Restaurer nom original</LtxtRestoreName>
+    <LttlRepImp>Report - Importer</LttlRepImp>
+    <LtxtSelDataFile>Sélectionnez-vous le fichier des données</LtxtSelDataFile>
+    <LtxtSelReps>Sélectionnez-vous les report que veuillez-vous importer</LtxtSelReps>
+    <LtxtValXmlFile>On permet seulement que fichier du genre XML</LtxtValXmlFile>
+    <LtxtErrUpdFile>Un erreur est arrivé au moment de monter le fichier:</LtxtErrUpdFile>
+    <LtxtValSelRep>Devez-vous sélectionner au moins un report</LtxtValSelRep>
+    <LtxtValRepName>Mon de report ne peut pas être vide.</LtxtValRepName>
+    <LtxtValRepGrp>Devez-vous assigner un groupe pour ajouter le report.</LtxtValRepGrp>
+    <LtxtErrValQry>Erreur de validation de la consultation</LtxtErrValQry>
+    <LtxtErrValVar>Erreur de validation de la variable</LtxtErrValVar>
+    <LtxtErrValDefVal>Erreur de validation de la consultation de la valeur prédéterminée</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtValid>Gültig</DtxtValid>
+    <LtxtNext>Nächste</LtxtNext>
+    <LtxtRestoreName>Original-Name wiederherstellen</LtxtRestoreName>
+    <LttlRepImp>Berichte -Importe</LttlRepImp>
+    <LtxtSelDataFile>Wählen Sie die Datendatei</LtxtSelDataFile>
+    <LtxtSelReps>Wählen Sie die Berichte die Sie importieren möchten.</LtxtSelReps>
+    <LtxtValXmlFile>Nur XML Datein sind erlaubt</LtxtValXmlFile>
+    <LtxtErrUpdFile>Beim Hochladen ist ein Fehler aufgetreten:</LtxtErrUpdFile>
+    <LtxtValSelRep>Sie müssen mindestens einen Bericht wählen.</LtxtValSelRep>
+    <LtxtValRepName>Berichtname darf nicht lehr gelassen sein</LtxtValRepName>
+    <LtxtValRepGrp>Sie müssen eine Gruppe beiordnen um den Bericht hinzuzufügen.</LtxtValRepGrp>
+    <LtxtErrValQry>Anfrage bestätigungs Fehler</LtxtErrValQry>
+    <LtxtErrValVar>Variabel bestätigungs Fehler</LtxtErrValVar>
+    <LtxtErrValDefVal>Standard Wertanfrage bestätigungs Fehler</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtValid>Действительный</DtxtValid>
+    <LtxtNext>Далее</LtxtNext>
+    <LtxtRestoreName>Восстановите исходное имя</LtxtRestoreName>
+    <LttlRepImp>Отчеты о деятельности - импорта</LttlRepImp>
+    <LtxtSelDataFile>Выбор  данных файла</LtxtSelDataFile>
+    <LtxtSelReps>Выберите отчеты, которые вы хотите импортировать.</LtxtSelReps>
+    <LtxtValXmlFile>Разрешено только XML файлам</LtxtValXmlFile>
+    <LtxtErrUpdFile>Произошла ошибка при загрузке файла:</LtxtErrUpdFile>
+    <LtxtValSelRep>Вы должны выбрать по крайней мере один доклад.</LtxtValSelRep>
+    <LtxtValRepName> Имя доклада не может быть пустым.</LtxtValRepName>
+    <LtxtValRepGrp>Вы должны назначить группу для добавления отчета.</LtxtValRepGrp>
+    <LtxtErrValQry>Ошибка при проверке запросов</LtxtErrValQry>
+    <LtxtErrValVar> Ошибка измененной проверки</LtxtErrValVar>
+    <LtxtErrValDefVal>Значение запроса по умолчанию  ошибка проверки</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtValid>Platné</DtxtValid>
+    <LtxtNext>Další</LtxtNext>
+    <LtxtRestoreName>Obnovit původní název</LtxtRestoreName>
+    <LttlRepImp>Reporty - Import</LttlRepImp>
+    <LtxtSelDataFile>Vyberte datový soubor</LtxtSelDataFile>
+    <LtxtSelReps>Vyberte reporty, které chcete importovat.</LtxtSelReps>
+    <LtxtValXmlFile>Jsou povoleny pouze XML soubory</LtxtValXmlFile>
+    <LtxtErrUpdFile>Při nahrávání souboru došlo k chybě:</LtxtErrUpdFile>
+    <LtxtValSelRep>Musíte vybrat aspoň jeden report.</LtxtValSelRep>
+    <LtxtValRepName>Název reportu nemůže být prázdný.</LtxtValRepName>
+    <LtxtValRepGrp>Pro vytvoření reportu musíte přiřadit aspoň jednu skupinu.</LtxtValRepGrp>
+    <LtxtErrValQry>Chyba validace dotazu</LtxtErrValQry>
+    <LtxtErrValVar>Chyba validace dotazu</LtxtErrValVar>
+    <LtxtErrValDefVal>Chyba validace dotazu na výchozí hodnotu</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtValid>Ważny</DtxtValid>
+    <LtxtNext>Następny</LtxtNext>
+    <LtxtRestoreName>Przywróć oryginalna nazwę</LtxtRestoreName>
+    <LttlRepImp>Raporty - Import</LttlRepImp>
+    <LtxtSelDataFile>Wybierz plik danych</LtxtSelDataFile>
+    <LtxtSelReps>Wybierz raporty, które chcesz importować</LtxtSelReps>
+    <LtxtValXmlFile>Tylko pliki XML są dozwolone</LtxtValXmlFile>
+    <LtxtErrUpdFile>W trakcie pobierania pliku pojawił się błąd:</LtxtErrUpdFile>
+    <LtxtValSelRep>Musisz wybrać przynajmniej jeden raport</LtxtValSelRep>
+    <LtxtValRepName>Nazwa raportu nie może pozostać pusta</LtxtValRepName>
+    <LtxtValRepGrp>Aby dodać raport musisz przypisać grupę</LtxtValRepGrp>
+    <LtxtErrValQry>Błąd zatwierdzenia zapytanie</LtxtErrValQry>
+    <LtxtErrValVar>Błąd zatwierdzenia zmiennej</LtxtErrValVar>
+    <LtxtErrValDefVal>Błąd zatwierdzenia domyślnej wartości zapytania</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtValid>Platné</DtxtValid>
+    <LtxtNext>Ďalej</LtxtNext>
+    <LtxtRestoreName>Obnoviť pôvodný názov</LtxtRestoreName>
+    <LttlRepImp>Výkazy - Importovanie</LttlRepImp>
+    <LtxtSelDataFile>Vybrať dátový súbor</LtxtSelDataFile>
+    <LtxtSelReps>Vybrať výkazy, ktoré chcete importovať.</LtxtSelReps>
+    <LtxtValXmlFile>Len XML súbory sú povolené</LtxtValXmlFile>
+    <LtxtErrUpdFile>Počas nahrávania súboru sa vyskytla chyba:</LtxtErrUpdFile>
+    <LtxtValSelRep>Musíte vybrať aspoň jeden výkaz.</LtxtValSelRep>
+    <LtxtValRepName>Názov výkazu nemôže byť prázdny.</LtxtValRepName>
+    <LtxtValRepGrp>Na pridanie výkazu musíte priradiť skupinu.</LtxtValRepGrp>
+    <LtxtErrValQry>Chyba v overení zadania</LtxtErrValQry>
+    <LtxtErrValVar>Chyba v overovaní premennej</LtxtErrValVar>
+    <LtxtErrValDefVal>Chyba pri overovanízadania východiskovej hodnoty</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtError>&lt;--&gt;</DtxtError>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtValid>&lt;--&gt;</DtxtValid>
+    <LtxtNext>&lt;--&gt;</LtxtNext>
+    <LtxtRestoreName>&lt;--&gt;</LtxtRestoreName>
+    <LttlRepImp>&lt;--&gt;</LttlRepImp>
+    <LtxtSelDataFile>&lt;--&gt;</LtxtSelDataFile>
+    <LtxtSelReps>&lt;--&gt;</LtxtSelReps>
+    <LtxtValXmlFile>&lt;--&gt;</LtxtValXmlFile>
+    <LtxtErrUpdFile>&lt;--&gt;</LtxtErrUpdFile>
+    <LtxtValSelRep>&lt;--&gt;</LtxtValSelRep>
+    <LtxtValRepName>&lt;--&gt;</LtxtValRepName>
+    <LtxtValRepGrp>&lt;--&gt;</LtxtValRepGrp>
+    <LtxtErrValQry>&lt;--&gt;</LtxtErrValQry>
+    <LtxtErrValVar>&lt;--&gt;</LtxtErrValVar>
+    <LtxtErrValDefVal>&lt;--&gt;</LtxtErrValDefVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtValid>DtxtValid</DtxtValid>
+    <LtxtNext>LtxtNext</LtxtNext>
+    <LtxtRestoreName>LtxtRestoreName</LtxtRestoreName>
+    <LttlRepImp>LttlRepImp</LttlRepImp>
+    <LtxtSelDataFile>LtxtSelDataFile</LtxtSelDataFile>
+    <LtxtSelReps>LtxtSelReps</LtxtSelReps>
+    <LtxtValXmlFile>LtxtValXmlFile</LtxtValXmlFile>
+    <LtxtErrUpdFile>LtxtErrUpdFile</LtxtErrUpdFile>
+    <LtxtValSelRep>LtxtValSelRep</LtxtValSelRep>
+    <LtxtValRepName>LtxtValRepName</LtxtValRepName>
+    <LtxtValRepGrp>LtxtValRepGrp</LtxtValRepGrp>
+    <LtxtErrValQry>LtxtErrValQry</LtxtErrValQry>
+    <LtxtErrValVar>LtxtErrValVar</LtxtErrValVar>
+    <LtxtErrValDefVal>LtxtErrValDefVal</LtxtErrValDefVal>
+  </language>
+</languages>

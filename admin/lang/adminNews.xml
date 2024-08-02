@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlNews>News</LttlNews>
+    <LttlNewsNote>In this section the administrator may add, edit, and/or eliminate any news listing that has been published in the portal.</LttlNewsNote>
+    <LtxtConfDelNews>Are you sure you want to delete the news {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicación</DtxtDateOfPub>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlNews>Noticias</LttlNews>
+    <LttlNewsNote>En esta sección podrá agregar, editar y eliminar las noticias que se encuentran publicadas actualmente en el portal.</LttlNewsNote>
+    <LtxtConfDelNews>¿Está seguro que desea eliminar la notica {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtDateOfPub>הפצה</DtxtDateOfPub>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlNews>חדשות</LttlNews>
+    <LttlNewsNote>בחלק זה תוכל להוסיף\לערוך\למחוק חדשות ולקבוע תאריכים בהם יופיעו החדשות  באתר</LttlNewsNote>
+    <LtxtConfDelNews>האם למחוק חדשות {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlNews>News</LttlNews>
+    <LttlNewsNote>In this section the administrator may add, edit, and/or eliminate any news listing that has been published in the portal.</LttlNewsNote>
+    <LtxtConfDelNews>Are you sure you want to delete the news {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicação</DtxtDateOfPub>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlNews>Notícias</LttlNews>
+    <LttlNewsNote>Nesta seção, poderá adicionar, editar e excluir as notícias que estão publicadas atualmente no portal.</LttlNewsNote>
+    <LtxtConfDelNews>Você tem certeza que deseja excluir a notícia?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlNews>Nouvelles</LttlNews>
+    <LttlNewsNote>Dans cette section vous pourrez ajouter, éditer et éliminer les nouvelles qui sont publiées actuellement dans le portail.</LttlNewsNote>
+    <LtxtConfDelNews>Êtes-vous sûre d\'éliminer la nouvelle {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtDateOfPub>Erscheinungsdatum</DtxtDateOfPub>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlNews>Neuigkeiten</LttlNews>
+    <LttlNewsNote>In diesem Bereich kann der Administrator, Neuigkeiten die in einem Portal veröffentlicht werden, hinzufügen, bearbeiten und/oder löschen.</LttlNewsNote>
+    <LtxtConfDelNews>Möchten Sie die Neuigkeiten {0} wirklich löschen?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtDateOfPub>Распределение</DtxtDateOfPub>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlNews>Новости</LttlNews>
+    <LttlNewsNote>В этом разделе администратор может добавлять, редактировать и / или ликвидировать любой список новостей, опубликованных на портале.</LttlNewsNote>
+    <LtxtConfDelNews>Вы уверены, что хотите удалить новости {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtDateOfPub>Uveřejnění</DtxtDateOfPub>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlNews>Novinky</LttlNews>
+    <LttlNewsNote>V této sekci může správce vytvořit, upravit a/nebo zrušit jakékoliv zobrazené novinky, které byly uveřejněné na portálu.</LttlNewsNote>
+    <LtxtConfDelNews>Jste si jistý/á, že chcete odstranit novinky {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtDateOfPub>Publikacja</DtxtDateOfPub>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlNews>Wiadomości</LttlNews>
+    <LttlNewsNote>W tym dziale administrator może dodać, edytować i/lub wyeliminować wszelkie wiadomości, które zostały opublikowane na portalu.  </LttlNewsNote>
+    <LtxtConfDelNews>Czy jesteś pewien, że chcesz skasować wiadomość {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtDateOfPub>Publikácia</DtxtDateOfPub>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlNews>Novinky</LttlNews>
+    <LttlNewsNote>V tejto sekcii môže administrátor pridať, editovať a/alebo eliminovať akýkoľvek záznam noviniek, ktorý bol publikovaný na portáli.</LttlNewsNote>
+    <LtxtConfDelNews>Ste si istí, že chcete zmazať novinky {0}?</LtxtConfDelNews>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtTitle>&lt;--&gt;</DtxtTitle>
+    <DtxtDateOfPub>&lt;--&gt;</DtxtDateOfPub>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlNews>&lt;--&gt;</LttlNews>
+    <LttlNewsNote>&lt;--&gt;</LttlNewsNote>
+    <LtxtConfDelNews>&lt;--&gt;</LtxtConfDelNews>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtDateOfPub>DtxtDateOfPub</DtxtDateOfPub>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlNews>LttlNews</LttlNews>
+    <LttlNewsNote>LttlNewsNote</LttlNewsNote>
+    <LtxtConfDelNews>LtxtConfDelNews</LtxtConfDelNews>
+  </language>
+</languages>

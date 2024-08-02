@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtDelete>Delete</DtxtDelete>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <DtxtApprove>Approve</DtxtApprove>
+    <DtxtRestData>Restricted data</DtxtRestData>
+    <LttlReps>Reports</LttlReps>
+    <LtxtQueryAgain>Re-try Query</LtxtQueryAgain>
+    <LtxtQueryErr>There was an error with your query, please contact system administrator to check the query.</LtxtQueryErr>
+    <LtxtLinkToRep>Link to report</LtxtLinkToRep>
+    <LtxtRepNoAccess>You do not have access to this report</LtxtRepNoAccess>
+    <LtxtDynObjErr>The object type #{0} is not viewable with OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Convert quotation to sales order</LtxtConvQuoteSales>
+    <LtxtAddToWish>Add to wish list</LtxtAddToWish>
+    <LtxtAddToCart>Add to cart</LtxtAddToCart>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <DtxtExecTime>Tiempo de Ejecución</DtxtExecTime>
+    <DtxtApprove>Aprobar</DtxtApprove>
+    <DtxtRestData>Data restringida</DtxtRestData>
+    <LttlReps>Reportes</LttlReps>
+    <LtxtQueryAgain>Re consultar</LtxtQueryAgain>
+    <LtxtQueryErr>Hubo un error con su consulta, por favor contacte a el administrador del sistema para que revise la consulta.</LtxtQueryErr>
+    <LtxtLinkToRep>Enlace a reporte</LtxtLinkToRep>
+    <LtxtRepNoAccess>No tiene acceso a este reporte</LtxtRepNoAccess>
+    <LtxtDynObjErr>No se puede visualizar el objeto tipo #{0} con OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Convertir cotización a orden de venta</LtxtConvQuoteSales>
+    <LtxtAddToWish>Agregar a lista de deseos</LtxtAddToWish>
+    <LtxtAddToCart>Agregar a canasta</LtxtAddToCart>
+    <LtxtConvOrderInv>Convertir Orden de Venta a Factura</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtRefresh>רענן</DtxtRefresh>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtDelete>מחק</DtxtDelete>
+    <DtxtExecTime>זמן ביצוע</DtxtExecTime>
+    <DtxtApprove>מאושר</DtxtApprove>
+    <DtxtRestData>נתונים מוגבלים</DtxtRestData>
+    <LttlReps>דוחות</LttlReps>
+    <LtxtQueryAgain>הרץ מחדש</LtxtQueryAgain>
+    <LtxtQueryErr>נוצרה תקלה בדוח, צור קשר עם אחראי האתר ע"מ שיבדוק את הבעיה.</LtxtQueryErr>
+    <LtxtLinkToRep>קישור לדוח</LtxtLinkToRep>
+    <LtxtRepNoAccess>לא אישור כניסה לדוח הנ"ל</LtxtRepNoAccess>
+    <LtxtDynObjErr>סוג אובייקט {0}# לא נתמך ע"י אולק</LtxtDynObjErr>
+    <LtxtConvQuoteSales>הפוך הצעת מחיר להזמנת לקוח</LtxtConvQuoteSales>
+    <LtxtAddToWish>הוסף לרשימת המשאלות</LtxtAddToWish>
+    <LtxtAddToCart>הוסף לסל</LtxtAddToCart>
+    <LtxtConvOrderInv>הפוך הזמנת לקוח חשבונית מס'</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtDelete>Delete</DtxtDelete>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <DtxtApprove>Approve</DtxtApprove>
+    <DtxtRestData>Restricted data</DtxtRestData>
+    <LttlReps>Reports</LttlReps>
+    <LtxtQueryAgain>Re-try Query</LtxtQueryAgain>
+    <LtxtQueryErr>There was an error with your query, please contact system administrator to check the query.</LtxtQueryErr>
+    <LtxtLinkToRep>Link to report</LtxtLinkToRep>
+    <LtxtRepNoAccess>You do not have access to this report</LtxtRepNoAccess>
+    <LtxtDynObjErr>The object type #{0} is not viewable with OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Convert quotation to sales order</LtxtConvQuoteSales>
+    <LtxtAddToWish>Add to wish list</LtxtAddToWish>
+    <LtxtAddToCart>Add to cart</LtxtAddToCart>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <DtxtExecTime>Tempo de Execução</DtxtExecTime>
+    <DtxtApprove>Aprovar</DtxtApprove>
+    <DtxtRestData>Data de Bloqueio</DtxtRestData>
+    <LttlReps>Relatório</LttlReps>
+    <LtxtQueryAgain>Reconsultar</LtxtQueryAgain>
+    <LtxtQueryErr>Houve um erro na sua consulta, por favor contate ao  administrador do sistema para que revise a consulta.</LtxtQueryErr>
+    <LtxtLinkToRep>Enlace a Relatório</LtxtLinkToRep>
+    <LtxtRepNoAccess>Não tem acesso a esse Relátorio</LtxtRepNoAccess>
+    <LtxtDynObjErr>Não se pode visualizar o objeto tipo #{0} com OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Converter Orçamento em Pedido de Venda</LtxtConvQuoteSales>
+    <LtxtAddToWish>Adicionar a lista de desejos</LtxtAddToWish>
+    <LtxtAddToCart>Adicionar à cesta.</LtxtAddToCart>
+    <LtxtConvOrderInv>Converter Pedido de Venda em Nota Fiscal de Saída</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtRefresh>Rafraîchir</DtxtRefresh>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <DtxtExecTime>&lt;--&gt;</DtxtExecTime>
+    <DtxtApprove>&lt;--&gt;</DtxtApprove>
+    <DtxtRestData>&lt;--&gt;</DtxtRestData>
+    <LttlReps>Reports</LttlReps>
+    <LtxtQueryAgain>Reconsulter</LtxtQueryAgain>
+    <LtxtQueryErr>Il y avait un erreur avec votre consultation, S.V.P. contactez-vous l'administrateur du système à fin de vérifier la consultation.</LtxtQueryErr>
+    <LtxtLinkToRep>Lien au report</LtxtLinkToRep>
+    <LtxtRepNoAccess>Vous n\'avez pas l\'accès à ce report</LtxtRepNoAccess>
+    <LtxtDynObjErr>On ne peut pas envisager l'objet de genre #{0} avec OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>&lt;--&gt;</LtxtConvQuoteSales>
+    <LtxtAddToWish>&lt;--&gt;</LtxtAddToWish>
+    <LtxtAddToCart>&lt;--&gt;</LtxtAddToCart>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtRefresh>Aktualisieren</DtxtRefresh>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <DtxtExecTime>Ausführungsdauer</DtxtExecTime>
+    <DtxtApprove>Erlauben</DtxtApprove>
+    <DtxtRestData>Daten Gesperrt</DtxtRestData>
+    <LttlReps>Berichte</LttlReps>
+    <LtxtQueryAgain>Anfrage wiederholen</LtxtQueryAgain>
+    <LtxtQueryErr>Ein Fehler ist bei Ihrer Anfrage aufgetreten, bitte kontaktieren Sie den Systemadministrator um die Anfrage zu prüfen.</LtxtQueryErr>
+    <LtxtLinkToRep>Verknüpfung zu Bericht</LtxtLinkToRep>
+    <LtxtRepNoAccess>Sie haben kein Zugang auf diesen Bericht</LtxtRepNoAccess>
+    <LtxtDynObjErr>Der Objekt Typ #{0} ist mit OLK nicht ansehbar</LtxtDynObjErr>
+    <LtxtConvQuoteSales>&lt;--&gt;</LtxtConvQuoteSales>
+    <LtxtAddToWish>&lt;--&gt;</LtxtAddToWish>
+    <LtxtAddToCart>&lt;--&gt;</LtxtAddToCart>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtRefresh>Освежать</DtxtRefresh>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <DtxtExecTime>Время исполнения</DtxtExecTime>
+    <DtxtApprove>Разрешен</DtxtApprove>
+    <DtxtRestData>&lt;--&gt;</DtxtRestData>
+    <LttlReps>Доклады</LttlReps>
+    <LtxtQueryAgain>Запустите снова</LtxtQueryAgain>
+    <LtxtQueryErr>Создан отчет об ошибках, пожалуйста, свяжитесь с сайтом, чтобы изучить этот вопрос.</LtxtQueryErr>
+    <LtxtLinkToRep>Связь с докладом</LtxtLinkToRep>
+    <LtxtRepNoAccess>Не разрешён вход на доклад управлением</LtxtRepNoAccess>
+    <LtxtDynObjErr>Тип объекта{0}# не поддерживается "יолк</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Изменить предложение цены на заказ клиента</LtxtConvQuoteSales>
+    <LtxtAddToWish>Добавить в список вопросов</LtxtAddToWish>
+    <LtxtAddToCart>Добавить в корзину</LtxtAddToCart>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtRefresh>Obnovit</DtxtRefresh>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <DtxtExecTime>Datum vykonání</DtxtExecTime>
+    <DtxtApprove>Schválit</DtxtApprove>
+    <DtxtRestData>&lt;--&gt;</DtxtRestData>
+    <LttlReps>Reporty</LttlReps>
+    <LtxtQueryAgain>Zkusit znovu dotaz</LtxtQueryAgain>
+    <LtxtQueryErr>Ve vašem dotazu je chyba. Kontaktujte laskavě systémového administrátora, aby dotaz ověřil.</LtxtQueryErr>
+    <LtxtLinkToRep>Odkaz na report</LtxtLinkToRep>
+    <LtxtRepNoAccess>K tomuto reportu nemáte přístup</LtxtRepNoAccess>
+    <LtxtDynObjErr>Objekt typu #{0} nelze zobrazit v OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Převést nabídku do příkazu k prodeji</LtxtConvQuoteSales>
+    <LtxtAddToWish>Přidat do seznamu přání</LtxtAddToWish>
+    <LtxtAddToCart>Přidat do košíku</LtxtAddToCart>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtRefresh>Odśwież</DtxtRefresh>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <DtxtExecTime>Czas wykonania</DtxtExecTime>
+    <DtxtApprove>Zaakceptowany</DtxtApprove>
+    <DtxtRestData>Dane poufne</DtxtRestData>
+    <LttlReps>Raporty</LttlReps>
+    <LtxtQueryAgain>Spróbuj podobnie zapytanie</LtxtQueryAgain>
+    <LtxtQueryErr>Był błąd w twoim zapytaniu, proszę skontaktuj się z administratorem systemu aby sprawdzić zapytanie. </LtxtQueryErr>
+    <LtxtLinkToRep>Link do raportu</LtxtLinkToRep>
+    <LtxtRepNoAccess>Nie masz dostępu do tego raportu</LtxtRepNoAccess>
+    <LtxtDynObjErr>Rodzaj przedmiotu  #{0} jest niewidoczny z OLK</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Zamień wycenę na zlecenie sprzedaży</LtxtConvQuoteSales>
+    <LtxtAddToWish>Dodaj do listy życzeń</LtxtAddToWish>
+    <LtxtAddToCart>Dodaj do koszyka</LtxtAddToCart>
+    <LtxtConvOrderInv>Zamień zamówienie sprzedaży na fakturę</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtRefresh>Obnoviť</DtxtRefresh>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <DtxtExecTime>Doba realizácie</DtxtExecTime>
+    <DtxtApprove>Schváliť</DtxtApprove>
+    <DtxtRestData>Obmedzené údaje</DtxtRestData>
+    <LttlReps>Správy</LttlReps>
+    <LtxtQueryAgain>Pokúste sa zadať dotaz znovu</LtxtQueryAgain>
+    <LtxtQueryErr>Nastala chyba vo Vašej požiadavke, prosím kontaktujte systémového administrátora, aby skontroloval požiadavku.</LtxtQueryErr>
+    <LtxtLinkToRep>Link na správu</LtxtLinkToRep>
+    <LtxtRepNoAccess>Nemáte prístup k tejto správe</LtxtRepNoAccess>
+    <LtxtDynObjErr>Typ objektu #{0} nie je možné zobraziť v OLK.</LtxtDynObjErr>
+    <LtxtConvQuoteSales>Konvertovať Cenovú ponuku na Zákazku odberateľa</LtxtConvQuoteSales>
+    <LtxtAddToWish>Pridať do zoznamu prianí</LtxtAddToWish>
+    <LtxtAddToCart>Pridať do košíka</LtxtAddToCart>
+    <LtxtConvOrderInv>Konvertovať Zákazku odberateľa na Predajnú faktúru</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtRefresh>DtxtRefresh</DtxtRefresh>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <DtxtExecTime>DtxtExecTime</DtxtExecTime>
+    <DtxtApprove>DtxtApprove</DtxtApprove>
+    <DtxtRestData>DtxtRestData</DtxtRestData>
+    <LttlReps>LttlReps</LttlReps>
+    <LtxtQueryAgain>LtxtQueryAgain</LtxtQueryAgain>
+    <LtxtQueryErr>LtxtQueryErr</LtxtQueryErr>
+    <LtxtLinkToRep>LtxtLinkToRep</LtxtLinkToRep>
+    <LtxtRepNoAccess>LtxtRepNoAccess</LtxtRepNoAccess>
+    <LtxtDynObjErr>LtxtDynObjErr</LtxtDynObjErr>
+    <LtxtConvQuoteSales>LtxtConvQuoteSales</LtxtConvQuoteSales>
+    <LtxtAddToWish>LtxtAddToWish</LtxtAddToWish>
+    <LtxtAddToCart>LtxtAddToCart</LtxtAddToCart>
+    <LtxtConvOrderInv>LtxtConvOrderInv</LtxtConvOrderInv>
+  </language>
+</languages>

@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Forms</DtxtForms>
+    <DtxtExpandAll>Expand All</DtxtExpandAll>
+    <DtxtCollapseAll>Collapse All</DtxtCollapseAll>
+    <LtxtFullAut>Full Authorization</LtxtFullAut>
+    <LtxtNoAut>No Authorization</LtxtNoAut>
+    <LtxtAutConf>Authorize Confirmation</LtxtAutConf>
+    <LtxtMaxDiscount>Maximum Discount</LtxtMaxDiscount>
+    <LtxtReports>Reports</LtxtReports>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtAutView>View Object</LtxtAutView>
+    <LtxtAlertDep>This option is dependent on the following options:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>Copy To</LtxtCopyTo>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtBranches>Sucursales</DtxtBranches>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Formularios</DtxtForms>
+    <DtxtExpandAll>Expandir Todos</DtxtExpandAll>
+    <DtxtCollapseAll>Colapsar Todos</DtxtCollapseAll>
+    <LtxtFullAut>Autorización Completa</LtxtFullAut>
+    <LtxtNoAut>Sin Autorización</LtxtNoAut>
+    <LtxtAutConf>Autorizar Confirmación</LtxtAutConf>
+    <LtxtMaxDiscount>Descuento Máximo</LtxtMaxDiscount>
+    <LtxtReports>Reportes</LtxtReports>
+    <LtxtPriceList>Listado de Precios</LtxtPriceList>
+    <LtxtAutView>Ver Objeto</LtxtAutView>
+    <LtxtAlertDep>Esta opción es dependiente de las siguientes opciones:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>Copiar A</LtxtCopyTo>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtBranches>סניפים</DtxtBranches>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>טפסים</DtxtForms>
+    <DtxtExpandAll>הרחב הכל</DtxtExpandAll>
+    <DtxtCollapseAll>הסתר הכל</DtxtCollapseAll>
+    <LtxtFullAut>הרשאה מלאה</LtxtFullAut>
+    <LtxtNoAut>ללא הרשאה</LtxtNoAut>
+    <LtxtAutConf>אישור בקשה</LtxtAutConf>
+    <LtxtMaxDiscount>הנחה מקסימלית</LtxtMaxDiscount>
+    <LtxtReports>דוחות</LtxtReports>
+    <LtxtPriceList>מחירונים</LtxtPriceList>
+    <LtxtAutView>ראה אובייקט (קריאה בלבד)</LtxtAutView>
+    <LtxtAlertDep>האפשרות הנ"ל מותנה ב:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>עתק ל</LtxtCopyTo>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Forms</DtxtForms>
+    <DtxtExpandAll>Expand All</DtxtExpandAll>
+    <DtxtCollapseAll>Collapse All</DtxtCollapseAll>
+    <LtxtFullAut>Full Authorization</LtxtFullAut>
+    <LtxtNoAut>No Authorization</LtxtNoAut>
+    <LtxtAutConf>Authorize Confirmation</LtxtAutConf>
+    <LtxtMaxDiscount>Maximum Discount</LtxtMaxDiscount>
+    <LtxtReports>Reports</LtxtReports>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtAutView>View Object</LtxtAutView>
+    <LtxtAlertDep>This option is dependent on the following options:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>Copy To</LtxtCopyTo>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtBranches>Filiais</DtxtBranches>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtForms>Formulários</DtxtForms>
+    <DtxtExpandAll>Expandir Todos</DtxtExpandAll>
+    <DtxtCollapseAll>Comprimir Todos</DtxtCollapseAll>
+    <LtxtFullAut>Autorização Completa</LtxtFullAut>
+    <LtxtNoAut>Sem Autorização</LtxtNoAut>
+    <LtxtAutConf>Autorizar Confirmação</LtxtAutConf>
+    <LtxtMaxDiscount>Desconto Máximo</LtxtMaxDiscount>
+    <LtxtReports>Relatórios</LtxtReports>
+    <LtxtPriceList>Lista de Preços</LtxtPriceList>
+    <LtxtAutView>Ver Objeto</LtxtAutView>
+    <LtxtAlertDep>Esta opção é dependente das seguintes opções: {0}</LtxtAlertDep>
+    <LtxtCopyTo>Copiar para</LtxtCopyTo>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtBranches>Succursales (Annexes)</DtxtBranches>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <DtxtExpandAll>&lt;--&gt;</DtxtExpandAll>
+    <DtxtCollapseAll>&lt;--&gt;</DtxtCollapseAll>
+    <LtxtFullAut>&lt;--&gt;</LtxtFullAut>
+    <LtxtNoAut>&lt;--&gt;</LtxtNoAut>
+    <LtxtAutConf>&lt;--&gt;</LtxtAutConf>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtReports>Reports</LtxtReports>
+    <LtxtPriceList>Liste des Prix</LtxtPriceList>
+    <LtxtAutView>&lt;--&gt;</LtxtAutView>
+    <LtxtAlertDep>&lt;--&gt;</LtxtAlertDep>
+    <LtxtCopyTo>&lt;--&gt;</LtxtCopyTo>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtBranches>Zweige</DtxtBranches>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Formulare</DtxtForms>
+    <DtxtExpandAll>Alle Vergrössern</DtxtExpandAll>
+    <DtxtCollapseAll>Alle Kollabieren</DtxtCollapseAll>
+    <LtxtFullAut>&lt;--&gt;</LtxtFullAut>
+    <LtxtNoAut>&lt;--&gt;</LtxtNoAut>
+    <LtxtAutConf>&lt;--&gt;</LtxtAutConf>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtReports>Berichte</LtxtReports>
+    <LtxtPriceList>Preislisten</LtxtPriceList>
+    <LtxtAutView>&lt;--&gt;</LtxtAutView>
+    <LtxtAlertDep>&lt;--&gt;</LtxtAlertDep>
+    <LtxtCopyTo>&lt;--&gt;</LtxtCopyTo>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtBranches>Филиалы</DtxtBranches>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Формы</DtxtForms>
+    <DtxtExpandAll>Развернуть все</DtxtExpandAll>
+    <DtxtCollapseAll>Скрыть все</DtxtCollapseAll>
+    <LtxtFullAut>Полное разрешение</LtxtFullAut>
+    <LtxtNoAut>Без разрешения</LtxtNoAut>
+    <LtxtAutConf>Запрос на утверждение</LtxtAutConf>
+    <LtxtMaxDiscount>Максимальная скидка</LtxtMaxDiscount>
+    <LtxtReports>Отчеты</LtxtReports>
+    <LtxtPriceList>Ценники</LtxtPriceList>
+    <LtxtAutView>См. объект (Только чтение)</LtxtAutView>
+    <LtxtAlertDep>Этот параметр зависит от:{0}</LtxtAlertDep>
+    <LtxtCopyTo>Копия в</LtxtCopyTo>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtForms>Formuláře</DtxtForms>
+    <DtxtExpandAll>Rozbalit vše</DtxtExpandAll>
+    <DtxtCollapseAll>Sbalit vše</DtxtCollapseAll>
+    <LtxtFullAut>Plná autorizace</LtxtFullAut>
+    <LtxtNoAut>Žádná autorizace</LtxtNoAut>
+    <LtxtAutConf>Potvrzení autorizace</LtxtAutConf>
+    <LtxtMaxDiscount>Maximální sleva</LtxtMaxDiscount>
+    <LtxtReports>Reporty</LtxtReports>
+    <LtxtPriceList>Ceník</LtxtPriceList>
+    <LtxtAutView>Zobrazit objekt</LtxtAutView>
+    <LtxtAlertDep>Tato volba závisí na těchto možnostech:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>Kopírovat do</LtxtCopyTo>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtBranches>Oddziały</DtxtBranches>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtForms>Formularze</DtxtForms>
+    <DtxtExpandAll>Poszerz wszystko</DtxtExpandAll>
+    <DtxtCollapseAll>Ukryj wszystko</DtxtCollapseAll>
+    <LtxtFullAut>Pełna autoryzacja</LtxtFullAut>
+    <LtxtNoAut>Brak autoryzacji</LtxtNoAut>
+    <LtxtAutConf>Autoryzowane potwierdzenie</LtxtAutConf>
+    <LtxtMaxDiscount>Maksymalny rabat</LtxtMaxDiscount>
+    <LtxtReports>Raporty </LtxtReports>
+    <LtxtPriceList>Cenniki</LtxtPriceList>
+    <LtxtAutView>Pokaż przedmiot</LtxtAutView>
+    <LtxtAlertDep>Ta opcja jest uzależniona od następujących opcji: {0}</LtxtAlertDep>
+    <LtxtCopyTo>Skopiuj do </LtxtCopyTo>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtForms>Formuláre</DtxtForms>
+    <DtxtExpandAll>Rozbaliť všetko</DtxtExpandAll>
+    <DtxtCollapseAll>Zbaliť všetko</DtxtCollapseAll>
+    <LtxtFullAut>Plná autorizácia</LtxtFullAut>
+    <LtxtNoAut>Žiadna autorizácia</LtxtNoAut>
+    <LtxtAutConf>Autorizovať potvrdenie</LtxtAutConf>
+    <LtxtMaxDiscount>Maximálna zľava</LtxtMaxDiscount>
+    <LtxtReports>Výkazy</LtxtReports>
+    <LtxtPriceList>Cenník</LtxtPriceList>
+    <LtxtAutView>Zobraziť objekt</LtxtAutView>
+    <LtxtAlertDep>Táto možnosť závisí od nasledujúcich možností:\n{0}</LtxtAlertDep>
+    <LtxtCopyTo>Skopírovať do</LtxtCopyTo>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtBranches>&lt;--&gt;</DtxtBranches>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <DtxtExpandAll>&lt;--&gt;</DtxtExpandAll>
+    <DtxtCollapseAll>&lt;--&gt;</DtxtCollapseAll>
+    <LtxtFullAut>&lt;--&gt;</LtxtFullAut>
+    <LtxtNoAut>&lt;--&gt;</LtxtNoAut>
+    <LtxtAutConf>&lt;--&gt;</LtxtAutConf>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtReports>&lt;--&gt;</LtxtReports>
+    <LtxtPriceList>&lt;--&gt;</LtxtPriceList>
+    <LtxtAutView>&lt;--&gt;</LtxtAutView>
+    <LtxtAlertDep>&lt;--&gt;</LtxtAlertDep>
+    <LtxtCopyTo>&lt;--&gt;</LtxtCopyTo>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtBranches>DtxtBranches</DtxtBranches>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtForms>DtxtForms</DtxtForms>
+    <DtxtExpandAll>DtxtExpandAll</DtxtExpandAll>
+    <DtxtCollapseAll>DtxtCollapseAll</DtxtCollapseAll>
+    <LtxtFullAut>LtxtFullAut</LtxtFullAut>
+    <LtxtNoAut>LtxtNoAut</LtxtNoAut>
+    <LtxtAutConf>LtxtAutConf</LtxtAutConf>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtReports>LtxtReports</LtxtReports>
+    <LtxtPriceList>LtxtPriceList</LtxtPriceList>
+    <LtxtAutView>LtxtAutView</LtxtAutView>
+    <LtxtAlertDep>LtxtAlertDep</LtxtAlertDep>
+    <LtxtCopyTo>LtxtCopyTo</LtxtCopyTo>
+  </language>
+</languages>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>New Search</LtxtNewSearch>
+    <LsearchDocs>Search</LsearchDocs>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Nueva Búsqueda</LtxtNewSearch>
+    <LsearchDocs>Búsqueda</LsearchDocs>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtNewSearch>חיפוש חדש</LtxtNewSearch>
+    <LsearchDocs>חיפוש</LsearchDocs>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>New Search</LtxtNewSearch>
+    <LsearchDocs>Search</LsearchDocs>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Nova Busca</LtxtNewSearch>
+    <LsearchDocs>Pesquisa</LsearchDocs>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Nouveau recherche</LtxtNewSearch>
+    <LsearchDocs>&lt;--&gt;</LsearchDocs>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Neue Suche</LtxtNewSearch>
+    <LsearchDocs>&lt;--&gt;</LsearchDocs>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Новый поиск</LtxtNewSearch>
+    <LsearchDocs>Поиск</LsearchDocs>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Vyhledávání novinek</LtxtNewSearch>
+    <LsearchDocs>Vyhledávání</LsearchDocs>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Nowe poszukiwanie</LtxtNewSearch>
+    <LsearchDocs>Poszukiwanie</LsearchDocs>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>Nové vyhľadávanie</LtxtNewSearch>
+    <LsearchDocs>Vyhľadávanie</LsearchDocs>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtNewSearch>LtxtNewSearch</LtxtNewSearch>
+    <LsearchDocs>LsearchDocs</LsearchDocs>
+  </language>
+</languages>

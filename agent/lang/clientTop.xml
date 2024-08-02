@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonymous</LtxtAnon>
+    <LtxtClientInterface>{0} Interface</LtxtClientInterface>
+    <LtxtErrItmInv>Item you wish to add has no available inventory</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>You have not been configured to a {0} group.\nAdd a shipping address and ask your agent to assign you to a group.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtContactUs>Contact Us</LtxtContactUs>
+    <LtxtValEMailDomain>Domain does not exist.</LtxtValEMailDomain>
+    <LtxtEMailValidURL>Your E-Mail URL is not valid!</LtxtEMailValidURL>
+    <LtxtCopyright>The total or partial reproduction of this site is prohibited</LtxtCopyright>
+    <LtxtErrMultItmInv>The item(s) you wish to add does not have enough available stock</LtxtErrMultItmInv>
+    <LtxtHide>Hide</LtxtHide>
+    <LtxtShow>Show</LtxtShow>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <LtxtAnon>Anónimo</LtxtAnon>
+    <LtxtClientInterface>Interface {0}</LtxtClientInterface>
+    <LtxtErrItmInv>El artículo que desea agregar no tiene inventario disponible</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>No se le ha configurado a un grupo de {0}.\nAgregue una dirección de envío y consulte con un agente para que le asigne a un grupo.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Mis Deseos </LtxtWishList>
+    <LtxtContactUs>Contáctenos</LtxtContactUs>
+    <LtxtValEMailDomain>El dominio no existe.</LtxtValEMailDomain>
+    <LtxtEMailValidURL>¡El URL de su correo no es válido!</LtxtEMailValidURL>
+    <LtxtCopyright>Prohibida la reproducción total o parcial de este sitio</LtxtCopyright>
+    <LtxtErrMultItmInv>El artículo(s) que desea agregar no tiene(n) inventario disponible</LtxtErrMultItmInv>
+    <LtxtHide>Ocultar</LtxtHide>
+    <LtxtShow>Mostrar</LtxtShow>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <LtxtAnon>אנונימי</LtxtAnon>
+    <LtxtClientInterface>ממשק {0}</LtxtClientInterface>
+    <LtxtErrItmInv>אין מלאי זמין מהפריט שבחרת.</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>לא הוגדר קבוצת של {0}.\nהוסף כתובת משלוח ובדוק עם הסוכן שלך שייך אותך לקבוצה.</LtxtErrNoTaxGrp>
+    <LtxtWishList>רשימת המשאלות שלי</LtxtWishList>
+    <LtxtContactUs>צור קשר</LtxtContactUs>
+    <LtxtValEMailDomain>הדומיין לא קיים!</LtxtValEMailDomain>
+    <LtxtEMailValidURL>ה URL של הדואר האלקטרוני אינו חוקי!</LtxtEMailValidURL>
+    <LtxtCopyright>אסורה עתקה חלקית או כללית של האתר, כל הזכויות שמורות ©</LtxtCopyright>
+    <LtxtErrMultItmInv>אין מלאי זמין מהפריט שבחרת.</LtxtErrMultItmInv>
+    <LtxtHide>הסתר</LtxtHide>
+    <LtxtShow>הצג</LtxtShow>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonymous</LtxtAnon>
+    <LtxtClientInterface>{0} Interface</LtxtClientInterface>
+    <LtxtErrItmInv>Item you wish to add has no available inventory</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>You have not been configured to a {0} group.\nAdd a shipping address and ask your agent to assign you to a group.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtContactUs>Contact Us</LtxtContactUs>
+    <LtxtValEMailDomain>Domain does not exist.</LtxtValEMailDomain>
+    <LtxtEMailValidURL>Your E-Mail URL is not valid!</LtxtEMailValidURL>
+    <LtxtCopyright>The total or partial reproduction of this site is prohibited</LtxtCopyright>
+    <LtxtErrMultItmInv>The item(s) you wish to add does not have enough available stock</LtxtErrMultItmInv>
+    <LtxtHide>Hide</LtxtHide>
+    <LtxtShow>Show</LtxtShow>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <LtxtAnon>Anônimo</LtxtAnon>
+    <LtxtClientInterface>Interfase {0}</LtxtClientInterface>
+    <LtxtErrItmInv>O item que deseja adicionar não tem estoque disponível</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Não se lhe configurou a um grupo de {0}. Adicione um endereço de envio e consulte com um agente para que lhe atribua a um grupo.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Meus Desejos</LtxtWishList>
+    <LtxtContactUs>Contate-nos</LtxtContactUs>
+    <LtxtValEMailDomain>O dominio não existe</LtxtValEMailDomain>
+    <LtxtEMailValidURL>O URL do seu correio não é válido</LtxtEMailValidURL>
+    <LtxtCopyright>Proibida a reprodução total ou parcial deste sitio</LtxtCopyright>
+    <LtxtErrMultItmInv>O Item(s) que desejas adicionar nao possui estoque disponível</LtxtErrMultItmInv>
+    <LtxtHide>Ocultar</LtxtHide>
+    <LtxtShow>Exibir</LtxtShow>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <LtxtAnon>Anonyme</LtxtAnon>
+    <LtxtClientInterface>Interphase {0}</LtxtClientInterface>
+    <LtxtErrItmInv>L'article à ajouter n'a pas d'inventaire disponible</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>On ne vous a pas configuré dans un groupe de {0}. Ajouter une adresse d\'envoie et consultez-vous avec un agent pour qu\'on vous assigne dans un groupe.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Mes données</LtxtWishList>
+    <LtxtContactUs>Contactez nous</LtxtContactUs>
+    <LtxtValEMailDomain>Le domaine n\'éxiste pas</LtxtValEMailDomain>
+    <LtxtEMailValidURL>L\'URL de votre courrier n\'est pas valable</LtxtEMailValidURL>
+    <LtxtCopyright>Il est interdit la reproduction totale ou partielle de ce site</LtxtCopyright>
+    <LtxtErrMultItmInv>&lt;--&gt;</LtxtErrMultItmInv>
+    <LtxtHide>Oculter</LtxtHide>
+    <LtxtShow>&lt;--&gt;</LtxtShow>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonym</LtxtAnon>
+    <LtxtClientInterface>{0} Interface</LtxtClientInterface>
+    <LtxtErrItmInv>Der Artikel den Sie hinzufügen möchten ist nicht vorhanden</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Sie wurden noch keiner {0} Gruppe zugeordnet. Geben Sie eine Versandadresse an und fragen Sie Ihren Agent Sie einer Gruppe zuzuordnen.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Wunschliste</LtxtWishList>
+    <LtxtContactUs>Kontaktieren Sie Uns</LtxtContactUs>
+    <LtxtValEMailDomain>Domäne existiert nicht.</LtxtValEMailDomain>
+    <LtxtEMailValidURL>Ihr E-Mail URL ist nicht gültig</LtxtEMailValidURL>
+    <LtxtCopyright>Eine teil-oder-ganz Nachbildung dieser Seite ist verboten</LtxtCopyright>
+    <LtxtErrMultItmInv>&lt;--&gt;</LtxtErrMultItmInv>
+    <LtxtHide>&lt;--&gt;</LtxtHide>
+    <LtxtShow>&lt;--&gt;</LtxtShow>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <LtxtAnon>Анонимный</LtxtAnon>
+    <LtxtClientInterface>Интерфейс {0}</LtxtClientInterface>
+    <LtxtErrItmInv>На складе не имеется товаров из деталей, которые вы  выбрали.</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Не определены группы {0}.Добавить адрес доставки и свяжитесь с  агентом, относящимся к вашей группе.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Мой список пожеланий</LtxtWishList>
+    <LtxtContactUs>Свяжитесь с нами</LtxtContactUs>
+    <LtxtValEMailDomain>Домен не существует!</LtxtValEMailDomain>
+    <LtxtEMailValidURL>URL  Электронная почта является недействительной!</LtxtEMailValidURL>
+    <LtxtCopyright>Общее или частичное копирование сайта запрещено. Все права защищены©</LtxtCopyright>
+    <LtxtErrMultItmInv>Нет на складе  товаров из деталей, которые вы  выбрали.</LtxtErrMultItmInv>
+    <LtxtHide>&lt;--&gt;</LtxtHide>
+    <LtxtShow>&lt;--&gt;</LtxtShow>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonymní</LtxtAnon>
+    <LtxtClientInterface>{0} Rozhraní</LtxtClientInterface>
+    <LtxtErrItmInv>Položky, které si přejete přidat, nemají žádné zásoby</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Nebyl/a jste nakonfigurován/a pro skupinu {0}.\nPřidejte dodací adresu a požádejte Vašeho agenta, aby Vás přiřadil do skupiny.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Seznam přání</LtxtWishList>
+    <LtxtContactUs>Kontaktujte nás</LtxtContactUs>
+    <LtxtValEMailDomain>Doména neexistuje</LtxtValEMailDomain>
+    <LtxtEMailValidURL>Vaše e-mailová adresa není platná!</LtxtEMailValidURL>
+    <LtxtCopyright>Úplná nebo částečná reprodukce těchto stránek je zakázána</LtxtCopyright>
+    <LtxtErrMultItmInv>Položka(y), kterou si přijete přidat, nemá zásoby v dostatečné výši</LtxtErrMultItmInv>
+    <LtxtHide>&lt;--&gt;</LtxtHide>
+    <LtxtShow>&lt;--&gt;</LtxtShow>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonimowy</LtxtAnon>
+    <LtxtClientInterface>{0} interface</LtxtClientInterface>
+    <LtxtErrItmInv>Pozycja, którą chcesz dodać nie ma dostępnego zapasu</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Nie zostałeś skonfigurowany do {0} grupy. Dodaj adres do wysyłki i poproś swojego sprzedawcę by przydzielił Cię do grupy. </LtxtErrNoTaxGrp>
+    <LtxtWishList>Lista życzeń </LtxtWishList>
+    <LtxtContactUs>Skontaktuj się z nami</LtxtContactUs>
+    <LtxtValEMailDomain>Domena nie istnieje</LtxtValEMailDomain>
+    <LtxtEMailValidURL>URL twojego emaila jest niepoprawny!</LtxtEMailValidURL>
+    <LtxtCopyright>Nie wolno kopiować tej strony całościowo czy częściowo. Wszelkie prawa zastrzeżone </LtxtCopyright>
+    <LtxtErrMultItmInv>Pozycje, które chcesz dodać nie mają dostępnego zapasu</LtxtErrMultItmInv>
+    <LtxtHide>Ukryj</LtxtHide>
+    <LtxtShow>Pokaż</LtxtShow>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <LtxtAnon>Anonymné</LtxtAnon>
+    <LtxtClientInterface>Rozhranie {0}</LtxtClientInterface>
+    <LtxtErrItmInv>Položka, ktorú si prajete pridať nemá žiaden dostupný inventár</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>Neboli ste nakonfigurovaní na skupinu {0}\nPridajte doručovaciu adresu a požiadajte svojho agenta, aby Vás priradil do skupiny.</LtxtErrNoTaxGrp>
+    <LtxtWishList>Zoznam prianí</LtxtWishList>
+    <LtxtContactUs>Kontaktujte nás</LtxtContactUs>
+    <LtxtValEMailDomain>Doména neexistuje.</LtxtValEMailDomain>
+    <LtxtEMailValidURL>Vaša E-mailová URL nie je platná!</LtxtEMailValidURL>
+    <LtxtCopyright>Celková alebo čiastočná reprodukcia tejto stránky je zakázaná</LtxtCopyright>
+    <LtxtErrMultItmInv>Položka(y), ktorú(é) si prajete pridať nemá dosť dostupných zásob</LtxtErrMultItmInv>
+    <LtxtHide>Ukryť</LtxtHide>
+    <LtxtShow>Zobraziť</LtxtShow>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <LtxtAnon>LtxtAnon</LtxtAnon>
+    <LtxtClientInterface>LtxtClientInterface</LtxtClientInterface>
+    <LtxtErrItmInv>LtxtErrItmInv</LtxtErrItmInv>
+    <LtxtErrNoTaxGrp>LtxtErrNoTaxGrp</LtxtErrNoTaxGrp>
+    <LtxtWishList>LtxtWishList</LtxtWishList>
+    <LtxtContactUs>LtxtContactUs</LtxtContactUs>
+    <LtxtValEMailDomain>LtxtValEMailDomain</LtxtValEMailDomain>
+    <LtxtEMailValidURL>LtxtEMailValidURL</LtxtEMailValidURL>
+    <LtxtCopyright>LtxtCopyright</LtxtCopyright>
+    <LtxtErrMultItmInv>LtxtErrMultItmInv</LtxtErrMultItmInv>
+    <LtxtHide>LtxtHide</LtxtHide>
+    <LtxtShow>LtxtShow</LtxtShow>
+  </language>
+</languages>

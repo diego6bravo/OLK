@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Retry</DtxtRetry>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtActAddOK>Activity added successfully&lt;br&gt;
+#{0}</LtxtActAddOK>
+    <LtxtWaitForConf>Activity #{0} added successfully&lt;br&gt;
+Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddAct>Error in adding activity</LtxtErrAddAct>
+    <LtxtActUpdOK>Activity #{0} was updated successfully</LtxtActUpdOK>
+    <LtxtOpenAct>Open Activity</LtxtOpenAct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <LtxtActivityConf>Confirmación de Actividad</LtxtActivityConf>
+    <LtxtActAddOK>Actividad agregada con éxito&lt;br&gt;
+Nº{0}</LtxtActAddOK>
+    <LtxtWaitForConf>Actividad #{0} agregada con éxito&lt;br&gt;
+Esperando confirmación</LtxtWaitForConf>
+    <LtxtErrAddAct>Error al agregar actividad</LtxtErrAddAct>
+    <LtxtActUpdOK>Actividad #{0} fue actualizada con éxito</LtxtActUpdOK>
+    <LtxtOpenAct>Abrir Actividad</LtxtOpenAct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <LtxtActivityConf>אישור פעילות</LtxtActivityConf>
+    <LtxtActAddOK>פעילות {0}# הוספה בהצלחה</LtxtActAddOK>
+    <LtxtWaitForConf>פעילות {0}# הוספה בהצלחה&lt;BR&gt;
+ממתין לאישור</LtxtWaitForConf>
+    <LtxtErrAddAct>תקלה בהוספת פעילות</LtxtErrAddAct>
+    <LtxtActUpdOK>פעילות {0}# עודכנה בהצלחה</LtxtActUpdOK>
+    <LtxtOpenAct>פתח פעילות</LtxtOpenAct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Retry</DtxtRetry>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtActAddOK>Activity added successfully&lt;br&gt;
+#{0}</LtxtActAddOK>
+    <LtxtWaitForConf>Activity #{0} added successfully&lt;br&gt;
+Waiting for confirmation</LtxtWaitForConf>
+    <LtxtErrAddAct>Error in adding activity</LtxtErrAddAct>
+    <LtxtActUpdOK>Activity #{0} was updated successfully</LtxtActUpdOK>
+    <LtxtOpenAct>Open Activity</LtxtOpenAct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <LtxtActivityConf>Confirmação de Atividade</LtxtActivityConf>
+    <LtxtActAddOK>Atividade adicionada com sucesso&lt;br&gt;
+Nº {0}</LtxtActAddOK>
+    <LtxtWaitForConf>Atividade Nº {0} adicionada com sucesso&lt;br&gt; 
+Aguardando cofirmação</LtxtWaitForConf>
+    <LtxtErrAddAct>Erro ao adicionar a atividade</LtxtErrAddAct>
+    <LtxtActUpdOK>Atividade Nº {0} foi atualizada com sucesso</LtxtActUpdOK>
+    <LtxtOpenAct>Abrir Atividade</LtxtOpenAct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtActAddOK>&lt;--&gt;</LtxtActAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddAct>&lt;--&gt;</LtxtErrAddAct>
+    <LtxtActUpdOK>&lt;--&gt;</LtxtActUpdOK>
+    <LtxtOpenAct>&lt;--&gt;</LtxtOpenAct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtActAddOK>&lt;--&gt;</LtxtActAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddAct>&lt;--&gt;</LtxtErrAddAct>
+    <LtxtActUpdOK>&lt;--&gt;</LtxtActUpdOK>
+    <LtxtOpenAct>&lt;--&gt;</LtxtOpenAct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtActAddOK>&lt;--&gt;</LtxtActAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddAct>&lt;--&gt;</LtxtErrAddAct>
+    <LtxtActUpdOK>&lt;--&gt;</LtxtActUpdOK>
+    <LtxtOpenAct>&lt;--&gt;</LtxtOpenAct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <LtxtActivityConf>Potvrzení aktivity</LtxtActivityConf>
+    <LtxtActAddOK>Aktivita úspěšně vytvořena&lt;br&gt;
+#{0}</LtxtActAddOK>
+    <LtxtWaitForConf>Aktivita #{0} úspěšně vytvořena&lt;br&gt;
+Čeká se na potvrzení</LtxtWaitForConf>
+    <LtxtErrAddAct>Chyba při vytváření aktivity</LtxtErrAddAct>
+    <LtxtActUpdOK>Aktivita #{0} byla úspěšně aktualizována</LtxtActUpdOK>
+    <LtxtOpenAct>Otevřít aktivitu</LtxtOpenAct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <LtxtActivityConf>Potwierdzenie działania</LtxtActivityConf>
+    <LtxtActAddOK>Działanie zostało dodane z sukcesem&lt;br&gt;  #{0}</LtxtActAddOK>
+    <LtxtWaitForConf>Działanie #{0} zostało dodane z sukcesem&lt;br&gt;  Oczekuje na potwierdzenie</LtxtWaitForConf>
+    <LtxtErrAddAct>Błąd przy dodawaniu działania</LtxtErrAddAct>
+    <LtxtActUpdOK>Działanie #{0} zostało uaktualnione z sukcesem</LtxtActUpdOK>
+    <LtxtOpenAct>Otwórz działanie</LtxtOpenAct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <LtxtActivityConf>Potvrdenie aktivity</LtxtActivityConf>
+    <LtxtActAddOK>Aktivita pridaná úspešne</LtxtActAddOK>
+    <LtxtWaitForConf>Aktivita #{0} pridaná úspešne&lt;br&gt;
+Čaká na potvrdenie</LtxtWaitForConf>
+    <LtxtErrAddAct>Chyba v pridaní aktivity</LtxtErrAddAct>
+    <LtxtActUpdOK>Aktivita #{0} bola aktualizovaná úspešne</LtxtActUpdOK>
+    <LtxtOpenAct>Otvorená aktivita</LtxtOpenAct>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>&lt;--&gt;</DtxtRetry>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtActAddOK>&lt;--&gt;</LtxtActAddOK>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtErrAddAct>&lt;--&gt;</LtxtErrAddAct>
+    <LtxtActUpdOK>&lt;--&gt;</LtxtActUpdOK>
+    <LtxtOpenAct>&lt;--&gt;</LtxtOpenAct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <LtxtActivityConf>LtxtActivityConf</LtxtActivityConf>
+    <LtxtActAddOK>LtxtActAddOK</LtxtActAddOK>
+    <LtxtWaitForConf>LtxtWaitForConf</LtxtWaitForConf>
+    <LtxtErrAddAct>LtxtErrAddAct</LtxtErrAddAct>
+    <LtxtActUpdOK>LtxtActUpdOK</LtxtActUpdOK>
+    <LtxtOpenAct>LtxtOpenAct</LtxtOpenAct>
+  </language>
+</languages>

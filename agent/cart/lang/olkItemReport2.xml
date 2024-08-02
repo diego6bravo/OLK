@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtQty>Qty.</LtxtQty>
+    <LtxtSalMet>Sales Unit</LtxtSalMet>
+    <LttlLastSal>Item Report - Latest Sales</LttlLastSal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtBack>Regresar</DtxtBack>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtQty>Cant.</LtxtQty>
+    <LtxtSalMet>Un. Venta</LtxtSalMet>
+    <LttlLastSal>Reporte de Artículos - Últimas Ventas</LttlLastSal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtBack>חזור</DtxtBack>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtQty>כמות</LtxtQty>
+    <LtxtSalMet>יח' מכירה</LtxtSalMet>
+    <LttlLastSal>דוח פריטים - מכירות אחרונות</LttlLastSal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtQty>Qty.</LtxtQty>
+    <LtxtSalMet>Sales Unit</LtxtSalMet>
+    <LttlLastSal>Item Report - Latest Sales</LttlLastSal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtBack>Retornar</DtxtBack>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LtxtQty>Quantidade</LtxtQty>
+    <LtxtSalMet>Un. Venda</LtxtSalMet>
+    <LttlLastSal>Relatório de Itens - Últimas Vendas</LttlLastSal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtBack>Revenir</DtxtBack>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtQty>Quantité</LtxtQty>
+    <LtxtSalMet>Unité de vente</LtxtSalMet>
+    <LttlLastSal>Report des articles - Dernières ventes</LttlLastSal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtBack>Zurück</DtxtBack>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtQty>Menge</LtxtQty>
+    <LtxtSalMet>Verkaufseinheit</LtxtSalMet>
+    <LttlLastSal>Artikelbericht - Letzte Verkäufe</LttlLastSal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtBack>Назад</DtxtBack>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtQty>Количество</LtxtQty>
+    <LtxtSalMet>Единичная продажа</LtxtSalMet>
+    <LttlLastSal>Доклад деталей-последних продаж</LttlLastSal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Zpět</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtQty>Množ.</LtxtQty>
+    <LtxtSalMet>Prodejní jednotka</LtxtSalMet>
+    <LttlLastSal>Položkový report - poslední prodeje</LttlLastSal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Wróć</DtxtBack>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtQty>Ilość</LtxtQty>
+    <LtxtSalMet>Jednostka sprzedaży</LtxtSalMet>
+    <LttlLastSal>Raport pozycji - ostatnia sprzedaż </LttlLastSal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Späť</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtQty>Množstvo</LtxtQty>
+    <LtxtSalMet>Predajná jednotka</LtxtSalMet>
+    <LttlLastSal>Správa o položke - Posledné predaje</LttlLastSal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtBack>DtxtBack</DtxtBack>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtQty>LtxtQty</LtxtQty>
+    <LtxtSalMet>LtxtSalMet</LtxtSalMet>
+    <LttlLastSal>LttlLastSal</LttlLastSal>
+  </language>
+</languages>

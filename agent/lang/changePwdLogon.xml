@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtPhone>Phone</DtxtPhone>
+    <LtxtChangePwd>Change Password</LtxtChangePwd>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtConfPwd>Password Confirmation</LtxtConfPwd>
+    <LtxtChars>Characters</LtxtChars>
+    <LtxtValPwdChars>Password must be between 5 and 20 characters</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>The password confirmation does not match the new password</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <LtxtChangePwd>Cambiar Contraseña</LtxtChangePwd>
+    <LtxtNewPwd>Contraseña Nueva</LtxtNewPwd>
+    <LtxtConfPwd>Confirmar Contraseña</LtxtConfPwd>
+    <LtxtChars>Caracteres</LtxtChars>
+    <LtxtValPwdChars>Contraseña debe ser entre 5 y 20 caracteres</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>La contraseña de confirmación no concuerda con la nueva contraseña</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <LtxtChangePwd>שנה סיסמה</LtxtChangePwd>
+    <LtxtNewPwd>סיסמה חדשה</LtxtNewPwd>
+    <LtxtConfPwd>אישור סיסמה</LtxtConfPwd>
+    <LtxtChars>תווים</LtxtChars>
+    <LtxtValPwdChars>הסיסמה חייבת להיות בין 5 ל20 תווים</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>סיסמת האישור לא תואמת לסיסמה החדשה</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtPhone>Phone</DtxtPhone>
+    <LtxtChangePwd>Change Password</LtxtChangePwd>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtConfPwd>Password Confirmation</LtxtConfPwd>
+    <LtxtChars>Characters</LtxtChars>
+    <LtxtValPwdChars>Password must be between 5 and 20 characters</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>The password confirmation does not match the new password</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtCmp>Companhia</DtxtCmp>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <LtxtChangePwd>Modificar Senha</LtxtChangePwd>
+    <LtxtNewPwd>Senha Nova</LtxtNewPwd>
+    <LtxtConfPwd>Confirmar Senha</LtxtConfPwd>
+    <LtxtChars>Caracteres</LtxtChars>
+    <LtxtValPwdChars>A Senha deve ter entre 5 e 20 caracteres</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>A senha de confirmação não confere com a nova senha</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <LtxtChangePwd>&lt;--&gt;</LtxtChangePwd>
+    <LtxtNewPwd>Nouveau Mot de passe </LtxtNewPwd>
+    <LtxtConfPwd>Confirmer le mot de passe</LtxtConfPwd>
+    <LtxtChars>Caractères</LtxtChars>
+    <LtxtValPwdChars>&lt;--&gt;</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Le mot de passe de confirmation n'acquiesce pas au nouveau mot de passe</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtChangePwd>&lt;--&gt;</LtxtChangePwd>
+    <LtxtNewPwd>Neues Kennwort</LtxtNewPwd>
+    <LtxtConfPwd>Kennwort Bestätigung</LtxtConfPwd>
+    <LtxtChars>Zeichen</LtxtChars>
+    <LtxtValPwdChars>&lt;--&gt;</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Bestätigung des Kennworts stimmt nicht mit dem neu-eingegebenen Kennwort überein</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <LtxtChangePwd>Изменение пароля</LtxtChangePwd>
+    <LtxtNewPwd>Новый пароль</LtxtNewPwd>
+    <LtxtConfPwd>Подтверждение пароля</LtxtConfPwd>
+    <LtxtChars>Персонажи</LtxtChars>
+    <LtxtValPwdChars>Пароль должен быть между 5 и 20 знаков</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Подтверждение пароля не совпадает с новым паролем</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtChangePwd>Změnit heslo</LtxtChangePwd>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtConfPwd>Potvrzení hesla</LtxtConfPwd>
+    <LtxtChars>Znaků</LtxtChars>
+    <LtxtValPwdChars>Heslo musí mít minimálně 5 a maximálně 20 znaků</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Potvrzení hesla neodpovídá novému heslu</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtChangePwd>Zmień hasło</LtxtChangePwd>
+    <LtxtNewPwd>Nowe hasło</LtxtNewPwd>
+    <LtxtConfPwd>Potwierdzenie hasła</LtxtConfPwd>
+    <LtxtChars>Znaki</LtxtChars>
+    <LtxtValPwdChars>Hasło musi składać się z od 5 do 20 znaków</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Potwierdzenie hasła nie odpowiada twojemu nowemu hasłu</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <LtxtChangePwd>Zmeniť heslo</LtxtChangePwd>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtConfPwd>Potvrdenie hesla</LtxtConfPwd>
+    <LtxtChars>Znaky</LtxtChars>
+    <LtxtValPwdChars>Heslo musí byť medzi 5 a 20 znakmi</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>Potvrdenie hesla sa nezhoduje s novým heslom</LtxtValNoMatchNewPwd>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <LtxtChangePwd>LtxtChangePwd</LtxtChangePwd>
+    <LtxtNewPwd>LtxtNewPwd</LtxtNewPwd>
+    <LtxtConfPwd>LtxtConfPwd</LtxtConfPwd>
+    <LtxtChars>LtxtChars</LtxtChars>
+    <LtxtValPwdChars>LtxtValPwdChars</LtxtValPwdChars>
+    <LtxtValNoMatchNewPwd>LtxtValNoMatchNewPwd</LtxtValNoMatchNewPwd>
+  </language>
+</languages>

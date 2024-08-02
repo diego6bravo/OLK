@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtContinue>Continue</DtxtContinue>
+    <LtxtFlowControl>Flow Control</LtxtFlowControl>
+    <LaltConf>Query -  Confirm that you agree</LaltConf>
+    <LaltError>Error - Please correct to continue</LaltError>
+    <LaltFlow>Flow - Missing super user authorization</LaltFlow>
+    <LtxtConfFlow>Your request was sent successfully and it\'ll be processed by an authorized agent.</LtxtConfFlow>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtContinue>Continuar</DtxtContinue>
+    <LtxtFlowControl>Control de Flujo</LtxtFlowControl>
+    <LaltConf>Consulta - Confirme que está de acuerdo</LaltConf>
+    <LaltError>Error - Debe corregirlo para poder continuar</LaltError>
+    <LaltFlow>Flujo - Falta autorización de SuperUsuario</LaltFlow>
+    <LtxtConfFlow>Su solicitud ha sido enviada con éxito y será procesada por un agente autorizado.</LtxtConfFlow>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtContinue>המשך</DtxtContinue>
+    <LtxtFlowControl>בקרת תזרים</LtxtFlowControl>
+    <LaltConf>שאילתא -  אשר אם אתה מסכים</LaltConf>
+    <LaltError>תקלה - יש לתקן ע"מ להמשיך</LaltError>
+    <LaltFlow>תזרים - צריך אישור של משתמש בכיר</LaltFlow>
+    <LtxtConfFlow>בקשתך נשלחה בהצלחה ותטופל ע"י סוכן מוסמך.</LtxtConfFlow>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtContinue>Continue</DtxtContinue>
+    <LtxtFlowControl>Flow Control</LtxtFlowControl>
+    <LaltConf>Query -  Confirm that you agree</LaltConf>
+    <LaltError>Error - Please correct to continue</LaltError>
+    <LaltFlow>Flow - Missing super user authorization</LaltFlow>
+    <LtxtConfFlow>Your request was sent successfully and it\'ll be processed by an authorized agent.</LtxtConfFlow>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtContinue>Continuar</DtxtContinue>
+    <LtxtFlowControl>Controle de Fluxo</LtxtFlowControl>
+    <LaltConf>Consulta - Confirma ?</LaltConf>
+    <LaltError>Erro - Deve corrigir-se  para poder continuar</LaltError>
+    <LaltFlow>Fluxo - Falta autorização do SuperUsuário</LaltFlow>
+    <LtxtConfFlow>O seu pedido foi enviado com sucesso e será processada por um vendedor autorizado.</LtxtConfFlow>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtContinue>Continuer</DtxtContinue>
+    <LtxtFlowControl>&lt;--&gt;</LtxtFlowControl>
+    <LaltConf>Consultation - Confirmez-vous que vous êtes d\'accord</LaltConf>
+    <LaltError>Erreur - Devez-vous le corriger avant de continuer</LaltError>
+    <LaltFlow>Flux - Il manque l\'autorisation de SuperUtilisateur</LaltFlow>
+    <LtxtConfFlow>&lt;--&gt;</LtxtConfFlow>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtContinue>Weiter</DtxtContinue>
+    <LtxtFlowControl>&lt;--&gt;</LtxtFlowControl>
+    <LaltConf>Anfrage - Bestätigen das Sie zustimmen</LaltConf>
+    <LaltError>Erreur - Devez-vous le corriger avant de continuer</LaltError>
+    <LaltFlow>Fluss - Es fehlt die Berechtigung des Superbenutzers</LaltFlow>
+    <LtxtConfFlow>&lt;--&gt;</LtxtConfFlow>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtContinue>Продолжить</DtxtContinue>
+    <LtxtFlowControl>Контроль потоков</LtxtFlowControl>
+    <LaltConf>Запрос - разрешение если вы согласны</LaltConf>
+    <LaltError>Неисправность - должна быть исправлена, чтобы продолжить</LaltError>
+    <LaltFlow>Потоки - необходимость утверждения старшим пользователем</LaltFlow>
+    <LtxtConfFlow>Ваша просьба успешно отправленна и будет обслужена  нашим агентом</LtxtConfFlow>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtContinue>Pokračovat</DtxtContinue>
+    <LtxtFlowControl>Kontrola toku</LtxtFlowControl>
+    <LaltConf>Dotaz - potvrďte, že souhlasíte</LaltConf>
+    <LaltError>Chyba - pro pokračování opravte</LaltError>
+    <LaltFlow>Tok - chybí autorizace nadřazeného uživatele</LaltFlow>
+    <LtxtConfFlow>Váš požadavek byl úspěšně odeslán a bude zpracován oprávněným agentem</LtxtConfFlow>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtContinue>Kontynuuj</DtxtContinue>
+    <LtxtFlowControl>Kontrola przepływów</LtxtFlowControl>
+    <LaltConf>Zapytanie - potwierdź, że się zgadzasz</LaltConf>
+    <LaltError>Błąd - popraw by kontynuować</LaltError>
+    <LaltFlow>Przepływ - brakuje autoryzacji Super użytkownika</LaltFlow>
+    <LtxtConfFlow>Twoja prośba została wysłana z sukcesem i będzie rozpatrzona przez autoryzowanego sprzedawcę. </LtxtConfFlow>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtContinue>Pokračovať</DtxtContinue>
+    <LtxtFlowControl>Riadenie toku</LtxtFlowControl>
+    <LaltConf>Dotaz - Potvrďte, že súhlasíte</LaltConf>
+    <LaltError>Chyba - Prosím opravte, aby ste mohli pokračovať</LaltError>
+    <LaltFlow>Tok - Chýbajúca autorizácia superužívateľa</LaltFlow>
+    <LtxtConfFlow>Vaša požiadavka bola zaslaná úspešne a bude spracovaná autorizovaným agentom.</LtxtConfFlow>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtContinue>DtxtContinue</DtxtContinue>
+    <LtxtFlowControl>LtxtFlowControl</LtxtFlowControl>
+    <LaltConf>LaltConf</LaltConf>
+    <LaltError>LaltError</LaltError>
+    <LaltFlow>LaltFlow</LaltFlow>
+    <LtxtConfFlow>LtxtConfFlow</LtxtConfFlow>
+  </language>
+</languages>

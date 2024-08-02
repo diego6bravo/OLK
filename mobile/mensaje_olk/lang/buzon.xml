@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtSubject>Subject</DtxtSubject>
+    <LtxtInbox>Inbox</LtxtInbox>
+    <LtxtNoMsg>You have no messages on your inbox.</LtxtNoMsg>
+    <LtxtOLKMsg>Message to OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Message to SBO</LtxtSBOMsg>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtSelDelMsg>You must select the messages you want to delete</LtxtSelDelMsg>
+    <LtxtConfCancel>Are you sure you want to delete this message(s)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <LtxtInbox>Buzón de Correo</LtxtInbox>
+    <LtxtNoMsg>No tiene mensajes en su buzón.</LtxtNoMsg>
+    <LtxtOLKMsg>Mensaje a OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Mensaje a SBO</LtxtSBOMsg>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtSelDelMsg>Debe seleccionar los mensajes que desea eliminar</LtxtSelDelMsg>
+    <LtxtConfCancel>¿Está seguro que desea eliminar este(os) mensaje(s)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtSubject>נושא</DtxtSubject>
+    <LtxtInbox>דואר נכנס</LtxtInbox>
+    <LtxtNoMsg>אין הודעות בתא הדואר שלך</LtxtNoMsg>
+    <LtxtOLKMsg>שלח הודעה לאולק</LtxtOLKMsg>
+    <LtxtSBOMsg>שלח הודעה לסאפ</LtxtSBOMsg>
+    <LtxtDelete>מחק</LtxtDelete>
+    <LtxtSelDelMsg>יש לבחור את ההודעה שאת\ה מעוניין למחוק</LtxtSelDelMsg>
+    <LtxtConfCancel>האם למחוק הודעה\ות?</LtxtConfCancel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>User</DtxtUser>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtSubject>Subject</DtxtSubject>
+    <LtxtInbox>Inbox</LtxtInbox>
+    <LtxtNoMsg>You have no messages on your inbox.</LtxtNoMsg>
+    <LtxtOLKMsg>Message to OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Message to SBO</LtxtSBOMsg>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtSelDelMsg>You must select the messages you want to delete</LtxtSelDelMsg>
+    <LtxtConfCancel>Are you sure you want to delete this message(s)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <LtxtInbox>Caixa de Entrada</LtxtInbox>
+    <LtxtNoMsg>Não existem mensagens em sua caixa de entrada</LtxtNoMsg>
+    <LtxtOLKMsg>Mensagem para OnlineKit</LtxtOLKMsg>
+    <LtxtSBOMsg>Mensagem para SBO</LtxtSBOMsg>
+    <LtxtDelete>Excluir</LtxtDelete>
+    <LtxtSelDelMsg>Você deve selecionar as mensagens que deseja excluir</LtxtSelDelMsg>
+    <LtxtConfCancel>Você tem certeza que deseja excluir esta(s) mensagem(s)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <LtxtInbox>&lt;--&gt;</LtxtInbox>
+    <LtxtNoMsg>&lt;--&gt;</LtxtNoMsg>
+    <LtxtOLKMsg>&lt;--&gt;</LtxtOLKMsg>
+    <LtxtSBOMsg>&lt;--&gt;</LtxtSBOMsg>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtSelDelMsg>&lt;--&gt;</LtxtSelDelMsg>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtSubject>Fach</DtxtSubject>
+    <LtxtInbox>&lt;--&gt;</LtxtInbox>
+    <LtxtNoMsg>&lt;--&gt;</LtxtNoMsg>
+    <LtxtOLKMsg>&lt;--&gt;</LtxtOLKMsg>
+    <LtxtSBOMsg>&lt;--&gt;</LtxtSBOMsg>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtSelDelMsg>&lt;--&gt;</LtxtSelDelMsg>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <LtxtInbox>&lt;--&gt;</LtxtInbox>
+    <LtxtNoMsg>&lt;--&gt;</LtxtNoMsg>
+    <LtxtOLKMsg>&lt;--&gt;</LtxtOLKMsg>
+    <LtxtSBOMsg>&lt;--&gt;</LtxtSBOMsg>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtSelDelMsg>&lt;--&gt;</LtxtSelDelMsg>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <LtxtInbox>Schránka</LtxtInbox>
+    <LtxtNoMsg>Nemáte žádné zprávy ve Vaší schránce.</LtxtNoMsg>
+    <LtxtOLKMsg>Zpráva pro OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Zpráva pro SBO</LtxtSBOMsg>
+    <LtxtDelete>Vymazat</LtxtDelete>
+    <LtxtSelDelMsg>Musíte vybrazt zprávu, kterou chcete vymazat</LtxtSelDelMsg>
+    <LtxtConfCancel>Jste si jistý/á, že chcete tuto zprávu(y) vymazat?</LtxtConfCancel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <LtxtInbox>Skrzynka</LtxtInbox>
+    <LtxtNoMsg>Nie masz żadnych wiadomości w skrzynce</LtxtNoMsg>
+    <LtxtOLKMsg>Wiadomości do OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Wiadomości do SBO</LtxtSBOMsg>
+    <LtxtDelete>Usuń </LtxtDelete>
+    <LtxtSelDelMsg>Musisz wybrać wiadomość, która chcesz skasować</LtxtSelDelMsg>
+    <LtxtConfCancel>Czy jesteś pewien, że chcesz skasować tę wiadomość (wiadomości)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <LtxtInbox>Doručená pošta</LtxtInbox>
+    <LtxtNoMsg>Nemáte žiadne správy vo Vašej Doručenej pošte.</LtxtNoMsg>
+    <LtxtOLKMsg>Správa pre OLK</LtxtOLKMsg>
+    <LtxtSBOMsg>Správa pre SBO</LtxtSBOMsg>
+    <LtxtDelete>Zmazať</LtxtDelete>
+    <LtxtSelDelMsg>Musíte vybrať správy, ktoré chcete vymazať</LtxtSelDelMsg>
+    <LtxtConfCancel>Ste si istí, že chcete zmazať túto správu(y)?</LtxtConfCancel>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtSubject>&lt;--&gt;</DtxtSubject>
+    <LtxtInbox>&lt;--&gt;</LtxtInbox>
+    <LtxtNoMsg>&lt;--&gt;</LtxtNoMsg>
+    <LtxtOLKMsg>&lt;--&gt;</LtxtOLKMsg>
+    <LtxtSBOMsg>&lt;--&gt;</LtxtSBOMsg>
+    <LtxtDelete>&lt;--&gt;</LtxtDelete>
+    <LtxtSelDelMsg>&lt;--&gt;</LtxtSelDelMsg>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <LtxtInbox>LtxtInbox</LtxtInbox>
+    <LtxtNoMsg>LtxtNoMsg</LtxtNoMsg>
+    <LtxtOLKMsg>LtxtOLKMsg</LtxtOLKMsg>
+    <LtxtSBOMsg>LtxtSBOMsg</LtxtSBOMsg>
+    <LtxtDelete>LtxtDelete</LtxtDelete>
+    <LtxtSelDelMsg>LtxtSelDelMsg</LtxtSelDelMsg>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+  </language>
+</languages>

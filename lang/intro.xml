@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; Offers there clients a new and improved tool . Offering the employees and the administrators the opportunity to offer more details of their inventory and ecommerce store via web. &lt;b&gt;OLK&lt;/b&gt; allows you to create prices, item codes, catalogs, reports, list images and many more features. &lt;b&gt;OLK, The Online Kit&lt;/b&gt;. </LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRATION</LtxtAdmin>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; ofrece a sus clientes una nueva herramienta gerencial y administrativa de trabajo, el &lt;b&gt;&lt;i&gt;OnLineKit&lt;/i&gt;&lt;/b&gt; (&lt;b&gt;OLK&lt;/b&gt;), la cual le permite detallar su inventario vía Internet; facilitando la creación de listas de precios, existencias, detalles, códigos y hasta catálogos con imágenes.</LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRACION</LtxtAdmin>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>חברת&lt;b&gt; TopManage&lt;/b&gt; מציעה ללקוחותה מערכת ניהול אתר מתקדמת, &lt;b&gt;&lt;i&gt;OnLineKit&lt;/i&gt;&lt;/b&gt; &lt;b&gt;OLK&lt;/b&gt;, המאפשרת יצירת קטלוג של המלאי, מחירונים, נתונים מקושרים לפריט, דוחות, תמונות ועוד הרבה כלים מתקדמים. </LtxtOLKNote>
+    <LtxtAdmin>מנהלה</LtxtAdmin>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; Offers there clients a new and improved tool . Offering the employees and the administrators the opportunity to offer more details of their inventory and ecommerce store via web. &lt;b&gt;OLK&lt;/b&gt; allows you to create prices, item codes, catalogs, reports, list images and many more features. &lt;b&gt;OLK, The Online Kit&lt;/b&gt;. </LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRATION</LtxtAdmin>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt; TopManage &lt;/ b&gt; Oferece aos seus clientes uma nova ferramenta de trabalho gerencial e administrativa, &lt;i&gt; &lt;b&gt; OnLineKit &lt;/ i&gt; &lt;/ b&gt; (&lt;b&gt; OLK &lt;/ b&gt;), que permite detalhar seu estoque através da Internet, facilitando a criação de listas de preços, estoque, detalhes, catálogos com fotos e muito mais recursos. &lt;b&gt; OLK, O Kit Online &lt;/ b&gt;.</LtxtOLKNote>
+    <LtxtAdmin>Administração</LtxtAdmin>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>&lt;--&gt;</LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRATION</LtxtAdmin>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>&lt;--&gt;</LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRATION</LtxtAdmin>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <LtxtOLKNote>Компании &lt;b&gt; TopManage &lt;/ B&gt; предлагает своим клиентам передовые система управления сайтом, &lt;b&gt; &lt;i&gt; OnLineKit &lt;/ I&gt; &lt;/ B&gt; &lt;b&gt; ОЛК &lt;/ B&gt;, который позволяет создать каталог инвентаря, прайс-листы, связанные данные</LtxtOLKNote>
+    <LtxtAdmin>АДМИНИСТРАЦИЯ</LtxtAdmin>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; nazíbí svým klientům nový a lepší nástroj. Nabízí zaměstnancům a administrátorům možnost poskytovat víc informací o zásobách a elektronickém obchodu přes web. S &lt;b&gt;OLK&lt;/b&gt; můžete vytvářet ceny, kódy položek, katalogy, reporty, seznamy obrázků a mnoho dalších funkcí. &lt;b&gt;OLK, Online nástroj&lt;/b&gt;. </LtxtOLKNote>
+    <LtxtAdmin>SPRÁVA</LtxtAdmin>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; oferuje klientom nowe, ulepszone narzędzie. Oferując pracownikom i administratorom możliwość oferowania większej liczby szczegółów na temat ich zapasów i e-sklepu via sieć.  &lt;b&gt;OLK&lt;/b&gt; pozwala na stworzenie cen, kodów pozycji, katalogów, raportów, list zdjęć i wielu innych. &lt;b&gt;OLK, The Online Kit&lt;/b&gt;. </LtxtOLKNote>
+    <LtxtAdmin>Administracja</LtxtAdmin>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <LtxtOLKNote>&lt;b&gt;TopManage&lt;/b&gt; Ponúka svojim klientom nový a zlepšený nástroj, ktorý umožňuje zamestnancom a administrátorom príležitosť ponúkať viac informácií o ich inventári a elektronickom obchode cez web. &lt;b&gt;OLK&lt;/b&gt; Vám umožňuje vytvárať ceny, kódy položiek, katalógy, výkazy, vyhotoviť zoznam obrázkov a veľa iných funkcií. &lt;b&gt;OLK, The Online Kit&lt;/b&gt;. </LtxtOLKNote>
+    <LtxtAdmin>ADMINISTRÁCIA</LtxtAdmin>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <LtxtOLKNote>&lt;--&gt;</LtxtOLKNote>
+    <LtxtAdmin>&lt;--&gt;</LtxtAdmin>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <LtxtOLKNote>LtxtOLKNote</LtxtOLKNote>
+    <LtxtAdmin>LtxtAdmin</LtxtAdmin>
+  </language>
+</languages>

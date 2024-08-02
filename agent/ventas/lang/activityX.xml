@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LtxtDisObj>Object "{0}" is disabled</LtxtDisObj>
+    <LttlPendActs>Open Activities</LttlPendActs>
+    <LtxtConfDelAct>Are you sure you want to delete this activity(ies)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtValSelAct>You must select at least one activity</LtxtValSelAct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <LtxtDisObj>El objeto "{0}" está deshabilitado</LtxtDisObj>
+    <LttlPendActs>Actividades Pendientes</LttlPendActs>
+    <LtxtConfDelAct>¿Está seguro que desea eliminar la(las) actividad(es)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Asignado a</LtxtAsignedTo>
+    <LtxtValSelAct>Debe seleccionar al menos una actividad</LtxtValSelAct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtPersonal>פרטי</DtxtPersonal>
+    <DtxtDelete>מחק</DtxtDelete>
+    <LtxtDisObj>האובייקט "{0}" לא פעיל</LtxtDisObj>
+    <LttlPendActs>פעילויות פתוחות</LttlPendActs>
+    <LtxtConfDelAct>האם למחוק פעילות(יות)?</LtxtConfDelAct>
+    <LtxtAsignedTo>מקושר ל</LtxtAsignedTo>
+    <LtxtValSelAct>יש לבחור לפחות פעילות אחת</LtxtValSelAct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtPersonal>Personal</DtxtPersonal>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LtxtDisObj>Object "{0}" is disabled</LtxtDisObj>
+    <LttlPendActs>Open Activities</LttlPendActs>
+    <LtxtConfDelAct>Are you sure you want to delete this activity(ies)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Asigned to</LtxtAsignedTo>
+    <LtxtValSelAct>You must select at least one activity</LtxtValSelAct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtPersonal>Pessoal</DtxtPersonal>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <LtxtDisObj>O objeto "{0}" está desabilitado</LtxtDisObj>
+    <LttlPendActs>Atividades Pendentes</LttlPendActs>
+    <LtxtConfDelAct>Tem certeza que deseja excluir a(s) atividade(s) ?</LtxtConfDelAct>
+    <LtxtAsignedTo>Designado para</LtxtAsignedTo>
+    <LtxtValSelAct>Voce deve selecionar pelo menos uma atividade</LtxtValSelAct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtPersonal>&lt;--&gt;</DtxtPersonal>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <LtxtDisObj>L\'objet "{0}" est épuisé</LtxtDisObj>
+    <LttlPendActs>&lt;--&gt;</LttlPendActs>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtValSelAct>&lt;--&gt;</LtxtValSelAct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtPersonal>Persönlich</DtxtPersonal>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <LtxtDisObj>Objekt "{0}" ist deaktiviert</LtxtDisObj>
+    <LttlPendActs>&lt;--&gt;</LttlPendActs>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtAsignedTo>&lt;--&gt;</LtxtAsignedTo>
+    <LtxtValSelAct>&lt;--&gt;</LtxtValSelAct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtPersonal>Частный</DtxtPersonal>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <LtxtDisObj>Объекты "{0}" не работают</LtxtDisObj>
+    <LttlPendActs>Открытые действия</LttlPendActs>
+    <LtxtConfDelAct>Стереть действие(я)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Связан с</LtxtAsignedTo>
+    <LtxtValSelAct>Необходимо выбрать хотя бы один вид деятельности</LtxtValSelAct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtPersonal>Osobní</DtxtPersonal>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <LtxtDisObj>Objekt "{0}" je zablokován</LtxtDisObj>
+    <LttlPendActs>Otevřené aktivity</LttlPendActs>
+    <LtxtConfDelAct>Jste si jistý/á, že chcete vymazat tuto aktivitu (tyto aktivity)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Připsané komu</LtxtAsignedTo>
+    <LtxtValSelAct>Musíte vybrat aspoň jednu aktivitu</LtxtValSelAct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtPersonal>Osobisty/e</DtxtPersonal>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <LtxtDisObj>Przedmiot "{0}" jest zablokowane</LtxtDisObj>
+    <LttlPendActs>Otwórz działania</LttlPendActs>
+    <LtxtConfDelAct>Czy jesteś pewien, że chcesz skasować to działanie (działania)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Przypisany do </LtxtAsignedTo>
+    <LtxtValSelAct>Musisz wybrać przy najmniej jedno działanie</LtxtValSelAct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtPersonal>Osobné</DtxtPersonal>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <LtxtDisObj>Objekt "{0}" je zablokovaný</LtxtDisObj>
+    <LttlPendActs>Otvorené aktivity</LttlPendActs>
+    <LtxtConfDelAct>Ste si istí, že chcete zmazať túto aktivitu(y)?</LtxtConfDelAct>
+    <LtxtAsignedTo>Priradené komu</LtxtAsignedTo>
+    <LtxtValSelAct>Musíte vybrať aspoň jednu aktivitu</LtxtValSelAct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtPersonal>DtxtPersonal</DtxtPersonal>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <LtxtDisObj>LtxtDisObj</LtxtDisObj>
+    <LttlPendActs>LttlPendActs</LttlPendActs>
+    <LtxtConfDelAct>LtxtConfDelAct</LtxtConfDelAct>
+    <LtxtAsignedTo>LtxtAsignedTo</LtxtAsignedTo>
+    <LtxtValSelAct>LtxtValSelAct</LtxtValSelAct>
+  </language>
+</languages>

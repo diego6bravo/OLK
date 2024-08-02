@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Business Partners Search</LttlClientSearch>
+    <LtxtSelActClient>Set {0} as active BP</LtxtSelActClient>
+    <LtxtDocs>Docs.</LtxtDocs>
+    <LtxtMailTo>Mail to</LtxtMailTo>
+    <LtxtStateOfAcct>Account Statement</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtNoAccessObj>No tiene acceso para visualizar "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Búsqueda de Socios de Negocios</LttlClientSearch>
+    <LtxtSelActClient>Elegir a {0} como SN activo</LtxtSelActClient>
+    <LtxtDocs>Docs.</LtxtDocs>
+    <LtxtMailTo>Enviar correo a</LtxtMailTo>
+    <LtxtStateOfAcct>Estado de Cuenta</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtNoAccessObj>אין לך הרשאה לראות "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>חיפוש כרטיסים</LttlClientSearch>
+    <LtxtSelActClient>בחר {0} ככרטיס פעיל</LtxtSelActClient>
+    <LtxtDocs>מסמכים</LtxtDocs>
+    <LtxtMailTo>שלח דואר ל</LtxtMailTo>
+    <LtxtStateOfAcct>יתרת חשבון</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Business Partners Search</LttlClientSearch>
+    <LtxtSelActClient>Set {0} as active BP</LtxtSelActClient>
+    <LtxtDocs>Docs.</LtxtDocs>
+    <LtxtMailTo>Mail to</LtxtMailTo>
+    <LtxtStateOfAcct>Account Statement</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtNoAccessObj>Você não tem acesso para visualizar "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Busca de Parceiros de Negócios</LttlClientSearch>
+    <LtxtSelActClient>Escolha o {0} como PN ativo</LtxtSelActClient>
+    <LtxtDocs>Docs. </LtxtDocs>
+    <LtxtMailTo>Envia correio a </LtxtMailTo>
+    <LtxtStateOfAcct>Extrato de Conta</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtNoAccessObj>&lt;--&gt;</DtxtNoAccessObj>
+    <LttlClientSearch>&lt;--&gt;</LttlClientSearch>
+    <LtxtSelActClient>&lt;--&gt;</LtxtSelActClient>
+    <LtxtDocs>Documentation</LtxtDocs>
+    <LtxtMailTo>Envoyez-vous courrier à </LtxtMailTo>
+    <LtxtStateOfAcct>Relevé de Compte</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtNoAccessObj>Sie haben keinen Zugang zu der Ansicht von "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>&lt;--&gt;</LttlClientSearch>
+    <LtxtSelActClient>&lt;--&gt;</LtxtSelActClient>
+    <LtxtDocs>Dokumente</LtxtDocs>
+    <LtxtMailTo>Senden an</LtxtMailTo>
+    <LtxtStateOfAcct>Auszug von Konto</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtNoAccessObj>Вам не разрешено видеть"{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Поиск карточек</LttlClientSearch>
+    <LtxtSelActClient>Выберите{0}рабочих карточек</LtxtSelActClient>
+    <LtxtDocs>Документы</LtxtDocs>
+    <LtxtMailTo>Послать почту в</LtxtMailTo>
+    <LtxtStateOfAcct>Остаток на счете</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtNoAccessObj>Nemáte přístup pro zobrazení "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Vyhledávání obchodních partnerů</LttlClientSearch>
+    <LtxtSelActClient>Nastavit {0} jako aktivní OP</LtxtSelActClient>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+    <LtxtMailTo>Poslat e-mail</LtxtMailTo>
+    <LtxtStateOfAcct>Výpis účtu</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtNoAccessObj>Nie masz dostępu do podglądu "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Szukaj partnerów biznesowych</LttlClientSearch>
+    <LtxtSelActClient>Wybierz {0} jako aktywny PB</LtxtSelActClient>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+    <LtxtMailTo>Wyślij email do</LtxtMailTo>
+    <LtxtStateOfAcct>Wyciąg z konta</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtNoAccessObj>Nemáte prístup pozrieť si "{0}"</DtxtNoAccessObj>
+    <LttlClientSearch>Vyhľadávanie Obchodných partnerov</LttlClientSearch>
+    <LtxtSelActClient>Nastaviť {0} ako aktívneho Obchodného partnera</LtxtSelActClient>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+    <LtxtMailTo>Emailovať komu</LtxtMailTo>
+    <LtxtStateOfAcct>Výpis z účtu</LtxtStateOfAcct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtNoAccessObj>DtxtNoAccessObj</DtxtNoAccessObj>
+    <LttlClientSearch>LttlClientSearch</LttlClientSearch>
+    <LtxtSelActClient>LtxtSelActClient</LtxtSelActClient>
+    <LtxtDocs>LtxtDocs</LtxtDocs>
+    <LtxtMailTo>LtxtMailTo</LtxtMailTo>
+    <LtxtStateOfAcct>LtxtStateOfAcct</LtxtStateOfAcct>
+  </language>
+</languages>

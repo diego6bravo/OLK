@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Configuration Error</LttlConfErr>
+    <LtxtObsRestUDF>Restore user fields in the OBServer Emulator.</LtxtObsRestUDF>
+    <LtxtDBUser>Database user "{0}" is not configured.</LtxtDBUser>
+    <LtxtDBActive>Database "{0}" is not activated in OBServer Emulator.</LtxtDBActive>
+    <LtxtDefWhs>Default warehouse not defined in Inventory Properties</LtxtDefWhs>
+    <LtxtCondRctAcct>Account configuration missing for {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>The currency of debtor accounts of ledger account "{0}" of {1} "{2}" is incorrect.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Missing today's currency exchange rate</LtxtCurrRate>
+    <LtxtSeriesConf>The series configuration of {0} is incorrect.</LtxtSeriesConf>
+    <LtxtErrClientAgent>The {0} "{1}" has assigned "{2}" as his {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Error de Configuración</LttlConfErr>
+    <LtxtObsRestUDF>Debe realizarse una restauración de campos de usuario en el Emulador de OBServer.</LtxtObsRestUDF>
+    <LtxtDBUser>Usuario de base de datos "{0}" no configurado.</LtxtDBUser>
+    <LtxtDBActive>La base de datos "{0}" no está activada en el emulador de OBServer.</LtxtDBActive>
+    <LtxtDefWhs>Bodega principal no definida en definiciones de inventario.</LtxtDefWhs>
+    <LtxtCondRctAcct>Falta configuración de cuentas contables para el {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>La moneda de la cuenta de deudores a nivel de mayor "{0}" del {1} "{2}" no es correcta.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Falta tasa de cambio de moneda del día de hoy.</LtxtCurrRate>
+    <LtxtSeriesConf>La configuración de la libreta de {0} es incorrecta.</LtxtSeriesConf>
+    <LtxtErrClientAgent>El {0} "{1}" tiene asignado a "{2}" como su {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlConfErr>תקלה בהגדרות</LttlConfErr>
+    <LtxtObsRestUDF>יש לשחזר שדות משתמש עם OBServer Emualtor</LtxtObsRestUDF>
+    <LtxtDBUser>המשתמש של בסיס הנתונים "{0}" לא מוגדר</LtxtDBUser>
+    <LtxtDBActive>בסיס הנתונים "{0}" לא מקושר ל OBServer Emualtor</LtxtDBActive>
+    <LtxtDefWhs>מחסן ברירת מחדל לא הוגדר בהגדרות מלאי במנהלה</LtxtDefWhs>
+    <LtxtCondRctAcct>חסר הגדרת חשבון ל{0}</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>המטבע בחשבון מחוייב בלוח חשבונות "{0}" של {1} "{2}" לא נכון</LtxtAcctCurOCRD>
+    <LtxtCurrRate>חסר שער חליפין של היום למט"ח</LtxtCurrRate>
+    <LtxtSeriesConf>הגדרות לסדרה {0} לא נכונה</LtxtSeriesConf>
+    <LtxtErrClientAgent>ה{0} "{1}" מקושר ל"{2}" כמו {3}</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Configuration Error</LttlConfErr>
+    <LtxtObsRestUDF>Restore user fields in the OBServer Emulator.</LtxtObsRestUDF>
+    <LtxtDBUser>Database user "{0}" is not configured.</LtxtDBUser>
+    <LtxtDBActive>Database "{0}" is not activated in OBServer Emulator.</LtxtDBActive>
+    <LtxtDefWhs>Default warehouse not defined in Inventory Properties</LtxtDefWhs>
+    <LtxtCondRctAcct>Account configuration missing for {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>The currency of debtor accounts of ledger account "{0}" of {1} "{2}" is incorrect.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Missing today's currency exchange rate</LtxtCurrRate>
+    <LtxtSeriesConf>The series configuration of {0} is incorrect.</LtxtSeriesConf>
+    <LtxtErrClientAgent>The {0} "{1}" has assigned "{2}" as his {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Erro da Configuração</LttlConfErr>
+    <LtxtObsRestUDF>Deve ser realizada uma restauração dos campos do usuário no Emulador do OBServer.</LtxtObsRestUDF>
+    <LtxtDBUser>Usuário da base de dados "{0}" não configurado.</LtxtDBUser>
+    <LtxtDBActive>A base de dados "{0}" não está ativada no emulador do OBServer.</LtxtDBActive>
+    <LtxtDefWhs>Armazém principal não definido em definições de inventário.</LtxtDefWhs>
+    <LtxtCondRctAcct>Falta configuração das contas contábeis para o {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>A moeda da conta dos devedores no nível de maior "{0}" do {1} "{2}" não é correcta.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Falta taxa do câmbio da moeda do dia de hoje.</LtxtCurrRate>
+    <LtxtSeriesConf>A configuração da caderneta de "{0}"  está  incorreta.</LtxtSeriesConf>
+    <LtxtErrClientAgent>O {0} "{1}" tem  atribuido ao  "{2}" como seu {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Erreur de configuration</LttlConfErr>
+    <LtxtObsRestUDF>Il faut se réaliser une restauration des domaines d'utilisateur dans l'émulateur d'OBServer</LtxtObsRestUDF>
+    <LtxtDBUser>L'utilisateur de la base des données "{0}" ne pas configuré</LtxtDBUser>
+    <LtxtDBActive>La base des données "{0}" n'est pas dans l'émulateur d'OBServer</LtxtDBActive>
+    <LtxtDefWhs>L'entrepôt principal  n'est pas défini en relation à l'inventaire</LtxtDefWhs>
+    <LtxtCondRctAcct>Il manque de configuration des comptes comptables pour le {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>La monnaie du compte débiteurs au niveau plus grand que "{0}" de {1} "{2}" n'est pas correct</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Il manque la taux de change d'aujourd'hui</LtxtCurrRate>
+    <LtxtSeriesConf>La configuration du livret de {0} est incorrect.</LtxtSeriesConf>
+    <LtxtErrClientAgent>Le {0} "{1}" a assigné au "{2}" comment son {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Konfigurations Fehler</LttlConfErr>
+    <LtxtObsRestUDF>Benutzerfelder im OBServer Emulator wiederherstellen.</LtxtObsRestUDF>
+    <LtxtDBUser>Datenbank Benutzer {0} ist nicht konfiguriert.</LtxtDBUser>
+    <LtxtDBActive>Die Datenbank {0} ist im OBServer Emulator nicht aktiviert.</LtxtDBActive>
+    <LtxtDefWhs>Standardlager wurde in Inventur Eigenschaften nicht festgelegt</LtxtDefWhs>
+    <LtxtCondRctAcct>Kontoeinstellungen fehlen für {0}.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>Die Währung des Schuldnerkontos für das Hauptkonto "{0}" von {1} "{2}" ist nicht richtig.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Heutiger Währungswechselkurs fehlt</LtxtCurrRate>
+    <LtxtSeriesConf>Die Serienkonfiguration für {0} ist nicht richtig.</LtxtSeriesConf>
+    <LtxtErrClientAgent>Der {0} "{1}" hat "{2}" als sein {3} zugeordnet.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Ошибка настроек</LttlConfErr>
+    <LtxtObsRestUDF>Сохранить пользовательское поле с OBServer Emalator</LtxtObsRestUDF>
+    <LtxtDBUser>Пользователь базы данных "{0}"  не установлен</LtxtDBUser>
+    <LtxtDBActive>База данных "{0}"  не связана с наблюдателем OBServer Emulator</LtxtDBActive>
+    <LtxtDefWhs>Не настроен склад в настойках инвентаризации адинестрации</LtxtDefWhs>
+    <LtxtCondRctAcct>Не хватает настроек счета {0}</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>Валюта на счету </LtxtAcctCurOCRD>
+    <LtxtCurrRate>Не хватает сегоднешней ставки иностранной валюты</LtxtCurrRate>
+    <LtxtSeriesConf>Настройка серии {0} не являются правильными</LtxtSeriesConf>
+    <LtxtErrClientAgent>{0} "{1}"  связаны с"{2}" как {3}</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Chyba nastavení</LttlConfErr>
+    <LtxtObsRestUDF>Obnovit uživatelská pole v emulátoru OBServeru.</LtxtObsRestUDF>
+    <LtxtDBUser>Databázový uživatel "{0}" není nakonfigurovaný.</LtxtDBUser>
+    <LtxtDBActive>Databáze "{0}" není v emulátoru OBServeru aktivovaná</LtxtDBActive>
+    <LtxtDefWhs>Ve Vlastnostech zásob není nastavený výchozí sklad</LtxtDefWhs>
+    <LtxtCondRctAcct>Pro {0} chybí nastavení účtu.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>Měna účtů dlužníka účtu hlavní knihy "{0}" z {1} "{2}" je nesprávná.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Chybí dnešní směnný kurz</LtxtCurrRate>
+    <LtxtSeriesConf>Soubor nastavení {0} je nesprávný.</LtxtSeriesConf>
+    <LtxtErrClientAgent>{0} "{1}" přiřadil "{2}" jako svůj {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Błąd konfiguracji</LttlConfErr>
+    <LtxtObsRestUDF>Przywróć pola użytkownika w OBServer Emulator.</LtxtObsRestUDF>
+    <LtxtDBUser>Użytkownik bazy danych  "{0}" nie jest skonfigurowany.</LtxtDBUser>
+    <LtxtDBActive>Baza danych  "{0}" nie jest aktywowana w OBServer Emulator.</LtxtDBActive>
+    <LtxtDefWhs>Domyślny magazyn nie jest zdefiniowany we właściwościach zapasu</LtxtDefWhs>
+    <LtxtCondRctAcct>Brak konfiguracji konta dla {0}</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>Waluta konta dłużnika księgi głównej "{0}"  {1} "{2}" jest nieprawidłowa.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Brakuje dzisiejszego kursu walut</LtxtCurrRate>
+    <LtxtSeriesConf>Konfiguracja serii {0} jest nieprawidłowa</LtxtSeriesConf>
+    <LtxtErrClientAgent> {0} "{1}"  przypisał "{2}" jako jego {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>Chyba v konfigurácii</LttlConfErr>
+    <LtxtObsRestUDF>Obnovte užívateľské políčka v OBServer Emulator.</LtxtObsRestUDF>
+    <LtxtDBUser>Užívateľ databázy "{0}" nie je nakonfigurovaný.</LtxtDBUser>
+    <LtxtDBActive>Databáza "{0}" nie je aktivovaná v OBServer Emulator.</LtxtDBActive>
+    <LtxtDefWhs>Východiskový sklad nie je definovaný vo Vlastnostiach inventáru.</LtxtDefWhs>
+    <LtxtCondRctAcct>Konfigurácia konta pre {0} chýba.</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>Mena kônt dlžníka saldokonta "{0}" z {1} "{2}" je nesprávna.</LtxtAcctCurOCRD>
+    <LtxtCurrRate>Chýbajúci dnešný menový výmmený kurz</LtxtCurrRate>
+    <LtxtSeriesConf>Konfigurácia série {0} je nesprávna.</LtxtSeriesConf>
+    <LtxtErrClientAgent>{0} "{1}" priradil "{2}" ako svoju {3}.</LtxtErrClientAgent>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlConfErr>LttlConfErr</LttlConfErr>
+    <LtxtObsRestUDF>LtxtObsRestUDF</LtxtObsRestUDF>
+    <LtxtDBUser>LtxtDBUser</LtxtDBUser>
+    <LtxtDBActive>LtxtDBActive</LtxtDBActive>
+    <LtxtDefWhs>LtxtDefWhs</LtxtDefWhs>
+    <LtxtCondRctAcct>LtxtCondRctAcct</LtxtCondRctAcct>
+    <LtxtAcctCurOCRD>LtxtAcctCurOCRD</LtxtAcctCurOCRD>
+    <LtxtCurrRate>LtxtCurrRate</LtxtCurrRate>
+    <LtxtSeriesConf>LtxtSeriesConf</LtxtSeriesConf>
+    <LtxtErrClientAgent>LtxtErrClientAgent</LtxtErrClientAgent>
+  </language>
+</languages>

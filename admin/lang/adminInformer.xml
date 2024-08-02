@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <LttlInformer>Task Monitor</LttlInformer>
+    <LttlInformerNote>In this section it is possible to add you own Task Monitors and links to a custom reports and set the order in which they appear.</LttlInformerNote>
+    <LtxtLinkedReport>Linked Report</LtxtLinkedReport>
+    <LtxtConfRem>Are you sure you want to delete the monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Please enter the monitor name</LtxtFldNam>
+    <LtxtHideNull>Hide Null or 0</LtxtHideNull>
+    <LtxtWaitForConf>Waiting for confirmation </LtxtWaitForConf>
+    <LtxtWaitForAut>Waiting for authorization </LtxtWaitForAut>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAlignment>Alineamiento</DtxtAlignment>
+    <DtxtLeft>Izquierda</DtxtLeft>
+    <DtxtRight>Derecha</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <LttlInformer>Monitor de Tarea</LttlInformer>
+    <LttlInformerNote>En esta sección podrá definir sus propios monitor y podrá enlazarlos a un reporte personalizado. Adicionalmente podrá cambiar el orden de los informantes  de sistema e usuario a su gusto.</LttlInformerNote>
+    <LtxtLinkedReport>Reporte Enlazado</LtxtLinkedReport>
+    <LtxtConfRem>¿Está seguro que desea eliminar el monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Debe introducir el nombre del monitor</LtxtFldNam>
+    <LtxtHideNull>Ocultar Nulo o 0</LtxtHideNull>
+    <LtxtWaitForConf>Esperando confirmación </LtxtWaitForConf>
+    <LtxtWaitForAut>Esperando autorización </LtxtWaitForAut>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAlignment>יישור</DtxtAlignment>
+    <DtxtLeft>שמאל</DtxtLeft>
+    <DtxtRight>ימין</DtxtRight>
+    <DtxtCenter>אמצע</DtxtCenter>
+    <LttlInformer>צג משימות</LttlInformer>
+    <LttlInformerNote>בחלק זה תוכל להוסיף צגיי משימות ולקשר אותם לדוחות, תוכל גם לקבוע את סדר התצוגה שלהם.</LttlInformerNote>
+    <LtxtLinkedReport>דוח מקושר</LtxtLinkedReport>
+    <LtxtConfRem>האם למחוק צג משימה {0}?</LtxtConfRem>
+    <LtxtFldNam>יש לתת לצג שם</LtxtFldNam>
+    <LtxtHideNull>הסתר NULL או 0</LtxtHideNull>
+    <LtxtWaitForConf>מחכה לאישור</LtxtWaitForConf>
+    <LtxtWaitForAut>מחכה לאישור</LtxtWaitForAut>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <LttlInformer>Task Monitor</LttlInformer>
+    <LttlInformerNote>In this section it is possible to add you own Task Monitors and links to a custom reports and set the order in which they appear.</LttlInformerNote>
+    <LtxtLinkedReport>Linked Report</LtxtLinkedReport>
+    <LtxtConfRem>Are you sure you want to delete the monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Please enter the monitor name</LtxtFldNam>
+    <LtxtHideNull>Hide Null or 0</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAlignment>Alinhamento</DtxtAlignment>
+    <DtxtLeft>Esquerda</DtxtLeft>
+    <DtxtRight>Direita</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <LttlInformer>Monitor de Tarefas</LttlInformer>
+    <LttlInformerNote>Nesta seção, você pode definir seu próprio monitor e pode vincular a um relatório personalizado. Além disso, você pode alterar a ordem das informações e usuários do sistema da sua forma.</LttlInformerNote>
+    <LtxtLinkedReport>Relatório Vinculado</LtxtLinkedReport>
+    <LtxtConfRem>Tem certeza que deseja excluir o monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Você deve inserir o nome do monitor</LtxtFldNam>
+    <LtxtHideNull>Ocultar Nulo ou 0</LtxtHideNull>
+    <LtxtWaitForConf>Aguardando confirmação</LtxtWaitForConf>
+    <LtxtWaitForAut>Aguardando autorização</LtxtWaitForAut>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAlignment>Alignement</DtxtAlignment>
+    <DtxtLeft>Gauche</DtxtLeft>
+    <DtxtRight>Droite</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <LttlInformer>&lt;--&gt;</LttlInformer>
+    <LttlInformerNote>&lt;--&gt;</LttlInformerNote>
+    <LtxtLinkedReport>&lt;--&gt;</LtxtLinkedReport>
+    <LtxtConfRem>&lt;--&gt;</LtxtConfRem>
+    <LtxtFldNam>&lt;--&gt;</LtxtFldNam>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAlignment>Anpassung</DtxtAlignment>
+    <DtxtLeft>Links</DtxtLeft>
+    <DtxtRight>Rechts</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <LttlInformer>&lt;--&gt;</LttlInformer>
+    <LttlInformerNote>&lt;--&gt;</LttlInformerNote>
+    <LtxtLinkedReport>&lt;--&gt;</LtxtLinkedReport>
+    <LtxtConfRem>&lt;--&gt;</LtxtConfRem>
+    <LtxtFldNam>&lt;--&gt;</LtxtFldNam>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAlignment>Выравнивание</DtxtAlignment>
+    <DtxtLeft>Левое</DtxtLeft>
+    <DtxtRight>Правый</DtxtRight>
+    <DtxtCenter>Середина</DtxtCenter>
+    <LttlInformer>Целевой монитор</LttlInformer>
+    <LttlInformerNote>В этом разделе можно добавить вас в собственный контроль, и вы можете связать их с пользовательского отчета. Вы можете также установить порядок системы и пользовательских информаторов.</LttlInformerNote>
+    <LtxtLinkedReport>Связанный отчет</LtxtLinkedReport>
+    <LtxtConfRem>Вы уверены, что хотите удалить контроль {0}?</LtxtConfRem>
+    <LtxtFldNam>Пожалуйста, введите имя монитора</LtxtFldNam>
+    <LtxtHideNull>Скрыть Нуль или 0</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAlignment>Zarovnání</DtxtAlignment>
+    <DtxtLeft>Vlevo</DtxtLeft>
+    <DtxtRight>Vpravo</DtxtRight>
+    <DtxtCenter>Středisko</DtxtCenter>
+    <LttlInformer>Monitor úkolu</LttlInformer>
+    <LttlInformerNote>V této sekci je možné přidat vlastní monitorování, které můžete navázat na vlastní report. Můžete také určit pořadí, ve kterém jsou systémy a uživatelé informováni</LttlInformerNote>
+    <LtxtLinkedReport>Navázaný report</LtxtLinkedReport>
+    <LtxtConfRem>Jste si jistý/á, že chcete vymazat monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Zadejte prosím název monitoru</LtxtFldNam>
+    <LtxtHideNull>Schovat null nebo 0</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAlignment>Wyrównanie</DtxtAlignment>
+    <DtxtLeft>Lewy</DtxtLeft>
+    <DtxtRight>Prawy</DtxtRight>
+    <DtxtCenter>Środek</DtxtCenter>
+    <LttlInformer>Ekran zadań </LttlInformer>
+    <LttlInformerNote>W tym dziale można dodać własny Ekran zadań oraz linki do zindywidualizowanych raportów, a także ustalić kolejność w jakiej się pojawiają </LttlInformerNote>
+    <LtxtLinkedReport>Raport powiązany</LtxtLinkedReport>
+    <LtxtConfRem>Czy jesteś pewien, że chcesz usunąć ekran {0}?</LtxtConfRem>
+    <LtxtFldNam>Proszę wprowadź nazwę ekranu</LtxtFldNam>
+    <LtxtHideNull>Ukryj NULL lub 0</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAlignment>Zarovnanie</DtxtAlignment>
+    <DtxtLeft>Naľavo</DtxtLeft>
+    <DtxtRight>Pravý</DtxtRight>
+    <DtxtCenter>Stred</DtxtCenter>
+    <LttlInformer>Monitor úloh</LttlInformer>
+    <LttlInformerNote>V tejto sekcii je možné pridávať vaše vlastné monitory úloh a linky na vlastné výkazy a nastaviť poradie, v ktorom sa budú zobrazovať.</LttlInformerNote>
+    <LtxtLinkedReport>Spojený výkaz</LtxtLinkedReport>
+    <LtxtConfRem>Ste si istí, že chcete zmazať monitor {0}?</LtxtConfRem>
+    <LtxtFldNam>Prosím zadajte názov monitoru</LtxtFldNam>
+    <LtxtHideNull>Ukryť nulu alebo 0</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtAlignment>&lt;--&gt;</DtxtAlignment>
+    <DtxtLeft>&lt;--&gt;</DtxtLeft>
+    <DtxtRight>&lt;--&gt;</DtxtRight>
+    <DtxtCenter>&lt;--&gt;</DtxtCenter>
+    <LttlInformer>&lt;--&gt;</LttlInformer>
+    <LttlInformerNote>&lt;--&gt;</LttlInformerNote>
+    <LtxtLinkedReport>&lt;--&gt;</LtxtLinkedReport>
+    <LtxtConfRem>&lt;--&gt;</LtxtConfRem>
+    <LtxtFldNam>&lt;--&gt;</LtxtFldNam>
+    <LtxtHideNull>&lt;--&gt;</LtxtHideNull>
+    <LtxtWaitForConf>&lt;--&gt;</LtxtWaitForConf>
+    <LtxtWaitForAut>&lt;--&gt;</LtxtWaitForAut>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAlignment>DtxtAlignment</DtxtAlignment>
+    <DtxtLeft>DtxtLeft</DtxtLeft>
+    <DtxtRight>DtxtRight</DtxtRight>
+    <DtxtCenter>DtxtCenter</DtxtCenter>
+    <LttlInformer>LttlInformer</LttlInformer>
+    <LttlInformerNote>LttlInformerNote</LttlInformerNote>
+    <LtxtLinkedReport>LtxtLinkedReport</LtxtLinkedReport>
+    <LtxtConfRem>LtxtConfRem</LtxtConfRem>
+    <LtxtFldNam>LtxtFldNam</LtxtFldNam>
+    <LtxtHideNull>LtxtHideNull</LtxtHideNull>
+    <LtxtWaitForConf>LtxtWaitForConf</LtxtWaitForConf>
+    <LtxtWaitForAut>LtxtWaitForAut</LtxtWaitForAut>
+  </language>
+</languages>

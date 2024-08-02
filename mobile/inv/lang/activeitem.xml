@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtCounted>Counted</DtxtCounted>
+    <LtxtItemUpdate>Item Update</LtxtItemUpdate>
+    <LtxtOnHand>On Hand</LtxtOnHand>
+    <LtxtLastCounted>Last Counted</LtxtLastCounted>
+    <LtxtNotCounted>Not counted</LtxtNotCounted>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtCounted>Contado</DtxtCounted>
+    <LtxtItemUpdate>Actualización de Artículo</LtxtItemUpdate>
+    <LtxtOnHand>Físico</LtxtOnHand>
+    <LtxtLastCounted>Ultimo Contado</LtxtLastCounted>
+    <LtxtNotCounted>No contado</LtxtNotCounted>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtCounted>ספור</DtxtCounted>
+    <LtxtItemUpdate>עידכון פריט</LtxtItemUpdate>
+    <LtxtOnHand>כמות במלאי</LtxtOnHand>
+    <LtxtLastCounted>ספירה אחרונה</LtxtLastCounted>
+    <LtxtNotCounted>לא נספר</LtxtNotCounted>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtCounted>Counted</DtxtCounted>
+    <LtxtItemUpdate>Item Update</LtxtItemUpdate>
+    <LtxtOnHand>On Hand</LtxtOnHand>
+    <LtxtLastCounted>Last Counted</LtxtLastCounted>
+    <LtxtNotCounted>Not counted</LtxtNotCounted>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtCounted>A vista</DtxtCounted>
+    <LtxtItemUpdate>Atualização de Item</LtxtItemUpdate>
+    <LtxtOnHand>Físico</LtxtOnHand>
+    <LtxtLastCounted>Última contagem</LtxtLastCounted>
+    <LtxtNotCounted>Não contado</LtxtNotCounted>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtCounted>&lt;--&gt;</DtxtCounted>
+    <LtxtItemUpdate>&lt;--&gt;</LtxtItemUpdate>
+    <LtxtOnHand>&lt;--&gt;</LtxtOnHand>
+    <LtxtLastCounted>&lt;--&gt;</LtxtLastCounted>
+    <LtxtNotCounted>&lt;--&gt;</LtxtNotCounted>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtCounted>Gezählt</DtxtCounted>
+    <LtxtItemUpdate>&lt;--&gt;</LtxtItemUpdate>
+    <LtxtOnHand>&lt;--&gt;</LtxtOnHand>
+    <LtxtLastCounted>&lt;--&gt;</LtxtLastCounted>
+    <LtxtNotCounted>&lt;--&gt;</LtxtNotCounted>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtCounted>Подсчитанный</DtxtCounted>
+    <LtxtItemUpdate>&lt;--&gt;</LtxtItemUpdate>
+    <LtxtOnHand>&lt;--&gt;</LtxtOnHand>
+    <LtxtLastCounted>&lt;--&gt;</LtxtLastCounted>
+    <LtxtNotCounted>&lt;--&gt;</LtxtNotCounted>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtCounted>Spočítáno</DtxtCounted>
+    <LtxtItemUpdate>Aktualizovat položku</LtxtItemUpdate>
+    <LtxtOnHand>Dostupné</LtxtOnHand>
+    <LtxtLastCounted>Počítáno naposledy</LtxtLastCounted>
+    <LtxtNotCounted>Nepočítáno</LtxtNotCounted>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtCounted>Policzone</DtxtCounted>
+    <LtxtItemUpdate>Uaktualnienie pozycji</LtxtItemUpdate>
+    <LtxtOnHand>Ilość w zapasie</LtxtOnHand>
+    <LtxtLastCounted>Ostanie liczenie</LtxtLastCounted>
+    <LtxtNotCounted>Nie liczone</LtxtNotCounted>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtCounted>Spočítané</DtxtCounted>
+    <LtxtItemUpdate>Aktualizácia položky</LtxtItemUpdate>
+    <LtxtOnHand>Po ruke</LtxtOnHand>
+    <LtxtLastCounted>Posledné napočítané</LtxtLastCounted>
+    <LtxtNotCounted>Nespočítané</LtxtNotCounted>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtFirm>&lt;--&gt;</DtxtFirm>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtCounted>&lt;--&gt;</DtxtCounted>
+    <LtxtItemUpdate>&lt;--&gt;</LtxtItemUpdate>
+    <LtxtOnHand>&lt;--&gt;</LtxtOnHand>
+    <LtxtLastCounted>&lt;--&gt;</LtxtLastCounted>
+    <LtxtNotCounted>&lt;--&gt;</LtxtNotCounted>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtCounted>DtxtCounted</DtxtCounted>
+    <LtxtItemUpdate>LtxtItemUpdate</LtxtItemUpdate>
+    <LtxtOnHand>LtxtOnHand</LtxtOnHand>
+    <LtxtLastCounted>LtxtLastCounted</LtxtLastCounted>
+    <LtxtNotCounted>LtxtNotCounted</LtxtNotCounted>
+  </language>
+</languages>

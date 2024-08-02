@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAccount>Account</DtxtAccount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlChkPymnt>Check Payment</LttlChkPymnt>
+    <LtxtBank>Bank</LtxtBank>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LtxtAddCheck>Add Check</LtxtAddCheck>
+    <LtxtConfDelChk>Are you sure you want to delete check #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>Please enter the check amount</LtxtValChkImp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtAccount>Cuenta</DtxtAccount>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LttlChkPymnt>Pago de Cheque</LttlChkPymnt>
+    <LtxtBank>Banco</LtxtBank>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LtxtAddCheck>Agregar Cheque</LtxtAddCheck>
+    <LtxtConfDelChk>¿Está seguro que desea eliminar el cheque #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>¡No se puede agregar un cheque sin importe!</LtxtValChkImp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtAccount>חשבון</DtxtAccount>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LttlChkPymnt>סכום בצ'קים</LttlChkPymnt>
+    <LtxtBank>בנק</LtxtBank>
+    <LtxtCheck>צק</LtxtCheck>
+    <LtxtBalToPay>סכום לתשלום</LtxtBalToPay>
+    <LtxtAddCheck>הוסף צק</LtxtAddCheck>
+    <LtxtConfDelChk>האם למחוק צ\'ק {0}#?</LtxtConfDelChk>
+    <LtxtValChkImp>לא ניתן להוסיף צ'ק ללא סכום!</LtxtValChkImp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAccount>Account</DtxtAccount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlChkPymnt>Check Payment</LttlChkPymnt>
+    <LtxtBank>Bank</LtxtBank>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LtxtAddCheck>Add Check</LtxtAddCheck>
+    <LtxtConfDelChk>Are you sure you want to delete check #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>Please enter the check amount</LtxtValChkImp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtAccount>Conta</DtxtAccount>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LttlChkPymnt>Pago do Cheque</LttlChkPymnt>
+    <LtxtBank>Banco</LtxtBank>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LtxtAddCheck>Adicionar Cheque</LtxtAddCheck>
+    <LtxtConfDelChk>Tem certeza  que deseja eliminar o cheque #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>Não se pode adicionar um cheque sem um valor!</LtxtValChkImp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtAccount>Compte</DtxtAccount>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LttlChkPymnt>Versement en cheque</LttlChkPymnt>
+    <LtxtBank>Banque</LtxtBank>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBalToPay>Solde à payer</LtxtBalToPay>
+    <LtxtAddCheck>Ajouter cheque</LtxtAddCheck>
+    <LtxtConfDelChk>Êtes-vous sûre d\'éliminer le cheque # {0}?</LtxtConfDelChk>
+    <LtxtValChkImp>S.V.P. insérer le montant du cheque </LtxtValChkImp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtAccount>Konto</DtxtAccount>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LttlChkPymnt>Scheckzahlung</LttlChkPymnt>
+    <LtxtBank>Bank</LtxtBank>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtBalToPay>Zu zahlender Betrag</LtxtBalToPay>
+    <LtxtAddCheck>Scheck hinzufügen</LtxtAddCheck>
+    <LtxtConfDelChk>Möchten Sie den Scheck #{0} wirklich löschen?</LtxtConfDelChk>
+    <LtxtValChkImp>Bitte geben Sie den Scheckbetrag an</LtxtValChkImp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtAccount>Счет</DtxtAccount>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LttlChkPymnt>Сумма в чеках</LttlChkPymnt>
+    <LtxtBank>Банк</LtxtBank>
+    <LtxtCheck>Чек</LtxtCheck>
+    <LtxtBalToPay>Сумма к оплате</LtxtBalToPay>
+    <LtxtAddCheck>Добавить чек</LtxtAddCheck>
+    <LtxtConfDelChk>Удалить чек {0}#?</LtxtConfDelChk>
+    <LtxtValChkImp> Невозможно добавить чек без суммы</LtxtValChkImp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAccount>Účet</DtxtAccount>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LttlChkPymnt>Platba šekem</LttlChkPymnt>
+    <LtxtBank>Banka</LtxtBank>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBalToPay>Splatný zůstatek</LtxtBalToPay>
+    <LtxtAddCheck>Vytvořit šek</LtxtAddCheck>
+    <LtxtConfDelChk>Jste si jistý/á, že chcete vymazat šek #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>Zadejte prosím výši šeku</LtxtValChkImp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtAccount>Rachunek</DtxtAccount>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LttlChkPymnt>Płatność czekiem</LttlChkPymnt>
+    <LtxtBank>Bank</LtxtBank>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtBalToPay>Saldo należne</LtxtBalToPay>
+    <LtxtAddCheck>Dodaj czek</LtxtAddCheck>
+    <LtxtConfDelChk>Czy jesteś pewien, że chcesz skasować czek #{0}? </LtxtConfDelChk>
+    <LtxtValChkImp>Proszę wprowadź kwotę czeku</LtxtValChkImp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAccount>Konto</DtxtAccount>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LttlChkPymnt>Šeková platba</LttlChkPymnt>
+    <LtxtBank>Banka</LtxtBank>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBalToPay>Nedoplatok</LtxtBalToPay>
+    <LtxtAddCheck>Pridať šek</LtxtAddCheck>
+    <LtxtConfDelChk>Ste si istí, že chcete vymazať šek #{0}?</LtxtConfDelChk>
+    <LtxtValChkImp>Prosím zadajte šekovej sumy</LtxtValChkImp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtAccount>DtxtAccount</DtxtAccount>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LttlChkPymnt>LttlChkPymnt</LttlChkPymnt>
+    <LtxtBank>LtxtBank</LtxtBank>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtBalToPay>LtxtBalToPay</LtxtBalToPay>
+    <LtxtAddCheck>LtxtAddCheck</LtxtAddCheck>
+    <LtxtConfDelChk>LtxtConfDelChk</LtxtConfDelChk>
+    <LtxtValChkImp>LtxtValChkImp</LtxtValChkImp>
+  </language>
+</languages>

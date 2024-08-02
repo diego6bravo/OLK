@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBuy>Buy</DtxtBuy>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtProm>Promotion</DtxtProm>
+    <DtxtTemplate>Template</DtxtTemplate>
+    <DtxtRecommendations>Recommendations</DtxtRecommendations>
+    <DtxtList>List</DtxtList>
+    <DtxtDuplicate>Duplicate</DtxtDuplicate>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtViewProd>View Product</LtxtViewProd>
+    <LtxtItmMoreImg>Item with more than one image</LtxtItmMoreImg>
+    <LtxtStartSesion>You need to start a session to make a purchase</LtxtStartSesion>
+    <LttlWishList>Wish List</LttlWishList>
+    <LtxtConfRemWLItem>Are you sure you want to remove the item {0} from your wish list?</LtxtConfRemWLItem>
+    <LtxtExpires>Expires</LtxtExpires>
+    <LtxtRegItem>Regular Item</LtxtRegItem>
+    <LtxtBtchItem>Batch Item</LtxtBtchItem>
+    <LtxtSerItem>Serial Number Item</LtxtSerItem>
+    <Ltxt3dxItem>3dx Item</Ltxt3dxItem>
+    <LtxtChkAll>Check All</LtxtChkAll>
+    <LtxtBuyChkItms>Add Checked Items</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>You must check at least 1 item</LtxtChkAtLead1Item>
+    <LttlNewItm>New Item</LttlNewItm>
+    <LtxtAdd2Cart>Add</LtxtAdd2Cart>
+    <LtxtSearchRetVal>The search returned {0} result(s)</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBuy>Comprar</DtxtBuy>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtProm>Promoción</DtxtProm>
+    <DtxtTemplate>Modelo</DtxtTemplate>
+    <DtxtRecommendations>Recomendaciones</DtxtRecommendations>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDuplicate>Duplicar</DtxtDuplicate>
+    <LtxtWishList>Lista de Deseos</LtxtWishList>
+    <LtxtViewProd>Ver Producto</LtxtViewProd>
+    <LtxtItmMoreImg>Artículo con más de una imagen</LtxtItmMoreImg>
+    <LtxtStartSesion>Debe iniciar una sesión para poder realizar una compra</LtxtStartSesion>
+    <LttlWishList>Mis Deseos</LttlWishList>
+    <LtxtConfRemWLItem>¿Está seguro que desea eliminar el artículo {0} de su lista de deseo?</LtxtConfRemWLItem>
+    <LtxtExpires>Expira</LtxtExpires>
+    <LtxtRegItem>Articulo Regular</LtxtRegItem>
+    <LtxtBtchItem>Articulo de Lote</LtxtBtchItem>
+    <LtxtSerItem>Artículo de Números de Series</LtxtSerItem>
+    <Ltxt3dxItem>Articulo 3dx</Ltxt3dxItem>
+    <LtxtChkAll>Marcar Todos</LtxtChkAll>
+    <LtxtBuyChkItms>Agregar Artículos Marcados</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Debe marcar al menos 1 artículo</LtxtChkAtLead1Item>
+    <LttlNewItm>Nuevo Artículo</LttlNewItm>
+    <LtxtAdd2Cart>Agregar</LtxtAdd2Cart>
+    <LtxtSearchRetVal>La búsqueda devolvió {0} resultados</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBuy>קנה</DtxtBuy>
+    <DtxtAvl>זמין</DtxtAvl>
+    <DtxtProm>מבצע</DtxtProm>
+    <DtxtTemplate>תבנית</DtxtTemplate>
+    <DtxtRecommendations>המלצות</DtxtRecommendations>
+    <DtxtList>רשימה</DtxtList>
+    <DtxtDuplicate>להכפיל</DtxtDuplicate>
+    <LtxtWishList>רשימת משאלות</LtxtWishList>
+    <LtxtViewProd>ראה פריט</LtxtViewProd>
+    <LtxtItmMoreImg>פריט אם יותר תמונה אחת</LtxtItmMoreImg>
+    <LtxtStartSesion>יש להכניס משתמש וסיסמה על מנת לקנות בסל קניות</LtxtStartSesion>
+    <LttlWishList>רשימת המשאלות</LttlWishList>
+    <LtxtConfRemWLItem>האם למחוק את פריט {0} מרישמת המשאלות?</LtxtConfRemWLItem>
+    <LtxtExpires>נגמר ב</LtxtExpires>
+    <LtxtRegItem>פריט רגיל</LtxtRegItem>
+    <LtxtBtchItem>פריט אצווה</LtxtBtchItem>
+    <LtxtSerItem>פריט מס' סידורי</LtxtSerItem>
+    <Ltxt3dxItem>פריט 3Dx</Ltxt3dxItem>
+    <LtxtChkAll>בחר הכל</LtxtChkAll>
+    <LtxtBuyChkItms>הוסף לסל פריטים מסומנים</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>יש לבחור לפחות פריט אחד</LtxtChkAtLead1Item>
+    <LttlNewItm>פריט חדש</LttlNewItm>
+    <LtxtAdd2Cart>הוסף לסל</LtxtAdd2Cart>
+    <LtxtSearchRetVal>תוצרות החיפוש הם {0}</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBuy>Buy</DtxtBuy>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtProm>Promotion</DtxtProm>
+    <DtxtTemplate>Template</DtxtTemplate>
+    <DtxtRecommendations>Recommendations</DtxtRecommendations>
+    <DtxtList>List</DtxtList>
+    <DtxtDuplicate>Duplicate</DtxtDuplicate>
+    <LtxtWishList>Wish List</LtxtWishList>
+    <LtxtViewProd>View Product</LtxtViewProd>
+    <LtxtItmMoreImg>Item with more than one image</LtxtItmMoreImg>
+    <LtxtStartSesion>You need to start a session to make a purchase</LtxtStartSesion>
+    <LttlWishList>Wish List</LttlWishList>
+    <LtxtConfRemWLItem>Are you sure you want to remove the item {0} from your wish list?</LtxtConfRemWLItem>
+    <LtxtExpires>Expires</LtxtExpires>
+    <LtxtRegItem>Regular Item</LtxtRegItem>
+    <LtxtBtchItem>Batch Item</LtxtBtchItem>
+    <LtxtSerItem>Serial Number Item</LtxtSerItem>
+    <Ltxt3dxItem>3dx Item</Ltxt3dxItem>
+    <LtxtChkAll>Check All</LtxtChkAll>
+    <LtxtBuyChkItms>Add Checked Items</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>You must check at least 1 item</LtxtChkAtLead1Item>
+    <LttlNewItm>New Item</LttlNewItm>
+    <LtxtAdd2Cart>Add</LtxtAdd2Cart>
+    <LtxtSearchRetVal>The search returned {0} result(s)</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtBuy>Comprar</DtxtBuy>
+    <DtxtAvl>Disponível</DtxtAvl>
+    <DtxtProm>Promoção</DtxtProm>
+    <DtxtTemplate>Modelo</DtxtTemplate>
+    <DtxtRecommendations>Recomendações</DtxtRecommendations>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDuplicate>Duplicar</DtxtDuplicate>
+    <LtxtWishList>Lista de Desejos</LtxtWishList>
+    <LtxtViewProd>Ver Produto</LtxtViewProd>
+    <LtxtItmMoreImg>Item com mais de uma imagem</LtxtItmMoreImg>
+    <LtxtStartSesion>Deve iniciar uma sessão para poder realizar uma compra</LtxtStartSesion>
+    <LttlWishList>Meus Desejos</LttlWishList>
+    <LtxtConfRemWLItem>Tem certeza que deseja excluir o item {0} da sua lista de desejos?</LtxtConfRemWLItem>
+    <LtxtExpires>Expira</LtxtExpires>
+    <LtxtRegItem>Item Regular</LtxtRegItem>
+    <LtxtBtchItem>Item de Lote</LtxtBtchItem>
+    <LtxtSerItem>Item de Números de  Séries</LtxtSerItem>
+    <Ltxt3dxItem>Item 3dx</Ltxt3dxItem>
+    <LtxtChkAll>Selecionar Todos</LtxtChkAll>
+    <LtxtBuyChkItms>Adicionar Itens selecionados</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Você deve marcar pelo menos 1 item</LtxtChkAtLead1Item>
+    <LttlNewItm>Novo Item</LttlNewItm>
+    <LtxtAdd2Cart>Adicionar</LtxtAdd2Cart>
+    <LtxtSearchRetVal>A pesquisa retornou {0} resultado(s)</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBuy>Acheter</DtxtBuy>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtProm>Promotion</DtxtProm>
+    <DtxtTemplate>&lt;--&gt;</DtxtTemplate>
+    <DtxtRecommendations>&lt;--&gt;</DtxtRecommendations>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtDuplicate>&lt;--&gt;</DtxtDuplicate>
+    <LtxtWishList>Liste des voeux</LtxtWishList>
+    <LtxtViewProd>Voir Produit</LtxtViewProd>
+    <LtxtItmMoreImg>Article avec plus d'une image</LtxtItmMoreImg>
+    <LtxtStartSesion>Devez-vous commencer une séance à fin de réaliser un achat</LtxtStartSesion>
+    <LttlWishList>Mes voeux</LttlWishList>
+    <LtxtConfRemWLItem>Êtes-vous sûre d\'éliminer l\'article {0} de votre liste de voeux?</LtxtConfRemWLItem>
+    <LtxtExpires>Il expire</LtxtExpires>
+    <LtxtRegItem>Article regulier</LtxtRegItem>
+    <LtxtBtchItem>Article de lot</LtxtBtchItem>
+    <LtxtSerItem>Article des numéros de séries</LtxtSerItem>
+    <Ltxt3dxItem>Article 3dx</Ltxt3dxItem>
+    <LtxtChkAll>&lt;--&gt;</LtxtChkAll>
+    <LtxtBuyChkItms>&lt;--&gt;</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>&lt;--&gt;</LtxtChkAtLead1Item>
+    <LttlNewItm>Nouveau article</LttlNewItm>
+    <LtxtAdd2Cart>Ajouter</LtxtAdd2Cart>
+    <LtxtSearchRetVal>&lt;--&gt;</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBuy>Kaufen</DtxtBuy>
+    <DtxtAvl>Vorhanden</DtxtAvl>
+    <DtxtProm>Promotion</DtxtProm>
+    <DtxtTemplate>Vorlage</DtxtTemplate>
+    <DtxtRecommendations>Empfehlungen</DtxtRecommendations>
+    <DtxtList>Aufstellung</DtxtList>
+    <DtxtDuplicate>Duplikat</DtxtDuplicate>
+    <LtxtWishList>Wunschliste</LtxtWishList>
+    <LtxtViewProd>Produkt ansehen</LtxtViewProd>
+    <LtxtItmMoreImg>Artikel mit mehr als einem Bild</LtxtItmMoreImg>
+    <LtxtStartSesion>Sie müssen eine Sitzung anfangen um einen Kauf zu tätigen</LtxtStartSesion>
+    <LttlWishList>Wunschliste</LttlWishList>
+    <LtxtConfRemWLItem>Möchten Sie den Artikel {0} wirklich von Ihre Wunschliste entfernen?</LtxtConfRemWLItem>
+    <LtxtExpires>Läuft ab</LtxtExpires>
+    <LtxtRegItem>Normaler Artikel</LtxtRegItem>
+    <LtxtBtchItem>Bündelartikel</LtxtBtchItem>
+    <LtxtSerItem>Seriennummer Artikel</LtxtSerItem>
+    <Ltxt3dxItem>3dx Artikel</Ltxt3dxItem>
+    <LtxtChkAll>&lt;--&gt;</LtxtChkAll>
+    <LtxtBuyChkItms>&lt;--&gt;</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>&lt;--&gt;</LtxtChkAtLead1Item>
+    <LttlNewItm>Neuer Artikel</LttlNewItm>
+    <LtxtAdd2Cart>Hinzufügen</LtxtAdd2Cart>
+    <LtxtSearchRetVal>&lt;--&gt;</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBuy>Покупать</DtxtBuy>
+    <DtxtAvl>Доступный</DtxtAvl>
+    <DtxtProm>Скидка</DtxtProm>
+    <DtxtTemplate>Размер</DtxtTemplate>
+    <DtxtRecommendations>Рекомендаций</DtxtRecommendations>
+    <DtxtList>Список</DtxtList>
+    <DtxtDuplicate>&lt;--&gt;</DtxtDuplicate>
+    <LtxtWishList>Список вопросов</LtxtWishList>
+    <LtxtViewProd>Смотреть деталь</LtxtViewProd>
+    <LtxtItmMoreImg>Деталь больше чем с одной фотографией</LtxtItmMoreImg>
+    <LtxtStartSesion>Нужно поставить имя пользователя и пароль для  корзины покупок</LtxtStartSesion>
+    <LttlWishList>Список вопросов</LttlWishList>
+    <LtxtConfRemWLItem>Стереть деталь {0} из списка?</LtxtConfRemWLItem>
+    <LtxtExpires>Закончился в</LtxtExpires>
+    <LtxtRegItem>Стандартная деталь</LtxtRegItem>
+    <LtxtBtchItem>Деталь на полке</LtxtBtchItem>
+    <LtxtSerItem>Деталь с порядковым номером</LtxtSerItem>
+    <Ltxt3dxItem>Деталь 3Dx</Ltxt3dxItem>
+    <LtxtChkAll>Выбрать все</LtxtChkAll>
+    <LtxtBuyChkItms>Добавить в корзину отмеченые детали</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Нужно выбрать хотя бы одну деталь</LtxtChkAtLead1Item>
+    <LttlNewItm>Новая деталь</LttlNewItm>
+    <LtxtAdd2Cart>Добавить в корзину</LtxtAdd2Cart>
+    <LtxtSearchRetVal>&lt;--&gt;</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBuy>Koupit</DtxtBuy>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtProm>Promoce</DtxtProm>
+    <DtxtTemplate>Šablona</DtxtTemplate>
+    <DtxtRecommendations>Doporučení</DtxtRecommendations>
+    <DtxtList>Seznam</DtxtList>
+    <DtxtDuplicate>&lt;--&gt;</DtxtDuplicate>
+    <LtxtWishList>Seznam přání</LtxtWishList>
+    <LtxtViewProd>Zobrazit produkt</LtxtViewProd>
+    <LtxtItmMoreImg>Položky s víc než jedním obrázkem</LtxtItmMoreImg>
+    <LtxtStartSesion>Abyste mohl/a nakupovat, musíte spustit relaci</LtxtStartSesion>
+    <LttlWishList>Seznam přání</LttlWishList>
+    <LtxtConfRemWLItem>Jste si jistý/á, že chcete odebrat položku {0} ze svého seznamu přání?</LtxtConfRemWLItem>
+    <LtxtExpires>Expiruje</LtxtExpires>
+    <LtxtRegItem>Pravidelná položka</LtxtRegItem>
+    <LtxtBtchItem>Dávková položka</LtxtBtchItem>
+    <LtxtSerItem>Seriové číslo položky</LtxtSerItem>
+    <Ltxt3dxItem>Položka 3dx</Ltxt3dxItem>
+    <LtxtChkAll>Zaškrtnout všechny</LtxtChkAll>
+    <LtxtBuyChkItms>Přidat zašktnutné položky</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Musíte zaškrtnout aspoň jednu položku</LtxtChkAtLead1Item>
+    <LttlNewItm>Nová položka</LttlNewItm>
+    <LtxtAdd2Cart>Přidat</LtxtAdd2Cart>
+    <LtxtSearchRetVal>&lt;--&gt;</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBuy>Kup</DtxtBuy>
+    <DtxtAvl>Dostępny</DtxtAvl>
+    <DtxtProm>Promocja</DtxtProm>
+    <DtxtTemplate>Szablon</DtxtTemplate>
+    <DtxtRecommendations>Rekomendacje</DtxtRecommendations>
+    <DtxtList>Lista</DtxtList>
+    <DtxtDuplicate>Duplikuj</DtxtDuplicate>
+    <LtxtWishList>Lista życzeń </LtxtWishList>
+    <LtxtViewProd>Zobacz produkt</LtxtViewProd>
+    <LtxtItmMoreImg>Pozycja z więcej niż jednym zdjęciem</LtxtItmMoreImg>
+    <LtxtStartSesion>Musisz rozpocząć sesję aby zrobić zakup</LtxtStartSesion>
+    <LttlWishList>Lista życzeń </LttlWishList>
+    <LtxtConfRemWLItem>Czy jesteś pewien, że chcesz usunąć pozycję {0] z listy życzeń?</LtxtConfRemWLItem>
+    <LtxtExpires>Wygasa</LtxtExpires>
+    <LtxtRegItem>Normalna pozycja</LtxtRegItem>
+    <LtxtBtchItem>Pozycja partii</LtxtBtchItem>
+    <LtxtSerItem>Pozycja numeru seryjnego</LtxtSerItem>
+    <Ltxt3dxItem>Pozycja 3DX</Ltxt3dxItem>
+    <LtxtChkAll>Wybierz wszystko</LtxtChkAll>
+    <LtxtBuyChkItms>Dodaj wybrane pozycje</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Musisz wybrać przynajmniej 1 pozycję</LtxtChkAtLead1Item>
+    <LttlNewItm>Nowa pozycja</LttlNewItm>
+    <LtxtAdd2Cart>Dodaj</LtxtAdd2Cart>
+    <LtxtSearchRetVal>Wyniki poszukiwania {0}</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBuy>Kúpiť</DtxtBuy>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtProm>Špeciálna ponuka</DtxtProm>
+    <DtxtTemplate>Vzor</DtxtTemplate>
+    <DtxtRecommendations>Odporučenia</DtxtRecommendations>
+    <DtxtList>Zoznam</DtxtList>
+    <DtxtDuplicate>Duplikovať</DtxtDuplicate>
+    <LtxtWishList>Zoznam prianí</LtxtWishList>
+    <LtxtViewProd>Zobraziť produkt</LtxtViewProd>
+    <LtxtItmMoreImg>Položka s viac ako jedným obrázkom</LtxtItmMoreImg>
+    <LtxtStartSesion>Musíte začať reláciu na to, aby ste mohli zrealizovať nákup</LtxtStartSesion>
+    <LttlWishList>Zoznam prianí</LttlWishList>
+    <LtxtConfRemWLItem>Ste si istí, že chcete odstrániť položku {0} z Vášho zoznamu prianí?</LtxtConfRemWLItem>
+    <LtxtExpires>Expiruje</LtxtExpires>
+    <LtxtRegItem>Pravidelná položka</LtxtRegItem>
+    <LtxtBtchItem>Položka šarže</LtxtBtchItem>
+    <LtxtSerItem>Položka sériového čísla</LtxtSerItem>
+    <Ltxt3dxItem>Položka 3dx</Ltxt3dxItem>
+    <LtxtChkAll>Označiť všetko</LtxtChkAll>
+    <LtxtBuyChkItms>Pridať označené položky</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>Musíte označiť aspoň 1 položku</LtxtChkAtLead1Item>
+    <LttlNewItm>Nová položka</LttlNewItm>
+    <LtxtAdd2Cart>Pridať</LtxtAdd2Cart>
+    <LtxtSearchRetVal>Vyhľadávanie prinieslo {0} výsledkov</LtxtSearchRetVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBuy>DtxtBuy</DtxtBuy>
+    <DtxtAvl>DtxtAvl</DtxtAvl>
+    <DtxtProm>DtxtProm</DtxtProm>
+    <DtxtTemplate>DtxtTemplate</DtxtTemplate>
+    <DtxtRecommendations>DtxtRecommendations</DtxtRecommendations>
+    <DtxtList>DtxtList</DtxtList>
+    <DtxtDuplicate>DtxtDuplicate</DtxtDuplicate>
+    <LtxtWishList>LtxtWishList</LtxtWishList>
+    <LtxtViewProd>LtxtViewProd</LtxtViewProd>
+    <LtxtItmMoreImg>LtxtItmMoreImg</LtxtItmMoreImg>
+    <LtxtStartSesion>LtxtStartSesion</LtxtStartSesion>
+    <LttlWishList>LttlWishList</LttlWishList>
+    <LtxtConfRemWLItem>LtxtConfRemWLItem</LtxtConfRemWLItem>
+    <LtxtExpires>LtxtExpires</LtxtExpires>
+    <LtxtRegItem>LtxtRegItem</LtxtRegItem>
+    <LtxtBtchItem>LtxtBtchItem</LtxtBtchItem>
+    <LtxtSerItem>LtxtSerItem</LtxtSerItem>
+    <Ltxt3dxItem>Ltxt3dxItem</Ltxt3dxItem>
+    <LtxtChkAll>LtxtChkAll</LtxtChkAll>
+    <LtxtBuyChkItms>LtxtBuyChkItms</LtxtBuyChkItms>
+    <LtxtChkAtLead1Item>LtxtChkAtLead1Item</LtxtChkAtLead1Item>
+    <LttlNewItm>LttlNewItm</LttlNewItm>
+    <LtxtAdd2Cart>LtxtAdd2Cart</LtxtAdd2Cart>
+    <LtxtSearchRetVal>LtxtSearchRetVal</LtxtSearchRetVal>
+  </language>
+</languages>

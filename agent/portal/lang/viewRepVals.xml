@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtTop>Top</DtxtTop>
+    <LtxtQuery>Query</LtxtQuery>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtTop>Tope</DtxtTop>
+    <LtxtQuery>Consultar</LtxtQuery>
+    <LtxtEnterFld>Debe introducir el campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Seleccione/Introduzca</LtxtSelectEnter>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtTop>למעלה</DtxtTop>
+    <LtxtQuery>הרץ דוח</LtxtQuery>
+    <LtxtEnterFld>יש למלא את שדה "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>בחר/הכנס</LtxtSelectEnter>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtTop>Top</DtxtTop>
+    <LtxtQuery>Query</LtxtQuery>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtTop>No máximo</DtxtTop>
+    <LtxtQuery>Consultar</LtxtQuery>
+    <LtxtEnterFld>Deve introduzir o campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Selecione/Introduza</LtxtSelectEnter>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtTop>Arrêt</DtxtTop>
+    <LtxtQuery>Consulter</LtxtQuery>
+    <LtxtEnterFld>Devez-vous insérer le domaine "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Sélectionnez/Insérez</LtxtSelectEnter>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtTop>Oben</DtxtTop>
+    <LtxtQuery>Anfrage</LtxtQuery>
+    <LtxtEnterFld>Bitte geben Sie das Feld "{0}" ein</LtxtEnterFld>
+    <LtxtSelectEnter>Wählen/Eingeben</LtxtSelectEnter>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtTop>Сверху</DtxtTop>
+    <LtxtQuery>Выполнить отчет</LtxtQuery>
+    <LtxtEnterFld>Пожалуйста, заполнить поле "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Выбрать / Войти</LtxtSelectEnter>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtTop>Nahoru</DtxtTop>
+    <LtxtQuery>Dotaz</LtxtQuery>
+    <LtxtEnterFld>Vyplňte prosím pole "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vyberte/Zadejte</LtxtSelectEnter>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtTop>Do góry</DtxtTop>
+    <LtxtQuery>Zapytanie/kwerenda</LtxtQuery>
+    <LtxtEnterFld>Proszę wprowadź pole</LtxtEnterFld>
+    <LtxtSelectEnter>Wybierz/Wejdź</LtxtSelectEnter>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtTop>Vrchol</DtxtTop>
+    <LtxtQuery>Dotaz</LtxtQuery>
+    <LtxtEnterFld>Prosím zadajte políčko "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vybrať/Zadať</LtxtSelectEnter>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtTop>DtxtTop</DtxtTop>
+    <LtxtQuery>LtxtQuery</LtxtQuery>
+    <LtxtEnterFld>LtxtEnterFld</LtxtEnterFld>
+    <LtxtSelectEnter>LtxtSelectEnter</LtxtSelectEnter>
+  </language>
+</languages>

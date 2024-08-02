@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtAdvance>Advance</LtxtAdvance>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Bad</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Good</LtxtGood>
+    <LtxtExcelent>Excelent</LtxtExcelent>
+    <LtxtExtPolls>Extended Polls</LtxtExtPolls>
+    <LtxtViewRes>View Results</LtxtViewRes>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDate>Fecha</DtxtDate>
+    <LtxtStartDate>Fecha Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtAdvance>Avance</LtxtAdvance>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Malo</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Bueno</LtxtGood>
+    <LtxtExcelent>Excelente</LtxtExcelent>
+    <LtxtExtPolls>Encuestas Extendidas</LtxtExtPolls>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtDate>תאריך</DtxtDate>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtAdvance>התקדמות</LtxtAdvance>
+    <LtxtTerrible>נוראי</LtxtTerrible>
+    <LtxtBad>רע</LtxtBad>
+    <LtxtRegular>רגיל</LtxtRegular>
+    <LtxtGood>טוב</LtxtGood>
+    <LtxtExcelent>מצויין</LtxtExcelent>
+    <LtxtExtPolls>סקרים מורחבים</LtxtExtPolls>
+    <LtxtViewRes>תוצאות</LtxtViewRes>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtAdvance>Advance</LtxtAdvance>
+    <LtxtTerrible>Terrible</LtxtTerrible>
+    <LtxtBad>Bad</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Good</LtxtGood>
+    <LtxtExcelent>Excelent</LtxtExcelent>
+    <LtxtExtPolls>Extended Polls</LtxtExtPolls>
+    <LtxtViewRes>View Results</LtxtViewRes>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtStartDate>Data Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtAdvance>Avançar</LtxtAdvance>
+    <LtxtTerrible>Terrível</LtxtTerrible>
+    <LtxtBad>Ruim</LtxtBad>
+    <LtxtRegular>Regular</LtxtRegular>
+    <LtxtGood>Bom</LtxtGood>
+    <LtxtExcelent>Excelente</LtxtExcelent>
+    <LtxtExtPolls>Pesquisas Extendidas</LtxtExtPolls>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtAdvance>&lt;--&gt;</LtxtAdvance>
+    <LtxtTerrible>&lt;--&gt;</LtxtTerrible>
+    <LtxtBad>&lt;--&gt;</LtxtBad>
+    <LtxtRegular>&lt;--&gt;</LtxtRegular>
+    <LtxtGood>&lt;--&gt;</LtxtGood>
+    <LtxtExcelent>&lt;--&gt;</LtxtExcelent>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtAdvance>&lt;--&gt;</LtxtAdvance>
+    <LtxtTerrible>&lt;--&gt;</LtxtTerrible>
+    <LtxtBad>&lt;--&gt;</LtxtBad>
+    <LtxtRegular>&lt;--&gt;</LtxtRegular>
+    <LtxtGood>&lt;--&gt;</LtxtGood>
+    <LtxtExcelent>&lt;--&gt;</LtxtExcelent>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtDate>Дата</DtxtDate>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата окончания</LtxtEndDate>
+    <LtxtAdvance>Прогресс</LtxtAdvance>
+    <LtxtTerrible>Ужасный</LtxtTerrible>
+    <LtxtBad>Плохо</LtxtBad>
+    <LtxtRegular>обычный</LtxtRegular>
+    <LtxtGood>Хорошо</LtxtGood>
+    <LtxtExcelent>Отлично</LtxtExcelent>
+    <LtxtExtPolls>Расширенный опрос</LtxtExtPolls>
+    <LtxtViewRes>Результаты</LtxtViewRes>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtAdvance>Plánované</LtxtAdvance>
+    <LtxtTerrible>Strašný</LtxtTerrible>
+    <LtxtBad>Špatný</LtxtBad>
+    <LtxtRegular>Normální</LtxtRegular>
+    <LtxtGood>Dobrý</LtxtGood>
+    <LtxtExcelent>Výborný</LtxtExcelent>
+    <LtxtExtPolls>Rozšířené ankety</LtxtExtPolls>
+    <LtxtViewRes>Zobrazit výsledky</LtxtViewRes>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtAdvance>Zaawansowany</LtxtAdvance>
+    <LtxtTerrible>Koszmarny</LtxtTerrible>
+    <LtxtBad>Zły</LtxtBad>
+    <LtxtRegular>Zwykły</LtxtRegular>
+    <LtxtGood>Dobry</LtxtGood>
+    <LtxtExcelent>Świetny</LtxtExcelent>
+    <LtxtExtPolls>Rozszerzone ankiety</LtxtExtPolls>
+    <LtxtViewRes>Zobacz wyniki</LtxtViewRes>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtDate>Dátum</DtxtDate>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtAdvance>Predbežné</LtxtAdvance>
+    <LtxtTerrible>Hrozné</LtxtTerrible>
+    <LtxtBad>Zlé</LtxtBad>
+    <LtxtRegular>Pravidelné</LtxtRegular>
+    <LtxtGood>Dobré</LtxtGood>
+    <LtxtExcelent>Vynikajúce</LtxtExcelent>
+    <LtxtExtPolls>Rozšírené ankety</LtxtExtPolls>
+    <LtxtViewRes>Zobraziť</LtxtViewRes>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtAdvance>LtxtAdvance</LtxtAdvance>
+    <LtxtTerrible>LtxtTerrible</LtxtTerrible>
+    <LtxtBad>LtxtBad</LtxtBad>
+    <LtxtRegular>LtxtRegular</LtxtRegular>
+    <LtxtGood>LtxtGood</LtxtGood>
+    <LtxtExcelent>LtxtExcelent</LtxtExcelent>
+    <LtxtExtPolls>LtxtExtPolls</LtxtExtPolls>
+    <LtxtViewRes>LtxtViewRes</LtxtViewRes>
+  </language>
+</languages>

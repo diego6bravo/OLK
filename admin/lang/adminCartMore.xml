@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCart>Cart</DtxtCart>
+    <LttlCartMore>More Options</LttlCartMore>
+    <LttlCartMoreNote>Here the advanced search and the search tree may be enabled (Clients).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Show Search Tree</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Show Advanced Search</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCart>Canasta</DtxtCart>
+    <LttlCartMore>Más Opciones</LttlCartMore>
+    <LttlCartMoreNote>En esta sección podrá definir si desea habilitar la búsqueda regular y el árbol de búsqueda (Clientes).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Mostrar árbol de búsqueda</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Mostrar búsqueda avanzada</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCart>סל הקניות</DtxtCart>
+    <LttlCartMore>עוד אפשרויות</LttlCartMore>
+    <LttlCartMoreNote>בחלק זה ניתן להגדיר האם לאפשר חיפוש רגיל או\ו עץ חיפוש ללקוחות.</LttlCartMoreNote>
+    <LtxtShowCSearchTree>הראה עץ חיפוש</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>הראה חיפוש מתקדם</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCart>Cart</DtxtCart>
+    <LttlCartMore>More Options</LttlCartMore>
+    <LttlCartMoreNote>Here the advanced search and the search tree may be enabled (Clients).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Show Search Tree</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Show Advanced Search</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCart>Carrinho</DtxtCart>
+    <LttlCartMore>Mais Opções</LttlCartMore>
+    <LttlCartMoreNote>Nesta seção, a pesquisa avançada e a árvore de busca podem ser habilitadas (Clientes).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Mostrar Árvore de Busca</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Mostrar Busca Avançada</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCart>Corbeille</DtxtCart>
+    <LttlCartMore>&lt;--&gt;</LttlCartMore>
+    <LttlCartMoreNote>&lt;--&gt;</LttlCartMoreNote>
+    <LtxtShowCSearchTree>&lt;--&gt;</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>&lt;--&gt;</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCart>Einkaufswagen</DtxtCart>
+    <LttlCartMore>&lt;--&gt;</LttlCartMore>
+    <LttlCartMoreNote>&lt;--&gt;</LttlCartMoreNote>
+    <LtxtShowCSearchTree>&lt;--&gt;</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>&lt;--&gt;</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCart>Пакет услуг</DtxtCart>
+    <LttlCartMore>Дополнительные параметры</LttlCartMore>
+    <LttlCartMoreNote>В этом разделе можно определить, если вы хотите,  обычный поиск и поиск дерева (клиентов).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Показать дерево поиска</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Показать Расширенный поиск</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCart>Košík</DtxtCart>
+    <LttlCartMore>Další možnosti</LttlCartMore>
+    <LttlCartMoreNote>V této sekci můžete aktivovat rozšířené hledání a vyhledávací strom (klienti).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Zobrazit vyhledávací strom</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Zobrazit rozšířené hledání</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCart>Koszyk</DtxtCart>
+    <LttlCartMore>Więcej opcji</LttlCartMore>
+    <LttlCartMoreNote>Tutaj można umożliwić zaawansowane poszukiwanie i/ lub drzewo poszukiwań (klienci)</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Pokaż drzewo poszukiwań</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Pokaz zaawansowane poszukiwanie</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCart>Košík</DtxtCart>
+    <LttlCartMore>Viac možností</LttlCartMore>
+    <LttlCartMoreNote>Tu sa dá umožniť rozšírené vyhľadávanie a vyhľadávací strom (Klienti).</LttlCartMoreNote>
+    <LtxtShowCSearchTree>Zobraziť strom vyhľadávania</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>Zobraziť rozšírené vyhľadávanie</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCart>&lt;--&gt;</DtxtCart>
+    <LttlCartMore>&lt;--&gt;</LttlCartMore>
+    <LttlCartMoreNote>&lt;--&gt;</LttlCartMoreNote>
+    <LtxtShowCSearchTree>&lt;--&gt;</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>&lt;--&gt;</LtxtShowCAdSearch>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCart>DtxtCart</DtxtCart>
+    <LttlCartMore>LttlCartMore</LttlCartMore>
+    <LttlCartMoreNote>LttlCartMoreNote</LttlCartMoreNote>
+    <LtxtShowCSearchTree>LtxtShowCSearchTree</LtxtShowCSearchTree>
+    <LtxtShowCAdSearch>LtxtShowCAdSearch</LtxtShowCAdSearch>
+  </language>
+</languages>

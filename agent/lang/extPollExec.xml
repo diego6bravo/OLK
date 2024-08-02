@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtExtPolls>Extended Poll Execution</LtxtExtPolls>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtValSelContact>You must select a contact</LtxtValSelContact>
+    <LtxtConfEndPoll>Are you sure you want to finish this poll?</LtxtConfEndPoll>
+    <LtxtValAnswer>You haven\'t answered question #{0}</LtxtValAnswer>
+    <LtxtValNote>You must enter a note with at least 5 characters for question #{0}</LtxtValNote>
+    <LtxtExtPolls2>Extended Polls</LtxtExtPolls2>
+    <LtxtViewRes>View Results</LtxtViewRes>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtClientPollSum>Client Poll Summary</LtxtClientPollSum>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LtxtExtPolls>Ejecución de Encuesta Extendidas</LtxtExtPolls>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtPosition>Posición</LtxtPosition>
+    <LtxtStartDate>Fecha Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha Finalización</LtxtEndDate>
+    <LtxtValSelContact>Debe seleccionar un contacto</LtxtValSelContact>
+    <LtxtConfEndPoll>¿Está seguro que desea finalizar esta encuesta?</LtxtConfEndPoll>
+    <LtxtValAnswer>No ha respondido la pregunta N°{0}</LtxtValAnswer>
+    <LtxtValNote>Tiene que escribir una nota con un mínimo de 5 caracteres para la pregunta N°{0}</LtxtValNote>
+    <LtxtExtPolls2>Encuestas Extendidas</LtxtExtPolls2>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+    <LtxtDetails>Detalles</LtxtDetails>
+    <LtxtClientPollSum>Resumen de Encuesta de Cliente</LtxtClientPollSum>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LtxtExtPolls>הרצת סקר מורחב</LtxtExtPolls>
+    <LtxtMobile>נייד</LtxtMobile>
+    <LtxtPosition>תפקיד</LtxtPosition>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtValSelContact>יש לבחור איש קשר</LtxtValSelContact>
+    <LtxtConfEndPoll>האם לסיים את הסקר?</LtxtConfEndPoll>
+    <LtxtValAnswer>לא ענית לשאלה {0}#</LtxtValAnswer>
+    <LtxtValNote>יש לרשום הערה עם 5 תווים לפחות לשאלה {0}#</LtxtValNote>
+    <LtxtExtPolls2>סקרים מורחבים</LtxtExtPolls2>
+    <LtxtViewRes>תוצאות</LtxtViewRes>
+    <LtxtDetails>פרטים</LtxtDetails>
+    <LtxtClientPollSum>סיכום סקרי לקוחות</LtxtClientPollSum>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LtxtExtPolls>Extended Poll Execution</LtxtExtPolls>
+    <LtxtMobile>Mobile Phone</LtxtMobile>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtValSelContact>You must select a contact</LtxtValSelContact>
+    <LtxtConfEndPoll>Are you sure you want to finish this poll?</LtxtConfEndPoll>
+    <LtxtValAnswer>You haven\'t answered question #{0}</LtxtValAnswer>
+    <LtxtValNote>You must enter a note with at least 5 characters for question #{0}</LtxtValNote>
+    <LtxtExtPolls2>Extended Polls</LtxtExtPolls2>
+    <LtxtViewRes>View Results</LtxtViewRes>
+    <LtxtDetails>Details</LtxtDetails>
+    <LtxtClientPollSum>Client Poll Summary</LtxtClientPollSum>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LtxtExtPolls>Execução de Pesquisa Extendida</LtxtExtPolls>
+    <LtxtMobile>Celular</LtxtMobile>
+    <LtxtPosition>Posição</LtxtPosition>
+    <LtxtStartDate>Data Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtValSelContact>Você deve selecionar um contato</LtxtValSelContact>
+    <LtxtConfEndPoll>Tem certeza que deseja finalizar esta pesquisa ?</LtxtConfEndPoll>
+    <LtxtValAnswer>Você não respondeu a pergunta Nº {0}</LtxtValAnswer>
+    <LtxtValNote>É preciso uma resposta com pelo menos 5 caracteres para a pergunta Nº {0}</LtxtValNote>
+    <LtxtExtPolls2>Pesquisa Extendida</LtxtExtPolls2>
+    <LtxtViewRes>Ver Resultados</LtxtViewRes>
+    <LtxtDetails>Detalhes</LtxtDetails>
+    <LtxtClientPollSum>Resumo de Pesquisa de Cliente</LtxtClientPollSum>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtMobile>Portable</LtxtMobile>
+    <LtxtPosition>Position</LtxtPosition>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtValSelContact>&lt;--&gt;</LtxtValSelContact>
+    <LtxtConfEndPoll>&lt;--&gt;</LtxtConfEndPoll>
+    <LtxtValAnswer>&lt;--&gt;</LtxtValAnswer>
+    <LtxtValNote>&lt;--&gt;</LtxtValNote>
+    <LtxtExtPolls2>&lt;--&gt;</LtxtExtPolls2>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtClientPollSum>&lt;--&gt;</LtxtClientPollSum>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LtxtExtPolls>&lt;--&gt;</LtxtExtPolls>
+    <LtxtMobile>Mobiltelefon</LtxtMobile>
+    <LtxtPosition>Stelle</LtxtPosition>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtValSelContact>&lt;--&gt;</LtxtValSelContact>
+    <LtxtConfEndPoll>&lt;--&gt;</LtxtConfEndPoll>
+    <LtxtValAnswer>&lt;--&gt;</LtxtValAnswer>
+    <LtxtValNote>&lt;--&gt;</LtxtValNote>
+    <LtxtExtPolls2>&lt;--&gt;</LtxtExtPolls2>
+    <LtxtViewRes>&lt;--&gt;</LtxtViewRes>
+    <LtxtDetails>&lt;--&gt;</LtxtDetails>
+    <LtxtClientPollSum>&lt;--&gt;</LtxtClientPollSum>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LtxtExtPolls>Выполнение расширенного опроса</LtxtExtPolls>
+    <LtxtMobile>Мобильник</LtxtMobile>
+    <LtxtPosition>Должность</LtxtPosition>
+    <LtxtStartDate>Дата начала</LtxtStartDate>
+    <LtxtEndDate>Дата конца</LtxtEndDate>
+    <LtxtValSelContact>Выбрать человека связи</LtxtValSelContact>
+    <LtxtConfEndPoll>Закрыть сделку?</LtxtConfEndPoll>
+    <LtxtValAnswer>Вы не ответили на этот вопрос {0}#</LtxtValAnswer>
+    <LtxtValNote>Необходимо зарегистрировать свой комментарий   5 символами,  по крайней мере , для вопроса {0}# </LtxtValNote>
+    <LtxtExtPolls2>Расширенные опросы</LtxtExtPolls2>
+    <LtxtViewRes>Результаты</LtxtViewRes>
+    <LtxtDetails>Детали</LtxtDetails>
+    <LtxtClientPollSum>Резюме опросов клиентов</LtxtClientPollSum>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LtxtExtPolls>Spuštění rozšířené ankety</LtxtExtPolls>
+    <LtxtMobile>Mobilní telefon</LtxtMobile>
+    <LtxtPosition>Pozice</LtxtPosition>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtValSelContact>Musíte zvolit kontakt</LtxtValSelContact>
+    <LtxtConfEndPoll>Jste si jistý/á, že chcete ukončit tuto anketu?</LtxtConfEndPoll>
+    <LtxtValAnswer>Neodpověděl/a jste na otázku #{0}</LtxtValAnswer>
+    <LtxtValNote>K otázce #{0} musíte vložit poznámku s minimálně 5ti znaky</LtxtValNote>
+    <LtxtExtPolls2>Rozšířené ankety</LtxtExtPolls2>
+    <LtxtViewRes>Zobrazit výsledky</LtxtViewRes>
+    <LtxtDetails>Podrobností</LtxtDetails>
+    <LtxtClientPollSum>Shrnutí ankety klienta</LtxtClientPollSum>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LtxtExtPolls>Wykonanie rozszerzonej ankiety</LtxtExtPolls>
+    <LtxtMobile>Komórka </LtxtMobile>
+    <LtxtPosition>Stanowisko</LtxtPosition>
+    <LtxtStartDate>Data rozpoczęcia </LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtValSelContact>Musisz wybrać kontakt</LtxtValSelContact>
+    <LtxtConfEndPoll>Czy jesteś pewien, że chcesz zakończyć tę ankietę?</LtxtConfEndPoll>
+    <LtxtValAnswer>Nie odpowiedziałeś na pytanie #{0}</LtxtValAnswer>
+    <LtxtValNote>Musisz wprowadzić uwagę do pytania  #{0} z co najmniej 5 znakami</LtxtValNote>
+    <LtxtExtPolls2>Rozszerzone ankiety</LtxtExtPolls2>
+    <LtxtViewRes>Zobacz wyniki</LtxtViewRes>
+    <LtxtDetails>Szczegóły</LtxtDetails>
+    <LtxtClientPollSum>Podsumowanie ankiety klienta</LtxtClientPollSum>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LtxtExtPolls>Realizácia rozšírenej ankety</LtxtExtPolls>
+    <LtxtMobile>Mobilný telefón</LtxtMobile>
+    <LtxtPosition>Pozícia</LtxtPosition>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtValSelContact>Musíte zvoliť kontakt</LtxtValSelContact>
+    <LtxtConfEndPoll>Ste si istí, že chcete ukončiť túto anketu?</LtxtConfEndPoll>
+    <LtxtValAnswer>Neodpovedali ste na otázku #{0}</LtxtValAnswer>
+    <LtxtValNote>Musíte zadať poznámku s aspoň 5 znakmi pre otázku #{0}</LtxtValNote>
+    <LtxtExtPolls2>Rozšírené ankety</LtxtExtPolls2>
+    <LtxtViewRes>Zobraziť výsledky</LtxtViewRes>
+    <LtxtDetails>Údaje</LtxtDetails>
+    <LtxtClientPollSum>Zhrnutie ankety klienta</LtxtClientPollSum>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LtxtExtPolls>LtxtExtPolls</LtxtExtPolls>
+    <LtxtMobile>LtxtMobile</LtxtMobile>
+    <LtxtPosition>LtxtPosition</LtxtPosition>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtValSelContact>LtxtValSelContact</LtxtValSelContact>
+    <LtxtConfEndPoll>LtxtConfEndPoll</LtxtConfEndPoll>
+    <LtxtValAnswer>LtxtValAnswer</LtxtValAnswer>
+    <LtxtValNote>LtxtValNote</LtxtValNote>
+    <LtxtExtPolls2>LtxtExtPolls2</LtxtExtPolls2>
+    <LtxtViewRes>LtxtViewRes</LtxtViewRes>
+    <LtxtDetails>LtxtDetails</LtxtDetails>
+    <LtxtClientPollSum>LtxtClientPollSum</LtxtClientPollSum>
+  </language>
+</languages>

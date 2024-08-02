@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlNews>News</LttlNews>
+    <LtxtConfDelNews>Are you sure you want to delete the selected news?</LtxtConfDelNews>
+    <LtxtValSelNews>You must select the news you want to delete</LtxtValSelNews>
+    <LtxtNewNews>New News</LtxtNewNews>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicación</DtxtDateOfPub>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <LttlNews>Noticias</LttlNews>
+    <LtxtConfDelNews>¿Está seguro que desea eliminar las noticas seleccionadas?</LtxtConfDelNews>
+    <LtxtValSelNews>Debe seleccionar las noticias que desea eliminar</LtxtValSelNews>
+    <LtxtNewNews>Nueva Noticia</LtxtNewNews>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtDateOfPub>הפצה</DtxtDateOfPub>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtDelete>מחק</DtxtDelete>
+    <LttlNews>חדשות</LttlNews>
+    <LtxtConfDelNews>האם למחוק את החדשות שניבחרו?</LtxtConfDelNews>
+    <LtxtValSelNews>יש לבחור חדשות שאתה מעוניין למחוק</LtxtValSelNews>
+    <LtxtNewNews>חדשות חדשות</LtxtNewNews>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlNews>News</LttlNews>
+    <LtxtConfDelNews>Are you sure you want to delete the selected news?</LtxtConfDelNews>
+    <LtxtValSelNews>You must select the news you want to delete</LtxtValSelNews>
+    <LtxtNewNews>New News</LtxtNewNews>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicação</DtxtDateOfPub>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <LttlNews>Notícias</LttlNews>
+    <LtxtConfDelNews>Tem certeza que deseja excluir as notícias selecionadas ?</LtxtConfDelNews>
+    <LtxtValSelNews>Você deve selecionar as notícias que deseja excluir</LtxtValSelNews>
+    <LtxtNewNews>Adicionar Notícia</LtxtNewNews>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <LttlNews>Nouvelles</LttlNews>
+    <LtxtConfDelNews>&lt;--&gt;</LtxtConfDelNews>
+    <LtxtValSelNews>&lt;--&gt;</LtxtValSelNews>
+    <LtxtNewNews>&lt;--&gt;</LtxtNewNews>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtDateOfPub>Erscheinungsdatum</DtxtDateOfPub>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <LttlNews>Neuigkeiten</LttlNews>
+    <LtxtConfDelNews>&lt;--&gt;</LtxtConfDelNews>
+    <LtxtValSelNews>&lt;--&gt;</LtxtValSelNews>
+    <LtxtNewNews>&lt;--&gt;</LtxtNewNews>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtDateOfPub>Распределение</DtxtDateOfPub>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <LttlNews>Новости</LttlNews>
+    <LtxtConfDelNews>Удалить новости, которые вы выбрали?</LtxtConfDelNews>
+    <LtxtValSelNews>Нужно выбрать новости, которые вы желаете стереть</LtxtValSelNews>
+    <LtxtNewNews>Новые новости</LtxtNewNews>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtDateOfPub>Uveřejnění</DtxtDateOfPub>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <LttlNews>Novinky</LttlNews>
+    <LtxtConfDelNews>Jste si jistý/á, že chcete vymazat vybrané novinky?</LtxtConfDelNews>
+    <LtxtValSelNews>Musíte vybrat novinky, které chcete vymazat</LtxtValSelNews>
+    <LtxtNewNews>Vytvořit novinky</LtxtNewNews>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtDateOfPub>Publikacja</DtxtDateOfPub>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <LttlNews>Wiadomości</LttlNews>
+    <LtxtConfDelNews>Czy jesteś pewien, że chcesz usunąć wybrane wiadomości?</LtxtConfDelNews>
+    <LtxtValSelNews>Musisz wybrać wiadomość, która chcesz skasować</LtxtValSelNews>
+    <LtxtNewNews>Nowe wiadomości</LtxtNewNews>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtDateOfPub>Publikácia</DtxtDateOfPub>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <LttlNews>Správy</LttlNews>
+    <LtxtConfDelNews>Ste si istí, že chcete zmazať vybrané správy?</LtxtConfDelNews>
+    <LtxtValSelNews>Musíte vybrať správy, ktoré chcete vymazať</LtxtValSelNews>
+    <LtxtNewNews>Nové Správy</LtxtNewNews>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtDateOfPub>DtxtDateOfPub</DtxtDateOfPub>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <LttlNews>LttlNews</LttlNews>
+    <LtxtConfDelNews>LtxtConfDelNews</LtxtConfDelNews>
+    <LtxtValSelNews>LtxtValSelNews</LtxtValSelNews>
+    <LtxtNewNews>LtxtNewNews</LtxtNewNews>
+  </language>
+</languages>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <LtxtReason>Reason</LtxtReason>
+    <LtxtValNamReason>Please enter the Reason name</LtxtValNamReason>
+    <LtxtValReason>Please enter the Reason</LtxtValReason>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <LtxtReason>Razón</LtxtReason>
+    <LtxtValNamReason>Debe introducir el nombre de la razón</LtxtValNamReason>
+    <LtxtValReason>Debe introducir la razón</LtxtValReason>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <LtxtReason>סיבה</LtxtReason>
+    <LtxtValNamReason>חסר שם לסיבה!</LtxtValNamReason>
+    <LtxtValReason>חסר סיבה!</LtxtValReason>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <LtxtReason>Reason</LtxtReason>
+    <LtxtValNamReason>Please enter the Reason name</LtxtValNamReason>
+    <LtxtValReason>Please enter the Reason</LtxtValReason>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <LtxtReason>Razão</LtxtReason>
+    <LtxtValNamReason>Por favor, insira o nome da razão.</LtxtValNamReason>
+    <LtxtValReason>Por favor, insira a razão.</LtxtValReason>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <LtxtReason>Raison </LtxtReason>
+    <LtxtValNamReason>Devez-vous insérer le nom de la raison</LtxtValNamReason>
+    <LtxtValReason>Devez-vous insérer la raison</LtxtValReason>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <LtxtReason>Grund</LtxtReason>
+    <LtxtValNamReason>Bitte geben Sie den Grundnamen ein</LtxtValNamReason>
+    <LtxtValReason>Bitte den Grund angeben</LtxtValReason>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <LtxtReason>Причина</LtxtReason>
+    <LtxtValNamReason>Нет имени причины!</LtxtValNamReason>
+    <LtxtValReason>Нет причины!</LtxtValReason>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <LtxtReason>Důvod</LtxtReason>
+    <LtxtValNamReason>Zadejte prosím název důvodu</LtxtValNamReason>
+    <LtxtValReason>Zadejte prosím Důvod</LtxtValReason>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <LtxtReason>Przyczyna</LtxtReason>
+    <LtxtValNamReason>Proszę wprowadź nazwę przyczyny</LtxtValNamReason>
+    <LtxtValReason>Proszę wprowadź przyczynę</LtxtValReason>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <LtxtReason>Dôvod</LtxtReason>
+    <LtxtValNamReason>Prosím zadajte názov dôvodu</LtxtValNamReason>
+    <LtxtValReason>Prosím zadajte dôvod</LtxtValReason>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <LtxtReason>&lt;--&gt;</LtxtReason>
+    <LtxtValNamReason>&lt;--&gt;</LtxtValNamReason>
+    <LtxtValReason>&lt;--&gt;</LtxtValReason>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <LtxtReason>LtxtReason</LtxtReason>
+    <LtxtValNamReason>LtxtValNamReason</LtxtValNamReason>
+    <LtxtValReason>LtxtValReason</LtxtValReason>
+  </language>
+</languages>

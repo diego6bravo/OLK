@@ -1,0 +1,7 @@
+<script language="vbscript" runat="server">
+sub Session_OnStart
+'Session.LCID = 6154
+'Session.LCID = 13322
+Session.Timeout=30
+end sub
+</script>

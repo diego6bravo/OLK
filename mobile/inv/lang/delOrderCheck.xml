@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtProvider>Provider</DtxtProvider>
+    <LtxtItemSearchNote>Items search by code or barcode</LtxtItemSearchNote>
+    <LtxtValSearchItm>You must enter the item code or the item barcode</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Complete Check Process</LtxtEndCheckProcess>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtProgress>Progress</LtxtProgress>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtSaleUnit>Sale</LtxtSaleUnit>
+    <LtxtPackUnit>Pack</LtxtPackUnit>
+    <LtxtTotalVolume>Total Volume</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Progress Volume</LtxtTotalProgVolume>
+    <LtxtVol>Vol</LtxtVol>
+    <LtxtViewDataReport>View data report</LtxtViewDataReport>
+    <LtxtHideDataReport>Hide data report</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>You can’t complete the verification without processing the items.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>The client doesn’t accept partial delivery.</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>You can’t complete the verification having overloaded lines, fix these lines and try again.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>By confirming this verification you’ll be updating an existing sales order, the lines that weren’t verified we’ll be deleted from the sales order. Do you wish to continue?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>{0} #{1} Check</LtxtDocCheck>
+    <LtxtSerialNum>Serial Numbers</LtxtSerialNum>
+    <LtxtIncSerialErr>You can’t complete the verification without processing the items serial numbers.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>You haven\'t completed the items serial numbers.\nDo you wish to continue?</LtxtIncSerialConf>
+    <LtxtAddByPack>Add by package</LtxtAddByPack>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtItems>Artículos</DtxtItems>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtPend>Pendiente</DtxtPend>
+    <DtxtProvider>Proveedor</DtxtProvider>
+    <LtxtItemSearchNote>Búsqueda de artículo por Código o Código de Barra</LtxtItemSearchNote>
+    <LtxtValSearchItm>Debe introducir el código del articulo o el código de barra</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Completar Revisión</LtxtEndCheckProcess>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtProgress>Progreso</LtxtProgress>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecargado</LtxtOverload>
+    <LtxtSaleUnit>Venta</LtxtSaleUnit>
+    <LtxtPackUnit>Emb.</LtxtPackUnit>
+    <LtxtTotalVolume>Total Volumen</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Volumen Progresado</LtxtTotalProgVolume>
+    <LtxtVol>Vol</LtxtVol>
+    <LtxtViewDataReport>Ver reporte de datos</LtxtViewDataReport>
+    <LtxtHideDataReport>Ocultar reporte de datos</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>No se puede completar la revisión sin procesar los artículos.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>El cliente no acepta entregas parciales.</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>No se puede completar la revisión teniendo líneas sobrecargadas, corrija estas líneas e intente de nuevo.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>Al confirmar la revisión estará actualizando un pedido existente, las líneas que no fueron contadas van a ser eliminadas de la orden de venta. ¿Desea continuar?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>Revisión de {0} #{1}</LtxtDocCheck>
+    <LtxtSerialNum>Números de Series</LtxtSerialNum>
+    <LtxtIncSerialErr>No se puede completar la revisión sin procesar los números de serie de los artículos.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>No ha completado los números de series de los artículos.\n¿Desea continuar?</LtxtIncSerialConf>
+    <LtxtAddByPack>Agregar por paquete</LtxtAddByPack>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtItems>פריטים</DtxtItems>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtPend>פתוח</DtxtPend>
+    <DtxtProvider>ספק</DtxtProvider>
+    <LtxtItemSearchNote>חיפוש לפי מק"ט או ברקוד</LtxtItemSearchNote>
+    <LtxtValSearchItm>יש למלא שדה במק"ט או ברקוד</LtxtValSearchItm>
+    <LtxtEndCheckProcess>סיום בדיקה</LtxtEndCheckProcess>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtProgress>אחוז נוכחי</LtxtProgress>
+    <LtxtPartial>חלקי</LtxtPartial>
+    <LtxtCompleted>מלא</LtxtCompleted>
+    <LtxtOverload>עומס יתר</LtxtOverload>
+    <LtxtSaleUnit>מכירה</LtxtSaleUnit>
+    <LtxtPackUnit>ארוז</LtxtPackUnit>
+    <LtxtTotalVolume>סה"כ נפח</LtxtTotalVolume>
+    <LtxtTotalProgVolume>נפח נוכחי</LtxtTotalProgVolume>
+    <LtxtVol>נפח</LtxtVol>
+    <LtxtViewDataReport>ראה דוח מצב</LtxtViewDataReport>
+    <LtxtHideDataReport>הסתר דוח מצב</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>יש לסיים את בדיקת הפריטים</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>הלקוח לא מקבל הזמנה חלקית</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>לא ניתן לסיים כאשר יש שורות בעומס יתר, תקן את השורות הנ"ל ונסה שוב</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>באישור הבדיקה אתה מבצע עידכון להזמנה המקורית, שורות שלא נבדקו ימחקו מהזמנה. האם להמשיך?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>בדיקת ל{0} {1}</LtxtDocCheck>
+    <LtxtSerialNum>מספרים סידוריים</LtxtSerialNum>
+    <LtxtIncSerialErr>יש לסיים את בדיקה הרשימת המספרים הסידוריים</LtxtIncSerialErr>
+    <LtxtIncSerialConf>לא סיימת את בדיקת המספרים הסידוריים. האם להמשיך?</LtxtIncSerialConf>
+    <LtxtAddByPack>הוסף לפי אריזה</LtxtAddByPack>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtProvider>Provider</DtxtProvider>
+    <LtxtItemSearchNote>Items search by code or barcode</LtxtItemSearchNote>
+    <LtxtValSearchItm>You must enter the item code or the item barcode</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Complete Check Process</LtxtEndCheckProcess>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtProgress>Progress</LtxtProgress>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtOverload>Overload</LtxtOverload>
+    <LtxtSaleUnit>Sale</LtxtSaleUnit>
+    <LtxtPackUnit>Pack</LtxtPackUnit>
+    <LtxtTotalVolume>Total Volume</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Progress Volume</LtxtTotalProgVolume>
+    <LtxtVol>Vol</LtxtVol>
+    <LtxtViewDataReport>View data report</LtxtViewDataReport>
+    <LtxtHideDataReport>Hide data report</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>You can’t complete the verification without processing the items.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>The client doesn’t accept partial delivery.</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>You can’t complete the verification having overloaded lines, fix these lines and try again.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>By confirming this verification you’ll be updating an existing sales order, the lines that weren’t verified we’ll be deleted from the sales order. Do you wish to continue?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>{0} #{1} Check</LtxtDocCheck>
+    <LtxtSerialNum>Serial Numbers</LtxtSerialNum>
+    <LtxtIncSerialErr>You can’t complete the verification without processing the items serial numbers.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>You haven\'t completed the items serial numbers.\nDo you wish to continue?</LtxtIncSerialConf>
+    <LtxtAddByPack>Add by package</LtxtAddByPack>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtItems>Itens</DtxtItems>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtPend>Pendente</DtxtPend>
+    <DtxtProvider>Fornecedor</DtxtProvider>
+    <LtxtItemSearchNote>Busca de item por Código ou Código de Barras</LtxtItemSearchNote>
+    <LtxtValSearchItm>Deve inserir o código do item ou o código de barras </LtxtValSearchItm>
+    <LtxtEndCheckProcess>Completar Revisão</LtxtEndCheckProcess>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtProgress>Progresso</LtxtProgress>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtOverload>Sobrecarregado</LtxtOverload>
+    <LtxtSaleUnit>Venda</LtxtSaleUnit>
+    <LtxtPackUnit>Embalagem</LtxtPackUnit>
+    <LtxtTotalVolume>Volume Total</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Volume Alcançado</LtxtTotalProgVolume>
+    <LtxtVol>Volume</LtxtVol>
+    <LtxtViewDataReport>Ver relatório de dados</LtxtViewDataReport>
+    <LtxtHideDataReport>Ocultar relatório de dados</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>Não é possível completar a revisão sem processar os itens.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>O cliente não aceita entregas parciais</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>Não é possível completar a revisão tendo linhas sobrecarregadas, corrija estas linhas e tente novamente.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>Ao confirmar a revisão estará atualizando um pedido existente, as linhas que não foram verificadas irão ser eliminadas da ordem de venda. Deseja continuar?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>Revisão de {0} Nº {1}</LtxtDocCheck>
+    <LtxtSerialNum>Números de Séries</LtxtSerialNum>
+    <LtxtIncSerialErr>Não é possível completar a revisão sem processar os números de séries dos itens.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>Você não completou os números de séries dos itens. \nDeseja continuar?</LtxtIncSerialConf>
+    <LtxtAddByPack>Adicionar por pacote</LtxtAddByPack>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtItems>Articles</DtxtItems>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <DtxtProvider>&lt;--&gt;</DtxtProvider>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+    <LtxtValSearchItm>&lt;--&gt;</LtxtValSearchItm>
+    <LtxtEndCheckProcess>&lt;--&gt;</LtxtEndCheckProcess>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtProgress>&lt;--&gt;</LtxtProgress>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtSaleUnit>&lt;--&gt;</LtxtSaleUnit>
+    <LtxtPackUnit>&lt;--&gt;</LtxtPackUnit>
+    <LtxtTotalVolume>&lt;--&gt;</LtxtTotalVolume>
+    <LtxtTotalProgVolume>&lt;--&gt;</LtxtTotalProgVolume>
+    <LtxtVol>&lt;--&gt;</LtxtVol>
+    <LtxtViewDataReport>&lt;--&gt;</LtxtViewDataReport>
+    <LtxtHideDataReport>&lt;--&gt;</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>&lt;--&gt;</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>&lt;--&gt;</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>&lt;--&gt;</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>&lt;--&gt;</LtxtConfUpdateOrder>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtSerialNum>&lt;--&gt;</LtxtSerialNum>
+    <LtxtIncSerialErr>&lt;--&gt;</LtxtIncSerialErr>
+    <LtxtIncSerialConf>&lt;--&gt;</LtxtIncSerialConf>
+    <LtxtAddByPack>&lt;--&gt;</LtxtAddByPack>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtItems>Artikel</DtxtItems>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <DtxtProvider>Anbieter</DtxtProvider>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+    <LtxtValSearchItm>&lt;--&gt;</LtxtValSearchItm>
+    <LtxtEndCheckProcess>&lt;--&gt;</LtxtEndCheckProcess>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtProgress>&lt;--&gt;</LtxtProgress>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtSaleUnit>&lt;--&gt;</LtxtSaleUnit>
+    <LtxtPackUnit>&lt;--&gt;</LtxtPackUnit>
+    <LtxtTotalVolume>&lt;--&gt;</LtxtTotalVolume>
+    <LtxtTotalProgVolume>&lt;--&gt;</LtxtTotalProgVolume>
+    <LtxtVol>&lt;--&gt;</LtxtVol>
+    <LtxtViewDataReport>&lt;--&gt;</LtxtViewDataReport>
+    <LtxtHideDataReport>&lt;--&gt;</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>&lt;--&gt;</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>&lt;--&gt;</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>&lt;--&gt;</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>&lt;--&gt;</LtxtConfUpdateOrder>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtSerialNum>&lt;--&gt;</LtxtSerialNum>
+    <LtxtIncSerialErr>&lt;--&gt;</LtxtIncSerialErr>
+    <LtxtIncSerialConf>&lt;--&gt;</LtxtIncSerialConf>
+    <LtxtAddByPack>&lt;--&gt;</LtxtAddByPack>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtItems>Детали</DtxtItems>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtPend>Открытый</DtxtPend>
+    <DtxtProvider>Поставщик</DtxtProvider>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+    <LtxtValSearchItm>&lt;--&gt;</LtxtValSearchItm>
+    <LtxtEndCheckProcess>&lt;--&gt;</LtxtEndCheckProcess>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtProgress>&lt;--&gt;</LtxtProgress>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtSaleUnit>&lt;--&gt;</LtxtSaleUnit>
+    <LtxtPackUnit>&lt;--&gt;</LtxtPackUnit>
+    <LtxtTotalVolume>&lt;--&gt;</LtxtTotalVolume>
+    <LtxtTotalProgVolume>&lt;--&gt;</LtxtTotalProgVolume>
+    <LtxtVol>&lt;--&gt;</LtxtVol>
+    <LtxtViewDataReport>&lt;--&gt;</LtxtViewDataReport>
+    <LtxtHideDataReport>&lt;--&gt;</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>&lt;--&gt;</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>&lt;--&gt;</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>&lt;--&gt;</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>&lt;--&gt;</LtxtConfUpdateOrder>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtSerialNum>&lt;--&gt;</LtxtSerialNum>
+    <LtxtIncSerialErr>&lt;--&gt;</LtxtIncSerialErr>
+    <LtxtIncSerialConf>&lt;--&gt;</LtxtIncSerialConf>
+    <LtxtAddByPack>&lt;--&gt;</LtxtAddByPack>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <DtxtProvider>Poskytovatel</DtxtProvider>
+    <LtxtItemSearchNote>Vyhledávání položek podle kódu nebo čárového kódu</LtxtItemSearchNote>
+    <LtxtValSearchItm>Musíte zadat kód položky nebo čárový kód položky</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Dokončit proces kontroly</LtxtEndCheckProcess>
+    <LtxtStatus>Stav </LtxtStatus>
+    <LtxtProgress>Postup</LtxtProgress>
+    <LtxtPartial>Částečné</LtxtPartial>
+    <LtxtCompleted>Dokončeno</LtxtCompleted>
+    <LtxtOverload>Přílišný náklad</LtxtOverload>
+    <LtxtSaleUnit>Prodej</LtxtSaleUnit>
+    <LtxtPackUnit>Balení</LtxtPackUnit>
+    <LtxtTotalVolume>Celkový objem</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Objem postupu</LtxtTotalProgVolume>
+    <LtxtVol>Obj</LtxtVol>
+    <LtxtViewDataReport>Zobrazit datový výpis</LtxtViewDataReport>
+    <LtxtHideDataReport>Schovat datový výpis</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>Nemůžete dokončit ověření položek bez jejich zpracocvání.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>Klient neakceptuje dílčí dodávky.</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>Nemůžete dokončit ověření s přetíženými řádkami. Opravte tyto řádky a zkuste znovu.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>Potvrzením tohoto ověření aktualizujete existující příkaz k prodeji. Řádky, které nebyly ověřeny, budou z příkazu vymazány. Přejete si pokračovat?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>{0} #{1} Kontrola</LtxtDocCheck>
+    <LtxtSerialNum>Seriová čísla</LtxtSerialNum>
+    <LtxtIncSerialErr>Nemůžete dokončit ověření bez zpracování seriových čísel položek.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>Nedoplnil/a jste seriová čísla položek. \nChcete pokračovat?</LtxtIncSerialConf>
+    <LtxtAddByPack>Přidat po balíčku</LtxtAddByPack>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtItems>Pozycje</DtxtItems>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <DtxtProvider>Dostawca</DtxtProvider>
+    <LtxtItemSearchNote>Poszukiwanie pozycji po kodzie lub kodzie kreskowym</LtxtItemSearchNote>
+    <LtxtValSearchItm>Musisz wprowadzić kod lub kod kreskowy pozycji</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Zakończ sprawdzanie</LtxtEndCheckProcess>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtProgress>Postęp</LtxtProgress>
+    <LtxtPartial>Częściowy</LtxtPartial>
+    <LtxtCompleted>Zakończony</LtxtCompleted>
+    <LtxtOverload>Przeładowany</LtxtOverload>
+    <LtxtSaleUnit>Sprzedaż</LtxtSaleUnit>
+    <LtxtPackUnit>Spakowany</LtxtPackUnit>
+    <LtxtTotalVolume>Całkowity wolumin</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Aktualny wolumin</LtxtTotalProgVolume>
+    <LtxtVol>Wolumin</LtxtVol>
+    <LtxtViewDataReport>Zobacz raport danych</LtxtViewDataReport>
+    <LtxtHideDataReport>Ukryj raport danych</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>Nie możesz zakończyć weryfikacji bez przetworzenia pozycji. </LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>Klient nie akceptuje częściowej dostawy</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>Nie możesz skończyć weryfikacji gdy wiersze są przeładowane, napraw te wiersze i spróbuj ponownie</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>Potwierdzając tę weryfikację zaktualizujesz istniejące zlecenie sprzedaży, wiersze, które nie zostały zweryfikowane będą usunięte ze zlecenia. Czy chcesz kontynuować?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>{0} #{1} sprawdzenie</LtxtDocCheck>
+    <LtxtSerialNum>Numery seryjne</LtxtSerialNum>
+    <LtxtIncSerialErr>Nie możesz zakończyć weryfikacji bez przetworzenia numerów seryjnych pozycji. </LtxtIncSerialErr>
+    <LtxtIncSerialConf>Nie zakończyłeś sprawdzania numerów seryjnych pozycji. Czy chcesz kontynuować?</LtxtIncSerialConf>
+    <LtxtAddByPack>Dodaj po paczce</LtxtAddByPack>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <DtxtProvider>Poskytovateľ</DtxtProvider>
+    <LtxtItemSearchNote>Vyhľadávanie položiek podľa kódu alebo čiarového kódu</LtxtItemSearchNote>
+    <LtxtValSearchItm>Musíte zadať kód alebo čiarový kód položky.</LtxtValSearchItm>
+    <LtxtEndCheckProcess>Dokončite kontrolný proces</LtxtEndCheckProcess>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtProgress>Pokrok</LtxtProgress>
+    <LtxtPartial>Čiastkové</LtxtPartial>
+    <LtxtCompleted>Ukončené</LtxtCompleted>
+    <LtxtOverload>Preťaženie</LtxtOverload>
+    <LtxtSaleUnit>Predaj</LtxtSaleUnit>
+    <LtxtPackUnit>Balenie</LtxtPackUnit>
+    <LtxtTotalVolume>Celkový objem</LtxtTotalVolume>
+    <LtxtTotalProgVolume>Objem pokroku</LtxtTotalProgVolume>
+    <LtxtVol>Obj.</LtxtVol>
+    <LtxtViewDataReport>Zobraziť dátovú správu</LtxtViewDataReport>
+    <LtxtHideDataReport>Ukryť dátovú správu</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>Nemôžete dokončiť overovanie bez spracovania položiek.</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>Klient neakceptuje čiastkovú dodávku.</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>Nemôžete dokončiť overovanie, keď máte preplnené riadky, opravte tieto riadky a skúste znovu.</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>Potvrdením tohto overenia budete aktualizovať existujúcu zákazku odberateľa, riadky, ktoré neboli overené budú vymazané zo zákaziek odberateľa. Prajete si pokračovať?</LtxtConfUpdateOrder>
+    <LtxtDocCheck>Kontrola {0} #{1}</LtxtDocCheck>
+    <LtxtSerialNum>Sériové čísla</LtxtSerialNum>
+    <LtxtIncSerialErr>Nemôžete dokončiť overovanie bez spracovania sériových čísel položiek.</LtxtIncSerialErr>
+    <LtxtIncSerialConf>Nedokončili ste sériové čísla položiek.\nPrajete si pokračovať?</LtxtIncSerialConf>
+    <LtxtAddByPack>Pridať podľa balíka</LtxtAddByPack>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtItems>&lt;--&gt;</DtxtItems>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <DtxtPend>&lt;--&gt;</DtxtPend>
+    <DtxtProvider>&lt;--&gt;</DtxtProvider>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+    <LtxtValSearchItm>&lt;--&gt;</LtxtValSearchItm>
+    <LtxtEndCheckProcess>&lt;--&gt;</LtxtEndCheckProcess>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtProgress>&lt;--&gt;</LtxtProgress>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtOverload>&lt;--&gt;</LtxtOverload>
+    <LtxtSaleUnit>&lt;--&gt;</LtxtSaleUnit>
+    <LtxtPackUnit>&lt;--&gt;</LtxtPackUnit>
+    <LtxtTotalVolume>&lt;--&gt;</LtxtTotalVolume>
+    <LtxtTotalProgVolume>&lt;--&gt;</LtxtTotalProgVolume>
+    <LtxtVol>&lt;--&gt;</LtxtVol>
+    <LtxtViewDataReport>&lt;--&gt;</LtxtViewDataReport>
+    <LtxtHideDataReport>&lt;--&gt;</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>&lt;--&gt;</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>&lt;--&gt;</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>&lt;--&gt;</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>&lt;--&gt;</LtxtConfUpdateOrder>
+    <LtxtDocCheck>&lt;--&gt;</LtxtDocCheck>
+    <LtxtSerialNum>&lt;--&gt;</LtxtSerialNum>
+    <LtxtIncSerialErr>&lt;--&gt;</LtxtIncSerialErr>
+    <LtxtIncSerialConf>&lt;--&gt;</LtxtIncSerialConf>
+    <LtxtAddByPack>&lt;--&gt;</LtxtAddByPack>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtItems>DtxtItems</DtxtItems>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <DtxtProvider>DtxtProvider</DtxtProvider>
+    <LtxtItemSearchNote>LtxtItemSearchNote</LtxtItemSearchNote>
+    <LtxtValSearchItm>LtxtValSearchItm</LtxtValSearchItm>
+    <LtxtEndCheckProcess>LtxtEndCheckProcess</LtxtEndCheckProcess>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtProgress>LtxtProgress</LtxtProgress>
+    <LtxtPartial>LtxtPartial</LtxtPartial>
+    <LtxtCompleted>LtxtCompleted</LtxtCompleted>
+    <LtxtOverload>LtxtOverload</LtxtOverload>
+    <LtxtSaleUnit>LtxtSaleUnit</LtxtSaleUnit>
+    <LtxtPackUnit>LtxtPackUnit</LtxtPackUnit>
+    <LtxtTotalVolume>LtxtTotalVolume</LtxtTotalVolume>
+    <LtxtTotalProgVolume>LtxtTotalProgVolume</LtxtTotalProgVolume>
+    <LtxtVol>LtxtVol</LtxtVol>
+    <LtxtViewDataReport>LtxtViewDataReport</LtxtViewDataReport>
+    <LtxtHideDataReport>LtxtHideDataReport</LtxtHideDataReport>
+    <LtxtAlertOpenDoc>LtxtAlertOpenDoc</LtxtAlertOpenDoc>
+    <LtxtAlertPartialDoc>LtxtAlertPartialDoc</LtxtAlertPartialDoc>
+    <LtxtAlertOverloadDoc>LtxtAlertOverloadDoc</LtxtAlertOverloadDoc>
+    <LtxtConfUpdateOrder>LtxtConfUpdateOrder</LtxtConfUpdateOrder>
+    <LtxtDocCheck>LtxtDocCheck</LtxtDocCheck>
+    <LtxtSerialNum>LtxtSerialNum</LtxtSerialNum>
+    <LtxtIncSerialErr>LtxtIncSerialErr</LtxtIncSerialErr>
+    <LtxtIncSerialConf>LtxtIncSerialConf</LtxtIncSerialConf>
+    <LtxtAddByPack>LtxtAddByPack</LtxtAddByPack>
+  </language>
+</languages>

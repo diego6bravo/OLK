@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtDocTypeService>You can't create a {0} for a service {1}!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Closed lines where found in the sales order #{0}.&lt;br&gt;These lines will not be included in the delivery.&lt;br&gt;Do you wish to continue?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} was already processed.&lt;br&gt;Do you wish to process again?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>You can't create a Goods Receipt PO for a purchase invoice that is not reserved!
+Purchase Invoice #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Search Result</LttlSearchResult>
+    <LtxtDocStatusClosed>You cannot create a {0} for a {1} that is closed!&lt;br&gt;{2} #{3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>You can't create a Delivery for a sales invoice that is not reserved!
+Sales Invoice #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>Sales Order #{0} has not been authorized</LtxtOrdrAut>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtDocTypeService>¡No se puede hacer {0} para una {1} de servicio!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Se encontraron líneas cerradas en la orden de venta #{0}.&lt;br&gt;Estas líneas no van a ser tomadas en cuenta en la entrega.&lt;br&gt;¿Desea continuar?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} ya fue procesada.&lt;br&gt;¿Desea procesar de nuevo?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>¡No se puede hacer entrada para una factura de compra que no es reservada!
+Factura de Compra #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Resultado de Búsqueda</LttlSearchResult>
+    <LtxtDocStatusClosed>¡No se puede hacer {0} para una {1} cerrada!&lt;br&gt;{2} #{3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>¡No se puede hacer entrega para una factura de venta que no es reservada!
+Factura de Venta #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>La Orden de Venta N°{0} no ha sido autorizada</LtxtOrdrAut>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtDocTypeService>לא ניתן לבצע {0} על {1} שרות!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>נימצאו שורות סגורות בהזמנה #{0}.&lt;br&gt;שורות אלו לא ילקחו בחשבון בתהליך המשלוח.&lt;br&gt;האם להמשיך?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} {1} כבר בוצעה בדיקה.&lt;br&gt;האם לבצע בדיקה מחדש?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>לא ניתן לבצע קבלה על תעודת רכש על בסיס חשונית רכש שאינה שמורה!
+חשבונית רכש #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>תוצאות חיפוש</LttlSearchResult>
+    <LtxtDocStatusClosed>לא ניתן ליצור {0} ל{1} שהוא סגור!&lt;br&gt;{2} {3}#</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>לא ניתן לייצר תעודת משלוח על בסיס חשבונית מס שהיא לא שריון!
+חשבונית מס {0}#</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>הזמנה {0}# לא מאושרת</LtxtOrdrAut>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtDocTypeService>You can't create a {0} for a service {1}!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Closed lines where found in the sales order #{0}.&lt;br&gt;These lines will not be included in the delivery.&lt;br&gt;Do you wish to continue?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} was already processed.&lt;br&gt;Do you wish to process again?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>You can't create a Goods Receipt PO for a purchase invoice that is not reserved!
+Purchase Invoice #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Search Result</LttlSearchResult>
+    <LtxtDocStatusClosed>You cannot create a {0} for a {1} that is closed!&lt;br&gt;{2} #{3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>You can't create a Delivery for a sales invoice that is not reserved!
+Sales Invoice #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>Sales Order #{0} has not been authorized</LtxtOrdrAut>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtDocTypeService>Não é possível criar {0} para uma {1} de serviço! &lt;br&gt;{2} Nº {3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Foram encontradas Linhas fechadas no pedido de venda Nº {0}.&lt;br&gt;Estas linhas não serão consideradas na entrega.&lt;br&gt;Deseja Continuar?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} Nº {1} já foi processada.&lt;br&gt;Deseja processar novamente?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>Você não pode criar uma NF de compra que não é adiantamento C/P.
+NF de compra Nº {0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Resultado da Busca</LttlSearchResult>
+    <LtxtDocStatusClosed>Não é possível criar {0} para uma {1} fechada! &lt;br&gt;{2} Nº {3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>Você não pode criar uma entrega para uma NF de venda que não é adiantamento C/R
+NF de venda Nº {0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>O pedido de venda Nº {0} não está autorizado</LtxtOrdrAut>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtDocTypeService>&lt;--&gt;</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>&lt;--&gt;</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>&lt;--&gt;</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>&lt;--&gt;</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>&lt;--&gt;</LttlSearchResult>
+    <LtxtDocStatusClosed>&lt;--&gt;</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>&lt;--&gt;</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>&lt;--&gt;</LtxtOrdrAut>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtDocTypeService>&lt;--&gt;</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>&lt;--&gt;</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>&lt;--&gt;</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>&lt;--&gt;</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>&lt;--&gt;</LttlSearchResult>
+    <LtxtDocStatusClosed>&lt;--&gt;</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>&lt;--&gt;</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>&lt;--&gt;</LtxtOrdrAut>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtDocTypeService>&lt;--&gt;</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>&lt;--&gt;</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>&lt;--&gt;</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>&lt;--&gt;</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>&lt;--&gt;</LttlSearchResult>
+    <LtxtDocStatusClosed>&lt;--&gt;</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>&lt;--&gt;</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>&lt;--&gt;</LtxtOrdrAut>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtDocTypeService>Nemůžete vytvořit {0} k službě {1}!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Zavřené řádky, kterým byly nalezen v příkazu k prodeji #{0}.&lt;br&gt;Tyto řádky nebudou zahrnuty do dodávky.&lt;br&gt;Přejete si pokračovat?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} už bylo zpracované.&lt;br&gt;Přejete si zpracovat znovu?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>Nemůžete vytvořit příjemku k nákupní faktuře, která není vyhrazená!
+Nákupní faktura #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Výsledky vyhledávání</LttlSearchResult>
+    <LtxtDocStatusClosed>Nemůžete vytvořit {0} k {1} ve stavu zavřeno!&lt;br&gt;{2} #{3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>Nemůžete vytvořit dodávku k prodejní faktuře, která není vyhrazená!
+Prodejní faktura #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>Příkaz k prodeji #{0} nebyl autorizovaný</LtxtOrdrAut>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtDocTypeService>Nie może stworzyć {0} dla usługi {1}!  {2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Zamknięte wiersze zostały znalezione w zleceniu sprzedaży #{0}. Te wiersze nie będą włączone do dostawy. Czy chcesz kontynuować?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} została już zrealizowana. Czy chcesz zrealizować ją ponownie?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>Nie możesz stworzyć Dokumentu Pz dla faktury zakupu, która nie jest zarezerwowana! Faktura zakupu #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Wynik poszukiwania</LttlSearchResult>
+    <LtxtDocStatusClosed>Nie możesz stworzyć {0} dla {1}, który jest zamknięty! {2} #{3}</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>Nie możesz stworzyć Dostawy dla faktury sprzedaży, która nie jest zarezerwowana! Faktura sprzedaży #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>Zlecenie sprzedaży #{0} nie zostało autoryzowane. </LtxtOrdrAut>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtDocTypeService>Nemôžete vytvoriť {0} pre službu {1}!&lt;br&gt;{2} #{3}</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>Uzavreté riadky boli nájdené v zákazke odberateľa #{0}.&lt;br&gt;Tieto riadky nebudú zahrnuté v dodávke.&lt;br&gt;Prajete si pokračovať?</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>{0} #{1} už bolo spracované.&lt;br&gt;Prajete si spracovať znovu?</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>Nemôžete vytvoriť Potvrdenie o prijatí tovaru pre nákupnú faktúru, ktorá nie je rezervovaná!
+Nákupná faktúra #{0}</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>Výsledky vyhľadávania</LttlSearchResult>
+    <LtxtDocStatusClosed>Nemôžete vytvoriť {0} pre {1}, ktoré je uzavreté!</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>Nemôžete vytvoriť Dodávku pre predajnú faktúru, ktorá nie je rezervovaná!
+Predajná faktúra #{0}</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>Zákazka odberateľa #{0} nebola autorizovaná</LtxtOrdrAut>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtDocTypeService>&lt;--&gt;</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>&lt;--&gt;</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>&lt;--&gt;</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>&lt;--&gt;</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>&lt;--&gt;</LttlSearchResult>
+    <LtxtDocStatusClosed>&lt;--&gt;</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>&lt;--&gt;</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>&lt;--&gt;</LtxtOrdrAut>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtDocTypeService>LtxtDocTypeService</LtxtDocTypeService>
+    <LtxtConfirmClosedLine>LtxtConfirmClosedLine</LtxtConfirmClosedLine>
+    <LtxtConfReProcess>LtxtConfReProcess</LtxtConfReProcess>
+    <LtxtInvDocStatusIsIns>LtxtInvDocStatusIsIns</LtxtInvDocStatusIsIns>
+    <LttlSearchResult>LttlSearchResult</LttlSearchResult>
+    <LtxtDocStatusClosed>LtxtDocStatusClosed</LtxtDocStatusClosed>
+    <LtxtInvDocStOutIsIns>LtxtInvDocStOutIsIns</LtxtInvDocStOutIsIns>
+    <LtxtOrdrAut>LtxtOrdrAut</LtxtOrdrAut>
+  </language>
+</languages>

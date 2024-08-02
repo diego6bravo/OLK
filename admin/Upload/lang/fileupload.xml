@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Close</DtxtClose>
+    <LtxtSend>Send</LtxtSend>
+    <LtxtUpload>Send File</LtxtUpload>
+    <LtxtMinSize>Only files smaller then 1 megabyte are allowed.</LtxtMinSize>
+    <LtxtFileTypes>Only .jpg, .gif, .bmp or .png file types are allowed.</LtxtFileTypes>
+    <LtxtSelFile>You haven't selected any file.</LtxtSelFile>
+    <LtxtSendFile>Send a file</LtxtSendFile>
+    <LtxtPathErr>The image path has not been set</LtxtPathErr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Cerrar</DtxtClose>
+    <LtxtSend>Enviar</LtxtSend>
+    <LtxtUpload>Enviar Archivo</LtxtUpload>
+    <LtxtMinSize>Sólo se permiten cargar archivos menores que 1 megabyte.</LtxtMinSize>
+    <LtxtFileTypes>Sólo se permiten archivos .jpg, .gif, .bmp o .png.</LtxtFileTypes>
+    <LtxtSelFile>No has seleccionado ningún archivo.</LtxtSelFile>
+    <LtxtSendFile>Envió de archivo</LtxtSendFile>
+    <LtxtPathErr>La ruta de las imágenes no ha sido configurada</LtxtPathErr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClose>סגור</DtxtClose>
+    <LtxtSend>לשלוח</LtxtSend>
+    <LtxtUpload>לשלוח קובץ</LtxtUpload>
+    <LtxtMinSize>רק קבצים קטנים מ1 מגה בייט נתמכים.</LtxtMinSize>
+    <LtxtFileTypes>רק קבצים מסוג (JPG, GIF, PNG, BMP) נתמכים.</LtxtFileTypes>
+    <LtxtSelFile>לא נבחר שום קובץ</LtxtSelFile>
+    <LtxtSendFile>שלח קובץ</LtxtSendFile>
+    <LtxtPathErr>לא נקבע נתיב לספריית התמונות</LtxtPathErr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Close</DtxtClose>
+    <LtxtSend>Send</LtxtSend>
+    <LtxtUpload>Send File</LtxtUpload>
+    <LtxtMinSize>Only files smaller then 1 megabyte are allowed.</LtxtMinSize>
+    <LtxtFileTypes>Only .jpg, .gif, .bmp or .png file types are allowed.</LtxtFileTypes>
+    <LtxtSelFile>You haven't selected any file.</LtxtSelFile>
+    <LtxtSendFile>Send a file</LtxtSendFile>
+    <LtxtPathErr>The image path has not been set</LtxtPathErr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Fechar</DtxtClose>
+    <LtxtSend>Enviar</LtxtSend>
+    <LtxtUpload>Enviar Arquivo</LtxtUpload>
+    <LtxtMinSize>Só é permitido carregar arquivos menores que 1 megabyte</LtxtMinSize>
+    <LtxtFileTypes>Só é permitido arquivos .jpg, .gif, .bmp ou .png</LtxtFileTypes>
+    <LtxtSelFile>Você não selecionou nenhum arquivo</LtxtSelFile>
+    <LtxtSendFile>Envio de arquivo</LtxtSendFile>
+    <LtxtPathErr>O caminho das imagens não foi definido</LtxtPathErr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Fermer</DtxtClose>
+    <LtxtSend>Envoyer</LtxtSend>
+    <LtxtUpload>Envoyer fichier</LtxtUpload>
+    <LtxtMinSize>On permet charger seulement que des fichier plus petit que 1 megabyte</LtxtMinSize>
+    <LtxtFileTypes>On permet seulement que des fichier .jpg, .gif, .bmp ou .png.</LtxtFileTypes>
+    <LtxtSelFile>Vous n'avez pas sélectionné aucun fichier</LtxtSelFile>
+    <LtxtSendFile>Envoie de fichier</LtxtSendFile>
+    <LtxtPathErr>&lt;--&gt;</LtxtPathErr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Schließen</DtxtClose>
+    <LtxtSend>Senden</LtxtSend>
+    <LtxtUpload>Datei senden</LtxtUpload>
+    <LtxtMinSize>Nur Datein kleiner als 1 Megabyte sind erlaubt.</LtxtMinSize>
+    <LtxtFileTypes>Nur .jpg, .gif, .bmp or .png Dateitypen sind erlaubt.</LtxtFileTypes>
+    <LtxtSelFile>Sie haben keine Datei ausgewählt.</LtxtSelFile>
+    <LtxtSendFile>Datei senden</LtxtSendFile>
+    <LtxtPathErr>&lt;--&gt;</LtxtPathErr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Закрыт</DtxtClose>
+    <LtxtSend>Послать</LtxtSend>
+    <LtxtUpload>Послать файл</LtxtUpload>
+    <LtxtMinSize>Поддерживаются только файлы размером менее 1 Мб.</LtxtMinSize>
+    <LtxtFileTypes>Поддерживаются только такой файл (JPG, GIF, PNG, BMP).</LtxtFileTypes>
+    <LtxtSelFile>Не выбран любой файл</LtxtSelFile>
+    <LtxtSendFile>Oтправить файл</LtxtSendFile>
+    <LtxtPathErr>Путь определяется не в библиотеку рисунков</LtxtPathErr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Zavřít</DtxtClose>
+    <LtxtSend>Odeslat</LtxtSend>
+    <LtxtUpload>Odeslat soubor</LtxtUpload>
+    <LtxtMinSize>Je možné nahrát pouze soubory menší než 1 MB.</LtxtMinSize>
+    <LtxtFileTypes>Je povoleno nahrávat pouze soubory typu .jpg, .gif, .bmp nebo .png.</LtxtFileTypes>
+    <LtxtSelFile>Nevybral/a jste žádný soubor.</LtxtSelFile>
+    <LtxtSendFile>Odeslat soubor</LtxtSendFile>
+    <LtxtPathErr>Cesta k obrazku nebyla nastavena</LtxtPathErr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <LtxtSend>Wyślij</LtxtSend>
+    <LtxtUpload>Wyślij plik</LtxtUpload>
+    <LtxtMinSize>Tylko pliki mniejsze niż 1 mega są dozwolone</LtxtMinSize>
+    <LtxtFileTypes>Dozwolone są tylko pliki jpg, .gif, .bmp lub .png </LtxtFileTypes>
+    <LtxtSelFile>Nie wybrałeś żadnego pliku.</LtxtSelFile>
+    <LtxtSendFile>Wyślij plik</LtxtSendFile>
+    <LtxtPathErr>Ścieżka obrazu nie została ustawiona</LtxtPathErr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <LtxtSend>Odoslať</LtxtSend>
+    <LtxtUpload>Odoslať súbor</LtxtUpload>
+    <LtxtMinSize>Len súbory menšie ako 1 megabyte sú povolené.</LtxtMinSize>
+    <LtxtFileTypes>Len súbory typu .jpg, .gif, .bmp alebo .png sú povolené.</LtxtFileTypes>
+    <LtxtSelFile>Nevybrali ste žiaden súbor.</LtxtSelFile>
+    <LtxtSendFile>Odoslať súbor</LtxtSendFile>
+    <LtxtPathErr>Navigačná cesta k obrázku nebola nastavená</LtxtPathErr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>&lt;--&gt;</DtxtClose>
+    <LtxtSend>&lt;--&gt;</LtxtSend>
+    <LtxtUpload>&lt;--&gt;</LtxtUpload>
+    <LtxtMinSize>&lt;--&gt;</LtxtMinSize>
+    <LtxtFileTypes>&lt;--&gt;</LtxtFileTypes>
+    <LtxtSelFile>&lt;--&gt;</LtxtSelFile>
+    <LtxtSendFile>&lt;--&gt;</LtxtSendFile>
+    <LtxtPathErr>&lt;--&gt;</LtxtPathErr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <LtxtSend>LtxtSend</LtxtSend>
+    <LtxtUpload>LtxtUpload</LtxtUpload>
+    <LtxtMinSize>LtxtMinSize</LtxtMinSize>
+    <LtxtFileTypes>LtxtFileTypes</LtxtFileTypes>
+    <LtxtSelFile>LtxtSelFile</LtxtSelFile>
+    <LtxtSendFile>LtxtSendFile</LtxtSendFile>
+    <LtxtPathErr>LtxtPathErr</LtxtPathErr>
+  </language>
+</languages>

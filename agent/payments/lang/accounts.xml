@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Bank Transfer Account</LttlBankTrans>
+    <LttlSelAcct>Select an account</LttlSelAcct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Cuenta de Transferencia Bancaria</LttlBankTrans>
+    <LttlSelAcct>Seleccione una cuenta contable</LttlSelAcct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlBankTrans>חשבון לעברה בנקאית</LttlBankTrans>
+    <LttlSelAcct>בחר חשבון</LttlSelAcct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Bank Transfer Account</LttlBankTrans>
+    <LttlSelAcct>Select an account</LttlSelAcct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Conta de Transferência Bancária</LttlBankTrans>
+    <LttlSelAcct>Selecione uma conta contábil</LttlSelAcct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Compte de Virement bancaire</LttlBankTrans>
+    <LttlSelAcct>Sélectionnez-vous un compte comptable</LttlSelAcct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Überweisungskonto</LttlBankTrans>
+    <LttlSelAcct>Wählen sie ein Konto</LttlSelAcct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Счет для бановского перевода</LttlBankTrans>
+    <LttlSelAcct>Выбери счет</LttlSelAcct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Účet pro bankovní převod</LttlBankTrans>
+    <LttlSelAcct>Vyberte účet</LttlSelAcct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Konto/ Rachunek do przelewów bankowych</LttlBankTrans>
+    <LttlSelAcct>Wybierz rachunek</LttlSelAcct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>Konto na bankový prevod</LttlBankTrans>
+    <LttlSelAcct>Vyberte konto</LttlSelAcct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlBankTrans>LttlBankTrans</LttlBankTrans>
+    <LttlSelAcct>LttlSelAcct</LttlSelAcct>
+  </language>
+</languages>

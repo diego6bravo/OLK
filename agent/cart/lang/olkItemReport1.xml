@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlResItms>Item Report -  Items Reserved in {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Sales Orders)</LtxtSAPOrders>
+    <LtxtQty>Qty.</LtxtQty>
+    <LtxtUn>Unit</LtxtUn>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtBack>Regresar</DtxtBack>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LttlResItms>Reporte de Artículos - Artículos reservados en {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Ordenes de Venta)</LtxtSAPOrders>
+    <LtxtQty>Cant.</LtxtQty>
+    <LtxtUn>Un.</LtxtUn>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtType>סוג</DtxtType>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtBack>חזור</DtxtBack>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LttlResItms>דוח פריטים - פריטים בהתחייבות ב{0}</LttlResItms>
+    <LtxtSAPOrders>סאפ (הזמנות)</LtxtSAPOrders>
+    <LtxtQty>כמות</LtxtQty>
+    <LtxtUn>יח'</LtxtUn>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtBack>Back</DtxtBack>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlResItms>Item Report -  Items Reserved in {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Sales Orders)</LtxtSAPOrders>
+    <LtxtQty>Qty.</LtxtQty>
+    <LtxtUn>Unit</LtxtUn>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtBack>Retornar</DtxtBack>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LttlResItms>Relatório de Itens - Itens reservados em {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Ordens de Venda)</LtxtSAPOrders>
+    <LtxtQty>Quantidade</LtxtQty>
+    <LtxtUn>Un.</LtxtUn>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtBack>Revenir</DtxtBack>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LttlResItms>Report des articles - Articles réservés dans {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Ordres de vente)</LtxtSAPOrders>
+    <LtxtQty>Quantité</LtxtQty>
+    <LtxtUn>Unité</LtxtUn>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtType>Art</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtBack>Zurück</DtxtBack>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LttlResItms>Artikelbericht - Artikel hinterlegt in {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Verkaufsauftrag)</LtxtSAPOrders>
+    <LtxtQty>Menge</LtxtQty>
+    <LtxtUn>Einheit</LtxtUn>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtType>Вид</DtxtType>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtBack>Назад</DtxtBack>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LttlResItms>Документ деталей- детали с обязательством {0}</LttlResItms>
+    <LtxtSAPOrders>сап(заказы)</LtxtSAPOrders>
+    <LtxtQty>Количество</LtxtQty>
+    <LtxtUn>Штуки</LtxtUn>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Zpět</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LttlResItms>Report o položkách - Vyhrazené položky v {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Příkazy k prodeji)</LtxtSAPOrders>
+    <LtxtQty>Množ.</LtxtQty>
+    <LtxtUn>Jednotka</LtxtUn>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Wróć</DtxtBack>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LttlResItms>Raport pozycji - pozycje zarezerwowane w {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (zlecenie sprzedaży)</LtxtSAPOrders>
+    <LtxtQty>Ilość</LtxtQty>
+    <LtxtUn>Jednostka</LtxtUn>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtBack>Späť</DtxtBack>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LttlResItms>Výkaz o položke - Rezervované položky v {0}</LttlResItms>
+    <LtxtSAPOrders>SAP (Zákazky odberateľa)</LtxtSAPOrders>
+    <LtxtQty>Množstvo</LtxtQty>
+    <LtxtUn>Jednotka</LtxtUn>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtBack>DtxtBack</DtxtBack>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LttlResItms>LttlResItms</LttlResItms>
+    <LtxtSAPOrders>LtxtSAPOrders</LtxtSAPOrders>
+    <LtxtQty>LtxtQty</LtxtQty>
+    <LtxtUn>LtxtUn</LtxtUn>
+  </language>
+</languages>

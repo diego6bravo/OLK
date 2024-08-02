@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtDocType>Document Type</DtxtDocType>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LttlShopCart>My Shopping Cart</LttlShopCart>
+    <LtxtTo>To</LtxtTo>
+    <LtxtCurBal>Current Balance</LtxtCurBal>
+    <LtxtOrdrBal>{0} Balance</LtxtOrdrBal>
+    <LtxtCurr>Currency</LtxtCurr>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtSumLines>Summarized Lines</LtxtSumLines>
+    <LtxtUn>Unit</LtxtUn>
+    <LtxtEmptyCart>Shopping cart empty</LtxtEmptyCart>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtErrItmInv>The quantity you desire to sell of item {0} is not available</LtxtErrItmInv>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtTotalToPay>Total to Pay</LtxtTotalToPay>
+    <LtxtExpenses>Add Expense</LtxtExpenses>
+    <LtxtMostSel>Most Sold</LtxtMostSel>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+    <LtxtConfCancelDoc>Are you sure you want to delete this document?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Incomplete Batches</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>View batches summary</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Batch quantity exceeds required quantity</LtxtBtchExceeds>
+    <LtxtIncompletedx>Incomplete 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>View 3dx summary</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx quantity exceeds required quantity</Ltxt3dxExceeds>
+    <LtxtViewAll>View all</LtxtViewAll>
+    <LbtnViewSummary>View Summary</LbtnViewSummary>
+    <LtxtXItemsSelld>The {0} most sold items</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Show header detail</LtxtShowHdrDet>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtFilterLines>This cart is filtered; this line represents the hidden lines</LtxtFilterLines>
+    <LtxtClearFilter>Clear Filter</LtxtClearFilter>
+    <LtxtValSelCnt>You must select a contact</LtxtValSelCnt>
+    <LtxtCurrSign>Sign</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtClientDoc>Document created by client</LtxtClientDoc>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LtxtPartSupply>Allow partial delivery</LtxtPartSupply>
+    <LtxtErrSumItmInv>There is not enough available stock for {0} items summarized lines</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>The date cannot be beyond today</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>The {0} cannot be less than the document date</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Incomplete Series</LtxtIncompleteSeries>
+    <LtxtViewSerSum>View series summary</LtxtViewSerSum>
+    <LtxtSerExceeds>Series quantity exceeds required quantity</LtxtSerExceeds>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtRate>Tasas</DtxtRate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtProject>Proyecto</DtxtProject>
+    <DtxtDocType>Tipo de Documento</DtxtDocType>
+    <DtxtDPM>Anticipo</DtxtDPM>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+    <LttlShopCart>Mi Canasta</LttlShopCart>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtCurBal>Saldo actual</LtxtCurBal>
+    <LtxtOrdrBal>Saldo {0}</LtxtOrdrBal>
+    <LtxtCurr>Moneda</LtxtCurr>
+    <LtxtShipAdd>Dirección de envío</LtxtShipAdd>
+    <LtxtPymntDue>A pagar hasta</LtxtPymntDue>
+    <LtxtDelDate>Fecha de entrega</LtxtDelDate>
+    <LtxtComDate>Valido Hasta</LtxtComDate>
+    <LtxtProd>Producto</LtxtProd>
+    <LtxtSumLines>Líneas en resumen</LtxtSumLines>
+    <LtxtUn>Un.</LtxtUn>
+    <LtxtEmptyCart>Canasta de compras vacía</LtxtEmptyCart>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtErrItmInv>La cantidad que desea vender del artículo {0} no está disponible</LtxtErrItmInv>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtTotalToPay>Total a Pagar</LtxtTotalToPay>
+    <LtxtExpenses>Agregar Gastos</LtxtExpenses>
+    <LtxtMostSel>+Vendidos</LtxtMostSel>
+    <LtxtPymntCod>Condición de pago</LtxtPymntCod>
+    <LtxtConfCancelDoc>¿Está seguro que desea cancelar este documento?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Falta por completar lotes</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Ver resumen de lotes</LtxtViewBtchSum>
+    <LtxtBtchExceeds>La cantidad de lotes sobrepasa la cantidad requerida</LtxtBtchExceeds>
+    <LtxtIncompletedx>Falta por completar 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Ver resumen de 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>La cantidad de 3dx sobrepasa la cantidad requerida</Ltxt3dxExceeds>
+    <LtxtViewAll>Ver todos</LtxtViewAll>
+    <LbtnViewSummary>Ver resumen</LbtnViewSummary>
+    <LtxtXItemsSelld>Los {0} artículos más vendidos</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Mostrar detalle del encabezado</LtxtShowHdrDet>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+    <LtxtFilterLines>Esta canasta esta filtrada, esta línea representa las líneas ocultas</LtxtFilterLines>
+    <LtxtClearFilter>Quitar Filtro</LtxtClearFilter>
+    <LtxtValSelCnt>Debe seleccionar un contacto</LtxtValSelCnt>
+    <LtxtCurrSign>Signo</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Precio despues desc.</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Precio unitario</LtxtUnitPrice>
+    <LtxtClientDoc>Documento creado por el cliente</LtxtClientDoc>
+    <LtxtPayAdd>Dirección de pago</LtxtPayAdd>
+    <LtxtPartSupply>Permitir entrega parcial</LtxtPartSupply>
+    <LtxtErrSumItmInv>No hay suficiente inventario disponible para {0} articulo(s) en líneas resumidos</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>La fecha no puede ser posterior al día de hoy</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>La {0} no puede ser menor que la fecha de documento</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Falta por completar series</LtxtIncompleteSeries>
+    <LtxtViewSerSum>Ver resumen de series</LtxtViewSerSum>
+    <LtxtSerExceeds>La cantidad de series sobrepasa la cantidad requerida</LtxtSerExceeds>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtRate>שערים</DtxtRate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtProject>פרויקט</DtxtProject>
+    <DtxtDocType>סוג מסמך</DtxtDocType>
+    <DtxtDPM>מקדמה</DtxtDPM>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+    <LttlShopCart>סל הקניות שלי</LttlShopCart>
+    <LtxtTo>ל</LtxtTo>
+    <LtxtCurBal>יתרה נוכחית</LtxtCurBal>
+    <LtxtOrdrBal>יתרת {0}</LtxtOrdrBal>
+    <LtxtCurr>מטבע</LtxtCurr>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtPymntDue>תשלום עד</LtxtPymntDue>
+    <LtxtDelDate>תאריך אספקה</LtxtDelDate>
+    <LtxtComDate>תאריך תוקף</LtxtComDate>
+    <LtxtProd>פריט</LtxtProd>
+    <LtxtSumLines>סיכום שורות</LtxtSumLines>
+    <LtxtUn>יח'</LtxtUn>
+    <LtxtEmptyCart>סל קניות ריק</LtxtEmptyCart>
+    <LtxtDelete>מחק</LtxtDelete>
+    <LtxtErrItmInv>הכמות הנחוצה לקניה בפריט {0} לא זמינה</LtxtErrItmInv>
+    <LtxtSubtotal>סיכום ביניים</LtxtSubtotal>
+    <LtxtTotalToPay>סה"כ לתשלום</LtxtTotalToPay>
+    <LtxtExpenses>הוסף הוצאות</LtxtExpenses>
+    <LtxtMostSel>הכי נמכרים</LtxtMostSel>
+    <LtxtPymntCod>תנאי תשלום</LtxtPymntCod>
+    <LtxtConfCancelDoc>האם לבטל את המסמך?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>צריך להשלים את אצוות</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>ראה פירוט אצוות</LtxtViewBtchSum>
+    <LtxtBtchExceeds>כמות האצוות גדולה מהכמות הנחוצה</LtxtBtchExceeds>
+    <LtxtIncompletedx>צריך להשלים את 3Dx</LtxtIncompletedx>
+    <LtxtView3dxSum>ראה פירוט 3Dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>כמות ה 3Dx גדולה מהכמות הנחוצה</Ltxt3dxExceeds>
+    <LtxtViewAll>ראה הכל</LtxtViewAll>
+    <LbtnViewSummary>ראה מסוכם</LbtnViewSummary>
+    <LtxtXItemsSelld>{0} פריטים הכי נמכרים</LtxtXItemsSelld>
+    <LtxtShowHdrDet>הצע כותרת מפורטת</LtxtShowHdrDet>
+    <LtxtVolDiscount>הנחה על כמיות</LtxtVolDiscount>
+    <LtxtFilterLines>סל הקניות הנ"ל מסונן, השורה הנ"ל מייצגת את השורות המוסתרות</LtxtFilterLines>
+    <LtxtClearFilter>הסר מסנן</LtxtClearFilter>
+    <LtxtValSelCnt>יש לבחור איש קשר!</LtxtValSelCnt>
+    <LtxtCurrSign>סימן</LtxtCurrSign>
+    <LtxtPriceAfterDisc>מחיר אחרי הנחה</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>מחיר יח'</LtxtUnitPrice>
+    <LtxtClientDoc>המסמך הנ"ל נוצר ע"י הלקוח</LtxtClientDoc>
+    <LtxtPayAdd>כתובת תשלום</LtxtPayAdd>
+    <LtxtPartSupply>אפשר אספקה חלקית</LtxtPartSupply>
+    <LtxtErrSumItmInv>אין כמות זמינה במלאי ל{0} פריטים בשורות המסוכמות</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>התאריך לא יכול להיות מאוחר מהתאריך של היום.</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>ה{0} לא יכול להיות פחות מתאריך המסמך </LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>סדרה חסרה</LtxtIncompleteSeries>
+    <LtxtViewSerSum>ראה המשך סדרה</LtxtViewSerSum>
+    <LtxtSerExceeds>כמות הסדרה עולה על הסכום הנדרש</LtxtSerExceeds>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtCity>City</DtxtCity>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtDocType>Document Type</DtxtDocType>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LttlShopCart>My Shopping Cart</LttlShopCart>
+    <LtxtTo>To</LtxtTo>
+    <LtxtCurBal>Current Balance</LtxtCurBal>
+    <LtxtOrdrBal>{0} Balance</LtxtOrdrBal>
+    <LtxtCurr>Currency</LtxtCurr>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtSumLines>Summarized Lines</LtxtSumLines>
+    <LtxtUn>Unit</LtxtUn>
+    <LtxtEmptyCart>Shopping cart empty</LtxtEmptyCart>
+    <LtxtDelete>Delete</LtxtDelete>
+    <LtxtErrItmInv>The quantity you desire to sell of item {0} is not available</LtxtErrItmInv>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtTotalToPay>Total to Pay</LtxtTotalToPay>
+    <LtxtExpenses>Add Expense</LtxtExpenses>
+    <LtxtMostSel>Most Sold</LtxtMostSel>
+    <LtxtPymntCod>Payment Terms</LtxtPymntCod>
+    <LtxtConfCancelDoc>Are you sure you want to delete this document?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Incomplete Batches</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>View batches summary</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Batch quantity exceeds required quantity</LtxtBtchExceeds>
+    <LtxtIncompletedx>Incomplete 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>View 3dx summary</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx quantity exceeds required quantity</Ltxt3dxExceeds>
+    <LtxtViewAll>View all</LtxtViewAll>
+    <LbtnViewSummary>View Summary</LbtnViewSummary>
+    <LtxtXItemsSelld>The {0} most sold items</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Show header detail</LtxtShowHdrDet>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtFilterLines>This cart is filtered; this line represents the hidden lines</LtxtFilterLines>
+    <LtxtClearFilter>Clear Filter</LtxtClearFilter>
+    <LtxtValSelCnt>You must select a contact</LtxtValSelCnt>
+    <LtxtCurrSign>Sign</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtClientDoc>Document created by client</LtxtClientDoc>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LtxtPartSupply>Allow partial delivery</LtxtPartSupply>
+    <LtxtErrSumItmInv>There is not enough available stock for {0} items summarized lines</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>The date cannot be beyond today</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>The {0} cannot be less than the document date</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Incomplete Series</LtxtIncompleteSeries>
+    <LtxtViewSerSum>View series summary</LtxtViewSerSum>
+    <LtxtSerExceeds>Series quantity exceeds required quantity</LtxtSerExceeds>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtRate>Taxas</DtxtRate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtProject>Projeto</DtxtProject>
+    <DtxtDocType>Tipo de Documento</DtxtDocType>
+    <DtxtDPM>Adiantamento</DtxtDPM>
+    <LtxtValFld>Falta dados para o campo "{0}"</LtxtValFld>
+    <LttlShopCart>Minha Cesta</LttlShopCart>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtCurBal>Saldo atual</LtxtCurBal>
+    <LtxtOrdrBal>Saldo {0}</LtxtOrdrBal>
+    <LtxtCurr>Moeda</LtxtCurr>
+    <LtxtShipAdd>Endereço de Envio</LtxtShipAdd>
+    <LtxtPymntDue>A pagar até</LtxtPymntDue>
+    <LtxtDelDate>Data da entrega</LtxtDelDate>
+    <LtxtComDate>Data da comunicação</LtxtComDate>
+    <LtxtProd>Produto</LtxtProd>
+    <LtxtSumLines>Linhas em resumo</LtxtSumLines>
+    <LtxtUn>Un.</LtxtUn>
+    <LtxtEmptyCart>Cesta de compras vazia</LtxtEmptyCart>
+    <LtxtDelete>Eliminar</LtxtDelete>
+    <LtxtErrItmInv>A quantidade que deseja vender do item {0} não está disponível</LtxtErrItmInv>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtTotalToPay>Total a pagar</LtxtTotalToPay>
+    <LtxtExpenses>Adicionar Despesas</LtxtExpenses>
+    <LtxtMostSel>+Vendidos</LtxtMostSel>
+    <LtxtPymntCod>Condição de pagamento</LtxtPymntCod>
+    <LtxtConfCancelDoc>Tem certeza que deseja cancelar este documento?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Falta para completar lotes</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Ver resumo dos lotes</LtxtViewBtchSum>
+    <LtxtBtchExceeds>A quantidade dos  lotes supera a quantidade requisitada</LtxtBtchExceeds>
+    <LtxtIncompletedx>Falta para completar 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Ver resumo de 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>A quantidade de 3dx supera a quantidade requisitada</Ltxt3dxExceeds>
+    <LtxtViewAll>Ver todos</LtxtViewAll>
+    <LbtnViewSummary>Ver resumo</LbtnViewSummary>
+    <LtxtXItemsSelld>Os {0} itens mais vendidos</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Mostrar detalhe do cabeçalho</LtxtShowHdrDet>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+    <LtxtFilterLines>Esta cesta está filtrada, esta linha representa as linhas ocultas </LtxtFilterLines>
+    <LtxtClearFilter>Tirar Filtro</LtxtClearFilter>
+    <LtxtValSelCnt>Você deve selecionar um contato</LtxtValSelCnt>
+    <LtxtCurrSign>Aceite</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Preço após desconto</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Preço Unitário</LtxtUnitPrice>
+    <LtxtClientDoc>Documento criado por um cliente</LtxtClientDoc>
+    <LtxtPayAdd>Endereço de pagamento </LtxtPayAdd>
+    <LtxtPartSupply>Permitir entrega parcial</LtxtPartSupply>
+    <LtxtErrSumItmInv> Não existe estoque suficiente disponível para {0} item(s) em linhas resumidas</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>A data nao pode ser posterior ao dia de hoje</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>A {0} não pode ser menor do que a data de fechamento do documento</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Série Incompleta</LtxtIncompleteSeries>
+    <LtxtViewSerSum>Ver resumo da série</LtxtViewSerSum>
+    <LtxtSerExceeds>A quantidade de série ultrapassa a quantidade requerida</LtxtSerExceeds>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Taux</DtxtRate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <DtxtDPM>Acompte</DtxtDPM>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+    <LttlShopCart>Ma corbeille</LttlShopCart>
+    <LtxtTo>Pour</LtxtTo>
+    <LtxtCurBal>Solde actuel</LtxtCurBal>
+    <LtxtOrdrBal>Solde {0}</LtxtOrdrBal>
+    <LtxtCurr>Monnaie</LtxtCurr>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtPymntDue>À payer jusqu'au</LtxtPymntDue>
+    <LtxtDelDate>Date de livraison</LtxtDelDate>
+    <LtxtComDate>Date de communication</LtxtComDate>
+    <LtxtProd>Produit</LtxtProd>
+    <LtxtSumLines>Lignes en résumé</LtxtSumLines>
+    <LtxtUn>Unité</LtxtUn>
+    <LtxtEmptyCart>Corbeille d'achat vide</LtxtEmptyCart>
+    <LtxtDelete>Éliminer</LtxtDelete>
+    <LtxtErrItmInv>La quantité d\'article que vous souhaitez à vendre n\'est pas disponible </LtxtErrItmInv>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtTotalToPay>Total à payer</LtxtTotalToPay>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtMostSel>+Vendus</LtxtMostSel>
+    <LtxtPymntCod>Condition de paiement</LtxtPymntCod>
+    <LtxtConfCancelDoc>Êtes-vous sûre d\'annuler ce document?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Il manque pour completer lots</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Voir résumé des lots</LtxtViewBtchSum>
+    <LtxtBtchExceeds>La quantité de lots dépasse la quantité requise</LtxtBtchExceeds>
+    <LtxtIncompletedx>Il manque pour completer 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Voir résumé de 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>La quantité de 3dx dépasse la quantité requise</Ltxt3dxExceeds>
+    <LtxtViewAll>Voir tous</LtxtViewAll>
+    <LbtnViewSummary>Voir résumé</LbtnViewSummary>
+    <LtxtXItemsSelld>Articles {0} les plus vendus</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Montrer détail du recensement</LtxtShowHdrDet>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+    <LtxtFilterLines>Cette corbeille est-elle filtrée, cette ligne représente les lignes cachées</LtxtFilterLines>
+    <LtxtClearFilter>Quitter filtre</LtxtClearFilter>
+    <LtxtValSelCnt>&lt;--&gt;</LtxtValSelCnt>
+    <LtxtCurrSign>&lt;--&gt;</LtxtCurrSign>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtClientDoc>&lt;--&gt;</LtxtClientDoc>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtErrSumItmInv>&lt;--&gt;</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>&lt;--&gt;</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>&lt;--&gt;</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSerSum>&lt;--&gt;</LtxtViewSerSum>
+    <LtxtSerExceeds>&lt;--&gt;</LtxtSerExceeds>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtRate>Tarif</DtxtRate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtProject>Project</DtxtProject>
+    <DtxtDocType>Dokument Art</DtxtDocType>
+    <DtxtDPM>Anzahlung</DtxtDPM>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+    <LttlShopCart>Mein Einkaufswagen</LttlShopCart>
+    <LtxtTo>An</LtxtTo>
+    <LtxtCurBal>Aktueller Kontostand</LtxtCurBal>
+    <LtxtOrdrBal>{0} Kontostand</LtxtOrdrBal>
+    <LtxtCurr>Währung</LtxtCurr>
+    <LtxtShipAdd>Lieferadresse</LtxtShipAdd>
+    <LtxtPymntDue>Zahlung fällig</LtxtPymntDue>
+    <LtxtDelDate>Lieferdatum</LtxtDelDate>
+    <LtxtComDate>Kommunikationsdatum</LtxtComDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtSumLines>Zusammengefasste Zeilen</LtxtSumLines>
+    <LtxtUn>Einheit</LtxtUn>
+    <LtxtEmptyCart>Einkaufswagen leer</LtxtEmptyCart>
+    <LtxtDelete>Löschen</LtxtDelete>
+    <LtxtErrItmInv>Die Menge die Sie von Artikel {0} verkaufen möchten ist nicht verfügbar</LtxtErrItmInv>
+    <LtxtSubtotal>Zwischensumme</LtxtSubtotal>
+    <LtxtTotalToPay>Zu zahlende Summe </LtxtTotalToPay>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtMostSel>Am meistverkauften</LtxtMostSel>
+    <LtxtPymntCod>Zahlungsbedingungen</LtxtPymntCod>
+    <LtxtConfCancelDoc>Möchten Sie dieses Dokument wirklich löschen?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Unvollständige Bündel</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Bündel Zussamenfassung ansehen</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Bündel Menge überschreitet die erforderliche Menge</LtxtBtchExceeds>
+    <LtxtIncompletedx>Unvollständiges 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>3dx Zusammenfassung ansehen</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx Menge überschreitet die erforderliche Menge</Ltxt3dxExceeds>
+    <LtxtViewAll>Alle ansehen</LtxtViewAll>
+    <LbtnViewSummary>Zusammenfassung ansehen</LbtnViewSummary>
+    <LtxtXItemsSelld>Die {0} am meistverkauften Artikel</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Kopfzeilen Detail anzeigen</LtxtShowHdrDet>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+    <LtxtFilterLines>Der Einkaufswagen ist gefiltert; diese Zeile representiert die ausgeblendeten Zeilen</LtxtFilterLines>
+    <LtxtClearFilter>Filter leeren</LtxtClearFilter>
+    <LtxtValSelCnt>&lt;--&gt;</LtxtValSelCnt>
+    <LtxtCurrSign>&lt;--&gt;</LtxtCurrSign>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtClientDoc>&lt;--&gt;</LtxtClientDoc>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LtxtPartSupply>&lt;--&gt;</LtxtPartSupply>
+    <LtxtErrSumItmInv>&lt;--&gt;</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>&lt;--&gt;</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>&lt;--&gt;</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSerSum>&lt;--&gt;</LtxtViewSerSum>
+    <LtxtSerExceeds>&lt;--&gt;</LtxtSerExceeds>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtRate>Курс</DtxtRate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <DtxtDPM>Ав. платеж</DtxtDPM>
+    <LtxtValFld>Пожалуйста, введите области "{0}"</LtxtValFld>
+    <LttlShopCart>Моя корзина</LttlShopCart>
+    <LtxtTo>Для
+</LtxtTo>
+    <LtxtCurBal>Текущий баланс</LtxtCurBal>
+    <LtxtOrdrBal>{0} Баланс</LtxtOrdrBal>
+    <LtxtCurr>Валюты</LtxtCurr>
+    <LtxtShipAdd>Адрес доставки</LtxtShipAdd>
+    <LtxtPymntDue>Оплата производится</LtxtPymntDue>
+    <LtxtDelDate>Дата доставки</LtxtDelDate>
+    <LtxtComDate>Действительная дата</LtxtComDate>
+    <LtxtProd>Продукт</LtxtProd>
+    <LtxtSumLines>Краткие линии</LtxtSumLines>
+    <LtxtUn>единицы</LtxtUn>
+    <LtxtEmptyCart>Корзина пустая</LtxtEmptyCart>
+    <LtxtDelete>Стереть</LtxtDelete>
+    <LtxtErrItmInv>Количество, которое вы желаете продать,\n,постоянные пункты{0} </LtxtErrItmInv>
+    <LtxtSubtotal>Итого
+
+</LtxtSubtotal>
+    <LtxtTotalToPay>Всего платить</LtxtTotalToPay>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtMostSel>Самые покупаемые</LtxtMostSel>
+    <LtxtPymntCod>Условия оплаты</LtxtPymntCod>
+    <LtxtConfCancelDoc>Вы уверены, что хотите удалить этот документ?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Неполный пакет</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Открыть партиями резюме</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Размер партии превышает необходимое количество</LtxtBtchExceeds>
+    <LtxtIncompletedx>Неполный 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Просмотр резюме 3DX</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx количество превышает  желаемое</Ltxt3dxExceeds>
+    <LtxtViewAll>Посмотреть все</LtxtViewAll>
+    <LbtnViewSummary>Краткое</LbtnViewSummary>
+    <LtxtXItemsSelld>{0} наиболее продаваемые пункты</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Показать заголовки подробнее</LtxtShowHdrDet>
+    <LtxtVolDiscount>Со скидкой</LtxtVolDiscount>
+    <LtxtFilterLines>Эта корзина фильтров; линия представляет собой скрытые линии</LtxtFilterLines>
+    <LtxtClearFilter>Очистить фильтр</LtxtClearFilter>
+    <LtxtValSelCnt>Вы должны выбрать контакт</LtxtValSelCnt>
+    <LtxtCurrSign>Войти</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Цена после диска.</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Цена за единицу</LtxtUnitPrice>
+    <LtxtClientDoc>Документ, созданный клиентом</LtxtClientDoc>
+    <LtxtPayAdd>Платежный адрес</LtxtPayAdd>
+    <LtxtPartSupply>Разрешить частичную поставка</LtxtPartSupply>
+    <LtxtErrSumItmInv>&lt;--&gt;</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>&lt;--&gt;</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>&lt;--&gt;</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSerSum>&lt;--&gt;</LtxtViewSerSum>
+    <LtxtSerExceeds>&lt;--&gt;</LtxtSerExceeds>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtRate>Sazba</DtxtRate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtProject>&lt;--&gt;</DtxtProject>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <DtxtDPM>Záloha</DtxtDPM>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+    <LttlShopCart>Můj nákupní  košík</LttlShopCart>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtCurBal>Aktuální bilance</LtxtCurBal>
+    <LtxtOrdrBal>{0} Bilance</LtxtOrdrBal>
+    <LtxtCurr>Měna</LtxtCurr>
+    <LtxtShipAdd>Dodací adresa</LtxtShipAdd>
+    <LtxtPymntDue>Zaplatit do</LtxtPymntDue>
+    <LtxtDelDate>Datum dodání</LtxtDelDate>
+    <LtxtComDate>Datum platnosti</LtxtComDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtSumLines>Shrnutí řádek</LtxtSumLines>
+    <LtxtUn>Jednotka</LtxtUn>
+    <LtxtEmptyCart>Nákupní košík je prázdný</LtxtEmptyCart>
+    <LtxtDelete>Vymazat</LtxtDelete>
+    <LtxtErrItmInv>Množství položky {0}, které chcete prodat, není dostupné</LtxtErrItmInv>
+    <LtxtSubtotal>Podsoučet</LtxtSubtotal>
+    <LtxtTotalToPay>Celkem k zaplacení</LtxtTotalToPay>
+    <LtxtExpenses>&lt;--&gt;</LtxtExpenses>
+    <LtxtMostSel>Nejprodávanější</LtxtMostSel>
+    <LtxtPymntCod>Platební podmínky</LtxtPymntCod>
+    <LtxtConfCancelDoc>Jste si jistý/á, že chcete vymazat pole tento dokument?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Nekompletní dávky</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobrazit přehled dávek</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Množství v dávce převyšuje požadované množství</LtxtBtchExceeds>
+    <LtxtIncompletedx>Nekompletní 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Zobrazit shrnutí 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx množství převyšuje požadované množství</Ltxt3dxExceeds>
+    <LtxtViewAll>Zobrazit vše</LtxtViewAll>
+    <LbtnViewSummary>Zobrazit shrnutí</LbtnViewSummary>
+    <LtxtXItemsSelld>{0} nejprodávanější položek</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Ukázat detail hlavičky</LtxtShowHdrDet>
+    <LtxtVolDiscount>Objemová sleva </LtxtVolDiscount>
+    <LtxtFilterLines>Filtr nákupního košíku je aktivní. Tato řádka zastupuje skryté řádky</LtxtFilterLines>
+    <LtxtClearFilter>Vyčistit filtr</LtxtClearFilter>
+    <LtxtValSelCnt>Musíte vybrat kontakt</LtxtValSelCnt>
+    <LtxtCurrSign>Podepsat</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Cena po slevě</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Jednotková cena</LtxtUnitPrice>
+    <LtxtClientDoc>Dokument vytvořený klientem</LtxtClientDoc>
+    <LtxtPayAdd>Adresa pro platbu</LtxtPayAdd>
+    <LtxtPartSupply>Povolit částečnou dodávku</LtxtPartSupply>
+    <LtxtErrSumItmInv>Není dostupné dostatečné množství skladem pro {0} položek řádek</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>&lt;--&gt;</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>&lt;--&gt;</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSerSum>&lt;--&gt;</LtxtViewSerSum>
+    <LtxtSerExceeds>&lt;--&gt;</LtxtSerExceeds>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtRate>Kurs</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtDocType>Rodzaj dokumentu</DtxtDocType>
+    <DtxtDPM>Przedpłata</DtxtDPM>
+    <LtxtValFld>Proszę wprowadzić pole "{0}"</LtxtValFld>
+    <LttlShopCart>Mój koszyk</LttlShopCart>
+    <LtxtTo>do </LtxtTo>
+    <LtxtCurBal>Obecne saldo</LtxtCurBal>
+    <LtxtOrdrBal>{0} saldo</LtxtOrdrBal>
+    <LtxtCurr>Waluta</LtxtCurr>
+    <LtxtShipAdd>Adres przesyłki</LtxtShipAdd>
+    <LtxtPymntDue>Płatność do</LtxtPymntDue>
+    <LtxtDelDate>Data dostawy</LtxtDelDate>
+    <LtxtComDate>Data ważności</LtxtComDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtSumLines>Podsumowanie wierszy</LtxtSumLines>
+    <LtxtUn>Jednostka</LtxtUn>
+    <LtxtEmptyCart>Koszyk jest pusty</LtxtEmptyCart>
+    <LtxtDelete>Usuń</LtxtDelete>
+    <LtxtErrItmInv>Ilość pozycji {0}, która pragniesz sprzedać jest nieosiągalna</LtxtErrItmInv>
+    <LtxtSubtotal>Suma częściowa</LtxtSubtotal>
+    <LtxtTotalToPay>Razem do zapłaty</LtxtTotalToPay>
+    <LtxtExpenses>Dodaj wydatek</LtxtExpenses>
+    <LtxtMostSel>Najczęściej sprzedawane</LtxtMostSel>
+    <LtxtPymntCod>Warunki płatności</LtxtPymntCod>
+    <LtxtConfCancelDoc>Czy jesteś pewien, że chcesz usunąć ten dokument?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Niepełne partie</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobacz podsumowanie partii</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Wielkość partii przekracza wymagana wielkość</LtxtBtchExceeds>
+    <LtxtIncompletedx>3Dx niekompletny</LtxtIncompletedx>
+    <LtxtView3dxSum>Zobacz podsumowanie 3Dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Wielkość 3Dx przekracza wymagana wielkość</Ltxt3dxExceeds>
+    <LtxtViewAll>Zobacz wszystkie/wszystko</LtxtViewAll>
+    <LbtnViewSummary>Zobacz podsumowanie</LbtnViewSummary>
+    <LtxtXItemsSelld>{0} najczęściej sprzedawane pozycje</LtxtXItemsSelld>
+    <LtxtShowHdrDet>pokaż szczegół nagłówka</LtxtShowHdrDet>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+    <LtxtFilterLines>Ten koszyk jest filtrowany; ten wiersz przedstawia ukryte wiersze</LtxtFilterLines>
+    <LtxtClearFilter>Wyczyść filer</LtxtClearFilter>
+    <LtxtValSelCnt>Musisz wybrać kontakt</LtxtValSelCnt>
+    <LtxtCurrSign>Podpisz</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Cena po rabacie</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Cena jednostki</LtxtUnitPrice>
+    <LtxtClientDoc>Dokument stworzony przez klienta</LtxtClientDoc>
+    <LtxtPayAdd>Adres do faktury</LtxtPayAdd>
+    <LtxtPartSupply>Zezwól na dostawę częściową</LtxtPartSupply>
+    <LtxtErrSumItmInv>Nie ma wystarczająco dostępnego towaru dla {0} wierszy podsumowujących pozycje.</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>Data nie może być późniejsza niż dzisiaj</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit> {0} nie może być mniejsza niż data dokumentu</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Niekompletne seria</LtxtIncompleteSeries>
+    <LtxtViewSerSum>Zobacz podsumowanie serii</LtxtViewSerSum>
+    <LtxtSerExceeds>Ilość serii przewyższa wymagana ilość</LtxtSerExceeds>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtRate>Kurz</DtxtRate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtProject>Projekt</DtxtProject>
+    <DtxtDocType>Typ dokumentu</DtxtDocType>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+    <LttlShopCart>Môj Nákupný košík</LttlShopCart>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtCurBal>Aktuálny zostatok</LtxtCurBal>
+    <LtxtOrdrBal>Rovnováha {0}</LtxtOrdrBal>
+    <LtxtCurr>Mena</LtxtCurr>
+    <LtxtShipAdd>Dodacia adresa</LtxtShipAdd>
+    <LtxtPymntDue>Splatnosť</LtxtPymntDue>
+    <LtxtDelDate>Dátum dodania</LtxtDelDate>
+    <LtxtComDate>Dátum platnosti</LtxtComDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtSumLines>Zhrnuté linky</LtxtSumLines>
+    <LtxtUn>Jednotka</LtxtUn>
+    <LtxtEmptyCart>Nákupná košík prázdny</LtxtEmptyCart>
+    <LtxtDelete>Vymazať</LtxtDelete>
+    <LtxtErrItmInv>Množstvo položky {0}, ktoré si prajete predať nie je k dispozícii</LtxtErrItmInv>
+    <LtxtSubtotal>Medzisúčet</LtxtSubtotal>
+    <LtxtTotalToPay>Celkom k úhrade</LtxtTotalToPay>
+    <LtxtExpenses>Pridať výdavky</LtxtExpenses>
+    <LtxtMostSel>Najpredávanejšie</LtxtMostSel>
+    <LtxtPymntCod>Platobné podmienky</LtxtPymntCod>
+    <LtxtConfCancelDoc>Ste si istí, že chcete zmazať tento dokument?</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>Nekompletné šarže</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobraziť zhrnutie šarží</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Množstvo šarže prekračuje požadované množstvo</LtxtBtchExceeds>
+    <LtxtIncompletedx>Nekompletné 3dx</LtxtIncompletedx>
+    <LtxtView3dxSum>Zobraziť zhrnutie 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx množstvo prekračuje požadované množstvo</Ltxt3dxExceeds>
+    <LtxtViewAll>Zobraziť všetko</LtxtViewAll>
+    <LbtnViewSummary>Zobraziť zhrnutie</LbtnViewSummary>
+    <LtxtXItemsSelld>{0} Najpredávanejších položiek</LtxtXItemsSelld>
+    <LtxtShowHdrDet>Zobraziť údaje hlavičky</LtxtShowHdrDet>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+    <LtxtFilterLines>Tento košík je filtrovaný; tento riadok predstavuje ukryté riadky</LtxtFilterLines>
+    <LtxtClearFilter>Vymazať filter</LtxtClearFilter>
+    <LtxtValSelCnt>Musíte zvoliť kontakt</LtxtValSelCnt>
+    <LtxtCurrSign>Označenie</LtxtCurrSign>
+    <LtxtPriceAfterDisc>Cena po zľave</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>Cena jednotky</LtxtUnitPrice>
+    <LtxtClientDoc>Dokument vytvorený klientom</LtxtClientDoc>
+    <LtxtPayAdd>Platobná adresa</LtxtPayAdd>
+    <LtxtPartSupply>Povoliť čiastkovú dodávku</LtxtPartSupply>
+    <LtxtErrSumItmInv>Nie je dosť dostupných zásob pre zhrnuté riadky položky {0}</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>Dátum nemôže byť po dnešnom dátume</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>{0} nemôže byť menej ako dátum dokumentu</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>Nekompletná séria</LtxtIncompleteSeries>
+    <LtxtViewSerSum>Zobraziť zhrnutie série</LtxtViewSerSum>
+    <LtxtSerExceeds>Množstvo série presahuje požadované množstvo</LtxtSerExceeds>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtRate>DtxtRate</DtxtRate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtProject>DtxtProject</DtxtProject>
+    <DtxtDocType>DtxtDocType</DtxtDocType>
+    <DtxtDPM>DtxtDPM</DtxtDPM>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+    <LttlShopCart>LttlShopCart</LttlShopCart>
+    <LtxtTo>LtxtTo</LtxtTo>
+    <LtxtCurBal>LtxtCurBal</LtxtCurBal>
+    <LtxtOrdrBal>LtxtOrdrBal</LtxtOrdrBal>
+    <LtxtCurr>LtxtCurr</LtxtCurr>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtPymntDue>LtxtPymntDue</LtxtPymntDue>
+    <LtxtDelDate>LtxtDelDate</LtxtDelDate>
+    <LtxtComDate>LtxtComDate</LtxtComDate>
+    <LtxtProd>LtxtProd</LtxtProd>
+    <LtxtSumLines>LtxtSumLines</LtxtSumLines>
+    <LtxtUn>LtxtUn</LtxtUn>
+    <LtxtEmptyCart>LtxtEmptyCart</LtxtEmptyCart>
+    <LtxtDelete>LtxtDelete</LtxtDelete>
+    <LtxtErrItmInv>LtxtErrItmInv</LtxtErrItmInv>
+    <LtxtSubtotal>LtxtSubtotal</LtxtSubtotal>
+    <LtxtTotalToPay>LtxtTotalToPay</LtxtTotalToPay>
+    <LtxtExpenses>LtxtExpenses</LtxtExpenses>
+    <LtxtMostSel>LtxtMostSel</LtxtMostSel>
+    <LtxtPymntCod>LtxtPymntCod</LtxtPymntCod>
+    <LtxtConfCancelDoc>LtxtConfCancelDoc</LtxtConfCancelDoc>
+    <LtxtIncompleteBatchs>LtxtIncompleteBatchs</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>LtxtViewBtchSum</LtxtViewBtchSum>
+    <LtxtBtchExceeds>LtxtBtchExceeds</LtxtBtchExceeds>
+    <LtxtIncompletedx>LtxtIncompletedx</LtxtIncompletedx>
+    <LtxtView3dxSum>LtxtView3dxSum</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Ltxt3dxExceeds</Ltxt3dxExceeds>
+    <LtxtViewAll>LtxtViewAll</LtxtViewAll>
+    <LbtnViewSummary>LbtnViewSummary</LbtnViewSummary>
+    <LtxtXItemsSelld>LtxtXItemsSelld</LtxtXItemsSelld>
+    <LtxtShowHdrDet>LtxtShowHdrDet</LtxtShowHdrDet>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+    <LtxtFilterLines>LtxtFilterLines</LtxtFilterLines>
+    <LtxtClearFilter>LtxtClearFilter</LtxtClearFilter>
+    <LtxtValSelCnt>LtxtValSelCnt</LtxtValSelCnt>
+    <LtxtCurrSign>LtxtCurrSign</LtxtCurrSign>
+    <LtxtPriceAfterDisc>LtxtPriceAfterDisc</LtxtPriceAfterDisc>
+    <LtxtUnitPrice>LtxtUnitPrice</LtxtUnitPrice>
+    <LtxtClientDoc>LtxtClientDoc</LtxtClientDoc>
+    <LtxtPayAdd>LtxtPayAdd</LtxtPayAdd>
+    <LtxtPartSupply>LtxtPartSupply</LtxtPartSupply>
+    <LtxtErrSumItmInv>LtxtErrSumItmInv</LtxtErrSumItmInv>
+    <LtxtDocDateLimit>LtxtDocDateLimit</LtxtDocDateLimit>
+    <LtxtDocDueDateLimit>LtxtDocDueDateLimit</LtxtDocDueDateLimit>
+    <LtxtIncompleteSeries>LtxtIncompleteSeries</LtxtIncompleteSeries>
+    <LtxtViewSerSum>LtxtViewSerSum</LtxtViewSerSum>
+    <LtxtSerExceeds>LtxtSerExceeds</LtxtSerExceeds>
+  </language>
+</languages>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Error</DtxtError>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtAlert>Alert</DtxtAlert>
+    <LtxtNewMsgs>{0} Messages</LtxtNewMsgs>
+    <LtxtNewMsg>1 Message</LtxtNewMsg>
+    <LtxtGo2Inbox>Go to Inbox</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Error</DtxtError>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtAlert>Alerta</DtxtAlert>
+    <LtxtNewMsgs>{0} Mensajes</LtxtNewMsgs>
+    <LtxtNewMsg>1 Mensaje</LtxtNewMsg>
+    <LtxtGo2Inbox>Ir a Buzón</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtAlert>התראה</DtxtAlert>
+    <LtxtNewMsgs>{0} הודעות</LtxtNewMsgs>
+    <LtxtNewMsg>1 הודעה</LtxtNewMsg>
+    <LtxtGo2Inbox>תיבת דואר נכנס</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Error</DtxtError>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtAlert>Alert</DtxtAlert>
+    <LtxtNewMsgs>{0} Messages</LtxtNewMsgs>
+    <LtxtNewMsg>1 Message</LtxtNewMsg>
+    <LtxtGo2Inbox>Go to Inbox</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Erro</DtxtError>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtAlert>Alerta</DtxtAlert>
+    <LtxtNewMsgs>{0} Mensagens</LtxtNewMsgs>
+    <LtxtNewMsg>1 Mensagem</LtxtNewMsg>
+    <LtxtGo2Inbox>Ir para a caixa de entrada</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtAlert>&lt;--&gt;</DtxtAlert>
+    <LtxtNewMsgs>&lt;--&gt;</LtxtNewMsgs>
+    <LtxtNewMsg>&lt;--&gt;</LtxtNewMsg>
+    <LtxtGo2Inbox>&lt;--&gt;</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtAlert>Alarm</DtxtAlert>
+    <LtxtNewMsgs>&lt;--&gt;</LtxtNewMsgs>
+    <LtxtNewMsg>&lt;--&gt;</LtxtNewMsg>
+    <LtxtGo2Inbox>&lt;--&gt;</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtAlert>Внимание</DtxtAlert>
+    <LtxtNewMsgs>{0} сообщения</LtxtNewMsgs>
+    <LtxtNewMsg>1 сообщение</LtxtNewMsg>
+    <LtxtGo2Inbox>Сегодняшний почтовый адрес</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtAlert>Varování</DtxtAlert>
+    <LtxtNewMsgs>{0} zpráv</LtxtNewMsgs>
+    <LtxtNewMsg>1 zpráva</LtxtNewMsg>
+    <LtxtGo2Inbox>Přejít do Schránky</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtAlert>Alert</DtxtAlert>
+    <LtxtNewMsgs>{0} wiadomości</LtxtNewMsgs>
+    <LtxtNewMsg>1 wiadomość</LtxtNewMsg>
+    <LtxtGo2Inbox>Idź do skrzynki</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtAlert>Upozornenie</DtxtAlert>
+    <LtxtNewMsgs>{0} Správ</LtxtNewMsgs>
+    <LtxtNewMsg>1 Správa</LtxtNewMsg>
+    <LtxtGo2Inbox>Prejdite do Doručenej pošty</LtxtGo2Inbox>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtAlert>DtxtAlert</DtxtAlert>
+    <LtxtNewMsgs>LtxtNewMsgs</LtxtNewMsgs>
+    <LtxtNewMsg>LtxtNewMsg</LtxtNewMsg>
+    <LtxtGo2Inbox>LtxtGo2Inbox</LtxtGo2Inbox>
+  </language>
+</languages>

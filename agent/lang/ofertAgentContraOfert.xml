@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtState>State</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtRejected>Rejected</DtxtRejected>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LtxtValRespDat>Incomplete data for the answer of {0}</LtxtValRespDat>
+    <LtxtNoChange>You have not made any changes to {0}</LtxtNoChange>
+    <LtxtViewHist>View History</LtxtViewHist>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtLast>Last</LtxtLast>
+    <LtxtResTo>Response to</LtxtResTo>
+    <LtxtLimDat>Days Limit</LtxtLimDat>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtConfAccRefOfr>The {0} was already rejected.\nAre you sure you want to accept the {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Are you sure you want to reject the {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprobado</DtxtAproved>
+    <DtxtRejected>Rechazado</DtxtRejected>
+    <DtxtAnuled>Anulado</DtxtAnuled>
+    <DtxtCounter>Contra</DtxtCounter>
+    <DtxtReject>Rechazar</DtxtReject>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <LtxtValRespDat>Datos incompletos para respuesta de {0}</LtxtValRespDat>
+    <LtxtNoChange>No ha realizado ningún cambio a la {0}</LtxtNoChange>
+    <LtxtViewHist>Ver Historial</LtxtViewHist>
+    <LtxtBasePrice>Precio Base</LtxtBasePrice>
+    <LtxtLast>Última</LtxtLast>
+    <LtxtResTo>Respuesta a</LtxtResTo>
+    <LtxtLimDat>Limite de Días</LtxtLimDat>
+    <LtxtLimit>Límite</LtxtLimit>
+    <LtxtResp>Respuesta</LtxtResp>
+    <LtxtConfAccRefOfr>Esta {0} ya fue rechazada.\n¿Está seguro que desea aceptar la {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>¿Está seguro que desea rechazar esta {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtWaiting>בהמתנה</DtxtWaiting>
+    <DtxtAproved>מאושר</DtxtAproved>
+    <DtxtRejected>לא מאשר</DtxtRejected>
+    <DtxtAnuled>מבוטל</DtxtAnuled>
+    <DtxtCounter>נגד</DtxtCounter>
+    <DtxtReject>לא מאשר</DtxtReject>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <LtxtValRespDat>חסרים נתונים לתשובה על {0}</LtxtValRespDat>
+    <LtxtNoChange>לא ביצעת שום שינוי ב{0}</LtxtNoChange>
+    <LtxtViewHist>ראה היסטוריה</LtxtViewHist>
+    <LtxtBasePrice>מחיר בסיס</LtxtBasePrice>
+    <LtxtLast>אחרונה</LtxtLast>
+    <LtxtResTo>תשובה ל</LtxtResTo>
+    <LtxtLimDat>מקבלת ימים</LtxtLimDat>
+    <LtxtLimit>מקסימום</LtxtLimit>
+    <LtxtResp>תשובה</LtxtResp>
+    <LtxtConfAccRefOfr>{0} נדחה בעבר.\nהאם לאשר את ה{0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>האם לא לאשר את {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{1} {0}</LbtnCounterOffer>
+    <LttlLastOffer>{1} {0}</LttlLastOffer>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtState>County</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtRejected>Rejected</DtxtRejected>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <LtxtValRespDat>Incomplete data for the answer of {0}</LtxtValRespDat>
+    <LtxtNoChange>You have not made any changes to {0}</LtxtNoChange>
+    <LtxtViewHist>View History</LtxtViewHist>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtLast>Last</LtxtLast>
+    <LtxtResTo>Response to</LtxtResTo>
+    <LtxtLimDat>Days Limit</LtxtLimDat>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtConfAccRefOfr>The {0} was already rejected.\nAre you sure you want to accept the {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Are you sure you want to reject the {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtState>Estado</DtxtState>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprovado</DtxtAproved>
+    <DtxtRejected>Recusada</DtxtRejected>
+    <DtxtAnuled>Cancelado</DtxtAnuled>
+    <DtxtCounter>Contador</DtxtCounter>
+    <DtxtReject>Recusar</DtxtReject>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <LtxtValRespDat>Dados incompletos para a resposta de {0}?</LtxtValRespDat>
+    <LtxtNoChange>Não realizou nenhuma modificação  a {0}</LtxtNoChange>
+    <LtxtViewHist>Ver História</LtxtViewHist>
+    <LtxtBasePrice>Preço Base</LtxtBasePrice>
+    <LtxtLast>Última</LtxtLast>
+    <LtxtResTo>Resposta a </LtxtResTo>
+    <LtxtLimDat>Limite de dias</LtxtLimDat>
+    <LtxtLimit>Limite</LtxtLimit>
+    <LtxtResp>Resposta</LtxtResp>
+    <LtxtConfAccRefOfr>Esta {0} já foi recusada. Está seguro que deseja aceitar a {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Tem certeza  que deseja recusar esta {0}? </LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtState>État</DtxtState>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtWaiting>En attendant</DtxtWaiting>
+    <DtxtAproved>Approuvé</DtxtAproved>
+    <DtxtRejected>Rejeté</DtxtRejected>
+    <DtxtAnuled>Annulé</DtxtAnuled>
+    <DtxtCounter>vis à vis (contre, en face)</DtxtCounter>
+    <DtxtReject>Rejeter</DtxtReject>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <LtxtValRespDat>Données incomplets pour réponse de {0}</LtxtValRespDat>
+    <LtxtNoChange>Vous n'avez pas réaliser aucun changement à la {0}</LtxtNoChange>
+    <LtxtViewHist>Voir histoire</LtxtViewHist>
+    <LtxtBasePrice>Prix base</LtxtBasePrice>
+    <LtxtLast>Dernière</LtxtLast>
+    <LtxtResTo>Réponse à</LtxtResTo>
+    <LtxtLimDat>&lt;--&gt;</LtxtLimDat>
+    <LtxtLimit>Limite</LtxtLimit>
+    <LtxtResp>Réponse</LtxtResp>
+    <LtxtConfAccRefOfr>Cette {0} a été déjà refusée.\nÊtes-vous sûre d\'accepter la {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Êtes-vous sûre de refuser ce {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtWaiting>Wartend</DtxtWaiting>
+    <DtxtAproved>Genehmigt</DtxtAproved>
+    <DtxtRejected>Abgelehnt</DtxtRejected>
+    <DtxtAnuled>Annulliert</DtxtAnuled>
+    <DtxtCounter>Zähler</DtxtCounter>
+    <DtxtReject>Ablehnen</DtxtReject>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <LtxtValRespDat>Nicht vollständige Daten für die Antwort {0}</LtxtValRespDat>
+    <LtxtNoChange>Sie haben keine Änderungen an {0} vorgenommen</LtxtNoChange>
+    <LtxtViewHist>Geschichte ansehen</LtxtViewHist>
+    <LtxtBasePrice>Basispreis</LtxtBasePrice>
+    <LtxtLast>Letztes</LtxtLast>
+    <LtxtResTo>Rückmeldung auf</LtxtResTo>
+    <LtxtLimDat>&lt;--&gt;</LtxtLimDat>
+    <LtxtLimit>Grenze</LtxtLimit>
+    <LtxtResp>Rückmeldung</LtxtResp>
+    <LtxtConfAccRefOfr>{0} wurde schonmals abgelehnt. Möchten Sie {0} wirklich annehmen?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Möchten Sie {0} wirklich ablehnen?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtState>Государство</DtxtState>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtWaiting>Рассматриеваемый</DtxtWaiting>
+    <DtxtAproved>Подтверждён</DtxtAproved>
+    <DtxtRejected>Отклонено</DtxtRejected>
+    <DtxtAnuled>Отменён</DtxtAnuled>
+    <DtxtCounter>Против</DtxtCounter>
+    <DtxtReject>Отклонить</DtxtReject>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <LtxtValRespDat>Не хватает данных для ответа на {0}</LtxtValRespDat>
+    <LtxtNoChange>Вы не сделали каких-либо изменений в{0}</LtxtNoChange>
+    <LtxtViewHist>Смотри историю</LtxtViewHist>
+    <LtxtBasePrice>Базовая цена</LtxtBasePrice>
+    <LtxtLast>Последняя</LtxtLast>
+    <LtxtResTo>Ответ в</LtxtResTo>
+    <LtxtLimDat>Получение дней</LtxtLimDat>
+    <LtxtLimit>Максимум</LtxtLimit>
+    <LtxtResp>Ответ</LtxtResp>
+    <LtxtConfAccRefOfr>{0}Отклонён в прошлом.\n Подтвердить{0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Не сохранять{0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{1} {0}</LbtnCounterOffer>
+    <LttlLastOffer>{1} {0}</LttlLastOffer>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtState>Stát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtWaiting>Čekání</DtxtWaiting>
+    <DtxtAproved>Schváleno</DtxtAproved>
+    <DtxtRejected>Zamítnuto</DtxtRejected>
+    <DtxtAnuled>Zrušeno</DtxtAnuled>
+    <DtxtCounter>Protinávrh</DtxtCounter>
+    <DtxtReject>Zamítnout</DtxtReject>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <LtxtValRespDat>Nekompletní údaje pro odpověď {0}</LtxtValRespDat>
+    <LtxtNoChange>Neprovedl/a jste žádné změny v {0}</LtxtNoChange>
+    <LtxtViewHist>Zobrazit historii</LtxtViewHist>
+    <LtxtBasePrice>Základní cena</LtxtBasePrice>
+    <LtxtLast>Poslední</LtxtLast>
+    <LtxtResTo>Odpověď</LtxtResTo>
+    <LtxtLimDat>Limit dnů</LtxtLimDat>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LtxtResp>Odpověď</LtxtResp>
+    <LtxtConfAccRefOfr>{0} už jste zamítl/a.\nUrčitě chcete akceptovat {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Určitě chcete zamítnout {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtWaiting>Oczekujący</DtxtWaiting>
+    <DtxtAproved>Zatwierdzony</DtxtAproved>
+    <DtxtRejected>Odrzucony</DtxtRejected>
+    <DtxtAnuled>Anulowany</DtxtAnuled>
+    <DtxtCounter>Przeciwny</DtxtCounter>
+    <DtxtReject>Odrzuć</DtxtReject>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <LtxtValRespDat>Niepełne dane do odpowiedzi {0}</LtxtValRespDat>
+    <LtxtNoChange>Nie zrobiłeś żadnych zmian w {0}</LtxtNoChange>
+    <LtxtViewHist>Zobacz historię</LtxtViewHist>
+    <LtxtBasePrice>Najlepsza cena</LtxtBasePrice>
+    <LtxtLast>Ostatnia</LtxtLast>
+    <LtxtResTo>Odpowiedź dla</LtxtResTo>
+    <LtxtLimDat>Limit dni</LtxtLimDat>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LtxtResp>Odpowiedź</LtxtResp>
+    <LtxtConfAccRefOfr>{0} już został odrzucony. Czy jesteś pewien, że chcesz zaakceptować {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Czy jesteś pewien, że chcesz odrzucić {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtState>Štát</DtxtState>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtWaiting>Čaká</DtxtWaiting>
+    <DtxtAproved>Schválené</DtxtAproved>
+    <DtxtRejected>Zamietnutý</DtxtRejected>
+    <DtxtAnuled>Anulované</DtxtAnuled>
+    <DtxtCounter>Pokladňa</DtxtCounter>
+    <DtxtReject>Zamietnuť</DtxtReject>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <LtxtValRespDat>Nekompletné dáta na odpoveď {0}</LtxtValRespDat>
+    <LtxtNoChange>Nevykonali ste žiadne zmeny na {0}</LtxtNoChange>
+    <LtxtViewHist>Zobraziť históriu</LtxtViewHist>
+    <LtxtBasePrice>Základná cena</LtxtBasePrice>
+    <LtxtLast>Posledný</LtxtLast>
+    <LtxtResTo>Odpoveď komu</LtxtResTo>
+    <LtxtLimDat>Limit v dňoch</LtxtLimDat>
+    <LtxtLimit>Limit</LtxtLimit>
+    <LtxtResp>Odpoveď</LtxtResp>
+    <LtxtConfAccRefOfr>{0} už bol zamietnutý.\nSte si istí, že chcete akceptovať {0}?</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>Ste si istí, že chcete zamietnuť {0}?</LtxtConfRefOfert>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+    <LttlLastOffer>{0} {1}</LttlLastOffer>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtWaiting>DtxtWaiting</DtxtWaiting>
+    <DtxtAproved>DtxtAproved</DtxtAproved>
+    <DtxtRejected>DtxtRejected</DtxtRejected>
+    <DtxtAnuled>DtxtAnuled</DtxtAnuled>
+    <DtxtCounter>DtxtCounter</DtxtCounter>
+    <DtxtReject>DtxtReject</DtxtReject>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <LtxtValRespDat>LtxtValRespDat</LtxtValRespDat>
+    <LtxtNoChange>LtxtNoChange</LtxtNoChange>
+    <LtxtViewHist>LtxtViewHist</LtxtViewHist>
+    <LtxtBasePrice>LtxtBasePrice</LtxtBasePrice>
+    <LtxtLast>LtxtLast</LtxtLast>
+    <LtxtResTo>LtxtResTo</LtxtResTo>
+    <LtxtLimDat>LtxtLimDat</LtxtLimDat>
+    <LtxtLimit>LtxtLimit</LtxtLimit>
+    <LtxtResp>LtxtResp</LtxtResp>
+    <LtxtConfAccRefOfr>LtxtConfAccRefOfr</LtxtConfAccRefOfr>
+    <LtxtConfRefOfert>LtxtConfRefOfert</LtxtConfRefOfert>
+    <LbtnCounterOffer>LbtnCounterOffer</LbtnCounterOffer>
+    <LttlLastOffer>LttlLastOffer</LttlLastOffer>
+  </language>
+</languages>

@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtField>Field</DtxtField>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtType>Type</DtxtType>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtOp>Operation</DtxtOp>
+    <LttlEditRepLnk>Edit Report - Link</LttlEditRepLnk>
+    <LtxtNewWin>New Window</LtxtNewWin>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtObject>Object</LtxtObject>
+    <LtxtNoVars>There are no variables in this report</LtxtNoVars>
+    <LttlLinkBuilder>Link Builder</LttlLinkBuilder>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStatAcct>Statement</LtxtStatAcct>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtReturn>Return</LtxtReturn>
+    <LtxtCredNote>Credit Note</LtxtCredNote>
+    <LtxtPurOrdr>Purchase Order</LtxtPurOrdr>
+    <LtxtGoodRecPO>Goods Receipt PO</LtxtGoodRecPO>
+    <LtxtPurReturn>Purchase Return</LtxtPurReturn>
+    <LtxtPurInv>Purchase Invoice</LtxtPurInv>
+    <LtxtCredMemPO>Credit Memo P.O.</LtxtCredMemPO>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtProvPay>Provider Payment</LtxtProvPay>
+    <LtxtValSelX>You must select a(n) {0}</LtxtValSelX>
+    <LtxtValLnk>Please enter the link</LtxtValLnk>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtExtLnk>External Link</LtxtExtLnk>
+    <LtxtDynObj>Dynamic Object</LtxtDynObj>
+    <LttlAcctBal>Account Statement</LttlAcctBal>
+    <LtxtAction>Action</LtxtAction>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtAddItmCart>Add Item to Cart</LtxtAddItmCart>
+    <LtxtAddItmWish>Add Item to Wish List</LtxtAddItmWish>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtSelSeries>Select a Series</LtxtSelSeries>
+    <LtxtValSelForm>You must select a form</LtxtValSelForm>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtDupDoc>Duplicate Document</LtxtDupDoc>
+    <LtxtAprovPurOrdr>Approve Purchase Order</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Convert Sales Order to Delivery</LtxtConvOrderDel>
+    <LtxtFlowViewControl>Flow View Control</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtField>Campo</DtxtField>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Formulario</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <DtxtServiceCall>Llamada de servicio</DtxtServiceCall>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtOp>Operación</DtxtOp>
+    <LttlEditRepLnk>Edición de Reportes - Enlace</LttlEditRepLnk>
+    <LtxtNewWin>Nueva ventana</LtxtNewWin>
+    <LtxtRep>Reporte</LtxtRep>
+    <LtxtObject>Objeto</LtxtObject>
+    <LtxtNoVars>No existen variables para este reporte</LtxtNoVars>
+    <LttlLinkBuilder>Constructor de enlace</LttlLinkBuilder>
+    <LtxtSelObj>Escoja un objeto</LtxtSelObj>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtStatAcct>Estado de Cuenta</LtxtStatAcct>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtReturn>Devolución</LtxtReturn>
+    <LtxtCredNote>Nota de crédito</LtxtCredNote>
+    <LtxtPurOrdr>Orden de compra</LtxtPurOrdr>
+    <LtxtGoodRecPO>Consignación de mercancía</LtxtGoodRecPO>
+    <LtxtPurReturn>Devolución en compra</LtxtPurReturn>
+    <LtxtPurInv>Comprobante de compra</LtxtPurInv>
+    <LtxtCredMemPO>Débito en compra</LtxtCredMemPO>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtProvPay>Pago a proveedor</LtxtProvPay>
+    <LtxtValSelX>Debe seleccionar un {0}</LtxtValSelX>
+    <LtxtValLnk>Debe introducir el enlace</LtxtValLnk>
+    <LtxtSelFldVar>Debe seleccionar el campo para la variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Debe introducir el valor para la variable @{0}</LtxtValVarVal>
+    <LtxtExtLnk>Enlace externo</LtxtExtLnk>
+    <LtxtDynObj>Objeto Dinámico</LtxtDynObj>
+    <LttlAcctBal>Estado de Cuenta</LttlAcctBal>
+    <LtxtAction>Acción</LtxtAction>
+    <LtxtConvQuoteOrder>Convertir cotización a orden de venta</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Cerrar objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar objeto</LtxtCancelObj>
+    <LtxtAddItmCart>Agregar artículo a canasta</LtxtAddItmCart>
+    <LtxtAddItmWish>Agregar artículo a lista de deseos</LtxtAddItmWish>
+    <LtxtRemObj>Eliminar Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprobar Orden de Venta</LtxtAprovOrder>
+    <LtxtSelSeries>Seleccione una libreta</LtxtSelSeries>
+    <LtxtValSelForm>Debe seleccionar un formulario</LtxtValSelForm>
+    <LtxtConvOrderInv>Convertir Orden de Venta a Factura</LtxtConvOrderInv>
+    <LtxtDupDoc>Duplicar Documento</LtxtDupDoc>
+    <LtxtAprovPurOrdr>Aprobar Orden de Compra</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Convertir Orden de Venta a Entrega</LtxtConvOrderDel>
+    <LtxtFlowViewControl>Vista de Control de Flujo</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtField>שדה</DtxtField>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtType>סוג</DtxtType>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtSAP>סאפ</DtxtSAP>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtForm>טופס</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <DtxtServiceCall>קריאת שירות</DtxtServiceCall>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtPurQuote>הצעת מחיר לקנייה</DtxtPurQuote>
+    <DtxtOp>תהליך</DtxtOp>
+    <LttlEditRepLnk>עריכת דוחות - קישורים</LttlEditRepLnk>
+    <LtxtNewWin>חלון חדש</LtxtNewWin>
+    <LtxtRep>דוח</LtxtRep>
+    <LtxtObject>אובייקט</LtxtObject>
+    <LtxtNoVars>לא קיימים משתנים לדוח הנ"ל!</LtxtNoVars>
+    <LttlLinkBuilder>בנאי קישור</LttlLinkBuilder>
+    <LtxtSelObj>בחר אובייקט</LtxtSelObj>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtStatAcct>מצב חשבון</LtxtStatAcct>
+    <LtxtSale>מכירות</LtxtSale>
+    <LtxtReturn>החזרה</LtxtReturn>
+    <LtxtCredNote>חשבונית מס זיכוי</LtxtCredNote>
+    <LtxtPurOrdr>הזמנת רכש</LtxtPurOrdr>
+    <LtxtGoodRecPO>תעודת משלוח רכש</LtxtGoodRecPO>
+    <LtxtPurReturn>החזרת רכש</LtxtPurReturn>
+    <LtxtPurInv>חשבונית מס רכש</LtxtPurInv>
+    <LtxtCredMemPO>חשבונית מס זיכוי רכש</LtxtCredMemPO>
+    <LtxtPur>קניות</LtxtPur>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtProvPay>תשלום לספק</LtxtProvPay>
+    <LtxtValSelX>צריך לבחור {0}</LtxtValSelX>
+    <LtxtValLnk>צריך להכניס קישור!</LtxtValLnk>
+    <LtxtSelFldVar>צריך לבחור ערך לשדה {0}@</LtxtSelFldVar>
+    <LtxtValVarVal>צריך להכניס ערך למשתנה {0}@</LtxtValVarVal>
+    <LtxtExtLnk>קישור חיצוני</LtxtExtLnk>
+    <LtxtDynObj>אובייקט דינמי</LtxtDynObj>
+    <LttlAcctBal>מצב חשבון</LttlAcctBal>
+    <LtxtAction>פעולה</LtxtAction>
+    <LtxtConvQuoteOrder>הפוך הצעת מחיר להזמנת לקוח</LtxtConvQuoteOrder>
+    <LtxtCloseObj>סגור אובייקט</LtxtCloseObj>
+    <LtxtCancelObj>בטל אובייקט</LtxtCancelObj>
+    <LtxtAddItmCart>הוסף פריט לסל</LtxtAddItmCart>
+    <LtxtAddItmWish>הוסף פריט לרשימת משאלות</LtxtAddItmWish>
+    <LtxtRemObj>מחק אובייקט</LtxtRemObj>
+    <LtxtAprovOrder>אשר הזמנת לקוח</LtxtAprovOrder>
+    <LtxtSelSeries>בחר סידרה</LtxtSelSeries>
+    <LtxtValSelForm>יש לבחור טופס</LtxtValSelForm>
+    <LtxtConvOrderInv>המר הזמנות מכירה לחשבניות מס</LtxtConvOrderInv>
+    <LtxtDupDoc>שכפל מסמך</LtxtDupDoc>
+    <LtxtAprovPurOrdr>אשר הזמנת ספקים</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>המר הזמנה לתעודת משלוח</LtxtConvOrderDel>
+    <LtxtFlowViewControl>צפה בבקרת זרימה</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtField>Field</DtxtField>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtType>Type</DtxtType>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Edit Report - Link</LttlEditRepLnk>
+    <LtxtNewWin>New Window</LtxtNewWin>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtObject>Object</LtxtObject>
+    <LtxtNoVars>There are no variables in this report</LtxtNoVars>
+    <LttlLinkBuilder>Link Builder</LttlLinkBuilder>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStatAcct>Statement</LtxtStatAcct>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtReturn>Return</LtxtReturn>
+    <LtxtCredNote>Credit Note</LtxtCredNote>
+    <LtxtPurOrdr>Purchase Order</LtxtPurOrdr>
+    <LtxtGoodRecPO>Goods Receipt PO</LtxtGoodRecPO>
+    <LtxtPurReturn>Purchase Return</LtxtPurReturn>
+    <LtxtPurInv>Purchase Invoice</LtxtPurInv>
+    <LtxtCredMemPO>Credit Memo P.O.</LtxtCredMemPO>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtProvPay>Provider Payment</LtxtProvPay>
+    <LtxtValSelX>You must select a(n) {0}</LtxtValSelX>
+    <LtxtValLnk>Please enter the link</LtxtValLnk>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtExtLnk>External Link</LtxtExtLnk>
+    <LtxtDynObj>Dynamic Object</LtxtDynObj>
+    <LttlAcctBal>Account Statement</LttlAcctBal>
+    <LtxtAction>Action</LtxtAction>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtAddItmCart>Add Item to Cart</LtxtAddItmCart>
+    <LtxtAddItmWish>Add Item to Wish List</LtxtAddItmWish>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtSelSeries>Select a Series</LtxtSelSeries>
+    <LtxtValSelForm>You must select a form</LtxtValSelForm>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtField>Campo</DtxtField>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtForm>Formulário</DtxtForm>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <DtxtServiceCall>Chamada de serviço</DtxtServiceCall>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtOp>Operação</DtxtOp>
+    <LttlEditRepLnk>Edição de relatórios - Enlace</LttlEditRepLnk>
+    <LtxtNewWin>Nova janela</LtxtNewWin>
+    <LtxtRep>Relatório</LtxtRep>
+    <LtxtObject>Objeto</LtxtObject>
+    <LtxtNoVars>Não existem variáveis para este relatório</LtxtNoVars>
+    <LttlLinkBuilder>Construtor do enlace</LttlLinkBuilder>
+    <LtxtSelObj>Escolha um objeto</LtxtSelObj>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtStatAcct>Situação da Conta</LtxtStatAcct>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtReturn>Devolução</LtxtReturn>
+    <LtxtCredNote>Nota de Crédito</LtxtCredNote>
+    <LtxtPurOrdr>Pedido de Compra</LtxtPurOrdr>
+    <LtxtGoodRecPO>Consignação da mercadoria</LtxtGoodRecPO>
+    <LtxtPurReturn>Devolução em compra</LtxtPurReturn>
+    <LtxtPurInv>Comprovante da Compra</LtxtPurInv>
+    <LtxtCredMemPO>Débito na compra</LtxtCredMemPO>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtProvPay>Pagamento a fornecedor</LtxtProvPay>
+    <LtxtValSelX>Deve selecionar um {0}</LtxtValSelX>
+    <LtxtValLnk>Deve inserir o link</LtxtValLnk>
+    <LtxtSelFldVar>Deve selecionar o campo para a variável @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Deve inserir o valor para a variável @{0}</LtxtValVarVal>
+    <LtxtExtLnk>Link externo</LtxtExtLnk>
+    <LtxtDynObj>Objeto Dinâmico</LtxtDynObj>
+    <LttlAcctBal>Situação da Conta</LttlAcctBal>
+    <LtxtAction>Ação</LtxtAction>
+    <LtxtConvQuoteOrder>Converter Orçamento em Pedido de Venda</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Excluir Objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar Objeto</LtxtCancelObj>
+    <LtxtAddItmCart>Adicionar Item ao carrinho</LtxtAddItmCart>
+    <LtxtAddItmWish>Adicionar item à Lista de desejos</LtxtAddItmWish>
+    <LtxtRemObj>Excluir Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprovar Pedido de Venda</LtxtAprovOrder>
+    <LtxtSelSeries>Selecione uma série</LtxtSelSeries>
+    <LtxtValSelForm>Você deve selecionar um formulário</LtxtValSelForm>
+    <LtxtConvOrderInv>Converter Pedido de Venda em Nota Fiscal de Saída</LtxtConvOrderInv>
+    <LtxtDupDoc>Duplicar Documento</LtxtDupDoc>
+    <LtxtAprovPurOrdr>Aprovar Pedido de Compra</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>Converter Pedido de Venda em Entrega</LtxtConvOrderDel>
+    <LtxtFlowViewControl>Visão do fluxo de controle</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Formulaire</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtServiceCall>Appel client</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Appel d'offres</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Édition des reports - Lien</LttlEditRepLnk>
+    <LtxtNewWin>Nouvelle Fenêtre</LtxtNewWin>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtObject>Objet</LtxtObject>
+    <LtxtNoVars>N'existe pas des variables pour ce report</LtxtNoVars>
+    <LttlLinkBuilder>Constructeur du lien</LttlLinkBuilder>
+    <LtxtSelObj>Choisissez-vous un objet</LtxtSelObj>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtStatAcct>Relevé de Compte</LtxtStatAcct>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtReturn>Dévolution</LtxtReturn>
+    <LtxtCredNote>Note de crédit</LtxtCredNote>
+    <LtxtPurOrdr>Ordre d'achat</LtxtPurOrdr>
+    <LtxtGoodRecPO>Consignation de marchandise</LtxtGoodRecPO>
+    <LtxtPurReturn>Dévolution en achat</LtxtPurReturn>
+    <LtxtPurInv>Quittance d'achat</LtxtPurInv>
+    <LtxtCredMemPO>Débit en achat</LtxtCredMemPO>
+    <LtxtPur>Achat</LtxtPur>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtProvPay>Versement à fournisseur</LtxtProvPay>
+    <LtxtValSelX>Devez-vous sélectionner un {0}</LtxtValSelX>
+    <LtxtValLnk>Devez-vous insérer le lien</LtxtValLnk>
+    <LtxtSelFldVar>Devez-vous sélectionner le domaine pour la variable @ {0}</LtxtSelFldVar>
+    <LtxtValVarVal>Devez-vous insérer la valeur pour la variable @ {0}</LtxtValVarVal>
+    <LtxtExtLnk>Lien externe</LtxtExtLnk>
+    <LtxtDynObj>Objet dinamique</LtxtDynObj>
+    <LttlAcctBal>Relevé de Compte</LttlAcctBal>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtAddItmCart>&lt;--&gt;</LtxtAddItmCart>
+    <LtxtAddItmWish>&lt;--&gt;</LtxtAddItmWish>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtSelSeries>Sélectionnez-vous un livret</LtxtSelSeries>
+    <LtxtValSelForm>&lt;--&gt;</LtxtValSelForm>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtField>Feld</DtxtField>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtType>Art</DtxtType>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Formular</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <DtxtServiceCall>Serviceabruf</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Lieferantenanfrage</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Bericht bearbeiten - Verknüpfung</LttlEditRepLnk>
+    <LtxtNewWin>Neues Fenster</LtxtNewWin>
+    <LtxtRep>Bericht</LtxtRep>
+    <LtxtObject>Objekt</LtxtObject>
+    <LtxtNoVars>Dieser Bericht enthält keine Variablen</LtxtNoVars>
+    <LttlLinkBuilder>Verknüpfungs Aufbau</LttlLinkBuilder>
+    <LtxtSelObj>Wählen Sie ein Objekt</LtxtSelObj>
+    <LtxtGeneral>Allgemein</LtxtGeneral>
+    <LtxtStatAcct>Abrechnung</LtxtStatAcct>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtReturn>Rückgabe</LtxtReturn>
+    <LtxtCredNote>Gutschein</LtxtCredNote>
+    <LtxtPurOrdr>Ankauf Bestellung</LtxtPurOrdr>
+    <LtxtGoodRecPO>Wareneingang P.O.</LtxtGoodRecPO>
+    <LtxtPurReturn>Ankauf Rückgabe</LtxtPurReturn>
+    <LtxtPurInv>Ankauf Rechnung</LtxtPurInv>
+    <LtxtCredMemPO>Gutschrift P.O.</LtxtCredMemPO>
+    <LtxtPur>Ankauf</LtxtPur>
+    <LtxtBanks>Banken</LtxtBanks>
+    <LtxtProvPay>Provider Zahlung</LtxtProvPay>
+    <LtxtValSelX>Sie müssen ein {0} wählen</LtxtValSelX>
+    <LtxtValLnk>Bitte geben Sie die Verknüpfung an</LtxtValLnk>
+    <LtxtSelFldVar>Sie müssen ein Feld für die Variable @{0} wählen</LtxtSelFldVar>
+    <LtxtValVarVal>Bitte geben Sie den Wert der Variable @{0} an</LtxtValVarVal>
+    <LtxtExtLnk>Externe Verknüpfung</LtxtExtLnk>
+    <LtxtDynObj>Dynamisches Objekt</LtxtDynObj>
+    <LttlAcctBal>Kontoauszüge</LttlAcctBal>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtAddItmCart>&lt;--&gt;</LtxtAddItmCart>
+    <LtxtAddItmWish>&lt;--&gt;</LtxtAddItmWish>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtSelSeries>Serie auswählen</LtxtSelSeries>
+    <LtxtValSelForm>&lt;--&gt;</LtxtValSelForm>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtField>Поле</DtxtField>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtType>Вид</DtxtType>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtSAP>Сап</DtxtSAP>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtForm>Форма</DtxtForm>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <DtxtServiceCall>Сервисная заявка</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Предложение поставщика</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Изменить доклад - ссылку</LttlEditRepLnk>
+    <LtxtNewWin>Новое окно</LtxtNewWin>
+    <LtxtRep>Доклад</LtxtRep>
+    <LtxtObject>Объект</LtxtObject>
+    <LtxtNoVars>Никаких изменений в этом докладе!</LtxtNoVars>
+    <LttlLinkBuilder>Ссылка подрядчика</LttlLinkBuilder>
+    <LtxtSelObj>Выделение объекта</LtxtSelObj>
+    <LtxtGeneral>Общий</LtxtGeneral>
+    <LtxtStatAcct>Состоянии счета</LtxtStatAcct>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtReturn>Возврат</LtxtReturn>
+    <LtxtCredNote>Возвратная квитанция</LtxtCredNote>
+    <LtxtPurOrdr>Заказ</LtxtPurOrdr>
+    <LtxtGoodRecPO>Накладная поставки товара</LtxtGoodRecPO>
+    <LtxtPurReturn>Возврат покупки</LtxtPurReturn>
+    <LtxtPurInv>Покупная накладная</LtxtPurInv>
+    <LtxtCredMemPO>Возвратная квитанция на покупку</LtxtCredMemPO>
+    <LtxtPur>Покупка</LtxtPur>
+    <LtxtBanks>Банки</LtxtBanks>
+    <LtxtProvPay>Платеж поставщику</LtxtProvPay>
+    <LtxtValSelX>Вы должны выбрать (n) {0}</LtxtValSelX>
+    <LtxtValLnk>Пожалуйста, введите ссылку</LtxtValLnk>
+    <LtxtSelFldVar>Вы должны выбрать поле для переменной @{0} </LtxtSelFldVar>
+    <LtxtValVarVal>Пожалуйста, введите значения для переменной@{0} </LtxtValVarVal>
+    <LtxtExtLnk>Внешние ссылки</LtxtExtLnk>
+    <LtxtDynObj>Динамика объекта</LtxtDynObj>
+    <LttlAcctBal>Состоянии счета</LttlAcctBal>
+    <LtxtAction>Действие</LtxtAction>
+    <LtxtConvQuoteOrder>изменить предложение цены на заказ клиента</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Закрыть объект</LtxtCloseObj>
+    <LtxtCancelObj>Отменить обект</LtxtCancelObj>
+    <LtxtAddItmCart>Добавить деталь в корзину</LtxtAddItmCart>
+    <LtxtAddItmWish>Добавить деталь в список вопросов</LtxtAddItmWish>
+    <LtxtRemObj>Стереть объект</LtxtRemObj>
+    <LtxtAprovOrder>Разрешить заказ клиента</LtxtAprovOrder>
+    <LtxtSelSeries>Выберите серию</LtxtSelSeries>
+    <LtxtValSelForm>&lt;--&gt;</LtxtValSelForm>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtField>Pole</DtxtField>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtType>Typ</DtxtType>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Obrazovka</DtxtForm>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Poptávka</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Upravit report - Odkaz</LttlEditRepLnk>
+    <LtxtNewWin>Nové okno</LtxtNewWin>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtObject>Objekt</LtxtObject>
+    <LtxtNoVars>V tomto reportu nejsou žádné proměnné</LtxtNoVars>
+    <LttlLinkBuilder>Link Builder</LttlLinkBuilder>
+    <LtxtSelObj>Vybrat objekt</LtxtSelObj>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtStatAcct>Výpis</LtxtStatAcct>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtReturn>Vratka</LtxtReturn>
+    <LtxtCredNote>Dobropis</LtxtCredNote>
+    <LtxtPurOrdr>Nákupní objednávka</LtxtPurOrdr>
+    <LtxtGoodRecPO>Příjemka NO</LtxtGoodRecPO>
+    <LtxtPurReturn>Nákupní vratka</LtxtPurReturn>
+    <LtxtPurInv>Nákupní faktura</LtxtPurInv>
+    <LtxtCredMemPO>Směnka NO</LtxtCredMemPO>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtProvPay>Platba poskytovateli</LtxtProvPay>
+    <LtxtValSelX>Musíte vybrat {0}</LtxtValSelX>
+    <LtxtValLnk>Zadejte odkaz, prosím</LtxtValLnk>
+    <LtxtSelFldVar>Musíte zvolit pole pro proměnnou @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Zadejte prosím hodnotu proměnné @{0}</LtxtValVarVal>
+    <LtxtExtLnk>Externí odkaz</LtxtExtLnk>
+    <LtxtDynObj>Dynamický objekt</LtxtDynObj>
+    <LttlAcctBal>Výpis účtu</LttlAcctBal>
+    <LtxtAction>Akce</LtxtAction>
+    <LtxtConvQuoteOrder>Překlopit nabídku do příkazu k prodeji</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zavřít objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušit objekt</LtxtCancelObj>
+    <LtxtAddItmCart>Přidat položku do košíku</LtxtAddItmCart>
+    <LtxtAddItmWish>Přidat položku do seznamu přání</LtxtAddItmWish>
+    <LtxtRemObj>Vymazat objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schválit příkaz k prodeji</LtxtAprovOrder>
+    <LtxtSelSeries>Zvolit řadu</LtxtSelSeries>
+    <LtxtValSelForm>Musíte vybrat formulář </LtxtValSelForm>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtField>Pole</DtxtField>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtType>Typ</DtxtType>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Formularz</DtxtForm>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <DtxtServiceCall>Wezwanie obsługi</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Oferta zakupu</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Edytuj raport - link</LttlEditRepLnk>
+    <LtxtNewWin>Nowe okno</LtxtNewWin>
+    <LtxtRep>Raport</LtxtRep>
+    <LtxtObject>Przedmiot</LtxtObject>
+    <LtxtNoVars>W tym raporcie nie ma zmiennych</LtxtNoVars>
+    <LttlLinkBuilder>Konstruktor linków</LttlLinkBuilder>
+    <LtxtSelObj>Wybierz przedmiot</LtxtSelObj>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtStatAcct>Stan konta</LtxtStatAcct>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtReturn>Powrót</LtxtReturn>
+    <LtxtCredNote>Nota kredytowa</LtxtCredNote>
+    <LtxtPurOrdr>Zamówienie  zakupu</LtxtPurOrdr>
+    <LtxtGoodRecPO>Dokument Pz</LtxtGoodRecPO>
+    <LtxtPurReturn>Zwrot zakupu</LtxtPurReturn>
+    <LtxtPurInv>Faktura zakupu</LtxtPurInv>
+    <LtxtCredMemPO>Anulowanie faktury zakupu</LtxtCredMemPO>
+    <LtxtPur>Zakup</LtxtPur>
+    <LtxtBanks>Banki</LtxtBanks>
+    <LtxtProvPay>Płatność dostawcy</LtxtProvPay>
+    <LtxtValSelX>Musisz wybrać  {0}</LtxtValSelX>
+    <LtxtValLnk>Proszę wprowadź link</LtxtValLnk>
+    <LtxtSelFldVar>Musisz wybrać pole dla zmiennej @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Proszę wprowadź wartość zmiennej @{0}</LtxtValVarVal>
+    <LtxtExtLnk>Link zewnętrzny</LtxtExtLnk>
+    <LtxtDynObj>Przedmiot dynamiczny</LtxtDynObj>
+    <LttlAcctBal>Wyciąg z konta</LttlAcctBal>
+    <LtxtAction>Działanie</LtxtAction>
+    <LtxtConvQuoteOrder>Zamień wycenę na zlecenie sprzedaży</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zamknij przedmiot</LtxtCloseObj>
+    <LtxtCancelObj>Anuluj przedmiot</LtxtCancelObj>
+    <LtxtAddItmCart>Dodaj pozycję do koszyka</LtxtAddItmCart>
+    <LtxtAddItmWish>dodaj pozycję do listy życzeń</LtxtAddItmWish>
+    <LtxtRemObj>Skasuj przedmiot</LtxtRemObj>
+    <LtxtAprovOrder>Zaakceptuj zlecenie sprzedaży</LtxtAprovOrder>
+    <LtxtSelSeries>Wybierz serię</LtxtSelSeries>
+    <LtxtValSelForm>Musisz wybrać formularz</LtxtValSelForm>
+    <LtxtConvOrderInv>Zamień zamówienie sprzedaży na fakturę</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtSAP>SAP</DtxtSAP>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtForm>Formulár</DtxtForm>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtServiceCall>Servisný hovor</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>Požiadavka na ponuku</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>Editovať výkaz - Link</LttlEditRepLnk>
+    <LtxtNewWin>Nové okno</LtxtNewWin>
+    <LtxtRep>Výkaz</LtxtRep>
+    <LtxtObject>Objekt</LtxtObject>
+    <LtxtNoVars>V tomto výkaze nie sú žiadne premenné</LtxtNoVars>
+    <LttlLinkBuilder>Spájanie linkov</LttlLinkBuilder>
+    <LtxtSelObj>Vybrať objekt</LtxtSelObj>
+    <LtxtGeneral>Všeobecný</LtxtGeneral>
+    <LtxtStatAcct>Výpis</LtxtStatAcct>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtReturn>Vrátená dodávka</LtxtReturn>
+    <LtxtCredNote>Dobropis</LtxtCredNote>
+    <LtxtPurOrdr>Objednávka</LtxtPurOrdr>
+    <LtxtGoodRecPO>Príjemka</LtxtGoodRecPO>
+    <LtxtPurReturn>Vrátená príjemka</LtxtPurReturn>
+    <LtxtPurInv>Došlá faktúra</LtxtPurInv>
+    <LtxtCredMemPO>Dobropis z predaja</LtxtCredMemPO>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtProvPay>Platba dodávateľa</LtxtProvPay>
+    <LtxtValSelX>Musíte vybrať a(n) {0}</LtxtValSelX>
+    <LtxtValLnk>Prosím, zadajte link</LtxtValLnk>
+    <LtxtSelFldVar>Musíte vybrať políčko pre premennú @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Prosím, zadajte hodnotu premennej @{0}</LtxtValVarVal>
+    <LtxtExtLnk>Externý link</LtxtExtLnk>
+    <LtxtDynObj>Dynamický objekt</LtxtDynObj>
+    <LttlAcctBal>Výpis z účtu</LttlAcctBal>
+    <LtxtAction>Krok</LtxtAction>
+    <LtxtConvQuoteOrder>Zmeniť Ponuku na Zákazku odberateľa</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zatvoriť objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušiť objekt</LtxtCancelObj>
+    <LtxtAddItmCart>Pridať položku do košíka</LtxtAddItmCart>
+    <LtxtAddItmWish>Pridať položku do zoznamu prianí</LtxtAddItmWish>
+    <LtxtRemObj>Zmazať objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schváliť zákazku odberateľa</LtxtAprovOrder>
+    <LtxtSelSeries>Vybrať sériu</LtxtSelSeries>
+    <LtxtValSelForm>Musíte vybrať formulár</LtxtValSelForm>
+    <LtxtConvOrderInv>Zmeniť Zákazku odberateľa na Predajnú faktúru</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtSAP>&lt;--&gt;</DtxtSAP>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtForm>&lt;--&gt;</DtxtForm>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtServiceCall>&lt;--&gt;</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtPurQuote>&lt;--&gt;</DtxtPurQuote>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LttlEditRepLnk>&lt;--&gt;</LttlEditRepLnk>
+    <LtxtNewWin>&lt;--&gt;</LtxtNewWin>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtObject>&lt;--&gt;</LtxtObject>
+    <LtxtNoVars>&lt;--&gt;</LtxtNoVars>
+    <LttlLinkBuilder>&lt;--&gt;</LttlLinkBuilder>
+    <LtxtSelObj>&lt;--&gt;</LtxtSelObj>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStatAcct>&lt;--&gt;</LtxtStatAcct>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtReturn>&lt;--&gt;</LtxtReturn>
+    <LtxtCredNote>&lt;--&gt;</LtxtCredNote>
+    <LtxtPurOrdr>&lt;--&gt;</LtxtPurOrdr>
+    <LtxtGoodRecPO>&lt;--&gt;</LtxtGoodRecPO>
+    <LtxtPurReturn>&lt;--&gt;</LtxtPurReturn>
+    <LtxtPurInv>&lt;--&gt;</LtxtPurInv>
+    <LtxtCredMemPO>&lt;--&gt;</LtxtCredMemPO>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtProvPay>&lt;--&gt;</LtxtProvPay>
+    <LtxtValSelX>&lt;--&gt;</LtxtValSelX>
+    <LtxtValLnk>&lt;--&gt;</LtxtValLnk>
+    <LtxtSelFldVar>&lt;--&gt;</LtxtSelFldVar>
+    <LtxtValVarVal>&lt;--&gt;</LtxtValVarVal>
+    <LtxtExtLnk>&lt;--&gt;</LtxtExtLnk>
+    <LtxtDynObj>&lt;--&gt;</LtxtDynObj>
+    <LttlAcctBal>&lt;--&gt;</LttlAcctBal>
+    <LtxtAction>&lt;--&gt;</LtxtAction>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtAddItmCart>&lt;--&gt;</LtxtAddItmCart>
+    <LtxtAddItmWish>&lt;--&gt;</LtxtAddItmWish>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtSelSeries>&lt;--&gt;</LtxtSelSeries>
+    <LtxtValSelForm>&lt;--&gt;</LtxtValSelForm>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtDupDoc>&lt;--&gt;</LtxtDupDoc>
+    <LtxtAprovPurOrdr>&lt;--&gt;</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>&lt;--&gt;</LtxtConvOrderDel>
+    <LtxtFlowViewControl>&lt;--&gt;</LtxtFlowViewControl>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtSAP>DtxtSAP</DtxtSAP>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtForm>DtxtForm</DtxtForm>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <DtxtServiceCall>DtxtServiceCall</DtxtServiceCall>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtPurQuote>DtxtPurQuote</DtxtPurQuote>
+    <DtxtOp>DtxtOp</DtxtOp>
+    <LttlEditRepLnk>LttlEditRepLnk</LttlEditRepLnk>
+    <LtxtNewWin>LtxtNewWin</LtxtNewWin>
+    <LtxtRep>LtxtRep</LtxtRep>
+    <LtxtObject>LtxtObject</LtxtObject>
+    <LtxtNoVars>LtxtNoVars</LtxtNoVars>
+    <LttlLinkBuilder>LttlLinkBuilder</LttlLinkBuilder>
+    <LtxtSelObj>LtxtSelObj</LtxtSelObj>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtStatAcct>LtxtStatAcct</LtxtStatAcct>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtReturn>LtxtReturn</LtxtReturn>
+    <LtxtCredNote>LtxtCredNote</LtxtCredNote>
+    <LtxtPurOrdr>LtxtPurOrdr</LtxtPurOrdr>
+    <LtxtGoodRecPO>LtxtGoodRecPO</LtxtGoodRecPO>
+    <LtxtPurReturn>LtxtPurReturn</LtxtPurReturn>
+    <LtxtPurInv>LtxtPurInv</LtxtPurInv>
+    <LtxtCredMemPO>LtxtCredMemPO</LtxtCredMemPO>
+    <LtxtPur>LtxtPur</LtxtPur>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtProvPay>LtxtProvPay</LtxtProvPay>
+    <LtxtValSelX>LtxtValSelX</LtxtValSelX>
+    <LtxtValLnk>LtxtValLnk</LtxtValLnk>
+    <LtxtSelFldVar>LtxtSelFldVar</LtxtSelFldVar>
+    <LtxtValVarVal>LtxtValVarVal</LtxtValVarVal>
+    <LtxtExtLnk>LtxtExtLnk</LtxtExtLnk>
+    <LtxtDynObj>LtxtDynObj</LtxtDynObj>
+    <LttlAcctBal>LttlAcctBal</LttlAcctBal>
+    <LtxtAction>LtxtAction</LtxtAction>
+    <LtxtConvQuoteOrder>LtxtConvQuoteOrder</LtxtConvQuoteOrder>
+    <LtxtCloseObj>LtxtCloseObj</LtxtCloseObj>
+    <LtxtCancelObj>LtxtCancelObj</LtxtCancelObj>
+    <LtxtAddItmCart>LtxtAddItmCart</LtxtAddItmCart>
+    <LtxtAddItmWish>LtxtAddItmWish</LtxtAddItmWish>
+    <LtxtRemObj>LtxtRemObj</LtxtRemObj>
+    <LtxtAprovOrder>LtxtAprovOrder</LtxtAprovOrder>
+    <LtxtSelSeries>LtxtSelSeries</LtxtSelSeries>
+    <LtxtValSelForm>LtxtValSelForm</LtxtValSelForm>
+    <LtxtConvOrderInv>LtxtConvOrderInv</LtxtConvOrderInv>
+    <LtxtDupDoc>LtxtDupDoc</LtxtDupDoc>
+    <LtxtAprovPurOrdr>LtxtAprovPurOrdr</LtxtAprovPurOrdr>
+    <LtxtConvOrderDel>LtxtConvOrderDel</LtxtConvOrderDel>
+    <LtxtFlowViewControl>LtxtFlowViewControl</LtxtFlowViewControl>
+  </language>
+</languages>

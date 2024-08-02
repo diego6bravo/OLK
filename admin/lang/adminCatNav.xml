@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtNew>New</DtxtNew>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtList>List</DtxtList>
+    <LtxtConfDelNav>Are you sure you want to remove the navigator "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Navigators List</LttlNavLst>
+    <LttlNavDesc>Here the navigator list is displayed and navigators may be created, deleted, or edited.</LttlNavDesc>
+    <LtxtNav>Navigator</LtxtNav>
+    <LtxtAddEditDesc>Here Catalog Navigators may be added and edited allowing the creation of custom item catalog views.</LtxtAddEditDesc>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+    <LtxtMain>Main</LtxtMain>
+    <LtxtSubNav>Sub Navigator</LtxtSubNav>
+    <LtxtItemsView>Items View</LtxtItemsView>
+    <LtxtSubNavs>Sub Navigators</LtxtSubNavs>
+    <LtxtRemove>Remove</LtxtRemove>
+    <LtxtSelNavs>Selected Navigators</LtxtSelNavs>
+    <LtxtAvlNavs>Available Navigators</LtxtAvlNavs>
+    <LtxtImageType>Image Type</LtxtImageType>
+    <LtxtImgQry>Image Query</LtxtImgQry>
+    <LtxtValTitle>Enter the title</LtxtValTitle>
+    <LtxtValImgQry>Enter the image query</LtxtValImgQry>
+    <LtxtValImgQryVal>You must verify the image query</LtxtValImgQryVal>
+    <LtxtValItmQry>Enter the items view query</LtxtValItmQry>
+    <LtxtValItmQryVal>You must verify the items view query</LtxtValItmQryVal>
+    <LtxtRows>Row(s)</LtxtRows>
+    <LtxtCols>Column(s)</LtxtCols>
+    <LtxtValNavIndex>You must select the index #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>The value of index #{0} is equal to the index #{1}\nYou cannot have two indexes with the same value.</LtxtValEqIndex>
+    <LtxtRandom>Random</LtxtRandom>
+    <LttlClientMainNav>Clients Main Navigator</LttlClientMainNav>
+    <LttlClientMainNavDesc>Here the navigators that will appear on the client’s home page and their distribution may be defined.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Redirect Automatically</LtxtReditAuto>
+    <LtxtEdit>Edit</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Apply anonymous session catalog filter</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtImage>Imagen</DtxtImage>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtList>Lista</DtxtList>
+    <LtxtConfDelNav>¿Está seguro que desea eliminar el navegador "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Listado de navegadores</LttlNavLst>
+    <LttlNavDesc>En esta sección podrá ver la lista de los navegadores, crear o eliminar un navegador o editar un navegador existente.</LttlNavDesc>
+    <LtxtNav>Navegador</LtxtNav>
+    <LtxtAddEditDesc>En esta sección podrá agregar/editar navegadores de catalogo el cual le permitirán crear vistas personalizadas de su catalogo de artículos.</LtxtAddEditDesc>
+    <LtxtUpload>Subir</LtxtUpload>
+    <LtxtConfRemImg>¿Esta seguro que desea eliminar la imagen?</LtxtConfRemImg>
+    <LtxtMain>Principal</LtxtMain>
+    <LtxtSubNav>Sub Navegador</LtxtSubNav>
+    <LtxtItemsView>Vista de Artículos</LtxtItemsView>
+    <LtxtSubNavs>Sub Navegadores</LtxtSubNavs>
+    <LtxtRemove>Remover</LtxtRemove>
+    <LtxtSelNavs>Navegadores seleccionados</LtxtSelNavs>
+    <LtxtAvlNavs>Navegadores disponibles</LtxtAvlNavs>
+    <LtxtImageType>Tipo de Imagen</LtxtImageType>
+    <LtxtImgQry>Consulta de Imagen</LtxtImgQry>
+    <LtxtValTitle>Falta el título </LtxtValTitle>
+    <LtxtValImgQry>Falta consulta de imagen</LtxtValImgQry>
+    <LtxtValImgQryVal>Debe verificar la consulta de imagen</LtxtValImgQryVal>
+    <LtxtValItmQry>Falta consulta de vista artículos</LtxtValItmQry>
+    <LtxtValItmQryVal>Debe verificar la consulta de vista de artículos</LtxtValItmQryVal>
+    <LtxtRows>Fila(s)</LtxtRows>
+    <LtxtCols>Columna(s)</LtxtCols>
+    <LtxtValNavIndex>Debe seleccionar el índice #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>El valor del índice #{0} es igual al valor del índice #{1}\nNo puede tener dos índices con el mismo valor.</LtxtValEqIndex>
+    <LtxtRandom>Aleatorio</LtxtRandom>
+    <LttlClientMainNav>Navegador Principal Clientes</LttlClientMainNav>
+    <LttlClientMainNavDesc>En esta sección podrá definir los navegadores que aparecerán en la página de inicio del cliente y como será su distribución.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Re direccionar Automáticamente</LtxtReditAuto>
+    <LtxtEdit>Editar</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Aplicar filtro de catalogo de sesión anónima</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtImage>תמונה</DtxtImage>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtList>רשימה</DtxtList>
+    <LtxtConfDelNav>האם למחוק נווט "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>רשימת נווטים</LttlNavLst>
+    <LttlNavDesc>בחלק זה ניתן לראות/ליצור /לערוך /למחוק את רשימת הניווטים.</LttlNavDesc>
+    <LtxtNav>נווט</LtxtNav>
+    <LtxtAddEditDesc>בחלק זה תוכל להוסיף\לערוך נווטי קטלוג שיאפשרו לך לבנות קטלוגים מובניים אישית.</LtxtAddEditDesc>
+    <LtxtUpload>עלה</LtxtUpload>
+    <LtxtConfRemImg>האם למחוק תמונה ?</LtxtConfRemImg>
+    <LtxtMain>ראשי</LtxtMain>
+    <LtxtSubNav>תת נווט</LtxtSubNav>
+    <LtxtItemsView>רשימת פריטים</LtxtItemsView>
+    <LtxtSubNavs>תת נווטים</LtxtSubNavs>
+    <LtxtRemove>הסר</LtxtRemove>
+    <LtxtSelNavs>בחר נווטים</LtxtSelNavs>
+    <LtxtAvlNavs>נווטים זמינים</LtxtAvlNavs>
+    <LtxtImageType>סוג תמונה</LtxtImageType>
+    <LtxtImgQry>שאילתא לחיפוש תמונה</LtxtImgQry>
+    <LtxtValTitle>הכנס כותרת</LtxtValTitle>
+    <LtxtValImgQry>הכנס שאילתא לחיפוש תמונות</LtxtValImgQry>
+    <LtxtValImgQryVal>יש לאשר את שאילתת התמונות</LtxtValImgQryVal>
+    <LtxtValItmQry>הכנס שאילתא לחיפוש פריטים</LtxtValItmQry>
+    <LtxtValItmQryVal>יש לאשר את שאילתת הפריטים</LtxtValItmQryVal>
+    <LtxtRows>שורה(ות)</LtxtRows>
+    <LtxtCols>טור(ים)</LtxtCols>
+    <LtxtValNavIndex>צריך לבחור אינדקס {0}#</LtxtValNavIndex>
+    <LtxtValEqIndex>ערך אינדקס {0}# שווה לערך אינדקס {1}#,\nלא ניתן לעבוד עם שניי אינדקסים אשר יש להם  אותו ערך.</LtxtValEqIndex>
+    <LtxtRandom>אקראי</LtxtRandom>
+    <LttlClientMainNav>נווטים ראשים ללקוחות</LttlClientMainNav>
+    <LttlClientMainNavDesc>בחלק זה תוכל להגדיר אילו נווטים יופיעו ואיך תיהיה הפריסה שלהם באתר הלקוחות.</LttlClientMainNavDesc>
+    <LtxtReditAuto>לכוון אוטומטית</LtxtReditAuto>
+    <LtxtEdit>עריכת</LtxtEdit>
+    <LtxtApplyAnonCatFilte>הפעל פילטר קטלוג של כניסה אנונימית</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtNew>New</DtxtNew>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtList>List</DtxtList>
+    <LtxtConfDelNav>Are you sure you want to remove the navigator "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Navigators List</LttlNavLst>
+    <LttlNavDesc>Here the navigator list is displayed and navigators may be created, deleted, or edited.</LttlNavDesc>
+    <LtxtNav>Navigator</LtxtNav>
+    <LtxtAddEditDesc>Here Catalog Navigators may be added and edited allowing the creation of custom item catalog views.</LtxtAddEditDesc>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+    <LtxtMain>Main</LtxtMain>
+    <LtxtSubNav>Sub Navigator</LtxtSubNav>
+    <LtxtItemsView>Items View</LtxtItemsView>
+    <LtxtSubNavs>Sub Navigators</LtxtSubNavs>
+    <LtxtRemove>Remove</LtxtRemove>
+    <LtxtSelNavs>Selected Navigators</LtxtSelNavs>
+    <LtxtAvlNavs>Available Navigators</LtxtAvlNavs>
+    <LtxtImageType>Image Type</LtxtImageType>
+    <LtxtImgQry>Image Query</LtxtImgQry>
+    <LtxtValTitle>Enter the title</LtxtValTitle>
+    <LtxtValImgQry>Enter the image query</LtxtValImgQry>
+    <LtxtValImgQryVal>You must verify the image query</LtxtValImgQryVal>
+    <LtxtValItmQry>Enter the items view query</LtxtValItmQry>
+    <LtxtValItmQryVal>You must verify the items view query</LtxtValItmQryVal>
+    <LtxtRows>Row(s)</LtxtRows>
+    <LtxtCols>Column(s)</LtxtCols>
+    <LtxtValNavIndex>You must select the index #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>The value of index #{0} is equal to the index #{1}\nYou cannot have two indexes with the same value.</LtxtValEqIndex>
+    <LtxtRandom>Random</LtxtRandom>
+    <LttlClientMainNav>Clients Main Navigator</LttlClientMainNav>
+    <LttlClientMainNavDesc>Here the navigators that will appear on the client’s home page and their distribution may be defined.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Redirect Automatically</LtxtReditAuto>
+    <LtxtEdit>Edit</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Apply anonymous session catalog filter</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtImage>Imagem</DtxtImage>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtList>Lista</DtxtList>
+    <LtxtConfDelNav>Você tem certeza que deseja excluir o navegador "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Lista de navegadores</LttlNavLst>
+    <LttlNavDesc>Nesta seção, poderá ver a lista dos navegadores, criar ou excluir um navegador ou editar um navegador existente.</LttlNavDesc>
+    <LtxtNav>Navegador</LtxtNav>
+    <LtxtAddEditDesc>Nesta seção, poderá adicionar/editar navegadores de catálogo o qual lhe permitirão gerar visualizações personalizadas do seu catálogo de itens.</LtxtAddEditDesc>
+    <LtxtUpload>Upload</LtxtUpload>
+    <LtxtConfRemImg>Você tem certeza que deseja excluir a imagem?</LtxtConfRemImg>
+    <LtxtMain>Principal</LtxtMain>
+    <LtxtSubNav>Sub Navegador</LtxtSubNav>
+    <LtxtItemsView>Visualizar Itens</LtxtItemsView>
+    <LtxtSubNavs>Sub Navegadores</LtxtSubNavs>
+    <LtxtRemove>Remover</LtxtRemove>
+    <LtxtSelNavs>Navegadores selecionados</LtxtSelNavs>
+    <LtxtAvlNavs>Navegadores disponíveis</LtxtAvlNavs>
+    <LtxtImageType>Tipo de Imagem</LtxtImageType>
+    <LtxtImgQry>Consulta de Imagem</LtxtImgQry>
+    <LtxtValTitle>Falta o título</LtxtValTitle>
+    <LtxtValImgQry>Falta consulta de imagem</LtxtValImgQry>
+    <LtxtValImgQryVal>Deve verificar a consulta de imagem</LtxtValImgQryVal>
+    <LtxtValItmQry>Insira os itens na consulta de visualização</LtxtValItmQry>
+    <LtxtValItmQryVal>Deve verificar a consulta de visualização do itens</LtxtValItmQryVal>
+    <LtxtRows>Fila(s)</LtxtRows>
+    <LtxtCols>Coluna(s)</LtxtCols>
+    <LtxtValNavIndex>Deve selecionar o índice #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>O valor do índice #{0} é igual ao valor do índice #{1} Não pode ter dois índices com o mesmo valor.</LtxtValEqIndex>
+    <LtxtRandom>Aleatório</LtxtRandom>
+    <LttlClientMainNav>Navegador Principal Clientes</LttlClientMainNav>
+    <LttlClientMainNavDesc>Nesta seção, poderá definir os navegadores que aparecerão na página de inicio do cliente e como será sua distribuição.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Dirigir de novo automaticamente</LtxtReditAuto>
+    <LtxtEdit>Editar</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Aplicar filtro de catálogo de sessão anônima</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtImage>Image</DtxtImage>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <LtxtConfDelNav>Êtes-vous sûre d\'éliminer le navigateur "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Liste des navigateurs</LttlNavLst>
+    <LttlNavDesc>Dans cette section vous pourrez voir la liste des navigateurs, créer ou éliminer un navigateur ou éditer un navigateur existant. </LttlNavDesc>
+    <LtxtNav>Navigateur</LtxtNav>
+    <LtxtAddEditDesc>Dans cette section vous pourrez ajouter/éditer des navigateurs de catalogue lesquels vous permettez créer vues personnalisés de votre catalogue des articles</LtxtAddEditDesc>
+    <LtxtUpload>Monter</LtxtUpload>
+    <LtxtConfRemImg>Êtes-vous sûre d\'éliminer l\'image?</LtxtConfRemImg>
+    <LtxtMain>Principa</LtxtMain>
+    <LtxtSubNav>Sud Navigateur</LtxtSubNav>
+    <LtxtItemsView>Vue des articles</LtxtItemsView>
+    <LtxtSubNavs>Sub Navigateurs</LtxtSubNavs>
+    <LtxtRemove>Déplacer</LtxtRemove>
+    <LtxtSelNavs>Navigateurs sélectionnés</LtxtSelNavs>
+    <LtxtAvlNavs>Navigateur disponible</LtxtAvlNavs>
+    <LtxtImageType>Genre d'image</LtxtImageType>
+    <LtxtImgQry>Consultation d'image</LtxtImgQry>
+    <LtxtValTitle>Il manque le titre</LtxtValTitle>
+    <LtxtValImgQry>Il manque la consultation d\'image</LtxtValImgQry>
+    <LtxtValImgQryVal>Devez-vous vérifier la consultation d\'image</LtxtValImgQryVal>
+    <LtxtValItmQry>Il manque la consultation de vue des articles</LtxtValItmQry>
+    <LtxtValItmQryVal>Devez-vous vérifier la consultation de vue des articles</LtxtValItmQryVal>
+    <LtxtRows>File (s)</LtxtRows>
+    <LtxtCols>Colonne (s)</LtxtCols>
+    <LtxtValNavIndex>Devez-vous sélectionner l\'index #{0}?</LtxtValNavIndex>
+    <LtxtValEqIndex>La valeur d\'index #{0} est égal à la valeur d\'index #{1}\nOn ne peut pas avoir deux index avec la même valeur.</LtxtValEqIndex>
+    <LtxtRandom>Aléatoire</LtxtRandom>
+    <LttlClientMainNav>Navigateur principal des clients</LttlClientMainNav>
+    <LttlClientMainNavDesc>Dans cette section vous pourrez déterminer les navigateurs qui seront dans la page d'accueille du client et comment il sera la distribution.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Réorienter automatiquement</LtxtReditAuto>
+    <LtxtEdit>Éditer</LtxtEdit>
+    <LtxtApplyAnonCatFilte>&lt;--&gt;</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtImage>Bild</DtxtImage>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtList>Aufstellung</DtxtList>
+    <LtxtConfDelNav>Möchten Sie den Navigator "{0}" wirklich entfernen?</LtxtConfDelNav>
+    <LttlNavLst>Navigatoren Liste</LttlNavLst>
+    <LttlNavDesc>In diesem Bereich kann man alle Navigatoren ansehen und sie ertsellen, bearbeiten oder löschen.</LttlNavDesc>
+    <LtxtNav>Navigator</LtxtNav>
+    <LtxtAddEditDesc>In diesem Bereich kann man Katalognavigatoren hinzufügen/bearbeiten. Dies erlaubt es eine individualisierte Ansicht Ihres Artikelkatalogs zu erstellen.</LtxtAddEditDesc>
+    <LtxtUpload>Hochladen</LtxtUpload>
+    <LtxtConfRemImg>Möchten Sie das Bild wirklich entfernen?</LtxtConfRemImg>
+    <LtxtMain>Hauptseite</LtxtMain>
+    <LtxtSubNav>Unternavigator</LtxtSubNav>
+    <LtxtItemsView>Artikelansicht</LtxtItemsView>
+    <LtxtSubNavs>Unternavigatoren</LtxtSubNavs>
+    <LtxtRemove>Entfernen</LtxtRemove>
+    <LtxtSelNavs>Ausgewählte Navigatoren</LtxtSelNavs>
+    <LtxtAvlNavs>Verfügbare Navigatoren</LtxtAvlNavs>
+    <LtxtImageType>Bildtyp</LtxtImageType>
+    <LtxtImgQry>Bildanfrage</LtxtImgQry>
+    <LtxtValTitle>Geben Sie den Titel ein</LtxtValTitle>
+    <LtxtValImgQry>Geben Sie die Bildanfrage an</LtxtValImgQry>
+    <LtxtValImgQryVal>Sie müssen die Bildanfrage bestätigen</LtxtValImgQryVal>
+    <LtxtValItmQry>Geben Sie die Artikelsicht Anfrage an</LtxtValItmQry>
+    <LtxtValItmQryVal>Sie müssen die Bildansichts Anfrage bestätigen</LtxtValItmQryVal>
+    <LtxtRows>Reihe(n)</LtxtRows>
+    <LtxtCols>Spalte(n)</LtxtCols>
+    <LtxtValNavIndex>Sie müssen das Verzeichniss #{0} wählen</LtxtValNavIndex>
+    <LtxtValEqIndex>Der Wert von Verzeichniss #{0} ist gleich mit Verzeichniss #{1}. Zwei Verzeichnisse können nicht den gleichen Wert haben.</LtxtValEqIndex>
+    <LtxtRandom>Direkt</LtxtRandom>
+    <LttlClientMainNav>Kunden Hauptnavigator</LttlClientMainNav>
+    <LttlClientMainNavDesc>In diesem Bereich kann man die Navigatoren, der Kundenstartseite festlegen und einstellen.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Automatisch umleiten</LtxtReditAuto>
+    <LtxtEdit>Bearbeiten</LtxtEdit>
+    <LtxtApplyAnonCatFilte>&lt;--&gt;</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtImage>Фотография</DtxtImage>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtList>Список</DtxtList>
+    <LtxtConfDelNav>Вы уверены, что хотите удалить навигатор "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Список новигаторов </LttlNavLst>
+    <LttlNavDesc>В этом разделе можно просмотреть список навигаторов, создавать или удалять навигатор или изменить существующий навигатор.</LttlNavDesc>
+    <LtxtNav>Новигатор</LtxtNav>
+    <LtxtAddEditDesc>В этом разделе можно добавлять / редактировать каталог навигации, что позволит вам создавать собственное видение предметов каталога.</LtxtAddEditDesc>
+    <LtxtUpload>Закачать</LtxtUpload>
+    <LtxtConfRemImg>Вы уверены, что хотите удалить изображение?</LtxtConfRemImg>
+    <LtxtMain>Главный</LtxtMain>
+    <LtxtSubNav>Под навигатор</LtxtSubNav>
+    <LtxtItemsView>Открытые пункты</LtxtItemsView>
+    <LtxtSubNavs>Под Навигаторы</LtxtSubNavs>
+    <LtxtRemove>Удалить</LtxtRemove>
+    <LtxtSelNavs>Выбранные навигаторы</LtxtSelNavs>
+    <LtxtAvlNavs>Доступно навигаторов</LtxtAvlNavs>
+    <LtxtImageType>Имидж печатати</LtxtImageType>
+    <LtxtImgQry>Имидж запросов</LtxtImgQry>
+    <LtxtValTitle>Введите название</LtxtValTitle>
+    <LtxtValImgQry>Введите запрос изображения</LtxtValImgQry>
+    <LtxtValImgQryVal>Вы должны проверить изображение запроса</LtxtValImgQryVal>
+    <LtxtValItmQry>Введите запрос пунктов открыть</LtxtValItmQry>
+    <LtxtValItmQryVal>Вы должны проверить пункты открытия запроса</LtxtValItmQryVal>
+    <LtxtRows>Строка (и)</LtxtRows>
+    <LtxtCols>Колонка (и)</LtxtCols>
+    <LtxtValNavIndex>Вы должны выбрать индекс #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>Значение индекса #{0} является равным индексу #{1}\nВы не можете иметь два индекса с тем же значением</LtxtValEqIndex>
+    <LtxtRandom>Случайные</LtxtRandom>
+    <LttlClientMainNav>Главные клиенты навигатора</LttlClientMainNav>
+    <LttlClientMainNavDesc>В этом разделе можно определить навигаторы, которые появятся на главной странице клиента и каким будет ее распределение.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Автоматическая переадресация</LtxtReditAuto>
+    <LtxtEdit>Изменить</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Применить фильтр анонимно в каталоге сессии</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtImage>Obrázek</DtxtImage>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtList>Seznam</DtxtList>
+    <LtxtConfDelNav>Jste si jistý/á, že chcete odebrat navigátor "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Seznam navigátorů</LttlNavLst>
+    <LttlNavDesc>V této sekci je možné zobrazit seznam navigátorů, vytvářet nebo mazat navigátory, nebo upravit existující navigátor.</LttlNavDesc>
+    <LtxtNav>Navigátor</LtxtNav>
+    <LtxtAddEditDesc>V této sekci je možné přidat/upravit navigátory katalogu,  které vám umožní vytvářet přizpůsobená zobrazení položek v katalogu.</LtxtAddEditDesc>
+    <LtxtUpload>Nahrát</LtxtUpload>
+    <LtxtConfRemImg>Jste si jistý/á, že chcete odebrat obrázek?</LtxtConfRemImg>
+    <LtxtMain>Hlavní</LtxtMain>
+    <LtxtSubNav>Pod-navigátor</LtxtSubNav>
+    <LtxtItemsView>Zobrazení položek</LtxtItemsView>
+    <LtxtSubNavs>Pod-navigátory</LtxtSubNavs>
+    <LtxtRemove>Odebrat</LtxtRemove>
+    <LtxtSelNavs>Vybrané navigátory</LtxtSelNavs>
+    <LtxtAvlNavs>Možné navigátory</LtxtAvlNavs>
+    <LtxtImageType>Typ obrázku</LtxtImageType>
+    <LtxtImgQry>Dotaz na obrázky</LtxtImgQry>
+    <LtxtValTitle>Vložte název</LtxtValTitle>
+    <LtxtValImgQry>Zadejte dotaz na obrázky</LtxtValImgQry>
+    <LtxtValImgQryVal>Musíte ověřit dotaz na obrázky</LtxtValImgQryVal>
+    <LtxtValItmQry>Zadejte dotaz zobrazení položek</LtxtValItmQry>
+    <LtxtValItmQryVal>Musíte ověřit dotaz zobrazení položek</LtxtValItmQryVal>
+    <LtxtRows>Řádka(y)</LtxtRows>
+    <LtxtCols>Sloupec/Sloupce</LtxtCols>
+    <LtxtValNavIndex>Musíte vybrat index #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>Hodnota indexu #{0} je shodná indexem #{1}\nNení možné mít dva indexy se stejnou hodnotou.</LtxtValEqIndex>
+    <LtxtRandom>Náhodný</LtxtRandom>
+    <LttlClientMainNav>Hlavní navigátor klienta</LttlClientMainNav>
+    <LttlClientMainNavDesc>V této sekci je možné definovat navigátory, které se zobrazí na domovské stránce klienta, a dále jejich rozložení.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Přesměrovat automaticky</LtxtReditAuto>
+    <LtxtEdit>Upravit</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Použít filtr katalogu anonymní relace</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtImage>Zdjęcie</DtxtImage>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtList>Lista</DtxtList>
+    <LtxtConfDelNav>Czy jesteś pewien, że chcesz usunąć nawigator"{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Lista nawigatorów</LttlNavLst>
+    <LttlNavDesc>Tutaj wyświetlana jest lista nawigatora, a także nawigatory mogą być tworzone, usuwane i edytowane. </LttlNavDesc>
+    <LtxtNav>Nawigator</LtxtNav>
+    <LtxtAddEditDesc>Tutaj można dodawać i edytować katalog nawigatorów pozwalając na tworzenie podglądów zindywidualizowanego katalogu pozycji.</LtxtAddEditDesc>
+    <LtxtUpload>Pobierz</LtxtUpload>
+    <LtxtConfRemImg>Czy jesteś pewien, że chcesz usunąć zdjęcie?</LtxtConfRemImg>
+    <LtxtMain>Główny</LtxtMain>
+    <LtxtSubNav>Sub nawigator</LtxtSubNav>
+    <LtxtItemsView>Widok pozycji</LtxtItemsView>
+    <LtxtSubNavs>Sub nawigator</LtxtSubNavs>
+    <LtxtRemove>Usuń</LtxtRemove>
+    <LtxtSelNavs>Wybierz nawigatory</LtxtSelNavs>
+    <LtxtAvlNavs>Dostępnie nawigatory</LtxtAvlNavs>
+    <LtxtImageType>Rodzaj zdjęcia</LtxtImageType>
+    <LtxtImgQry>Zapytanie do poszukiwania zdjęcia</LtxtImgQry>
+    <LtxtValTitle>Wprowadź tytuł</LtxtValTitle>
+    <LtxtValImgQry>Wprowadź zapytanie dotyczące poszukiwania zdjęcia</LtxtValImgQry>
+    <LtxtValImgQryVal>Musisz zweryfikować zapytanie dotyczące poszukiwania zdjęcia</LtxtValImgQryVal>
+    <LtxtValItmQry>Wprowadź zapytanie dotyczące widoku pozycji</LtxtValItmQry>
+    <LtxtValItmQryVal>Musisz zweryfikować </LtxtValItmQryVal>
+    <LtxtRows>Wiersz €</LtxtRows>
+    <LtxtCols>Kolumna (y)</LtxtCols>
+    <LtxtValNavIndex>Musisz wybrać indeks #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>Wartość indeksu #{0} jest równa indeksowe #{1}. Nie może być dwóch indeksów z tą samą wartością </LtxtValEqIndex>
+    <LtxtRandom>Przypadkowy</LtxtRandom>
+    <LttlClientMainNav>Główny nawigator klientów</LttlClientMainNav>
+    <LttlClientMainNavDesc>Tutaj można zdefiniować nawigatory, które pojawią się na stronie domowej klienta oraz ich dystrybucję. </LttlClientMainNavDesc>
+    <LtxtReditAuto>Automatyczne skierowanie</LtxtReditAuto>
+    <LtxtEdit>Edytuj</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Zastosuj filtr katalogu anonimowej sesji</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtImage>Obrázok</DtxtImage>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtList>Zoznam</DtxtList>
+    <LtxtConfDelNav>Ste si istí, že chcete odstrániť navigátor "{0}"?</LtxtConfDelNav>
+    <LttlNavLst>Zoznam navigátorov</LttlNavLst>
+    <LttlNavDesc>Tu sa zobrazuje zoznam navigátorov a dajú sa vytvoriť, zmazať alebo editovať navigátory.</LttlNavDesc>
+    <LtxtNav>Navigátor</LtxtNav>
+    <LtxtAddEditDesc>Tu sa dajú pridávať a editovať katalógové navigátory umožňujúc vytvorenie katalógových zobrazení vlastnej položky.</LtxtAddEditDesc>
+    <LtxtUpload>Nahrať</LtxtUpload>
+    <LtxtConfRemImg>Ste si istí, že chcete odstrániť tento obrázok?</LtxtConfRemImg>
+    <LtxtMain>Hlavný</LtxtMain>
+    <LtxtSubNav>Pod-navigátor</LtxtSubNav>
+    <LtxtItemsView>Zobrazenie položiek</LtxtItemsView>
+    <LtxtSubNavs>Pod-navigátory</LtxtSubNavs>
+    <LtxtRemove>Odstrániť</LtxtRemove>
+    <LtxtSelNavs>Zvolené navigátory</LtxtSelNavs>
+    <LtxtAvlNavs>Dostupné navigátory</LtxtAvlNavs>
+    <LtxtImageType>Typ obrázku</LtxtImageType>
+    <LtxtImgQry>Dotaz obrázku</LtxtImgQry>
+    <LtxtValTitle>Zadajte názov</LtxtValTitle>
+    <LtxtValImgQry>Zadajte dotaz k obrázku</LtxtValImgQry>
+    <LtxtValImgQryVal>Musíte overiť dotaz obrázku</LtxtValImgQryVal>
+    <LtxtValItmQry>Zadajte dotaz na zobrazenie položiek</LtxtValItmQry>
+    <LtxtValItmQryVal>Musíte overiť dotaz zobrazenia položiek</LtxtValItmQryVal>
+    <LtxtRows>Riadok(Riadky)</LtxtRows>
+    <LtxtCols>Stĺpec(Stĺpce)</LtxtCols>
+    <LtxtValNavIndex>Musíte vybrať index #{0}</LtxtValNavIndex>
+    <LtxtValEqIndex>Hodnota indexu #{0}</LtxtValEqIndex>
+    <LtxtRandom>Náhodný</LtxtRandom>
+    <LttlClientMainNav>Hlavný navigátor klientov</LttlClientMainNav>
+    <LttlClientMainNavDesc>Tu sa dajú definovať navigátory, ktoré budú zobrazené na úvodnej stránke klienta a ich distribúcia.</LttlClientMainNavDesc>
+    <LtxtReditAuto>Automaticky presmerovať</LtxtReditAuto>
+    <LtxtEdit>Editovať</LtxtEdit>
+    <LtxtApplyAnonCatFilte>Aplikuj filter katalógu s anonymnou session</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtStore>&lt;--&gt;</DtxtStore>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtTitle>&lt;--&gt;</DtxtTitle>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtImage>&lt;--&gt;</DtxtImage>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <LtxtConfDelNav>&lt;--&gt;</LtxtConfDelNav>
+    <LttlNavLst>&lt;--&gt;</LttlNavLst>
+    <LttlNavDesc>&lt;--&gt;</LttlNavDesc>
+    <LtxtNav>&lt;--&gt;</LtxtNav>
+    <LtxtAddEditDesc>&lt;--&gt;</LtxtAddEditDesc>
+    <LtxtUpload>&lt;--&gt;</LtxtUpload>
+    <LtxtConfRemImg>&lt;--&gt;</LtxtConfRemImg>
+    <LtxtMain>&lt;--&gt;</LtxtMain>
+    <LtxtSubNav>&lt;--&gt;</LtxtSubNav>
+    <LtxtItemsView>&lt;--&gt;</LtxtItemsView>
+    <LtxtSubNavs>&lt;--&gt;</LtxtSubNavs>
+    <LtxtRemove>&lt;--&gt;</LtxtRemove>
+    <LtxtSelNavs>&lt;--&gt;</LtxtSelNavs>
+    <LtxtAvlNavs>&lt;--&gt;</LtxtAvlNavs>
+    <LtxtImageType>&lt;--&gt;</LtxtImageType>
+    <LtxtImgQry>&lt;--&gt;</LtxtImgQry>
+    <LtxtValTitle>&lt;--&gt;</LtxtValTitle>
+    <LtxtValImgQry>&lt;--&gt;</LtxtValImgQry>
+    <LtxtValImgQryVal>&lt;--&gt;</LtxtValImgQryVal>
+    <LtxtValItmQry>&lt;--&gt;</LtxtValItmQry>
+    <LtxtValItmQryVal>&lt;--&gt;</LtxtValItmQryVal>
+    <LtxtRows>&lt;--&gt;</LtxtRows>
+    <LtxtCols>&lt;--&gt;</LtxtCols>
+    <LtxtValNavIndex>&lt;--&gt;</LtxtValNavIndex>
+    <LtxtValEqIndex>&lt;--&gt;</LtxtValEqIndex>
+    <LtxtRandom>&lt;--&gt;</LtxtRandom>
+    <LttlClientMainNav>&lt;--&gt;</LttlClientMainNav>
+    <LttlClientMainNavDesc>&lt;--&gt;</LttlClientMainNavDesc>
+    <LtxtReditAuto>&lt;--&gt;</LtxtReditAuto>
+    <LtxtEdit>&lt;--&gt;</LtxtEdit>
+    <LtxtApplyAnonCatFilte>&lt;--&gt;</LtxtApplyAnonCatFilte>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtImage>DtxtImage</DtxtImage>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtList>DtxtList</DtxtList>
+    <LtxtConfDelNav>LtxtConfDelNav</LtxtConfDelNav>
+    <LttlNavLst>LttlNavLst</LttlNavLst>
+    <LttlNavDesc>LttlNavDesc</LttlNavDesc>
+    <LtxtNav>LtxtNav</LtxtNav>
+    <LtxtAddEditDesc>LtxtAddEditDesc</LtxtAddEditDesc>
+    <LtxtUpload>LtxtUpload</LtxtUpload>
+    <LtxtConfRemImg>LtxtConfRemImg</LtxtConfRemImg>
+    <LtxtMain>LtxtMain</LtxtMain>
+    <LtxtSubNav>LtxtSubNav</LtxtSubNav>
+    <LtxtItemsView>LtxtItemsView</LtxtItemsView>
+    <LtxtSubNavs>LtxtSubNavs</LtxtSubNavs>
+    <LtxtRemove>LtxtRemove</LtxtRemove>
+    <LtxtSelNavs>LtxtSelNavs</LtxtSelNavs>
+    <LtxtAvlNavs>LtxtAvlNavs</LtxtAvlNavs>
+    <LtxtImageType>LtxtImageType</LtxtImageType>
+    <LtxtImgQry>LtxtImgQry</LtxtImgQry>
+    <LtxtValTitle>LtxtValTitle</LtxtValTitle>
+    <LtxtValImgQry>LtxtValImgQry</LtxtValImgQry>
+    <LtxtValImgQryVal>LtxtValImgQryVal</LtxtValImgQryVal>
+    <LtxtValItmQry>LtxtValItmQry</LtxtValItmQry>
+    <LtxtValItmQryVal>LtxtValItmQryVal</LtxtValItmQryVal>
+    <LtxtRows>LtxtRows</LtxtRows>
+    <LtxtCols>LtxtCols</LtxtCols>
+    <LtxtValNavIndex>LtxtValNavIndex</LtxtValNavIndex>
+    <LtxtValEqIndex>LtxtValEqIndex</LtxtValEqIndex>
+    <LtxtRandom>LtxtRandom</LtxtRandom>
+    <LttlClientMainNav>LttlClientMainNav</LttlClientMainNav>
+    <LttlClientMainNavDesc>LttlClientMainNavDesc</LttlClientMainNavDesc>
+    <LtxtReditAuto>LtxtReditAuto</LtxtReditAuto>
+    <LtxtEdit>LtxtEdit</LtxtEdit>
+    <LtxtApplyAnonCatFilte>LtxtApplyAnonCatFilte</LtxtApplyAnonCatFilte>
+  </language>
+</languages>

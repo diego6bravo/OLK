@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Price List Definition (Clients)</LttlPListCDef>
+    <LttlPListCDefNote>To define the Price List that the client will use, go to "SAP Business One", then go to "Business Partners Module", continue to "Business Partner Master Data" and in "Payment Terms" choose the Price List you wish to assign that client.
+Tip: You can select an alternative price list for the client in the client’s access administration.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Definición del Listado de Precios (Clientes) </LttlPListCDef>
+    <LttlPListCDefNote>Para definir la lista de precios que utilizará el cliente, entre a "SAP Business One", vaya al "Módulo de Socios de negocios", siga a "Datos maestros socio de negocios" y en "Condiciones de pago" escoja la lista de precios que le quiere asignar a ese cliente.
+Sugerencia: Puede seleccionar una lista de precio alternativa en el acceso de cliente en la administración.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlPListCDef>הגדרת מחירון ללקוחות</LttlPListCDef>
+    <LttlPListCDefNote>ע"מ לקבוע מחיר ללקוח יש לקבוע את מחירון הלקוח בסאפ.
+מצא את הלקוח בניהול כרטיסים -&gt; הסדרי תשלום וקבע את מחירון הלקוח.
+טיפ: ניתן לקבוע מחירון אחר ללקוח כאשר הוא מחובר לאתר בהרשאת לקוחות של אולק</LttlPListCDefNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Price List Definition (Clients)</LttlPListCDef>
+    <LttlPListCDefNote>To define the Price List that the client will use, go to "SAP Business One", then go to "Business Partners Module", continue to "Business Partner Master Data" and in "Payment Terms" choose the Price List you wish to assign that client.
+Tip: You can select an alternative price list for the client in the client’s access administration.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Definição da Lista de Preços (Clientes)</LttlPListCDef>
+    <LttlPListCDefNote>Para definir a lista de preços que usará o cliente, entre a "SAP Business One", entre no "Módulo de Parceiros de Negócios", siga a "Dados mestres parceiro de negócios" e em "Condições de pagamento" escolha a lista de preços que deseja atribuir a esse cliente.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Définition de liste des prix (Clients)</LttlPListCDef>
+    <LttlPListCDefNote>Pour définir la liste de prix que les clients vont y utiliser, entrez à "SAP Business One", allez au "Module d'associés d'afaires", continuez à "Données maîttres associés d'affaires" et en "Condition de versement" choisissez la liste des prix que vous souhaitez assigner à celui-là.
+Commentaire: Pouvez-vous sélectionner une liste de prix alternatif dans l'accès de client dans la administration.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Festlegung der Preisliste (Kunden)</LttlPListCDef>
+    <LttlPListCDefNote>Um die Preisliste, die ein Kunde benutzen kann, festzulegen: gehen Sie zu "SAP Business One", unter "Modul" gehen Sie zu "Geschäftspartner", weiter zu "Geschäftspartner Stammdaten" unter "Zahlungsbedingungen" wählen Sie die Preisliste die Sie dem Kunden anordnen möchten.
+Tip: Sie können eine alternative Preisliste wählen unter der Kundenzugangs Administration</LttlPListCDefNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Определение цены (клиенты)</LttlPListCDef>
+    <LttlPListCDefNote>Определить перечень цен, которую клиент будет использовать, зайдите в "SAP Business One", а затем перейти к "Бизнес-партнеры модуля", продолжить "Бизнес-Партнер основных данных" и в "Условия оплаты" выбрать прайс-лист вы хотите назначить этого клиента.
+Подсказка: Вы можете выбрать альтернативный список цен для клиентов в доступе администрация клиента.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Definice ceníku (klienti)</LttlPListCDef>
+    <LttlPListCDefNote>Pro zadefinování ceníku, který budou používat klienti, přejděte do "SAP Business One", pak do "Business Partners Module". Pokračujte do "Business Partner Master Data", v "Platebních podmínkách" vyberte ceník, který chcete přidělit klientovi.
+Tip" můžete vybrat alternativní ceník pro klienta ve správě přístupu klienta.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Definicja cennika (Klienci)</LttlPListCDef>
+    <LttlPListCDefNote>Aby zdefiniować cennik, z którego będzie korzystał klient przejdź do "SAP Business Jeden", a potem do "Modułu Partnerów Biznesowych",  i dalej do  "Głównych Danych  Partnera Biznesowego" i w "Warunkach płatność" wybierz Cennik, który chcesz przypisać temu klientowi. Wskazówka: Możesz wybrać alternatywny cennik dla klienta w administracja dostępu klienta. </LttlPListCDefNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>Definovanie Cenníka (Klienti)</LttlPListCDef>
+    <LttlPListCDefNote>Na definovanie Cenníka, ktorý klient použije, choďte do "SAP Business One", potom choďte do "Modulu Obchodného partnera", pokračujte do "Kmeňové dáta Obchodného partnera" a v "Platobných podmienkach" vyberte Cenník, ktorý chcete priradiť klientovi.
+Tip: Môžete zvoliť aj alternatívny cenník pre daného klienta v nastaveniach prístupu pre klientov.</LttlPListCDefNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>&lt;--&gt;</LttlPListCDef>
+    <LttlPListCDefNote>&lt;--&gt;</LttlPListCDefNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlPListCDef>LttlPListCDef</LttlPListCDef>
+    <LttlPListCDefNote>LttlPListCDefNote</LttlPListCDefNote>
+  </language>
+</languages>

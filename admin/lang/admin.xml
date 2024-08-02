@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <LMdlAdmin>Administrative Module</LMdlAdmin>
+    <LMdlDesc>Welcome to the Administrative Module of our complete electronic portal for e-commerce, TopManage OLK. Throughout the use of this program the many advantages of using such a tool in your business become self apparent.  Here the general definitions for the control and handling of OLK may be configured to take maximum advantage of our technology.</LMdlDesc>
+    <LAdminDB>Database to Administer</LAdminDB>
+    <LSmallDef>Def.</LSmallDef>
+    <LUnInstall>Uninstall</LUnInstall>
+    <LUnInstConf>When uninstalling a data base, all the changes, accesses, configurations, etc. will be lost. \nDo you wish to continue?</LUnInstConf>
+    <LOlkActivTtl>OLK Activation</LOlkActivTtl>
+    <LDBSupVer>The database "{0} ({1})" already has a higher version of OLK than the one that you have installed. \nUpdate to the latest version of OLK and try again.</LDBSupVer>
+    <LSearch>Search</LSearch>
+    <LChoose>Select</LChoose>
+    <LActivate>Activate</LActivate>
+    <LbtnSmallDef>Default</LbtnSmallDef>
+    <LtxtLineMemoErr>The field "LineMemo" doesn’t exist in the database "{0}" in the marketing document rows. In SAP Business One go to "Tools", "User-Defined Fields", "Manage\nUser Fields", expand "Marketing Documents" and select "Rows", press the button "Add" and\nenter the following definitions:\n	1. Title: LineMemo\n	2. Description (Optional): Line note\n	3. Type: Alphanumeric\n	4. Length: 254\nPress "Add", then a confirmation box should appear, press "Yes" and the press "Ok" to close the \n"Manage User Fields" form. \nWhen you finish this process you should be able to proceed with the database activation.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Database location not supported by this version.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <LMdlAdmin>Módulo Administrativo</LMdlAdmin>
+    <LMdlDesc>Le damos la bienvenida al Módulo Administrativo de nuestro novedoso y completo portal electrónico de comercio, TopManage OLK. En el mismo usted podrá verificar las múltiples ventajas que existen al contar con una herramienta como esta en su negocio. Aquí determinará las especificaciones generales para el control y manejo del OLK, aprovechando al máximo nuestra tecnología.</LMdlDesc>
+    <LAdminDB>Base de Datos para Administrar</LAdminDB>
+    <LSmallDef>Pred.</LSmallDef>
+    <LUnInstall>Desinstalar</LUnInstall>
+    <LUnInstConf>Al desinstalar una base de datos, todos los cambios, accesos, configuraciones, etc. se pierden.\n¿Desea continuar?</LUnInstConf>
+    <LOlkActivTtl>Activación de OLK</LOlkActivTtl>
+    <LDBSupVer>La base de datos "{0} ({1})" tiene una versión de OLK superior a la que tiene instalada. \nActualice a la última versión de OLK e intente de nuevo.</LDBSupVer>
+    <LSearch>Buscar</LSearch>
+    <LChoose>Escoger</LChoose>
+    <LActivate>Activar</LActivate>
+    <LbtnSmallDef>Predeterminar</LbtnSmallDef>
+    <LtxtLineMemoErr>La base de datos "{0}" no tiene creado el campo "LineMemo" en  los apuntes de los\ndocumentos de marketing. Deberá entra a "Herramientas",  "Campos definidos por el usuario",\n"Gestionar campos de usuario", expanda "Documentos de marketing"  y seleccione "Apuntes",\npresione el botón "Crear" e introduzca las siguientes definiciones:\n	1. Titulo: LineMemo\n	2. Descripción (Opcional): Nota a línea\n	3. Tipo: Alfanumérico\n	4. Largo: 254\nPresione "Crear", luego le aparecerá un mensaje de confirmación, presione "Si" y luego\npresione "Ok" para cerrar la ventana de "Campos definidos por el usuario".\nAl finalizar este proceso podrá proceder con la activación de la base de datos.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Localización de base de datos no está soportada por esta versión.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <LMdlAdmin>מודול מנהלה</LMdlAdmin>
+    <LMdlDesc>ברוכים הבאים למודול מנהלת האתר. פה תוכלו לראות את היתרונות בשימוש בכלים עסקים מהמתקדמים בעולם של TopManage אולק ולקבוע כללי התנהגות והתאמות אישיות לניצול הטכנולוגיה בצורה המתאימה ביותר לעסקך.</LMdlDesc>
+    <LAdminDB>בסיס נתונים לניהול</LAdminDB>
+    <LSmallDef>ברירת מחדל</LSmallDef>
+    <LUnInstall>הסר</LUnInstall>
+    <LUnInstConf>ביצוע הסר בסיס נתונים ימחוק את כל הגדרות של המערכת! המשך?</LUnInstConf>
+    <LOlkActivTtl>הפעלת אולק</LOlkActivTtl>
+    <LDBSupVer>לבסיס הנתונים "{0} ({1})" יש גירסת אולק חדשה יותר מהאולק המותקן.\nהתקן את גירסת האולק האחרונה ונסה שוב.</LDBSupVer>
+    <LSearch>חפש</LSearch>
+    <LChoose>בחר</LChoose>
+    <LActivate>הפעל</LActivate>
+    <LbtnSmallDef>ברירת מחדל</LbtnSmallDef>
+    <LtxtLineMemoErr>שדה "LineMemo" לא קיים בבסיס הנתונים "{0}".\nהשדה צריך להיות קיים בשורות מסמכי שיווק בסאפ.\nע"מ לייצור את השדה כנס בסאפ ל"כלים" -&gt; "ניהול שדות משתמש" -&gt;"נהל שדות משתמש" -&gt; "מסמכי שיווק" -&gt; "שורות" -&gt; ולחץ על כפתור "הוסף".\nנתוני השדה החדש:\n 1. כותרת : LineMemo\n 2. תאור (המלצה): טקסט לשורה\n 3. סוג: אלפא נומרי\n 4. אורך: 254\nלחץ "הוסף" ולאחר מכן "כן" לאישור ההודעה.. אשר את מסך "נהל שדות משתמש" וחכה שסאפ יתעדכן.\nלאחר יצירת השדה נסה שוב לפעיל את בסיס הנתונים לאתר.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>ההגדרות המקומיות של בסיס הנתונים הנ"ל אינם נתמכים ע"י גירסת אולק הנוכחית</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <LMdlAdmin>Administrative Module</LMdlAdmin>
+    <LMdlDesc>Welcome to the Administrative Module of our complete electronic portal for e-commerce, TopManage OLK. Throughout the use of this program the many advantages of using such a tool in your business become self apparent.  Here the general definitions for the control and handling of OLK may be configured to take maximum advantage of our technology.</LMdlDesc>
+    <LAdminDB>Database to Administer</LAdminDB>
+    <LSmallDef>Def.</LSmallDef>
+    <LUnInstall>Uninstall</LUnInstall>
+    <LUnInstConf>When uninstalling a data base, all the changes, accesses, configurations, etc. will be lost. \nDo you wish to continue?</LUnInstConf>
+    <LOlkActivTtl>OLK Activation</LOlkActivTtl>
+    <LDBSupVer>The database "{0} ({1})" already has a higher version of OLK than the one that you have installed. \nUpdate to the latest version of OLK and try again.</LDBSupVer>
+    <LSearch>Search</LSearch>
+    <LChoose>Select</LChoose>
+    <LActivate>Activate</LActivate>
+    <LbtnSmallDef>Default</LbtnSmallDef>
+    <LtxtLineMemoErr>The field "LineMemo" doesn’t exist in the database "{0}" in the marketing document rows. In SAP Business One go to "Tools", "User-Defined Fields", "Manage\nUser Fields", expand "Marketing Documents" and select "Rows", press the button "Add" and\nenter the following definitions:\n	1. Title: LineMemo\n	2. Description (Optional): Line note\n	3. Type: Alphanumeric\n	4. Length: 254\nPress "Add", then a confirmation box should appear, press "Yes" and the press "Ok" to close the \n"Manage User Fields" form. \nWhen you finish this process you should be able to proceed with the database activation.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Database location not supported by this version.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <LMdlAdmin>Módulo Administrativo</LMdlAdmin>
+    <LMdlDesc>Seja Bem Vindo ao módulo administrativo de nosso inovador e completo portal eletrônico de comércio, Top Manage OnlineKit. Nele você poderá verificar as numerosas vantagens que existem ao poder contar com uma ferramenta como esta no seu negócio. Aqui determinará as especificações gerais para o controle e gerenciamento do OnlineKit, aproveitando ao máximo nossa tecnologia.</LMdlDesc>
+    <LAdminDB>Base de Dados para Administrar</LAdminDB>
+    <LSmallDef>Pred.</LSmallDef>
+    <LUnInstall>Desinstalar</LUnInstall>
+    <LUnInstConf>Ao desinstalar uma base de dados, todas as modificações, acessos, configurações, etc. desaparecem.\nDeseja continuar?</LUnInstConf>
+    <LOlkActivTtl>Ativação do OnlineKit</LOlkActivTtl>
+    <LDBSupVer>A base de dados "{0} ({1})" tem uma versão do OnlineKit superior a que está instalada. Atualize a última versão do OnlineKit e tente de novo.</LDBSupVer>
+    <LSearch>Buscar</LSearch>
+    <LChoose>Escolher</LChoose>
+    <LActivate>Ativar</LActivate>
+    <LbtnSmallDef>Predeterminar</LbtnSmallDef>
+    <LtxtLineMemoErr>A base de dados "{0}" não tem criado o campo "Line Memo" nas anotações dos documentos de marketing. Deverá entrar a "Ferramentas", "Campos definidos pelo usuário"," controlar campos de usuário", expanda "Documentos de marketing" e selecione "Notas", pressione o botão "Criar" e introduza as seguintes definições: 1. Título: LineMemo 2. Descrição ( Opcional): Nota a linha 3. Tipo: Alfanumérico 4. Comprimento: 254 Pressione “criar”, depois lhe aparecerá uma mensagem de confirmação, pressione “sim” e depois pressione “Ok” para fechar a janela de “Campos definidos pelo usuário ”. Ao finalizar este processo poderá proceder com a ativação da base de dados.\n\n\n</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Localização de base de dados não está suportada por esta versão. </LtxtActiveDBErr>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <LMdlAdmin>Module Administrative</LMdlAdmin>
+    <LMdlDesc>Nous vous souhaitons la plus cordiale bienvenue au Module Administrative de notre nouveauté et complet portail électronique de commerce, TopManage OLK.  Tout fois que vous pourrez vérifier des multiples avantages qui existent au moment d'avoir un outil comme celui-ci chez votre entreprice. Voici vous déterminerez des spécifications généraux pour le control et administration de l'OLK, en profitant au maximum la technologie.</LMdlDesc>
+    <LAdminDB>Base des données pour être administrer</LAdminDB>
+    <LSmallDef>Préd.</LSmallDef>
+    <LUnInstall>Désintaller</LUnInstall>
+    <LUnInstConf>Au moment de désinstaller une base des données, tous les èchanges, accès, configurations, etc. seront effacer. Veuillez-vous continuer?</LUnInstConf>
+    <LOlkActivTtl>Activation d'OLK</LOlkActivTtl>
+    <LDBSupVer>La base des données "{0} ({1}) a une version d\'OLK supérieure à celle-ci que vous avez installée.\nMise à jour la dernière version d\'OLK et essayez-vous de nouveau</LDBSupVer>
+    <LSearch>Chercher</LSearch>
+    <LChoose>Choisir</LChoose>
+    <LActivate>Activer</LActivate>
+    <LbtnSmallDef>Prédéterminer</LbtnSmallDef>
+    <LtxtLineMemoErr>La base des données "{0}  n\'a pas crée le domaine "LineMemo" dans les notes des documentations de marketing. Devez-vous entrer à "Fichier des outils", "Domaines définis par l\'utilisateur", "Gérer des domaines d\'utilisateur" déroulez-vous "Documents du marketing" et sélectionnez-vous "Files", cliquez le bouton "Ajouter" et insérer les définitions suivant:\n                1. Titre: LineMemo\n	2. Description (Optional): Note de ligne\n	3. Type: Alphanumèrique\n	4. Longue: 254\nCliquez "Ajouter", après une boîte de confirmation doit apparaître, cliquez "oui" et après "OK" pour fermer la fenêtre "Gérer des domaines d\'utilisateur".\nQuand vous avez fini ce process vous pourrez continuer avec l\'activation de la base des données.\n\n</LtxtLineMemoErr>
+    <LtxtActiveDBErr>La localisation de la base des données n'est pas supportée par cette version.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <LMdlAdmin>Administratives Modul</LMdlAdmin>
+    <LMdlDesc>Herzlich wilkommen zum administrativen Modul von TopManage OLK, unserem neuen Portal für den vollelecktronischen Handel. Sie können die vielen Vorteile einsehen die dieses Werkzeug für Ihr Geschäft bringt. Hier die allgemeinene Beschreibung für die Bedienung und Benutzung des OLKs, damit Sie unsere Technologie am besten einsetzen können.</LMdlDesc>
+    <LAdminDB>Datenbank zum administrieren</LAdminDB>
+    <LSmallDef>Def.</LSmallDef>
+    <LUnInstall>Deinstallieren</LUnInstall>
+    <LUnInstConf>Wenn Sie eine Datenbank deinstallieren werden alle Änderungen, Zugänge, Einstellungen usw. gelöscht. Möchten Sie fortfahren?</LUnInstConf>
+    <LOlkActivTtl>OLK Aktivierung</LOlkActivTtl>
+    <LDBSupVer>Die Datenbank "{0} ({1})" arbeitet bereits mit einer neueren Version des OLKs. Aktualisieren Sie auf die neueste Version des OLK und erneut versuchen.</LDBSupVer>
+    <LSearch>Suchen</LSearch>
+    <LChoose>Wählen</LChoose>
+    <LActivate>Aktivieren</LActivate>
+    <LbtnSmallDef>Standard</LbtnSmallDef>
+    <LtxtLineMemoErr>Das Feld "Zeilenvermerk" existiert nicht in den Reihen des Marketingdocuments der Datenbank "{0}" . In SAP Business One gehen Sie zu "Werkzeug", "Benutzerdefinierte Felder", "Benutzerfelder verwalten", "Marketingdokument", "Reihen" wählen, auf hinzufügen gehen und folgende Angaben machen:\n1. Titel: Zeilenvermerk\n2. Beschreibung (wahlweise): Zeilen-notiz\n3. Typ: Alphanumerisch\n4. Länge: 254\nHinzufügen und mit "Ja" bestätigen. Mit "Ok" die "Benutzerfelder verwalten" Form schließen.\nWenn Sie den Prozess beendet haben können Sie mit der Datenbank aktivierung fortfahren.\n</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Ort der Datenbank wird von dieser Version nicht unterstützt.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <LMdlAdmin>Административный модуль</LMdlAdmin>
+    <LMdlDesc>Добро пожаловать в наш новый административный модуль полного электронного портала для электронной коммерции, TopManage ОЛК. В нем вы увидите для себя много преимуществ использования таких инструментов, как это в вашем бизнесе. Ниже приведены общие определения для контроля и обработки ОЛК, принять максимальные преимущества нашей технологии.</LMdlDesc>
+    <LAdminDB>База данных для управления</LAdminDB>
+    <LSmallDef>По умолчанию</LSmallDef>
+    <LUnInstall>Удалите</LUnInstall>
+    <LUnInstConf>При удалении базы данных, все изменения, , конфигурации и т.д., будут потеряны.\nВы хотите продолжить?</LUnInstConf>
+    <LOlkActivTtl>ОЛК активация</LOlkActivTtl>
+    <LDBSupVer>База данных "{0} ({1})" уже имеет улучшенную версию ОЛК, чем та, которая у вас установлена.</LDBSupVer>
+    <LSearch>Поиск</LSearch>
+    <LChoose>Выбор</LChoose>
+    <LActivate>Активный</LActivate>
+    <LbtnSmallDef>По умолчанию</LbtnSmallDef>
+    <LtxtLineMemoErr>Поле "LineMemo" не существует в базе данных "(0)" EN строк\nмаркетинговые документы. В SAP Business One меню "Инструменты", "Определено пользователем полей", "Управление\nПользователь полей ", расширение" Маркетинг Документы "и выберите пункт" Строка ", нажмите кнопку" Добавить "и\nВведите следующие определения:\n1. Название: LineMemo\n2. Описание (необязательно): Линия сведению\n3. Тип: буквенно-цифровой\n4. Длина: 254\nНажмите кнопку "Добавить", затем окно подтверждения должно появиться, нажмите кнопку "Да" и нажмите кнопку "ОК", чтобы закрыть\n"Управление пользователя Поля" форме.\nПосле завершения этого процесса вы должны быть в состоянии приступить к базе данных активации.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Размещение баз данных не поддерживается этой версией.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <LMdlAdmin>Administrativní modul</LMdlAdmin>
+    <LMdlDesc>Vítejte v Administrativním modulu našeho nového a plně elektronického portálu pro e-commerce, v TopManage OLK. Tu objevíte mnoho výhod používání takovéhoto nástroje ve Vaší obchodní činnosti. Zde najdete všeobecné definice pro kontrolu a zacházení s OLK pro získání maximálních výhod z naší technologie.</LMdlDesc>
+    <LAdminDB>Databáze, která se má spravovat</LAdminDB>
+    <LSmallDef>Vých.</LSmallDef>
+    <LUnInstall>Odinstalovat</LUnInstall>
+    <LUnInstConf>Pokud odinstalujete databázu, všechny změny, přístupy, konfigurace, atd. budou ztraceny.\nUrčitě chcete pokračovat?</LUnInstConf>
+    <LOlkActivTtl>Aktivace OLK</LOlkActivTtl>
+    <LDBSupVer>Databáze "{0} ({1})" má již vyšší verzi OLK, než kterou jste naistaloval/a.. \nProveďte aktualizaci na nejnovější verzi OLK a zkuste znovu.</LDBSupVer>
+    <LSearch>Vyhledávání</LSearch>
+    <LChoose>Vybrat</LChoose>
+    <LActivate>Aktivovat</LActivate>
+    <LbtnSmallDef>Výchozí</LbtnSmallDef>
+    <LtxtLineMemoErr>Pole "LineMemo" neexistuje v databázi "{0}" na řádkách marketingových dokumentů. V SAP Business One jděte do "Tools (Nástroje)", "User-Defined Fields (Pole definovaná uživatelem)", "Manage\nUser Fields (Správa uživatelských polí)". Rozklikněte "Marketingové dokument", zvolte "Řádky", stiskněte tlačítko "Přidat" a\nvložte tyto definice:\n	1. Název: LineMemo\n	2. Popis (nepovinný): Poznámka k řádce\n	3. Typ: Alfanumerický\n	4. Length: 254\nPo stisknutí tlačítka "Přidat" by se mělo zobrazit pole pro potvrzení. Stiskněte "Ano" a pak "OK", obrazovka "Správa uživatelských polí" se zavře. \nPo skončení tohot procesu byste měl/a být schopen/na dokončit aktivaci databáze.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Umístění databáze není touto verzí podporováno.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <LMdlAdmin>Moduł administracyjny</LMdlAdmin>
+    <LMdlDesc>Witamy w module administracyjnym całościowego elektronicznego portalu do e-handlu, TopManage OLK. Korzystając z tego programu odkryją Państwo wiele korzyści z korzystania z takiego narzędzia w firmie. Poniżej przedstawiamy ogólne definicje do skonfigurowania kontroli i obsługi OLK tak by wydobyć z naszej technologii jak najwięcej korzyści.  </LMdlDesc>
+    <LAdminDB>Baza danych do zarządzania</LAdminDB>
+    <LSmallDef>Def.</LSmallDef>
+    <LUnInstall>Odinstaluj</LUnInstall>
+    <LUnInstConf>Przy instalacji bazy danych wszystkie zmiany, dostępy, konfiguracje etc. zostaną utracone. Czy chcesz kontynuować?</LUnInstConf>
+    <LOlkActivTtl>Aktywacja OLK</LOlkActivTtl>
+    <LDBSupVer>Baza danych "{0} ({1})" już posiada bardziej zaawansowaną wersję OLK niż ta która instalujesz. Uaktualnij najnowszą wersję OLK i spróbuj ponownie. </LDBSupVer>
+    <LSearch>Szukaj</LSearch>
+    <LChoose>Wybierz</LChoose>
+    <LActivate>Aktywuj</LActivate>
+    <LbtnSmallDef>Domyślny</LbtnSmallDef>
+    <LtxtLineMemoErr>Pole "LineMemo" nie istnieje w bazie danych "{0}" w wierszach dokumentu marketingowo. W SAP Business One idź do "Narzędzi", "Użytkownik-Zdefiniowane pola", "Zarządzaj Polami Użytkownika", poszerz "Dokumenty Marketingowe" i wybierz "Wiersze", naciśnij przycisk "dodaj" i wprowadź następujące definicje:   1. Tytuł: LineMemo   2. Opis (Opcjonalny): Linijka uwagi   3. Typ: Alfanumeryczny   4. Długość: 254  Naciśnij "Dodaj", a potem powinno się pojawić okno potwierdzenia, naciśnij "tak" a potem "Ok"  i zamknij  formularz "Zarządzaj Polami Użytkownika".   Po zakończeniu tego procesu aktywacja bazy danych powinna być możliwa.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Lokalizacja bazy danych nie jest wspierana przez tę wersję. </LtxtActiveDBErr>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <LMdlAdmin>Administratívny modul</LMdlAdmin>
+    <LMdlDesc>Vitajte v Administratívnom module nášho kompletného elektronického portálu pre e-commerce, TopManage OLK. Počas používania tohto programu sa vám vyjaví veľa výhod používania takejto aplikácie vo vašom biznise. Tu sa dajú nakonfigurovať všeobecné definície na kontrolu a narábanie s OLK za účelom maximálneho využitia výhod našej technológie.</LMdlDesc>
+    <LAdminDB>Databáza na administráciu</LAdminDB>
+    <LSmallDef>Def.</LSmallDef>
+    <LUnInstall>Odinštalovať</LUnInstall>
+    <LUnInstConf>Keď odinštalujete databázu, všetky zmeny, prístupy, konfigurácie a pod. budú stratené.\nPrajete si pokračovať?</LUnInstConf>
+    <LOlkActivTtl>Aktivácia OLK</LOlkActivTtl>
+    <LDBSupVer>Databáza "{0} ({1})" už má vyššiu verziu OLK ako je tá, ktorú ste nainštalovali.\nAktualizujte na poslednú verziu OLK a vyskúšajte znovu.</LDBSupVer>
+    <LSearch>Vyhľadávanie</LSearch>
+    <LChoose>Vybrať</LChoose>
+    <LActivate>Aktivovať</LActivate>
+    <LbtnSmallDef>Východiskový</LbtnSmallDef>
+    <LtxtLineMemoErr>Políčko "LineMemo" neexistuje v databáze "{0}" v riadkoch marketingových dokumentov. Prejdite v SAP Business One do "Nástroje", "Užívateľom definované políčka", "Spravovať užívateľské políčka", rozšírte "Marketingové dokumenty" a vyberte "Riadky", stlačte tlačidlo "Pridať" a zadajte nasledovné definície:\n1. Názov: LineMemo\n2. Popis (Voliteľné): Poznámka riadku\n3. Typ: Abecedno-číslicový\n4. Dĺžka: 254\nStlačte "Pridať", po tom by sa malo objaviť políčko na potvrdenie, stlačte "Áno" a stlačte "Ok" na zatvorenie formulára "Spravovať užívateľské políčka". Keď skončíte tento proces, mali by ste byť schopní prejsť na aktiváciu databázy.</LtxtLineMemoErr>
+    <LtxtActiveDBErr>Umiestnenie databázy nie je podporované touto verziou.</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <LMdlAdmin>&lt;--&gt;</LMdlAdmin>
+    <LMdlDesc>&lt;--&gt;</LMdlDesc>
+    <LAdminDB>&lt;--&gt;</LAdminDB>
+    <LSmallDef>&lt;--&gt;</LSmallDef>
+    <LUnInstall>&lt;--&gt;</LUnInstall>
+    <LUnInstConf>&lt;--&gt;</LUnInstConf>
+    <LOlkActivTtl>&lt;--&gt;</LOlkActivTtl>
+    <LDBSupVer>&lt;--&gt;</LDBSupVer>
+    <LSearch>&lt;--&gt;</LSearch>
+    <LChoose>&lt;--&gt;</LChoose>
+    <LActivate>&lt;--&gt;</LActivate>
+    <LbtnSmallDef>&lt;--&gt;</LbtnSmallDef>
+    <LtxtLineMemoErr>&lt;--&gt;</LtxtLineMemoErr>
+    <LtxtActiveDBErr>&lt;--&gt;</LtxtActiveDBErr>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <LMdlAdmin>LMdlAdmin</LMdlAdmin>
+    <LMdlDesc>LMdlDesc</LMdlDesc>
+    <LAdminDB>LAdminDB</LAdminDB>
+    <LSmallDef>LSmallDef</LSmallDef>
+    <LUnInstall>LUnInstall</LUnInstall>
+    <LUnInstConf>LUnInstConf</LUnInstConf>
+    <LOlkActivTtl>LOlkActivTtl</LOlkActivTtl>
+    <LDBSupVer>LDBSupVer</LDBSupVer>
+    <LSearch>LSearch</LSearch>
+    <LChoose>LChoose</LChoose>
+    <LActivate>LActivate</LActivate>
+    <LbtnSmallDef>LbtnSmallDef</LbtnSmallDef>
+    <LtxtLineMemoErr>LtxtLineMemoErr</LtxtLineMemoErr>
+    <LtxtActiveDBErr>LtxtActiveDBErr</LtxtActiveDBErr>
+  </language>
+</languages>

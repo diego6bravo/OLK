@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlExpDet>Expense detail</LttlExpDet>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtNote>Nota</DtxtNote>
+    <LttlExpDet>Detalle de Gasto</LttlExpDet>
+    <LtxtVatGrp>Grupo de Impuesto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Impuesto</LtxtTaxCode>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtNote>הערה</DtxtNote>
+    <LttlExpDet>פירוט הוצאות נוספות</LttlExpDet>
+    <LtxtVatGrp>קבוצת מע"מ</LtxtVatGrp>
+    <LtxtTaxCode>קוד קבוצת מע"מ</LtxtTaxCode>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlExpDet>Expense detail</LttlExpDet>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtNote>Nota</DtxtNote>
+    <LttlExpDet>Detalhe do Gasto</LttlExpDet>
+    <LtxtVatGrp>Grupo de Imposto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Imposto</LtxtTaxCode>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlExpDet>Détail de dépense</LttlExpDet>
+    <LtxtVatGrp>Groupe d'impôt</LtxtVatGrp>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtNote>Notiz</DtxtNote>
+    <LttlExpDet>Ausgaben Detail</LttlExpDet>
+    <LtxtVatGrp>MwSt. Gruppe</LtxtVatGrp>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtNote>Примечание</DtxtNote>
+    <LttlExpDet>Детали, дополнительные предложения</LttlExpDet>
+    <LtxtVatGrp>Группы ндс</LtxtVatGrp>
+    <LtxtTaxCode>Код групп ндс</LtxtTaxCode>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LttlExpDet>Údaje o výdaji</LttlExpDet>
+    <LtxtVatGrp>Skupina DPH</LtxtVatGrp>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtNote>Uwaga</DtxtNote>
+    <LttlExpDet>Szczegół wydatków</LttlExpDet>
+    <LtxtVatGrp>Grupa VAT</LtxtVatGrp>
+    <LtxtTaxCode>Kod podatkowy</LtxtTaxCode>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LttlExpDet>Údaje o výdavkoch</LttlExpDet>
+    <LtxtVatGrp>DPH Skupina</LtxtVatGrp>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <LttlExpDet>LttlExpDet</LttlExpDet>
+    <LtxtVatGrp>LtxtVatGrp</LtxtVatGrp>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+  </language>
+</languages>

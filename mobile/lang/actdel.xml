@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Are you sure you want to delete the activity #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Your activity has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>¿Está seguro que desea eliminar la actividad #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Su actividad ha sido cancelada</LtxtConfCancel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtConfDelAct>האם למחוק פעילות {0}#?</LtxtConfDelAct>
+    <LtxtConfCancel>הפעילות בוטלה</LtxtConfCancel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Are you sure you want to delete the activity #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Your activity has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Você tem certeza que deseja excluir a atividade Nº {0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Sua atividade foi cancelada</LtxtConfCancel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Jste si jistý/á, že chcete vymazat aktivitu #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Vaše aktivita byla zrušena</LtxtConfCancel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Czy jesteś pewien, że chcesz usunąć działanie #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Twoje działanie zostało anulowane</LtxtConfCancel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>Ste si istí, že chcete vymazať aktivitu #{0}?</LtxtConfDelAct>
+    <LtxtConfCancel>Vaša aktivita bola zrušená</LtxtConfCancel>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelAct>LtxtConfDelAct</LtxtConfDelAct>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+  </language>
+</languages>

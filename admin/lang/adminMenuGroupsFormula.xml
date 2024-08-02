@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <LtxtFormula>Formula</LtxtFormula>
+    <LtxtValDescTable>You must select the description table in order to create a formula</LtxtValDescTable>
+    <LtxtVal>You must validate the formula</LtxtVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <LtxtFormula>Formula</LtxtFormula>
+    <LtxtValDescTable>Debe seleccionar una tabla de descripción para crear una formula</LtxtValDescTable>
+    <LtxtVal>Debe validar la formula</LtxtVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtField>שדה</DtxtField>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <LtxtFormula>נוסחה</LtxtFormula>
+    <LtxtValDescTable>יש לבחור תאור טבלה ע"מ לייצור נוסחה</LtxtValDescTable>
+    <LtxtVal>יש לאשר את נוסחה</LtxtVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <LtxtFormula>Formula</LtxtFormula>
+    <LtxtValDescTable>You must select the description table in order to create a formula</LtxtValDescTable>
+    <LtxtVal>You must validate the formula</LtxtVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <LtxtFormula>Fórmula</LtxtFormula>
+    <LtxtValDescTable>Você deve selecionar uma tabela de descrição para criar uma fórmula</LtxtValDescTable>
+    <LtxtVal>Você deve validar uma fórmula</LtxtVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <LtxtFormula>&lt;--&gt;</LtxtFormula>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+    <LtxtVal>&lt;--&gt;</LtxtVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtField>Feld</DtxtField>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <LtxtFormula>&lt;--&gt;</LtxtFormula>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+    <LtxtVal>&lt;--&gt;</LtxtVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtField>Поле</DtxtField>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <LtxtFormula>Формула</LtxtFormula>
+    <LtxtValDescTable>Вы должны выбрать описание таблицы с тем,чтобы создать формулу</LtxtValDescTable>
+    <LtxtVal>Вы должны проверять формулы</LtxtVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <LtxtFormula>Vzorec</LtxtFormula>
+    <LtxtValDescTable>Pro vytvoření vzorce musíte zvolit popisnou tabulku</LtxtValDescTable>
+    <LtxtVal>Musíte potvrdit vzorec</LtxtVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <LtxtFormula>Formuła</LtxtFormula>
+    <LtxtValDescTable>Musisz wybrać tabelę opisu aby stworzyć formułę</LtxtValDescTable>
+    <LtxtVal>Musisz potwierdzić formułę</LtxtVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <LtxtFormula>Vzorec</LtxtFormula>
+    <LtxtValDescTable>Musíte zvoliť tabuľku popisu na to, aby ste mohli vytvoriť vzorec</LtxtValDescTable>
+    <LtxtVal>Musíte overiť vzorec</LtxtVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <LtxtFormula>&lt;--&gt;</LtxtFormula>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+    <LtxtVal>&lt;--&gt;</LtxtVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <LtxtFormula>LtxtFormula</LtxtFormula>
+    <LtxtValDescTable>LtxtValDescTable</LtxtValDescTable>
+    <LtxtVal>LtxtVal</LtxtVal>
+  </language>
+</languages>

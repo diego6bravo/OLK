@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtError>Error</DtxtError>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtAlert>Alert</DtxtAlert>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LttlMsgTitle>Message Detail #{0} </LttlMsgTitle>
+    <LtxtFrom>From</LtxtFrom>
+    <LtxtView>View {0}</LtxtView>
+    <LaltNewMsg>New Message</LaltNewMsg>
+    <LtxtReply>Reply</LtxtReply>
+    <LtxtFile>File</LtxtFile>
+    <LtxtDel>Delete</LtxtDel>
+    <LtxtSystemReplyErr>You cannot reply to a system message</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Are you sure you want to delete this message?</LtxtConfDelMsg>
+    <LtxtGoTo>Go to {0}</LtxtGoTo>
+    <LtxtUpdate>Update:
+{0} #{1} was processes successfully</LtxtUpdate>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtError>Error</DtxtError>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtSubject>Asunto</DtxtSubject>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <DtxtAlert>Alerta</DtxtAlert>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <LttlMsgTitle>Detalle Mensaje #{0}</LttlMsgTitle>
+    <LtxtFrom>De</LtxtFrom>
+    <LtxtView>Ver {0}</LtxtView>
+    <LaltNewMsg>Mensaje Nuevo</LaltNewMsg>
+    <LtxtReply>Responder</LtxtReply>
+    <LtxtFile>Archivar</LtxtFile>
+    <LtxtDel>Eliminar</LtxtDel>
+    <LtxtSystemReplyErr>No se puede responder a un mensaje de sistema</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>¿Está seguro que desea eliminar este mensaje?</LtxtConfDelMsg>
+    <LtxtGoTo>Ir a {0}</LtxtGoTo>
+    <LtxtUpdate>Actualización:
+{0} #{1} fue procesado con éxito</LtxtUpdate>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtType>סוג</DtxtType>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtSubject>נושא</DtxtSubject>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtHour>שעה</DtxtHour>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <DtxtAlert>התראה</DtxtAlert>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <LttlMsgTitle>פרטי הודעה {0}#</LttlMsgTitle>
+    <LtxtFrom>ל</LtxtFrom>
+    <LtxtView>ראה {0}</LtxtView>
+    <LaltNewMsg>הודעה חדשה</LaltNewMsg>
+    <LtxtReply>לענות</LtxtReply>
+    <LtxtFile>תייק</LtxtFile>
+    <LtxtDel>מחק</LtxtDel>
+    <LtxtSystemReplyErr>לא ניתן לענות על הודעת מערכת</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>האם למחוק את ההודעה?</LtxtConfDelMsg>
+    <LtxtGoTo>עבור ל{0}</LtxtGoTo>
+    <LtxtUpdate>עידכון:
+{0} {1}# עובד בהצלחה</LtxtUpdate>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Type</DtxtType>
+    <DtxtError>Error</DtxtError>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtSubject>Subject</DtxtSubject>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtAlert>Alert</DtxtAlert>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LttlMsgTitle>Message Detail #{0} </LttlMsgTitle>
+    <LtxtFrom>From</LtxtFrom>
+    <LtxtView>View {0}</LtxtView>
+    <LaltNewMsg>New Message</LaltNewMsg>
+    <LtxtReply>Reply</LtxtReply>
+    <LtxtFile>File</LtxtFile>
+    <LtxtDel>Delete</LtxtDel>
+    <LtxtSystemReplyErr>You cannot reply to a system message</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Are you sure you want to delete this message?</LtxtConfDelMsg>
+    <LtxtGoTo>Go to {0}</LtxtGoTo>
+    <LtxtUpdate>Update:
+{0} #{1} was processes successfully</LtxtUpdate>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtError>Erro</DtxtError>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtSubject>Assunto</DtxtSubject>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <DtxtAlert>Alerta</DtxtAlert>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <LttlMsgTitle>Detalhe Mensagem #{0}</LttlMsgTitle>
+    <LtxtFrom>De</LtxtFrom>
+    <LtxtView>Ver {0}</LtxtView>
+    <LaltNewMsg>Mensagem Nova</LaltNewMsg>
+    <LtxtReply>Responder</LtxtReply>
+    <LtxtFile>Arquivar</LtxtFile>
+    <LtxtDel>Eliminar</LtxtDel>
+    <LtxtSystemReplyErr>Não pode responder a uma mensagem do sistema</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Tem certeza que deseja eliminar esta mensagem?</LtxtConfDelMsg>
+    <LtxtGoTo>Ir para {0}</LtxtGoTo>
+    <LtxtUpdate>Atualização:
+{0} Nº {1} foi processado com sucesso</LtxtUpdate>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtSubject>Sujet</DtxtSubject>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtHour>Heure</DtxtHour>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtAlert>&lt;--&gt;</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Détail message # {0}</LttlMsgTitle>
+    <LtxtFrom>De</LtxtFrom>
+    <LtxtView>Voir {0}</LtxtView>
+    <LaltNewMsg>Message nouveau</LaltNewMsg>
+    <LtxtReply>Répondre</LtxtReply>
+    <LtxtFile>Classer</LtxtFile>
+    <LtxtDel>Éliminer</LtxtDel>
+    <LtxtSystemReplyErr>On ne peut pas répondre à un message de système</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Êtes-vous sûre d'éliminer ce message?</LtxtConfDelMsg>
+    <LtxtGoTo>&lt;--&gt;</LtxtGoTo>
+    <LtxtUpdate>&lt;--&gt;</LtxtUpdate>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtType>Art</DtxtType>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtSubject>Fach</DtxtSubject>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtHour>Stunde</DtxtHour>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <DtxtAlert>Alarm</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Nachricht Detail #{0}</LttlMsgTitle>
+    <LtxtFrom>Von</LtxtFrom>
+    <LtxtView>{0} Ansehen</LtxtView>
+    <LaltNewMsg>Neue Nachricht</LaltNewMsg>
+    <LtxtReply>Antworten</LtxtReply>
+    <LtxtFile>Einordnen</LtxtFile>
+    <LtxtDel>Löschen</LtxtDel>
+    <LtxtSystemReplyErr>Sie können auf eine Systemnachricht nicht antworten</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Möchten Sie diese Nachricht wirklich löschen?</LtxtConfDelMsg>
+    <LtxtGoTo>&lt;--&gt;</LtxtGoTo>
+    <LtxtUpdate>&lt;--&gt;</LtxtUpdate>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtType>Вид</DtxtType>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtSubject>Несущий</DtxtSubject>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtHour>Время</DtxtHour>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <DtxtAlert>Внимание</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Частное сообщение {0}#</LttlMsgTitle>
+    <LtxtFrom>От</LtxtFrom>
+    <LtxtView>Видеть {0}</LtxtView>
+    <LaltNewMsg>Новое сообщение</LaltNewMsg>
+    <LtxtReply>Ответить</LtxtReply>
+    <LtxtFile>Файл</LtxtFile>
+    <LtxtDel>Стереть</LtxtDel>
+    <LtxtSystemReplyErr>Вы не можете ответить на сообщение в системе</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Удалить сообщение?</LtxtConfDelMsg>
+    <LtxtGoTo>Перейти на {0}</LtxtGoTo>
+    <LtxtUpdate>Исправление:                                                                  {0} {1}#прошло успешно</LtxtUpdate>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtSubject>Předmět</DtxtSubject>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtHour>Hodin</DtxtHour>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtAlert>Varování</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Detail zprávy #{0} </LttlMsgTitle>
+    <LtxtFrom>Od</LtxtFrom>
+    <LtxtView>Zobrazit {0}</LtxtView>
+    <LaltNewMsg>Nová zpráva</LaltNewMsg>
+    <LtxtReply>Odpovědět</LtxtReply>
+    <LtxtFile>Soubor</LtxtFile>
+    <LtxtDel>Vymazat</LtxtDel>
+    <LtxtSystemReplyErr>Na systémovou zprávu není možné odpovědět</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Jste si jistý/á, že chcete tuto zprávu vymazat?</LtxtConfDelMsg>
+    <LtxtGoTo>Přejít do {0}</LtxtGoTo>
+    <LtxtUpdate>Aktualizace:
+{0} #{1} úspěšně zpracována</LtxtUpdate>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtType>Typ</DtxtType>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtSubject>Przedmiot</DtxtSubject>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtHour>Godzina</DtxtHour>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <DtxtAlert>Alert</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Szczegół wiadomości #{0} </LttlMsgTitle>
+    <LtxtFrom>Od</LtxtFrom>
+    <LtxtView>Podgląd {0}</LtxtView>
+    <LaltNewMsg>Nowa wiadomość</LaltNewMsg>
+    <LtxtReply>Odpowiedź</LtxtReply>
+    <LtxtFile>Plik</LtxtFile>
+    <LtxtDel>Skasuj</LtxtDel>
+    <LtxtSystemReplyErr>Nie możesz odpowiedzieć na wiadomość systemową</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Czy jesteś pewien, że chcesz skasować tę wiadomość?</LtxtConfDelMsg>
+    <LtxtGoTo>Idź do  {0}</LtxtGoTo>
+    <LtxtUpdate>Aktualizacja:  {0} #{1} przebiegła z sukcesem</LtxtUpdate>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtSubject>Predmet</DtxtSubject>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtHour>Hodina</DtxtHour>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtAlert>Upozornenie</DtxtAlert>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LttlMsgTitle>Podrobnosti správy</LttlMsgTitle>
+    <LtxtFrom>Od</LtxtFrom>
+    <LtxtView>Zobraziť {0}</LtxtView>
+    <LaltNewMsg>Nová správa</LaltNewMsg>
+    <LtxtReply>Odpovedať</LtxtReply>
+    <LtxtFile>Súbor</LtxtFile>
+    <LtxtDel>Vymazať</LtxtDel>
+    <LtxtSystemReplyErr>Nemôžete odpovedať na systémovú správu</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>Ste si istí, že chcete vymazať túto správu?</LtxtConfDelMsg>
+    <LtxtGoTo>Prejsť na {0}</LtxtGoTo>
+    <LtxtUpdate>Aktualizovať:
+{0} #{1} bolo spracované úspešne</LtxtUpdate>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtSubject>DtxtSubject</DtxtSubject>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtHour>DtxtHour</DtxtHour>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <DtxtAlert>DtxtAlert</DtxtAlert>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <LttlMsgTitle>LttlMsgTitle</LttlMsgTitle>
+    <LtxtFrom>LtxtFrom</LtxtFrom>
+    <LtxtView>LtxtView</LtxtView>
+    <LaltNewMsg>LaltNewMsg</LaltNewMsg>
+    <LtxtReply>LtxtReply</LtxtReply>
+    <LtxtFile>LtxtFile</LtxtFile>
+    <LtxtDel>LtxtDel</LtxtDel>
+    <LtxtSystemReplyErr>LtxtSystemReplyErr</LtxtSystemReplyErr>
+    <LtxtConfDelMsg>LtxtConfDelMsg</LtxtConfDelMsg>
+    <LtxtGoTo>LtxtGoTo</LtxtGoTo>
+    <LtxtUpdate>LtxtUpdate</LtxtUpdate>
+  </language>
+</languages>

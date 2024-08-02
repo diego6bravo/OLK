@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtStatus>Status</DtxtStatus>
+    <LtxtDocBrekDown>Document Break Down</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <DtxtStatus>Estado</DtxtStatus>
+    <LtxtDocBrekDown>Separación de Documento</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBP>כרטיס</DtxtBP>
+    <DtxtStatus>סטטוס</DtxtStatus>
+    <LtxtDocBrekDown>חלוקת מסמך</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <DtxtStatus>Estado</DtxtStatus>
+    <LtxtDocBrekDown>Separação de Documento</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtStatus>&lt;--&gt;</DtxtStatus>
+    <LtxtDocBrekDown>&lt;--&gt;</LtxtDocBrekDown>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <DtxtStatus>DtxtStatus</DtxtStatus>
+    <LtxtDocBrekDown>LtxtDocBrekDown</LtxtDocBrekDown>
+  </language>
+</languages>

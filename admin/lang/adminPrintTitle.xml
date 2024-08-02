@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtRow>Row</DtxtRow>
+    <DtxtCol>Column</DtxtCol>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtValAlrNoNam>You cannot add a field without a name</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Are you sure you want to remove field {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Verify the query before updating</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Verify query before adding field</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Please enter the field name</LtxtValFldNam>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LttlAddFld>Add field to the print title</LttlAddFld>
+    <LtxtEditFld>Edit print title field</LtxtEditFld>
+    <LttlAddFldNote>Here fields in the document printing header may be added or edited.</LttlAddFldNote>
+    <LttlPrintTitle>Print Title</LttlPrintTitle>
+    <LttlPrintTitleNote>Here fields appearing in the header when printing objects may be defined.</LttlPrintTitleNote>
+    <LtxtShowTitle>Show Title</LtxtShowTitle>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Vista Previa</DtxtPreview>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtRow>Fila</DtxtRow>
+    <DtxtCol>Columna</DtxtCol>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LtxtValAlrNoNam>No se puede agregar un campo sin nombre</LtxtValAlrNoNam>
+    <LtxtConfRemFld>¿Está seguro que desea eliminar el campo {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Debe verificar la consulta antes de actualizar el campo</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Debe verificar la consulta antes de agregar el campo</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Debe introducir el nombre del campo</LtxtValFldNam>
+    <LtxtValQry>Debe introducir la consulta</LtxtValQry>
+    <LttlAddFld>Agregar Campo al titulo de impresión</LttlAddFld>
+    <LtxtEditFld>Editar campo del titulo de impresión</LtxtEditFld>
+    <LttlAddFldNote>En esta sección podrá agregar/editar campos dentro del encabezado de la impresión de documentos. </LttlAddFldNote>
+    <LttlPrintTitle>Titulo de Impresión</LttlPrintTitle>
+    <LttlPrintTitleNote>En esta sección podrá definir los campos que aparecerán dentro del área de encabezado de la impresión al imprimir objetos.</LttlPrintTitleNote>
+    <LtxtShowTitle>Mostrar Titulo</LtxtShowTitle>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtPreview>תצוגה מוקדמת</DtxtPreview>
+    <DtxtVariable>משתנה</DtxtVariable>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtRow>שורה</DtxtRow>
+    <DtxtCol>טור</DtxtCol>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LtxtValAlrNoNam>לא ניתן להוסיף שדה ללא תאור</LtxtValAlrNoNam>
+    <LtxtConfRemFld>האם למחוק שדה {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>צריך לאשר את השאילתא לפני עידכון השדה</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>צריך לאשר את השאילתא לפני הוספתה כשדה</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>צריך לתת תאור לשדה</LtxtValFldNam>
+    <LtxtValQry>יש למלא את השאילתא</LtxtValQry>
+    <LttlAddFld>הוסף שדות להדפסת כותרת</LttlAddFld>
+    <LtxtEditFld>ערוך שדה בהדפסת כותרת</LtxtEditFld>
+    <LttlAddFldNote>בחלק זה ניתן להוסיף ולערוך שדות שיוצגו בהדספת כותרת של אובייקטים</LttlAddFldNote>
+    <LttlPrintTitle>הדפסת כותרת</LttlPrintTitle>
+    <LttlPrintTitleNote>בחלק זה ניתן להגדיר שדות שיופיעו בהדפסת כותרת של אובייקטים</LttlPrintTitleNote>
+    <LtxtShowTitle>הצג כותרת</LtxtShowTitle>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtRow>Row</DtxtRow>
+    <DtxtCol>Column</DtxtCol>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtValAlrNoNam>You cannot add a field without a name</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Are you sure you want to remove field {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Verify the query before updating</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Verify query before adding field</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Please enter the field name</LtxtValFldNam>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LttlAddFld>Add field to the print title</LttlAddFld>
+    <LtxtEditFld>Edit print title field</LtxtEditFld>
+    <LttlAddFldNote>Here fields in the document printing header may be added or edited.</LttlAddFldNote>
+    <LttlPrintTitle>Print Title</LttlPrintTitle>
+    <LttlPrintTitleNote>Here fields appearing in the header when printing objects may be defined.</LttlPrintTitleNote>
+    <LtxtShowTitle>Show Title</LtxtShowTitle>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtPreview>Pré Visualizar</DtxtPreview>
+    <DtxtVariable>Variável</DtxtVariable>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtRow>Fila</DtxtRow>
+    <DtxtCol>Coluna</DtxtCol>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LtxtValAlrNoNam>Não é possível adicionar um campo sem nome</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Tem certeza que deseja excluir o campo {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Deve verificar a consulta antes de atualizar o campo</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Deve verificar a consulta antes de adicionar o campo</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Deve inserir o nome do campo</LtxtValFldNam>
+    <LtxtValQry>Deve inserir a consulta</LtxtValQry>
+    <LttlAddFld>Adicionar Campo para imprimir título</LttlAddFld>
+    <LtxtEditFld>Editar campo de título de impressão</LtxtEditFld>
+    <LttlAddFldNote>Neste seção, você pode adicionar e editar campos para impressão no cabecalho.</LttlAddFldNote>
+    <LttlPrintTitle>Imprimir Título</LttlPrintTitle>
+    <LttlPrintTitleNote>Nesta seção, você poderá definir os campos que irão aparecer dentro da área de cabeçalho de impressão ao imprimir objetos.</LttlPrintTitleNote>
+    <LtxtShowTitle>Mostrar Título</LtxtShowTitle>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Vue préalable</DtxtPreview>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtRow>&lt;--&gt;</DtxtRow>
+    <DtxtCol>&lt;--&gt;</DtxtCol>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtValAlrNoNam>On ne peut pas ajouter un domaine sand nom</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Êtes-vous sûre d'éliminer le domaine {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Devez-vous vérifier la consultation avant d'actualiser le domaine</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Devez-vous vérifier la consultation avant d'ajouter le domaine</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Devez-vous insérer le nom du domaine</LtxtValFldNam>
+    <LtxtValQry>Devez-vous insére la consultation</LtxtValQry>
+    <LttlAddFld>&lt;--&gt;</LttlAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LttlAddFldNote>&lt;--&gt;</LttlAddFldNote>
+    <LttlPrintTitle>&lt;--&gt;</LttlPrintTitle>
+    <LttlPrintTitleNote>&lt;--&gt;</LttlPrintTitleNote>
+    <LtxtShowTitle>&lt;--&gt;</LtxtShowTitle>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtPreview>Vorschau</DtxtPreview>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtRow>Reihe</DtxtRow>
+    <DtxtCol>
+Spalte</DtxtCol>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LtxtValAlrNoNam>Sie können kein Feld ohne Namen hinzufügen</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Möchten Sie das Feld {0} wirklich löschen?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Anfrage bestätigen bevor Sie aktualisieren</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Anfrage bestätigen bevor Sie das Feld hinzufügen</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Bitte geben Sie den Feldnahmen ein</LtxtValFldNam>
+    <LtxtValQry>Bitte geben Sie die Anfrage an</LtxtValQry>
+    <LttlAddFld>&lt;--&gt;</LttlAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LttlAddFldNote>&lt;--&gt;</LttlAddFldNote>
+    <LttlPrintTitle>&lt;--&gt;</LttlPrintTitle>
+    <LttlPrintTitleNote>&lt;--&gt;</LttlPrintTitleNote>
+    <LtxtShowTitle>&lt;--&gt;</LtxtShowTitle>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtPreview>Досрочная экспозиция</DtxtPreview>
+    <DtxtVariable>Переменная</DtxtVariable>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtRow>Строка</DtxtRow>
+    <DtxtCol>Колонка</DtxtCol>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LtxtValAlrNoNam>Вы не можете добавить поле без названия</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Вы уверены, что хотите удалить поле {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Убедитесь, что запрос перед обновлением поля</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Проверка запроса перед добавлением поля</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Пожалуйста, введите имя поля</LtxtValFldNam>
+    <LtxtValQry>Пожалуйста, введите запрос</LtxtValQry>
+    <LttlAddFld>Добавить название в поле  печать </LttlAddFld>
+    <LtxtEditFld>Изменить печать поле заголовка</LtxtEditFld>
+    <LttlAddFldNote>В этом разделе можно добавлять / редактировать поля в районе заголовка раздела печать документов</LttlAddFldNote>
+    <LttlPrintTitle>Напечатать заголовок</LttlPrintTitle>
+    <LttlPrintTitleNote>В этом разделе можно определить те поля, которые появляются в заголовке при печати объектов.</LttlPrintTitleNote>
+    <LtxtShowTitle>Показать заголовок</LtxtShowTitle>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtPreview>Náhled</DtxtPreview>
+    <DtxtVariable>Proměnná</DtxtVariable>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtRow>Řádka</DtxtRow>
+    <DtxtCol>Sloupek</DtxtCol>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LtxtValAlrNoNam>Nemůžete přidat pole bez názvu</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Jste si jistý/á, že chcete odebrat pole {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Ověřit dotaz přek aktualizací</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Ověřit dotaz před přidáním pole</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Zadejte prosím název pole</LtxtValFldNam>
+    <LtxtValQry>Vložte prosím dotaz</LtxtValQry>
+    <LttlAddFld>Přidat pole do tisku titulu</LttlAddFld>
+    <LtxtEditFld>Upravit pole tisku titulu</LtxtEditFld>
+    <LttlAddFldNote>Zde můžete přidávat nebo upravit pole pro tisk hlaviček dokumentu.</LttlAddFldNote>
+    <LttlPrintTitle>Tisk titulu</LttlPrintTitle>
+    <LttlPrintTitleNote>Zde můžete definovat pole, která se zobrazí v hlavičce při tisku objektu.</LttlPrintTitleNote>
+    <LtxtShowTitle>Zobrazit titul</LtxtShowTitle>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtPreview>Podgląd</DtxtPreview>
+    <DtxtVariable>Zmienne</DtxtVariable>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtRow>Wiersz</DtxtRow>
+    <DtxtCol>Kolumna</DtxtCol>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LtxtValAlrNoNam>Nie można dodać pola bez nazwy</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Czy jesteś pewien, że chcesz usunąć pole {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Zweryfikuj zapytanie przed aktualizacją</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Zweryfikuj zapytanie przed dodaniem pola</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Proszę wprowadź nazwę pola</LtxtValFldNam>
+    <LtxtValQry>Proszę wprowadź zapytanie</LtxtValQry>
+    <LttlAddFld>Dodaj pole do tytułu wydruku</LttlAddFld>
+    <LtxtEditFld>Edytuj pole tytułu wydruku</LtxtEditFld>
+    <LttlAddFldNote>Tutaj można dodać lub edytować pola w nagłówku drukowanego dokumentu</LttlAddFldNote>
+    <LttlPrintTitle>Drukuj nagłówek</LttlPrintTitle>
+    <LttlPrintTitleNote>Tutaj można zdefiniować pola pojawiające się w nagłówku gdy drukuje się przedmioty</LttlPrintTitleNote>
+    <LtxtShowTitle>Pokaż nagłówek</LtxtShowTitle>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtPreview>Náhľad</DtxtPreview>
+    <DtxtVariable>Premenná</DtxtVariable>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtRow>Riadok</DtxtRow>
+    <DtxtCol>Stĺpec</DtxtCol>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LtxtValAlrNoNam>Nemôžete pridať políčko bez názvu</LtxtValAlrNoNam>
+    <LtxtConfRemFld>Ste si istí, že chcete odstrániť políčko {0}?</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>Overiť dotaz pred aktualizovaním</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>Overiť dotaz pred pridaním políčka</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>Prosím zadajte názov políčka</LtxtValFldNam>
+    <LtxtValQry>Prosímj zadajte dotaz</LtxtValQry>
+    <LttlAddFld>Pridať políčko do názvu tlače</LttlAddFld>
+    <LtxtEditFld>Editovať políčko názvu tlače</LtxtEditFld>
+    <LttlAddFldNote>Tu sa dajú pridávať alebo editovať políčka v hlavičke tlače dokumentov.</LttlAddFldNote>
+    <LttlPrintTitle>Názov tlače</LttlPrintTitle>
+    <LttlPrintTitleNote>Tu sa dajú definovať políčka zobrazované v hlavičke počas tlače objektov.</LttlPrintTitleNote>
+    <LtxtShowTitle>Zobraziť názov</LtxtShowTitle>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtPreview>&lt;--&gt;</DtxtPreview>
+    <DtxtVariable>&lt;--&gt;</DtxtVariable>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtRow>&lt;--&gt;</DtxtRow>
+    <DtxtCol>&lt;--&gt;</DtxtCol>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtValAlrNoNam>&lt;--&gt;</LtxtValAlrNoNam>
+    <LtxtConfRemFld>&lt;--&gt;</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>&lt;--&gt;</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>&lt;--&gt;</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+    <LtxtValQry>&lt;--&gt;</LtxtValQry>
+    <LttlAddFld>&lt;--&gt;</LttlAddFld>
+    <LtxtEditFld>&lt;--&gt;</LtxtEditFld>
+    <LttlAddFldNote>&lt;--&gt;</LttlAddFldNote>
+    <LttlPrintTitle>&lt;--&gt;</LttlPrintTitle>
+    <LttlPrintTitleNote>&lt;--&gt;</LttlPrintTitleNote>
+    <LtxtShowTitle>&lt;--&gt;</LtxtShowTitle>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtPreview>DtxtPreview</DtxtPreview>
+    <DtxtVariable>DtxtVariable</DtxtVariable>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtRow>DtxtRow</DtxtRow>
+    <DtxtCol>DtxtCol</DtxtCol>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LtxtValAlrNoNam>LtxtValAlrNoNam</LtxtValAlrNoNam>
+    <LtxtConfRemFld>LtxtConfRemFld</LtxtConfRemFld>
+    <LtxtValVrfyQryUpd>LtxtValVrfyQryUpd</LtxtValVrfyQryUpd>
+    <LtxtValVrfyQryAdd>LtxtValVrfyQryAdd</LtxtValVrfyQryAdd>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+    <LtxtValQry>LtxtValQry</LtxtValQry>
+    <LttlAddFld>LttlAddFld</LttlAddFld>
+    <LtxtEditFld>LtxtEditFld</LtxtEditFld>
+    <LttlAddFldNote>LttlAddFldNote</LttlAddFldNote>
+    <LttlPrintTitle>LttlPrintTitle</LttlPrintTitle>
+    <LttlPrintTitleNote>LttlPrintTitleNote</LttlPrintTitleNote>
+    <LtxtShowTitle>LtxtShowTitle</LtxtShowTitle>
+  </language>
+</languages>

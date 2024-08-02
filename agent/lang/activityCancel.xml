@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Activity Cancelled</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Activity data update canceled</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Actividad Cancelada</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Edición de datos de actividad cancelada</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtActivityCancel>פעילות מבוטלת</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>פעילות של עידכון נתונים מבוטלת</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Activity Cancelled</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Activity data update canceled</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Atividade Cancelada</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Edição de dados da atividade cancelada</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>&lt;--&gt;</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>&lt;--&gt;</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>&lt;--&gt;</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>&lt;--&gt;</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>&lt;--&gt;</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>&lt;--&gt;</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>&lt;--&gt;</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>&lt;--&gt;</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Działanie anulowane</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Aktualizacja danych dziania anulowana</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>Aktivita zrušená</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>Aktualizácia dát aktivity zrušená</LtxtActivityUpdCancel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtActivityCancel>LtxtActivityCancel</LtxtActivityCancel>
+    <LtxtActivityUpdCancel>LtxtActivityUpdCancel</LtxtActivityUpdCancel>
+  </language>
+</languages>

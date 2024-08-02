@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Business Partner Details</LttlClientDetails>
+    <LttlClientConfDetails>Business Partner Confirmation Details</LttlClientConfDetails>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Detalle de Socio de Negocio</LttlClientDetails>
+    <LttlClientConfDetails>Detalle de Confirmación de Socio de Negocio</LttlClientConfDetails>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlClientDetails>נתוני כרטיס</LttlClientDetails>
+    <LttlClientConfDetails>נתוני אישור כרטיס</LttlClientConfDetails>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Business Partner Details</LttlClientDetails>
+    <LttlClientConfDetails>Business Partner Confirmation Details</LttlClientConfDetails>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Detalhes do Parceiro de Negócios</LttlClientDetails>
+    <LttlClientConfDetails>Detalhes da Confirmação do Parceiro de Negócios</LttlClientConfDetails>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>&lt;--&gt;</LttlClientDetails>
+    <LttlClientConfDetails>&lt;--&gt;</LttlClientConfDetails>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>&lt;--&gt;</LttlClientDetails>
+    <LttlClientConfDetails>&lt;--&gt;</LttlClientConfDetails>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Бизнес-партнер,подтверждающие данные</LttlClientDetails>
+    <LttlClientConfDetails>Бизнес-партнер, детали подтверждения </LttlClientConfDetails>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Obchodní partner - podrobnosti</LttlClientDetails>
+    <LttlClientConfDetails>Obchodní partner - údaje o potvrzení</LttlClientConfDetails>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Dane Partnera Biznesowego</LttlClientDetails>
+    <LttlClientConfDetails>Dane potwierdzenia Partnera Biznesowego </LttlClientConfDetails>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>Údaje Obchodného partnera</LttlClientDetails>
+    <LttlClientConfDetails>Údaje o potvrdení Obchodného partnera</LttlClientConfDetails>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlClientDetails>LttlClientDetails</LttlClientDetails>
+    <LttlClientConfDetails>LttlClientConfDetails</LttlClientConfDetails>
+  </language>
+</languages>

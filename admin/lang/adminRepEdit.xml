@@ -1,0 +1,2240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtEnable>Enabled</DtxtEnable>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCustomized>Customized</DtxtCustomized>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtSize>Size</DtxtSize>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtBy>By</DtxtBy>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtPercentage>Percentage</DtxtPercentage>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtAverage>Average</DtxtAverage>
+    <DtxtCount>Count</DtxtCount>
+    <DtxtMaximum>Maximum</DtxtMaximum>
+    <DtxtMinimum>Minimum</DtxtMinimum>
+    <DtxtSum>Sum</DtxtSum>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtSaveAs>Save As...</DtxtSaveAs>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtQryErr>Query Execution Error</DtxtQryErr>
+    <LttlEditRep>Edit Reports</LttlEditRep>
+    <LttlEditRepNote>Here changes may be made to the selected report.</LttlEditRepNote>
+    <LtxtTime>Refresh Time</LtxtTime>
+    <LtxtLinkOnly>Link Only</LtxtLinkOnly>
+    <LtxtCCodeDesc>User/Client Code</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Format, Links and Totals</LoptFrmLnkTtl>
+    <LttlVarsNote>Here all the variables created for the report may be viewed and have their order altered.</LttlVarsNote>
+    <LtxtFormat>Format</LtxtFormat>
+    <LtxtConfDelVar>Are you sure you want to delete the variable {0}?</LtxtConfDelVar>
+    <LttlAddVar>Add Variable</LttlAddVar>
+    <LttlEditVar>Edit Variable</LttlEditVar>
+    <LttlVarNote>Here the variables required for the report’s execution may be added and edited.</LttlVarNote>
+    <LtxtShowInRep>Show in report</LtxtShowInRep>
+    <LtxtMaxChar>Maximum Characters</LtxtMaxChar>
+    <LtxtFixVals>Fixed Values</LtxtFixVals>
+    <LtxtValText>Value,Text</LtxtValText>
+    <LtxtText>Text</LtxtText>
+    <LtxtNumWhole>Whole Number</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>List</LtxtList>
+    <LttlFrmLnkTtlNote>Here totals, formats, and links of the report columns may be configured.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Total</LtxtTotal>
+    <LtxtLink>Link</LtxtLink>
+    <LtxtSumCol>Incremented Col.</LtxtSumCol>
+    <LtxtShortDate>Short Date</LtxtShortDate>
+    <LtxtLongDate>Long Date</LtxtLongDate>
+    <LtxtHourAMPM>Hour (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Hour (24 Hours)</LtxtHour24>
+    <LtxtDecimals>Decimals</LtxtDecimals>
+    <LtxtQtyInUn>Quantity in Unit (Purchase)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Quantity in Unit (Sales)</LtxtQtyOutUn>
+    <LtxtInvisible>Invisible</LtxtInvisible>
+    <LtxtDown>Down</LtxtDown>
+    <LtxtUp>Up</LtxtUp>
+    <LtxtBoth>Both</LtxtBoth>
+    <LttlColorNote>Here customized formats created for the report and the order in which they will be applied are displayed.</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Column</LtxtColumn>
+    <LtxtOperation>Operation</LtxtOperation>
+    <LtxtAlternative>Alternate</LtxtAlternative>
+    <LtxtAlterOf>Alternate of</LtxtAlterOf>
+    <LtxtAddColorNote>Here the font and column desired columns, rows, or fields may be customized.</LtxtAddColorNote>
+    <LtxtConf>Configuration</LtxtConf>
+    <LtxtApplyTo>Apply to</LtxtApplyTo>
+    <LtxtRow>Row</LtxtRow>
+    <LtxtOther>Other</LtxtOther>
+    <LtxtEqualTo>Equal</LtxtEqualTo>
+    <LtxtNotEqual>Not Equal to</LtxtNotEqual>
+    <LtxtMoreThen>Greater than</LtxtMoreThen>
+    <LtxtLessThen>Less than</LtxtLessThen>
+    <LtxtMoreOrEq>Greater than or equal</LtxtMoreOrEq>
+    <LtxtLessOrEq>Less than or equal to</LtxtLessOrEq>
+    <LtxtNull>Null</LtxtNull>
+    <LtxtNotNull>Not Null</LtxtNotNull>
+    <LtxtFont>Font</LtxtFont>
+    <LtxtForeColor>Font-Color</LtxtForeColor>
+    <LtxtBackColor>Background Color</LtxtBackColor>
+    <LtxtBold>Bold</LtxtBold>
+    <LtxtItalic>Cursive</LtxtItalic>
+    <LtxtUnderline>Underline</LtxtUnderline>
+    <LtxtScratched>Scratched</LtxtScratched>
+    <LtxtBlink>Blink</LtxtBlink>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+    <LtxtValRepQry>Please enter the report query</LtxtValRepQry>
+    <LtxtValRepQryVal>You must verify the query before you can update the report</LtxtValRepQryVal>
+    <LtxtValLineNoData>Line #{0} has no data</LtxtValLineNoData>
+    <LtxtLineValsWrongData>The values in line #{0} are in the wrong format.\nThe format must by [Value], [Description]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>You cannot have a total for a column with format</LtxtValNoFormat>
+    <LtxtValNoNumInSale>You can\'t have a format "Quantity in Unit (Sales)" without having a column of quantity in unit (NumInSale) of type numeric.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>You can\'t have a format "Quantity in Unit (Purchase)" without having a column of quantity in unit (NumInBuy) of type numeric.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Are you sure you want to delete the color #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Press "Yes" to delete the color and its alternates, "No" for this color only.</LtxtValDelColor2>
+    <LtxtValVarNam>Please enter the variable name</LtxtValVarNam>
+    <LtxtValVariable>Please enter the variable</LtxtValVariable>
+    <LtxtValMaxChar>Please enter the maximum characters</LtxtValMaxChar>
+    <LtxtValQryValues>Please enter the query or predefined values</LtxtValQryValues>
+    <LtxtValQryVal>You must verify the query of the variable before you can add it</LtxtValQryVal>
+    <LtxtValVarVar>You must verify the @variable</LtxtValVarVar>
+    <LtxtValDatFormat>This type can only be used with the date format</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Date format is only compatible with the date type </LtxtValTypeDatFormat>
+    <LtxtValAlias>Please enter the configuration alias</LtxtValAlias>
+    <LtxtValOpValue>Please enter the operation value</LtxtValOpValue>
+    <LtxtValFldOp>Please select the operation field</LtxtValFldOp>
+    <LtxtValFldTypes>Type of field {0} must be equal to the field {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Are you sure you want to delete the color #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Image</LtxtImage>
+    <LtxtSelFld>Selection Field</LtxtSelFld>
+    <LtxtBaseVars>Base Variables</LtxtBaseVars>
+    <LtxtDefValue>Default Value</LtxtDefValue>
+    <LtxtNone>None</LtxtNone>
+    <LtxtValDefVarDat>Please select a default date</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Please enter the default value</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Please enter the default value query</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>You must verify the default value query</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>You can\'t apply a default value to a variable with base variables.\nDo you wish to continue?</LtxtChkBaseVars>
+    <LtxtACodeDesc>User/Agent Code</LtxtACodeDesc>
+    <LtxtPredefined>Predefined</LtxtPredefined>
+    <LtxtIsLinkCol>Column used as link variable</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Column used as color value</LtxtIsColorColumn>
+    <LtxtLinkedReports>Linked Reports</LtxtLinkedReports>
+    <LtxtNoBR>No break lines</LtxtNoBR>
+    <LtxtConfRestore>By restoring, all changes will be lost. Do you wish to continue?</LtxtConfRestore>
+    <LtxtChkList>Check List Box</LtxtChkList>
+    <LtxtEnterQryValSec>You must set the report query before you can enter this section</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtEnable>Habilitado</DtxtEnable>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtAlignment>Alineamiento</DtxtAlignment>
+    <DtxtLeft>Izquierda</DtxtLeft>
+    <DtxtRight>Derecha</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNotNull>Obligatorio</DtxtNotNull>
+    <DtxtSize>Tamaño</DtxtSize>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtBy>Según</DtxtBy>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtRate>Tasas</DtxtRate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtPercentage>Porcentaje</DtxtPercentage>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtAverage>Promedio</DtxtAverage>
+    <DtxtCount>Contar</DtxtCount>
+    <DtxtMaximum>Máximo</DtxtMaximum>
+    <DtxtMinimum>Mínimo</DtxtMinimum>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtExample>Ejemplo</DtxtExample>
+    <DtxtLine>Línea</DtxtLine>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtTop>Tope</DtxtTop>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtImport2>Importe</DtxtImport2>
+    <DtxtSaveAs>Guardar Como...</DtxtSaveAs>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtPosition2>Posición</DtxtPosition2>
+    <DtxtQryErr>Error de Ejecución de Consulta</DtxtQryErr>
+    <LttlEditRep>Edición de Reportes</LttlEditRep>
+    <LttlEditRepNote>En esta sección podrá efectuar todos los cambios que desee al reporte seleccionado.</LttlEditRepNote>
+    <LtxtTime>Tiempo de Refresco</LtxtTime>
+    <LtxtLinkOnly>Enlace Solamente</LtxtLinkOnly>
+    <LtxtCCodeDesc>Código de usuario/cliente</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Formatos, Enlaces y Totales</LoptFrmLnkTtl>
+    <LttlVarsNote>En esta sección podrá observar todas las variables creadas para este reporte y a la vez podrá cambiar el orden en el que se visualizarán.</LttlVarsNote>
+    <LtxtFormat>Formato</LtxtFormat>
+    <LtxtConfDelVar>¿Está seguro que desea eliminar la variable {0}?</LtxtConfDelVar>
+    <LttlAddVar>Agregar Variable</LttlAddVar>
+    <LttlEditVar>Editar Variable</LttlEditVar>
+    <LttlVarNote>En esta sección podrá agregar/editar las variables que va a requerir este reporte para su ejecución.</LttlVarNote>
+    <LtxtShowInRep>Mostrar en reporte</LtxtShowInRep>
+    <LtxtMaxChar>Máximo caracteres</LtxtMaxChar>
+    <LtxtFixVals>Valores fijos</LtxtFixVals>
+    <LtxtValText>Valor,Texto</LtxtValText>
+    <LtxtText>Texto</LtxtText>
+    <LtxtNumWhole>Numérico entero</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Lista</LtxtList>
+    <LttlFrmLnkTtlNote>En esta sección podrá configurar los totales, formatos y enlaces de las columnas que aparecerán en el reporte.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Total</LtxtTotal>
+    <LtxtLink>Enlace</LtxtLink>
+    <LtxtSumCol>Col. Sumada</LtxtSumCol>
+    <LtxtShortDate>Fecha corta</LtxtShortDate>
+    <LtxtLongDate>Fecha larga</LtxtLongDate>
+    <LtxtHourAMPM>Hora (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Hora (24 Horas)</LtxtHour24>
+    <LtxtDecimals>Decimales</LtxtDecimals>
+    <LtxtQtyInUn>Cantidad en unidad (Compra)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Cantidad en unidad (Venta)</LtxtQtyOutUn>
+    <LtxtInvisible>Invisible</LtxtInvisible>
+    <LtxtDown>Abajo</LtxtDown>
+    <LtxtUp>Arriba</LtxtUp>
+    <LtxtBoth>Ambos</LtxtBoth>
+    <LttlColorNote>En esta sección podrá observar todos los formatos personalizados creados para este reporte y a la vez podrá cambiar el orden en el que se aplicarán.</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Columna</LtxtColumn>
+    <LtxtOperation>Operación</LtxtOperation>
+    <LtxtAlternative>Alterno</LtxtAlternative>
+    <LtxtAlterOf>Alterno de</LtxtAlterOf>
+    <LtxtAddColorNote>En esta sección podrá implementar diferentes condiciones para asignar un formato personalizado de letra y de color a la columna, fila o campo deseado.</LtxtAddColorNote>
+    <LtxtConf>Configuración</LtxtConf>
+    <LtxtApplyTo>Aplica a</LtxtApplyTo>
+    <LtxtRow>Fila</LtxtRow>
+    <LtxtOther>Otro</LtxtOther>
+    <LtxtEqualTo>Igual a</LtxtEqualTo>
+    <LtxtNotEqual>No igual a</LtxtNotEqual>
+    <LtxtMoreThen>Mayor que</LtxtMoreThen>
+    <LtxtLessThen>Menor que</LtxtLessThen>
+    <LtxtMoreOrEq>Mayor o igual</LtxtMoreOrEq>
+    <LtxtLessOrEq>Menor o igual</LtxtLessOrEq>
+    <LtxtNull>Nulo</LtxtNull>
+    <LtxtNotNull>No nulo</LtxtNotNull>
+    <LtxtFont>Fuente</LtxtFont>
+    <LtxtForeColor>Color-Fuente</LtxtForeColor>
+    <LtxtBackColor>Color-Fondo</LtxtBackColor>
+    <LtxtBold>Negrita</LtxtBold>
+    <LtxtItalic>Cursiva</LtxtItalic>
+    <LtxtUnderline>Subrayado</LtxtUnderline>
+    <LtxtScratched>Tachado</LtxtScratched>
+    <LtxtBlink>Parpadeo</LtxtBlink>
+    <LtxtValRepNam>Debe introducir el nombre del reporte</LtxtValRepNam>
+    <LtxtValRepQry>Debe introducir la consulta del reporte</LtxtValRepQry>
+    <LtxtValRepQryVal>Debe verificar la consulta antes de actualizar el reporte</LtxtValRepQryVal>
+    <LtxtValLineNoData>No hay valores en la línea #{0}</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Los valores en la línea #{0} están en un formato incorrecto.\nEl formato debe ser [Valor], [Descripción].</LtxtLineValsWrongData>
+    <LtxtValNoFormat>No puede tener un total para columna con formato</LtxtValNoFormat>
+    <LtxtValNoNumInSale>No puede tener formato "Cantidad en Unidad (Venta)" sin tener una columna de cantidad en unidad (NumInSale) de tipo numérico.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>No puede tener un formato "Cantidad en Unidad (Compra)" sin tener una columna de cantidad en unidad (NumInBuy) de tipo numérico.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>¿Está seguro que desea eliminar el color #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Presione "Sí" para eliminar el color y sus colores alternos, "No" para eliminar este color solamente.</LtxtValDelColor2>
+    <LtxtValVarNam>Debe introducir el nombre de variable</LtxtValVarNam>
+    <LtxtValVariable>Debe introducir la variable</LtxtValVariable>
+    <LtxtValMaxChar>Debe introducir el valor máximo de caracteres</LtxtValMaxChar>
+    <LtxtValQryValues>Debe introducir la consulta o valores predefinidos</LtxtValQryValues>
+    <LtxtValQryVal>Debe verificar la consulta de la variable antes de agregarla</LtxtValQryVal>
+    <LtxtValVarVar>Debe verificar la @variable</LtxtValVarVar>
+    <LtxtValDatFormat>Este tipo sólo se puede usar con el formato fecha</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>El formato fecha sólo es compatible con el tipo fecha</LtxtValTypeDatFormat>
+    <LtxtValAlias>Debe introducir el alias de la configuración</LtxtValAlias>
+    <LtxtValOpValue>Debe introducir el valor de la operación</LtxtValOpValue>
+    <LtxtValFldOp>Debe seleccionar el campo de la operación</LtxtValFldOp>
+    <LtxtValFldTypes>El tipo del campo {0} debe ser igual al del campo {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>¿Está seguro que desea eliminar el color #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Imagen</LtxtImage>
+    <LtxtSelFld>Campo de Selección</LtxtSelFld>
+    <LtxtBaseVars>Variables Base</LtxtBaseVars>
+    <LtxtDefValue>Valor Predeterminado</LtxtDefValue>
+    <LtxtNone>Ninguno</LtxtNone>
+    <LtxtValDefVarDat>Debe escoger una fecha predeterminada</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Debe introducir el valor predeterminado</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Debe introducir la consulta del valor predeterminado</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Debe verificar la consulta del valor predeterminado</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>No puede aplicar valor predeterminado a una variable con variables base.\n¿Desea continuar?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Usuario/Código de Agente</LtxtACodeDesc>
+    <LtxtPredefined>Predefinidos</LtxtPredefined>
+    <LtxtIsLinkCol>Columna utilizada como variable de enlace</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Columna utilizada como valor de color</LtxtIsColorColumn>
+    <LtxtLinkedReports>Reportes Enlazados</LtxtLinkedReports>
+    <LtxtNoBR>No permitir romper lineas</LtxtNoBR>
+    <LtxtConfRestore>Al restaurar perderá todos los cambios que ha realizado. ¿Desea continuar?</LtxtConfRestore>
+    <LtxtChkList>Lista de Casillas</LtxtChkList>
+    <LtxtEnterQryValSec>Debe definir la consulta del reporte antes de poder entrar a esta sección</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtEnable>פעיל</DtxtEnable>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtCustomized>התאמה אישית</DtxtCustomized>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtAlignment>יישור</DtxtAlignment>
+    <DtxtLeft>שמאל</DtxtLeft>
+    <DtxtRight>ימין</DtxtRight>
+    <DtxtCenter>אמצע</DtxtCenter>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtNotNull>חייב</DtxtNotNull>
+    <DtxtSize>גודל</DtxtSize>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtNumeric>נומרי</DtxtNumeric>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtBy>לפי</DtxtBy>
+    <DtxtColor>צבע</DtxtColor>
+    <DtxtVariable>משתנה</DtxtVariable>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtRate>שערים</DtxtRate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtPercentage>אחוז</DtxtPercentage>
+    <DtxtMeasure>מידה</DtxtMeasure>
+    <DtxtAverage>ממוצע</DtxtAverage>
+    <DtxtCount>ספירה</DtxtCount>
+    <DtxtMaximum>מקסימום</DtxtMaximum>
+    <DtxtMinimum>מינימום</DtxtMinimum>
+    <DtxtSum>סיכום</DtxtSum>
+    <DtxtExample>דוגמא</DtxtExample>
+    <DtxtLine>שורה</DtxtLine>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtHour>שעה</DtxtHour>
+    <DtxtTop>למעלה</DtxtTop>
+    <DtxtMinute>דקה</DtxtMinute>
+    <DtxtMinutes>דקות</DtxtMinutes>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtImport2>סכום</DtxtImport2>
+    <DtxtSaveAs>שמור בשם...</DtxtSaveAs>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtPosition2>מיקום</DtxtPosition2>
+    <DtxtQryErr>שגיאת הרצת שאילתא</DtxtQryErr>
+    <LttlEditRep>עריכת דוחות</LttlEditRep>
+    <LttlEditRepNote>בחלק זה תוכל לעשות שינויים בדוח שבחרת</LttlEditRepNote>
+    <LtxtTime>זמן ריענון</LtxtTime>
+    <LtxtLinkOnly>קישור בלבד</LtxtLinkOnly>
+    <LtxtCCodeDesc>קוד לקוח</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>עיצוב, קישורים וסיכומים</LoptFrmLnkTtl>
+    <LttlVarsNote>בחלק זה תוכל לערוך את המשתנים לדוח וגם לשנות את הסדר בה הם יופיעו למשתמש</LttlVarsNote>
+    <LtxtFormat>תבנית</LtxtFormat>
+    <LtxtConfDelVar>האם למחוק משתנה {0}?</LtxtConfDelVar>
+    <LttlAddVar>הוסף משתנה</LttlAddVar>
+    <LttlEditVar>עריכת משתנים</LttlEditVar>
+    <LttlVarNote>בחלק זה תוכל לייצור ולערוך משתנים הנחוצים להרצת הדוח הנ"ל!</LttlVarNote>
+    <LtxtShowInRep>הצג בדוח</LtxtShowInRep>
+    <LtxtMaxChar>מקסימום תווים</LtxtMaxChar>
+    <LtxtFixVals>ערכים קבועים</LtxtFixVals>
+    <LtxtValText>ערך,טקסט</LtxtValText>
+    <LtxtText>טקסט</LtxtText>
+    <LtxtNumWhole>מספר שלם</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>רשימה</LtxtList>
+    <LttlFrmLnkTtlNote>בחלק זה תוכל לערוך תצוגתית את הטורים של הדוח (סיכומים, עיצוב טור, קישוריים ועוד)</LttlFrmLnkTtlNote>
+    <LtxtTotal>סיכום</LtxtTotal>
+    <LtxtLink>קישור</LtxtLink>
+    <LtxtSumCol>טור מסוכם</LtxtSumCol>
+    <LtxtShortDate>תאריך קצר</LtxtShortDate>
+    <LtxtLongDate>תאריך ארוך</LtxtLongDate>
+    <LtxtHourAMPM>שעה (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>שעה (24 שעות)</LtxtHour24>
+    <LtxtDecimals>עשרונים</LtxtDecimals>
+    <LtxtQtyInUn>כמות ליח' קניה</LtxtQtyInUn>
+    <LtxtQtyOutUn>כמות ליח' מכירה</LtxtQtyOutUn>
+    <LtxtInvisible>מוסתר</LtxtInvisible>
+    <LtxtDown>למטה</LtxtDown>
+    <LtxtUp>למעלה</LtxtUp>
+    <LtxtBoth>שניהם</LtxtBoth>
+    <LttlColorNote>בחלק זה תוכל לערוך את עיצוב הדוח וגם לשנות את הסדר בה הם יופיעו למשתמש</LttlColorNote>
+    <LtxtAlias>כינוי</LtxtAlias>
+    <LtxtColumn>טור</LtxtColumn>
+    <LtxtOperation>פעולה</LtxtOperation>
+    <LtxtAlternative>חלופי</LtxtAlternative>
+    <LtxtAlterOf>חלופי ל</LtxtAlterOf>
+    <LtxtAddColorNote>בחלק זה תוכל לקבוע להתאים באופן אישי כללים לשינוי גודל גופן וקביעת צבעים לשורה לטור או לשדה שתירצה</LtxtAddColorNote>
+    <LtxtConf>הגדרות</LtxtConf>
+    <LtxtApplyTo>יישם על</LtxtApplyTo>
+    <LtxtRow>שורה</LtxtRow>
+    <LtxtOther>אחר</LtxtOther>
+    <LtxtEqualTo>שווה ל</LtxtEqualTo>
+    <LtxtNotEqual>לא שווה ל</LtxtNotEqual>
+    <LtxtMoreThen>גדול מ</LtxtMoreThen>
+    <LtxtLessThen>קטן מ</LtxtLessThen>
+    <LtxtMoreOrEq>גדול שווה ל</LtxtMoreOrEq>
+    <LtxtLessOrEq>קטן שווה ל</LtxtLessOrEq>
+    <LtxtNull>Null</LtxtNull>
+    <LtxtNotNull>Not null</LtxtNotNull>
+    <LtxtFont>גופן</LtxtFont>
+    <LtxtForeColor>צבע פונט</LtxtForeColor>
+    <LtxtBackColor>צבע רקע</LtxtBackColor>
+    <LtxtBold>מודגש</LtxtBold>
+    <LtxtItalic>אות נטויה</LtxtItalic>
+    <LtxtUnderline>קו תחתי</LtxtUnderline>
+    <LtxtScratched>קו מחוק</LtxtScratched>
+    <LtxtBlink>הבהוב</LtxtBlink>
+    <LtxtValRepNam>צריך לתת שם לדוח!</LtxtValRepNam>
+    <LtxtValRepQry>צריך לשים שאילתא לדוח!</LtxtValRepQry>
+    <LtxtValRepQryVal>צריך לאשר את השאילתא לפני עידכון הדוח!</LtxtValRepQryVal>
+    <LtxtValLineNoData>אין ערכים בשורה {0}#</LtxtValLineNoData>
+    <LtxtLineValsWrongData>הערכים בשורה {0}# נמצאים בעריכה לא נכונה.\nהעריכה צריכה להיות: [ערך],[תאור]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>לא ניתן לעשות סיכום לטור מסוג</LtxtValNoFormat>
+    <LtxtValNoNumInSale>אינך יכול להשתמש בתבנית "כמות ביח\' מכירה" בלי שיש טור עם כמות ביח\' מכירה (NumInSale) מסוג מספרי</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>אינך יכול להשתמש בתבנית "כמות ביח\' קניה" בלי שיש טור עם כמות ביח\' קניה (NumInBuy) מסוג מספרי</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>האם למחוק צבע {0}#?</LtxtValDelColor1>
+    <LtxtValDelColor2>בחק "כן" במידה ואתה רוצה למחוק את בצבע ואת בניו, בחק "לא" במידה ואתה רוצה למחוק את הצבע הנ"ל בלבד.</LtxtValDelColor2>
+    <LtxtValVarNam>צריך לתת שם למשתנה!</LtxtValVarNam>
+    <LtxtValVariable>יש לקבוע משתנה!</LtxtValVariable>
+    <LtxtValMaxChar>צריך לקבוע את הכמות המקסימלית של תווים!</LtxtValMaxChar>
+    <LtxtValQryValues>צריך לשים שאילתא או ערכים קבועים!</LtxtValQryValues>
+    <LtxtValQryVal>צריך לאשר את השאילתא של המשתנה לפני ההוספה!</LtxtValQryVal>
+    <LtxtValVarVar>יש לאשר את המשתנה!</LtxtValVarVar>
+    <LtxtValDatFormat>הסוג הנ""ל ניתן לשימוש רק בתבנית תאריך!</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>תבנית לתאריך מתאים רק לסוג תאריך!</LtxtValTypeDatFormat>
+    <LtxtValAlias>צריך לתת כינוי לקונפיגורציה!</LtxtValAlias>
+    <LtxtValOpValue>צריך לתת ערך לפעולה!</LtxtValOpValue>
+    <LtxtValFldOp>צריך לבחור את שדה הפעולה!</LtxtValFldOp>
+    <LtxtValFldTypes>סוג שדה {0} חייב להיות תואם לשדה {1}!</LtxtValFldTypes>
+    <LtxtConfDelColor>האם למחוק צבע {0}# {1}?</LtxtConfDelColor>
+    <LtxtImage>תמונה</LtxtImage>
+    <LtxtSelFld>שדה לבחירה</LtxtSelFld>
+    <LtxtBaseVars>משתנים בסיס</LtxtBaseVars>
+    <LtxtDefValue>ערך ברירת מחדל</LtxtDefValue>
+    <LtxtNone>שום דבר</LtxtNone>
+    <LtxtValDefVarDat>יש לבחור תאריך ברירת מחדל</LtxtValDefVarDat>
+    <LtxtValDefVarVal>יש לבחור ערך ברירת מחדל</LtxtValDefVarVal>
+    <LtxtValDefVarQry>יש לשים שאילתא לערך ברירת המחדל</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>יש לאשר את השאילתא של ערך ברירת המחדל</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>לא ניתן לקבוע ערך ברירת מחדל למשתנה שמקושר למשתנה בסיס. האם להמשיך?</LtxtChkBaseVars>
+    <LtxtACodeDesc>משתמש\קוד סוכן</LtxtACodeDesc>
+    <LtxtPredefined>מוגדר מראש</LtxtPredefined>
+    <LtxtIsLinkCol>טור בשימוש כערך לקישור</LtxtIsLinkCol>
+    <LtxtIsColorColumn>טור בשימוש כערך לצבע</LtxtIsColorColumn>
+    <LtxtLinkedReports>דוחות מקושרים</LtxtLinkedReports>
+    <LtxtNoBR>לא לאפשר שבירת שורות</LtxtNoBR>
+    <LtxtConfRestore>השיחזור ימחוק את כל השינויים שבוצעו. האם להמשיך?</LtxtConfRestore>
+    <LtxtChkList>בחירה מרובה מרשימה</LtxtChkList>
+    <LtxtEnterQryValSec>יש לקבוע שאילתא לדוח ע"מ להכנס לחלק זה</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtEnable>Enabled</DtxtEnable>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCustomized>Customised</DtxtCustomized>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtSize>Size</DtxtSize>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtBy>By</DtxtBy>
+    <DtxtColor>Colour</DtxtColor>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtPercentage>Percentage</DtxtPercentage>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtAverage>Average</DtxtAverage>
+    <DtxtCount>Count</DtxtCount>
+    <DtxtMaximum>Maximum</DtxtMaximum>
+    <DtxtMinimum>Minimum</DtxtMinimum>
+    <DtxtSum>Sum</DtxtSum>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtHour>Hour</DtxtHour>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtSaveAs>Save As...</DtxtSaveAs>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtQryErr>Query Execution Error</DtxtQryErr>
+    <LttlEditRep>Edit Reports</LttlEditRep>
+    <LttlEditRepNote>Here changes may be made to the selected report.</LttlEditRepNote>
+    <LtxtTime>Refresh Time</LtxtTime>
+    <LtxtLinkOnly>Link Only</LtxtLinkOnly>
+    <LtxtCCodeDesc>User/Client Code</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Format, Links and Totals</LoptFrmLnkTtl>
+    <LttlVarsNote>Here all the variables created for the report may be viewed and have their order altered.</LttlVarsNote>
+    <LtxtFormat>Format</LtxtFormat>
+    <LtxtConfDelVar>Are you sure you want to delete the variable {0}?</LtxtConfDelVar>
+    <LttlAddVar>Add Variable</LttlAddVar>
+    <LttlEditVar>Edit Variable</LttlEditVar>
+    <LttlVarNote>Here the variables required for the report’s execution may be added and edited.</LttlVarNote>
+    <LtxtShowInRep>Show in report</LtxtShowInRep>
+    <LtxtMaxChar>Maximum Characters</LtxtMaxChar>
+    <LtxtFixVals>Fixed Values</LtxtFixVals>
+    <LtxtValText>Value,Text</LtxtValText>
+    <LtxtText>Text</LtxtText>
+    <LtxtNumWhole>Whole Number</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>List</LtxtList>
+    <LttlFrmLnkTtlNote>Here totals, formats, and links of the report columns may be configured.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Total</LtxtTotal>
+    <LtxtLink>Link</LtxtLink>
+    <LtxtSumCol>Incremented Col.</LtxtSumCol>
+    <LtxtShortDate>Short Date</LtxtShortDate>
+    <LtxtLongDate>Long Date</LtxtLongDate>
+    <LtxtHourAMPM>Hour (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Hour (24 Hours)</LtxtHour24>
+    <LtxtDecimals>Decimals</LtxtDecimals>
+    <LtxtQtyInUn>Quantity in Unit (Purchase)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Quantity in Unit (Sales)</LtxtQtyOutUn>
+    <LtxtInvisible>Invisible</LtxtInvisible>
+    <LtxtDown>Down</LtxtDown>
+    <LtxtUp>Up</LtxtUp>
+    <LtxtBoth>Both</LtxtBoth>
+    <LttlColorNote>Here customized formats created for the report and the order in which they will be applied are displayed.</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Column</LtxtColumn>
+    <LtxtOperation>Operation</LtxtOperation>
+    <LtxtAlternative>Alternate</LtxtAlternative>
+    <LtxtAlterOf>Alternate of</LtxtAlterOf>
+    <LtxtAddColorNote>Here the font and column desired columns, rows, or fields may be customized.</LtxtAddColorNote>
+    <LtxtConf>Configuration</LtxtConf>
+    <LtxtApplyTo>Apply to</LtxtApplyTo>
+    <LtxtRow>Row</LtxtRow>
+    <LtxtOther>Other</LtxtOther>
+    <LtxtEqualTo>Equal</LtxtEqualTo>
+    <LtxtNotEqual>Not Equal to</LtxtNotEqual>
+    <LtxtMoreThen>Greater than</LtxtMoreThen>
+    <LtxtLessThen>Less than</LtxtLessThen>
+    <LtxtMoreOrEq>Greater than or equal</LtxtMoreOrEq>
+    <LtxtLessOrEq>Less than or equal to</LtxtLessOrEq>
+    <LtxtNull>Null</LtxtNull>
+    <LtxtNotNull>Not Null</LtxtNotNull>
+    <LtxtFont>Font</LtxtFont>
+    <LtxtForeColor>Font-Color</LtxtForeColor>
+    <LtxtBackColor>Background Color</LtxtBackColor>
+    <LtxtBold>Bold</LtxtBold>
+    <LtxtItalic>Cursive</LtxtItalic>
+    <LtxtUnderline>Underline</LtxtUnderline>
+    <LtxtScratched>Scratched</LtxtScratched>
+    <LtxtBlink>Blink</LtxtBlink>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+    <LtxtValRepQry>Please enter the report query</LtxtValRepQry>
+    <LtxtValRepQryVal>You must verify the query before you can update the report</LtxtValRepQryVal>
+    <LtxtValLineNoData>Line #{0} has no data</LtxtValLineNoData>
+    <LtxtLineValsWrongData>The values in line #{0} are in the wrong format.\nThe format must by [Value], [Description]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>You cannot have a total for a column with format</LtxtValNoFormat>
+    <LtxtValNoNumInSale>You can\'t have a format "Quantity in Unit (Sales)" without having a column of quantity in unit (NumInSale) of type numeric.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>You can\'t have a format "Quantity in Unit (Purchase)" without having a column of quantity in unit (NumInBuy) of type numeric.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Are you sure you want to delete the color #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Press "Yes" to delete the color and its alternates, "No" for this color only.</LtxtValDelColor2>
+    <LtxtValVarNam>Please enter the variable name</LtxtValVarNam>
+    <LtxtValVariable>Please enter the variable</LtxtValVariable>
+    <LtxtValMaxChar>Please enter the maximum characters</LtxtValMaxChar>
+    <LtxtValQryValues>Please enter the query or predefined values</LtxtValQryValues>
+    <LtxtValQryVal>You must verify the query of the variable before you can add it</LtxtValQryVal>
+    <LtxtValVarVar>You must verify the @variable</LtxtValVarVar>
+    <LtxtValDatFormat>This type can only be used with the date format</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Date format is only compatible with the date type </LtxtValTypeDatFormat>
+    <LtxtValAlias>Please enter the configuration alias</LtxtValAlias>
+    <LtxtValOpValue>Please enter the operation value</LtxtValOpValue>
+    <LtxtValFldOp>Please select the operation field</LtxtValFldOp>
+    <LtxtValFldTypes>Type of field {0} must be equal to the field {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Are you sure you want to delete the color #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Image</LtxtImage>
+    <LtxtSelFld>Selection Field</LtxtSelFld>
+    <LtxtBaseVars>Base Variables</LtxtBaseVars>
+    <LtxtDefValue>Default Value</LtxtDefValue>
+    <LtxtNone>None</LtxtNone>
+    <LtxtValDefVarDat>Please select a default date</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Please enter the default value</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Please enter the default value query</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>You must verify the default value query</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>You can\'t apply a default value to a variable with base variables.\nDo you wish to continue?</LtxtChkBaseVars>
+    <LtxtACodeDesc>User/Agent Code</LtxtACodeDesc>
+    <LtxtPredefined>Predefined</LtxtPredefined>
+    <LtxtIsLinkCol>Column used as link variable</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Column used as color value</LtxtIsColorColumn>
+    <LtxtLinkedReports>Linked Reports</LtxtLinkedReports>
+    <LtxtNoBR>No break lines</LtxtNoBR>
+    <LtxtConfRestore>By restoring, all changes will be lost. Do you wish to continue?</LtxtConfRestore>
+    <LtxtChkList>Check List Box</LtxtChkList>
+    <LtxtEnterQryValSec>You must set the report query before you can enter this section</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtEnable>Habilitado</DtxtEnable>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCustomized>Personalizado</DtxtCustomized>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtAlignment>Alinhamento</DtxtAlignment>
+    <DtxtLeft>Esquerda</DtxtLeft>
+    <DtxtRight>Direita</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtNotNull>Obrigatório</DtxtNotNull>
+    <DtxtSize>Tamanho</DtxtSize>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtBy>De acordo com</DtxtBy>
+    <DtxtColor>Cor</DtxtColor>
+    <DtxtVariable>Variável</DtxtVariable>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtRate>Taxas</DtxtRate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtPercentage>Percentagem</DtxtPercentage>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtAverage>Média</DtxtAverage>
+    <DtxtCount>Contar</DtxtCount>
+    <DtxtMaximum>Máximo</DtxtMaximum>
+    <DtxtMinimum>Mínimo</DtxtMinimum>
+    <DtxtSum>Soma</DtxtSum>
+    <DtxtExample>Exemplo</DtxtExample>
+    <DtxtLine>Linha</DtxtLine>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtHour>Hora</DtxtHour>
+    <DtxtTop>No máximo</DtxtTop>
+    <DtxtMinute>Minuto</DtxtMinute>
+    <DtxtMinutes>Minutos</DtxtMinutes>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtImport2>Importação</DtxtImport2>
+    <DtxtSaveAs>Salvar Como...</DtxtSaveAs>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtPosition2>Posição</DtxtPosition2>
+    <DtxtQryErr>Erro ao executar a consulta</DtxtQryErr>
+    <LttlEditRep>Edição de Relatórios</LttlEditRep>
+    <LttlEditRepNote>Nesta seção, poderá fazer todas as modificações que deseja no relatório selecionado.</LttlEditRepNote>
+    <LtxtTime>Tempo de Atualização</LtxtTime>
+    <LtxtLinkOnly>Somente Vínculo</LtxtLinkOnly>
+    <LtxtCCodeDesc>Código de usuário/cliente</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Formatos, Enlaces e Totais</LoptFrmLnkTtl>
+    <LttlVarsNote>Nesta seção, poderá observar todas as variáveis criadas para este relatório e ao mesmo tempo poderá mudar a ordem em que serão vistas.</LttlVarsNote>
+    <LtxtFormat>Formato</LtxtFormat>
+    <LtxtConfDelVar>Você tem certeza que deseja excluir a variável {0}?</LtxtConfDelVar>
+    <LttlAddVar>Adicionar Variável</LttlAddVar>
+    <LttlEditVar>Editar a Variável</LttlEditVar>
+    <LttlVarNote>Nesta seção, poderá adicionar/editar as variáveis que vai requerer este relatório para sua execução.</LttlVarNote>
+    <LtxtShowInRep>Mostrar no relatório</LtxtShowInRep>
+    <LtxtMaxChar>Máximo caracteres</LtxtMaxChar>
+    <LtxtFixVals>Valores fixos</LtxtFixVals>
+    <LtxtValText>Valor, Texto</LtxtValText>
+    <LtxtText>Texto</LtxtText>
+    <LtxtNumWhole>Numérico inteiro</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Lista</LtxtList>
+    <LttlFrmLnkTtlNote>Nesta seção, poderá configurar os totais, formatos e enlaces das colunas que aparecerão no relatório.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Total </LtxtTotal>
+    <LtxtLink>Vínculo</LtxtLink>
+    <LtxtSumCol>Col. Somada</LtxtSumCol>
+    <LtxtShortDate>Data curta</LtxtShortDate>
+    <LtxtLongDate>Data comprida</LtxtLongDate>
+    <LtxtHourAMPM>Hora (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Hora (24 Horas)</LtxtHour24>
+    <LtxtDecimals>Decimais</LtxtDecimals>
+    <LtxtQtyInUn>Quantidade em unidade (Compra)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Quantidade em unidade (Venda)</LtxtQtyOutUn>
+    <LtxtInvisible>Invisível</LtxtInvisible>
+    <LtxtDown>Abaixo</LtxtDown>
+    <LtxtUp>Acima</LtxtUp>
+    <LtxtBoth>Ambos</LtxtBoth>
+    <LttlColorNote>Nesta seção, poderá observar todos os formatos personalizados criados para este relatório e ao mesmo tempo poderá mudar a ordem em que serão aplicadas.</LttlColorNote>
+    <LtxtAlias>Apelido</LtxtAlias>
+    <LtxtColumn>Coluna</LtxtColumn>
+    <LtxtOperation>Operação</LtxtOperation>
+    <LtxtAlternative>Alternativo</LtxtAlternative>
+    <LtxtAlterOf>Alternativo de</LtxtAlterOf>
+    <LtxtAddColorNote>Nesta seção, poderá implementar diferentes condições para atribuir um formato personalizado de letra e de cor à coluna, fila ou campo desejado.</LtxtAddColorNote>
+    <LtxtConf>Configuração</LtxtConf>
+    <LtxtApplyTo>Aplica a</LtxtApplyTo>
+    <LtxtRow>Fila</LtxtRow>
+    <LtxtOther>Outro</LtxtOther>
+    <LtxtEqualTo>Igual a </LtxtEqualTo>
+    <LtxtNotEqual>Não igual a </LtxtNotEqual>
+    <LtxtMoreThen>Maior que</LtxtMoreThen>
+    <LtxtLessThen>Menor que</LtxtLessThen>
+    <LtxtMoreOrEq>Maior ou igual</LtxtMoreOrEq>
+    <LtxtLessOrEq>Menor ou igual</LtxtLessOrEq>
+    <LtxtNull>Nulo</LtxtNull>
+    <LtxtNotNull>Não nulo</LtxtNotNull>
+    <LtxtFont>Fonte</LtxtFont>
+    <LtxtForeColor>Cor-Fonte</LtxtForeColor>
+    <LtxtBackColor>Cor-Fundo</LtxtBackColor>
+    <LtxtBold>Negrita</LtxtBold>
+    <LtxtItalic>Grifa</LtxtItalic>
+    <LtxtUnderline>Sublinhado</LtxtUnderline>
+    <LtxtScratched>Cancelado</LtxtScratched>
+    <LtxtBlink>Pisque</LtxtBlink>
+    <LtxtValRepNam>Deve inserir o nome do relatório</LtxtValRepNam>
+    <LtxtValRepQry>Deve inserir a consulta do relatório</LtxtValRepQry>
+    <LtxtValRepQryVal>Deve verificar a consulta antes de atualizar o relatório</LtxtValRepQryVal>
+    <LtxtValLineNoData>Não existem valores na linha #{0}</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Os valores da linha #{0} estão no formato incorreto. O formato deve ser [Valor], [Descrição].</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Não pode ter um total para coluna com formato</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Não pode ter formato "Quantidade em Unidade (Venda)" sem ter uma coluna da quantidade em unidade (NuminSale) de tipo numérico.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Não pode ter um formato "Quantidade em Unidade (Compra)" sem ter uma coluna da quantidade em unidade (NuminBuy) de tipo numérico.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Você tem certeza que deseja excluir a cor #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Pressione "Sim" para excluir a cor e suas cores alternativas, "Não" para excluir somente esta cor.</LtxtValDelColor2>
+    <LtxtValVarNam>Deve inserir o nome da variável</LtxtValVarNam>
+    <LtxtValVariable>Deve inserir a variável</LtxtValVariable>
+    <LtxtValMaxChar>Deve inserir o valor máximo de caracteres</LtxtValMaxChar>
+    <LtxtValQryValues>Deve inserir a consulta ou valores predeterminados</LtxtValQryValues>
+    <LtxtValQryVal>Deve verificar a consulta da variável antes de ser adicionada</LtxtValQryVal>
+    <LtxtValVarVar>Deve verificar a @variável</LtxtValVarVar>
+    <LtxtValDatFormat>Este tipo só pode ser usado com o formato data</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>O formato data somente é compatível com o tipo data</LtxtValTypeDatFormat>
+    <LtxtValAlias>Deve inserir o pelido da configuração</LtxtValAlias>
+    <LtxtValOpValue>Deve inserir o valor da operação</LtxtValOpValue>
+    <LtxtValFldOp>Deve selecionar o campo da operação</LtxtValFldOp>
+    <LtxtValFldTypes>O tipo do campo {0} não é igual ao tipo do campo {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Você tem certeza que deseja excluir a cor #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Imagem</LtxtImage>
+    <LtxtSelFld>Campo de Seleção</LtxtSelFld>
+    <LtxtBaseVars>Variáveis Base</LtxtBaseVars>
+    <LtxtDefValue>Valor Predeterminado</LtxtDefValue>
+    <LtxtNone>Nenhum</LtxtNone>
+    <LtxtValDefVarDat>Deve escolher uma data predeterminada</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Deve inserir o valor predeterminado</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Deve inserir a consulta do valor predeterminado</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Deve verificar a consulta do valor predeterminado</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Não pode aplicar valor predeterminado a uma variável com variáveis base. Deseja continuar? </LtxtChkBaseVars>
+    <LtxtACodeDesc>Usuário/Código do Vendedor</LtxtACodeDesc>
+    <LtxtPredefined>Predefinidos</LtxtPredefined>
+    <LtxtIsLinkCol>Coluna utilizada como variável de vínculo</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Coluna utilizada como valor de cor</LtxtIsColorColumn>
+    <LtxtLinkedReports>Relatórios Vinculados</LtxtLinkedReports>
+    <LtxtNoBR>Não permitir quebrar linhas</LtxtNoBR>
+    <LtxtConfRestore>Ao restaurar você perderá todas as alterações realizadas. 
+Deseja continuar?</LtxtConfRestore>
+    <LtxtChkList>Lista de CheckBox</LtxtChkList>
+    <LtxtEnterQryValSec>Você deve definir a consulta de relatório antes de entrar nesta seção</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtEnable>Habilité</DtxtEnable>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtCustomized>Personnalisé</DtxtCustomized>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtAlignment>Alignement</DtxtAlignment>
+    <DtxtLeft>Gauche</DtxtLeft>
+    <DtxtRight>Droite</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtNotNull>Obligatoire</DtxtNotNull>
+    <DtxtSize>Grosse</DtxtSize>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtNumeric>Numérique</DtxtNumeric>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtBy>Selon</DtxtBy>
+    <DtxtColor>Couleur</DtxtColor>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtRate>Taux</DtxtRate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtPercentage>Pourcentage</DtxtPercentage>
+    <DtxtMeasure>Mesure</DtxtMeasure>
+    <DtxtAverage>Moyenne</DtxtAverage>
+    <DtxtCount>Compter</DtxtCount>
+    <DtxtMaximum>Maximum</DtxtMaximum>
+    <DtxtMinimum>Minime</DtxtMinimum>
+    <DtxtSum>Addition</DtxtSum>
+    <DtxtExample>Example</DtxtExample>
+    <DtxtLine>Ligne</DtxtLine>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtHour>Heure</DtxtHour>
+    <DtxtTop>Arrêt</DtxtTop>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minutes</DtxtMinutes>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtImport2>Montant, Valeur</DtxtImport2>
+    <DtxtSaveAs>&lt;--&gt;</DtxtSaveAs>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Édition des reports</LttlEditRep>
+    <LttlEditRepNote>Dans cette section vous pourrez réaliser tous les échanges que vous avez décidé au report sélectionné</LttlEditRepNote>
+    <LtxtTime>Temps de Rafraîchissement</LtxtTime>
+    <LtxtLinkOnly>Lien seulement</LtxtLinkOnly>
+    <LtxtCCodeDesc>Code d'utilisateur / Client</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Formats, Liens et Totaux</LoptFrmLnkTtl>
+    <LttlVarsNote>Dans cette section vous pourrez observer tous les variables crées pour ce report et au même temps pourrez-vous échanger l'ordre dans lesquels seront visibles.</LttlVarsNote>
+    <LtxtFormat>Format</LtxtFormat>
+    <LtxtConfDelVar>Êtes-vous sûre d\'éliminer la variable{0}?</LtxtConfDelVar>
+    <LttlAddVar>Ajouter variable</LttlAddVar>
+    <LttlEditVar>Éditer la variable</LttlEditVar>
+    <LttlVarNote>Dans cette section vous pourrez ajouter/éditer les variables que ce report a-t-il besoin pour s'exécuter.</LttlVarNote>
+    <LtxtShowInRep>Montrer dans le report</LtxtShowInRep>
+    <LtxtMaxChar>Caractères maximum</LtxtMaxChar>
+    <LtxtFixVals>Valeurs fixées</LtxtFixVals>
+    <LtxtValText>Valeur, Texte</LtxtValText>
+    <LtxtText>Texte</LtxtText>
+    <LtxtNumWhole>Numérique entier</LtxtNumWhole>
+    <LtxtCmb>ComboBoîte</LtxtCmb>
+    <LtxtList>Liste</LtxtList>
+    <LttlFrmLnkTtlNote>Dans cette section vous pourrez configurer les totaux, formats et liens des colonnes qui sont dans le report</LttlFrmLnkTtlNote>
+    <LtxtTotal>Total</LtxtTotal>
+    <LtxtLink>Lien</LtxtLink>
+    <LtxtSumCol>Colonne additionnée</LtxtSumCol>
+    <LtxtShortDate>Date réduite</LtxtShortDate>
+    <LtxtLongDate>Date longue</LtxtLongDate>
+    <LtxtHourAMPM>Heure (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Heure (24 Heures)</LtxtHour24>
+    <LtxtDecimals>Décimaux</LtxtDecimals>
+    <LtxtQtyInUn>Quantité d'unité (Achat)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Quantité d'unité (Vente)</LtxtQtyOutUn>
+    <LtxtInvisible>Invisible</LtxtInvisible>
+    <LtxtDown>Dessous</LtxtDown>
+    <LtxtUp>En haut</LtxtUp>
+    <LtxtBoth>Tous deux</LtxtBoth>
+    <LttlColorNote>Dans cette section vous pourrez observer tous les formats personnalisés crées pour ce report et au même temps pourrez-vous échanger l'ordre dans lesquels seront applicables.</LttlColorNote>
+    <LtxtAlias>Autrement dit</LtxtAlias>
+    <LtxtColumn>Colonne</LtxtColumn>
+    <LtxtOperation>Operation</LtxtOperation>
+    <LtxtAlternative>Alternatif</LtxtAlternative>
+    <LtxtAlterOf>Alternatif de</LtxtAlterOf>
+    <LtxtAddColorNote>Dans cette section vous pourrez établir divers conditions pour assigner un format personnalisé de la lettre et la couleur à la colonne, file ou domaine déciré.</LtxtAddColorNote>
+    <LtxtConf>Configuration</LtxtConf>
+    <LtxtApplyTo>Applique à</LtxtApplyTo>
+    <LtxtRow>File</LtxtRow>
+    <LtxtOther>Autre</LtxtOther>
+    <LtxtEqualTo>Égal à</LtxtEqualTo>
+    <LtxtNotEqual>Ne pas égal à</LtxtNotEqual>
+    <LtxtMoreThen>Plus grand que</LtxtMoreThen>
+    <LtxtLessThen>Moindre que</LtxtLessThen>
+    <LtxtMoreOrEq>Plus grand ou égal </LtxtMoreOrEq>
+    <LtxtLessOrEq>Moindre ou égal</LtxtLessOrEq>
+    <LtxtNull>Nul</LtxtNull>
+    <LtxtNotNull>Ne pas nul</LtxtNotNull>
+    <LtxtFont>Source</LtxtFont>
+    <LtxtForeColor>Couleur - Source</LtxtForeColor>
+    <LtxtBackColor>Couleur - Profondeur</LtxtBackColor>
+    <LtxtBold>caractère gras</LtxtBold>
+    <LtxtItalic>Cursive</LtxtItalic>
+    <LtxtUnderline>Souligné</LtxtUnderline>
+    <LtxtScratched>Rayé</LtxtScratched>
+    <LtxtBlink>Clignement</LtxtBlink>
+    <LtxtValRepNam>Devez-vous insérer le nom du report</LtxtValRepNam>
+    <LtxtValRepQry>Devez-vous insérer la consultation du report</LtxtValRepQry>
+    <LtxtValRepQryVal>Devez-vous vérifier la consultation avant de mise à jour le report</LtxtValRepQryVal>
+    <LtxtValLineNoData>Il n\'y a pas des valeurs dans la ligne #{0}</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Les valeurs dans la ligne #{0} sont dans un format incorrect.\nLe format doit-être [Valeur], [Description]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>On ne peut pas avoir un total pour colonne avec format</LtxtValNoFormat>
+    <LtxtValNoNumInSale>On ne peut pas avoir le format "Quantité en Unité (Vente)" sans avoir une colonne de quantité en Unité (NumInSale) du genre numérique.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>On ne peut pas avoir le format "Quantité en Unité (Achat)" sans avoir une colonne de quantité en Unité (NumInBuy) du genre numérique.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Êtes-vous sûre d\'éliminer la couleur # {0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Cliquer "Oui" pour éliminer la couleur et ses couleurs alternatives, "Non" pour éliminer que cette couleur seulement.</LtxtValDelColor2>
+    <LtxtValVarNam>Devez-vous insérer le nom de la variable</LtxtValVarNam>
+    <LtxtValVariable>Devez-vous insérer la variable</LtxtValVariable>
+    <LtxtValMaxChar>Devez-vous insérer la valeur maximale des caractères</LtxtValMaxChar>
+    <LtxtValQryValues>Devez-vous insérer la consultation ou les valeurs prédéterminée</LtxtValQryValues>
+    <LtxtValQryVal>Devez-vous vérifier la consultation de la variable avant de l\'ajouter</LtxtValQryVal>
+    <LtxtValVarVar>Devez-vous vérifier la variable @</LtxtValVarVar>
+    <LtxtValDatFormat>Ce genre peut-être utiliser que dans le format date</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Le format de la date seulement est compatible avec le genre date</LtxtValTypeDatFormat>
+    <LtxtValAlias>Devez -vous insérer le surnom de la configuration</LtxtValAlias>
+    <LtxtValOpValue>Devez-vous insérer la valeur de l\'operation</LtxtValOpValue>
+    <LtxtValFldOp>Devez-vous sélectionner le domaine de la operation</LtxtValFldOp>
+    <LtxtValFldTypes>Le genre du domaine {0} doit être égal au domaine {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Êtes-vous sûre d\'éliminer la couleur # {0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Image</LtxtImage>
+    <LtxtSelFld>Domaine de la sélection</LtxtSelFld>
+    <LtxtBaseVars>Variables Base</LtxtBaseVars>
+    <LtxtDefValue>Valeur prédéterminée</LtxtDefValue>
+    <LtxtNone>Aucun (Personne)</LtxtNone>
+    <LtxtValDefVarDat>Devez-vous choisir une date prédéterminée</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Devez-vous insérer la valeur prédéterminée</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Devez-vous insérer la consultation de la valeur prédéterminée</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Devez-vous vérifier la consultation de la valeur prédéterminée</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>On ne peut pas appliquer la valeur détérminée à une variable avec variables base. Veuillez-vous continuer?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Utilisateur / Code d'agent</LtxtACodeDesc>
+    <LtxtPredefined>&lt;--&gt;</LtxtPredefined>
+    <LtxtIsLinkCol>&lt;--&gt;</LtxtIsLinkCol>
+    <LtxtIsColorColumn>&lt;--&gt;</LtxtIsColorColumn>
+    <LtxtLinkedReports>&lt;--&gt;</LtxtLinkedReports>
+    <LtxtNoBR>&lt;--&gt;</LtxtNoBR>
+    <LtxtConfRestore>&lt;--&gt;</LtxtConfRestore>
+    <LtxtChkList>&lt;--&gt;</LtxtChkList>
+    <LtxtEnterQryValSec>&lt;--&gt;</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtEnable>Freigegeben</DtxtEnable>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtCustomized>Kundenindividuell</DtxtCustomized>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtAlignment>Anpassung</DtxtAlignment>
+    <DtxtLeft>Links</DtxtLeft>
+    <DtxtRight>Rechts</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtNotNull>Pflicht</DtxtNotNull>
+    <DtxtSize>Größe</DtxtSize>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtNumeric>Numerisch</DtxtNumeric>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtBy>Durch</DtxtBy>
+    <DtxtColor>Farbe</DtxtColor>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtRate>Tarif</DtxtRate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtPercentage>Prozentsatz</DtxtPercentage>
+    <DtxtMeasure>Maß</DtxtMeasure>
+    <DtxtAverage>Durchschnitt</DtxtAverage>
+    <DtxtCount>Zahl</DtxtCount>
+    <DtxtMaximum>Höchstsatz</DtxtMaximum>
+    <DtxtMinimum>Mindestsatz</DtxtMinimum>
+    <DtxtSum>Summe</DtxtSum>
+    <DtxtExample>Beispiel</DtxtExample>
+    <DtxtLine>Zeile</DtxtLine>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtHour>Stunde</DtxtHour>
+    <DtxtTop>Oben</DtxtTop>
+    <DtxtMinute>Minute</DtxtMinute>
+    <DtxtMinutes>Minuten</DtxtMinutes>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtImport2>Importieren</DtxtImport2>
+    <DtxtSaveAs>Speichern Unter</DtxtSaveAs>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Berichte bearbeiten</LttlEditRep>
+    <LttlEditRepNote>In diesem Bereich kann man Änderungen an einem ausgewählten Bericht durchführen.</LttlEditRepNote>
+    <LtxtTime>Aktualisierungszeit</LtxtTime>
+    <LtxtLinkOnly>Nur Verknüpfung</LtxtLinkOnly>
+    <LtxtCCodeDesc>Benutzer/Kundenkennzeichen</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Format, Verknüpfungen und Gesamtwerte</LoptFrmLnkTtl>
+    <LttlVarsNote>In diesem Bereich kann man alle Variablen des Berichts ansehen, und ihre Reihenfolge ändern.</LttlVarsNote>
+    <LtxtFormat>Format</LtxtFormat>
+    <LtxtConfDelVar>Möchten Sie die Variable {0} wirklich löschen?</LtxtConfDelVar>
+    <LttlAddVar>Variable hinzufügen</LttlAddVar>
+    <LttlEditVar>Variablen bearbeiten</LttlEditVar>
+    <LttlVarNote>In diesem Bereich kann man Variablen hinzufügen/bearbeiten, welche für die Ausführung des Berichts benötigt werden.</LttlVarNote>
+    <LtxtShowInRep>Im Bericht anzeigen</LtxtShowInRep>
+    <LtxtMaxChar>Höchstwert an Zeichen</LtxtMaxChar>
+    <LtxtFixVals>Festwert</LtxtFixVals>
+    <LtxtValText>Wert, Text</LtxtValText>
+    <LtxtText>Text</LtxtText>
+    <LtxtNumWhole>Ganze Zahl</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Liste</LtxtList>
+    <LttlFrmLnkTtlNote>In diesem Bereich kann man die Gesamtwerte, Formate, und Verknüpfungen, für die Spalten des Berichts, festlegen.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Gesamtwert</LtxtTotal>
+    <LtxtLink>Verknüpfung</LtxtLink>
+    <LtxtSumCol>Zunehmende Spalte</LtxtSumCol>
+    <LtxtShortDate>Kurzfristig</LtxtShortDate>
+    <LtxtLongDate>Langes Datum</LtxtLongDate>
+    <LtxtHourAMPM>Stunde (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Stunde (24 Stunden)</LtxtHour24>
+    <LtxtDecimals>Dezimalzahlen</LtxtDecimals>
+    <LtxtQtyInUn>Menge der Einheit (Ankauf)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Menge der Einheit (Verkauf)</LtxtQtyOutUn>
+    <LtxtInvisible>Unsichtbar</LtxtInvisible>
+    <LtxtDown>Nach unten</LtxtDown>
+    <LtxtUp>Nach oben</LtxtUp>
+    <LtxtBoth>Beide</LtxtBoth>
+    <LttlColorNote>In diesem Bereich kann man die individualisierten Formate des Berichts einsehen, und ändern in welcher Reihenfolge sie angewendet werden.</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Spalte</LtxtColumn>
+    <LtxtOperation>Arbeitsvorgang</LtxtOperation>
+    <LtxtAlternative>Ersatz</LtxtAlternative>
+    <LtxtAlterOf>Ersatz für</LtxtAlterOf>
+    <LtxtAddColorNote>In diesem Bereich kann man die Schriftart und Farbe der Spalten, Reihen, und Felder getsalten.</LtxtAddColorNote>
+    <LtxtConf>Konfiguration</LtxtConf>
+    <LtxtApplyTo>Anwenden an</LtxtApplyTo>
+    <LtxtRow>Reihe</LtxtRow>
+    <LtxtOther>Andere</LtxtOther>
+    <LtxtEqualTo>Gleich</LtxtEqualTo>
+    <LtxtNotEqual>Nicht gleich</LtxtNotEqual>
+    <LtxtMoreThen>Größer als</LtxtMoreThen>
+    <LtxtLessThen>Kleiner als</LtxtLessThen>
+    <LtxtMoreOrEq>Größer als oder gleich</LtxtMoreOrEq>
+    <LtxtLessOrEq>Kleiner als oder gleich</LtxtLessOrEq>
+    <LtxtNull>Nullstelle</LtxtNull>
+    <LtxtNotNull>Keine Nullstelle</LtxtNotNull>
+    <LtxtFont>Schriftart</LtxtFont>
+    <LtxtForeColor>Schriftfarbe</LtxtForeColor>
+    <LtxtBackColor>Hintergrundfarbe</LtxtBackColor>
+    <LtxtBold>Fett</LtxtBold>
+    <LtxtItalic>Schreibschrift</LtxtItalic>
+    <LtxtUnderline>Unterstreichen</LtxtUnderline>
+    <LtxtScratched>Gestrichen</LtxtScratched>
+    <LtxtBlink>Blinkend</LtxtBlink>
+    <LtxtValRepNam>Bitte geben Sie den Berichtsnamen an</LtxtValRepNam>
+    <LtxtValRepQry>Bitte geben Sie die Berichtsanfrage ein</LtxtValRepQry>
+    <LtxtValRepQryVal>Sie müssen zuerst die Anfrage bestätigen um den Bericht zu aktualisieren</LtxtValRepQryVal>
+    <LtxtValLineNoData>Zeile #{0} hat keine Daten</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Die Werte der Zeile #{0} sind im falschen Format. Das Format ist wie folgt,  [Wert], [Beschreibung]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Sie dürfen für eine formatierte Spalte keinen Gesamtwert haben</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Sie müssen für ein Format "Menge der Einheit (Verkauf)" eine Spalte für Menge der Einheit (NumInSale) haben mit einem numerischen Typ.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Sie müssen für ein Format "Menge der Einheit (Ankauf)" eine Spalte für Menge der Einheit (NumInBuy) haben mit einem numerischen Typ.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Möchten Sie die Farbe #{0} wirklich löschen?</LtxtValDelColor1>
+    <LtxtValDelColor2>Drücken Sie "Ja" um die Farbe und ihre alternativen zu löschen. Drücken Sie "Nein" um nur diese Farbe zu löschen.</LtxtValDelColor2>
+    <LtxtValVarNam>Bitte geben Sie den Namen der Variable an</LtxtValVarNam>
+    <LtxtValVariable>Bitte geben Sie die Variable an</LtxtValVariable>
+    <LtxtValMaxChar>Bitte geben Sie den Höchstwert der Zeichen ein</LtxtValMaxChar>
+    <LtxtValQryValues>Bitte geben Sie die Anfrage oder die vordefinierten Werte an</LtxtValQryValues>
+    <LtxtValQryVal>Sie müssen zuerst die Anfrage der Variable bestätigen um sie hinzuzufügen</LtxtValQryVal>
+    <LtxtValVarVar>Sie müssen die @Variable bestätigen</LtxtValVarVar>
+    <LtxtValDatFormat>Dieser Typ kann nur mit dem Datumsformat benutzt werden</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Datums-format ist nur mit dem Datums-typ kompatibel</LtxtValTypeDatFormat>
+    <LtxtValAlias>Bitte geben Sie den Konfigurations-Alias ein</LtxtValAlias>
+    <LtxtValOpValue>Bitte geben Sie den Arbeitsvorgangswert ein</LtxtValOpValue>
+    <LtxtValFldOp>Bitte wählen Sie das Arbeitsvorgangs-Feld</LtxtValFldOp>
+    <LtxtValFldTypes>Der Typ von Feld {0} muss Feld {1} gleich sein</LtxtValFldTypes>
+    <LtxtConfDelColor>Möchten Sie die Farbe #{0}-{1} wirklich löschen?</LtxtConfDelColor>
+    <LtxtImage>Bild</LtxtImage>
+    <LtxtSelFld>Auswahlfeld</LtxtSelFld>
+    <LtxtBaseVars>Basis Variablen</LtxtBaseVars>
+    <LtxtDefValue>Standardwert</LtxtDefValue>
+    <LtxtNone>Keine</LtxtNone>
+    <LtxtValDefVarDat>Bitte wählen Sie ein Standard-Datum</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Bitte geben Sie den Standardwert an</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Bitte geben Sie die Standardwertanfrage an</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Sie müssen die Standardwertanfrage bestätigen</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Sie dürfen keinen Standardwert für eine Variable, mit Basisvariablen, verwenden. Möchten Sie fortfahren?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Benutzer/Agentenkennzeichen</LtxtACodeDesc>
+    <LtxtPredefined>&lt;--&gt;</LtxtPredefined>
+    <LtxtIsLinkCol>&lt;--&gt;</LtxtIsLinkCol>
+    <LtxtIsColorColumn>&lt;--&gt;</LtxtIsColorColumn>
+    <LtxtLinkedReports>&lt;--&gt;</LtxtLinkedReports>
+    <LtxtNoBR>&lt;--&gt;</LtxtNoBR>
+    <LtxtConfRestore>&lt;--&gt;</LtxtConfRestore>
+    <LtxtChkList>&lt;--&gt;</LtxtChkList>
+    <LtxtEnterQryValSec>&lt;--&gt;</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtEnable>Разрешить</DtxtEnable>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtCustomized>Настройка</DtxtCustomized>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtAlignment>Выравнивание</DtxtAlignment>
+    <DtxtLeft>Левое</DtxtLeft>
+    <DtxtRight>Правый</DtxtRight>
+    <DtxtCenter>Середина</DtxtCenter>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtNotNull>Должен</DtxtNotNull>
+    <DtxtSize>Размер</DtxtSize>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtNumeric>Числовой</DtxtNumeric>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtBy>Автор</DtxtBy>
+    <DtxtColor>Цвет</DtxtColor>
+    <DtxtVariable>Переменная</DtxtVariable>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtRate>Курс</DtxtRate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtPercentage>Процент</DtxtPercentage>
+    <DtxtMeasure>Размер</DtxtMeasure>
+    <DtxtAverage>В среднем</DtxtAverage>
+    <DtxtCount>Счет</DtxtCount>
+    <DtxtMaximum>Максимум</DtxtMaximum>
+    <DtxtMinimum>Минимум</DtxtMinimum>
+    <DtxtSum>Резюмирование</DtxtSum>
+    <DtxtExample>Примеры</DtxtExample>
+    <DtxtLine>Линия</DtxtLine>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtHour>Время</DtxtHour>
+    <DtxtTop>Сверху</DtxtTop>
+    <DtxtMinute>Минута</DtxtMinute>
+    <DtxtMinutes>Минуты</DtxtMinutes>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtImport2>Импорт</DtxtImport2>
+    <DtxtSaveAs>Сохранить в имени...</DtxtSaveAs>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtPosition2>Положение</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Редактировать отчеты</LttlEditRep>
+    <LttlEditRepNote>В этом разделе можно вносить любые изменения в выбранный доклад.</LttlEditRepNote>
+    <LtxtTime>Обновить время</LtxtTime>
+    <LtxtLinkOnly>Только ссылка</LtxtLinkOnly>
+    <LtxtCCodeDesc>Пользователь / код клиента</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Формат ссылки  составляет</LoptFrmLnkTtl>
+    <LttlVarsNote>В этом разделе можно визуализировать все переменные, созданные для этого доклада, а также изменять их порядок.</LttlVarsNote>
+    <LtxtFormat>Формат</LtxtFormat>
+    <LtxtConfDelVar>Вы уверены, что хотите удалить переменную  {0}?</LtxtConfDelVar>
+    <LttlAddVar>Добавить переменные</LttlAddVar>
+    <LttlEditVar>Изменить переменную</LttlEditVar>
+    <LttlVarNote>В этом разделе можно добавлять / редактировать переменные, что этот доклад требует для своего исполнения</LttlVarNote>
+    <LtxtShowInRep>Показать в докладе</LtxtShowInRep>
+    <LtxtMaxChar>Максимальное количество символов</LtxtMaxChar>
+    <LtxtFixVals>Фиксированными значениями</LtxtFixVals>
+    <LtxtValText>Значение текста</LtxtValText>
+    <LtxtText>Текст</LtxtText>
+    <LtxtNumWhole>Целое число</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Список</LtxtList>
+    <LttlFrmLnkTtlNote>В этом разделе можно настроить итоговые данные, формат и размещение ссылок на столбцы, которые будут опубликованы в докладе</LttlFrmLnkTtlNote>
+    <LtxtTotal>Всего</LtxtTotal>
+    <LtxtLink>Ссылка</LtxtLink>
+    <LtxtSumCol>Краткая колонка</LtxtSumCol>
+    <LtxtShortDate>Кратко дата</LtxtShortDate>
+    <LtxtLongDate>Длинная дата</LtxtLongDate>
+    <LtxtHourAMPM>Час (AM / PM)</LtxtHourAMPM>
+    <LtxtHour24>Час (24 часа)</LtxtHour24>
+    <LtxtDecimals>Десятичные</LtxtDecimals>
+    <LtxtQtyInUn>Кол-во в группе (покупки)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Кол-во в группе (в продаже)</LtxtQtyOutUn>
+    <LtxtInvisible>Невидимый</LtxtInvisible>
+    <LtxtDown>Вниз</LtxtDown>
+    <LtxtUp>Вверх</LtxtUp>
+    <LtxtBoth>И тот и другой</LtxtBoth>
+    <LttlColorNote>В этом разделе можно наблюдать настроенные форматы созданые для этого доклада, а также изменить порядок, в котором он будет применяться.</LttlColorNote>
+    <LtxtAlias>Псевдоним</LtxtAlias>
+    <LtxtColumn>Колонка</LtxtColumn>
+    <LtxtOperation>Операция</LtxtOperation>
+    <LtxtAlternative>Альтернативный</LtxtAlternative>
+    <LtxtAlterOf>Альтернативный из</LtxtAlterOf>
+    <LtxtAddColorNote>В этом разделе можно настроить шрифт и цвет на желаемый столбец, строку или поле.</LtxtAddColorNote>
+    <LtxtConf>Конфигурация</LtxtConf>
+    <LtxtApplyTo>Применить к</LtxtApplyTo>
+    <LtxtRow>Ряд</LtxtRow>
+    <LtxtOther>Другой</LtxtOther>
+    <LtxtEqualTo>Равный</LtxtEqualTo>
+    <LtxtNotEqual>Не равно</LtxtNotEqual>
+    <LtxtMoreThen>Больше</LtxtMoreThen>
+    <LtxtLessThen>Менее</LtxtLessThen>
+    <LtxtMoreOrEq>Больше или равно</LtxtMoreOrEq>
+    <LtxtLessOrEq>Меньше или равны</LtxtLessOrEq>
+    <LtxtNull>Null</LtxtNull>
+    <LtxtNotNull>Not null</LtxtNotNull>
+    <LtxtFont>Шрифты</LtxtFont>
+    <LtxtForeColor>Цвет шрифта</LtxtForeColor>
+    <LtxtBackColor>Цвет фона</LtxtBackColor>
+    <LtxtBold>Жирный</LtxtBold>
+    <LtxtItalic>Курсив</LtxtItalic>
+    <LtxtUnderline>Подчеркнутый</LtxtUnderline>
+    <LtxtScratched>Царапины</LtxtScratched>
+    <LtxtBlink>Мигание</LtxtBlink>
+    <LtxtValRepNam>Пожалуйста, введите название отчета</LtxtValRepNam>
+    <LtxtValRepQry>Пожалуйста, введите запрос отчета</LtxtValRepQry>
+    <LtxtValRepQryVal>Вы должны подтвердить запрос прежде чем вы сможете обновить доклад</LtxtValRepQryVal>
+    <LtxtValLineNoData>Линия #{0} не имеет данных</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Значениями в строке #{0} находятся в неправильном формате.\nФормат должен по [Соотношение], [Описание]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Вы не можете иметь общее для столбца с форматом</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Вы не можете иметь формат "Кол-во в группу (в продаже)" без колонки в количестве единиц (NumInSale) типа числовых.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Вы не можете иметь формат "Кол-во в группы (покупки)" без колонки в количестве единиц (NumInBuy) типа числовых.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Вы уверены, что хотите удалить цвета #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Нажмите "Да", чтобы удалить цвет и его заместители, "нет" только на этот цвет .</LtxtValDelColor2>
+    <LtxtValVarNam>Пожалуйста, введите имя переменной</LtxtValVarNam>
+    <LtxtValVariable>Пожалуйста, введите переменную</LtxtValVariable>
+    <LtxtValMaxChar>Пожалуйста, введите максимальные символы</LtxtValMaxChar>
+    <LtxtValQryValues>Пожалуйста, введите запрос или предопределенные значения</LtxtValQryValues>
+    <LtxtValQryVal>Вы должны подтвердить запрос переменной перед  тем ,как ее добавить</LtxtValQryVal>
+    <LtxtValVarVar>Вы должны проверить переменную @</LtxtValVarVar>
+    <LtxtValDatFormat>Этот тип может быть использована только с указанием даты, формата</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Дата формат совместим только с указанием типа даты</LtxtValTypeDatFormat>
+    <LtxtValAlias>Пожалуйста, введите псевдоним конфигурации</LtxtValAlias>
+    <LtxtValOpValue>Пожалуйста, введите операции значения</LtxtValOpValue>
+    <LtxtValFldOp>Пожалуйста, выберите операцию области</LtxtValFldOp>
+    <LtxtValFldTypes>Тип поля {0} должн быть равен поле {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Вы уверены, что хотите удалить цвета  #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Имидж</LtxtImage>
+    <LtxtSelFld>Выбор полевых</LtxtSelFld>
+    <LtxtBaseVars>Переменные базы </LtxtBaseVars>
+    <LtxtDefValue>Значение по умолчанию</LtxtDefValue>
+    <LtxtNone>Никакой</LtxtNone>
+    <LtxtValDefVarDat>Пожалуйста, выберите дату по умолчанию</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Пожалуйста, введите значения по умолчанию</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Пожалуйста, введите значения запроса по умолчанию </LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Вы должны проверить значение запрос по  умолчанию </LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Вы не можете применить значение по умолчанию переменной с базой переменных.\nВы хотите продолжить?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Пользователь /код  агента</LtxtACodeDesc>
+    <LtxtPredefined>Предопределенные</LtxtPredefined>
+    <LtxtIsLinkCol>Колонка используеться в качестве ссылки переменная</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Колонка используеться как значения цвета</LtxtIsColorColumn>
+    <LtxtLinkedReports>Связанные отчеты</LtxtLinkedReports>
+    <LtxtNoBR> Линия без перерыва</LtxtNoBR>
+    <LtxtConfRestore>Восстанавливая, все изменения будут потеряны. Вы хотите продолжить?</LtxtConfRestore>
+    <LtxtChkList>Проверить окно списка</LtxtChkList>
+    <LtxtEnterQryValSec>Вы должны установить запрос отчета прежде чем вы сможете открыть этот раздел</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtEnable>Aktivováno</DtxtEnable>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCustomized>Přizpůsobené</DtxtCustomized>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtAlignment>Zarovnání</DtxtAlignment>
+    <DtxtLeft>Vlevo</DtxtLeft>
+    <DtxtRight>Vpravo</DtxtRight>
+    <DtxtCenter>Středisko</DtxtCenter>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtSize>Velikost</DtxtSize>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselné</DtxtNumeric>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtBy>Kým</DtxtBy>
+    <DtxtColor>Barva</DtxtColor>
+    <DtxtVariable>Proměnná</DtxtVariable>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtRate>Sazba</DtxtRate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtPercentage>Procentní podíl</DtxtPercentage>
+    <DtxtMeasure>Opatření</DtxtMeasure>
+    <DtxtAverage>Průměr</DtxtAverage>
+    <DtxtCount>Spočítat</DtxtCount>
+    <DtxtMaximum>Maximum</DtxtMaximum>
+    <DtxtMinimum>Minimum</DtxtMinimum>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtExample>Příklad</DtxtExample>
+    <DtxtLine>Řádka</DtxtLine>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtHour>Hodin</DtxtHour>
+    <DtxtTop>Nahoru</DtxtTop>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtImport2>Importovat</DtxtImport2>
+    <DtxtSaveAs>Uložit jako...</DtxtSaveAs>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtPosition2>Pozice</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Upravit reporty</LttlEditRep>
+    <LttlEditRepNote>V této sekci je možné provést jakékoliv změny do vybraného reportu.</LttlEditRepNote>
+    <LtxtTime>Doba obnovení</LtxtTime>
+    <LtxtLinkOnly>Pouze odkaz</LtxtLinkOnly>
+    <LtxtCCodeDesc>Kód uživatele/klienta</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Formát, odkazy a součty</LoptFrmLnkTtl>
+    <LttlVarsNote>V této sekci se je možné zobrazit všechny proměnné vytvořené pro tento report a změnit jejich pořadí.</LttlVarsNote>
+    <LtxtFormat>Formát</LtxtFormat>
+    <LtxtConfDelVar>Jste si jistý/á, že chcete vymazat proměnnou {0}?</LtxtConfDelVar>
+    <LttlAddVar>Přidat proměnnou</LttlAddVar>
+    <LttlEditVar>Upravit proměnnou</LttlEditVar>
+    <LttlVarNote>V této sekci je možné přidat/upravit proměnné, které tento report vyžaduje pro spuštění.</LttlVarNote>
+    <LtxtShowInRep>Zobrazit v reportu</LtxtShowInRep>
+    <LtxtMaxChar>Maximální počet znaků</LtxtMaxChar>
+    <LtxtFixVals>Pevné hodnoty</LtxtFixVals>
+    <LtxtValText>Hodnota, text</LtxtValText>
+    <LtxtText>Text</LtxtText>
+    <LtxtNumWhole>Celé číslo</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Seznam</LtxtList>
+    <LttlFrmLnkTtlNote>V této sekci je možné nastavit součty, formáty a odkazy sloupců, které se objeví v reportu.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Celkem</LtxtTotal>
+    <LtxtLink>Odkaz</LtxtLink>
+    <LtxtSumCol>Inkrementovaný sl.</LtxtSumCol>
+    <LtxtShortDate>Short Date</LtxtShortDate>
+    <LtxtLongDate>Long Date</LtxtLongDate>
+    <LtxtHourAMPM>Hodina (AM/PM)</LtxtHourAMPM>
+    <LtxtHour24>Hodina (24 hodin)</LtxtHour24>
+    <LtxtDecimals>Desetinná čísla</LtxtDecimals>
+    <LtxtQtyInUn>Množství jednotek (nákup)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Množství jednotek (prodej)</LtxtQtyOutUn>
+    <LtxtInvisible>Neviditelný</LtxtInvisible>
+    <LtxtDown>Dolů</LtxtDown>
+    <LtxtUp>Nahoru</LtxtUp>
+    <LtxtBoth>Obojí</LtxtBoth>
+    <LttlColorNote>V této sekci je možné sledovat přizpůsobené formáty vytvořené pro tento report, a měnit pořadí, ve kterém budou použity.</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Sloupec</LtxtColumn>
+    <LtxtOperation>Operace</LtxtOperation>
+    <LtxtAlternative>Alternativní</LtxtAlternative>
+    <LtxtAlterOf>Alternativní k</LtxtAlterOf>
+    <LtxtAddColorNote>V této sekci je možné nastavit typ a barvu písma v požadovaném sloupci, řádce nebo poli.</LtxtAddColorNote>
+    <LtxtConf>Nastavení</LtxtConf>
+    <LtxtApplyTo>Použít na</LtxtApplyTo>
+    <LtxtRow>Řádka</LtxtRow>
+    <LtxtOther>Jiné</LtxtOther>
+    <LtxtEqualTo>Rovná se</LtxtEqualTo>
+    <LtxtNotEqual>Nerovná se</LtxtNotEqual>
+    <LtxtMoreThen>Větší než</LtxtMoreThen>
+    <LtxtLessThen>Menší než</LtxtLessThen>
+    <LtxtMoreOrEq>Větší než nebo rovno</LtxtMoreOrEq>
+    <LtxtLessOrEq>Menší než nebo rovno</LtxtLessOrEq>
+    <LtxtNull>Null</LtxtNull>
+    <LtxtNotNull>Není null</LtxtNotNull>
+    <LtxtFont>Písmo</LtxtFont>
+    <LtxtForeColor>Barva písma</LtxtForeColor>
+    <LtxtBackColor>Barva pozadí</LtxtBackColor>
+    <LtxtBold>Tučně</LtxtBold>
+    <LtxtItalic>Kurzíva</LtxtItalic>
+    <LtxtUnderline>Podtržený</LtxtUnderline>
+    <LtxtScratched>Poškrábaný</LtxtScratched>
+    <LtxtBlink>Blikající</LtxtBlink>
+    <LtxtValRepNam>Zadejte prosím název reportu </LtxtValRepNam>
+    <LtxtValRepQry>Zadejte prosím dotaz reportu</LtxtValRepQry>
+    <LtxtValRepQryVal>Abyste mohli aktualizovat tento report, musíte ověřit jeho dotaz</LtxtValRepQryVal>
+    <LtxtValLineNoData>Na řádce #{0} nejsou žádné údaje</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Hodnoty na řádce #{0} mají chybný formát.\nFormát musí být [Hodnota], [Popis]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Pro sloupec s formátem není možné definovat součet</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Formát pole "Množství jednotek (prodej)" není možný bez nastavení sloupce Množství jednotek (NumInSale) na numerický typ.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Formát pole "Množství jednotek (nákup)" není možný bez nastavení sloupce Množství jednotek (NumInBuy) na numerický typ.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Jste si jistý/á, že chcete vymazat barvu {0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Stiskněte "Ano" pro vymazání barev a jejich zástupců, "Ne" pouze pro tuto barvu</LtxtValDelColor2>
+    <LtxtValVarNam>Zadejte prosím název proměnné</LtxtValVarNam>
+    <LtxtValVariable>Zadejte prosím proměnnou</LtxtValVariable>
+    <LtxtValMaxChar>Vložte prosím maximální počet znaků</LtxtValMaxChar>
+    <LtxtValQryValues>Zadejte prosím dotaz nebo předdefinované hodnoty</LtxtValQryValues>
+    <LtxtValQryVal>Abyste mohli přidat proměnnou, musíte ověřit dotaz na ni</LtxtValQryVal>
+    <LtxtValVarVar>Musíte ověřit @proměnnou</LtxtValVarVar>
+    <LtxtValDatFormat>Tento typ je možné použít pouze s formátem data</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Formát data je kompatibilní pouze s typem datum</LtxtValTypeDatFormat>
+    <LtxtValAlias>Zadejte prosím konfigurační alias</LtxtValAlias>
+    <LtxtValOpValue>Zadejte prosím hodnotu operace</LtxtValOpValue>
+    <LtxtValFldOp>Vyberte pole operace</LtxtValFldOp>
+    <LtxtValFldTypes>Typ pole {0} musí být shodný s polem {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Jste si jistý/á, že chcete vymazat barvu #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Obrázek</LtxtImage>
+    <LtxtSelFld>Výběrové pole</LtxtSelFld>
+    <LtxtBaseVars>Základní proměnné</LtxtBaseVars>
+    <LtxtDefValue>Výchozí hodnota</LtxtDefValue>
+    <LtxtNone>Žádné</LtxtNone>
+    <LtxtValDefVarDat>Vyberte výchozí hodnotu </LtxtValDefVarDat>
+    <LtxtValDefVarVal>Zadejte prosím výchozí hodnotu</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Zadejte prosím dotaz na výchozí hodnotu</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Musíte ověřit dotaz na výchozí hodnotu</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Výchozí hodnotu nemůžete použít na proměnnou se základními proměnnými. Určitě chcete pokračovat?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Kód uživatele/agenta</LtxtACodeDesc>
+    <LtxtPredefined>Předdefinované</LtxtPredefined>
+    <LtxtIsLinkCol>Sloupec použitý jako navázaná proměnná</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Sloupec použitý jako barevná hodnota</LtxtIsColorColumn>
+    <LtxtLinkedReports>Navázané reporty</LtxtLinkedReports>
+    <LtxtNoBR>Bez zalomení řádek</LtxtNoBR>
+    <LtxtConfRestore>Při obnovením budou všechny změny ztraceny. Určitě chcete pokračovat?</LtxtConfRestore>
+    <LtxtChkList>Zaškrtávací políčko</LtxtChkList>
+    <LtxtEnterQryValSec>Než budete moci vstoupit do této sekce, musíte nastavit dotaz reportu</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtEnable>Aktywny</DtxtEnable>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCustomized>Wykonane na zamówienie/zindywidualizowane</DtxtCustomized>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtAlignment>Wyrównanie</DtxtAlignment>
+    <DtxtLeft>Lewy</DtxtLeft>
+    <DtxtRight>Prawy</DtxtRight>
+    <DtxtCenter>Środek</DtxtCenter>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNotNull>Obowiązkowy</DtxtNotNull>
+    <DtxtSize>Rozmiar</DtxtSize>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtNumeric>Numeryczny</DtxtNumeric>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtBy>Przez</DtxtBy>
+    <DtxtColor>Kolor</DtxtColor>
+    <DtxtVariable>Zmienne</DtxtVariable>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtRate>Kurs</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtPercentage>Procent</DtxtPercentage>
+    <DtxtMeasure>Miara</DtxtMeasure>
+    <DtxtAverage>Średni/a</DtxtAverage>
+    <DtxtCount>Kalkulacja</DtxtCount>
+    <DtxtMaximum>Maksimum</DtxtMaximum>
+    <DtxtMinimum>Minimum</DtxtMinimum>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtExample>Przykład</DtxtExample>
+    <DtxtLine>Wiersz</DtxtLine>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtHour>Godzina</DtxtHour>
+    <DtxtTop>Do góry</DtxtTop>
+    <DtxtMinute>Minuta</DtxtMinute>
+    <DtxtMinutes>Minuty</DtxtMinutes>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtImport2>Import</DtxtImport2>
+    <DtxtSaveAs>Zapisz jako</DtxtSaveAs>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtPosition2>Położenie</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Edytuj raporty</LttlEditRep>
+    <LttlEditRepNote>Tutaj można dokonać zmian w wybranym raporcie</LttlEditRepNote>
+    <LtxtTime>Odśwież czas</LtxtTime>
+    <LtxtLinkOnly>Tylko link</LtxtLinkOnly>
+    <LtxtCCodeDesc>Kod użytkownika/klienta</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Format, Linki i Sumy</LoptFrmLnkTtl>
+    <LttlVarsNote>Tutaj można zobaczyć i zmienić porządek wszystkich zmiennych stworzonych dla raportu</LttlVarsNote>
+    <LtxtFormat>Format</LtxtFormat>
+    <LtxtConfDelVar>Jesteś pewien, że chcesz skasować zmienną {0}?</LtxtConfDelVar>
+    <LttlAddVar>Dodaj zmienne</LttlAddVar>
+    <LttlEditVar>Edytuj zmienne</LttlEditVar>
+    <LttlVarNote>Tutaj można dodawać i edytować zmienne wymagane do realizacji raportu</LttlVarNote>
+    <LtxtShowInRep>Pokaż raport</LtxtShowInRep>
+    <LtxtMaxChar>Maksimum znaków</LtxtMaxChar>
+    <LtxtFixVals>Stałe wartości</LtxtFixVals>
+    <LtxtValText>Wartość, tekst</LtxtValText>
+    <LtxtText>Tekst</LtxtText>
+    <LtxtNumWhole>Cały numer</LtxtNumWhole>
+    <LtxtCmb>ComboBox</LtxtCmb>
+    <LtxtList>Lista</LtxtList>
+    <LttlFrmLnkTtlNote>Tutaj można konfigurować sumy łączne, formaty oraz linki do kolumn raportu</LttlFrmLnkTtlNote>
+    <LtxtTotal>Razem</LtxtTotal>
+    <LtxtLink>Link</LtxtLink>
+    <LtxtSumCol>Poszerzona kolumna</LtxtSumCol>
+    <LtxtShortDate>Krótka data</LtxtShortDate>
+    <LtxtLongDate>Długa data</LtxtLongDate>
+    <LtxtHourAMPM>Godzina (przed południe/ po południu)</LtxtHourAMPM>
+    <LtxtHour24>Godzina (24 godziny)</LtxtHour24>
+    <LtxtDecimals>Miejsca po przecinku</LtxtDecimals>
+    <LtxtQtyInUn>Ilość w jednostce (zakup)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Ilość w jednostce (sprzedaż)</LtxtQtyOutUn>
+    <LtxtInvisible>Niewidoczny</LtxtInvisible>
+    <LtxtDown>Na dół</LtxtDown>
+    <LtxtUp>W górę</LtxtUp>
+    <LtxtBoth>Obydwa/ obydwie</LtxtBoth>
+    <LttlColorNote>Tutaj są wyświetlane zindywidualizowane stworzone dla raportów wraz z porządkiem w jakim będą się stosowane</LttlColorNote>
+    <LtxtAlias>Alias</LtxtAlias>
+    <LtxtColumn>Kolumna</LtxtColumn>
+    <LtxtOperation>Operacja</LtxtOperation>
+    <LtxtAlternative>Alternatywny</LtxtAlternative>
+    <LtxtAlterOf>Alternatywa do </LtxtAlterOf>
+    <LtxtAddColorNote>Tutaj można zindywidualizować font i kolumnę wybranych kolumn, wierszy czy pól</LtxtAddColorNote>
+    <LtxtConf>Konfiguracja</LtxtConf>
+    <LtxtApplyTo>Zastosuj do</LtxtApplyTo>
+    <LtxtRow>Wiersz</LtxtRow>
+    <LtxtOther>Inny/a</LtxtOther>
+    <LtxtEqualTo>Równy</LtxtEqualTo>
+    <LtxtNotEqual>Nie równy </LtxtNotEqual>
+    <LtxtMoreThen>Większy niż</LtxtMoreThen>
+    <LtxtLessThen>Mniej niż</LtxtLessThen>
+    <LtxtMoreOrEq>Większy niż lub równy</LtxtMoreOrEq>
+    <LtxtLessOrEq>Mniej niż lub tyle samo</LtxtLessOrEq>
+    <LtxtNull>Zero</LtxtNull>
+    <LtxtNotNull>Nie zero</LtxtNotNull>
+    <LtxtFont>Font</LtxtFont>
+    <LtxtForeColor>Font koloru</LtxtForeColor>
+    <LtxtBackColor>Kolor tła</LtxtBackColor>
+    <LtxtBold>Bold</LtxtBold>
+    <LtxtItalic>Kursywa</LtxtItalic>
+    <LtxtUnderline>Podkreślony</LtxtUnderline>
+    <LtxtScratched>Porysowany</LtxtScratched>
+    <LtxtBlink>Mrugający</LtxtBlink>
+    <LtxtValRepNam>Proszę wprowadzić nazwę raportu</LtxtValRepNam>
+    <LtxtValRepQry>Proszę wprowadzić zapytanie raportu</LtxtValRepQry>
+    <LtxtValRepQryVal>Musisz zweryfikować zapytanie zanim będziesz mógł zaktualizować raport</LtxtValRepQryVal>
+    <LtxtValLineNoData>Wiersz #{0} nie ma danych</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Wartości w wierszu #{0} są w złym formacie. Format musi być [wartość], [opis]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Nie można stworzyć sumy dla kolumny z formatem</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Nie może być formatu "ilość w jednostce (sprzedaż)" bez kolumny ilości w jednostce ((NumInSale) typu numerycznego</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Nie może być formatu "ilość w jednostce (zakup)" bez kolumny ilości w jednostce ((NumInBuy) typu numerycznego</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Czy jesteś pewien, że chcesz skasować kolor {0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Naciśnij "tak" aby usunąć kolor i jego alternatywy, "nie" tylko dla tego koloru</LtxtValDelColor2>
+    <LtxtValVarNam>Proszę wprowadzić nazwę zmiennej</LtxtValVarNam>
+    <LtxtValVariable>Proszę wprowadzić zmienną</LtxtValVariable>
+    <LtxtValMaxChar>Proszę wprowadzić maksimum znaków</LtxtValMaxChar>
+    <LtxtValQryValues>Proszę wprowadzić zapytanie lub wcześniej zdefiniowane wartości</LtxtValQryValues>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie dotyczące zmiennej przed jej dodaniem</LtxtValQryVal>
+    <LtxtValVarVar>Musisz zweryfikować zmienna!</LtxtValVarVar>
+    <LtxtValDatFormat>Ten typ może być tylko wykorzystany z formatem daty</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Format daty jest tylko kompatybilny z rodzajem daty</LtxtValTypeDatFormat>
+    <LtxtValAlias>Proszę wprowadź alias konfiguracji!</LtxtValAlias>
+    <LtxtValOpValue>Proszę wprowadź wartość operacyjną!</LtxtValOpValue>
+    <LtxtValFldOp>Proszę wybierz pole operacyjne!</LtxtValFldOp>
+    <LtxtValFldTypes>Rodzaj pola {0} musi być równy polu {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Czy jesteś pewien, że chcesz skasować kolor #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Zdjęcie</LtxtImage>
+    <LtxtSelFld>Pole wyboru</LtxtSelFld>
+    <LtxtBaseVars>Podstawowe zmienne</LtxtBaseVars>
+    <LtxtDefValue>Domyślna wartość</LtxtDefValue>
+    <LtxtNone>Żaden/nic</LtxtNone>
+    <LtxtValDefVarDat>Proszę wybrać datę domyślną</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Proszę wybrać domyślną wartość</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Proszę wybrać zapytanie dotyczące domyślnej wartości</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Musisz zweryfikować zapytanie dotyczące domyślnej wartości</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Nie możesz zastosować domyślnej  wartości do zmiennej z podstawowymi zmiennymi. Czy chcesz kontynuować?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Kod użytkownika/klienta</LtxtACodeDesc>
+    <LtxtPredefined>Zdefiniowany z góry</LtxtPredefined>
+    <LtxtIsLinkCol>Kolumna użyta jako zmienna linku</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Kolumna użyta jako zmienna koloru</LtxtIsColorColumn>
+    <LtxtLinkedReports>Raporty połączone</LtxtLinkedReports>
+    <LtxtNoBR>Nie łam wierszy</LtxtNoBR>
+    <LtxtConfRestore>Przywracając utracisz wszystkie dokonane zmiany. Czy chcesz kontynuować?</LtxtConfRestore>
+    <LtxtChkList>Sprawdzenie pola wyboru</LtxtChkList>
+    <LtxtEnterQryValSec>Musisz ustawić zapytanie raportu zanim wejdziesz do tego działu</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtEnable>Sprístupnené</DtxtEnable>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtCustomized>Prispôsobené na mieru</DtxtCustomized>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtAlignment>Zarovnanie</DtxtAlignment>
+    <DtxtLeft>Naľavo</DtxtLeft>
+    <DtxtRight>Pravý</DtxtRight>
+    <DtxtCenter>Stred</DtxtCenter>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtSize>Velkosť</DtxtSize>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselný</DtxtNumeric>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtBy>Kým</DtxtBy>
+    <DtxtColor>Farba</DtxtColor>
+    <DtxtVariable>Premenná</DtxtVariable>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtRate>Kurz</DtxtRate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtPercentage>Percento</DtxtPercentage>
+    <DtxtMeasure>Zmerať</DtxtMeasure>
+    <DtxtAverage>Priemerné</DtxtAverage>
+    <DtxtCount>Spočítať</DtxtCount>
+    <DtxtMaximum>Maximálny</DtxtMaximum>
+    <DtxtMinimum>Minimálny</DtxtMinimum>
+    <DtxtSum>Súčet</DtxtSum>
+    <DtxtExample>Príklad</DtxtExample>
+    <DtxtLine>Riadok</DtxtLine>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtHour>Hodina</DtxtHour>
+    <DtxtTop>Vrchol</DtxtTop>
+    <DtxtMinute>Minúta</DtxtMinute>
+    <DtxtMinutes>Minúty</DtxtMinutes>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtImport2>Importovať</DtxtImport2>
+    <DtxtSaveAs>Uložiť ako...</DtxtSaveAs>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtPosition2>Pozícia</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>Editovať výkazy</LttlEditRep>
+    <LttlEditRepNote>Tu sa dajú uskutočniť zmeny na vybranom výkaze.</LttlEditRepNote>
+    <LtxtTime>Čas na obnovenie</LtxtTime>
+    <LtxtLinkOnly>Len link</LtxtLinkOnly>
+    <LtxtCCodeDesc>Kód užívateľa/klienta</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>Formát, Linky a Súčty</LoptFrmLnkTtl>
+    <LttlVarsNote>Tu sa dajú zobraziť všetky premenné vytvorené pre výkazy a zmeniť ich poradie.</LttlVarsNote>
+    <LtxtFormat>Formát</LtxtFormat>
+    <LtxtConfDelVar>Ste si istí, že chcete vymazať premennú {0}?</LtxtConfDelVar>
+    <LttlAddVar>Pridať premennú</LttlAddVar>
+    <LttlEditVar>Editovať premenné</LttlEditVar>
+    <LttlVarNote>Tu sa dajú pridať a editovať premenné požadované na vykonanie výkazu.</LttlVarNote>
+    <LtxtShowInRep>Zobraziť vo výkaze</LtxtShowInRep>
+    <LtxtMaxChar>Maximálny počet znakov</LtxtMaxChar>
+    <LtxtFixVals>Fixné hodnoty</LtxtFixVals>
+    <LtxtValText>Hodnota,Text</LtxtValText>
+    <LtxtText>Text</LtxtText>
+    <LtxtNumWhole>Celé číslo</LtxtNumWhole>
+    <LtxtCmb>KomboBox</LtxtCmb>
+    <LtxtList>Zoznam</LtxtList>
+    <LttlFrmLnkTtlNote>Tu sa dajú konfigurovať súčty, formáty a linky stĺpcov výkazu.</LttlFrmLnkTtlNote>
+    <LtxtTotal>Súčet</LtxtTotal>
+    <LtxtLink>Link</LtxtLink>
+    <LtxtSumCol>Zväčšený stĺpec</LtxtSumCol>
+    <LtxtShortDate>Krátky dátum</LtxtShortDate>
+    <LtxtLongDate>Dlhý dátum</LtxtLongDate>
+    <LtxtHourAMPM>Hodina (Doobeda/Poobede)</LtxtHourAMPM>
+    <LtxtHour24>Hodina (24 Hodín)</LtxtHour24>
+    <LtxtDecimals>Desatiny</LtxtDecimals>
+    <LtxtQtyInUn>Množstvo v Jednotke (Nákup)</LtxtQtyInUn>
+    <LtxtQtyOutUn>Množstvo v Jednotke (Predaj)</LtxtQtyOutUn>
+    <LtxtInvisible>Neviditeľný</LtxtInvisible>
+    <LtxtDown>Nadol</LtxtDown>
+    <LtxtUp>Nahor</LtxtUp>
+    <LtxtBoth>Obe</LtxtBoth>
+    <LttlColorNote>Tu sa dajú zobraziť prispôsobené formáty vytvorené pre výkazy a poradie v akom budú použité.</LttlColorNote>
+    <LtxtAlias>Prezývka</LtxtAlias>
+    <LtxtColumn>Stĺpec</LtxtColumn>
+    <LtxtOperation>Ukon</LtxtOperation>
+    <LtxtAlternative>Alternatívne</LtxtAlternative>
+    <LtxtAlterOf>Alternatívne k</LtxtAlterOf>
+    <LtxtAddColorNote>Tu sa dá prispôsobiť typ písma a želané stĺpce, riadky alebo políčka.</LtxtAddColorNote>
+    <LtxtConf>Konfigurácia</LtxtConf>
+    <LtxtApplyTo>Uplatniť na</LtxtApplyTo>
+    <LtxtRow>Riadok</LtxtRow>
+    <LtxtOther>Iné</LtxtOther>
+    <LtxtEqualTo>Rovný</LtxtEqualTo>
+    <LtxtNotEqual>Nerovná sa k</LtxtNotEqual>
+    <LtxtMoreThen>Väčší ako</LtxtMoreThen>
+    <LtxtLessThen>Menej ako</LtxtLessThen>
+    <LtxtMoreOrEq>Väčší ako alebo rovný</LtxtMoreOrEq>
+    <LtxtLessOrEq>Menej ako alebo rovné k</LtxtLessOrEq>
+    <LtxtNull>Nulový</LtxtNull>
+    <LtxtNotNull>Nenulový</LtxtNotNull>
+    <LtxtFont>Typ písma</LtxtFont>
+    <LtxtForeColor>Farba písma</LtxtForeColor>
+    <LtxtBackColor>Farba pozadia</LtxtBackColor>
+    <LtxtBold>Tučné písmo</LtxtBold>
+    <LtxtItalic>Kurzíva</LtxtItalic>
+    <LtxtUnderline>Podčiarknutie</LtxtUnderline>
+    <LtxtScratched>Vyškrtnuté</LtxtScratched>
+    <LtxtBlink>Všimnúť si</LtxtBlink>
+    <LtxtValRepNam>Prosím, zadajte názov výkazu</LtxtValRepNam>
+    <LtxtValRepQry>Prosím, zadajte dotaz výkazu</LtxtValRepQry>
+    <LtxtValRepQryVal>Musíte overiť dotaz predtým ako môžete aktualizovať výkaz</LtxtValRepQryVal>
+    <LtxtValLineNoData>Riadok #{0} nemá žiadne dáta</LtxtValLineNoData>
+    <LtxtLineValsWrongData>Hodnoty v riadku #{0} sú v nesprávnom formáte.\nFormát musí byť [Value], [Description]</LtxtLineValsWrongData>
+    <LtxtValNoFormat>Nemôžete mať súčet stĺpca s formátom</LtxtValNoFormat>
+    <LtxtValNoNumInSale>Nemôžete mať formát "Množstvo v Jednotke (Predaj)" bez toho, aby ste mali stĺpec množstvo v jednotke (NumInSale) číselného typu.</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>Nemôžete mať formát "Množstvo v Jednotke (Nákup)" bez toho, aby ste mali stĺpec množstvo v jednotke (NumInBuy) číselného typu.</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>Ste si istí, že chcete vymazať farbu #{0}?</LtxtValDelColor1>
+    <LtxtValDelColor2>Stlačte "Ano" na vymazanie farby a jej alternatív, "Nie" len pre túto farbu.</LtxtValDelColor2>
+    <LtxtValVarNam>Prosím, zadajte názov premennej</LtxtValVarNam>
+    <LtxtValVariable>Prosím, zadajte premennú</LtxtValVariable>
+    <LtxtValMaxChar>Prosím, zadajte maximálny počet znakov</LtxtValMaxChar>
+    <LtxtValQryValues>Prosím, zadajte dotaz alebo predvolené hodnoty</LtxtValQryValues>
+    <LtxtValQryVal>Musíte overiť dotaz premennej predtým ako ju môžete pridať</LtxtValQryVal>
+    <LtxtValVarVar>Musíte overiť @variable</LtxtValVarVar>
+    <LtxtValDatFormat>Tento typ môže byť použitý len s formátom dátumu</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>Formát dátumu je kompatibilný len s typom dátumu</LtxtValTypeDatFormat>
+    <LtxtValAlias>Prosím, zadajte alias konfigurácie</LtxtValAlias>
+    <LtxtValOpValue>Prosím, zadajte hodnotu úkonu</LtxtValOpValue>
+    <LtxtValFldOp>Prosím, vyberte políčko úkonu</LtxtValFldOp>
+    <LtxtValFldTypes>Typ políčka {0} sa musí rovnať políčku {1}</LtxtValFldTypes>
+    <LtxtConfDelColor>Ste si istí, že chcete vymazať farbu #{0}-{1}?</LtxtConfDelColor>
+    <LtxtImage>Obrázok</LtxtImage>
+    <LtxtSelFld>Políčko výberu</LtxtSelFld>
+    <LtxtBaseVars>Základné premenné</LtxtBaseVars>
+    <LtxtDefValue>Predvolená hodnota</LtxtDefValue>
+    <LtxtNone>Žiadne</LtxtNone>
+    <LtxtValDefVarDat>Prosím, vyberte predvolený dátum</LtxtValDefVarDat>
+    <LtxtValDefVarVal>Prosím zadajte predvolenú hodnotu</LtxtValDefVarVal>
+    <LtxtValDefVarQry>Prosím zadajte dotaz predvolenej hodnoty</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>Musíte overiť dotaz predvolenej hodnoty</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>Nemôžete aplikovať predvolenú hodnotu na premennú so základnými premennými. Prajete si pokračovať?</LtxtChkBaseVars>
+    <LtxtACodeDesc>Kód užívateľa/agenta</LtxtACodeDesc>
+    <LtxtPredefined>Predvolené</LtxtPredefined>
+    <LtxtIsLinkCol>Stĺpec použitý ako premenná riadku</LtxtIsLinkCol>
+    <LtxtIsColorColumn>Stĺpec použitý ako hodnota farby</LtxtIsColorColumn>
+    <LtxtLinkedReports>Spojené výkazy</LtxtLinkedReports>
+    <LtxtNoBR>Žiadne prerušované riadky</LtxtNoBR>
+    <LtxtConfRestore>Obnovením sa stratia všetky zmeny. Prajete si pokračovať?</LtxtConfRestore>
+    <LtxtChkList>Box kontrolného zoznamu</LtxtChkList>
+    <LtxtEnterQryValSec>Musíte nastaviť dotaz výkazu predtým ako môžete vstúpiť do tejto sekcie</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtEnable>&lt;--&gt;</DtxtEnable>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtCustomized>&lt;--&gt;</DtxtCustomized>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtRestore>&lt;--&gt;</DtxtRestore>
+    <DtxtAlignment>&lt;--&gt;</DtxtAlignment>
+    <DtxtLeft>&lt;--&gt;</DtxtLeft>
+    <DtxtRight>&lt;--&gt;</DtxtRight>
+    <DtxtCenter>&lt;--&gt;</DtxtCenter>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtNotNull>&lt;--&gt;</DtxtNotNull>
+    <DtxtSize>&lt;--&gt;</DtxtSize>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtNumeric>&lt;--&gt;</DtxtNumeric>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtBy>&lt;--&gt;</DtxtBy>
+    <DtxtColor>&lt;--&gt;</DtxtColor>
+    <DtxtVariable>&lt;--&gt;</DtxtVariable>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtRate>&lt;--&gt;</DtxtRate>
+    <DtxtImport>&lt;--&gt;</DtxtImport>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtPercentage>&lt;--&gt;</DtxtPercentage>
+    <DtxtMeasure>&lt;--&gt;</DtxtMeasure>
+    <DtxtAverage>&lt;--&gt;</DtxtAverage>
+    <DtxtCount>&lt;--&gt;</DtxtCount>
+    <DtxtMaximum>&lt;--&gt;</DtxtMaximum>
+    <DtxtMinimum>&lt;--&gt;</DtxtMinimum>
+    <DtxtSum>&lt;--&gt;</DtxtSum>
+    <DtxtExample>&lt;--&gt;</DtxtExample>
+    <DtxtLine>&lt;--&gt;</DtxtLine>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtHour>&lt;--&gt;</DtxtHour>
+    <DtxtTop>&lt;--&gt;</DtxtTop>
+    <DtxtMinute>&lt;--&gt;</DtxtMinute>
+    <DtxtMinutes>&lt;--&gt;</DtxtMinutes>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtImport2>&lt;--&gt;</DtxtImport2>
+    <DtxtSaveAs>&lt;--&gt;</DtxtSaveAs>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtQryErr>&lt;--&gt;</DtxtQryErr>
+    <LttlEditRep>&lt;--&gt;</LttlEditRep>
+    <LttlEditRepNote>&lt;--&gt;</LttlEditRepNote>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtLinkOnly>&lt;--&gt;</LtxtLinkOnly>
+    <LtxtCCodeDesc>&lt;--&gt;</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>&lt;--&gt;</LoptFrmLnkTtl>
+    <LttlVarsNote>&lt;--&gt;</LttlVarsNote>
+    <LtxtFormat>&lt;--&gt;</LtxtFormat>
+    <LtxtConfDelVar>&lt;--&gt;</LtxtConfDelVar>
+    <LttlAddVar>&lt;--&gt;</LttlAddVar>
+    <LttlEditVar>&lt;--&gt;</LttlEditVar>
+    <LttlVarNote>&lt;--&gt;</LttlVarNote>
+    <LtxtShowInRep>&lt;--&gt;</LtxtShowInRep>
+    <LtxtMaxChar>&lt;--&gt;</LtxtMaxChar>
+    <LtxtFixVals>&lt;--&gt;</LtxtFixVals>
+    <LtxtValText>&lt;--&gt;</LtxtValText>
+    <LtxtText>&lt;--&gt;</LtxtText>
+    <LtxtNumWhole>&lt;--&gt;</LtxtNumWhole>
+    <LtxtCmb>&lt;--&gt;</LtxtCmb>
+    <LtxtList>&lt;--&gt;</LtxtList>
+    <LttlFrmLnkTtlNote>&lt;--&gt;</LttlFrmLnkTtlNote>
+    <LtxtTotal>&lt;--&gt;</LtxtTotal>
+    <LtxtLink>&lt;--&gt;</LtxtLink>
+    <LtxtSumCol>&lt;--&gt;</LtxtSumCol>
+    <LtxtShortDate>&lt;--&gt;</LtxtShortDate>
+    <LtxtLongDate>&lt;--&gt;</LtxtLongDate>
+    <LtxtHourAMPM>&lt;--&gt;</LtxtHourAMPM>
+    <LtxtHour24>&lt;--&gt;</LtxtHour24>
+    <LtxtDecimals>&lt;--&gt;</LtxtDecimals>
+    <LtxtQtyInUn>&lt;--&gt;</LtxtQtyInUn>
+    <LtxtQtyOutUn>&lt;--&gt;</LtxtQtyOutUn>
+    <LtxtInvisible>&lt;--&gt;</LtxtInvisible>
+    <LtxtDown>&lt;--&gt;</LtxtDown>
+    <LtxtUp>&lt;--&gt;</LtxtUp>
+    <LtxtBoth>&lt;--&gt;</LtxtBoth>
+    <LttlColorNote>&lt;--&gt;</LttlColorNote>
+    <LtxtAlias>&lt;--&gt;</LtxtAlias>
+    <LtxtColumn>&lt;--&gt;</LtxtColumn>
+    <LtxtOperation>&lt;--&gt;</LtxtOperation>
+    <LtxtAlternative>&lt;--&gt;</LtxtAlternative>
+    <LtxtAlterOf>&lt;--&gt;</LtxtAlterOf>
+    <LtxtAddColorNote>&lt;--&gt;</LtxtAddColorNote>
+    <LtxtConf>&lt;--&gt;</LtxtConf>
+    <LtxtApplyTo>&lt;--&gt;</LtxtApplyTo>
+    <LtxtRow>&lt;--&gt;</LtxtRow>
+    <LtxtOther>&lt;--&gt;</LtxtOther>
+    <LtxtEqualTo>&lt;--&gt;</LtxtEqualTo>
+    <LtxtNotEqual>&lt;--&gt;</LtxtNotEqual>
+    <LtxtMoreThen>&lt;--&gt;</LtxtMoreThen>
+    <LtxtLessThen>&lt;--&gt;</LtxtLessThen>
+    <LtxtMoreOrEq>&lt;--&gt;</LtxtMoreOrEq>
+    <LtxtLessOrEq>&lt;--&gt;</LtxtLessOrEq>
+    <LtxtNull>&lt;--&gt;</LtxtNull>
+    <LtxtNotNull>&lt;--&gt;</LtxtNotNull>
+    <LtxtFont>&lt;--&gt;</LtxtFont>
+    <LtxtForeColor>&lt;--&gt;</LtxtForeColor>
+    <LtxtBackColor>&lt;--&gt;</LtxtBackColor>
+    <LtxtBold>&lt;--&gt;</LtxtBold>
+    <LtxtItalic>&lt;--&gt;</LtxtItalic>
+    <LtxtUnderline>&lt;--&gt;</LtxtUnderline>
+    <LtxtScratched>&lt;--&gt;</LtxtScratched>
+    <LtxtBlink>&lt;--&gt;</LtxtBlink>
+    <LtxtValRepNam>&lt;--&gt;</LtxtValRepNam>
+    <LtxtValRepQry>&lt;--&gt;</LtxtValRepQry>
+    <LtxtValRepQryVal>&lt;--&gt;</LtxtValRepQryVal>
+    <LtxtValLineNoData>&lt;--&gt;</LtxtValLineNoData>
+    <LtxtLineValsWrongData>&lt;--&gt;</LtxtLineValsWrongData>
+    <LtxtValNoFormat>&lt;--&gt;</LtxtValNoFormat>
+    <LtxtValNoNumInSale>&lt;--&gt;</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>&lt;--&gt;</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>&lt;--&gt;</LtxtValDelColor1>
+    <LtxtValDelColor2>&lt;--&gt;</LtxtValDelColor2>
+    <LtxtValVarNam>&lt;--&gt;</LtxtValVarNam>
+    <LtxtValVariable>&lt;--&gt;</LtxtValVariable>
+    <LtxtValMaxChar>&lt;--&gt;</LtxtValMaxChar>
+    <LtxtValQryValues>&lt;--&gt;</LtxtValQryValues>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LtxtValVarVar>&lt;--&gt;</LtxtValVarVar>
+    <LtxtValDatFormat>&lt;--&gt;</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>&lt;--&gt;</LtxtValTypeDatFormat>
+    <LtxtValAlias>&lt;--&gt;</LtxtValAlias>
+    <LtxtValOpValue>&lt;--&gt;</LtxtValOpValue>
+    <LtxtValFldOp>&lt;--&gt;</LtxtValFldOp>
+    <LtxtValFldTypes>&lt;--&gt;</LtxtValFldTypes>
+    <LtxtConfDelColor>&lt;--&gt;</LtxtConfDelColor>
+    <LtxtImage>&lt;--&gt;</LtxtImage>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+    <LtxtBaseVars>&lt;--&gt;</LtxtBaseVars>
+    <LtxtDefValue>&lt;--&gt;</LtxtDefValue>
+    <LtxtNone>&lt;--&gt;</LtxtNone>
+    <LtxtValDefVarDat>&lt;--&gt;</LtxtValDefVarDat>
+    <LtxtValDefVarVal>&lt;--&gt;</LtxtValDefVarVal>
+    <LtxtValDefVarQry>&lt;--&gt;</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>&lt;--&gt;</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>&lt;--&gt;</LtxtChkBaseVars>
+    <LtxtACodeDesc>&lt;--&gt;</LtxtACodeDesc>
+    <LtxtPredefined>&lt;--&gt;</LtxtPredefined>
+    <LtxtIsLinkCol>&lt;--&gt;</LtxtIsLinkCol>
+    <LtxtIsColorColumn>&lt;--&gt;</LtxtIsColorColumn>
+    <LtxtLinkedReports>&lt;--&gt;</LtxtLinkedReports>
+    <LtxtNoBR>&lt;--&gt;</LtxtNoBR>
+    <LtxtConfRestore>&lt;--&gt;</LtxtConfRestore>
+    <LtxtChkList>&lt;--&gt;</LtxtChkList>
+    <LtxtEnterQryValSec>&lt;--&gt;</LtxtEnterQryValSec>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtEnable>DtxtEnable</DtxtEnable>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtCustomized>DtxtCustomized</DtxtCustomized>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtAlignment>DtxtAlignment</DtxtAlignment>
+    <DtxtLeft>DtxtLeft</DtxtLeft>
+    <DtxtRight>DtxtRight</DtxtRight>
+    <DtxtCenter>DtxtCenter</DtxtCenter>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtNotNull>DtxtNotNull</DtxtNotNull>
+    <DtxtSize>DtxtSize</DtxtSize>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtNumeric>DtxtNumeric</DtxtNumeric>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtBy>DtxtBy</DtxtBy>
+    <DtxtColor>DtxtColor</DtxtColor>
+    <DtxtVariable>DtxtVariable</DtxtVariable>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtRate>DtxtRate</DtxtRate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtPercentage>DtxtPercentage</DtxtPercentage>
+    <DtxtMeasure>DtxtMeasure</DtxtMeasure>
+    <DtxtAverage>DtxtAverage</DtxtAverage>
+    <DtxtCount>DtxtCount</DtxtCount>
+    <DtxtMaximum>DtxtMaximum</DtxtMaximum>
+    <DtxtMinimum>DtxtMinimum</DtxtMinimum>
+    <DtxtSum>DtxtSum</DtxtSum>
+    <DtxtExample>DtxtExample</DtxtExample>
+    <DtxtLine>DtxtLine</DtxtLine>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtHour>DtxtHour</DtxtHour>
+    <DtxtTop>DtxtTop</DtxtTop>
+    <DtxtMinute>DtxtMinute</DtxtMinute>
+    <DtxtMinutes>DtxtMinutes</DtxtMinutes>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtImport2>DtxtImport2</DtxtImport2>
+    <DtxtSaveAs>DtxtSaveAs</DtxtSaveAs>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtPosition2>DtxtPosition2</DtxtPosition2>
+    <DtxtQryErr>DtxtQryErr</DtxtQryErr>
+    <LttlEditRep>LttlEditRep</LttlEditRep>
+    <LttlEditRepNote>LttlEditRepNote</LttlEditRepNote>
+    <LtxtTime>LtxtTime</LtxtTime>
+    <LtxtLinkOnly>LtxtLinkOnly</LtxtLinkOnly>
+    <LtxtCCodeDesc>LtxtCCodeDesc</LtxtCCodeDesc>
+    <LoptFrmLnkTtl>LoptFrmLnkTtl</LoptFrmLnkTtl>
+    <LttlVarsNote>LttlVarsNote</LttlVarsNote>
+    <LtxtFormat>LtxtFormat</LtxtFormat>
+    <LtxtConfDelVar>LtxtConfDelVar</LtxtConfDelVar>
+    <LttlAddVar>LttlAddVar</LttlAddVar>
+    <LttlEditVar>LttlEditVar</LttlEditVar>
+    <LttlVarNote>LttlVarNote</LttlVarNote>
+    <LtxtShowInRep>LtxtShowInRep</LtxtShowInRep>
+    <LtxtMaxChar>LtxtMaxChar</LtxtMaxChar>
+    <LtxtFixVals>LtxtFixVals</LtxtFixVals>
+    <LtxtValText>LtxtValText</LtxtValText>
+    <LtxtText>LtxtText</LtxtText>
+    <LtxtNumWhole>LtxtNumWhole</LtxtNumWhole>
+    <LtxtCmb>LtxtCmb</LtxtCmb>
+    <LtxtList>LtxtList</LtxtList>
+    <LttlFrmLnkTtlNote>LttlFrmLnkTtlNote</LttlFrmLnkTtlNote>
+    <LtxtTotal>LtxtTotal</LtxtTotal>
+    <LtxtLink>LtxtLink</LtxtLink>
+    <LtxtSumCol>LtxtSumCol</LtxtSumCol>
+    <LtxtShortDate>LtxtShortDate</LtxtShortDate>
+    <LtxtLongDate>LtxtLongDate</LtxtLongDate>
+    <LtxtHourAMPM>LtxtHourAMPM</LtxtHourAMPM>
+    <LtxtHour24>LtxtHour24</LtxtHour24>
+    <LtxtDecimals>LtxtDecimals</LtxtDecimals>
+    <LtxtQtyInUn>LtxtQtyInUn</LtxtQtyInUn>
+    <LtxtQtyOutUn>LtxtQtyOutUn</LtxtQtyOutUn>
+    <LtxtInvisible>LtxtInvisible</LtxtInvisible>
+    <LtxtDown>LtxtDown</LtxtDown>
+    <LtxtUp>LtxtUp</LtxtUp>
+    <LtxtBoth>LtxtBoth</LtxtBoth>
+    <LttlColorNote>LttlColorNote</LttlColorNote>
+    <LtxtAlias>LtxtAlias</LtxtAlias>
+    <LtxtColumn>LtxtColumn</LtxtColumn>
+    <LtxtOperation>LtxtOperation</LtxtOperation>
+    <LtxtAlternative>LtxtAlternative</LtxtAlternative>
+    <LtxtAlterOf>LtxtAlterOf</LtxtAlterOf>
+    <LtxtAddColorNote>LtxtAddColorNote</LtxtAddColorNote>
+    <LtxtConf>LtxtConf</LtxtConf>
+    <LtxtApplyTo>LtxtApplyTo</LtxtApplyTo>
+    <LtxtRow>LtxtRow</LtxtRow>
+    <LtxtOther>LtxtOther</LtxtOther>
+    <LtxtEqualTo>LtxtEqualTo</LtxtEqualTo>
+    <LtxtNotEqual>LtxtNotEqual</LtxtNotEqual>
+    <LtxtMoreThen>LtxtMoreThen</LtxtMoreThen>
+    <LtxtLessThen>LtxtLessThen</LtxtLessThen>
+    <LtxtMoreOrEq>LtxtMoreOrEq</LtxtMoreOrEq>
+    <LtxtLessOrEq>LtxtLessOrEq</LtxtLessOrEq>
+    <LtxtNull>LtxtNull</LtxtNull>
+    <LtxtNotNull>LtxtNotNull</LtxtNotNull>
+    <LtxtFont>LtxtFont</LtxtFont>
+    <LtxtForeColor>LtxtForeColor</LtxtForeColor>
+    <LtxtBackColor>LtxtBackColor</LtxtBackColor>
+    <LtxtBold>LtxtBold</LtxtBold>
+    <LtxtItalic>LtxtItalic</LtxtItalic>
+    <LtxtUnderline>LtxtUnderline</LtxtUnderline>
+    <LtxtScratched>LtxtScratched</LtxtScratched>
+    <LtxtBlink>LtxtBlink</LtxtBlink>
+    <LtxtValRepNam>LtxtValRepNam</LtxtValRepNam>
+    <LtxtValRepQry>LtxtValRepQry</LtxtValRepQry>
+    <LtxtValRepQryVal>LtxtValRepQryVal</LtxtValRepQryVal>
+    <LtxtValLineNoData>LtxtValLineNoData</LtxtValLineNoData>
+    <LtxtLineValsWrongData>LtxtLineValsWrongData</LtxtLineValsWrongData>
+    <LtxtValNoFormat>LtxtValNoFormat</LtxtValNoFormat>
+    <LtxtValNoNumInSale>LtxtValNoNumInSale</LtxtValNoNumInSale>
+    <LtxtValNoNumInBuy>LtxtValNoNumInBuy</LtxtValNoNumInBuy>
+    <LtxtValDelColor1>LtxtValDelColor1</LtxtValDelColor1>
+    <LtxtValDelColor2>LtxtValDelColor2</LtxtValDelColor2>
+    <LtxtValVarNam>LtxtValVarNam</LtxtValVarNam>
+    <LtxtValVariable>LtxtValVariable</LtxtValVariable>
+    <LtxtValMaxChar>LtxtValMaxChar</LtxtValMaxChar>
+    <LtxtValQryValues>LtxtValQryValues</LtxtValQryValues>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LtxtValVarVar>LtxtValVarVar</LtxtValVarVar>
+    <LtxtValDatFormat>LtxtValDatFormat</LtxtValDatFormat>
+    <LtxtValTypeDatFormat>LtxtValTypeDatFormat</LtxtValTypeDatFormat>
+    <LtxtValAlias>LtxtValAlias</LtxtValAlias>
+    <LtxtValOpValue>LtxtValOpValue</LtxtValOpValue>
+    <LtxtValFldOp>LtxtValFldOp</LtxtValFldOp>
+    <LtxtValFldTypes>LtxtValFldTypes</LtxtValFldTypes>
+    <LtxtConfDelColor>LtxtConfDelColor</LtxtConfDelColor>
+    <LtxtImage>LtxtImage</LtxtImage>
+    <LtxtSelFld>LtxtSelFld</LtxtSelFld>
+    <LtxtBaseVars>LtxtBaseVars</LtxtBaseVars>
+    <LtxtDefValue>LtxtDefValue</LtxtDefValue>
+    <LtxtNone>LtxtNone</LtxtNone>
+    <LtxtValDefVarDat>LtxtValDefVarDat</LtxtValDefVarDat>
+    <LtxtValDefVarVal>LtxtValDefVarVal</LtxtValDefVarVal>
+    <LtxtValDefVarQry>LtxtValDefVarQry</LtxtValDefVarQry>
+    <LtxtValDefVarVerfy>LtxtValDefVarVerfy</LtxtValDefVarVerfy>
+    <LtxtChkBaseVars>LtxtChkBaseVars</LtxtChkBaseVars>
+    <LtxtACodeDesc>LtxtACodeDesc</LtxtACodeDesc>
+    <LtxtPredefined>LtxtPredefined</LtxtPredefined>
+    <LtxtIsLinkCol>LtxtIsLinkCol</LtxtIsLinkCol>
+    <LtxtIsColorColumn>LtxtIsColorColumn</LtxtIsColorColumn>
+    <LtxtLinkedReports>LtxtLinkedReports</LtxtLinkedReports>
+    <LtxtNoBR>LtxtNoBR</LtxtNoBR>
+    <LtxtConfRestore>LtxtConfRestore</LtxtConfRestore>
+    <LtxtChkList>LtxtChkList</LtxtChkList>
+    <LtxtEnterQryValSec>LtxtEnterQryValSec</LtxtEnterQryValSec>
+  </language>
+</languages>

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtActivated>Activated</DtxtActivated>
+    <DtxtDeactivated>Deactivated</DtxtDeactivated>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlPolls>Surveys</LttlPolls>
+    <LttlPollsNote>Here polls may be added, edited, deleted, have their results viewed, and be activated or deactivated.</LttlPollsNote>
+    <LtxtVotes>Vote</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Are you sure you want to delete the poll {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>View Results</LtxtViewResults>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDateOfPub>Publicación</DtxtDateOfPub>
+    <DtxtActivated>Activado</DtxtActivated>
+    <DtxtDeactivated>Desactivado</DtxtDeactivated>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlPolls>Encuestas</LttlPolls>
+    <LttlPollsNote>En esta sección podrá agregar, editar y eliminar las encuestas, visualizar los resultados de las mismas y activar o desactivar una encuesta seleccionada.</LttlPollsNote>
+    <LtxtVotes>Votos</LtxtVotes>
+    <LtxtOnline>En Línea</LtxtOnline>
+    <LtxtConfDelPoll>¿Está seguro que desea eliminar la encuesta {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Ver Resultados</LtxtViewResults>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtDateOfPub>הפצה</DtxtDateOfPub>
+    <DtxtActivated>פעיל</DtxtActivated>
+    <DtxtDeactivated>לא פעיל</DtxtDeactivated>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlPolls>סקרים</LttlPolls>
+    <LttlPollsNote>בחלק זה תוכל להוסיף/ לערוך / למחוק /לראות סקרים שיופיעו באתר הלקוחות לפי תאריכים שתקבע.</LttlPollsNote>
+    <LtxtVotes>מניין-קולות</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>האם למחוק סקר {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>ראה תוצאות</LtxtViewResults>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtActivated>Activated</DtxtActivated>
+    <DtxtDeactivated>Deactivated</DtxtDeactivated>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlPolls>Surveys</LttlPolls>
+    <LttlPollsNote>Here polls may be added, edited, deleted, have their results viewed, and be activated or deactivated.</LttlPollsNote>
+    <LtxtVotes>Vote</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Are you sure you want to delete the poll {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>View Results</LtxtViewResults>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtDateOfPub>Publicação</DtxtDateOfPub>
+    <DtxtActivated>Ativado</DtxtActivated>
+    <DtxtDeactivated>Desativado</DtxtDeactivated>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlPolls>Pesquisas</LttlPolls>
+    <LttlPollsNote>Nesta seção, poderá adicionar, editar e elimiminar as pesquisas, ver os resultados das mesmas e ativar ou desativar uma pesquisa selecionada.</LttlPollsNote>
+    <LtxtVotes>Votos</LtxtVotes>
+    <LtxtOnline>Na linha</LtxtOnline>
+    <LtxtConfDelPoll>Você tem certeza que deseja excluir a pesquisa {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Ver Resultados</LtxtViewResults>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtActivated>Activé</DtxtActivated>
+    <DtxtDeactivated>Déactivé</DtxtDeactivated>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlPolls>Enquêtes</LttlPolls>
+    <LttlPollsNote>Dans cette section vous pourrez ajouter, éditer et éliminer les enquêtes, visualiser ses résultats et activer ou déactiver une enquête sélectionée.</LttlPollsNote>
+    <LtxtVotes>Votes</LtxtVotes>
+    <LtxtOnline>En ligne</LtxtOnline>
+    <LtxtConfDelPoll>Êtes-vous sûre d\'éliminer l\'enquête {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Voir résultats</LtxtViewResults>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtDateOfPub>Erscheinungsdatum</DtxtDateOfPub>
+    <DtxtActivated>Aktiviert</DtxtActivated>
+    <DtxtDeactivated>Deaktiviert</DtxtDeactivated>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlPolls>Umfragen</LttlPolls>
+    <LttlPollsNote>In diesem Bereich kann man Umfragen hinzufügen, bearbeiten, oder löschen. Man kann auch die Ergebnisse einsehen und ausgewählte Umfragen aktivieren/deaktivieren.</LttlPollsNote>
+    <LtxtVotes>Abstimmen</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Möchten Sie die Umfrage {0} wirklich löschen?</LtxtConfDelPoll>
+    <LtxtViewResults>Ergebnisse einsehen</LtxtViewResults>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtDateOfPub>Распределение</DtxtDateOfPub>
+    <DtxtActivated>Включенный</DtxtActivated>
+    <DtxtDeactivated>Прекращенный</DtxtDeactivated>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlPolls>Обследования</LttlPolls>
+    <LttlPollsNote>В этом разделе можно добавлять, редактировать и удалять опросы, видеть результаты и активировать / деактивировать выбрать опрос.</LttlPollsNote>
+    <LtxtVotes>Голосовать</LtxtVotes>
+    <LtxtOnline>Онлайн</LtxtOnline>
+    <LtxtConfDelPoll>Вы уверены, что хотите удалить опрос {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Посмотреть результаты</LtxtViewResults>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtDateOfPub>Uveřejnění</DtxtDateOfPub>
+    <DtxtActivated>Aktivní</DtxtActivated>
+    <DtxtDeactivated>Deaktivováno</DtxtDeactivated>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlPolls>Průzkumy</LttlPolls>
+    <LttlPollsNote>V této sekci můžete přidávat, upravovat, mazat ankety, zobrazovat jejich výsledky, aktivovat a deaktivovat je.</LttlPollsNote>
+    <LtxtVotes>Hlasovat</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Jste si jistý/á, že chcete vymazat anketu {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Zobrazit výsledky</LtxtViewResults>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtDateOfPub>Publikacja</DtxtDateOfPub>
+    <DtxtActivated>Aktywowany</DtxtActivated>
+    <DtxtDeactivated>Dezaktywowany</DtxtDeactivated>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlPolls>Badania</LttlPolls>
+    <LttlPollsNote>Tutaj ankiety mogą być dodawane, edytowane, kasowane, ich rezultaty przeglądane, mogą być aktywowane i dezaktywowane.</LttlPollsNote>
+    <LtxtVotes>Wybory</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Jesteś pewien, że chcesz skasować ankietę {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Zobacz rezultaty</LtxtViewResults>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtDateOfPub>Publikácia</DtxtDateOfPub>
+    <DtxtActivated>Aktivované
+</DtxtActivated>
+    <DtxtDeactivated>Deaktivované</DtxtDeactivated>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlPolls>Prieskum</LttlPolls>
+    <LttlPollsNote>Tu sa dajú pridať, editovať, zmazať ankety, zobraziť ich výsledky a byť aktivované alebo deaktivované.</LttlPollsNote>
+    <LtxtVotes>Hlasovať</LtxtVotes>
+    <LtxtOnline>Online</LtxtOnline>
+    <LtxtConfDelPoll>Ste si istí, že chcete zmazať anketu {0}?</LtxtConfDelPoll>
+    <LtxtViewResults>Zobraziť výsledky</LtxtViewResults>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtDateOfPub>&lt;--&gt;</DtxtDateOfPub>
+    <DtxtActivated>&lt;--&gt;</DtxtActivated>
+    <DtxtDeactivated>&lt;--&gt;</DtxtDeactivated>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <LttlPolls>&lt;--&gt;</LttlPolls>
+    <LttlPollsNote>&lt;--&gt;</LttlPollsNote>
+    <LtxtVotes>&lt;--&gt;</LtxtVotes>
+    <LtxtOnline>&lt;--&gt;</LtxtOnline>
+    <LtxtConfDelPoll>&lt;--&gt;</LtxtConfDelPoll>
+    <LtxtViewResults>&lt;--&gt;</LtxtViewResults>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtDateOfPub>DtxtDateOfPub</DtxtDateOfPub>
+    <DtxtActivated>DtxtActivated</DtxtActivated>
+    <DtxtDeactivated>DtxtDeactivated</DtxtDeactivated>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlPolls>LttlPolls</LttlPolls>
+    <LttlPollsNote>LttlPollsNote</LttlPollsNote>
+    <LtxtVotes>LtxtVotes</LtxtVotes>
+    <LtxtOnline>LtxtOnline</LtxtOnline>
+    <LtxtConfDelPoll>LtxtConfDelPoll</LtxtConfDelPoll>
+    <LtxtViewResults>LtxtViewResults</LtxtViewResults>
+  </language>
+</languages>

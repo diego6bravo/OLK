@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <Lttl3dxLines>Cart - Lines - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>3dx Selection</Lttl3dxSel>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtSelQty>Selected Quantity</LtxtSelQty>
+    <LtxtPendQty>Pending Quantity</LtxtPendQty>
+    <LtxtDimension>Dimension</LtxtDimension>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtSelection>Selection</LtxtSelection>
+    <LtxtShow>Show</LtxtShow>
+    <LtxtValSelDim>Please select the dimensions</LtxtValSelDim>
+    <LtxtValCloseWin>You will lose all changes made.\nAre you sure you want to continue?</LtxtValCloseWin>
+    <LtxtValSelDimX>Please select dimension {0}</LtxtValSelDimX>
+    <LtxtValRepDim>You cannot select the same dimensions</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Value cannot be greater than the available value</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Selected quantity is greater than required quantity</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtItem>Artículo</DtxtItem>
+    <Lttl3dxLines>Canasta - Líneas - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Selección de 3dx</Lttl3dxSel>
+    <LtxtReqQty>Cantidad Requerida</LtxtReqQty>
+    <LtxtSelQty>Cantidad Seleccionada</LtxtSelQty>
+    <LtxtPendQty>Cantidad Pendiente</LtxtPendQty>
+    <LtxtDimension>Dimensión</LtxtDimension>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtSelection>Selección</LtxtSelection>
+    <LtxtShow>Mostrar</LtxtShow>
+    <LtxtValSelDim>Seleccione primero las dimensiones</LtxtValSelDim>
+    <LtxtValCloseWin>Perderá todos los cambios que ha realizado.\n¿Desea continuar?</LtxtValCloseWin>
+    <LtxtValSelDimX>Debe seleccionar la dimensión {0}</LtxtValSelDimX>
+    <LtxtValRepDim>No puede seleccionar dos dimensiones iguales</LtxtValRepDim>
+    <LtxtValMoreThenAvl>No puede definir un valor mayor que el disponible</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>La cantidad seleccionada sobrepasa la cantidad requerida</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtItem>פריט</DtxtItem>
+    <Lttl3dxLines>סל קניות - שורות - 3Dx</Lttl3dxLines>
+    <Lttl3dxSel>בחירת 3Dx</Lttl3dxSel>
+    <LtxtReqQty>כמות נחוצה</LtxtReqQty>
+    <LtxtSelQty>כמות שנבחרה</LtxtSelQty>
+    <LtxtPendQty>כמות לפריסה</LtxtPendQty>
+    <LtxtDimension>ממד</LtxtDimension>
+    <LtxtAvl>זמין</LtxtAvl>
+    <LtxtSelection>בחירה</LtxtSelection>
+    <LtxtShow>הצג</LtxtShow>
+    <LtxtValSelDim>בחר את המימדים הראשונים</LtxtValSelDim>
+    <LtxtValCloseWin>ביטול יגרום לאיבוד כל השינויים שביצעת! המשך ?</LtxtValCloseWin>
+    <LtxtValSelDimX>צריך לבחור ממד {0}</LtxtValSelDimX>
+    <LtxtValRepDim>לא ניתן לבחור שני מימדים דומים</LtxtValRepDim>
+    <LtxtValMoreThenAvl>לא ניתן לקחת כמות גבוה יותר מהכמות הזמינה</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>הכמות שנבחרה גבוה מהכמות הנחוצה</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <Lttl3dxLines>Cart - Lines - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>3dx Selection</Lttl3dxSel>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtSelQty>Selected Quantity</LtxtSelQty>
+    <LtxtPendQty>Pending Quantity</LtxtPendQty>
+    <LtxtDimension>Dimension</LtxtDimension>
+    <LtxtAvl>Available</LtxtAvl>
+    <LtxtSelection>Selection</LtxtSelection>
+    <LtxtShow>Show</LtxtShow>
+    <LtxtValSelDim>Please select the dimensions</LtxtValSelDim>
+    <LtxtValCloseWin>You will lose all changes made.\nAre you sure you want to continue?</LtxtValCloseWin>
+    <LtxtValSelDimX>Please select dimension {0}</LtxtValSelDimX>
+    <LtxtValRepDim>You cannot select the same dimensions</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Value cannot be greater than the available value</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Selected quantity is greater than required quantity</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Armazem</DtxtWarehouse>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtItem>Item</DtxtItem>
+    <Lttl3dxLines>Cesta - Linhas - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Seleção do 3dx</Lttl3dxSel>
+    <LtxtReqQty>Quantidade Requisitada</LtxtReqQty>
+    <LtxtSelQty>Quantidade Selecionada</LtxtSelQty>
+    <LtxtPendQty>Quantidade Pendente</LtxtPendQty>
+    <LtxtDimension>Dimensão </LtxtDimension>
+    <LtxtAvl>Disponível</LtxtAvl>
+    <LtxtSelection>Seleção</LtxtSelection>
+    <LtxtShow>Exibir</LtxtShow>
+    <LtxtValSelDim>Selecione primeiro as dimensões </LtxtValSelDim>
+    <LtxtValCloseWin>Perderá todas as modificações   que realizou. Deseja continuar?</LtxtValCloseWin>
+    <LtxtValSelDimX>Deve selecionar a dimensão {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Não pode selecionar duas dimensões iguais</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Não pode definir um valor maior que o disponível</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>A quantidade selecionada supera a quantidade requisitada</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItem>Article</DtxtItem>
+    <Lttl3dxLines>Corbeilles - Lignes - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Sélection de 3dx</Lttl3dxSel>
+    <LtxtReqQty>Quantité demandée</LtxtReqQty>
+    <LtxtSelQty>Quantité sélectionnée</LtxtSelQty>
+    <LtxtPendQty>Quantité exigible</LtxtPendQty>
+    <LtxtDimension>Dimension</LtxtDimension>
+    <LtxtAvl>Disponible</LtxtAvl>
+    <LtxtSelection>Sélection</LtxtSelection>
+    <LtxtShow>Montrer</LtxtShow>
+    <LtxtValSelDim>Sélectionnez-vous les dimensions d'abord</LtxtValSelDim>
+    <LtxtValCloseWin>Vous-perdrez tous les changements que vous avez déjà fait. Veuillez-vous continuer?</LtxtValCloseWin>
+    <LtxtValSelDimX>Devez-vous sélectionner la dimension {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Vous ne pouvez pas sélectionné deux dimensions égaux</LtxtValRepDim>
+    <LtxtValMoreThenAvl>On ne peut pas définir une valeur plus grand que la disponible</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>La quantité sélectionnée dépasse la quantité demandée</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtItem>Artikel</DtxtItem>
+    <Lttl3dxLines>Einkaufswagen - Zeilen - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>3dx Auswahl</Lttl3dxSel>
+    <LtxtReqQty>Erforderliche Menge</LtxtReqQty>
+    <LtxtSelQty>Ausgewählte Menge</LtxtSelQty>
+    <LtxtPendQty>Anliegende Mengen</LtxtPendQty>
+    <LtxtDimension>Dimension</LtxtDimension>
+    <LtxtAvl>Vorhanden</LtxtAvl>
+    <LtxtSelection>Auswahl</LtxtSelection>
+    <LtxtShow>Anzeigen</LtxtShow>
+    <LtxtValSelDim>Bitte wählen Sie die Dimensionen</LtxtValSelDim>
+    <LtxtValCloseWin>Alle Änderungen werden gelöscht.\nMöchten Sie wirklich fortfahren?</LtxtValCloseWin>
+    <LtxtValSelDimX>Bitte wählen Sie eine Dimension {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Sie können nicht die gleichen Dimensionen wählen</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Der angegebene Wert darf den vorhandenen Wert nicht überschreiten</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Die ausgewählte Menge überschreitet die erforderliche Menge</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtItem>Деталь</DtxtItem>
+    <Lttl3dxLines>Корзина - линий - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Выбор 3DX</Lttl3dxSel>
+    <LtxtReqQty>Необходимое количество</LtxtReqQty>
+    <LtxtSelQty>Выбранное количество</LtxtSelQty>
+    <LtxtPendQty>Предварительное количество</LtxtPendQty>
+    <LtxtDimension>Измерения</LtxtDimension>
+    <LtxtAvl>Доступный</LtxtAvl>
+    <LtxtSelection>Выбор</LtxtSelection>
+    <LtxtShow>Показывать</LtxtShow>
+    <LtxtValSelDim>Пожалуйста, выберите размер</LtxtValSelDim>
+    <LtxtValCloseWin>Вы потеряете все изменения.\nВы уверены, что хотите продолжить?</LtxtValCloseWin>
+    <LtxtValSelDimX>Пожалуйста, выберите размер {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Вы не можете выбрать те же размеры</LtxtValRepDim>
+    <LtxtValMoreThenAvl> Цены не могут  быть выше, чем имеющиеся значения</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Выбранное количество больше необходимого количества</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <Lttl3dxLines>Košík - Řádky - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Výběr 3dx</Lttl3dxSel>
+    <LtxtReqQty>Požadované množství</LtxtReqQty>
+    <LtxtSelQty>Zvolené množství</LtxtSelQty>
+    <LtxtPendQty>Nevyřízené množství</LtxtPendQty>
+    <LtxtDimension>Rozměr</LtxtDimension>
+    <LtxtAvl>Dostupné</LtxtAvl>
+    <LtxtSelection>Výběr</LtxtSelection>
+    <LtxtShow>Ukázat</LtxtShow>
+    <LtxtValSelDim>Vyberte prosím rozměry</LtxtValSelDim>
+    <LtxtValCloseWin>Ztratíte všechny provedené změny.\nUrčitě chcete pokračovat?</LtxtValCloseWin>
+    <LtxtValSelDimX>Vyberte prosím rozměr {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Nemůžete vybrat stejný rozměr</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Hodnota nemůže být větší než dostupné množství</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Zvolené množství je větší než požadované množství</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtItem>Pozycja</DtxtItem>
+    <Lttl3dxLines>Koszyk - linia - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Wybór 3DX</Lttl3dxSel>
+    <LtxtReqQty>Wymagana ilość</LtxtReqQty>
+    <LtxtSelQty>Wybrana ilość</LtxtSelQty>
+    <LtxtPendQty>Pozostająca ilość</LtxtPendQty>
+    <LtxtDimension>Wymiar</LtxtDimension>
+    <LtxtAvl>Dostępny</LtxtAvl>
+    <LtxtSelection>Wybór</LtxtSelection>
+    <LtxtShow>Pokaż</LtxtShow>
+    <LtxtValSelDim>Proszę wybierz wymiary</LtxtValSelDim>
+    <LtxtValCloseWin>Wszystkie zmiany zostaną utracone. Jesteś pewien, że chcesz kontynuować?</LtxtValCloseWin>
+    <LtxtValSelDimX>Proszę wybierz wymiar {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Nie możesz wybrać tych samych wymiarów</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Wartość nie może być większa niż dostępna wartość</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Wybrana ilość jest większa niż wymagana ilość</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItem>Položka</DtxtItem>
+    <Lttl3dxLines>Košík - Riadky - 3DX</Lttl3dxLines>
+    <Lttl3dxSel>Výber 3dx</Lttl3dxSel>
+    <LtxtReqQty>Požadované množstvo</LtxtReqQty>
+    <LtxtSelQty>Zvolené množstvo</LtxtSelQty>
+    <LtxtPendQty>Nespracované množstvo</LtxtPendQty>
+    <LtxtDimension>Dimenzia</LtxtDimension>
+    <LtxtAvl>Dostupné</LtxtAvl>
+    <LtxtSelection>Výber</LtxtSelection>
+    <LtxtShow>Zobraziť</LtxtShow>
+    <LtxtValSelDim>Prosím zvoľte dimenzie</LtxtValSelDim>
+    <LtxtValCloseWin>Stratíte všetky vykonané zmeny.\nSte si istí, že chcete pokračovať?</LtxtValCloseWin>
+    <LtxtValSelDimX>Prosím zvoľte dimenziu {0}</LtxtValSelDimX>
+    <LtxtValRepDim>Nemôžete vybrať rovnaké dimenzie</LtxtValRepDim>
+    <LtxtValMoreThenAvl>Hodnota nemôže byť väčšia ako dostupná hodnota</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>Zvolené množstvo je väčšie ako požadované množstvo</LtxtValSelOverQty>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <Lttl3dxLines>Lttl3dxLines</Lttl3dxLines>
+    <Lttl3dxSel>Lttl3dxSel</Lttl3dxSel>
+    <LtxtReqQty>LtxtReqQty</LtxtReqQty>
+    <LtxtSelQty>LtxtSelQty</LtxtSelQty>
+    <LtxtPendQty>LtxtPendQty</LtxtPendQty>
+    <LtxtDimension>LtxtDimension</LtxtDimension>
+    <LtxtAvl>LtxtAvl</LtxtAvl>
+    <LtxtSelection>LtxtSelection</LtxtSelection>
+    <LtxtShow>LtxtShow</LtxtShow>
+    <LtxtValSelDim>LtxtValSelDim</LtxtValSelDim>
+    <LtxtValCloseWin>LtxtValCloseWin</LtxtValCloseWin>
+    <LtxtValSelDimX>LtxtValSelDimX</LtxtValSelDimX>
+    <LtxtValRepDim>LtxtValRepDim</LtxtValRepDim>
+    <LtxtValMoreThenAvl>LtxtValMoreThenAvl</LtxtValMoreThenAvl>
+    <LtxtValSelOverQty>LtxtValSelOverQty</LtxtValSelOverQty>
+  </language>
+</languages>

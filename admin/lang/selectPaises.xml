@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAll>All</DtxtAll>
+    <DtxtClose>Close</DtxtClose>
+    <LttlSelCnt>Country Selection</LttlSelCnt>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtClose>Cerrar</DtxtClose>
+    <LttlSelCnt>Selección de País</LttlSelCnt>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtClose>סגור</DtxtClose>
+    <LttlSelCnt>בחר ארץ</LttlSelCnt>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAll>All</DtxtAll>
+    <DtxtClose>Close</DtxtClose>
+    <LttlSelCnt>Country Selection</LttlSelCnt>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtClose>Fechar</DtxtClose>
+    <LttlSelCnt>Seleção do País</LttlSelCnt>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtClose>Fermer</DtxtClose>
+    <LttlSelCnt>Sélection de pays</LttlSelCnt>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtClose>Schließen</DtxtClose>
+    <LttlSelCnt>Länder Auswahl</LttlSelCnt>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtClose>Закрыт</DtxtClose>
+    <LttlSelCnt>Выбор страны</LttlSelCnt>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtClose>Zavřít</DtxtClose>
+    <LttlSelCnt>Výběr zemí</LttlSelCnt>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <LttlSelCnt>Wybór kraju</LttlSelCnt>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <LttlSelCnt>Výber krajiny</LttlSelCnt>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtClose>&lt;--&gt;</DtxtClose>
+    <LttlSelCnt>&lt;--&gt;</LttlSelCnt>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <LttlSelCnt>LttlSelCnt</LttlSelCnt>
+  </language>
+</languages>

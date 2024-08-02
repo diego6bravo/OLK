@@ -1,0 +1,220 @@
+﻿BODY {
+	font-family : Verdana;
+	font-size : 10px;
+}
+A {
+	font-family : Verdana;
+	font-size : 10px;
+	color : #4783c5;
+	text-decoration : underline;
+}
+A:active {
+	color : #4783c5;
+	text-decoration : none;
+}
+A:hover {
+	color : #4783c5;
+	font-family : Verdana;
+	font-size : 10px;
+	text-decoration : none;
+}
+input {
+	color : #3f7b96;
+	font-family : verdana;
+	font-size : 10px;
+	border : 1px solid #2e94d4;
+	background-color : #d9f0fd;
+	border-style : outset;
+}
+.noborder {
+	border-style : solid;
+	border-width : 0;
+}
+select {
+	color : #3f7b96;
+	font-family : verdana;
+	font-size : 10px;
+	border : 1px solid #68a6c0;
+	background-color : #d9f0fd;
+}
+textarea {
+	font-size : 10px;
+	font-family : Verdana;
+	color : #3f7b96;
+	background-color : #d9f0fd;
+}
+.TblFlowFunction {
+	font-size : 10px;
+	font-family : Verdana;
+	color : #4783c5;
+}
+.TblRepTlt {
+	color : #31659c;
+	font-size : 10px;
+	font-family : VERDANA;
+	text-decoration : none;
+	background-color : #e1f3fd;
+	font-weight : bold;
+}
+.TblRepTltNoBold {
+	color : #31659c;
+	font-size : 10px;
+	font-family : VERDANA;
+	text-decoration : none;
+	background-color : #e1f3fd;
+}
+.TblRepTltSub {
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	background-color : #e1f3fd;
+	font-weight : bold;
+}
+.TblRepTltSubNoUnder {
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	background-color : #e1f3fd;
+	font-weight : bold;
+}
+.TblRepNrm {
+	color : #4783c5;
+	font-size : 10px;
+	font-family : VERDANA;
+	text-decoration : none;
+	background-color : #f5fbfe;
+}
+.TblRepTbl {
+	color : #4783c5;
+	font-size : 10px;
+	font-family : VERDANA;
+	text-decoration : none;
+	background-color : #f3fbfe;
+}
+.TblRepATbl {
+	color : #4783c5;
+	font-size : 10px;
+	font-family : VERDANA;
+	text-decoration : none;
+	background-color : #ffffff;
+}
+hr {
+	border : 1px solid #2e94d4;
+	line-height: 1px;
+}
+.BtnRep {
+	color : #31659c;
+	font-size : 10px;
+	font-family : VERDANA;
+	background-color : #f5fbfe;
+	font-weight : bold;
+	width: 75px;
+	height: 23px;
+}
+.OptionButton {
+	border-style : solid;
+	border-width : 0;
+}
+.TxtLentes {
+	color : #ff0f0f;
+	font-size : 15px;
+	font-family : Wingdings;
+}
+.TltTop {
+	color : #003c01;
+	font-size : 9px;
+	font-family : Verdana;
+	font-weight : bold;
+}
+.TablaMenuSection {
+	color : #31659c;
+	font-size : 11px;
+	font-family : Tahoma;
+	height : 20px;
+	padding-left : 2px;
+	border-bottom : 1px dotted #2c96d4;
+	font-weight : bold;
+}
+.TablaMenusmall {
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	text-decoration : none;
+	background-color : #e5f7fb;
+	font-weight : bold;
+	width: 12px;
+}
+.TablaMenu {
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	text-decoration : none;
+	background-color : #b1ebfe;
+	font-weight : bold;
+}
+.TablaMenusmall {
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	text-decoration : none;
+	background-color : #e5f7fb;
+	font-weight : bold;
+}
+.TblCombo {
+	border : 1px solid #68a6c0;
+	font-family : Verdana;
+	font-size : 10px;
+	color : #3f7b96;
+}
+.BtnRep {
+	color : #68a6c0;
+	font-family : Tahoma;
+	border : 1px solid #68a6c0;
+	background-color : #e5f1ff;
+	font-size : 10px;
+	font-weight : bold;
+}
+.OlkBtn {
+	color : #68a6c0;
+	font-family : Tahoma;
+	border : 1px solid #68a6c0;
+	background-color : #e5f1ff;
+	font-size : 10px;
+	width : 75px;
+	height : 23px;
+	font-weight : bold;
+}
+.MsgBoxBG {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 101;
+	top: 0px;
+	left: 0px;
+	background-color: #CAD5DB;
+	opacity: 0.60;
+}
+.TblMsgBox
+{
+	border: thin solid #31659c;
+	width: 430px;
+	height: 130px;
+}
+.MsgBoxTtl
+{
+	background-color: white;
+	height: 86px;
+	color: black;
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 25px;
+	color : #31659c;
+	font-size : 10px;
+	font-family : Verdana;
+	font-weight : bold;
+}
+.MsgBoxBody
+{
+	background-color: #F0F0F0;
+	height: 44px; 
+}

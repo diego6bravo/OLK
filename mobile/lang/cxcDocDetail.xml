@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LtxtDocDet>Document details</LtxtDocDet>
+    <LtxtTo>To</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Cart</LtxtCredCard>
+    <LtxtPymntCond>Payment Terms</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtInvDueDate>A pagar hasta</DtxtInvDueDate>
+    <DtxtDeliveryDate>Fecha de entrega</DtxtDeliveryDate>
+    <DtxtComDate>Fecha de comunicación</DtxtComDate>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtDueDate>Fecha de vencimiento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtDocDet>Detalles de Documento</LtxtDocDet>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>F. Vencimiento</LtxtDueDate>
+    <LtxtProd>Producto</LtxtProd>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>T. Bancaria</LtxtBankTrans>
+    <LtxtCredCard>T. Crédito</LtxtCredCard>
+    <LtxtPymntCond>Condición de Pago</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtShipAdd>Dirección de envío</LtxtShipAdd>
+    <LtxtPayAdd>Dirección de pago</LtxtPayAdd>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtInvDueDate>לשלם עד</DtxtInvDueDate>
+    <DtxtDeliveryDate>תאריך אספקה</DtxtDeliveryDate>
+    <DtxtComDate>תקף עד</DtxtComDate>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtDueDate>תאריך ערך</DtxtDueDate>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <LtxtDocDet>פריטי מסמך</LtxtDocDet>
+    <LtxtTo>ל</LtxtTo>
+    <LtxtEMail>דואר אלקטרוני</LtxtEMail>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtProd>מוצר</LtxtProd>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheck>צק</LtxtCheck>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtCredCard>כרטיס אשראי</LtxtCredCard>
+    <LtxtPymntCond>תנאי תשלום</LtxtPymntCond>
+    <LtxtSubTotal>סיכום ביניים</LtxtSubTotal>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtPayAdd>כתובת תשלום</LtxtPayAdd>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <LtxtDocDet>Document details</LtxtDocDet>
+    <LtxtTo>To</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Cart</LtxtCredCard>
+    <LtxtPymntCond>Payment Terms</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtInvDueDate>Vencimento</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data de Entrega</DtxtDeliveryDate>
+    <DtxtComDate>Data de Comunicação</DtxtComDate>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtDueDate>Data de Vencimento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtDocDet>Detalhes do Documento</LtxtDocDet>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>Data de Vencimento</LtxtDueDate>
+    <LtxtProd>Produto</LtxtProd>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Cartão Bancário</LtxtBankTrans>
+    <LtxtCredCard>Cartão Crédito</LtxtCredCard>
+    <LtxtPymntCond>Condição de Pagamento</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtShipAdd>Endereço de Envio</LtxtShipAdd>
+    <LtxtPayAdd>Endereço de Cobrança</LtxtPayAdd>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>À payer jusqu'au</DtxtInvDueDate>
+    <DtxtDeliveryDate>Date de livraison</DtxtDeliveryDate>
+    <DtxtComDate>Date de comunication</DtxtComDate>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtDueDate>Date d'échéance (Valable jusqu'au)</DtxtDueDate>
+    <DtxtBalance>Solde</DtxtBalance>
+    <LtxtDocDet>Détails de document</LtxtDocDet>
+    <LtxtTo>Pour</LtxtTo>
+    <LtxtEMail>Courrier électronique</LtxtEMail>
+    <LtxtDueDate>Date d'expiration</LtxtDueDate>
+    <LtxtProd>Produit</LtxtProd>
+    <LtxtCash>Effectif</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Virement bancaire</LtxtBankTrans>
+    <LtxtCredCard>Card de crédit</LtxtCredCard>
+    <LtxtPymntCond>Condition de versement</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Zahlung fällig</DtxtInvDueDate>
+    <DtxtDeliveryDate>Lieferungsdatum</DtxtDeliveryDate>
+    <DtxtComDate>Kommunikationsdatum</DtxtComDate>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtDueDate>Fälligkeitsdatum</DtxtDueDate>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <LtxtDocDet>Dokument Einzelheiten</LtxtDocDet>
+    <LtxtTo>An</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>Fälligkeitsdatum</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtBankTrans>Überweisung</LtxtBankTrans>
+    <LtxtCredCard>Kreditkarte</LtxtCredCard>
+    <LtxtPymntCond>Zahlungsbedingungen</LtxtPymntCond>
+    <LtxtSubTotal>Zwischensumme</LtxtSubTotal>
+    <LtxtShipAdd>Lieferadresse</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtInvDueDate>Заплатить до</DtxtInvDueDate>
+    <DtxtDeliveryDate>Дата  поставки</DtxtDeliveryDate>
+    <DtxtComDate>Действительный до</DtxtComDate>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtDueDate>Дата  поставки</DtxtDueDate>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <LtxtDocDet>&lt;--&gt;</LtxtDocDet>
+    <LtxtTo>&lt;--&gt;</LtxtTo>
+    <LtxtEMail>&lt;--&gt;</LtxtEMail>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtProd>&lt;--&gt;</LtxtProd>
+    <LtxtCash>&lt;--&gt;</LtxtCash>
+    <LtxtCheck>&lt;--&gt;</LtxtCheck>
+    <LtxtBankTrans>&lt;--&gt;</LtxtBankTrans>
+    <LtxtCredCard>&lt;--&gt;</LtxtCredCard>
+    <LtxtPymntCond>&lt;--&gt;</LtxtPymntCond>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtShipAdd>&lt;--&gt;</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Zaplatit do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Datum dodání</DtxtDeliveryDate>
+    <DtxtComDate>Datum komunikace</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtDueDate>Datum splatnosti</DtxtDueDate>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <LtxtDocDet>Podrobnosti o dokumentu</LtxtDocDet>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtCredCard>Kreditní karta</LtxtCredCard>
+    <LtxtPymntCond>Platební podmínky</LtxtPymntCond>
+    <LtxtSubTotal>Podsoučet</LtxtSubTotal>
+    <LtxtShipAdd>Dodací adresa</LtxtShipAdd>
+    <LtxtPayAdd>Adresa pro platbu</LtxtPayAdd>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Płatne  do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data Dostawy</DtxtDeliveryDate>
+    <DtxtComDate>Ważne do </DtxtComDate>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtDueDate>Termin Płatności</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <LtxtDocDet>Szczegóły dokumentu</LtxtDocDet>
+    <LtxtTo>Do</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtBankTrans>Przelew bankowy</LtxtBankTrans>
+    <LtxtCredCard>Karta kredytowa</LtxtCredCard>
+    <LtxtPymntCond>Warunki płatności</LtxtPymntCond>
+    <LtxtSubTotal>Suma częściowa</LtxtSubTotal>
+    <LtxtShipAdd>Adres do wysyłki</LtxtShipAdd>
+    <LtxtPayAdd>Adres do faktury</LtxtPayAdd>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtInvDueDate>Splatnosť</DtxtInvDueDate>
+    <DtxtDeliveryDate>Termín doručenia</DtxtDeliveryDate>
+    <DtxtComDate>Dátum komunikácie</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtDueDate>Dátum splatnosti</DtxtDueDate>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <LtxtDocDet>Podrobnosti dokumentu</LtxtDocDet>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtEMail>E-mailová adresa</LtxtEMail>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtCredCard>Kreditná karta</LtxtCredCard>
+    <LtxtPymntCond>Platobné podmienky</LtxtPymntCond>
+    <LtxtSubTotal>Medzisúčet</LtxtSubTotal>
+    <LtxtShipAdd>Doručovacia adresa</LtxtShipAdd>
+    <LtxtPayAdd>Platobná adresa</LtxtPayAdd>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtCity>&lt;--&gt;</DtxtCity>
+    <DtxtObservations>&lt;--&gt;</DtxtObservations>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtFax>&lt;--&gt;</DtxtFax>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtInvDueDate>&lt;--&gt;</DtxtInvDueDate>
+    <DtxtDeliveryDate>&lt;--&gt;</DtxtDeliveryDate>
+    <DtxtComDate>&lt;--&gt;</DtxtComDate>
+    <DtxtUnit>&lt;--&gt;</DtxtUnit>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtDiscount>&lt;--&gt;</DtxtDiscount>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtPaid>&lt;--&gt;</DtxtPaid>
+    <DtxtDueDate>&lt;--&gt;</DtxtDueDate>
+    <DtxtBalance>&lt;--&gt;</DtxtBalance>
+    <LtxtDocDet>&lt;--&gt;</LtxtDocDet>
+    <LtxtTo>&lt;--&gt;</LtxtTo>
+    <LtxtEMail>&lt;--&gt;</LtxtEMail>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtProd>&lt;--&gt;</LtxtProd>
+    <LtxtCash>&lt;--&gt;</LtxtCash>
+    <LtxtCheck>&lt;--&gt;</LtxtCheck>
+    <LtxtBankTrans>&lt;--&gt;</LtxtBankTrans>
+    <LtxtCredCard>&lt;--&gt;</LtxtCredCard>
+    <LtxtPymntCond>&lt;--&gt;</LtxtPymntCond>
+    <LtxtSubTotal>&lt;--&gt;</LtxtSubTotal>
+    <LtxtShipAdd>&lt;--&gt;</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtInvDueDate>DtxtInvDueDate</DtxtInvDueDate>
+    <DtxtDeliveryDate>DtxtDeliveryDate</DtxtDeliveryDate>
+    <DtxtComDate>DtxtComDate</DtxtComDate>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtDueDate>DtxtDueDate</DtxtDueDate>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <LtxtDocDet>LtxtDocDet</LtxtDocDet>
+    <LtxtTo>LtxtTo</LtxtTo>
+    <LtxtEMail>LtxtEMail</LtxtEMail>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtProd>LtxtProd</LtxtProd>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtCredCard>LtxtCredCard</LtxtCredCard>
+    <LtxtPymntCond>LtxtPymntCond</LtxtPymntCond>
+    <LtxtSubTotal>LtxtSubTotal</LtxtSubTotal>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtPayAdd>LtxtPayAdd</LtxtPayAdd>
+  </language>
+</languages>

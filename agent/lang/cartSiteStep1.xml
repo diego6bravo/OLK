@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtDelete>Delete</DtxtDelete>
+    <DtxtCurr>Currency</DtxtCurr>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtProd>Product</LtxtProd>
+    <LttlShopCart>My Shopping Cart</LttlShopCart>
+    <LtxtCheckOut>Checkout</LtxtCheckOut>
+    <LtxtEmptyCart>Shopping cart empty</LtxtEmptyCart>
+    <LtxtCurrSign>Sign</LtxtCurrSign>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtDelItmSel>You have not selected item to delete</LtxtDelItmSel>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtErrItmInv>The quantity you desire to sell of item {0} is not available</LtxtErrItmInv>
+    <LtxtViewAll>View all</LtxtViewAll>
+    <LbtnViewSummary>View Summary</LbtnViewSummary>
+    <LtxtSumLines>Summarized Lines</LtxtSumLines>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtRate>Tasas</DtxtRate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <DtxtCurr>Moneda</DtxtCurr>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtProd>Producto</LtxtProd>
+    <LttlShopCart>Mi Canasta</LttlShopCart>
+    <LtxtCheckOut>Comprar</LtxtCheckOut>
+    <LtxtEmptyCart>Canasta de compras vacía</LtxtEmptyCart>
+    <LtxtCurrSign>Signo</LtxtCurrSign>
+    <LtxtConfDelItm>¿Está seguro que desea eliminar {0} artículo(s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>No ha escogido ningún artículo para eliminar</LtxtDelItmSel>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+    <LtxtErrItmInv>La cantidad que desea vender del artículo {0} no está disponible</LtxtErrItmInv>
+    <LtxtViewAll>Ver todos</LtxtViewAll>
+    <LbtnViewSummary>Ver resumen</LbtnViewSummary>
+    <LtxtSumLines>Líneas en resumen</LtxtSumLines>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtRate>שערים</DtxtRate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtDelete>מחק</DtxtDelete>
+    <DtxtCurr>מטבע</DtxtCurr>
+    <LtxtSubtotal>סיכום ביניים</LtxtSubtotal>
+    <LtxtProd>פריט</LtxtProd>
+    <LttlShopCart>סל הקניות שלי</LttlShopCart>
+    <LtxtCheckOut>לקופה</LtxtCheckOut>
+    <LtxtEmptyCart>סל קניות ריק</LtxtEmptyCart>
+    <LtxtCurrSign>סימן</LtxtCurrSign>
+    <LtxtConfDelItm>האם להסיר את {0} הפריט(ים)?</LtxtConfDelItm>
+    <LtxtDelItmSel>לא בחרת שום פריט להסרה</LtxtDelItmSel>
+    <LtxtVolDiscount>הנחה על כמיות</LtxtVolDiscount>
+    <LtxtErrItmInv>הכמות הנחוצה לקניה בפריט {0} לא זמינה</LtxtErrItmInv>
+    <LtxtViewAll>ראה הכל</LtxtViewAll>
+    <LbtnViewSummary>ראה מסוכם</LbtnViewSummary>
+    <LtxtSumLines>סיכום שורות</LtxtSumLines>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtDelete>Delete</DtxtDelete>
+    <DtxtCurr>Currency</DtxtCurr>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtProd>Product</LtxtProd>
+    <LttlShopCart>My Shopping Cart</LttlShopCart>
+    <LtxtCheckOut>Checkout</LtxtCheckOut>
+    <LtxtEmptyCart>Shopping cart empty</LtxtEmptyCart>
+    <LtxtCurrSign>Sign</LtxtCurrSign>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtDelItmSel>You have not selected item to delete</LtxtDelItmSel>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtErrItmInv>The quantity you desire to sell of item {0} is not available</LtxtErrItmInv>
+    <LtxtViewAll>View all</LtxtViewAll>
+    <LbtnViewSummary>View Summary</LbtnViewSummary>
+    <LtxtSumLines>Summarized Lines</LtxtSumLines>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtRate>Taxas</DtxtRate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <DtxtCurr>Moeda</DtxtCurr>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtProd>Produto</LtxtProd>
+    <LttlShopCart>Minha Cesta</LttlShopCart>
+    <LtxtCheckOut>Compra</LtxtCheckOut>
+    <LtxtEmptyCart>Cesta de compras vazia</LtxtEmptyCart>
+    <LtxtCurrSign>Símbolo</LtxtCurrSign>
+    <LtxtConfDelItm>Tem certeza  que deseja excluir {0} iten(s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>Você não selecionou nenhum item para excluir</LtxtDelItmSel>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+    <LtxtErrItmInv>A quantidade que deseja vender do item {0} não está disponível</LtxtErrItmInv>
+    <LtxtViewAll>Ver todos</LtxtViewAll>
+    <LbtnViewSummary>Ver resumo</LbtnViewSummary>
+    <LtxtSumLines>Linhas em resumo</LtxtSumLines>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtRate>Taux</DtxtRate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <DtxtCurr>Monnaie</DtxtCurr>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtProd>Produit</LtxtProd>
+    <LttlShopCart>Ma corbeille</LttlShopCart>
+    <LtxtCheckOut>&lt;--&gt;</LtxtCheckOut>
+    <LtxtEmptyCart>Corbeille d'achat vide</LtxtEmptyCart>
+    <LtxtCurrSign>&lt;--&gt;</LtxtCurrSign>
+    <LtxtConfDelItm>Êtes-vous sûre d'éliminer {0} article (s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>Vous n'avez pas choisi aucun article à éliminer</LtxtDelItmSel>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+    <LtxtErrItmInv>La quantité d'article que vous souhaitez à vendre n'est pas disponible </LtxtErrItmInv>
+    <LtxtViewAll>Voir tous</LtxtViewAll>
+    <LbtnViewSummary>Voir résumé</LbtnViewSummary>
+    <LtxtSumLines>Lignes en résumé</LtxtSumLines>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtRate>Tarif</DtxtRate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <DtxtCurr>Währung</DtxtCurr>
+    <LtxtSubtotal>Zwischensumme</LtxtSubtotal>
+    <LtxtProd>Produkt</LtxtProd>
+    <LttlShopCart>Mein Einkaufswagen</LttlShopCart>
+    <LtxtCheckOut>&lt;--&gt;</LtxtCheckOut>
+    <LtxtEmptyCart>Einkaufswagen leer</LtxtEmptyCart>
+    <LtxtCurrSign>&lt;--&gt;</LtxtCurrSign>
+    <LtxtConfDelItm>Möchten Sie diese(n) Artikel {0} wirklich löschen?</LtxtConfDelItm>
+    <LtxtDelItmSel>Sie haben keinen Artikel zum löschen ausgewählt</LtxtDelItmSel>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+    <LtxtErrItmInv>Die Menge die Sie von Artikel {0} verkaufen möchten ist nicht verfügbar</LtxtErrItmInv>
+    <LtxtViewAll>Alle ansehen</LtxtViewAll>
+    <LbtnViewSummary>Zusammenfassung ansehen</LbtnViewSummary>
+    <LtxtSumLines>Zusammengefasste Zeilen</LtxtSumLines>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtRate>Курс</DtxtRate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <DtxtCurr>Валюта</DtxtCurr>
+    <LtxtSubtotal>Итого</LtxtSubtotal>
+    <LtxtProd>Продукт</LtxtProd>
+    <LttlShopCart>Моя корзина</LttlShopCart>
+    <LtxtCheckOut>Оформить заказ</LtxtCheckOut>
+    <LtxtEmptyCart>Корзина пустая</LtxtEmptyCart>
+    <LtxtCurrSign>Знак</LtxtCurrSign>
+    <LtxtConfDelItm>Вы уверены, что хотите удалить {0} товар (ы)?</LtxtConfDelItm>
+    <LtxtDelItmSel>Вы не выбрали пункт для удаления</LtxtDelItmSel>
+    <LtxtVolDiscount>Со скидкой</LtxtVolDiscount>
+    <LtxtErrItmInv>Количество  желаемых пунктов продажи недоступно  </LtxtErrItmInv>
+    <LtxtViewAll>Посмотреть все</LtxtViewAll>
+    <LbtnViewSummary>Суммарное</LbtnViewSummary>
+    <LtxtSumLines>Краткие линии</LtxtSumLines>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtRate>Sazba</DtxtRate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <DtxtCurr>Měna</DtxtCurr>
+    <LtxtSubtotal>Podsoučet</LtxtSubtotal>
+    <LtxtProd>Product</LtxtProd>
+    <LttlShopCart>Můj nákupní košík</LttlShopCart>
+    <LtxtCheckOut>Platba</LtxtCheckOut>
+    <LtxtEmptyCart>Nákupní košík je prázdný</LtxtEmptyCart>
+    <LtxtCurrSign>Podepsat</LtxtCurrSign>
+    <LtxtConfDelItm>Jste si jistý/á, že chcete vymazat {0} položek?</LtxtConfDelItm>
+    <LtxtDelItmSel>Nevybral/a jste žádnou položku k vymazání</LtxtDelItmSel>
+    <LtxtVolDiscount>Objemová sleva</LtxtVolDiscount>
+    <LtxtErrItmInv>Množství položky {0}, které chcete prodat, není dostupné</LtxtErrItmInv>
+    <LtxtViewAll>Zobrazit vše</LtxtViewAll>
+    <LbtnViewSummary>Zobrazit shrnutí</LbtnViewSummary>
+    <LtxtSumLines>Shrnutí řádek</LtxtSumLines>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtRate>Kurs</DtxtRate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <DtxtCurr>Waluta</DtxtCurr>
+    <LtxtSubtotal>Suma częściowa</LtxtSubtotal>
+    <LtxtProd>Produkt</LtxtProd>
+    <LttlShopCart>Mój koszyk</LttlShopCart>
+    <LtxtCheckOut>Do kasy</LtxtCheckOut>
+    <LtxtEmptyCart>Koszyk pusty</LtxtEmptyCart>
+    <LtxtCurrSign>Znaki</LtxtCurrSign>
+    <LtxtConfDelItm>Czy jesteś pewien, że chcesz skasować  {0} pozycję €?</LtxtConfDelItm>
+    <LtxtDelItmSel>Nie wybrałeś pozycji do skasowania</LtxtDelItmSel>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+    <LtxtErrItmInv>Ilość pozycji {0}, którą chcesz sprzedać jest niedostępna</LtxtErrItmInv>
+    <LtxtViewAll>Zobacz wszystkie</LtxtViewAll>
+    <LbtnViewSummary>Zobacz podsumowanie</LbtnViewSummary>
+    <LtxtSumLines>Podsumowanie wierszy</LtxtSumLines>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtRate>Kurz</DtxtRate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <DtxtCurr>Mena</DtxtCurr>
+    <LtxtSubtotal>Medzisúčet</LtxtSubtotal>
+    <LtxtProd>Produkt</LtxtProd>
+    <LttlShopCart>Môj nákupný košík</LttlShopCart>
+    <LtxtCheckOut>Pokladňa</LtxtCheckOut>
+    <LtxtEmptyCart>Nákupný košík prázdny</LtxtEmptyCart>
+    <LtxtCurrSign>Označenie</LtxtCurrSign>
+    <LtxtConfDelItm>Ste si istí, že chcete vymazať {0} položku(y)</LtxtConfDelItm>
+    <LtxtDelItmSel>Nezvolili ste položku na zmazanie</LtxtDelItmSel>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+    <LtxtErrItmInv>Množstvo položky {0}, ktoré si prajete predať nie je dostupné</LtxtErrItmInv>
+    <LtxtViewAll>Zobraziť všetko</LtxtViewAll>
+    <LbtnViewSummary>Zobraziť súhrn</LbtnViewSummary>
+    <LtxtSumLines>Zhrnuté riadky</LtxtSumLines>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtRate>DtxtRate</DtxtRate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <DtxtCurr>DtxtCurr</DtxtCurr>
+    <LtxtSubtotal>LtxtSubtotal</LtxtSubtotal>
+    <LtxtProd>LtxtProd</LtxtProd>
+    <LttlShopCart>LttlShopCart</LttlShopCart>
+    <LtxtCheckOut>LtxtCheckOut</LtxtCheckOut>
+    <LtxtEmptyCart>LtxtEmptyCart</LtxtEmptyCart>
+    <LtxtCurrSign>LtxtCurrSign</LtxtCurrSign>
+    <LtxtConfDelItm>LtxtConfDelItm</LtxtConfDelItm>
+    <LtxtDelItmSel>LtxtDelItmSel</LtxtDelItmSel>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+    <LtxtErrItmInv>LtxtErrItmInv</LtxtErrItmInv>
+    <LtxtViewAll>LtxtViewAll</LtxtViewAll>
+    <LbtnViewSummary>LbtnViewSummary</LbtnViewSummary>
+    <LtxtSumLines>LtxtSumLines</LtxtSumLines>
+  </language>
+</languages>

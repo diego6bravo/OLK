@@ -1,0 +1,124 @@
+﻿body {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; background-color: #ffffff;  font-size : 12px;}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;  font-size : 12px; }
+
+
+
+	.rubrik
+	{
+	
+	
+	color : black;
+	font-weight : bold;
+	font-size : 12px;
+	font-family: arial,verdana
+}
+
+A:LINK {
+	text-decoration : none;
+	font-weight : bold;
+	color : white;
+
+}
+
+ A:VISITED {
+	text-decoration : none;
+	font-weight : bold;
+	color : white;
+
+}
+A:ACTIVE
+ {
+	text-decoration : underline;
+	font-weight : bold;
+	color : Gray;
+
+}
+A:HOVER
+ {
+	text-decoration : none;
+	font-weight : bold;
+	color : #ACC0EA;
+
+}
+
+.nyhetsrubrik
+{
+	font-size : 18px;
+
+	padding-top: 1px;
+	padding-bottom: 1px;
+
+
+	color: Gray;
+	}
+	
+.linje
+{
+	border-bottom-style : dashed;
+	border-bottom-width : 1px;
+	border-left-style : none;
+	border-right-style : none;
+	border-top-style : none;
+	border-bottom-color : #555555;
+}
+.inmatning {
+background: #ffffff;
+	border-bottom: 1px solid #555555;
+	border-left: 1px solid #555555;
+	border-right: 1px solid #555555;
+	border-top: 1px solid #555555;
+	color: #555555;
+	cursor: hand; /* for IE */
+	font: 9px Verdana, Arial, Helvetica, sans-serif;
+	overflow: hidden;
+}
+.ruta{
+	background: White;
+	border: 1px solid Gray;
+	padding: 5px;
+	color: Gray;
+}
+
+.underrubrik {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	
+}
+.inlagg {
+padding: 5px;
+	border: 1px dashed #555555;
+	color : #555555;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	overflow:auto;
+	background-color: #F1F4F8;
+}
+.input		
+{
+
+	
+	color : #3366CC;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	background-repeat: repeat-x;
+	border: 1px solid #555555;
+}
+
+HR
+{
+	color: #555555;
+
+}
+
+
+.hidden{
+	background-color: #F6F6F6;
+}
+.Update
+{
+	background-color: #FFD2A6;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	text-align: center;
+}

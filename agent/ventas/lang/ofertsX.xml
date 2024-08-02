@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtState>State</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlOfertMan>{0} Management</LttlOfertMan>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtCostPrice>Cost Price</LtxtCostPrice>
+    <LtxtGrosProfit>Gross Profit</LtxtGrosProfit>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprobado</DtxtAproved>
+    <DtxtAnuled>Anulado</DtxtAnuled>
+    <DtxtCounter>Contra</DtxtCounter>
+    <DtxtReject>Rechazar</DtxtReject>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LttlOfertMan>Manejo de {0}</LttlOfertMan>
+    <LtxtBasePrice>Precio Base</LtxtBasePrice>
+    <LtxtCostPrice>Precio Costo</LtxtCostPrice>
+    <LtxtGrosProfit>Ganancia</LtxtGrosProfit>
+    <LtxtResp>Respuesta</LtxtResp>
+    <LtxtDueDate>F. Venc.</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtWaiting>בהמתנה</DtxtWaiting>
+    <DtxtAproved>מאושר</DtxtAproved>
+    <DtxtAnuled>מבוטל</DtxtAnuled>
+    <DtxtCounter>נגד</DtxtCounter>
+    <DtxtReject>לא מאשר</DtxtReject>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LttlOfertMan>ניהול {0}</LttlOfertMan>
+    <LtxtBasePrice>מחיר בסיס</LtxtBasePrice>
+    <LtxtCostPrice>מחיר עלות</LtxtCostPrice>
+    <LtxtGrosProfit>רווח גולמי</LtxtGrosProfit>
+    <LtxtResp>תשובה</LtxtResp>
+    <LtxtDueDate>תאריך סגירה</LtxtDueDate>
+    <LbtnCounterOffer>{1} {0}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtState>County</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtWaiting>Waiting</DtxtWaiting>
+    <DtxtAproved>Approved</DtxtAproved>
+    <DtxtAnuled>Annulled</DtxtAnuled>
+    <DtxtCounter>Counter</DtxtCounter>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlOfertMan>{0} Management</LttlOfertMan>
+    <LtxtBasePrice>Base Price</LtxtBasePrice>
+    <LtxtCostPrice>Cost Price</LtxtCostPrice>
+    <LtxtGrosProfit>Gross Profit</LtxtGrosProfit>
+    <LtxtResp>Response</LtxtResp>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtWaiting>Esperando</DtxtWaiting>
+    <DtxtAproved>Aprovado</DtxtAproved>
+    <DtxtAnuled>Cancelado</DtxtAnuled>
+    <DtxtCounter>Contador</DtxtCounter>
+    <DtxtReject>Recusar</DtxtReject>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LttlOfertMan>Manejo de {0}</LttlOfertMan>
+    <LtxtBasePrice>Preço Base</LtxtBasePrice>
+    <LtxtCostPrice>Preço Custo</LtxtCostPrice>
+    <LtxtGrosProfit>Ganho</LtxtGrosProfit>
+    <LtxtResp>Resposta</LtxtResp>
+    <LtxtDueDate>D.  Venc.</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtState>État</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtWaiting>En attendant</DtxtWaiting>
+    <DtxtAproved>Approuvé</DtxtAproved>
+    <DtxtAnuled>Annulé</DtxtAnuled>
+    <DtxtCounter>vis à vis (contre, en face)</DtxtCounter>
+    <DtxtReject>Rejeter</DtxtReject>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LttlOfertMan>Déplacement de {0}</LttlOfertMan>
+    <LtxtBasePrice>Prix base</LtxtBasePrice>
+    <LtxtCostPrice>Prix coût</LtxtCostPrice>
+    <LtxtGrosProfit>Garantie</LtxtGrosProfit>
+    <LtxtResp>Réponse</LtxtResp>
+    <LtxtDueDate>Date d'expiration</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtWaiting>Wartend</DtxtWaiting>
+    <DtxtAproved>Genehmigt</DtxtAproved>
+    <DtxtAnuled>Annulliert</DtxtAnuled>
+    <DtxtCounter>Zähler</DtxtCounter>
+    <DtxtReject>Ablehnen</DtxtReject>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LttlOfertMan>{0} Verwaltung</LttlOfertMan>
+    <LtxtBasePrice>Basispreis</LtxtBasePrice>
+    <LtxtCostPrice>Einkaufspreis</LtxtCostPrice>
+    <LtxtGrosProfit>Bruttogewinn</LtxtGrosProfit>
+    <LtxtResp>Rückmeldung</LtxtResp>
+    <LtxtDueDate>Fälligkeitsdatum</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtState>Государство</DtxtState>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtWaiting>Рассматриеваемый</DtxtWaiting>
+    <DtxtAproved>Подтверждён</DtxtAproved>
+    <DtxtAnuled>Отменён</DtxtAnuled>
+    <DtxtCounter>Против</DtxtCounter>
+    <DtxtReject>Отклонить</DtxtReject>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LttlOfertMan>Управление {0}</LttlOfertMan>
+    <LtxtBasePrice>Базовая цена</LtxtBasePrice>
+    <LtxtCostPrice>Цена себестоимости</LtxtCostPrice>
+    <LtxtGrosProfit>Чистая  прибыль</LtxtGrosProfit>
+    <LtxtResp>Ответ</LtxtResp>
+    <LtxtDueDate>Дата закрытия</LtxtDueDate>
+    <LbtnCounterOffer>{1} {0}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtState>Stát</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtWaiting>Čekání</DtxtWaiting>
+    <DtxtAproved>Schváleno</DtxtAproved>
+    <DtxtAnuled>Zrušeno</DtxtAnuled>
+    <DtxtCounter>Protinávrh</DtxtCounter>
+    <DtxtReject>Zamítnout</DtxtReject>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LttlOfertMan>{0} Správa</LttlOfertMan>
+    <LtxtBasePrice>Základní cena</LtxtBasePrice>
+    <LtxtCostPrice>Nákladová cena</LtxtCostPrice>
+    <LtxtGrosProfit>Hrubý zisk</LtxtGrosProfit>
+    <LtxtResp>Odpověď</LtxtResp>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtWaiting>Oczekujący</DtxtWaiting>
+    <DtxtAproved>Zatwierdzony</DtxtAproved>
+    <DtxtAnuled>Anulowany</DtxtAnuled>
+    <DtxtCounter>Przeciwny</DtxtCounter>
+    <DtxtReject>Odrzuć</DtxtReject>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LttlOfertMan>{0} Kierownictwo </LttlOfertMan>
+    <LtxtBasePrice>Cena podstawowa</LtxtBasePrice>
+    <LtxtCostPrice>Cena kosztu</LtxtCostPrice>
+    <LtxtGrosProfit>Zysk brutto</LtxtGrosProfit>
+    <LtxtResp>odpowiedź</LtxtResp>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtState>Štát</DtxtState>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtWaiting>Čaká</DtxtWaiting>
+    <DtxtAproved>Schválené</DtxtAproved>
+    <DtxtAnuled>Anulované</DtxtAnuled>
+    <DtxtCounter>Pokladňa</DtxtCounter>
+    <DtxtReject>Zamietnuť</DtxtReject>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LttlOfertMan>Administrácia {0}</LttlOfertMan>
+    <LtxtBasePrice>Základná cena</LtxtBasePrice>
+    <LtxtCostPrice>Nadobúdacia cena</LtxtCostPrice>
+    <LtxtGrosProfit>Hrubý zisk</LtxtGrosProfit>
+    <LtxtResp>Odpoveď</LtxtResp>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LbtnCounterOffer>{0} {1}</LbtnCounterOffer>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtWaiting>DtxtWaiting</DtxtWaiting>
+    <DtxtAproved>DtxtAproved</DtxtAproved>
+    <DtxtAnuled>DtxtAnuled</DtxtAnuled>
+    <DtxtCounter>DtxtCounter</DtxtCounter>
+    <DtxtReject>DtxtReject</DtxtReject>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LttlOfertMan>LttlOfertMan</LttlOfertMan>
+    <LtxtBasePrice>LtxtBasePrice</LtxtBasePrice>
+    <LtxtCostPrice>LtxtCostPrice</LtxtCostPrice>
+    <LtxtGrosProfit>LtxtGrosProfit</LtxtGrosProfit>
+    <LtxtResp>LtxtResp</LtxtResp>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LbtnCounterOffer>LbtnCounterOffer</LbtnCounterOffer>
+  </language>
+</languages>

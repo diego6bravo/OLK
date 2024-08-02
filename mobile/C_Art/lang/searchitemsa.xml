@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtPrice>Price</DtxtPrice>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtItemsSearch>Advanced Items Search</LtxtItemsSearch>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+    <LtxtAllGrp>All the group</LtxtAllGrp>
+    <LtxtAllFrm>All the firms</LtxtAllFrm>
+    <LtxtInventory>Inv</LtxtInventory>
+    <LtxtNewItms>New items</LtxtNewItms>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtItemsSearch>Búsqueda de Artículos Avanzada</LtxtItemsSearch>
+    <LtxtExact>Exacto</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+    <LtxtAllGrp>Todos los grupos</LtxtAllGrp>
+    <LtxtAllFrm>Todas las marcas</LtxtAllFrm>
+    <LtxtInventory>Inv</LtxtInventory>
+    <LtxtNewItms>Art. nuevos</LtxtNewItms>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtItemsSearch>חיפוש פריטים מתקדם</LtxtItemsSearch>
+    <LtxtExact>מדוייק</LtxtExact>
+    <LtxtLike>דומה</LtxtLike>
+    <LtxtAllGrp>כל הקבוצות</LtxtAllGrp>
+    <LtxtAllFrm>כל היצרנים</LtxtAllFrm>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtNewItms>פריטים חדשים</LtxtNewItms>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtPrice>Price</DtxtPrice>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtItemsSearch>Advanced Items Search</LtxtItemsSearch>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+    <LtxtAllGrp>All the group</LtxtAllGrp>
+    <LtxtAllFrm>All the firms</LtxtAllFrm>
+    <LtxtInventory>Inv</LtxtInventory>
+    <LtxtNewItms>New items</LtxtNewItms>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtItemsSearch>Busca avançada de itens</LtxtItemsSearch>
+    <LtxtExact>Exato</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+    <LtxtAllGrp>Todos os grupos</LtxtAllGrp>
+    <LtxtAllFrm>Todas as marcas</LtxtAllFrm>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtNewItms>Novos Itens</LtxtNewItms>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtAllGrp>&lt;--&gt;</LtxtAllGrp>
+    <LtxtAllFrm>&lt;--&gt;</LtxtAllFrm>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtAllGrp>&lt;--&gt;</LtxtAllGrp>
+    <LtxtAllFrm>&lt;--&gt;</LtxtAllFrm>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtAllGrp>&lt;--&gt;</LtxtAllGrp>
+    <LtxtAllFrm>&lt;--&gt;</LtxtAllFrm>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtItemsSearch>Rozšířené vyhledávání položek</LtxtItemsSearch>
+    <LtxtExact>Přesné</LtxtExact>
+    <LtxtLike>jako</LtxtLike>
+    <LtxtAllGrp>Všechny skupiny</LtxtAllGrp>
+    <LtxtAllFrm>Všechny firmy</LtxtAllFrm>
+    <LtxtInventory>Zás</LtxtInventory>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtItemsSearch>zaawansowane poszukiwanie pozycji</LtxtItemsSearch>
+    <LtxtExact>Dokładny</LtxtExact>
+    <LtxtLike>Podobny</LtxtLike>
+    <LtxtAllGrp>Wszystkie grupy</LtxtAllGrp>
+    <LtxtAllFrm>Wszystkie firmy</LtxtAllFrm>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtNewItms>Nowe pozycje</LtxtNewItms>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtItemsSearch>Rozšírené vyhľadávanie položiek</LtxtItemsSearch>
+    <LtxtExact>Presné</LtxtExact>
+    <LtxtLike>Podobné</LtxtLike>
+    <LtxtAllGrp>Celá skupina</LtxtAllGrp>
+    <LtxtAllFrm>Všetky firmy</LtxtAllFrm>
+    <LtxtInventory>Inv</LtxtInventory>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtAllGrp>&lt;--&gt;</LtxtAllGrp>
+    <LtxtAllFrm>&lt;--&gt;</LtxtAllFrm>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtItemsSearch>LtxtItemsSearch</LtxtItemsSearch>
+    <LtxtExact>LtxtExact</LtxtExact>
+    <LtxtLike>LtxtLike</LtxtLike>
+    <LtxtAllGrp>LtxtAllGrp</LtxtAllGrp>
+    <LtxtAllFrm>LtxtAllFrm</LtxtAllFrm>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtNewItms>LtxtNewItms</LtxtNewItms>
+  </language>
+</languages>

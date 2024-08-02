@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtUpdSBO>Updating SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Please wait</LtxtPleaseWait>
+    <LtxtErr>Error updating SBO</LtxtErr>
+    <LtxtUpdORDR>Sales Order #{0} was updated successfully</LtxtUpdORDR>
+    <LtxtBackToCheck>Back to check</LtxtBackToCheck>
+    <LtxtAddDoc>The {0} #{1} was created successfully</LtxtAddDoc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <LtxtUpdSBO>Actualizando SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Por favor espere</LtxtPleaseWait>
+    <LtxtErr>Error actualizando SBO</LtxtErr>
+    <LtxtUpdORDR>La Orden de Venta #{0} fue actualizada con éxito</LtxtUpdORDR>
+    <LtxtBackToCheck>Volver a revisión</LtxtBackToCheck>
+    <LtxtAddDoc>La {0} #{1} fue creada con éxito</LtxtAddDoc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <LtxtUpdSBO>מעדכן את סאפ</LtxtUpdSBO>
+    <LtxtPleaseWait>המתן</LtxtPleaseWait>
+    <LtxtErr>תקלה בעידכון סאפ</LtxtErr>
+    <LtxtUpdORDR>הזמנה מס' {0} עודכנה בהצלחה</LtxtUpdORDR>
+    <LtxtBackToCheck>חזרה לבדיקה</LtxtBackToCheck>
+    <LtxtAddDoc>תעודת {0} {1} נוצרה בהצלחה</LtxtAddDoc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtUpdSBO>Updating SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Please wait</LtxtPleaseWait>
+    <LtxtErr>Error updating SBO</LtxtErr>
+    <LtxtUpdORDR>Sales Order #{0} was updated successfully</LtxtUpdORDR>
+    <LtxtBackToCheck>Back to check</LtxtBackToCheck>
+    <LtxtAddDoc>The {0} #{1} was created successfully</LtxtAddDoc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <LtxtUpdSBO>Atualizando SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Por favor, aguarde</LtxtPleaseWait>
+    <LtxtErr>Erro ao atualizar SBO</LtxtErr>
+    <LtxtUpdORDR>O Pedido de Venda Nº {0} foi atualizado com sucesso</LtxtUpdORDR>
+    <LtxtBackToCheck>Voltar a revisão</LtxtBackToCheck>
+    <LtxtAddDoc>A {0} Nº {1} foi criada com sucesso</LtxtAddDoc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <LtxtUpdSBO>&lt;--&gt;</LtxtUpdSBO>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+    <LtxtErr>&lt;--&gt;</LtxtErr>
+    <LtxtUpdORDR>&lt;--&gt;</LtxtUpdORDR>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtAddDoc>&lt;--&gt;</LtxtAddDoc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <LtxtUpdSBO>&lt;--&gt;</LtxtUpdSBO>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+    <LtxtErr>&lt;--&gt;</LtxtErr>
+    <LtxtUpdORDR>&lt;--&gt;</LtxtUpdORDR>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtAddDoc>&lt;--&gt;</LtxtAddDoc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <LtxtUpdSBO>&lt;--&gt;</LtxtUpdSBO>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+    <LtxtErr>&lt;--&gt;</LtxtErr>
+    <LtxtUpdORDR>&lt;--&gt;</LtxtUpdORDR>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtAddDoc>&lt;--&gt;</LtxtAddDoc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtUpdSBO>Aktualizace SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Vyčkejte prosím</LtxtPleaseWait>
+    <LtxtErr>Chyba při aktualizaci SBO</LtxtErr>
+    <LtxtUpdORDR>Příkaz k prodeji #{0} aktualizován úspěšně</LtxtUpdORDR>
+    <LtxtBackToCheck>Zpět na kontrolu</LtxtBackToCheck>
+    <LtxtAddDoc>{0} #{1} vytvořen úspěšně</LtxtAddDoc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <LtxtUpdSBO>Aktualizacja SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Proszę czekać</LtxtPleaseWait>
+    <LtxtErr>Błąd przy aktualizacji SBO</LtxtErr>
+    <LtxtUpdORDR>Zlecenie sprzedaży #{0} zostało zaktualizowane z sukcesem. </LtxtUpdORDR>
+    <LtxtBackToCheck>Powrót do sprawdzania</LtxtBackToCheck>
+    <LtxtAddDoc>{0} #{1} został stworzony z sukcesem</LtxtAddDoc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtUpdSBO>Aktualizácia SBO</LtxtUpdSBO>
+    <LtxtPleaseWait>Prosím počkajte</LtxtPleaseWait>
+    <LtxtErr>Chyba v aktualizácii SBO</LtxtErr>
+    <LtxtUpdORDR>Zákazka odberateľa #{0} bola aktualizovaná úspešne</LtxtUpdORDR>
+    <LtxtBackToCheck>Späť na skontrolovať</LtxtBackToCheck>
+    <LtxtAddDoc>{0} #{1} bolo vytvorené úspešne</LtxtAddDoc>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <LtxtUpdSBO>&lt;--&gt;</LtxtUpdSBO>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+    <LtxtErr>&lt;--&gt;</LtxtErr>
+    <LtxtUpdORDR>&lt;--&gt;</LtxtUpdORDR>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtAddDoc>&lt;--&gt;</LtxtAddDoc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <LtxtUpdSBO>LtxtUpdSBO</LtxtUpdSBO>
+    <LtxtPleaseWait>LtxtPleaseWait</LtxtPleaseWait>
+    <LtxtErr>LtxtErr</LtxtErr>
+    <LtxtUpdORDR>LtxtUpdORDR</LtxtUpdORDR>
+    <LtxtBackToCheck>LtxtBackToCheck</LtxtBackToCheck>
+    <LtxtAddDoc>LtxtAddDoc</LtxtAddDoc>
+  </language>
+</languages>

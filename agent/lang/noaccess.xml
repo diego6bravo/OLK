@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>You do not have access to this page!</LtxtValNoAccess>
+    <LtxtValDocAccess>Document does not belong to you!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>¡No tiene acceso a esta página!</LtxtValNoAccess>
+    <LtxtValDocAccess>¡Este documento no le pertenece!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtValNoAccess>אין אישור כניסה לעמוד הנ"ל!</LtxtValNoAccess>
+    <LtxtValDocAccess>המסמך הנ"ל לא ניתן לכניסה כיוון שאין לך בעלות עליו!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>You do not have access to this page!</LtxtValNoAccess>
+    <LtxtValDocAccess>Document does not belong to you!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Não tem acesso a esta página!</LtxtValNoAccess>
+    <LtxtValDocAccess>Este documento não lhe pertence!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Vous n\'avez pas d\'accès à cette page!</LtxtValNoAccess>
+    <LtxtValDocAccess>Ce document ne l\'appartient pas!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Sie haben kein Zugang auf diese Seite</LtxtValNoAccess>
+    <LtxtValDocAccess>Dieses Dokument gehört nicht zu Ihnen</LtxtValDocAccess>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>не утверждён вход на страницу управления</LtxtValNoAccess>
+    <LtxtValDocAccess>нет доступа к документу управления</LtxtValDocAccess>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Nemáte přístup na tuto stránku!</LtxtValNoAccess>
+    <LtxtValDocAccess>Dokument Vám nepatří!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Nie masz dostępu do tej strony!</LtxtValNoAccess>
+    <LtxtValDocAccess>Dokument nie należy do ciebie!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>Nemáte prístup na túto stránku!</LtxtValNoAccess>
+    <LtxtValDocAccess>Dokument Vám nepatrí!</LtxtValDocAccess>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtValNoAccess>LtxtValNoAccess</LtxtValNoAccess>
+    <LtxtValDocAccess>LtxtValDocAccess</LtxtValDocAccess>
+  </language>
+</languages>

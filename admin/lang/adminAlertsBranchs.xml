@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtClose>Close</DtxtClose>
+    <LttlAlertBranches>Alerts - Branches</LttlAlertBranches>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtBranches>Sucursales</DtxtBranches>
+    <DtxtClose>Cerrar</DtxtClose>
+    <LttlAlertBranches>Alertas - Sucursales</LttlAlertBranches>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtBranches>סניפים</DtxtBranches>
+    <DtxtClose>סגור</DtxtClose>
+    <LttlAlertBranches>התראות - סניפים</LttlAlertBranches>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtBranches>Branches</DtxtBranches>
+    <DtxtClose>Close</DtxtClose>
+    <LttlAlertBranches>Alerts - Branches</LttlAlertBranches>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtBranches>Filiais</DtxtBranches>
+    <DtxtClose>Fechar</DtxtClose>
+    <LttlAlertBranches>Alertas - Filiais</LttlAlertBranches>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtBranches>Succursales (Annexes)</DtxtBranches>
+    <DtxtClose>Fermer</DtxtClose>
+    <LttlAlertBranches>Alertes - Succursales</LttlAlertBranches>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtBranches>Zweige</DtxtBranches>
+    <DtxtClose>Schließen</DtxtClose>
+    <LttlAlertBranches>Meldungen - Zweige</LttlAlertBranches>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtBranches>Филиалы</DtxtBranches>
+    <DtxtClose>Закрыт</DtxtClose>
+    <LttlAlertBranches>Сигналы - Филиалы</LttlAlertBranches>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtClose>Zavřít</DtxtClose>
+    <LttlAlertBranches>Varování - Pobočky</LttlAlertBranches>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtBranches>Oddziały</DtxtBranches>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <LttlAlertBranches>Alerty -- Oddziały</LttlAlertBranches>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtBranches>Pobočky</DtxtBranches>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <LttlAlertBranches>Upozornenia - Pobočky</LttlAlertBranches>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtBranches>&lt;--&gt;</DtxtBranches>
+    <DtxtClose>&lt;--&gt;</DtxtClose>
+    <LttlAlertBranches>&lt;--&gt;</LttlAlertBranches>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtBranches>DtxtBranches</DtxtBranches>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <LttlAlertBranches>LttlAlertBranches</LttlAlertBranches>
+  </language>
+</languages>

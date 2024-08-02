@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtCompany>Company</DtxtCompany>
+    <DtxtString>String</DtxtString>
+    <DtxtMatch>Match</DtxtMatch>
+    <LttlPaySys>Payment System</LttlPaySys>
+    <LttlPaySysNote>Here the different payment methods available may be activated (Clients).&lt;br&gt;&lt;b&gt;Observation:&lt;/b&gt; Only services related to your country will appear (based on your database general settings)</LttlPaySysNote>
+    <LttlPaySysFields>In this section it is possible to set the different properties required by the selected payment system</LttlPaySysFields>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtCreditCards>Credit Cards</LtxtCreditCards>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtCurr>Moneda</DtxtCurr>
+    <DtxtCompany>Compañía</DtxtCompany>
+    <DtxtString>Cadena</DtxtString>
+    <DtxtMatch>Pareo</DtxtMatch>
+    <LttlPaySys>Sistema de Pagos</LttlPaySys>
+    <LttlPaySysNote>En esta sección podrá activar diferentes métodos de pago (Clientes).&lt;br&gt;&lt;b&gt;Observación:&lt;/b&gt; solo aparecerán los servicios relacionados a su país (según datos generales de base de datos)</LttlPaySysNote>
+    <LttlPaySysFields>En esta sección podrá definir las diferentes propiedades requeridas por el sistema de pago seleccionado</LttlPaySysFields>
+    <LtxtValFld>Falta datos para el campo "{0}"</LtxtValFld>
+    <LtxtCreditCards>Tarjetas de Crédito</LtxtCreditCards>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtField>שדה</DtxtField>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtNumeric>נומרי</DtxtNumeric>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtCurr>מטבע</DtxtCurr>
+    <DtxtCompany>חברה</DtxtCompany>
+    <DtxtString>מחרוזת</DtxtString>
+    <DtxtMatch>התאמה</DtxtMatch>
+    <LttlPaySys>מערכת תשלומים</LttlPaySys>
+    <LttlPaySysNote>בחלק זה תוכל להפעיל אמצעי תשלום שונים (כגון סליקת כרטיסי אשראי)&lt;br&gt;&lt;b&gt;הערה:&lt;/b&gt; רק חברות המקושרות למדינה שלך זמינות להפעלה (לפי הגדרות כלליות במערכת)</LttlPaySysNote>
+    <LttlPaySysFields>בחלק זה תוכל להגדיר מאפיינים יחודים הקשורים למערכת התשלומים שבחרת</LttlPaySysFields>
+    <LtxtValFld>חסר נתונים בשדה "{0}"</LtxtValFld>
+    <LtxtCreditCards>כרטיסי אשראי</LtxtCreditCards>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Field</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtCompany>Company</DtxtCompany>
+    <DtxtString>String</DtxtString>
+    <DtxtMatch>Match</DtxtMatch>
+    <LttlPaySys>Payment System</LttlPaySys>
+    <LttlPaySysNote>Here the different payment methods available may be activated (Clients).&lt;br&gt;&lt;b&gt;Observation:&lt;/b&gt; Only services related to your country will appear (based on your database general settings)</LttlPaySysNote>
+    <LttlPaySysFields>In this section it is possible to set the different properties required by the selected payment system</LttlPaySysFields>
+    <LtxtValFld>Please enter the field "{0}"</LtxtValFld>
+    <LtxtCreditCards>Credit Cards</LtxtCreditCards>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtField>Campo</DtxtField>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtCurr>Moeda</DtxtCurr>
+    <DtxtCompany>Empresa</DtxtCompany>
+    <DtxtString>Sequência</DtxtString>
+    <DtxtMatch>Similar</DtxtMatch>
+    <LttlPaySys>Forma de Pagamento</LttlPaySys>
+    <LttlPaySysNote>Nesta seção, poderá ser ativado diferentes métodos de pagamento (Clientes).&lt;br&gt;&lt;b&gt;Observação:&lt;/b&gt; só aparece os serviços relacionados a seu país (como banco de dados de informação geral)</LttlPaySysNote>
+    <LttlPaySysFields>Nesta seção, é possível definir as diferentes propriedades requeridas pelo meio de pagamento selecionado</LttlPaySysFields>
+    <LtxtValFld>Falta dados para o campo "{0}"</LtxtValFld>
+    <LtxtCreditCards>Cartões de Crédito</LtxtCreditCards>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtNumeric>Numérique</DtxtNumeric>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtCurr>Monnaie</DtxtCurr>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <DtxtString>&lt;--&gt;</DtxtString>
+    <DtxtMatch>&lt;--&gt;</DtxtMatch>
+    <LttlPaySys>&lt;--&gt;</LttlPaySys>
+    <LttlPaySysNote>&lt;--&gt;</LttlPaySysNote>
+    <LttlPaySysFields>&lt;--&gt;</LttlPaySysFields>
+    <LtxtValFld>Il manque des données pour le domaine "{0}"</LtxtValFld>
+    <LtxtCreditCards>&lt;--&gt;</LtxtCreditCards>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtField>Feld</DtxtField>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtNumeric>Numerisch</DtxtNumeric>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Währung</DtxtCurr>
+    <DtxtCompany>Firma</DtxtCompany>
+    <DtxtString>Reihung</DtxtString>
+    <DtxtMatch>Treffer</DtxtMatch>
+    <LttlPaySys>&lt;--&gt;</LttlPaySys>
+    <LttlPaySysNote>&lt;--&gt;</LttlPaySysNote>
+    <LttlPaySysFields>&lt;--&gt;</LttlPaySysFields>
+    <LtxtValFld>Bitte geben Sie das Feld "{0}" ein</LtxtValFld>
+    <LtxtCreditCards>&lt;--&gt;</LtxtCreditCards>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtField>Поле</DtxtField>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtNumeric>Числовой</DtxtNumeric>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtCurr>Валюта</DtxtCurr>
+    <DtxtCompany>Компания</DtxtCompany>
+    <DtxtString>Строка</DtxtString>
+    <DtxtMatch>Совпадать</DtxtMatch>
+    <LttlPaySys>Платежная система</LttlPaySys>
+    <LttlPaySysNote>В данном разделе можно активировать различные методы оплаты (клиентов).&lt;br&gt;&lt;b&gt; Наблюдение: &lt;/ B&gt; только услуги, связанные с вашей страной появятся (база от Вас базу данных общих настройках)</LttlPaySysNote>
+    <LttlPaySysFields>В этом разделе можно установить различные свойства, необходимые в выбранной платежной системе</LttlPaySysFields>
+    <LtxtValFld>Не хватает данных в поле "{0}"</LtxtValFld>
+    <LtxtCreditCards>Кредитные карточки</LtxtCreditCards>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselné</DtxtNumeric>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtCurr>Měna</DtxtCurr>
+    <DtxtCompany>Společnost</DtxtCompany>
+    <DtxtString>Řetězec</DtxtString>
+    <DtxtMatch>Párovat</DtxtMatch>
+    <LttlPaySys>Platební systém</LttlPaySys>
+    <LttlPaySysNote>V této sekci můžete aktivovat různé způsoby placení (Klienti).&lt;br&gt;&lt;b&gt;Poznámka:&lt;/b&gt; Budou zobrazeny pouze služby vztahující se k vaší zemi (na základě všeobecných nastavení vaší databáze)</LttlPaySysNote>
+    <LttlPaySysFields>V této sekci je možné nastavit různé vlastnosti požadované vybraným platebním systémem</LttlPaySysFields>
+    <LtxtValFld>Vyplňte prosím pole "{0}"</LtxtValFld>
+    <LtxtCreditCards>Kreditní karty</LtxtCreditCards>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtField>Pole</DtxtField>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtNumeric>Numeryczny</DtxtNumeric>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtCurr>Waluta</DtxtCurr>
+    <DtxtCompany>Firma</DtxtCompany>
+    <DtxtString>Sekwencja</DtxtString>
+    <DtxtMatch>Dopasowanie</DtxtMatch>
+    <LttlPaySys>System płatności</LttlPaySys>
+    <LttlPaySysNote>Tutaj można aktywować różne dostępne metody płatności (klienci) &lt;b&gt;Observation:&lt;/b&gt; Pojawią się tylko usługi związane z twoim krajem (na podstawie ogólnych ustawień bazy danych)</LttlPaySysNote>
+    <LttlPaySysFields>W tym dziale można ustawić różne właściwości wymagane przez wybrany system płatności</LttlPaySysFields>
+    <LtxtValFld>Proszę wprowadź pole "{0}"</LtxtValFld>
+    <LtxtCreditCards>Karty kredytowe</LtxtCreditCards>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtNumeric>Číselný</DtxtNumeric>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtCurr>Mena</DtxtCurr>
+    <DtxtCompany>Spoločnosť</DtxtCompany>
+    <DtxtString>Rad</DtxtString>
+    <DtxtMatch>Zhoda</DtxtMatch>
+    <LttlPaySys>Platobný systém</LttlPaySys>
+    <LttlPaySysNote>Tu sa dajú aktivovať rôzne dostupné spôsoby platby (Klienti). &lt;b&gt;Observation:&lt;/b&gt; Len služby súvisiace s Vašou krajinu budú zobrazené (na základe vašich všeobecných nastavení databázy)</LttlPaySysNote>
+    <LttlPaySysFields>V tejto sekcii je možné nastaviť rôzne vlastnosti vyžadované zvoleným platobným systémom</LttlPaySysFields>
+    <LtxtValFld>Prosím zadajte políčko "{0}"</LtxtValFld>
+    <LtxtCreditCards>Kreditné karty</LtxtCreditCards>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtNumeric>&lt;--&gt;</DtxtNumeric>
+    <DtxtValNumValWhole>&lt;--&gt;</DtxtValNumValWhole>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtCurr>&lt;--&gt;</DtxtCurr>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <DtxtString>&lt;--&gt;</DtxtString>
+    <DtxtMatch>&lt;--&gt;</DtxtMatch>
+    <LttlPaySys>&lt;--&gt;</LttlPaySys>
+    <LttlPaySysNote>&lt;--&gt;</LttlPaySysNote>
+    <LttlPaySysFields>&lt;--&gt;</LttlPaySysFields>
+    <LtxtValFld>&lt;--&gt;</LtxtValFld>
+    <LtxtCreditCards>&lt;--&gt;</LtxtCreditCards>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtNumeric>DtxtNumeric</DtxtNumeric>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtCurr>DtxtCurr</DtxtCurr>
+    <DtxtCompany>DtxtCompany</DtxtCompany>
+    <DtxtString>DtxtString</DtxtString>
+    <DtxtMatch>DtxtMatch</DtxtMatch>
+    <LttlPaySys>LttlPaySys</LttlPaySys>
+    <LttlPaySysNote>LttlPaySysNote</LttlPaySysNote>
+    <LttlPaySysFields>LttlPaySysFields</LttlPaySysFields>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+    <LtxtCreditCards>LtxtCreditCards</LtxtCreditCards>
+  </language>
+</languages>

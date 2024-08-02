@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtValSlVat>Please select a Vat Group</LtxtValSlVat>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <LtxtVatGrp>Grupo de Impuestos</LtxtVatGrp>
+    <LtxtValSlVat>Debe seleccionar el indicador de impuestos</LtxtValSlVat>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <LtxtVatGrp>קבוצת מע"מ</LtxtVatGrp>
+    <LtxtValSlVat>צריך לבחור את קבוצת המע"מ</LtxtValSlVat>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtValSlVat>Please select a Vat Group</LtxtValSlVat>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <LtxtVatGrp>Grupo de Impostos</LtxtVatGrp>
+    <LtxtValSlVat>Deve selecionar o indicador de impostos</LtxtValSlVat>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <LtxtVatGrp>Groupe des taxes</LtxtVatGrp>
+    <LtxtValSlVat>Devez-vous sélectionner l'indicateur des taxes</LtxtValSlVat>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <LtxtVatGrp>Mehrwertsteuergruppe</LtxtVatGrp>
+    <LtxtValSlVat>Bitte wählen Sie eine Mehrwertsteuergruppe</LtxtValSlVat>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <LtxtVatGrp>Группы НДС</LtxtVatGrp>
+    <LtxtValSlVat>Нужно  выбрать  группу НДС</LtxtValSlVat>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <LtxtVatGrp>Skupina DPH</LtxtVatGrp>
+    <LtxtValSlVat>Vyberte prosím skupinu DPH</LtxtValSlVat>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <LtxtVatGrp>Grupa VAT</LtxtVatGrp>
+    <LtxtValSlVat>Proszę wybrać grupę VAT</LtxtValSlVat>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <LtxtVatGrp>Daňová skupina</LtxtVatGrp>
+    <LtxtValSlVat>Prosím vyberte Daňovú skupinu</LtxtValSlVat>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <LtxtVatGrp>LtxtVatGrp</LtxtVatGrp>
+    <LtxtValSlVat>LtxtValSlVat</LtxtValSlVat>
+  </language>
+</languages>

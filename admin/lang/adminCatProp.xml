@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtList>List</DtxtList>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtCatProp>Catalog Properties</LtxtCatProp>
+    <LtxtCatPropNote>Here the properties of the catalog for clients and agents may be defined.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Default Catalog Order (OLK-Clients)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Default Catalog Order (OLK-Agents)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>When Finding Only One Result</LtxtAutoSearchOpen>
+    <LoptAddToCart>Add to cart</LoptAddToCart>
+    <LtxtRegCat>Regular Catalog</LtxtRegCat>
+    <LtxtViewDet>View Details</LtxtViewDet>
+    <LtxtShowClientRef>Show Item Code (Client)</LtxtShowClientRef>
+    <LtxtCatShowProm>Show Promotional Prices (Client)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Show Sales Unit (Client)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Show Images in Catalog (Mobile)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Sales Unit for Agents</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Sales Unit for Clients</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Keep Sales Unit Price When Selling in Pack Units</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Report Encoding - Item Details (Sales)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Enable Offers for Promotional Items</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Show Search Tree Node Item Count</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Show Search Tree Sub Node Item Count</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Enable Search by Alternative Items</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Default View - Item Catalog (Clients)</LtxtDefViewCl>
+    <LtxtDefViewAg>Default View - Item Catalog (Agents)</LtxtDefViewAg>
+    <LtxtCarArt>Item OLK Deactivation Property</LtxtCarArt>
+    <LtxtQryGroupSearch>Properties to Include in Search</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Show quantity in unit (Agent)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Show quantity in unit (Client)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>Enable Search Exact Method (Agent)</LtxtSearchExactA>
+    <LtxtSearchExactC>Enable Search Exact Method (Client)</LtxtSearchExactC>
+    <LtxtSearchExactP>Enable Search Exact Method (Mobile)</LtxtSearchExactP>
+    <LtxtSearchMethodA>Default Search Method (Agent)</LtxtSearchMethodA>
+    <LtxtSearchMethodC>Default Search Method (Client)</LtxtSearchMethodC>
+    <LtxtSearchMethodP>Default Search Method (Mobile)</LtxtSearchMethodP>
+    <LtxtShowPriceTax>Show Price + Tax (Client)</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>Enable Search by Vendor Code</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>Enable Unit Selection (Agent)</LEnableUnitSelection>
+    <LtxtShowClientImg>Show Images in Catalog (Client)</LtxtShowClientImg>
+    <LtxtShowAgentImg>Show Images in Catalog (Agent)</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>Enable Multiple Check (Clients)</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtMedium>Media</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtBaseUnit>Un. Suelta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalaje</DtxtPackUnit>
+    <DtxtList>Lista</DtxtList>
+    <DtxtExact>Exacto</DtxtExact>
+    <DtxtLike>Similar</DtxtLike>
+    <LtxtCatProp>Propiedades del Catálogo</LtxtCatProp>
+    <LtxtCatPropNote>En esta sección podrá definir las diferentes propiedades del catálogo, tanto para clientes como para agentes.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Orden de catálogo predeterminado (OLK-Cliente)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Orden de catálogo predeterminado (OLK-Agentes)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Al encontrar un resultado de artículo</LtxtAutoSearchOpen>
+    <LoptAddToCart>Agregar a canasta</LoptAddToCart>
+    <LtxtRegCat>Catálogo normal</LtxtRegCat>
+    <LtxtViewDet>Ver detalles</LtxtViewDet>
+    <LtxtShowClientRef>Mostrar referencia de artículo (Cliente)</LtxtShowClientRef>
+    <LtxtCatShowProm>Mostrar precios de promoción (Cliente)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Mostrar unidad de venta (Cliente)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Mostrar imágenes en catálogo (Movil)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Unidad de venta para agentes</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Unidad de venta para clientes</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Mantener precio de unidad de venta al vender con unidad de embalaje</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Codificación de reportes - Detalle de artículo (Ventas)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Habilitar ofertas a artículos con promociones</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Mostrar conteo de artículos en nodo de árbol de búsqueda</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Mostrar conteo de artículos en sub nodo de árbol de búsqueda</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Habilitar búsqueda por códigos alternos</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Vista predeterminada - Catalogo de artículos (Clientes)</LtxtDefViewCl>
+    <LtxtDefViewAg>Vista predeterminada - Catalogo de artículos (Agentes)</LtxtDefViewAg>
+    <LtxtCarArt>Característica de artículos desactivados</LtxtCarArt>
+    <LtxtQryGroupSearch>Propiedades a incluir en la búsqueda</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Mostrar cantidad en unidad (Agente)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Mostrar cantidad en unidad (Cliente)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>Habilitar Búsqueda Exacta (Agente)</LtxtSearchExactA>
+    <LtxtSearchExactC>Habilitar Búsqueda Exacta (Cliente)</LtxtSearchExactC>
+    <LtxtSearchExactP>Habilitar Búsqueda Exacta (Mobile)</LtxtSearchExactP>
+    <LtxtSearchMethodA>Modo Predeterminado de Búsqueda (Agente)</LtxtSearchMethodA>
+    <LtxtSearchMethodC>Modo Predeterminado de Búsqueda (Cliente)</LtxtSearchMethodC>
+    <LtxtSearchMethodP>Modo Predeterminado de Búsqueda (Mobile)</LtxtSearchMethodP>
+    <LtxtShowPriceTax>Mostrar Precio + Impuesto (Cliente)</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>Habilitar búsqueda por códigos de proveedor</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>Habilitar Selección de Unidad (Agente)</LEnableUnitSelection>
+    <LtxtShowClientImg>Mostrar imágenes en catálogo (Cliente)</LtxtShowClientImg>
+    <LtxtShowAgentImg>Mostrar imágenes en catálogo (Agent)</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>Habilitar Marcación Múltiple (Clientes)</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtMedium>אמצע</DtxtMedium>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtBaseUnit>יח' בודדת</DtxtBaseUnit>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPackUnit>יח' אריזה</DtxtPackUnit>
+    <DtxtList>רשימה</DtxtList>
+    <DtxtExact>מדוייק</DtxtExact>
+    <DtxtLike>דומה</DtxtLike>
+    <LtxtCatProp>מאפייני הקטלוג</LtxtCatProp>
+    <LtxtCatPropNote>בחלק זה מוגדרים אפשרויות שונות הקשורות לקטלוג לקוחות וסוכנים</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>סדר קטלוג - ברירת מחדל לקוחות</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>סדר קטלוג - ברירת מחדל סוכנים</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>במצב בו נמצא רק פריט אחד</LtxtAutoSearchOpen>
+    <LoptAddToCart>הוסף לסל</LoptAddToCart>
+    <LtxtRegCat>קטלוג רגיל</LtxtRegCat>
+    <LtxtViewDet>הצג פירוט פריט</LtxtViewDet>
+    <LtxtShowClientRef>הצג מק"ט פריט ללקוחות</LtxtShowClientRef>
+    <LtxtCatShowProm>הצג מבצעים בקטלוג ללקוחות</LtxtCatShowProm>
+    <LtxtShowClientSalUn>הצג יח' מכירה ללקוחות </LtxtShowClientSalUn>
+    <LtxtShowPocketImg>הצג תמונות פריטים בקטלוג (פוקט)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>יח' מכירה - ברירת מחדל סוכנים</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>יח' מכירה - ברירת מחדל לקוחות</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>הצג מחיר יח' מכירה במכירת פריט ביח' אריזה</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>קידוד דוח מכירות - פירוט פריט (סוכנים) </LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>הפעל הצעות מחיר לפריטים עם מבצעים</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>הצג ספירת תוצאות הכותרת של עץ החיפוש</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>הצג ספירת תוצאות בתת שלבים של עץ החיפוש</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>אפשר חיפוש במק"טים אלטרנטיביים</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>תצוגה קטלוג פריטים - ברירת מחדל (לקוחות)</LtxtDefViewCl>
+    <LtxtDefViewAg>תצוגת קטלוג פריטים - ברירת מחדל (סוכנים)</LtxtDefViewAg>
+    <LtxtCarArt>מאפיין לפריטים לא פעילים</LtxtCarArt>
+    <LtxtQryGroupSearch>מאפיינים שיכללו בחיפוש</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>הצג כמות ביחידות(סוכן)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>הצג כמות ביחידות (לקוח)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>אפשר אופציית חיפוש מדוייק (סוכן)</LtxtSearchExactA>
+    <LtxtSearchExactC>אפשר אופציית חיפוש מדוייק (לקוח)</LtxtSearchExactC>
+    <LtxtSearchExactP>אפשר אופציית חיפוש מדוייק (נייד)</LtxtSearchExactP>
+    <LtxtSearchMethodA>חיפוש בשיטת ברירת מחדש (סוכן)</LtxtSearchMethodA>
+    <LtxtSearchMethodC>חיפוש בשיטת ברירת מחדש (לקוח)</LtxtSearchMethodC>
+    <LtxtSearchMethodP>חיפוש בשיטת ברירת מחדש (נייד)</LtxtSearchMethodP>
+    <LtxtShowPriceTax>הצג מחיר + מס (לקוח)</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>אפשר חיפוש על ידי קוד ספק</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>אפשר בחירת יחידה (סוכן)</LEnableUnitSelection>
+    <LtxtShowClientImg>הצג תמונות בקטלוגים (לקוח)</LtxtShowClientImg>
+    <LtxtShowAgentImg>הצג תמונות בקטלוגים (סוכן)</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>אפשר בדיקה מרובה (לקוחות)</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Base Unit</DtxtBaseUnit>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPackUnit>Pack Unit</DtxtPackUnit>
+    <DtxtList>List</DtxtList>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtCatProp>Catalog Properties</LtxtCatProp>
+    <LtxtCatPropNote>Here the properties of the catalog for clients and agents may be defined.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Default Catalog Order (OLK-Clients)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Default Catalog Order (OLK-Agents)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>When Finding Only One Result</LtxtAutoSearchOpen>
+    <LoptAddToCart>Add to cart</LoptAddToCart>
+    <LtxtRegCat>Regular Catalog</LtxtRegCat>
+    <LtxtViewDet>View Details</LtxtViewDet>
+    <LtxtShowClientRef>Show Item Code (Client)</LtxtShowClientRef>
+    <LtxtCatShowProm>Show Promotional Prices (Client)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Show Sales Unit (Client)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Show Images in Catalog (Mobile)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Sales Unit for Agents</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Sales Unit for Clients</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Keep Sales Unit Price When Selling in Pack Units</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Report Encoding - Item Details (Sales)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Enable Offers for Promotional Items</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Show Search Tree Node Item Count</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Show Search Tree Sub Node Item Count</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Enable Search by Alternative Items</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Default View - Item Catalog (Clients)</LtxtDefViewCl>
+    <LtxtDefViewAg>Default View - Item Catalog (Agents)</LtxtDefViewAg>
+    <LtxtCarArt>Item OLK Deactivation Property</LtxtCarArt>
+    <LtxtQryGroupSearch>Properties to Include in Search</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Show quantity in unit (Agent)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Show quantity in unit (Client)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>Enable Search Exact Method (Agent)</LtxtSearchExactA>
+    <LtxtSearchExactC>Enable Search Exact Method (Client)</LtxtSearchExactC>
+    <LtxtSearchExactP>Enable Search Exact Method (Mobile)</LtxtSearchExactP>
+    <LtxtSearchMethodA>Default Search Method (Agent)</LtxtSearchMethodA>
+    <LtxtSearchMethodC>Default Search Method (Client)</LtxtSearchMethodC>
+    <LtxtSearchMethodP>Default Search Method (Mobile)</LtxtSearchMethodP>
+    <LtxtShowPriceTax>Show Price + VAT (Client)</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtMedium>Médio</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtBaseUnit>Un. Solta</DtxtBaseUnit>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPackUnit>Un. Embalagem</DtxtPackUnit>
+    <DtxtList>Lista</DtxtList>
+    <DtxtExact>Exato</DtxtExact>
+    <DtxtLike>Similar</DtxtLike>
+    <LtxtCatProp>Propriedades do Catálogo</LtxtCatProp>
+    <LtxtCatPropNote>Nesta seção, podem ser definidas as propriedades do catálogo para clientes e vendedores.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Ordem do catálogo padrão. (OnlineKit-Clientes)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Ordem do catálogo padrão. (OnlineKit-Vendedores)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Ao encontrar um único resultado.</LtxtAutoSearchOpen>
+    <LoptAddToCart>Adicionar ao Carrinho.</LoptAddToCart>
+    <LtxtRegCat>Catálogo Regular</LtxtRegCat>
+    <LtxtViewDet>Ver Detalhes</LtxtViewDet>
+    <LtxtShowClientRef>Mostrar código do item (Cliente)</LtxtShowClientRef>
+    <LtxtCatShowProm>Mostrar preços promocionais (Cliente)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Mostrar unidade de venda (Cliente)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Mostrar imagens no catálogo (Mobile)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Unidade de vendas para Vendedores</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Unidade de vendas para Clientes</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Manter preço unitário de venda ao vender com unidade de embalagem.</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Codificação de Relatório - Detalhes do Item (Vendas)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Habilitar ofertas para itens promocionais.</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Mostrar contagem de itens da categoria da árvore de busca.</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Mostrar contagem de itens da sub-categoria da árvore de busca.</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Habilitar busca por itens alternativos.</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Vizualização padrão - Catálogo de Item (Clientes)</LtxtDefViewCl>
+    <LtxtDefViewAg>Visualização padrão - Catálogo de Item (Vendedores)</LtxtDefViewAg>
+    <LtxtCarArt>Propriedade de desativação de item OnlineKit.</LtxtCarArt>
+    <LtxtQryGroupSearch>Propriedades para Incluir na Pesquisa</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Mostrar quantidade em unidade (Vendedor)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Mostrar quantidade em unidade (Cliente)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>Habilitar Método de Pesquisa Exata (Vendedor)</LtxtSearchExactA>
+    <LtxtSearchExactC>Habilitar Método de Pesquisa Exata (Cliente)</LtxtSearchExactC>
+    <LtxtSearchExactP>Habilitar Método de Pesquisa Exata (Mobile)</LtxtSearchExactP>
+    <LtxtSearchMethodA>Método de pesquisa padrão. (Vendedor)</LtxtSearchMethodA>
+    <LtxtSearchMethodC>Método de pesquisa padrão. (Cliente)</LtxtSearchMethodC>
+    <LtxtSearchMethodP>Método de pesquisa padrão. (Mobile)</LtxtSearchMethodP>
+    <LtxtShowPriceTax>Mostrar Preço + Imposto (Cliente)</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>Habilitar busca por códigos de fornecedores</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>Habilitar seleção de unidade (Vendedor)</LEnableUnitSelection>
+    <LtxtShowClientImg>Mostrar imagens no catálogo (Cliente)</LtxtShowClientImg>
+    <LtxtShowAgentImg>Mostrar imagens no catálogo (Vendedor)</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>Ativar marcação Múltipla (Clientes)</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtMedium>Moyenne</DtxtMedium>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtBaseUnit>Unité lâchage</DtxtBaseUnit>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPackUnit>Unité d'emballage</DtxtPackUnit>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtCatProp>Propriétés du catalogue</LtxtCatProp>
+    <LtxtCatPropNote>Dans cette section vous pourrez déterminer les divers propriétés du cataloque, pour des clients ainsi que pour des agents.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Ordre du catalogue prédéterminé (OLK - Client)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Ordre du catalogue prédéterminé (OLK - Agents)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Au moment de trouver un résultat d'article</LtxtAutoSearchOpen>
+    <LoptAddToCart>Ajouter à la corbeille</LoptAddToCart>
+    <LtxtRegCat>Catalogue normal</LtxtRegCat>
+    <LtxtViewDet>Voir détails</LtxtViewDet>
+    <LtxtShowClientRef>Montrer référence d'article (Client)</LtxtShowClientRef>
+    <LtxtCatShowProm>Montrer les pix de promotion (Client)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Montrer l'unité de vente (Client)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Montrer images dans les catalogues (Poche)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Unité de vente pour des agents</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Unité de vente pour des clients</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Maintenir le prix d'unité de vente au moment de vendre avec unité d'emballage</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Code des reports - Détail d'article (Ventes)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Habiliter des offres aux articles avec promotions</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>&lt;--&gt;</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>&lt;--&gt;</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>&lt;--&gt;</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>&lt;--&gt;</LtxtDefViewCl>
+    <LtxtDefViewAg>&lt;--&gt;</LtxtDefViewAg>
+    <LtxtCarArt>Caractéristique des articles déactivés</LtxtCarArt>
+    <LtxtQryGroupSearch>&lt;--&gt;</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>&lt;--&gt;</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>&lt;--&gt;</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtBaseUnit>Basiseinheit</DtxtBaseUnit>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPackUnit>Bündeleinheit</DtxtPackUnit>
+    <DtxtList>Aufstellung</DtxtList>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtCatProp>Katalogeigenschaften</LtxtCatProp>
+    <LtxtCatPropNote>In diesem Bereich kann man die verschiedenen Eigenschaften des Katalogs bestimmen, sowohl für Kunden als auch für Agenten.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Standard Katalogbestellung (OLK Kunden)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Standard Katalogbestellung (OLK Agenten)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Wenn nur ein Treffer gefunden wird</LtxtAutoSearchOpen>
+    <LoptAddToCart>Zum Einkaufswagen hinzufügen</LoptAddToCart>
+    <LtxtRegCat>Normaler Katalog</LtxtRegCat>
+    <LtxtViewDet>Details anzeigen</LtxtViewDet>
+    <LtxtShowClientRef>Artikelkennzeichen anzeigen (Kunde)</LtxtShowClientRef>
+    <LtxtCatShowProm>Spezielle-Angebots-Preise anzeigen (Kunde)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Verkaufseinheit anzeigen (Kunde)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Bilder im Katalog anzeigen (Ablage)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Verkaufseinheit für Agent</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Verkaufseinheit für Kunde</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Einzeleinheits-Preis beibehalten beim verkauf von Bündeleinheiten</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Bericht Enkodierung - Artikeleinzelheiten (Verkauf)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Artikel mit speziellen Angeboten freigeben</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>&lt;--&gt;</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>&lt;--&gt;</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>&lt;--&gt;</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>&lt;--&gt;</LtxtDefViewCl>
+    <LtxtDefViewAg>&lt;--&gt;</LtxtDefViewAg>
+    <LtxtCarArt>Eigenschaften von deaktivierten Artikeln</LtxtCarArt>
+    <LtxtQryGroupSearch>&lt;--&gt;</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>&lt;--&gt;</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>&lt;--&gt;</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtMedium>Среднее</DtxtMedium>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtBaseUnit>Шт одиночные</DtxtBaseUnit>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPackUnit>Шт упаковки</DtxtPackUnit>
+    <DtxtList>Список</DtxtList>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtCatProp>Cвойства каталога </LtxtCatProp>
+    <LtxtCatPropNote>В этом разделе можно определить различные свойства в каталоге, для клиентов, а также агентов.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>По умолчанию каталог в порядке (ОЛК-клиентов)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>По умолчанию каталог в порядке (ОЛК-агенты)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>При нахождении только один результат</LtxtAutoSearchOpen>
+    <LoptAddToCart>Добавить в корзину</LoptAddToCart>
+    <LtxtRegCat>Регулярный каталог</LtxtRegCat>
+    <LtxtViewDet>Просмотр подробностей</LtxtViewDet>
+    <LtxtShowClientRef>Показать клиенту код детали</LtxtShowClientRef>
+    <LtxtCatShowProm>Показать меропреятия в каталоге</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Покозать количество единиц упаковке</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Показать фотографии деталей в каталоге (покет)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Еденицы продаж для агентов</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Еденицы продаж для клиентов</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Держите цены продажи единицы при продаже в упаковке единицы</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Доклад кодирование - пункт подробная информация (о продаже)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Включите предлагает изделия с Акций</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Показать поиск узла дерева  количество пунктов</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Показать дерево поиска подпункта пункта количества узлов</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Включить поиск альтернативных пунктов</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Вид по умолчанию - пункт каталога  (клиенты)</LtxtDefViewCl>
+    <LtxtDefViewAg>Вид по умолчанию - пункт каталога (агенты)</LtxtDefViewAg>
+    <LtxtCarArt>Свойства записанного по пунктам</LtxtCarArt>
+    <LtxtQryGroupSearch>Свойства, чтобы включить в поиск</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>&lt;--&gt;</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>&lt;--&gt;</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtMedium>Střední</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základní jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Jednotka balení</DtxtPackUnit>
+    <DtxtList>Seznam</DtxtList>
+    <DtxtExact>Přesné</DtxtExact>
+    <DtxtLike>jako</DtxtLike>
+    <LtxtCatProp>Vlastnosti katalogu</LtxtCatProp>
+    <LtxtCatPropNote>V této sekci je možné definovat různé vlastnosti katalogu, pro klienty i pro agenty.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Výchozí řazení katalogu (OLK - klenti)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Výchozí řazení katalogu (OLK - agenti)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Při vyhledání pouze jediného výsledku</LtxtAutoSearchOpen>
+    <LoptAddToCart>Přidat do košíku</LoptAddToCart>
+    <LtxtRegCat>Běžný katalog</LtxtRegCat>
+    <LtxtViewDet>Zobrazit podrobnosti</LtxtViewDet>
+    <LtxtShowClientRef>Zobrazit kód položky (klient)</LtxtShowClientRef>
+    <LtxtCatShowProm>Zobrazit promoční ceny (klient)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Zobrazit prodejní jednotky (klient)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Zobrazit obrázky v katalogu (kapesní)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Prodejní jednotky pro agenty</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Prodejní jednotky pro klienty</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Uchovat prodejní jednotkovou cenu při prodeji jednotek balení</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Kódování reportu - detaily položek (prodeje)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Povolit nabídky na promoční položky</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Zobrazit počet položek v uzlech vyhledávacího stromu</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Zobrazit počty položek pod uzlů vyhledávacího stromu</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Povolit vyhledávání podle jiných položek</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Výchozí zobrazení - Katalog položek (klienti)</LtxtDefViewCl>
+    <LtxtDefViewAg>Výchozí zobrazení - Katalog položek (agenti)</LtxtDefViewAg>
+    <LtxtCarArt>Deaktivace OLK vlastnosti položky</LtxtCarArt>
+    <LtxtQryGroupSearch>Vlastnosti, které se mají zahrnout do vyhledávání</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>&lt;--&gt;</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>&lt;--&gt;</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtMedium>Średni/a</DtxtMedium>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtBaseUnit>Jednostka podstawowa</DtxtBaseUnit>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPackUnit>Jednostka pakowania</DtxtPackUnit>
+    <DtxtList>Lista</DtxtList>
+    <DtxtExact>Dokładny</DtxtExact>
+    <DtxtLike>Podobny</DtxtLike>
+    <LtxtCatProp>Właściwości katalogu</LtxtCatProp>
+    <LtxtCatPropNote>Tutaj można zdefiniować właściwości katalogu dla klientów i sprzedawców</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Domyślny układ katalogu (Klienci OLK)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Domyślny układ katalogu (Sprzedawcy OLK)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Gdy zostaje znaleziony tylko jeden wynik</LtxtAutoSearchOpen>
+    <LoptAddToCart>Dodaj do koszyka</LoptAddToCart>
+    <LtxtRegCat>Zwykły katalog</LtxtRegCat>
+    <LtxtViewDet>Zobacz szczegóły</LtxtViewDet>
+    <LtxtShowClientRef>Pokaż kod pozycji (klient)</LtxtShowClientRef>
+    <LtxtCatShowProm>Pokaż ceny promocyjne (klient)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Pokaż jednostkę sprzedaży (klient)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Pokaż zdjęcia w katalogu (Schowek)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Jednostka sprzedaży dla Sprzedawców</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Jednostka sprzedaży dla Klientów</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Pokazuj cenę jednostki sprzedaży, sprzedając w jednostkach pakowania</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Kodowanie raportu - szczegóły pozycji (Sprzedaż)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Aktywuj oferty dla pozycji promocyjnych</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Pokaż wynik węzłowych pozycji drzewa poszukiwań </LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Pokaż wynik subwęzłowych pozycji drzewa poszukiwań </LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Zezwól na poszukiwanie za pomocą alternatywnych pozycji</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Widok domyślny  - katalog pozycji (Klienci)</LtxtDefViewCl>
+    <LtxtDefViewAg>Widok domyślny  - katalog pozycji (Sprzedawcy)</LtxtDefViewAg>
+    <LtxtCarArt>Dezaktywacja pozycji OLK</LtxtCarArt>
+    <LtxtQryGroupSearch>Właściwości do ujęcia w poszukiwaniu</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Pokaż ilość w jednostce (Sprzedawca)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Pokaż ilość w jednostce (Klient)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtMedium>Stredný</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtBaseUnit>Základná jednotka</DtxtBaseUnit>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPackUnit>Baliaca jednotka</DtxtPackUnit>
+    <DtxtList>Zoznam</DtxtList>
+    <DtxtExact>Presné</DtxtExact>
+    <DtxtLike>Podobné</DtxtLike>
+    <LtxtCatProp>Vlastnosti katalógu</LtxtCatProp>
+    <LtxtCatPropNote>Tu sa dajú definovať vlastnosti katalógu pre klientov a agentov.</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>Predvolené poradie katalógu (OLK-Klienti)</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>Predvolené poradie katalógu (OLK-Agenti)</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>Pri hľadaní len jedného výsledku</LtxtAutoSearchOpen>
+    <LoptAddToCart>Pridať do košíka</LoptAddToCart>
+    <LtxtRegCat>Stály katalóg</LtxtRegCat>
+    <LtxtViewDet>Zobraziť detaily</LtxtViewDet>
+    <LtxtShowClientRef>Zobraziť Kód položky (Klient)</LtxtShowClientRef>
+    <LtxtCatShowProm>Zobraziť Akciové ceny (Klient)</LtxtCatShowProm>
+    <LtxtShowClientSalUn>Zobraziť Predajnú jednotku (Klient)</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>Zobraziť obrázky v katalógu (Pocket)</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>Predajná jednotka pre Agentov</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>Predajná jednotka pre Klientov</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>Uchovať Predajnú cenu jednotky pri predaji v baliacich jednotkách</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>Oznámiť kódovanie - Udaje položky (Predaje)</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>Umožniť ponuky pre položky v akcii</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>Zobraziť Počet položiek uzla stromu vyhľadávania </LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>Zobraziť Počet položiek poduzla stromu vyhľadávania</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>Umožniť vyhľadávanie podľa alternatívnych položiek</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>Predvolený náhľad - Katalóg položky (Klienti)</LtxtDefViewCl>
+    <LtxtDefViewAg>Predvolený náhľad - Katalóg položky (Agenti)</LtxtDefViewAg>
+    <LtxtCarArt>Možnosť deaktivácie OLK položky</LtxtCarArt>
+    <LtxtQryGroupSearch>Vlastnosti, ktoré majú byť zahrnuté vo vyhľadávaní</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>Zobraziť množstvo v jednotke (Agent)</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>Zobraziť Množstvo v jednotke (Klient)</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtMedium>&lt;--&gt;</DtxtMedium>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <DtxtStore>&lt;--&gt;</DtxtStore>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtBaseUnit>&lt;--&gt;</DtxtBaseUnit>
+    <DtxtSalUnit>&lt;--&gt;</DtxtSalUnit>
+    <DtxtPackUnit>&lt;--&gt;</DtxtPackUnit>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtCatProp>&lt;--&gt;</LtxtCatProp>
+    <LtxtCatPropNote>&lt;--&gt;</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>&lt;--&gt;</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>&lt;--&gt;</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>&lt;--&gt;</LtxtAutoSearchOpen>
+    <LoptAddToCart>&lt;--&gt;</LoptAddToCart>
+    <LtxtRegCat>&lt;--&gt;</LtxtRegCat>
+    <LtxtViewDet>&lt;--&gt;</LtxtViewDet>
+    <LtxtShowClientRef>&lt;--&gt;</LtxtShowClientRef>
+    <LtxtCatShowProm>&lt;--&gt;</LtxtCatShowProm>
+    <LtxtShowClientSalUn>&lt;--&gt;</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>&lt;--&gt;</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>&lt;--&gt;</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>&lt;--&gt;</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>&lt;--&gt;</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>&lt;--&gt;</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>&lt;--&gt;</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>&lt;--&gt;</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>&lt;--&gt;</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>&lt;--&gt;</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>&lt;--&gt;</LtxtDefViewCl>
+    <LtxtDefViewAg>&lt;--&gt;</LtxtDefViewAg>
+    <LtxtCarArt>&lt;--&gt;</LtxtCarArt>
+    <LtxtQryGroupSearch>&lt;--&gt;</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>&lt;--&gt;</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>&lt;--&gt;</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>&lt;--&gt;</LtxtSearchExactA>
+    <LtxtSearchExactC>&lt;--&gt;</LtxtSearchExactC>
+    <LtxtSearchExactP>&lt;--&gt;</LtxtSearchExactP>
+    <LtxtSearchMethodA>&lt;--&gt;</LtxtSearchMethodA>
+    <LtxtSearchMethodC>&lt;--&gt;</LtxtSearchMethodC>
+    <LtxtSearchMethodP>&lt;--&gt;</LtxtSearchMethodP>
+    <LtxtShowPriceTax>&lt;--&gt;</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>&lt;--&gt;</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>&lt;--&gt;</LEnableUnitSelection>
+    <LtxtShowClientImg>&lt;--&gt;</LtxtShowClientImg>
+    <LtxtShowAgentImg>&lt;--&gt;</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>&lt;--&gt;</LtxtEnableMultCheck>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtMedium>DtxtMedium</DtxtMedium>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtBaseUnit>DtxtBaseUnit</DtxtBaseUnit>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPackUnit>DtxtPackUnit</DtxtPackUnit>
+    <DtxtList>DtxtList</DtxtList>
+    <DtxtExact>DtxtExact</DtxtExact>
+    <DtxtLike>DtxtLike</DtxtLike>
+    <LtxtCatProp>LtxtCatProp</LtxtCatProp>
+    <LtxtCatPropNote>LtxtCatPropNote</LtxtCatPropNote>
+    <LtxtDefCCatOrdr>LtxtDefCCatOrdr</LtxtDefCCatOrdr>
+    <LtxtDefVCatOrdr>LtxtDefVCatOrdr</LtxtDefVCatOrdr>
+    <LtxtAutoSearchOpen>LtxtAutoSearchOpen</LtxtAutoSearchOpen>
+    <LoptAddToCart>LoptAddToCart</LoptAddToCart>
+    <LtxtRegCat>LtxtRegCat</LtxtRegCat>
+    <LtxtViewDet>LtxtViewDet</LtxtViewDet>
+    <LtxtShowClientRef>LtxtShowClientRef</LtxtShowClientRef>
+    <LtxtCatShowProm>LtxtCatShowProm</LtxtCatShowProm>
+    <LtxtShowClientSalUn>LtxtShowClientSalUn</LtxtShowClientSalUn>
+    <LtxtShowPocketImg>LtxtShowPocketImg</LtxtShowPocketImg>
+    <LtxtAgentSaleUnit>LtxtAgentSaleUnit</LtxtAgentSaleUnit>
+    <LtxtClientSaleUnit>LtxtClientSaleUnit</LtxtClientSaleUnit>
+    <LtxtUnEmbPriceSet>LtxtUnEmbPriceSet</LtxtUnEmbPriceSet>
+    <LtxtolkItemReport2>LtxtolkItemReport2</LtxtolkItemReport2>
+    <LtxtEnableOfertToDisc>LtxtEnableOfertToDisc</LtxtEnableOfertToDisc>
+    <LShowSearchTreeCount>LShowSearchTreeCount</LShowSearchTreeCount>
+    <LShowSearchTreeSubCou>LShowSearchTreeSubCou</LShowSearchTreeSubCou>
+    <LtxtEnableSearchAlter>LtxtEnableSearchAlter</LtxtEnableSearchAlter>
+    <LtxtDefViewCl>LtxtDefViewCl</LtxtDefViewCl>
+    <LtxtDefViewAg>LtxtDefViewAg</LtxtDefViewAg>
+    <LtxtCarArt>LtxtCarArt</LtxtCarArt>
+    <LtxtQryGroupSearch>LtxtQryGroupSearch</LtxtQryGroupSearch>
+    <LtxtShowQtyInUnAg>LtxtShowQtyInUnAg</LtxtShowQtyInUnAg>
+    <LtxtShowQtyInUnCl>LtxtShowQtyInUnCl</LtxtShowQtyInUnCl>
+    <LtxtSearchExactA>LtxtSearchExactA</LtxtSearchExactA>
+    <LtxtSearchExactC>LtxtSearchExactC</LtxtSearchExactC>
+    <LtxtSearchExactP>LtxtSearchExactP</LtxtSearchExactP>
+    <LtxtSearchMethodA>LtxtSearchMethodA</LtxtSearchMethodA>
+    <LtxtSearchMethodC>LtxtSearchMethodC</LtxtSearchMethodC>
+    <LtxtSearchMethodP>LtxtSearchMethodP</LtxtSearchMethodP>
+    <LtxtShowPriceTax>LtxtShowPriceTax</LtxtShowPriceTax>
+    <LtxtSearchByVendorCod>LtxtSearchByVendorCod</LtxtSearchByVendorCod>
+    <LEnableUnitSelection>LEnableUnitSelection</LEnableUnitSelection>
+    <LtxtShowClientImg>LtxtShowClientImg</LtxtShowClientImg>
+    <LtxtShowAgentImg>LtxtShowAgentImg</LtxtShowAgentImg>
+    <LtxtEnableMultCheck>LtxtEnableMultCheck</LtxtEnableMultCheck>
+  </language>
+</languages>

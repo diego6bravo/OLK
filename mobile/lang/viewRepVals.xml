@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtTop>Top</DtxtTop>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelFld>You must select the value of the field "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtTop>Tope</DtxtTop>
+    <LtxtSelectEnter>Seleccione/Introduzca</LtxtSelectEnter>
+    <LtxtEnterFld>Debe introducir el campo "{0}"</LtxtEnterFld>
+    <LtxtSelFld>Debe escoger el valor de campo "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtTop>למעלה</DtxtTop>
+    <LtxtSelectEnter>בחר/הכנס</LtxtSelectEnter>
+    <LtxtEnterFld>יש למלא את שדה "{0}"</LtxtEnterFld>
+    <LtxtSelFld>יש לבחור ערך "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtTop>Top</DtxtTop>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelFld>You must select the value of the field "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtTop>No máximo</DtxtTop>
+    <LtxtSelectEnter>Selecione/Insira</LtxtSelectEnter>
+    <LtxtEnterFld>Favor inserir o campo "{0}"</LtxtEnterFld>
+    <LtxtSelFld>Você deve selecionar o valor do campo "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtTop>Arrêt</DtxtTop>
+    <LtxtSelectEnter>Sélectionnez/Insérez</LtxtSelectEnter>
+    <LtxtEnterFld>Devez-vous insérer le domaine "{0}"</LtxtEnterFld>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtTop>Oben</DtxtTop>
+    <LtxtSelectEnter>Wählen/Eingeben</LtxtSelectEnter>
+    <LtxtEnterFld>Bitte geben Sie das Feld "{0}" ein</LtxtEnterFld>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtTop>Сверху</DtxtTop>
+    <LtxtSelectEnter>&lt;--&gt;</LtxtSelectEnter>
+    <LtxtEnterFld>&lt;--&gt;</LtxtEnterFld>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtTop>Nahoru</DtxtTop>
+    <LtxtSelectEnter>Vyberte/Zadejte</LtxtSelectEnter>
+    <LtxtEnterFld>Vyplňte prosím pole "{0}"</LtxtEnterFld>
+    <LtxtSelFld>Musíte vybrat hodnotu pole "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtTop>Do góry</DtxtTop>
+    <LtxtSelectEnter>Wybierz/wejdź</LtxtSelectEnter>
+    <LtxtEnterFld>Proszę wpisać pole </LtxtEnterFld>
+    <LtxtSelFld>Musisz wybrać wartość dla pola {0}</LtxtSelFld>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtTop>Vrchol</DtxtTop>
+    <LtxtSelectEnter>Vybrať/Zadať</LtxtSelectEnter>
+    <LtxtEnterFld>Prosím zadajte políčko "{0}"</LtxtEnterFld>
+    <LtxtSelFld>Musíte vybrať hodnotu políčka "{0}"</LtxtSelFld>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtTop>&lt;--&gt;</DtxtTop>
+    <LtxtSelectEnter>&lt;--&gt;</LtxtSelectEnter>
+    <LtxtEnterFld>&lt;--&gt;</LtxtEnterFld>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtTop>DtxtTop</DtxtTop>
+    <LtxtSelectEnter>LtxtSelectEnter</LtxtSelectEnter>
+    <LtxtEnterFld>LtxtEnterFld</LtxtEnterFld>
+    <LtxtSelFld>LtxtSelFld</LtxtSelFld>
+  </language>
+</languages>

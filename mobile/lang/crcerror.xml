@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtHome>Home</DtxtHome>
+    <DtxtEditNewData>Edit new data</DtxtEditNewData>
+    <LtxtCRCError>The object has been modified by another user</LtxtCRCError>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtHome>Inicio</DtxtHome>
+    <DtxtEditNewData>Editar nuevos datos</DtxtEditNewData>
+    <LtxtCRCError>El objeto ha sido modificado por otro usuario</LtxtCRCError>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtHome>הבית</DtxtHome>
+    <DtxtEditNewData>ערוך נתונים חדשים</DtxtEditNewData>
+    <LtxtCRCError>האובייקט כבר עודכן ע"י משתמש אחר</LtxtCRCError>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtHome>Home</DtxtHome>
+    <DtxtEditNewData>Edit new data</DtxtEditNewData>
+    <LtxtCRCError>The object has been modified by another user</LtxtCRCError>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtHome>Início</DtxtHome>
+    <DtxtEditNewData>Editar novos dados</DtxtEditNewData>
+    <LtxtCRCError>O objeto foi modificado por outro usuário</LtxtCRCError>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtHome>&lt;--&gt;</DtxtHome>
+    <DtxtEditNewData>&lt;--&gt;</DtxtEditNewData>
+    <LtxtCRCError>&lt;--&gt;</LtxtCRCError>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtHome>Startseite</DtxtHome>
+    <DtxtEditNewData>Neue Daten Bearbeiten</DtxtEditNewData>
+    <LtxtCRCError>&lt;--&gt;</LtxtCRCError>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtHome>Дом</DtxtHome>
+    <DtxtEditNewData>Приготовить новые данные</DtxtEditNewData>
+    <LtxtCRCError>&lt;--&gt;</LtxtCRCError>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtHome>Domů</DtxtHome>
+    <DtxtEditNewData>Upravit nové údaje</DtxtEditNewData>
+    <LtxtCRCError>Objekt byl změněn jiným uživatelem</LtxtCRCError>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtHome>Początek</DtxtHome>
+    <DtxtEditNewData>Edytuj nowe dane</DtxtEditNewData>
+    <LtxtCRCError>Przedmiot został zmieniony przez innego użytkownika</LtxtCRCError>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtHome>Domov</DtxtHome>
+    <DtxtEditNewData>Editovať nové údaje</DtxtEditNewData>
+    <LtxtCRCError>Objekt bol modifikovaný iným užívateľom</LtxtCRCError>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtHome>&lt;--&gt;</DtxtHome>
+    <DtxtEditNewData>&lt;--&gt;</DtxtEditNewData>
+    <LtxtCRCError>&lt;--&gt;</LtxtCRCError>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtHome>DtxtHome</DtxtHome>
+    <DtxtEditNewData>DtxtEditNewData</DtxtEditNewData>
+    <LtxtCRCError>LtxtCRCError</LtxtCRCError>
+  </language>
+</languages>

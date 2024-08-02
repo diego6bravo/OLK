@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <LtxtConfDel>Are you sure you to continue?</LtxtConfDel>
+    <LtxtConfDelGrp>Are you sure you want to remove group "{0}"?</LtxtConfDelGrp>
+    <LttlAutGrp>Authorization Groups</LttlAutGrp>
+    <LttlAddAutGrp>Add Authorization Groups</LttlAddAutGrp>
+    <LttlEditAutGrp>Edit Authorization Groups</LttlEditAutGrp>
+    <LttlAutGrpNote>Here you define the authorization groups. When you check "Branch" the agents in the group will only be able to authorize objects in the connected branch.</LttlAutGrpNote>
+    <LttlAutGrpEditNote>Here you define the authorization group details and agents.</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtAnd>Y</DtxtAnd>
+    <DtxtOr>O</DtxtOr>
+    <LtxtConfDel>¿Está seguro que desea continuar?</LtxtConfDel>
+    <LtxtConfDelGrp>¿Está seguro que desea eliminar el grupo "{0}"?</LtxtConfDelGrp>
+    <LttlAutGrp>Grupos de Autorización</LttlAutGrp>
+    <LttlAddAutGrp>Agregar Grupo de Autorización</LttlAddAutGrp>
+    <LttlEditAutGrp>Editar Grupo de Autorización</LttlEditAutGrp>
+    <LttlAutGrpNote>En esta sección podrá definir los grupos de autorizaciones. Cuando marca "Sucursal" los agentes en este grupo solo podrán autorizar objetos en la sucursal conectada. </LttlAutGrpNote>
+    <LttlAutGrpEditNote>En esta sección podrá definir los detalles del grupo de autorización y los agentes.</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtAnd>וגם</DtxtAnd>
+    <DtxtOr>או</DtxtOr>
+    <LtxtConfDel>האם אתה בטוח שברצונך להמשיך?</LtxtConfDel>
+    <LtxtConfDelGrp>האם למחוק את הקבוצה "{0}"?</LtxtConfDelGrp>
+    <LttlAutGrp>קבוצות אישור</LttlAutGrp>
+    <LttlAddAutGrp>הוסף קבוצות אישור</LttlAddAutGrp>
+    <LttlEditAutGrp>ערוך קבוצות אישור</LttlEditAutGrp>
+    <LttlAutGrpNote>בחלק זה תוכל לקבוע פרטים וסוכנים של קבוצת האישור. על סימון "סניף", הסוכנים בקבוצה יכלו לאשר רק אובייקטים בסניף המחובר.</LttlAutGrpNote>
+    <LttlAutGrpEditNote>פרטים וסוכנים של קבוצת האישור</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <LtxtConfDel>Are you sure you to continue?</LtxtConfDel>
+    <LtxtConfDelGrp>Are you sure you want to remove group "{0}"?</LtxtConfDelGrp>
+    <LttlAutGrp>Authorization Groups</LttlAutGrp>
+    <LttlAddAutGrp>Add Authorization Groups</LttlAddAutGrp>
+    <LttlEditAutGrp>Edit Authorization Groups</LttlEditAutGrp>
+    <LttlAutGrpNote>Here you define the authorization groups. When you check "Branch" the agents in the group will only be able to authorize objects in the connected branch.</LttlAutGrpNote>
+    <LttlAutGrpEditNote>Here you define the authorization group details and agents.</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtAnd>e</DtxtAnd>
+    <DtxtOr>Ou</DtxtOr>
+    <LtxtConfDel>Você tem certeza que deseja continuar?</LtxtConfDel>
+    <LtxtConfDelGrp>Você tem certeza que deseja remover o grupo "{0}"?</LtxtConfDelGrp>
+    <LttlAutGrp>Grupos de Autorizações</LttlAutGrp>
+    <LttlAddAutGrp>Adicionar Grupos de Autorizações</LttlAddAutGrp>
+    <LttlEditAutGrp>Editar Grupos de Autorizações</LttlEditAutGrp>
+    <LttlAutGrpNote>Nesta seção, você define os grupos de autorizações. Quando você marcar "Filial", os vendedores do grupo serão capazes somente de autorizar objetos conectados à filial.</LttlAutGrpNote>
+    <LttlAutGrpEditNote>Nesta seção você define os detalhes do grupo de autorização e dos vendedores.</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtAnd>&lt;--&gt;</DtxtAnd>
+    <DtxtOr>&lt;--&gt;</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtAnd>Und</DtxtAnd>
+    <DtxtOr>Oder</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtAnd>И так же</DtxtAnd>
+    <DtxtOr>Или</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Nebo</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtAnd>oraz</DtxtAnd>
+    <DtxtOr>lub</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Alebo</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtAnd>&lt;--&gt;</DtxtAnd>
+    <DtxtOr>&lt;--&gt;</DtxtOr>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlAutGrp>&lt;--&gt;</LttlAutGrp>
+    <LttlAddAutGrp>&lt;--&gt;</LttlAddAutGrp>
+    <LttlEditAutGrp>&lt;--&gt;</LttlEditAutGrp>
+    <LttlAutGrpNote>&lt;--&gt;</LttlAutGrpNote>
+    <LttlAutGrpEditNote>&lt;--&gt;</LttlAutGrpEditNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtAnd>DtxtAnd</DtxtAnd>
+    <DtxtOr>DtxtOr</DtxtOr>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+    <LttlAutGrp>LttlAutGrp</LttlAutGrp>
+    <LttlAddAutGrp>LttlAddAutGrp</LttlAddAutGrp>
+    <LttlEditAutGrp>LttlEditAutGrp</LttlEditAutGrp>
+    <LttlAutGrpNote>LttlAutGrpNote</LttlAutGrpNote>
+    <LttlAutGrpEditNote>LttlAutGrpEditNote</LttlAutGrpEditNote>
+  </language>
+</languages>

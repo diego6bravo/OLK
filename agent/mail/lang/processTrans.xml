@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <LtxtTransNote>Your transaction is being processed&lt;br&gt;You will receive a confirmation by E-Mail when the transaction completes</LtxtTransNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <LtxtTransNote>Su transacción esta siendo procesada&lt;br&gt;Recibirá un correo de confirmación cuando la transacción se complete</LtxtTransNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <LtxtTransNote>העיסקה בתהליך עיבוד&lt;br&gt;תקבל הדואר אישור ברגע שעיבוד הסתיים בהצלחה</LtxtTransNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <LtxtTransNote>Your transaction is being processed&lt;br&gt;You will receive a confirmation by E-Mail when the transaction completes</LtxtTransNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <LtxtTransNote>Sua transação está sendo processada.&lt;br&gt;Você receberá um e-mail de confirmação quando a transação for concluída.</LtxtTransNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <LtxtTransNote>&lt;--&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <LtxtTransNote>&lt;--&gt;</LtxtTransNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <LtxtTransNote>Сделка в процесе работы Как только вы получите подтверждение по почте сделка успешно завершена</LtxtTransNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <LtxtTransNote>Vaše transakce se zpracovává&lt;br&gt;Po skončení transakce obdržíte potvrzení e-mailem</LtxtTransNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <LtxtTransNote>Transakcja #{0} twoja transakcja jest w trakcie realizacji jak transakcja zostanie ukończona otrzymasz potwierdzenie emilem</LtxtTransNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <LtxtTransNote>Vaša transakcia sa spracováva.&lt;br&gt;Akonáhle sa transakcia skompletizuje, dostanete potvrdenie E-mailom.</LtxtTransNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <LtxtTransNote>LtxtTransNote</LtxtTransNote>
+  </language>
+</languages>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtPendingActs>{0} pending activities</LtxtPendingActs>
+    <LtxtNewActivity>New Activity</LtxtNewActivity>
+    <LtxtConfDelAct>Are you sure you want to delete this activity?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Client Open Activities</LtxtClientOpenAct>
+    <LtxtShowMyAct>Show only my activities</LtxtShowMyAct>
+    <LtxtShowClosedAct>Show closed activities</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <LtxtOpenActivities>Actividades Pendientes</LtxtOpenActivities>
+    <LtxtPendingActs>{0} actividades pendientes</LtxtPendingActs>
+    <LtxtNewActivity>Nueva Actividad</LtxtNewActivity>
+    <LtxtConfDelAct>¿Está seguro que desea eliminar la actividad?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Actividades Abiertas de Cliente</LtxtClientOpenAct>
+    <LtxtShowMyAct>Mostrar solamente mis actividades</LtxtShowMyAct>
+    <LtxtShowClosedAct>Mostrar actividades cerradas</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <LtxtOpenActivities>פעילויות פתוחות</LtxtOpenActivities>
+    <LtxtPendingActs>{0} פעילויות פתוחות</LtxtPendingActs>
+    <LtxtNewActivity>פעילות חדשה</LtxtNewActivity>
+    <LtxtConfDelAct>האם למחוק פעילות?</LtxtConfDelAct>
+    <LtxtClientOpenAct>פעילויות פתוחות ללקוח</LtxtClientOpenAct>
+    <LtxtShowMyAct>הצג פעילויות שלי בלבד</LtxtShowMyAct>
+    <LtxtShowClosedAct>הצג פעילויות סגורות</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtPendingActs>{0} pending activities</LtxtPendingActs>
+    <LtxtNewActivity>New Activity</LtxtNewActivity>
+    <LtxtConfDelAct>Are you sure you want to delete this activity?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Client Open Activities</LtxtClientOpenAct>
+    <LtxtShowMyAct>Show only my activities</LtxtShowMyAct>
+    <LtxtShowClosedAct>Show closed activities</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <LtxtOpenActivities>Atividades Pendentes</LtxtOpenActivities>
+    <LtxtPendingActs>{0} atividades pendentes</LtxtPendingActs>
+    <LtxtNewActivity>Nova Atividade</LtxtNewActivity>
+    <LtxtConfDelAct>Você tem certeza que deseja excluir esta atividadade?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Atividade de Cliente Abertas</LtxtClientOpenAct>
+    <LtxtShowMyAct>Mostrar somente minhas atividades</LtxtShowMyAct>
+    <LtxtShowClosedAct>Mostrar atividades fechadas</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtPendingActs>&lt;--&gt;</LtxtPendingActs>
+    <LtxtNewActivity>&lt;--&gt;</LtxtNewActivity>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtClientOpenAct>&lt;--&gt;</LtxtClientOpenAct>
+    <LtxtShowMyAct>&lt;--&gt;</LtxtShowMyAct>
+    <LtxtShowClosedAct>&lt;--&gt;</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtPendingActs>&lt;--&gt;</LtxtPendingActs>
+    <LtxtNewActivity>&lt;--&gt;</LtxtNewActivity>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtClientOpenAct>&lt;--&gt;</LtxtClientOpenAct>
+    <LtxtShowMyAct>&lt;--&gt;</LtxtShowMyAct>
+    <LtxtShowClosedAct>&lt;--&gt;</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtPendingActs>&lt;--&gt;</LtxtPendingActs>
+    <LtxtNewActivity>&lt;--&gt;</LtxtNewActivity>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtClientOpenAct>&lt;--&gt;</LtxtClientOpenAct>
+    <LtxtShowMyAct>&lt;--&gt;</LtxtShowMyAct>
+    <LtxtShowClosedAct>&lt;--&gt;</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <LtxtOpenActivities>Otevřít aktivity</LtxtOpenActivities>
+    <LtxtPendingActs>{0} nevyřízených aktivit</LtxtPendingActs>
+    <LtxtNewActivity>Nová aktivita</LtxtNewActivity>
+    <LtxtConfDelAct>Jste si jistý/á, že chcete vymazat tuto aktivitu?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Otevřené aktivity klienta</LtxtClientOpenAct>
+    <LtxtShowMyAct>Zobrazit pouze moje aktivity</LtxtShowMyAct>
+    <LtxtShowClosedAct>Zobrazit uzavřené úlohy</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <LtxtOpenActivities>Otwórz działania</LtxtOpenActivities>
+    <LtxtPendingActs>Działania oczekujące {0}</LtxtPendingActs>
+    <LtxtNewActivity>Nowe działanie</LtxtNewActivity>
+    <LtxtConfDelAct>Czy jesteś pewien, że chcesz usunąć te działanie?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Otwarte działania klienta</LtxtClientOpenAct>
+    <LtxtShowMyAct>Pokaż tylko moje działania</LtxtShowMyAct>
+    <LtxtShowClosedAct>Pokaż zamknięte działania</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <LtxtOpenActivities>Otvorené aktivity</LtxtOpenActivities>
+    <LtxtPendingActs>{0} čakajúcich aktivít</LtxtPendingActs>
+    <LtxtNewActivity>Nová aktivita</LtxtNewActivity>
+    <LtxtConfDelAct>Ste si istí, že chcete vymazať túto aktivitu?</LtxtConfDelAct>
+    <LtxtClientOpenAct>Otvorené aktivity klienta</LtxtClientOpenAct>
+    <LtxtShowMyAct>Zobraziť len moje aktivity</LtxtShowMyAct>
+    <LtxtShowClosedAct>Zobraziť uzavreté aktivity</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtOther>&lt;--&gt;</DtxtOther>
+    <DtxtTask>&lt;--&gt;</DtxtTask>
+    <DtxtConv>&lt;--&gt;</DtxtConv>
+    <DtxtMeeting>&lt;--&gt;</DtxtMeeting>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtPendingActs>&lt;--&gt;</LtxtPendingActs>
+    <LtxtNewActivity>&lt;--&gt;</LtxtNewActivity>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+    <LtxtClientOpenAct>&lt;--&gt;</LtxtClientOpenAct>
+    <LtxtShowMyAct>&lt;--&gt;</LtxtShowMyAct>
+    <LtxtShowClosedAct>&lt;--&gt;</LtxtShowClosedAct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <LtxtOpenActivities>LtxtOpenActivities</LtxtOpenActivities>
+    <LtxtPendingActs>LtxtPendingActs</LtxtPendingActs>
+    <LtxtNewActivity>LtxtNewActivity</LtxtNewActivity>
+    <LtxtConfDelAct>LtxtConfDelAct</LtxtConfDelAct>
+    <LtxtClientOpenAct>LtxtClientOpenAct</LtxtClientOpenAct>
+    <LtxtShowMyAct>LtxtShowMyAct</LtxtShowMyAct>
+    <LtxtShowClosedAct>LtxtShowClosedAct</LtxtShowClosedAct>
+  </language>
+</languages>

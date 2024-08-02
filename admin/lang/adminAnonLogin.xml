@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEnable>Enabled</DtxtEnable>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtValAddress>The web address "{0}” is already defined in the database "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Web address must be provided for anonymous session  :  A Web address must be provided for the anonymous session</LtxtValNoAddress>
+    <LtxtValPList>A Price List must be selected for the anonymous session</LtxtValPList>
+    <LtxtValRegEMail>The e-mail address of activation registration is not valid</LtxtValRegEMail>
+    <LttlAnonSes>Anonymous Session</LttlAnonSes>
+    <LttlAnonSesNote>Here the general configurations for the anonymous session may be defined.</LttlAnonSesNote>
+    <LtxtWebAddress>Web Address</LtxtWebAddress>
+    <LtxtPList>Price List</LtxtPList>
+    <LttlCatFilter>Catalog Filter</LttlCatFilter>
+    <LttlCatFilterNote>Here you can define a default filter for the catalog</LttlCatFilterNote>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Here you can change the main logos.</LtxtLogoNote>
+    <LtxtHomePage>Home Page</LtxtHomePage>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LttlOptManRef>Account Management and Registration Options</LttlOptManRef>
+    <LttlOptManRefNote>options regarding the registration and handling of OLK anonymous users are defined.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Remember Password - E-Mail Address</LtxtRemPwdAddr>
+    <LtxtClientType>Predefined Client Type</LtxtClientType>
+    <LtxtRegPerson>Natural Person</LtxtRegPerson>
+    <LtxtEnChooseCType>Enable Client Type Selection</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Enable Client Registration</LtxtEnableAnReg>
+    <LtxtAnRegAct>Client Registration Method</LtxtAnRegAct>
+    <LtxtAnRegActAut>Automatic Registration</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>E-Mail Activation</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Agent Confirmation</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>E-Mail Activation and Agent Confirmation</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Registration Activation - E-Mail Address</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Account Activation Time</LtxtAnRegConfTime>
+    <LtxtHours>Hours</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Account Activation by Agent Confirmation - Mandatory Agent Assignment</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Account Activation by Agent Confirmation - Mandatory Rejection Note</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Predefined Account Rejection Notes</LtxtRejectNotes>
+    <LtxtConfDelReason>Are you sure you want to delete this reason?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Enable "Terms &amp; Conditions" for Client Registration</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definition "Terms &amp; Conditions" </LtxtAnTerms>
+    <LtxtConfRemHPLogo>Are you sure you want to remove the home page logo?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Are you sure you want to remove the e-mail logo?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Delete Note</LtxtRemNote>
+    <LtxtEditNote>Edit Note</LtxtEditNote>
+    <LtxtNewNote>New Note</LtxtNewNote>
+    <LtxtValQryVal>You must verify the catalog filter query</LtxtValQryVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtEnable>Habilitado</DtxtEnable>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtChange>Cambiar</DtxtChange>
+    <DtxtCmp>Compañía</DtxtCmp>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LtxtValAddress>La dirección web "{0}" ya está definida en la base de datos "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Debe introducir la dirección web que desea utilizar para la sesión anónima</LtxtValNoAddress>
+    <LtxtValPList>Debe seleccionar una lista de precio para la sesión anónima</LtxtValPList>
+    <LtxtValRegEMail>La dirección de correo de activación de registro no es válido</LtxtValRegEMail>
+    <LttlAnonSes>Sesión Anónima</LttlAnonSes>
+    <LttlAnonSesNote>En esta sección podrá definir las configuraciones generales para la sesión anónima.</LttlAnonSesNote>
+    <LtxtWebAddress>Dirección Web</LtxtWebAddress>
+    <LtxtPList>Lista de precio</LtxtPList>
+    <LttlCatFilter>Filtro de Catálogo</LttlCatFilter>
+    <LttlCatFilterNote>En esta sección podrá especificar un filtro predefinido para el catálogo.</LttlCatFilterNote>
+    <LtxtLogo>Logotipos</LtxtLogo>
+    <LtxtLogoNote>En esta sección podrá cambiar los logotipos principales.</LtxtLogoNote>
+    <LtxtHomePage>Página de Inicio</LtxtHomePage>
+    <LtxtSendMail>Envío de Correos</LtxtSendMail>
+    <LttlOptManRef>Opciones de manejo de cuentas y registros</LttlOptManRef>
+    <LttlOptManRefNote>En esta sección podrá habilitar y definir las diferentes opciones para el registro y manejo de una cuenta de cliente OLK.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Dirección de correo - Recordatorio de contraseña</LtxtRemPwdAddr>
+    <LtxtClientType>Tipo de cliente predefinido</LtxtClientType>
+    <LtxtRegPerson>Persona natural</LtxtRegPerson>
+    <LtxtEnChooseCType>Habilitar escoger tipo de cliente</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Habilitar registro de cliente</LtxtEnableAnReg>
+    <LtxtAnRegAct>Método para registro de cliente</LtxtAnRegAct>
+    <LtxtAnRegActAut>Registro automático</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Activación por correo</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Confirmación por agente</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Activación por correo y Confirmación por agente</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Dirección de correo de activación de registro</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Tiempo de activación de cuenta</LtxtAnRegConfTime>
+    <LtxtHours>Horas</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Activación de Cuenta por Agente - Asignación de agente obligatorio</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Activación de Cuenta por Agente - Nota de rechazo obligatoria</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Notas predefinidas de rechazo de cuenta</LtxtRejectNotes>
+    <LtxtConfDelReason>¿Está seguro que desea eliminar esta razón?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Habilitar "Términos y Condiciones" para registro de cliente</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definición de "Términos y Condiciones"</LtxtAnTerms>
+    <LtxtConfRemHPLogo>¿Está seguro que desea eliminar el logo de la página de inicio?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>¿Está seguro que desea eliminar el logo de envío de correos?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Eliminar Nota</LtxtRemNote>
+    <LtxtEditNote>Editar Nota</LtxtEditNote>
+    <LtxtNewNote>Nueva Nota</LtxtNewNote>
+    <LtxtValQryVal>Debe verificar la consulta de filtro de catálogo</LtxtValQryVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtEnable>פעיל</DtxtEnable>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtChange>שנה</DtxtChange>
+    <DtxtCmp>חברה</DtxtCmp>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LtxtValAddress>האתר "{0}" כבר בשימוש בבסיס הנתונים "{1}"!</LtxtValAddress>
+    <LtxtValNoAddress>יש לבחור כתובת אתר לכניסה אנונימית</LtxtValNoAddress>
+    <LtxtValPList>יש לבחור מחירון לכניסה אנונימית</LtxtValPList>
+    <LtxtValRegEMail>כתובת הדואר האלקטרוני להפעלת רישומים לא חוקית!</LtxtValRegEMail>
+    <LttlAnonSes>כניסה אנונימית</LttlAnonSes>
+    <LttlAnonSesNote>בחלק זה תוכל לקבוע הגדרות כלליות לכניסה אנונימית</LttlAnonSesNote>
+    <LtxtWebAddress>כתובת האתר</LtxtWebAddress>
+    <LtxtPList>מחירון</LtxtPList>
+    <LttlCatFilter>קטלוג פילטר</LttlCatFilter>
+    <LttlCatFilterNote>בחלק זה תוכל לקבוע פילטר קבוע לקטלוג</LttlCatFilterNote>
+    <LtxtLogo>לוגו</LtxtLogo>
+    <LtxtLogoNote>בחלק זה תוכל לשנות את הלוגו של האתר</LtxtLogoNote>
+    <LtxtHomePage>עמוד כניסה</LtxtHomePage>
+    <LtxtSendMail>דואר אלקטרוני</LtxtSendMail>
+    <LttlOptManRef>אופציות ניהול לקוחות ורישום</LttlOptManRef>
+    <LttlOptManRefNote>בחלק זה תוכל להגדיר מאפייני שימוש ללקוחות האתר.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>דואר אלקטרוני -  תזכורת סיסמה</LtxtRemPwdAddr>
+    <LtxtClientType>סוג לקוח ברירת מחדל</LtxtClientType>
+    <LtxtRegPerson>אדם פרטי</LtxtRegPerson>
+    <LtxtEnChooseCType>הפעל בחירת סוג לקוח</LtxtEnChooseCType>
+    <LtxtEnableAnReg>הפעל הרשמת לקוח</LtxtEnableAnReg>
+    <LtxtAnRegAct>שיטת הרשמה ללקוחות</LtxtAnRegAct>
+    <LtxtAnRegActAut>הרשמה אוטומטית</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>אישור בדואר אלקטרוני</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>אישור ע"י סוכן</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>אישור בדואר אלקטרוני באישור סוכן</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>דואר אלקטרוני - אישור הרשמה לאתר</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>זמן אישור חשבון</LtxtAnRegConfTime>
+    <LtxtHours>שעות</LtxtHours>
+    <LtxtAnRegConfAsignSLP>אישור חשבון לקוח ע"י סוכן - חובה לקבוע סוכן אחראי</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>אישור חשבון לקוח ע"י סוכן - חובה לשלוח הסבר לסירוב</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>הודעות מוגדרות לסירוב רישום לאתר</LtxtRejectNotes>
+    <LtxtConfDelReason>האם למחוק סיבה ?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>הפעל "תנאי שימוש" להרשמת לקוח</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>הגדרת תנאי שימוש</LtxtAnTerms>
+    <LtxtConfRemHPLogo>האם למחוק את הלוגו של אתר בית ?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>האם למחוק את הלוגו של הדואר האלקטרוני ?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>מחק הערה</LtxtRemNote>
+    <LtxtEditNote>ערוך הודעה פורמלית</LtxtEditNote>
+    <LtxtNewNote>הערה חדשה</LtxtNewNote>
+    <LtxtValQryVal>צריך לאשר את השאילתא של פילטר הקטלוג</LtxtValQryVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEnable>Enabled</DtxtEnable>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtCmp>Company</DtxtCmp>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtValAddress>The web address "{0}” is already defined in the database "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Web address must be provided for anonymous session  :  A Web address must be provided for the anonymous session</LtxtValNoAddress>
+    <LtxtValPList>A Price List must be selected for the anonymous session</LtxtValPList>
+    <LtxtValRegEMail>The e-mail address of activation registration is not valid</LtxtValRegEMail>
+    <LttlAnonSes>Anonymous Session</LttlAnonSes>
+    <LttlAnonSesNote>Here the general configurations for the anonymous session may be defined.</LttlAnonSesNote>
+    <LtxtWebAddress>Web Address</LtxtWebAddress>
+    <LtxtPList>Price List</LtxtPList>
+    <LttlCatFilter>Catalog Filter</LttlCatFilter>
+    <LttlCatFilterNote>Here you can define a default filter for the catalog</LttlCatFilterNote>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Here you can change the main logos.</LtxtLogoNote>
+    <LtxtHomePage>Home Page</LtxtHomePage>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LttlOptManRef>Account Management and Registration Options</LttlOptManRef>
+    <LttlOptManRefNote>options regarding the registration and handling of OLK anonymous users are defined.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Remember Password - E-Mail Address</LtxtRemPwdAddr>
+    <LtxtClientType>Predefined Client Type</LtxtClientType>
+    <LtxtRegPerson>Natural Person</LtxtRegPerson>
+    <LtxtEnChooseCType>Enable Client Type Selection</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Enable Client Registration</LtxtEnableAnReg>
+    <LtxtAnRegAct>Client Registration Method</LtxtAnRegAct>
+    <LtxtAnRegActAut>Automatic Registration</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>E-Mail Activation</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Agent Confirmation</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>E-Mail Activation and Agent Confirmation</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Registration Activation - E-Mail Address</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Account Activation Time</LtxtAnRegConfTime>
+    <LtxtHours>Hours</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Account Activation by Agent Confirmation - Mandatory Agent Assignment</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Account Activation by Agent Confirmation - Mandatory Rejection Note</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Predefined Account Rejection Notes</LtxtRejectNotes>
+    <LtxtConfDelReason>Are you sure you want to delete this reason?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Enable "Terms &amp; Conditions" for Client Registration</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definition "Terms &amp; Conditions" </LtxtAnTerms>
+    <LtxtConfRemHPLogo>Are you sure you want to remove the home page logo?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Are you sure you want to remove the e-mail logo?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Delete Note</LtxtRemNote>
+    <LtxtEditNote>Edit Note</LtxtEditNote>
+    <LtxtNewNote>New Note</LtxtNewNote>
+    <LtxtValQryVal>You must verify the catalog filter query</LtxtValQryVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtEnable>Habilitado</DtxtEnable>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtChange>Modificar</DtxtChange>
+    <DtxtCmp>Empresa</DtxtCmp>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Para</DtxtTo>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LtxtValAddress>O endereço web "{0}" já está definido na base de dados "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>O endereço da Web deve ser fornecido para a sessão anônima</LtxtValNoAddress>
+    <LtxtValPList>Deve ser selecionada uma Lista de Preços para a sessão anônima.</LtxtValPList>
+    <LtxtValRegEMail>O endereço de e-mail de ativação de registro não é válido.</LtxtValRegEMail>
+    <LttlAnonSes>Sessão Anônima</LttlAnonSes>
+    <LttlAnonSesNote>Nesta seção, podem ser definidas as configurações gerais para a sessão anônima.</LttlAnonSesNote>
+    <LtxtWebAddress>Endereço Web</LtxtWebAddress>
+    <LtxtPList>Lista de Preço</LtxtPList>
+    <LttlCatFilter>Filtro do Catálogo</LttlCatFilter>
+    <LttlCatFilterNote>Nesta seção, você pode definir um filtro padrão para o catálogo.</LttlCatFilterNote>
+    <LtxtLogo>Logotipos</LtxtLogo>
+    <LtxtLogoNote>Nesta seção, você pode modificar os logotipos principais.</LtxtLogoNote>
+    <LtxtHomePage>Página de Início</LtxtHomePage>
+    <LtxtSendMail>E-mails</LtxtSendMail>
+    <LttlOptManRef>Opções de gestão de contas e registros</LttlOptManRef>
+    <LttlOptManRefNote>Nesta seção, são definidas as opções relativas ao registo e tratamento de usuários OnlineKit anônimos.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Lembrar Senha - Endereço de E-mail</LtxtRemPwdAddr>
+    <LtxtClientType>Tipo de cliente pré definido</LtxtClientType>
+    <LtxtRegPerson>Pessoa Física</LtxtRegPerson>
+    <LtxtEnChooseCType>Habilitar seleção de Tipo de Cliente</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Habilitar Registro de Cliente</LtxtEnableAnReg>
+    <LtxtAnRegAct>Método para Registro de Cliente</LtxtAnRegAct>
+    <LtxtAnRegActAut>Registro Automático</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>E-mail de Ativação</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Confirmação por Vendedor</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>E-mail de Ativação e Confirmação do Vendedor.</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Ativação de Registro - Endereço de E-mail</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Tempo de ativação da conta</LtxtAnRegConfTime>
+    <LtxtHours>Horas</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Ativação de Conta por Confirmação do Vendedor - Atribuição do Vendedor Obrigatório</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Ativação de Conta por Confirmação do Vendedor - Nota de Recusa Obrigatória</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Notas de Rejeição de Conta Predefinida</LtxtRejectNotes>
+    <LtxtConfDelReason>Você tem certeza que deseja excluir esta razão?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Habilitar "Termos e Condições" para Registro de Cliente</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definição de "Termos e Condições".</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Você tem certeza que deseja remover o logotipo da página de início?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Você tem certeza que deseja remover o logotipo do e-mail?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Excluir Nota</LtxtRemNote>
+    <LtxtEditNote>Editar Nota</LtxtEditNote>
+    <LtxtNewNote>Nova Nota</LtxtNewNote>
+    <LtxtValQryVal>Deve verificar a consulta do filtro do catálogo</LtxtValQryVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtEnable>Habilité</DtxtEnable>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtChange>Changer</DtxtChange>
+    <DtxtCmp>Compagnie</DtxtCmp>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtValAddress>L\'adresse web "{0}" est déjà déterminé dans la base des données "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Devez-vous insérer l\'adresse web que vous souhaitez utiliser pour la séance anonyme</LtxtValNoAddress>
+    <LtxtValPList>Devez-vous sélétioner une liste de prix pour la séance anonyme</LtxtValPList>
+    <LtxtValRegEMail>L'adresse du courrier d'activation du registre n'est pas valable</LtxtValRegEMail>
+    <LttlAnonSes>Séance anonime</LttlAnonSes>
+    <LttlAnonSesNote>Dans cette section vous pourrez déterminer les configurations généraux pour la séance anonyme.</LttlAnonSesNote>
+    <LtxtWebAddress>Adresse Web</LtxtWebAddress>
+    <LtxtPList>Liste de prix</LtxtPList>
+    <LttlCatFilter>Filtre du catalogue</LttlCatFilter>
+    <LttlCatFilterNote>Dans cette section vous pourrez spécifier un filtre prédéterminé pour le catalogue.</LttlCatFilterNote>
+    <LtxtLogo>Logotypes</LtxtLogo>
+    <LtxtLogoNote>Dans cette section vous pourrez changer les logotypes principaux.</LtxtLogoNote>
+    <LtxtHomePage>Page de start (début)</LtxtHomePage>
+    <LtxtSendMail>Envoie des courriers</LtxtSendMail>
+    <LttlOptManRef>Options de déplacement des comptes et des registres</LttlOptManRef>
+    <LttlOptManRefNote>Dans cette section vous pourrez habiliter et définir les divers options pour le registre et déplacement d'une compte de client OLK.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Adresse du courrier - Souvenir du mot de passe</LtxtRemPwdAddr>
+    <LtxtClientType>Genre du client prédéterminé</LtxtClientType>
+    <LtxtRegPerson>Personne naturelle</LtxtRegPerson>
+    <LtxtEnChooseCType>Habiliter choisir genre du client</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Habiliter registre du client</LtxtEnableAnReg>
+    <LtxtAnRegAct>Méthode pour le registre des clients</LtxtAnRegAct>
+    <LtxtAnRegActAut>Registre automatique</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Activation par courrier</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Confirmation par agent</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Activation par courrier et confirmation par agent</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Adresse du courrier d'activation du registre</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Temps d'activation de compte</LtxtAnRegConfTime>
+    <LtxtHours>Heures</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Activation de compte par Agent - Assignation d'agent obligatoire</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Activation de compte par Agent - Note de contrecoup obligatoire</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Notes prédéterminées de contrecoup de compte</LtxtRejectNotes>
+    <LtxtConfDelReason>Êtes-vous sûre d'éliminer cette raison?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Habiliter "Ensembles et Conditions" pour le registre du client</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Définition des "Ensembles et Conditions"</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Êtes-vous sûre d\'éliminer le logo de la page du start (début)?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Êtes-vous sûre d\'éliminer le logo d\'envoi des courriers?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Effacer note</LtxtRemNote>
+    <LtxtEditNote>Éditer note</LtxtEditNote>
+    <LtxtNewNote>Note actuelle</LtxtNewNote>
+    <LtxtValQryVal>Devez-vous vérifier la consultation du filtre de catalogue</LtxtValQryVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtEnable>Freigegeben</DtxtEnable>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtChange>Ändern</DtxtChange>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LtxtValAddress>Die Webadresse "{0}" wird schon in der Datenbank "{1}" definiert</LtxtValAddress>
+    <LtxtValNoAddress>Die Webadresse muß angegeben werden um eine Anonyme Sitzung durchzuführen</LtxtValNoAddress>
+    <LtxtValPList>Eine Preisliste muss gewählt werden um eine Anonyme Sitzung durchzuführen</LtxtValPList>
+    <LtxtValRegEMail>Die E-Mail Adresse der Anmeldungsaktivierung ist nicht gültig</LtxtValRegEMail>
+    <LttlAnonSes>Anonyme Sitzung</LttlAnonSes>
+    <LttlAnonSesNote>In diesem Bereich können Sie die allgemeine Konfiguration für die Anonyme-Sitzung festlegen.</LttlAnonSesNote>
+    <LtxtWebAddress>Webadresse</LtxtWebAddress>
+    <LtxtPList>Preisliste</LtxtPList>
+    <LttlCatFilter>Katalogfilter</LttlCatFilter>
+    <LttlCatFilterNote>Hier können Sie den Standardfilter für einen Katalog festlegen</LttlCatFilterNote>
+    <LtxtLogo>Logos</LtxtLogo>
+    <LtxtLogoNote>Hier können Sie die Hauptlogos ändern</LtxtLogoNote>
+    <LtxtHomePage>Startseite</LtxtHomePage>
+    <LtxtSendMail>E-Mails</LtxtSendMail>
+    <LttlOptManRef>Optionen für Kontoführung und Anmeldung</LttlOptManRef>
+    <LttlOptManRefNote>In diesem Bereich können Sie verschiedene Optionen festlegen und freigeben, welche die Registrierung und das Handeln eines OLK Kundenkontos bestimmen.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Kennwort merken - E-Mal Adresse</LtxtRemPwdAddr>
+    <LtxtClientType>Vordefinierter Kundentyp</LtxtClientType>
+    <LtxtRegPerson>Privatperson</LtxtRegPerson>
+    <LtxtEnChooseCType>Die Wahl des Kundentyps freigeben</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Kundenanmeldung freigeben</LtxtEnableAnReg>
+    <LtxtAnRegAct>Kundenanmeldungsmethode</LtxtAnRegAct>
+    <LtxtAnRegActAut>Automatische Anmeldung</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>E-Mail Aktivierung</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Agentenbestätigung</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>E-Mail Aktivierung und Agentenbestätigung</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Anmeldungsaktivierung - E-Mail Adresse</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Kontoaktivierungszeit</LtxtAnRegConfTime>
+    <LtxtHours>Stunden</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Kontoaktivierung durch Agentenbestätigung - pfilchtige Agentenaufgabe</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Kontoaktivierung durch Agentenbestätigung - pflichtige Ablehnungsnotiz</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Vordefinierte Meldungen für Kontoablehnung</LtxtRejectNotes>
+    <LtxtConfDelReason>Möchten Sie den Grund wirklich löschen?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Bedingungen und Konditionen für Kundenanmeldung freigeben</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Bedingungen und Konditionen definiert</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Möchten Sie das Homepage Logo wirklich löschen?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Möchten Sie das E-Mail Logo wirklich löschen?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Notiz löschen</LtxtRemNote>
+    <LtxtEditNote>Notiz bearbeiten</LtxtEditNote>
+    <LtxtNewNote>Neue Notiz</LtxtNewNote>
+    <LtxtValQryVal>Sie müssen die Anfrage für den Katalogfilter bestätigen</LtxtValQryVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtEnable>Разрешить</DtxtEnable>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtChange>Год</DtxtChange>
+    <DtxtCmp>Компания</DtxtCmp>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LtxtValAddress>Сайт "{0}"  уже используется в базе данных "{1}"!</LtxtValAddress>
+    <LtxtValNoAddress>Выбрать адрес к анонимному входу на сайт</LtxtValNoAddress>
+    <LtxtValPList>Выбрать прейскурант к анонимному входу </LtxtValPList>
+    <LtxtValRegEMail>Электронная почта адрес для выполнения незаконных записей!</LtxtValRegEMail>
+    <LttlAnonSes> Анонимный вход </LttlAnonSes>
+    <LttlAnonSesNote>В этом разделе вы можете задать общие параметры  Войти анонимно</LttlAnonSesNote>
+    <LtxtWebAddress>Адрес сайта</LtxtWebAddress>
+    <LtxtPList>Прейскурант</LtxtPList>
+    <LttlCatFilter> Фильтр  каталога</LttlCatFilter>
+    <LttlCatFilterNote>В этом разделе вы можете установить фиксированный фильтр каталога</LttlCatFilterNote>
+    <LtxtLogo>Логотип</LtxtLogo>
+    <LtxtLogoNote>В этом разделе вы можете изменить логотип сайта</LtxtLogoNote>
+    <LtxtHomePage>Главная страница</LtxtHomePage>
+    <LtxtSendMail>Электронная почта</LtxtSendMail>
+    <LttlOptManRef>Управление взаимоотношениями с клиентами и регистрации параметров</LttlOptManRef>
+    <LttlOptManRefNote>В этой части вы можете установить свойства, используя сайт для клиентов.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Электронная почта - Напомнить пароль</LtxtRemPwdAddr>
+    <LtxtClientType>По умолчанию тип клиента</LtxtClientType>
+    <LtxtRegPerson>Частное лицо</LtxtRegPerson>
+    <LtxtEnChooseCType>Начало выберите тип клиента</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Начало записи клиента</LtxtEnableAnReg>
+    <LtxtAnRegAct>Система регистрации клиентов</LtxtAnRegAct>
+    <LtxtAnRegActAut> Автоматическая регистрация </LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Подтверждение по электронной почте</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Подтверждение агента</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Подтверждение по электронной почте с разрешения агента</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Электронная почта - сайт Регистрация ОЛК</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Время подтверждения счета</LtxtAnRegConfTime>
+    <LtxtHours>Часов</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Подтверждение счета клиента, агент - должны определить ваши контакты</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote> Подтверждение счета клиента, агенты- должны представить разъяснения по поводу отказа</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Сообщения намерены отказать в регистрации</LtxtRejectNotes>
+    <LtxtConfDelReason>Удалить причина?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Запуск "Условия" регистрация заказчика</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Задать условия пользования</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Удалить логотип сайта?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Удалить логотип электронной почты?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Стереть примечание</LtxtRemNote>
+    <LtxtEditNote>Написать официальное  сообщение </LtxtEditNote>
+    <LtxtNewNote>Новые комментарии</LtxtNewNote>
+    <LtxtValQryVal>Для подтверждения  запроса Фильтр  каталога</LtxtValQryVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtEnable>Aktivováno</DtxtEnable>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtChange>Změnit</DtxtChange>
+    <DtxtCmp>Společnost</DtxtCmp>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LtxtValAddress>webová adresa "{0} je již definovaná v databázi "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Pro anonymní relaci musí být uvedena webová adresa</LtxtValNoAddress>
+    <LtxtValPList>Musíte vybrat ceník pro anonymní relaci</LtxtValPList>
+    <LtxtValRegEMail>E-mailová adresa pro aktivaci registrace není platná</LtxtValRegEMail>
+    <LttlAnonSes>Anonymní relace</LttlAnonSes>
+    <LttlAnonSesNote>Zde bude možné definovat všeobecná nastavení pro anynonymní relace.</LttlAnonSesNote>
+    <LtxtWebAddress>webová adresa</LtxtWebAddress>
+    <LtxtPList>Ceník</LtxtPList>
+    <LttlCatFilter>Filtr katalogu</LttlCatFilter>
+    <LttlCatFilterNote>Zde můžete definovat filter pro katalog</LttlCatFilterNote>
+    <LtxtLogo>Loga</LtxtLogo>
+    <LtxtLogoNote>Zde je možné měnit hlavní loga.</LtxtLogoNote>
+    <LtxtHomePage>Domovská stránka</LtxtHomePage>
+    <LtxtSendMail>E-maily</LtxtSendMail>
+    <LttlOptManRef>Správa účtů a možnosti registrace</LttlOptManRef>
+    <LttlOptManRefNote>Tato sekce obsahuje možnosti týkající se registrace a správy anonymních uživatelů OLK.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Zapamatovat heslo - E-mailová adresa</LtxtRemPwdAddr>
+    <LtxtClientType>Předdefinované typy klientů</LtxtClientType>
+    <LtxtRegPerson>&lt;--&gt;</LtxtRegPerson>
+    <LtxtEnChooseCType>Povolit výběr typu klienta</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Povolit registraci klienta</LtxtEnableAnReg>
+    <LtxtAnRegAct>Způsob registrace klienta</LtxtAnRegAct>
+    <LtxtAnRegActAut>Automatická registrace</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Aktivace e-mailem</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Potvrzení agenta</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Aktivace e-mailem a potvrzení agenta</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Aktivace registrace - E-mailová adresa</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>ČAs aktivace účtu</LtxtAnRegConfTime>
+    <LtxtHours>Hodiny</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Aktivace účtu potvrzením agenta - Povinné přiřazení agenta</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Aktivace účtu potvrzením agenta - Povinná poznámka k zamítnutí</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Předdefinované poznámky k zamítnutí účtu</LtxtRejectNotes>
+    <LtxtConfDelReason>Jste si jistý/á, že chcete vymazat tento důvod?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Povolit "Obchodní podmínky" pro registraci klienta</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definice "Obchodních podmínek"</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Jste si jistý/á, že chcete odebrat toto logo domovské stránky?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Jste si jistý/á, že chcete odebrat toto e-mailové logo?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Vymazat poznámku</LtxtRemNote>
+    <LtxtEditNote>Upravit poznámku</LtxtEditNote>
+    <LtxtNewNote>Nová poznámka</LtxtNewNote>
+    <LtxtValQryVal>Musíte ověřit dotaz filtru katalogu</LtxtValQryVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtEnable>Aktywny</DtxtEnable>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtChange>Zmiana</DtxtChange>
+    <DtxtCmp>Firma</DtxtCmp>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LtxtValAddress>Adres strony internetowej "{0}” jest już zdefiniowany w bazie danych "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Do sesji anonimowej musi być wybrana strona internetowa</LtxtValNoAddress>
+    <LtxtValPList>Do sesji anonimowej musi być wybrany cennik </LtxtValPList>
+    <LtxtValRegEMail>Adres email do aktywacji rejestracji jest nie prawidłowy!</LtxtValRegEMail>
+    <LttlAnonSes>Sesja anonimowa</LttlAnonSes>
+    <LttlAnonSesNote>Tutaj można zdefiniować ogólna konfigurację sesji anonimowej</LttlAnonSesNote>
+    <LtxtWebAddress>Adres strony internetowej</LtxtWebAddress>
+    <LtxtPList>Cennik</LtxtPList>
+    <LttlCatFilter>Filtr katalogu</LttlCatFilter>
+    <LttlCatFilterNote>Tutaj możesz zdefiniować filtr domyślny dla katalogu</LttlCatFilterNote>
+    <LtxtLogo>Loga</LtxtLogo>
+    <LtxtLogoNote>Tutaj można zmienić główne loga</LtxtLogoNote>
+    <LtxtHomePage>Strona domowa</LtxtHomePage>
+    <LtxtSendMail>Emaile</LtxtSendMail>
+    <LttlOptManRef>Zarządzanie kontem i opcje rejestracji</LttlOptManRef>
+    <LttlOptManRefNote>Tutaj określane są opcje związane z rejestracją i obsługą anonimowych użytkowników OLK</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Przypomnienie hasła - adres email</LtxtRemPwdAddr>
+    <LtxtClientType>Wcześniej zdefiniowany typ klienta</LtxtClientType>
+    <LtxtRegPerson>Osoba fizyczna</LtxtRegPerson>
+    <LtxtEnChooseCType>Uaktywnij wybór rodzaju klienta</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Uaktywnij rejestrację klienta</LtxtEnableAnReg>
+    <LtxtAnRegAct>Metoda rejestracji klienta</LtxtAnRegAct>
+    <LtxtAnRegActAut>Rejestracja automatyczna</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Aktywacja emailowa</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Potwierdzenie sprzedawcy</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Aktywacja emailowa i potwierdzenie sprzedawcy</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Aktywacja rejestracji - adres email</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Czas aktywacji rachunku/konta</LtxtAnRegConfTime>
+    <LtxtHours>Godziny</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Aktywacja konta przez potwierdzenie sprzedawcy - obowiązkowy przydziału sprzedawcy</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Aktywacja konta przez potwierdzenie sprzedawcy - obowiązkowa wysyłka informacji o odmowie</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Wcześniej zdefiniowane uwagi do rejestracji konta</LtxtRejectNotes>
+    <LtxtConfDelReason>Czy jesteś pewien, że chcesz usunąć tę przyczynę? </LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Uaktywnij "Warunki i postanowienia" do rejestracji klienta</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definicja "Warunków i postanowień" </LtxtAnTerms>
+    <LtxtConfRemHPLogo>Czy jesteś pewien, że chcesz usunąć logo strony domowej?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Czy jesteś pewien, że chcesz usunąć logo emaila?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Skasuj uwagę </LtxtRemNote>
+    <LtxtEditNote>Edytuj uwagę</LtxtEditNote>
+    <LtxtNewNote>Nowa uwaga</LtxtNewNote>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie filtra katalogu</LtxtValQryVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtEnable>Sprístupnené</DtxtEnable>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtChange>Zmeniť</DtxtChange>
+    <DtxtCmp>Spoločnosť</DtxtCmp>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LtxtValAddress>Webová adresa "{0}” je už definovaná v databáze "{1}"</LtxtValAddress>
+    <LtxtValNoAddress>Webová adresa musí byť poskytnutá na anonymnú session: Webová adresa musí byť poskytnutá na anonymnú session</LtxtValNoAddress>
+    <LtxtValPList>Cenník musí byť zvolený pre anonymnú session</LtxtValPList>
+    <LtxtValRegEMail>E-mailová adresa na aktiváciu registrácie nie je platná</LtxtValRegEMail>
+    <LttlAnonSes>Anonymná session</LttlAnonSes>
+    <LttlAnonSesNote>Tu sa dajú definovať všeobecné konfigurácie pre anonymné sessions.</LttlAnonSesNote>
+    <LtxtWebAddress>Webová adresa</LtxtWebAddress>
+    <LtxtPList>Cenník</LtxtPList>
+    <LttlCatFilter>Filter katalógu</LttlCatFilter>
+    <LttlCatFilterNote>Tu sa dá definovať predvolený filter pre katalóg</LttlCatFilterNote>
+    <LtxtLogo>Logá</LtxtLogo>
+    <LtxtLogoNote>Tu sa dajú zmeniť hlavné logá.</LtxtLogoNote>
+    <LtxtHomePage>Uvodná stránka</LtxtHomePage>
+    <LtxtSendMail>E-maily</LtxtSendMail>
+    <LttlOptManRef>Možnosti administrácie a registrácie konta</LttlOptManRef>
+    <LttlOptManRefNote>Možnosti týkajúce sa registrácie a narábanie s anonymnými OLK užívateľmi sú definované.</LttlOptManRefNote>
+    <LtxtRemPwdAddr>Zapamätať si heslo - E-mailová adresa</LtxtRemPwdAddr>
+    <LtxtClientType>Preddefinovaný typ klienta</LtxtClientType>
+    <LtxtRegPerson>Fyzická osoba</LtxtRegPerson>
+    <LtxtEnChooseCType>Umožni výber typu klienta</LtxtEnChooseCType>
+    <LtxtEnableAnReg>Umožni registráciu klienta</LtxtEnableAnReg>
+    <LtxtAnRegAct>Metóda registrácie klienta</LtxtAnRegAct>
+    <LtxtAnRegActAut>Automatická registrácia</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>Aktivácia e-mailu</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>Potvrdenie agenta</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>Aktivácia e-mailu a potvrdenie agenta</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>Aktivácia registrácie - E-mailová adresa</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>Doba aktivácie konta</LtxtAnRegConfTime>
+    <LtxtHours>Hodiny</LtxtHours>
+    <LtxtAnRegConfAsignSLP>Aktivácia konta cez potvrdenie agentom - Povinná úloha agenta</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>Aktivácia konta cez potvrdenie agentom - Povinná zamietajúca poznámka</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>Zamietajúce poznámky preddefinovaného konta</LtxtRejectNotes>
+    <LtxtConfDelReason>Ste si istí, že chcete vymazať tento dôvod?</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>Sprístupni "Podmienky" na registráciu klienta</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>Definícia "Podmienok"</LtxtAnTerms>
+    <LtxtConfRemHPLogo>Ste si istí, že chcete odstrániť logo domovskej stránky?</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>Ste si istí, že chcete odstrániť logo e-mailu?</LtxtConfRemEmlLogo>
+    <LtxtRemNote>Vymazať poznámku</LtxtRemNote>
+    <LtxtEditNote>Editovať poznámku</LtxtEditNote>
+    <LtxtNewNote>Nová poznámka</LtxtNewNote>
+    <LtxtValQryVal>Musíte overiť filtrujúci dotaz katalógu</LtxtValQryVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtEnable>&lt;--&gt;</DtxtEnable>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtChange>&lt;--&gt;</DtxtChange>
+    <DtxtCmp>&lt;--&gt;</DtxtCmp>
+    <DtxtFrom>&lt;--&gt;</DtxtFrom>
+    <DtxtTo>&lt;--&gt;</DtxtTo>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtValAddress>&lt;--&gt;</LtxtValAddress>
+    <LtxtValNoAddress>&lt;--&gt;</LtxtValNoAddress>
+    <LtxtValPList>&lt;--&gt;</LtxtValPList>
+    <LtxtValRegEMail>&lt;--&gt;</LtxtValRegEMail>
+    <LttlAnonSes>&lt;--&gt;</LttlAnonSes>
+    <LttlAnonSesNote>&lt;--&gt;</LttlAnonSesNote>
+    <LtxtWebAddress>&lt;--&gt;</LtxtWebAddress>
+    <LtxtPList>&lt;--&gt;</LtxtPList>
+    <LttlCatFilter>&lt;--&gt;</LttlCatFilter>
+    <LttlCatFilterNote>&lt;--&gt;</LttlCatFilterNote>
+    <LtxtLogo>&lt;--&gt;</LtxtLogo>
+    <LtxtLogoNote>&lt;--&gt;</LtxtLogoNote>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+    <LtxtSendMail>&lt;--&gt;</LtxtSendMail>
+    <LttlOptManRef>&lt;--&gt;</LttlOptManRef>
+    <LttlOptManRefNote>&lt;--&gt;</LttlOptManRefNote>
+    <LtxtRemPwdAddr>&lt;--&gt;</LtxtRemPwdAddr>
+    <LtxtClientType>&lt;--&gt;</LtxtClientType>
+    <LtxtRegPerson>&lt;--&gt;</LtxtRegPerson>
+    <LtxtEnChooseCType>&lt;--&gt;</LtxtEnChooseCType>
+    <LtxtEnableAnReg>&lt;--&gt;</LtxtEnableAnReg>
+    <LtxtAnRegAct>&lt;--&gt;</LtxtAnRegAct>
+    <LtxtAnRegActAut>&lt;--&gt;</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>&lt;--&gt;</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>&lt;--&gt;</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>&lt;--&gt;</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>&lt;--&gt;</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>&lt;--&gt;</LtxtAnRegConfTime>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtAnRegConfAsignSLP>&lt;--&gt;</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>&lt;--&gt;</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>&lt;--&gt;</LtxtRejectNotes>
+    <LtxtConfDelReason>&lt;--&gt;</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>&lt;--&gt;</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>&lt;--&gt;</LtxtAnTerms>
+    <LtxtConfRemHPLogo>&lt;--&gt;</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>&lt;--&gt;</LtxtConfRemEmlLogo>
+    <LtxtRemNote>&lt;--&gt;</LtxtRemNote>
+    <LtxtEditNote>&lt;--&gt;</LtxtEditNote>
+    <LtxtNewNote>&lt;--&gt;</LtxtNewNote>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtEnable>DtxtEnable</DtxtEnable>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtChange>DtxtChange</DtxtChange>
+    <DtxtCmp>DtxtCmp</DtxtCmp>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LtxtValAddress>LtxtValAddress</LtxtValAddress>
+    <LtxtValNoAddress>LtxtValNoAddress</LtxtValNoAddress>
+    <LtxtValPList>LtxtValPList</LtxtValPList>
+    <LtxtValRegEMail>LtxtValRegEMail</LtxtValRegEMail>
+    <LttlAnonSes>LttlAnonSes</LttlAnonSes>
+    <LttlAnonSesNote>LttlAnonSesNote</LttlAnonSesNote>
+    <LtxtWebAddress>LtxtWebAddress</LtxtWebAddress>
+    <LtxtPList>LtxtPList</LtxtPList>
+    <LttlCatFilter>LttlCatFilter</LttlCatFilter>
+    <LttlCatFilterNote>LttlCatFilterNote</LttlCatFilterNote>
+    <LtxtLogo>LtxtLogo</LtxtLogo>
+    <LtxtLogoNote>LtxtLogoNote</LtxtLogoNote>
+    <LtxtHomePage>LtxtHomePage</LtxtHomePage>
+    <LtxtSendMail>LtxtSendMail</LtxtSendMail>
+    <LttlOptManRef>LttlOptManRef</LttlOptManRef>
+    <LttlOptManRefNote>LttlOptManRefNote</LttlOptManRefNote>
+    <LtxtRemPwdAddr>LtxtRemPwdAddr</LtxtRemPwdAddr>
+    <LtxtClientType>LtxtClientType</LtxtClientType>
+    <LtxtRegPerson>LtxtRegPerson</LtxtRegPerson>
+    <LtxtEnChooseCType>LtxtEnChooseCType</LtxtEnChooseCType>
+    <LtxtEnableAnReg>LtxtEnableAnReg</LtxtEnableAnReg>
+    <LtxtAnRegAct>LtxtAnRegAct</LtxtAnRegAct>
+    <LtxtAnRegActAut>LtxtAnRegActAut</LtxtAnRegActAut>
+    <LtxtAnRegActEMail>LtxtAnRegActEMail</LtxtAnRegActEMail>
+    <LtxtAnRegActConf>LtxtAnRegActConf</LtxtAnRegActConf>
+    <LtxtAnRegActMailConf>LtxtAnRegActMailConf</LtxtAnRegActMailConf>
+    <LtxtRegActMailAdd>LtxtRegActMailAdd</LtxtRegActMailAdd>
+    <LtxtAnRegConfTime>LtxtAnRegConfTime</LtxtAnRegConfTime>
+    <LtxtHours>LtxtHours</LtxtHours>
+    <LtxtAnRegConfAsignSLP>LtxtAnRegConfAsignSLP</LtxtAnRegConfAsignSLP>
+    <LtxtAnRegConfRejNote>LtxtAnRegConfRejNote</LtxtAnRegConfRejNote>
+    <LtxtRejectNotes>LtxtRejectNotes</LtxtRejectNotes>
+    <LtxtConfDelReason>LtxtConfDelReason</LtxtConfDelReason>
+    <LtxtEnableAnRegTerms>LtxtEnableAnRegTerms</LtxtEnableAnRegTerms>
+    <LtxtAnTerms>LtxtAnTerms</LtxtAnTerms>
+    <LtxtConfRemHPLogo>LtxtConfRemHPLogo</LtxtConfRemHPLogo>
+    <LtxtConfRemEmlLogo>LtxtConfRemEmlLogo</LtxtConfRemEmlLogo>
+    <LtxtRemNote>LtxtRemNote</LtxtRemNote>
+    <LtxtEditNote>LtxtEditNote</LtxtEditNote>
+    <LtxtNewNote>LtxtNewNote</LtxtNewNote>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+  </language>
+</languages>

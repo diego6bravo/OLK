@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtCounted>Counted</DtxtCounted>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtCounted>Counted</LtxtCounted>
+    <LtxtItemSearchNote>Items search by code or barcode</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtCounted>Contado</DtxtCounted>
+    <LtxtInvRecount>Recuento de Inventario</LtxtInvRecount>
+    <LtxtRep>Reporte</LtxtRep>
+    <LtxtInventory>Inventario</LtxtInventory>
+    <LtxtCounted>Contado</LtxtCounted>
+    <LtxtItemSearchNote>Búsqueda de artículo por Código o Código de Barra</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtCounted>ספור</DtxtCounted>
+    <LtxtInvRecount>ספירת מלאי</LtxtInvRecount>
+    <LtxtRep>דוח</LtxtRep>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtCounted>ספור</LtxtCounted>
+    <LtxtItemSearchNote>חיפוש לפי מק"ט או ברקוד</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtCounted>Counted</DtxtCounted>
+    <LtxtInvRecount>Inventory Recount</LtxtInvRecount>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtCounted>Counted</LtxtCounted>
+    <LtxtItemSearchNote>Items search by code or barcode</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtCounted>A vista</DtxtCounted>
+    <LtxtInvRecount>Recontagem de Estoque</LtxtInvRecount>
+    <LtxtRep>Relatório</LtxtRep>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtCounted>Contado</LtxtCounted>
+    <LtxtItemSearchNote>Busca de item por Código ou Código de Barras</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtCounted>&lt;--&gt;</DtxtCounted>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtCounted>&lt;--&gt;</LtxtCounted>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtCounted>Gezählt</DtxtCounted>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtCounted>&lt;--&gt;</LtxtCounted>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtCounted>Подсчитанный</DtxtCounted>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtCounted>&lt;--&gt;</LtxtCounted>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtCounted>Spočítáno</DtxtCounted>
+    <LtxtInvRecount>Přepočítání zásob</LtxtInvRecount>
+    <LtxtRep>Report</LtxtRep>
+    <LtxtInventory>Zásoby</LtxtInventory>
+    <LtxtCounted>Počítáno</LtxtCounted>
+    <LtxtItemSearchNote>Vyhledávání položek podle kódu nebo čárového kódu</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtCounted>Policzone</DtxtCounted>
+    <LtxtInvRecount>Przeliczenie zapasu</LtxtInvRecount>
+    <LtxtRep>Raport </LtxtRep>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtCounted>Policzony</LtxtCounted>
+    <LtxtItemSearchNote>Poszukiwanie pozycji po kodzie lub kodzie kreskowym</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtCounted>Spočítané</DtxtCounted>
+    <LtxtInvRecount>Prepočítanie inventáru</LtxtInvRecount>
+    <LtxtRep>Správa</LtxtRep>
+    <LtxtInventory>Inventár</LtxtInventory>
+    <LtxtCounted>Spočítané</LtxtCounted>
+    <LtxtItemSearchNote>Vyhľadávanie položiek podľa kódu a čiarového kódu</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <DtxtCounted>&lt;--&gt;</DtxtCounted>
+    <LtxtInvRecount>&lt;--&gt;</LtxtInvRecount>
+    <LtxtRep>&lt;--&gt;</LtxtRep>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtCounted>&lt;--&gt;</LtxtCounted>
+    <LtxtItemSearchNote>&lt;--&gt;</LtxtItemSearchNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtCounted>DtxtCounted</DtxtCounted>
+    <LtxtInvRecount>LtxtInvRecount</LtxtInvRecount>
+    <LtxtRep>LtxtRep</LtxtRep>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtCounted>LtxtCounted</LtxtCounted>
+    <LtxtItemSearchNote>LtxtItemSearchNote</LtxtItemSearchNote>
+  </language>
+</languages>

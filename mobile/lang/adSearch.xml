@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtFunction>Function</DtxtFunction>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <DtxtIn>In</DtxtIn>
+    <DtxtNotIn>Not In</DtxtNotIn>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventory greater than</LtxtInvMoreThen>
+    <LtxtItmImg>Item with Images</LtxtItmImg>
+    <LtxtNewItms>New Items</LtxtNewItms>
+    <LtxtPromOnly>Promotions only</LtxtPromOnly>
+    <LtxtInWL>In wish list</LtxtInWL>
+    <LtxtCatalogType>View type</LtxtCatalogType>
+    <LtxtCreateDat>Creation D.</LtxtCreateDat>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtItemsSearch>Items Search</LtxtItemsSearch>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Tope</DtxtTop>
+    <DtxtFunction>Función</DtxtFunction>
+    <DtxtBPCode>Código SN</DtxtBPCode>
+    <DtxtProp>Propiedades</DtxtProp>
+    <DtxtAnd>Y</DtxtAnd>
+    <DtxtOr>O</DtxtOr>
+    <DtxtIn>Entre</DtxtIn>
+    <DtxtNotIn>No Entre</DtxtNotIn>
+    <LtxtEnterFld>Debe introducir el campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Seleccione/Introduzca</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventario mayor que</LtxtInvMoreThen>
+    <LtxtItmImg>Artículo con imágenes</LtxtItmImg>
+    <LtxtNewItms>Artículos nuevos</LtxtNewItms>
+    <LtxtPromOnly>Promociones solamente</LtxtPromOnly>
+    <LtxtInWL>En lista de deseos</LtxtInWL>
+    <LtxtCatalogType>Tipo de vista</LtxtCatalogType>
+    <LtxtCreateDat>F. Creación</LtxtCreateDat>
+    <LtxtInventory>Inventario</LtxtInventory>
+    <LtxtItemsSearch>Búsqueda de Artículos</LtxtItemsSearch>
+    <LtxtExact>Exacto</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+    <LtxtSelVal>Seleccione un Valor</LtxtSelVal>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtTop>למעלה</DtxtTop>
+    <DtxtFunction>פונקציה</DtxtFunction>
+    <DtxtBPCode>קוד כרטיס</DtxtBPCode>
+    <DtxtProp>מאפיינים</DtxtProp>
+    <DtxtAnd>וגם</DtxtAnd>
+    <DtxtOr>או</DtxtOr>
+    <DtxtIn>בתוך</DtxtIn>
+    <DtxtNotIn>לא בתוך</DtxtNotIn>
+    <LtxtEnterFld>יש למלא את שדה {0}</LtxtEnterFld>
+    <LtxtSelectEnter>בחר/הכנס</LtxtSelectEnter>
+    <LtxtInvMoreThen>מלאי גדול מ</LtxtInvMoreThen>
+    <LtxtItmImg>פריטים עם תמונה</LtxtItmImg>
+    <LtxtNewItms>פריטים חדשים</LtxtNewItms>
+    <LtxtPromOnly>מבצעים בלבד</LtxtPromOnly>
+    <LtxtInWL>ברשימת המשאלות</LtxtInWL>
+    <LtxtCatalogType>אופן תצוגה</LtxtCatalogType>
+    <LtxtCreateDat>תאריך רישום</LtxtCreateDat>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtItemsSearch>חיפוש פריטים</LtxtItemsSearch>
+    <LtxtExact>מדוייק</LtxtExact>
+    <LtxtLike>דומה</LtxtLike>
+    <LtxtSelVal>בחר ערך</LtxtSelVal>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Top</DtxtTop>
+    <DtxtFunction>Function</DtxtFunction>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <DtxtIn>In</DtxtIn>
+    <DtxtNotIn>Not In</DtxtNotIn>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventory greater than</LtxtInvMoreThen>
+    <LtxtItmImg>Item with Images</LtxtItmImg>
+    <LtxtNewItms>New Items</LtxtNewItms>
+    <LtxtPromOnly>Promotions only</LtxtPromOnly>
+    <LtxtInWL>In wish list</LtxtInWL>
+    <LtxtCatalogType>View type</LtxtCatalogType>
+    <LtxtCreateDat>Creation D.</LtxtCreateDat>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtItemsSearch>Items Search</LtxtItemsSearch>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+    <LtxtSelVal>Select Value</LtxtSelVal>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtTop>No máximo</DtxtTop>
+    <DtxtFunction>Função</DtxtFunction>
+    <DtxtBPCode>Código do PN</DtxtBPCode>
+    <DtxtProp>Propriedades</DtxtProp>
+    <DtxtAnd>e</DtxtAnd>
+    <DtxtOr>Ou</DtxtOr>
+    <DtxtIn>Entre</DtxtIn>
+    <DtxtNotIn>Não Entre</DtxtNotIn>
+    <LtxtEnterFld>Deve inserir o campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Selecione/Acesse</LtxtSelectEnter>
+    <LtxtInvMoreThen>Estoque maior que</LtxtInvMoreThen>
+    <LtxtItmImg>Item com imagens</LtxtItmImg>
+    <LtxtNewItms>Itens novos</LtxtNewItms>
+    <LtxtPromOnly>Somente Promoções</LtxtPromOnly>
+    <LtxtInWL>Na Lista de desejos</LtxtInWL>
+    <LtxtCatalogType>Tipo de Visualização</LtxtCatalogType>
+    <LtxtCreateDat>Data de Criação</LtxtCreateDat>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtItemsSearch>Pesquisa de Itens</LtxtItemsSearch>
+    <LtxtExact>Exato</LtxtExact>
+    <LtxtLike>Como</LtxtLike>
+    <LtxtSelVal>Selecione um Valor</LtxtSelVal>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Arrêt</DtxtTop>
+    <DtxtFunction>&lt;--&gt;</DtxtFunction>
+    <DtxtBPCode>Code du partenaire</DtxtBPCode>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <DtxtAnd>&lt;--&gt;</DtxtAnd>
+    <DtxtOr>&lt;--&gt;</DtxtOr>
+    <DtxtIn>&lt;--&gt;</DtxtIn>
+    <DtxtNotIn>&lt;--&gt;</DtxtNotIn>
+    <LtxtEnterFld>Devez-vous insérer le domaine "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Sélectionnez-vous / Insérez-vous</LtxtSelectEnter>
+    <LtxtInvMoreThen>L'inventaire est plus grand que</LtxtInvMoreThen>
+    <LtxtItmImg>Articles avec images</LtxtItmImg>
+    <LtxtNewItms>Articles nouveaux</LtxtNewItms>
+    <LtxtPromOnly>Seule promotions</LtxtPromOnly>
+    <LtxtInWL>En Liste des voeux</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>Document de création</LtxtCreateDat>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Oben</DtxtTop>
+    <DtxtFunction>Funktion</DtxtFunction>
+    <DtxtBPCode>BP Kode</DtxtBPCode>
+    <DtxtProp>Eigenschaften</DtxtProp>
+    <DtxtAnd>Und</DtxtAnd>
+    <DtxtOr>Oder</DtxtOr>
+    <DtxtIn>Ein</DtxtIn>
+    <DtxtNotIn>Nicht Da</DtxtNotIn>
+    <LtxtEnterFld>Bitte geben Sie das Feld "{0}" an</LtxtEnterFld>
+    <LtxtSelectEnter>Auswählen/Eingeben</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventur grösser als</LtxtInvMoreThen>
+    <LtxtItmImg>Artikel mit Bildern</LtxtItmImg>
+    <LtxtNewItms>Neue Artikel</LtxtNewItms>
+    <LtxtPromOnly>Nur Promotion</LtxtPromOnly>
+    <LtxtInWL>In Wunschliste</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>Erstellungs D.</LtxtCreateDat>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtTop>Сверху</DtxtTop>
+    <DtxtFunction>Функция</DtxtFunction>
+    <DtxtBPCode>Код карточки</DtxtBPCode>
+    <DtxtProp>Свойства</DtxtProp>
+    <DtxtAnd>И так же</DtxtAnd>
+    <DtxtOr>Или</DtxtOr>
+    <DtxtIn>Внутри</DtxtIn>
+    <DtxtNotIn>Не внутри</DtxtNotIn>
+    <LtxtEnterFld>&lt;--&gt;</LtxtEnterFld>
+    <LtxtSelectEnter>&lt;--&gt;</LtxtSelectEnter>
+    <LtxtInvMoreThen>&lt;--&gt;</LtxtInvMoreThen>
+    <LtxtItmImg>&lt;--&gt;</LtxtItmImg>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+    <LtxtPromOnly>&lt;--&gt;</LtxtPromOnly>
+    <LtxtInWL>&lt;--&gt;</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>&lt;--&gt;</LtxtCreateDat>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Nahoru</DtxtTop>
+    <DtxtFunction>Funkce</DtxtFunction>
+    <DtxtBPCode>Kód OP</DtxtBPCode>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Nebo</DtxtOr>
+    <DtxtIn>V</DtxtIn>
+    <DtxtNotIn>Není v</DtxtNotIn>
+    <LtxtEnterFld>Vyplňte prosím pole "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vyberte/Zadejte</LtxtSelectEnter>
+    <LtxtInvMoreThen>Zásoby větší než</LtxtInvMoreThen>
+    <LtxtItmImg>Položky s obrázky</LtxtItmImg>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+    <LtxtPromOnly>Pouze promoční akce</LtxtPromOnly>
+    <LtxtInWL>Na seznamu přání</LtxtInWL>
+    <LtxtCatalogType>Typ zobrazení</LtxtCatalogType>
+    <LtxtCreateDat>D. vytvoření</LtxtCreateDat>
+    <LtxtInventory>Zásoby</LtxtInventory>
+    <LtxtItemsSearch>Vyhledávání položek</LtxtItemsSearch>
+    <LtxtExact>Přesné</LtxtExact>
+    <LtxtLike>jako</LtxtLike>
+    <LtxtSelVal>Vyberte hodnotu</LtxtSelVal>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Do góry</DtxtTop>
+    <DtxtFunction>Funkcja</DtxtFunction>
+    <DtxtBPCode>Kod kreskowy</DtxtBPCode>
+    <DtxtProp>Właściwości</DtxtProp>
+    <DtxtAnd>oraz</DtxtAnd>
+    <DtxtOr>lub</DtxtOr>
+    <DtxtIn>w</DtxtIn>
+    <DtxtNotIn>nie w</DtxtNotIn>
+    <LtxtEnterFld>Proszę wprowadzić pole "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Wybierz/wejdź</LtxtSelectEnter>
+    <LtxtInvMoreThen>Zapas większy niż </LtxtInvMoreThen>
+    <LtxtItmImg>Pozycje ze zdjęciami</LtxtItmImg>
+    <LtxtNewItms>Nowe pozycje</LtxtNewItms>
+    <LtxtPromOnly>Tylko promocje</LtxtPromOnly>
+    <LtxtInWL>Na liście życzeń</LtxtInWL>
+    <LtxtCatalogType>Zobacz rodzaj</LtxtCatalogType>
+    <LtxtCreateDat>Data stworzenia</LtxtCreateDat>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtItemsSearch>Poszukiwanie pozycji</LtxtItemsSearch>
+    <LtxtExact>Dokładny</LtxtExact>
+    <LtxtLike>Podobny</LtxtLike>
+    <LtxtSelVal>Wybierz wartość</LtxtSelVal>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTop>Vrchol</DtxtTop>
+    <DtxtFunction>Funkcia</DtxtFunction>
+    <DtxtBPCode>Kód Obchodného partnera</DtxtBPCode>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Alebo</DtxtOr>
+    <DtxtIn>V</DtxtIn>
+    <DtxtNotIn>Nie je v</DtxtNotIn>
+    <LtxtEnterFld>Prosím zadajte políčko "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vyberte/Zadajte</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventár väčší ako</LtxtInvMoreThen>
+    <LtxtItmImg>Položka s obrázkami</LtxtItmImg>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+    <LtxtPromOnly>Len Špeciálne akcie</LtxtPromOnly>
+    <LtxtInWL>V zozname prianí</LtxtInWL>
+    <LtxtCatalogType>Typ zobrazenia</LtxtCatalogType>
+    <LtxtCreateDat>Vytvorenie dokumentu</LtxtCreateDat>
+    <LtxtInventory>Inventár</LtxtInventory>
+    <LtxtItemsSearch>Vyhľadávanie položiek</LtxtItemsSearch>
+    <LtxtExact>Presný</LtxtExact>
+    <LtxtLike>Ako</LtxtLike>
+    <LtxtSelVal>Vyberte hodnotu</LtxtSelVal>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtStore>&lt;--&gt;</DtxtStore>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtLead>&lt;--&gt;</DtxtLead>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtAsc>&lt;--&gt;</DtxtAsc>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>&lt;--&gt;</DtxtBalance>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtTop>&lt;--&gt;</DtxtTop>
+    <DtxtFunction>&lt;--&gt;</DtxtFunction>
+    <DtxtBPCode>&lt;--&gt;</DtxtBPCode>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <DtxtAnd>&lt;--&gt;</DtxtAnd>
+    <DtxtOr>&lt;--&gt;</DtxtOr>
+    <DtxtIn>&lt;--&gt;</DtxtIn>
+    <DtxtNotIn>&lt;--&gt;</DtxtNotIn>
+    <LtxtEnterFld>&lt;--&gt;</LtxtEnterFld>
+    <LtxtSelectEnter>&lt;--&gt;</LtxtSelectEnter>
+    <LtxtInvMoreThen>&lt;--&gt;</LtxtInvMoreThen>
+    <LtxtItmImg>&lt;--&gt;</LtxtItmImg>
+    <LtxtNewItms>&lt;--&gt;</LtxtNewItms>
+    <LtxtPromOnly>&lt;--&gt;</LtxtPromOnly>
+    <LtxtInWL>&lt;--&gt;</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>&lt;--&gt;</LtxtCreateDat>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+    <LtxtSelVal>&lt;--&gt;</LtxtSelVal>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtTop>DtxtTop</DtxtTop>
+    <DtxtFunction>DtxtFunction</DtxtFunction>
+    <DtxtBPCode>DtxtBPCode</DtxtBPCode>
+    <DtxtProp>DtxtProp</DtxtProp>
+    <DtxtAnd>DtxtAnd</DtxtAnd>
+    <DtxtOr>DtxtOr</DtxtOr>
+    <DtxtIn>DtxtIn</DtxtIn>
+    <DtxtNotIn>DtxtNotIn</DtxtNotIn>
+    <LtxtEnterFld>LtxtEnterFld</LtxtEnterFld>
+    <LtxtSelectEnter>LtxtSelectEnter</LtxtSelectEnter>
+    <LtxtInvMoreThen>LtxtInvMoreThen</LtxtInvMoreThen>
+    <LtxtItmImg>LtxtItmImg</LtxtItmImg>
+    <LtxtNewItms>LtxtNewItms</LtxtNewItms>
+    <LtxtPromOnly>LtxtPromOnly</LtxtPromOnly>
+    <LtxtInWL>LtxtInWL</LtxtInWL>
+    <LtxtCatalogType>LtxtCatalogType</LtxtCatalogType>
+    <LtxtCreateDat>LtxtCreateDat</LtxtCreateDat>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtItemsSearch>LtxtItemsSearch</LtxtItemsSearch>
+    <LtxtExact>LtxtExact</LtxtExact>
+    <LtxtLike>LtxtLike</LtxtLike>
+    <LtxtSelVal>LtxtSelVal</LtxtSelVal>
+  </language>
+</languages>

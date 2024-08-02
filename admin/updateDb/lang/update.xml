@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Error(s) found during database update: {0}&lt;br&gt;A rollback has been executed.</LtxtUpdErr>
+    <LttlUpd>DATABASE UPDATE</LttlUpd>
+    <LtxtReturn>Return</LtxtReturn>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Hubieron varios errores al intentar actualizar la base de datos:&lt;br&gt;{0}&lt;br&gt;Se ha ejecutado un rollback</LtxtUpdErr>
+    <LttlUpd>ACTUALIZACION DE BASE DE DATOS</LttlUpd>
+    <LtxtReturn>Regresar</LtxtReturn>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtUpdErr>תקלה קרתה בתהליך השיתרוג: {0}&lt;br&gt;שיחזור התבצע באופן אוטומתי.</LtxtUpdErr>
+    <LttlUpd>עידכון בסיס נתונים</LttlUpd>
+    <LtxtReturn>חזור</LtxtReturn>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Error(s) found during database update: {0}&lt;br&gt;A rollback has been executed.</LtxtUpdErr>
+    <LttlUpd>DATABASE UPDATE</LttlUpd>
+    <LtxtReturn>Return</LtxtReturn>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Vários erros foram encontrados ao tentar atualizar o banco de dados:&lt;br&gt;{0}&lt;br&gt;Foi executado um rollback</LtxtUpdErr>
+    <LttlUpd>ATUALIZAÇĂO DA BASE DE DADOS</LttlUpd>
+    <LtxtReturn>Retornar</LtxtReturn>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>&lt;--&gt;</LtxtUpdErr>
+    <LttlUpd>MISE À JOUR DE LA BASE DES DONNÉES</LttlUpd>
+    <LtxtReturn>&lt;--&gt;</LtxtReturn>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>&lt;--&gt;</LtxtUpdErr>
+    <LttlUpd>Datenbank Update</LttlUpd>
+    <LtxtReturn>&lt;--&gt;</LtxtReturn>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Ошибка (и) во время обновления базы данных: {0}&lt;br&gt; Была выполнена отмена .</LtxtUpdErr>
+    <LttlUpd>Обновление базы данных</LttlUpd>
+    <LtxtReturn>Возврат</LtxtReturn>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Při aktualizaci databáze byla objevena chyba: {0}&lt;br&gt;Byl proveden rollback.</LtxtUpdErr>
+    <LttlUpd>AKTUALIZACE DATABÁZE</LttlUpd>
+    <LtxtReturn>Vrátit</LtxtReturn>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>W trakcie aktualizacji bazy dany znaleziono błąd(błędy): {0} wykonano rollback</LtxtUpdErr>
+    <LttlUpd>AKTUALIZACJA BAZY DANYCH</LttlUpd>
+    <LtxtReturn>Powrót</LtxtReturn>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>Chyba(Chyby) boli nájdené počas aktualizácie databázy: {0}&lt;br&gt;Bol vykonaný návrat späť.</LtxtUpdErr>
+    <LttlUpd>AKTUALIZÁCIA DATABÁZY</LttlUpd>
+    <LtxtReturn>Vrátená dodávka</LtxtReturn>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>&lt;--&gt;</LtxtUpdErr>
+    <LttlUpd>&lt;--&gt;</LttlUpd>
+    <LtxtReturn>&lt;--&gt;</LtxtReturn>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtUpdErr>LtxtUpdErr</LtxtUpdErr>
+    <LttlUpd>LttlUpd</LttlUpd>
+    <LtxtReturn>LtxtReturn</LtxtReturn>
+  </language>
+</languages>

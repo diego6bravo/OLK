@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <LtxtValIncBtch>Incomplete batches</LtxtValIncBtch>
+    <LtxtConfContinue>Do you wish to continue?</LtxtConfContinue>
+    <LtxtValInc3dx>Incomplete 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtIncompleteBatchs>Incomplete Batches</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>View batch summary</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Batch quantity exceeds required quantity</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Incomplete 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>View 3dx summary</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx quantity exceeds required quantity</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtDelItmSel>You have not selected item to delete</LtxtDelItmSel>
+    <LtxtValCreditLimit>Adding this document will exceed the credit limit of {0} in the amount of {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Credit limit of the {0} is exceeded in the amount of {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Credit limit exceeded in the amount of {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Enter payment elements</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>The payment amount is greater than amount of {0} by {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+    <LtxtXItemsSelld>The {0} most sold items</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Hide header detail</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Show header detail</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Are you sure you want to delete the expense "{0}" from the shopping cart?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Quantity cannot be less than accepted amount in {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>The discount cannot be more then %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Incomplete Serial Numbers</LtxtIncompleteSeries>
+    <LtxtViewSeries>View serial number summary</LtxtViewSeries>
+    <LtxtMaxDPM>The DPM cannot be more then %100</LtxtMaxDPM>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Update prices according to the price list for the selected payment terms?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <LtxtValIncBtch>Tiene lotes incompletos</LtxtValIncBtch>
+    <LtxtConfContinue>¿Desea continuar?</LtxtConfContinue>
+    <LtxtValInc3dx>Tiene 3dx incompletos</LtxtValInc3dx>
+    <LtxtPymntDue>A pagar hasta</LtxtPymntDue>
+    <LtxtDelDate>Fecha de entrega</LtxtDelDate>
+    <LtxtComDate>Valido Hasta</LtxtComDate>
+    <LtxtIncompleteBatchs>Falta por completar lotes</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Ver resumen de lotes</LtxtViewBtchSum>
+    <LtxtBtchExceeds>La cantidad de lotes sobrepasa la cantidad requerida</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Falta por completar 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Ver resumen de 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>La cantidad de 3dx sobrepasa la cantidad requerida</Ltxt3dxExceeds>
+    <LtxtConfDelItm>¿Está seguro que desea eliminar {0} artículo(s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>No ha escogido ningún artículo para eliminar</LtxtDelItmSel>
+    <LtxtValCreditLimit>Al agregar este documento va a sobrepasar el crédito del {0} por el monto de {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Está sobrepasando el límite de crédito del {0} por el monto de {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Está sobrepasando su límite de crédito por el monto de {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>No ha ingresado los elementos de pago</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Importe de pago es mayor que importe de {0} por el valor de {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Gastos</LtxtExpenses>
+    <LtxtXItemsSelld>Los {0} artículos más vendidos</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Ocultar detalle del encabezado</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Mostrar detalle del encabezado</LtxtShowHdrDet>
+    <LtxtConfRemExpense>¿Está seguro que desea eliminar el gasto "{0}" de la canasta de compras?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>No puede colocar una cantidad menor a la aceptada en la {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>El descuento no puede ser mayor que %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Falta por completar números de serie</LtxtIncompleteSeries>
+    <LtxtViewSeries>Ver resumen de números de serie</LtxtViewSeries>
+    <LtxtMaxDPM>El anticipo no puede ser mayor que %100</LtxtMaxDPM>
+    <LtxtVolDiscount>Descuento por volumen</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>¿Actualizar precios de acuerdo con la lista de precios para las condiciones de pago seleccionadas?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <LtxtValIncBtch>צריך להשלים את אצוות</LtxtValIncBtch>
+    <LtxtConfContinue>האם להמשיך?</LtxtConfContinue>
+    <LtxtValInc3dx>צריך להשלים את ה 3Dx</LtxtValInc3dx>
+    <LtxtPymntDue>תשלום עד</LtxtPymntDue>
+    <LtxtDelDate>תאריך אספקה</LtxtDelDate>
+    <LtxtComDate>תאריך תוקף</LtxtComDate>
+    <LtxtIncompleteBatchs>צריך להשלים אצוות</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>ראה פירוט אצוות</LtxtViewBtchSum>
+    <LtxtBtchExceeds>הכמות באצוות גבוה מהכמות הנחוצה</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>צריך להשלים 3Dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>ראה פירוט 3Dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>הכמות ב 3Dx גבוה מהכמות הנחוצה</Ltxt3dxExceeds>
+    <LtxtConfDelItm>האם להסיר את {0} הפריט(ים)?</LtxtConfDelItm>
+    <LtxtDelItmSel>לא בחרת שום פריט להסרה</LtxtDelItmSel>
+    <LtxtValCreditLimit>הוספת הפריט תעבור את מקסימום האשראי של {0} בסכום: {1}</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>עברת את מקסימום האשראי של {0} בסכום: {1}</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>עברת את מקסימום האשראי ב {0}</LtxtClientExceedStop>
+    <LtxtValPymntElements>חסר אמצאי תשלום</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>הסכום המשולם גבוה ב {0} מהסכום {1}</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>הוצאות נוספות</LtxtExpenses>
+    <LtxtXItemsSelld>{0} פריטים הכי נמכרים</LtxtXItemsSelld>
+    <LtxtHideHdrDet>הסתר פירוט כותרת</LtxtHideHdrDet>
+    <LtxtShowHdrDet>הצג פירוט כותרת</LtxtShowHdrDet>
+    <LtxtConfRemExpense>האם למחוק הוצאה "{0}" מסל הקניות?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>לא ניתן לשים כמות נמוכה מ {0} {1}#</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>ההנחה המקסימלית היא %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>מספר סידורי חסר </LtxtIncompleteSeries>
+    <LtxtViewSeries>ראה סיכום מספרים סידוריים</LtxtViewSeries>
+    <LtxtMaxDPM>המקדמה לא יכולה להיות מעל 100% </LtxtMaxDPM>
+    <LtxtVolDiscount>הנחה על כמויות</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>האם לעדכן מחירים לפני המחירון המקושר לתנאי התשלום שנבחר?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <LtxtValIncBtch>Incomplete batches</LtxtValIncBtch>
+    <LtxtConfContinue>Do you wish to continue?</LtxtConfContinue>
+    <LtxtValInc3dx>Incomplete 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Payment due</LtxtPymntDue>
+    <LtxtDelDate>Delivery Date</LtxtDelDate>
+    <LtxtComDate>Valid Date</LtxtComDate>
+    <LtxtIncompleteBatchs>Incomplete Batches</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>View batch summary</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Batch quantity exceeds required quantity</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Incomplete 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>View 3dx summary</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx quantity exceeds required quantity</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Are you sure you want to delete {0} item(s)</LtxtConfDelItm>
+    <LtxtDelItmSel>You have not selected item to delete</LtxtDelItmSel>
+    <LtxtValCreditLimit>Adding this document will exceed the credit limit of {0} in the amount of {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Credit limit of the {0} is exceeded in the amount of {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Credit limit exceeded in the amount of {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Enter payment elements</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>The payment amount is greater than amount of {0} by {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Expenses</LtxtExpenses>
+    <LtxtXItemsSelld>The {0} most sold items</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Hide header detail</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Show header detail</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Are you sure you want to delete the expense "{0}" from the shopping cart?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Quantity cannot be less than accepted amount in {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>The discount cannot be more then %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Incomplete Serial Numbers</LtxtIncompleteSeries>
+    <LtxtViewSeries>View serial number summary</LtxtViewSeries>
+    <LtxtMaxDPM>The DPM cannot be more then %100</LtxtMaxDPM>
+    <LtxtVolDiscount>Volume discount</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Update prices according to the price list for the selected payment terms?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <LtxtValIncBtch>Tem lotes incompletos</LtxtValIncBtch>
+    <LtxtConfContinue>Deseja continuar?</LtxtConfContinue>
+    <LtxtValInc3dx>Tem 3dx incompletos</LtxtValInc3dx>
+    <LtxtPymntDue>A pagar até</LtxtPymntDue>
+    <LtxtDelDate>Data da entrega</LtxtDelDate>
+    <LtxtComDate>Data da comunicação</LtxtComDate>
+    <LtxtIncompleteBatchs>Falta para completar lotes</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Ver resumo de lotes</LtxtViewBtchSum>
+    <LtxtBtchExceeds>A quantidade dos lotes supera a quantidade requisitada</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Falta para completar 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Ver resumo do 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>A quantidade de 3dx supera a quantidade requisitada</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Tem certeza  que deseja excluir {0} item(s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>Você não selecionou nenhum item para excluir</LtxtDelItmSel>
+    <LtxtValCreditLimit>Ao adicionar este documento supera o crédito do {0} por um total  de {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Está superando o limite de crédito{0} por um total  de {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Está superando seu limite de crédito por um total de {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Não ingressou os elementos de pagamento</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Valor de pagamento é maior que o valor de {0} por um total  de {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Gastos</LtxtExpenses>
+    <LtxtXItemsSelld>Os {0} itens mais vendidos</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Ocultar detalhe do cabeçalho</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Mostrar detalhe do cabeçalho</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Tem certeza que deseja eliminar o gasto "{0}" da  cesta de compras?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Não pode colocar uma quantidade menor que a  aceitada na {0} Nº {1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>O desconto nao pode ser maior que {0} %</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Número de série incompleto</LtxtIncompleteSeries>
+    <LtxtViewSeries>Visualizar resumo de números de série</LtxtViewSeries>
+    <LtxtMaxDPM>O adiantamento nao pode ser maior que 100 %</LtxtMaxDPM>
+    <LtxtVolDiscount>Desconto por volume</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Atualizar o preço de acordo com a lista de preços para as condições de pagamento selecionados?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <LtxtValIncBtch>Vous avez des lots incomplets</LtxtValIncBtch>
+    <LtxtConfContinue>Veuillez-vous continuer?</LtxtConfContinue>
+    <LtxtValInc3dx>Vous avez 3dx incomplets</LtxtValInc3dx>
+    <LtxtPymntDue>À payer jusqu\'au</LtxtPymntDue>
+    <LtxtDelDate>Date de livraison</LtxtDelDate>
+    <LtxtComDate>Date de communication</LtxtComDate>
+    <LtxtIncompleteBatchs>Il manque à compléter des lots</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Voir de résumé des lots</LtxtViewBtchSum>
+    <LtxtBtchExceeds>La quantité des lots dépasse la quantité demandé</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Il manque à compléter 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Voir de résumé de 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>La quantité de 3dx dépasse la quantité demandé</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Êtes-vous sûre d\'éliminer {0} article (s)?</LtxtConfDelItm>
+    <LtxtDelItmSel>Vous n\'avez pas choisi aucun article à éliminer</LtxtDelItmSel>
+    <LtxtValCreditLimit>Au moment d\'ajouter ce document on va à </LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Vous dépassez la limite de crédit du {0} pour le montant du {1}</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Vous dépassez votre limite de crédit du {0} pour le montant du {1}</LtxtClientExceedStop>
+    <LtxtValPymntElements>Vous n\'avez pas inséré les éléments de paiement</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Le montant de paiement est plus grand que le montant du {0} pour la valeurs de {1}</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Dépenses</LtxtExpenses>
+    <LtxtXItemsSelld>Les {0} articles plus vendus</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Oculter le détail de l\'en-tête</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Montrer le détail de l\'en-tête</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Êtes-vous sûre d\' éliminer la dépense "{0}" de la corbeille d\'achats?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Vous ne pouvez pas poser une quantité moindre que la quantité acceptée à la {0} # {1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSeries>&lt;--&gt;</LtxtViewSeries>
+    <LtxtMaxDPM>&lt;--&gt;</LtxtMaxDPM>
+    <LtxtVolDiscount>Remise par volume</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>&lt;--&gt;</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <LtxtValIncBtch>Unvollständige Bündel</LtxtValIncBtch>
+    <LtxtConfContinue>Möchten Sie fortfahren?</LtxtConfContinue>
+    <LtxtValInc3dx>Unvollständige 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Zahlung fällig</LtxtPymntDue>
+    <LtxtDelDate>Liefertermin</LtxtDelDate>
+    <LtxtComDate>Kommunikations Datum</LtxtComDate>
+    <LtxtIncompleteBatchs>Unvollständige Bündel</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Bündel Übersicht ansehen</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Bündelmenge überschreitet die erforderliche Menge</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Unvollständige 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>3dx Übersicht ansehen</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx Menge überschreitet die erforderliche Menge</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Möchten Sie diese(n) Artikel {0} wirklich löschen?</LtxtConfDelItm>
+    <LtxtDelItmSel>Sie haben keinen Artikel zum löschen ausgewählt</LtxtDelItmSel>
+    <LtxtValCreditLimit>Wenn Sie dieses Dokument hinzufügen wird ihr Kreditimit von {0} im Betrag von {1} überschritten.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Kreditlimit des {0} wurde in höhe von {1} überschritten.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Kreditlimit wurde in höhe von {0} überschritten.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Geben Sie die Zahlungsbestandteile an</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Der Zahlungsbetrag ist höher als der Betrag {0} bei {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Ausgaben</LtxtExpenses>
+    <LtxtXItemsSelld>Die {0} am meist verkauften Artikel</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Kopfzeile ausblenden</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Kopfzeile anzeigen</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Möchten Sie den Ausgaben "{0}" von dem Einkaufswagen wirklich löschen?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Die Menge darf nicht unter dem Betrag in {0} #{1} sein</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>&lt;--&gt;</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSeries>&lt;--&gt;</LtxtViewSeries>
+    <LtxtMaxDPM>&lt;--&gt;</LtxtMaxDPM>
+    <LtxtVolDiscount>Mengenrabatt</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>&lt;--&gt;</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <LtxtValIncBtch>Неполный пакет</LtxtValIncBtch>
+    <LtxtConfContinue>Вы хотите продолжить?</LtxtConfContinue>
+    <LtxtValInc3dx>Неполный 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Оплата производится</LtxtPymntDue>
+    <LtxtDelDate>Дата доставки</LtxtDelDate>
+    <LtxtComDate>Действительная дата</LtxtComDate>
+    <LtxtIncompleteBatchs>Неполный пакет</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Открыть пакетное резюме</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Размер партии превышает необходимое количество</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Неполный 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Просмотр резюме 3DX</LtxtView3dxSum>
+    <Ltxt3dxExceeds>3dx количество превышает необходимое количество</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Вы уверены, что хотите удалить {0} товар (ы)</LtxtConfDelItm>
+    <LtxtDelItmSel>Вы не выбрали пункт для удаления</LtxtDelItmSel>
+    <LtxtValCreditLimit>Добавление этого документа будет превышать кредитный лимит {0}  на сумму {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Кредитный лимит по {0} превысили в сумме {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Кредитный лимит превышен в сумме {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Введите оплату элементами</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Сумма платежа большее, чем сумму{0}{1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Расходы</LtxtExpenses>
+    <LtxtXItemsSelld>{0}  наиболее продаваемых пунктам</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Скрыть заголовки подробнее</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Показать заголовки подробнее</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Вы уверены, что хотите удалить счет "{0}"из корзины?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Количество не может быть меньше чем {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>Скидка не может быть более %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSeries>&lt;--&gt;</LtxtViewSeries>
+    <LtxtMaxDPM>&lt;--&gt;</LtxtMaxDPM>
+    <LtxtVolDiscount>Скидка на количество</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Обновление цен в соответствии с прейскурантом выбранных условий оплаты?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <LtxtValIncBtch>Nekompletní dávky</LtxtValIncBtch>
+    <LtxtConfContinue>Určitě chcete pokračovat?</LtxtConfContinue>
+    <LtxtValInc3dx>Nekompletní 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Zaplatit do</LtxtPymntDue>
+    <LtxtDelDate>Datum dodání</LtxtDelDate>
+    <LtxtComDate>Datum platnosti</LtxtComDate>
+    <LtxtIncompleteBatchs>Nekompletní dávky</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobrazit přehled dávek</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Množství v dávce převyšuje požadované množství</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Nekompletní 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Zobrazit přehled 3dx</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Množství 3dx převyšuje požadované množství</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Jste si jistý/á, že chcete vymazat {0} položek?</LtxtConfDelItm>
+    <LtxtDelItmSel>Nevybral/a jste žádnou položku pro vymazání</LtxtDelItmSel>
+    <LtxtValCreditLimit>Přidáním tohoto dokumenty bude překročen kreditní limit {0} o částku {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Kreditní limit {0} je překročen o částku {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Kreditní limit překročen o částku {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Zadejte prvky platby</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Placená částka je větší než částka {0} od {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Výdaje</LtxtExpenses>
+    <LtxtXItemsSelld>{0} nejprodávanějších položek</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Schovat detail hlavičky</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Ukázat detail hlavičky</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Jste si jistý/á, že chcete vymazat výdaj "{0}" z nákupního košíku?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Množství nemůže být menši než částka akceptovaná v {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>Sleva nemůže být víc než %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>&lt;--&gt;</LtxtIncompleteSeries>
+    <LtxtViewSeries>&lt;--&gt;</LtxtViewSeries>
+    <LtxtMaxDPM>&lt;--&gt;</LtxtMaxDPM>
+    <LtxtVolDiscount>Objemová sleva</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Aktualizovat ceny podle ceníku pro vybrané platební podmínky?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <LtxtValIncBtch>Niepełne partie</LtxtValIncBtch>
+    <LtxtConfContinue>Czy chcesz kontynuować?</LtxtConfContinue>
+    <LtxtValInc3dx>Niepełne 3DX</LtxtValInc3dx>
+    <LtxtPymntDue>Termin płatności</LtxtPymntDue>
+    <LtxtDelDate>Data dostawy</LtxtDelDate>
+    <LtxtComDate>Data ważności</LtxtComDate>
+    <LtxtIncompleteBatchs>Niepełne partie</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobacz podsumowanie partii</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Ilość partii przewyższa wymagana ilość</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Niepełne 3DX</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Zobacz podsumowanie 3DX</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Ilość 3DX przewyższa wymagana ilość</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Czy jesteś pewien, że chcesz usunąć {0] pozycję €</LtxtConfDelItm>
+    <LtxtDelItmSel>Nie wybrałeś pozycji do skasowania</LtxtDelItmSel>
+    <LtxtValCreditLimit>Dodanie tego dokumentu spowoduje przewyższenie limitu kredytu {0} o kwotę {1}</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Limit kredytu {0} jest przewyższony o kwotę {1}</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Limit kredytu jest przewyższony w kwocie {0}</LtxtClientExceedStop>
+    <LtxtValPymntElements>Wprowadź elementy płatności</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Kwota płatności jest większa niż kwota {0} przez {1}</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Wydatki</LtxtExpenses>
+    <LtxtXItemsSelld>{0} najczęściej sprzedawane pozycje</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Ukryj szczegół nagłówka</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Pokaż szczegół nagłówka</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Czy jesteś pewien, że chcesz usunąć wydatek {0] z koszyka?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Ilość nie może być mniejsza niż kwota zaakceptowana w {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>Rabat nie może być większy niż {0}%</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Niepełne numery seryjne</LtxtIncompleteSeries>
+    <LtxtViewSeries>Zobacz podsumowanie numeru seryjnego</LtxtViewSeries>
+    <LtxtMaxDPM>Przedpłata nie może być większa niż 100%</LtxtMaxDPM>
+    <LtxtVolDiscount>Rabat udzielany przy dużym zamówieniu</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Zaktualizować ceny zgodnie z cennikiem dla wybranych warunków płatności?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <LtxtValIncBtch>Nekompletné šarže</LtxtValIncBtch>
+    <LtxtConfContinue>Prajete si pokračovať?</LtxtConfContinue>
+    <LtxtValInc3dx>Nekompletné 3dx</LtxtValInc3dx>
+    <LtxtPymntDue>Splatnosť</LtxtPymntDue>
+    <LtxtDelDate>Dátum dodávky</LtxtDelDate>
+    <LtxtComDate>Dátum platnosti</LtxtComDate>
+    <LtxtIncompleteBatchs>Nekompletné šarže</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>Zobraziť zhrnutie šarže</LtxtViewBtchSum>
+    <LtxtBtchExceeds>Množstvo šarže prekračuje požadované množstvo</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>Nekompletné 3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>Zobraziť 3dx zhrnutie</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Množstvo 3dx prekračuje požadované množstvo</Ltxt3dxExceeds>
+    <LtxtConfDelItm>Ste si istí, že chcete zmazať {0} položku(y)</LtxtConfDelItm>
+    <LtxtDelItmSel>Nevybrali ste položku na zmazanie</LtxtDelItmSel>
+    <LtxtValCreditLimit>Pridaním tohto dokumentu spôsobí prekročenie limitu kreditu {0} sumou {1}.</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>Limit kreditu {0} je prekročený sumou {1}.</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>Limit kreditu prekročil sumou {0}.</LtxtClientExceedStop>
+    <LtxtValPymntElements>Zadajte zložky platby</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>Suma platby je väčšia ako suma {0} by {1}.</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>Výdavky</LtxtExpenses>
+    <LtxtXItemsSelld>{0} Najpredávanejších položiek</LtxtXItemsSelld>
+    <LtxtHideHdrDet>Ukryť údaje hlavičky</LtxtHideHdrDet>
+    <LtxtShowHdrDet>Zobraziť údaje hlavičky</LtxtShowHdrDet>
+    <LtxtConfRemExpense>Ste si istí, že chcete zmazať výdavok "{0}" z nákupného košíka?</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>Množstvo nemôže byť menej ako akceptovaná suma v {0} #{1}</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>Zľava nemôže byť viac ako %{0}</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>Nekompletné sériové čísla</LtxtIncompleteSeries>
+    <LtxtViewSeries>Zobraziť sériové číslo zhrnutia</LtxtViewSeries>
+    <LtxtMaxDPM>DPM nemôže byť viac ako %100</LtxtMaxDPM>
+    <LtxtVolDiscount>Množstevná zľava</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>Aktualizovať ceny podľa cenníka pre zvolené platobné podmienky?</LtxtApplyPListByPTerm>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <LtxtValIncBtch>LtxtValIncBtch</LtxtValIncBtch>
+    <LtxtConfContinue>LtxtConfContinue</LtxtConfContinue>
+    <LtxtValInc3dx>LtxtValInc3dx</LtxtValInc3dx>
+    <LtxtPymntDue>LtxtPymntDue</LtxtPymntDue>
+    <LtxtDelDate>LtxtDelDate</LtxtDelDate>
+    <LtxtComDate>LtxtComDate</LtxtComDate>
+    <LtxtIncompleteBatchs>LtxtIncompleteBatchs</LtxtIncompleteBatchs>
+    <LtxtViewBtchSum>LtxtViewBtchSum</LtxtViewBtchSum>
+    <LtxtBtchExceeds>LtxtBtchExceeds</LtxtBtchExceeds>
+    <LtxtIncomplete3dx>LtxtIncomplete3dx</LtxtIncomplete3dx>
+    <LtxtView3dxSum>LtxtView3dxSum</LtxtView3dxSum>
+    <Ltxt3dxExceeds>Ltxt3dxExceeds</Ltxt3dxExceeds>
+    <LtxtConfDelItm>LtxtConfDelItm</LtxtConfDelItm>
+    <LtxtDelItmSel>LtxtDelItmSel</LtxtDelItmSel>
+    <LtxtValCreditLimit>LtxtValCreditLimit</LtxtValCreditLimit>
+    <LtxtExceedClientCredi>LtxtExceedClientCredi</LtxtExceedClientCredi>
+    <LtxtClientExceedStop>LtxtClientExceedStop</LtxtClientExceedStop>
+    <LtxtValPymntElements>LtxtValPymntElements</LtxtValPymntElements>
+    <LtxtImpRctMoreThenInv>LtxtImpRctMoreThenInv</LtxtImpRctMoreThenInv>
+    <LtxtExpenses>LtxtExpenses</LtxtExpenses>
+    <LtxtXItemsSelld>LtxtXItemsSelld</LtxtXItemsSelld>
+    <LtxtHideHdrDet>LtxtHideHdrDet</LtxtHideHdrDet>
+    <LtxtShowHdrDet>LtxtShowHdrDet</LtxtShowHdrDet>
+    <LtxtConfRemExpense>LtxtConfRemExpense</LtxtConfRemExpense>
+    <LtxtOfertQtyErr>LtxtOfertQtyErr</LtxtOfertQtyErr>
+    <LtxtMaxDiscount>LtxtMaxDiscount</LtxtMaxDiscount>
+    <LtxtIncompleteSeries>LtxtIncompleteSeries</LtxtIncompleteSeries>
+    <LtxtViewSeries>LtxtViewSeries</LtxtViewSeries>
+    <LtxtMaxDPM>LtxtMaxDPM</LtxtMaxDPM>
+    <LtxtVolDiscount>LtxtVolDiscount</LtxtVolDiscount>
+    <LtxtApplyPListByPTerm>LtxtApplyPListByPTerm</LtxtApplyPListByPTerm>
+  </language>
+</languages>

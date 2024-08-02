@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAlertName>Alternative Name</DtxtAlertName>
+    <DtxtNote>Note</DtxtNote>
+    <LtxtDesProp>Design Properties</LtxtDesProp>
+    <LtxtValAlterNam>Please enter the alternate name</LtxtValAlterNam>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAlertName>Nombre Alterno</DtxtAlertName>
+    <DtxtNote>Nota</DtxtNote>
+    <LtxtDesProp>Propiedades de Diseño</LtxtDesProp>
+    <LtxtValAlterNam>Debe introducir el nombre alterno</LtxtValAlterNam>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAlertName>שם חלופי</DtxtAlertName>
+    <DtxtNote>הערה</DtxtNote>
+    <LtxtDesProp>מאפיני מדגם</LtxtDesProp>
+    <LtxtValAlterNam>צריך לתת שם חלופי!</LtxtValAlterNam>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAlertName>Alternative Name</DtxtAlertName>
+    <DtxtNote>Note</DtxtNote>
+    <LtxtDesProp>Design Properties</LtxtDesProp>
+    <LtxtValAlterNam>Please enter the alternate name</LtxtValAlterNam>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAlertName>Nome alternativo</DtxtAlertName>
+    <DtxtNote>Nota</DtxtNote>
+    <LtxtDesProp>Propriedades do Layout</LtxtDesProp>
+    <LtxtValAlterNam>Deve inserir o nome alternativo</LtxtValAlterNam>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAlertName>Nom alternatif</DtxtAlertName>
+    <DtxtNote>Note</DtxtNote>
+    <LtxtDesProp>Propriétés de la Description</LtxtDesProp>
+    <LtxtValAlterNam>Devez-vous insérer le nom alternatif</LtxtValAlterNam>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAlertName>Alternativname</DtxtAlertName>
+    <DtxtNote>Notiz</DtxtNote>
+    <LtxtDesProp>Design-Einstellungen</LtxtDesProp>
+    <LtxtValAlterNam>Bitte geben Sie den Alternativnamen ein</LtxtValAlterNam>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAlertName>Альтернативное имя</DtxtAlertName>
+    <DtxtNote>Примечание</DtxtNote>
+    <LtxtDesProp>Дизайн свойств</LtxtDesProp>
+    <LtxtValAlterNam>Пожалуйста, введите другое имя</LtxtValAlterNam>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAlertName>Jiný název</DtxtAlertName>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LtxtDesProp>Vlastnosti vzoru</LtxtDesProp>
+    <LtxtValAlterNam>Zadejte prosím alternativní název</LtxtValAlterNam>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAlertName>Nazwa alternatywna</DtxtAlertName>
+    <DtxtNote>Uwaga</DtxtNote>
+    <LtxtDesProp>Właściwości wzoru</LtxtDesProp>
+    <LtxtValAlterNam>Proszę wprowadź alternatywna nazwę</LtxtValAlterNam>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAlertName>Alternatívny názov</DtxtAlertName>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LtxtDesProp>Vlastnosti dizajnu</LtxtDesProp>
+    <LtxtValAlterNam>Prosím, zadajte alternatívny názov</LtxtValAlterNam>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAlertName>&lt;--&gt;</DtxtAlertName>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <LtxtDesProp>&lt;--&gt;</LtxtDesProp>
+    <LtxtValAlterNam>&lt;--&gt;</LtxtValAlterNam>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAlertName>DtxtAlertName</DtxtAlertName>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <LtxtDesProp>LtxtDesProp</LtxtDesProp>
+    <LtxtValAlterNam>LtxtValAlterNam</LtxtValAlterNam>
+  </language>
+</languages>

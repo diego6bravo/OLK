@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administration - Expired Session</LtxtExpSes>
+    <LtxtExpDesc>Your session has expired, to be able to re-enter the system you must enter your username and password.</LtxtExpDesc>
+    <LlnkEnter>Re-enter the system</LlnkEnter>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administración - Sesión expirada</LtxtExpSes>
+    <LtxtExpDesc>Su sesión ha expirado, para poder ingresar al sistema  necesita volver a escribir su usuario y su contraseña.</LtxtExpDesc>
+    <LlnkEnter>Ingresar nuevamente al sistema</LlnkEnter>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtExpSes>מנהלה - סגירה אוטומטית</LtxtExpSes>
+    <LtxtExpDesc>המערכת ניסגרה אוטומטית עקב חוסר פעילות, תוכל להכנס מחדש לאחר שתשים קוד וסיסמה.</LtxtExpDesc>
+    <LlnkEnter>כניסה מחדש לאתר</LlnkEnter>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administration - Expired Session</LtxtExpSes>
+    <LtxtExpDesc>Your session has expired, to be able to re-enter the system you must enter your username and password.</LtxtExpDesc>
+    <LlnkEnter>Re-enter the system</LlnkEnter>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administração - Sessão expirada</LtxtExpSes>
+    <LtxtExpDesc>Sua sessão expirou, para poder entrar ao sistema precisa digitar seu usuário e sua senha.</LtxtExpDesc>
+    <LlnkEnter>Entrar novamente ao sistema</LlnkEnter>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administration - Séance expirée</LtxtExpSes>
+    <LtxtExpDesc>Votre séance a expirée, pour entrer au système vous aurez besoin d'écrire votre nom d'utilisateur et votre mot de passe encore en fois.</LtxtExpDesc>
+    <LlnkEnter>Entrer de nouveau au système</LlnkEnter>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administration - Abgelaufene Sitzung</LtxtExpSes>
+    <LtxtExpDesc>Ihre Sitzung ist abgelaufen, um wieder in das System zu kommen geben Sie Ihren Benutzernamen und Kennwort ein.</LtxtExpDesc>
+    <LlnkEnter>Erneut anmelden im System</LlnkEnter>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Администратор - автоматическое закрытие</LtxtExpSes>
+    <LtxtExpDesc>Ваша сессия истекла, чтобы иметь возможность повторного входа в систему необходимо ввести  пароль пользователя.</LtxtExpDesc>
+    <LlnkEnter>Новый вход на сайт</LlnkEnter>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administrace - Relace vypršela</LtxtExpSes>
+    <LtxtExpDesc>Vaše relace vypršela. Abyste mohl/a znovu přistoupit do systému, musíte zadat své uživatelské jméno a heslo.</LtxtExpDesc>
+    <LlnkEnter>Znovu se přihlásit do systému</LlnkEnter>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administracja - sesja wygasła</LtxtExpSes>
+    <LtxtExpDesc>Twoja sesja wygasła, aby móc ponownie wejść do systemu musisz wpisać nazwę użytkowania i hasło</LtxtExpDesc>
+    <LlnkEnter>Ponowne wejście do systemu</LlnkEnter>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>Administrácia - Expirovaná session</LtxtExpSes>
+    <LtxtExpDesc>Vaša session expirovala, na to, aby ste mohli znovu vstúpiť do systému, musíte zadať Vaše užívateľské meno a heslo.</LtxtExpDesc>
+    <LlnkEnter>Vstúpte do systému znovu</LlnkEnter>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>&lt;--&gt;</LtxtExpSes>
+    <LtxtExpDesc>&lt;--&gt;</LtxtExpDesc>
+    <LlnkEnter>&lt;--&gt;</LlnkEnter>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtExpSes>LtxtExpSes</LtxtExpSes>
+    <LtxtExpDesc>LtxtExpDesc</LtxtExpDesc>
+    <LlnkEnter>LlnkEnter</LlnkEnter>
+  </language>
+</languages>

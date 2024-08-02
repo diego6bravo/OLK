@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <LtxtShopCart>Shopping Cart</LtxtShopCart>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <LtxtShopCart>Canasta de Compras</LtxtShopCart>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtBP>כרטיס</DtxtBP>
+    <LtxtShopCart>סל קניות</LtxtShopCart>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <LtxtShopCart>Shopping Cart</LtxtShopCart>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <LtxtShopCart>Carrinho de Compras</LtxtShopCart>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <LtxtShopCart>Nákupní košík</LtxtShopCart>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <LtxtShopCart>Koszyk</LtxtShopCart>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <LtxtShopCart>Nákupný košík</LtxtShopCart>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <LtxtShopCart>&lt;--&gt;</LtxtShopCart>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <LtxtShopCart>LtxtShopCart</LtxtShopCart>
+  </language>
+</languages>

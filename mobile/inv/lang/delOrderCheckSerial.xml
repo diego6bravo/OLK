@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtPend>Pending</DtxtPend>
+    <LtxtSalesCheckSerial>Item Serial Number Check</LtxtSalesCheckSerial>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtValSerNum>You must enter the serial number</LtxtValSerNum>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtProcQty>Processed Quantity</LtxtProcQty>
+    <LtxtOSRIExists>The serial number "{0}" already exists!</LtxtOSRIExists>
+    <LtxtOSRINotFound>The serial number "{0}" was not found!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>The serial number "{0}" has already been used!</LtxtOSRIUsed>
+    <LtxtR3Exists>The serial number "{0}" has already been processed!</LtxtR3Exists>
+    <LtxtBackToCheck>Back to check</LtxtBackToCheck>
+    <LtxtViewAll>View All</LtxtViewAll>
+    <LtxtViewSummary>View Summary</LtxtViewSummary>
+    <LtxtValInc>You must complete the serial number selection!</LtxtValInc>
+    <LtxtConfInc>You haven\'t completed the serial numbers selection.\nDo you wish to continue?</LtxtConfInc>
+    <LtxtProcesedData>Processed serial numbers</LtxtProcesedData>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtConfSerial>Are you sure you want to remove the serial number {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>The serial number "{0}" doesn't exist in the source document!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtItems>Artículos</DtxtItems>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtClear>Borrar</DtxtClear>
+    <DtxtPend>Pendiente</DtxtPend>
+    <LtxtSalesCheckSerial>Revisión de Numero de Serie de Artículo</LtxtSalesCheckSerial>
+    <LtxtBarCode>Código de Barra</LtxtBarCode>
+    <LtxtValSerNum>Debe introducir el número de serie</LtxtValSerNum>
+    <LtxtReqQty>Cantidad Requerida</LtxtReqQty>
+    <LtxtProcQty>Cantidad Procesada</LtxtProcQty>
+    <LtxtOSRIExists>¡El número de serie "{0}" ya existe!</LtxtOSRIExists>
+    <LtxtOSRINotFound>¡El número de serie "{0}" no fue encontrado!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>¡El número de series "{0}" ya ha sido utilizado!</LtxtOSRIUsed>
+    <LtxtR3Exists>¡El número de serie "{0}" ya ha sido procesado!</LtxtR3Exists>
+    <LtxtBackToCheck>Volver a revisión</LtxtBackToCheck>
+    <LtxtViewAll>Ver Todo</LtxtViewAll>
+    <LtxtViewSummary>Ver Resumen</LtxtViewSummary>
+    <LtxtValInc>¡Debe completar la selección de números de serie!</LtxtValInc>
+    <LtxtConfInc>No ha finalizado la selección de números de series.\n¿Desea continuar?</LtxtConfInc>
+    <LtxtProcesedData>Números de serie procesados</LtxtProcesedData>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtConfSerial>¿Esta seguro que desea eliminar el número de serie {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>¡El número de serie "{0}" no existe en el documento de origen!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtItems>פריטים</DtxtItems>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtClear>מחק</DtxtClear>
+    <DtxtPend>פתוח</DtxtPend>
+    <LtxtSalesCheckSerial>בדיקת מספרים סידוריים</LtxtSalesCheckSerial>
+    <LtxtBarCode>ברקוד</LtxtBarCode>
+    <LtxtValSerNum>יש להכניס מס' סידורי</LtxtValSerNum>
+    <LtxtReqQty>כמות דרושה</LtxtReqQty>
+    <LtxtProcQty>כמות רשומה</LtxtProcQty>
+    <LtxtOSRIExists>מס' סידורי "{0}" כבר קיים!</LtxtOSRIExists>
+    <LtxtOSRINotFound>מס' סידורי "{0}" לא נימצא!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>מס' סידורי "{0}" כבר בשימוש!</LtxtOSRIUsed>
+    <LtxtR3Exists>מס' סידורי "{0}" כבר נרשם!</LtxtR3Exists>
+    <LtxtBackToCheck>חזרה לבדיקה</LtxtBackToCheck>
+    <LtxtViewAll>ראה הכל</LtxtViewAll>
+    <LtxtViewSummary>ראה סיכום</LtxtViewSummary>
+    <LtxtValInc>יש לסיים את רשימת המספרים הסידוריים</LtxtValInc>
+    <LtxtConfInc>לא סיימת את רשימת המספרים הסידוריים. האם להמשיך?</LtxtConfInc>
+    <LtxtProcesedData>מספרים סידורים שנרשמו</LtxtProcesedData>
+    <LtxtStatus>סטטוס</LtxtStatus>
+    <LtxtCompleted>מלא</LtxtCompleted>
+    <LtxtPartial>חלקי</LtxtPartial>
+    <LtxtConfSerial>האם להסיר מס' סידורי {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>המספר הסידורי"{0}" אינו קיים במסמך המקור!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtClear>Clear</DtxtClear>
+    <DtxtPend>Pending</DtxtPend>
+    <LtxtSalesCheckSerial>Item Serial Number Check</LtxtSalesCheckSerial>
+    <LtxtBarCode>BarCode</LtxtBarCode>
+    <LtxtValSerNum>You must enter the serial number</LtxtValSerNum>
+    <LtxtReqQty>Required Quantity</LtxtReqQty>
+    <LtxtProcQty>Processed Quantity</LtxtProcQty>
+    <LtxtOSRIExists>The serial number "{0}" already exists!</LtxtOSRIExists>
+    <LtxtOSRINotFound>The serial number "{0}" was not found!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>The serial number "{0}" has already been used!</LtxtOSRIUsed>
+    <LtxtR3Exists>The serial number "{0}" has already been processed!</LtxtR3Exists>
+    <LtxtBackToCheck>Back to check</LtxtBackToCheck>
+    <LtxtViewAll>View All</LtxtViewAll>
+    <LtxtViewSummary>View Summary</LtxtViewSummary>
+    <LtxtValInc>You must complete the serial number selection!</LtxtValInc>
+    <LtxtConfInc>You haven\'t completed the serial numbers selection.\nDo you wish to continue?</LtxtConfInc>
+    <LtxtProcesedData>Processed serial numbers</LtxtProcesedData>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Completed</LtxtCompleted>
+    <LtxtPartial>Partial</LtxtPartial>
+    <LtxtConfSerial>Are you sure you want to remove the serial number {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>The serial number "{0}" doesn't exist in the source document!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtItems>Itens</DtxtItems>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtClear>Apagar</DtxtClear>
+    <DtxtPend>Pendente</DtxtPend>
+    <LtxtSalesCheckSerial>Revisão de Número de Série do Item</LtxtSalesCheckSerial>
+    <LtxtBarCode>Código de Barras</LtxtBarCode>
+    <LtxtValSerNum>Você deve inserir o número de série</LtxtValSerNum>
+    <LtxtReqQty>Quantidade Solicitada</LtxtReqQty>
+    <LtxtProcQty>Quantidade Processada</LtxtProcQty>
+    <LtxtOSRIExists>O número de série "{0}" já existe!</LtxtOSRIExists>
+    <LtxtOSRINotFound>O número de série "{0}" não foi econtrado!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>O número de série "{0}" ja havia sido utilizado!</LtxtOSRIUsed>
+    <LtxtR3Exists>O número de série "{0}" ja havia sido processado!</LtxtR3Exists>
+    <LtxtBackToCheck>Voltar a revisão</LtxtBackToCheck>
+    <LtxtViewAll>Ver Tudo</LtxtViewAll>
+    <LtxtViewSummary>Ver Resumo</LtxtViewSummary>
+    <LtxtValInc>Você deve completar a seleção de número de série!</LtxtValInc>
+    <LtxtConfInc>Você não finalizou a seleção de números de séries. \nDeseja continuar?</LtxtConfInc>
+    <LtxtProcesedData>Números de séries processados</LtxtProcesedData>
+    <LtxtStatus>Estado</LtxtStatus>
+    <LtxtCompleted>Completado</LtxtCompleted>
+    <LtxtPartial>Parcial</LtxtPartial>
+    <LtxtConfSerial>Você tem certeza que deseja excluir o número de série {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>O número de série "{0}" não existe no documento de origem!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtItems>Articles</DtxtItems>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtClear>Éffacer</DtxtClear>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <LtxtSalesCheckSerial>&lt;--&gt;</LtxtSalesCheckSerial>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtValSerNum>&lt;--&gt;</LtxtValSerNum>
+    <LtxtReqQty>&lt;--&gt;</LtxtReqQty>
+    <LtxtProcQty>&lt;--&gt;</LtxtProcQty>
+    <LtxtOSRIExists>&lt;--&gt;</LtxtOSRIExists>
+    <LtxtOSRINotFound>&lt;--&gt;</LtxtOSRINotFound>
+    <LtxtOSRIUsed>&lt;--&gt;</LtxtOSRIUsed>
+    <LtxtR3Exists>&lt;--&gt;</LtxtR3Exists>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSummary>&lt;--&gt;</LtxtViewSummary>
+    <LtxtValInc>&lt;--&gt;</LtxtValInc>
+    <LtxtConfInc>&lt;--&gt;</LtxtConfInc>
+    <LtxtProcesedData>&lt;--&gt;</LtxtProcesedData>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtConfSerial>&lt;--&gt;</LtxtConfSerial>
+    <LtxtSerNotInDoc>&lt;--&gt;</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtItems>Artikel</DtxtItems>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtClear>Löschen</DtxtClear>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <LtxtSalesCheckSerial>&lt;--&gt;</LtxtSalesCheckSerial>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtValSerNum>&lt;--&gt;</LtxtValSerNum>
+    <LtxtReqQty>&lt;--&gt;</LtxtReqQty>
+    <LtxtProcQty>&lt;--&gt;</LtxtProcQty>
+    <LtxtOSRIExists>&lt;--&gt;</LtxtOSRIExists>
+    <LtxtOSRINotFound>&lt;--&gt;</LtxtOSRINotFound>
+    <LtxtOSRIUsed>&lt;--&gt;</LtxtOSRIUsed>
+    <LtxtR3Exists>&lt;--&gt;</LtxtR3Exists>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSummary>&lt;--&gt;</LtxtViewSummary>
+    <LtxtValInc>&lt;--&gt;</LtxtValInc>
+    <LtxtConfInc>&lt;--&gt;</LtxtConfInc>
+    <LtxtProcesedData>&lt;--&gt;</LtxtProcesedData>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtConfSerial>&lt;--&gt;</LtxtConfSerial>
+    <LtxtSerNotInDoc>&lt;--&gt;</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtItems>Детали</DtxtItems>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtClear>Ластик</DtxtClear>
+    <DtxtPend>Открытый</DtxtPend>
+    <LtxtSalesCheckSerial>&lt;--&gt;</LtxtSalesCheckSerial>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtValSerNum>&lt;--&gt;</LtxtValSerNum>
+    <LtxtReqQty>&lt;--&gt;</LtxtReqQty>
+    <LtxtProcQty>&lt;--&gt;</LtxtProcQty>
+    <LtxtOSRIExists>&lt;--&gt;</LtxtOSRIExists>
+    <LtxtOSRINotFound>&lt;--&gt;</LtxtOSRINotFound>
+    <LtxtOSRIUsed>&lt;--&gt;</LtxtOSRIUsed>
+    <LtxtR3Exists>&lt;--&gt;</LtxtR3Exists>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSummary>&lt;--&gt;</LtxtViewSummary>
+    <LtxtValInc>&lt;--&gt;</LtxtValInc>
+    <LtxtConfInc>&lt;--&gt;</LtxtConfInc>
+    <LtxtProcesedData>&lt;--&gt;</LtxtProcesedData>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtConfSerial>&lt;--&gt;</LtxtConfSerial>
+    <LtxtSerNotInDoc>&lt;--&gt;</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtClear>Vymazat</DtxtClear>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <LtxtSalesCheckSerial>Kontrola seriového čísla položky</LtxtSalesCheckSerial>
+    <LtxtBarCode>Čárový kód</LtxtBarCode>
+    <LtxtValSerNum>Musíte zadat seriové číslo</LtxtValSerNum>
+    <LtxtReqQty>Požadované množství</LtxtReqQty>
+    <LtxtProcQty>Zpracované množství</LtxtProcQty>
+    <LtxtOSRIExists>Seriové číslo "{0}" už existuje!</LtxtOSRIExists>
+    <LtxtOSRINotFound>Seriové číslo "{0}" nebylo nalezeno!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>Seriové číslo "{0}" již bylo použito!</LtxtOSRIUsed>
+    <LtxtR3Exists>Seriové číslo "{0}" již bylo zpracováno!</LtxtR3Exists>
+    <LtxtBackToCheck>Zpět na kontrolu</LtxtBackToCheck>
+    <LtxtViewAll>Zobrazit všechny</LtxtViewAll>
+    <LtxtViewSummary>Zobrazit shrnutí</LtxtViewSummary>
+    <LtxtValInc>Musíte dokončit výběr seriových číses!</LtxtValInc>
+    <LtxtConfInc>Nedokončil/a jste výběr seriových čísel.\nPřejete si pokračovat?</LtxtConfInc>
+    <LtxtProcesedData>Zpracovaná seriová čísla</LtxtProcesedData>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtCompleted>Dokončeno</LtxtCompleted>
+    <LtxtPartial>Částečné</LtxtPartial>
+    <LtxtConfSerial>Jste si jistý/á, že chcete odebrat seriové číslo {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>Seriové číslo "{0}" ve zdrojovém souboru neexistuje!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtItems>Pozycje</DtxtItems>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtClear>Skasuj</DtxtClear>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <LtxtSalesCheckSerial>Sprawdzenie numeru seryjnego pozycji</LtxtSalesCheckSerial>
+    <LtxtBarCode>Kod kreskowy</LtxtBarCode>
+    <LtxtValSerNum>Musisz wprowadzić numer seryjny</LtxtValSerNum>
+    <LtxtReqQty>Ilość wymagana</LtxtReqQty>
+    <LtxtProcQty>Ilość przetworzona</LtxtProcQty>
+    <LtxtOSRIExists>Numer seryjny "{0}" już istnieje!</LtxtOSRIExists>
+    <LtxtOSRINotFound>Numer seryjny "{0}" nie został znaleziony !</LtxtOSRINotFound>
+    <LtxtOSRIUsed>Numer seryjny "{0}" już został wykorzystany !</LtxtOSRIUsed>
+    <LtxtR3Exists>Numer seryjny "{0}" został już przetworzony!</LtxtR3Exists>
+    <LtxtBackToCheck>Powrót do sprawdzania</LtxtBackToCheck>
+    <LtxtViewAll>Zobacz wszystkie</LtxtViewAll>
+    <LtxtViewSummary>Zobacz podsumowanie</LtxtViewSummary>
+    <LtxtValInc>Musisz wypełnić część dotycząca numeru seryjnego </LtxtValInc>
+    <LtxtConfInc>Nie wypełniłeś części dotyczącej numeru seryjnego. Czy chcesz kontynuować?</LtxtConfInc>
+    <LtxtProcesedData>Przetworzony numer seryjny</LtxtProcesedData>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtCompleted>Zakończony</LtxtCompleted>
+    <LtxtPartial>Częściowy</LtxtPartial>
+    <LtxtConfSerial>Czy jesteś pewien, że chcesz usunąć numer seryjny {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>Numer seryjny "{0}" nie istnieje w dokumencie źródłowym!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtClear>Vymazať</DtxtClear>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <LtxtSalesCheckSerial>Kontrola sériového čísla položky</LtxtSalesCheckSerial>
+    <LtxtBarCode>ČiarovýKód</LtxtBarCode>
+    <LtxtValSerNum>Musíte zadať sériové číslo</LtxtValSerNum>
+    <LtxtReqQty>Požadované množstvo</LtxtReqQty>
+    <LtxtProcQty>Spracované množstvo</LtxtProcQty>
+    <LtxtOSRIExists>Sériové číslo "{0}" už existuje!</LtxtOSRIExists>
+    <LtxtOSRINotFound>Sériové číslo "{0}" nebolo nájdené!</LtxtOSRINotFound>
+    <LtxtOSRIUsed>Sériové číslo "{0}" už bolo použité!</LtxtOSRIUsed>
+    <LtxtR3Exists>Sériové číslo "{0}" už bolo spracované!</LtxtR3Exists>
+    <LtxtBackToCheck>Späť na kontrolu</LtxtBackToCheck>
+    <LtxtViewAll>Zobraziť všetko</LtxtViewAll>
+    <LtxtViewSummary>Zobraziť súhrn</LtxtViewSummary>
+    <LtxtValInc>Musíte dokončiť výber sériového čísla!</LtxtValInc>
+    <LtxtConfInc>Nedokončili ste výber sériového čísla.\nPrajete si pokračovať?</LtxtConfInc>
+    <LtxtProcesedData>Spracované sériové čísla</LtxtProcesedData>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtCompleted>Dokončené</LtxtCompleted>
+    <LtxtPartial>Čiastková</LtxtPartial>
+    <LtxtConfSerial>Ste si istí, že chcete odstrániť sériové číslo {0}?</LtxtConfSerial>
+    <LtxtSerNotInDoc>Sériové číslo "{0}" neexistuje v zdrojovom dokumente!</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtItems>&lt;--&gt;</DtxtItems>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtClear>&lt;--&gt;</DtxtClear>
+    <DtxtPend>&lt;--&gt;</DtxtPend>
+    <LtxtSalesCheckSerial>&lt;--&gt;</LtxtSalesCheckSerial>
+    <LtxtBarCode>&lt;--&gt;</LtxtBarCode>
+    <LtxtValSerNum>&lt;--&gt;</LtxtValSerNum>
+    <LtxtReqQty>&lt;--&gt;</LtxtReqQty>
+    <LtxtProcQty>&lt;--&gt;</LtxtProcQty>
+    <LtxtOSRIExists>&lt;--&gt;</LtxtOSRIExists>
+    <LtxtOSRINotFound>&lt;--&gt;</LtxtOSRINotFound>
+    <LtxtOSRIUsed>&lt;--&gt;</LtxtOSRIUsed>
+    <LtxtR3Exists>&lt;--&gt;</LtxtR3Exists>
+    <LtxtBackToCheck>&lt;--&gt;</LtxtBackToCheck>
+    <LtxtViewAll>&lt;--&gt;</LtxtViewAll>
+    <LtxtViewSummary>&lt;--&gt;</LtxtViewSummary>
+    <LtxtValInc>&lt;--&gt;</LtxtValInc>
+    <LtxtConfInc>&lt;--&gt;</LtxtConfInc>
+    <LtxtProcesedData>&lt;--&gt;</LtxtProcesedData>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtCompleted>&lt;--&gt;</LtxtCompleted>
+    <LtxtPartial>&lt;--&gt;</LtxtPartial>
+    <LtxtConfSerial>&lt;--&gt;</LtxtConfSerial>
+    <LtxtSerNotInDoc>&lt;--&gt;</LtxtSerNotInDoc>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtItems>DtxtItems</DtxtItems>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtClear>DtxtClear</DtxtClear>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <LtxtSalesCheckSerial>LtxtSalesCheckSerial</LtxtSalesCheckSerial>
+    <LtxtBarCode>LtxtBarCode</LtxtBarCode>
+    <LtxtValSerNum>LtxtValSerNum</LtxtValSerNum>
+    <LtxtReqQty>LtxtReqQty</LtxtReqQty>
+    <LtxtProcQty>LtxtProcQty</LtxtProcQty>
+    <LtxtOSRIExists>LtxtOSRIExists</LtxtOSRIExists>
+    <LtxtOSRINotFound>LtxtOSRINotFound</LtxtOSRINotFound>
+    <LtxtOSRIUsed>LtxtOSRIUsed</LtxtOSRIUsed>
+    <LtxtR3Exists>LtxtR3Exists</LtxtR3Exists>
+    <LtxtBackToCheck>LtxtBackToCheck</LtxtBackToCheck>
+    <LtxtViewAll>LtxtViewAll</LtxtViewAll>
+    <LtxtViewSummary>LtxtViewSummary</LtxtViewSummary>
+    <LtxtValInc>LtxtValInc</LtxtValInc>
+    <LtxtConfInc>LtxtConfInc</LtxtConfInc>
+    <LtxtProcesedData>LtxtProcesedData</LtxtProcesedData>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtCompleted>LtxtCompleted</LtxtCompleted>
+    <LtxtPartial>LtxtPartial</LtxtPartial>
+    <LtxtConfSerial>LtxtConfSerial</LtxtConfSerial>
+    <LtxtSerNotInDoc>LtxtSerNotInDoc</LtxtSerNotInDoc>
+  </language>
+</languages>

@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtMore>More</DtxtMore>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LtxtPendDocs>Open Docs.</LtxtPendDocs>
+    <LtxtValSelDoc>Select a sales document before using {0}</LtxtValSelDoc>
+    <LtxtMessages>Messages</LtxtMessages>
+    <LtxtDocLeadErr>You cannot create an {0} for a lead</LtxtDocLeadErr>
+    <LttlClientOps>Business Partner Operations</LttlClientOps>
+    <LttlClientSearch>{0} Advanced Search</LttlClientSearch>
+    <LtxtClientData>BP Data</LtxtClientData>
+    <LtxtMaps>Maps</LtxtMaps>
+    <LtxtOlkAct>OLK Activities</LtxtOlkAct>
+    <LtxtPendOlk>OLK Open Documents</LtxtPendOlk>
+    <LtxtPendSBO>SBO Open Documents</LtxtPendSBO>
+    <LtxtGenData>General Data</LtxtGenData>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contacto</DtxtContact>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtMore>Más</DtxtMore>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtActivities>Actvidades</DtxtActivities>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <LtxtPendDocs>Docs. Pendientes</LtxtPendDocs>
+    <LtxtValSelDoc>Debe elegir un documento de venta antes de utilizar las {0}</LtxtValSelDoc>
+    <LtxtMessages>Mensajes</LtxtMessages>
+    <LtxtDocLeadErr>No se puede hacer una {0} para un prospecto</LtxtDocLeadErr>
+    <LttlClientOps>Operaciones con el Socio de Negocio</LttlClientOps>
+    <LttlClientSearch>Búsqueda Avanzada de {0}</LttlClientSearch>
+    <LtxtClientData>Datos de SN</LtxtClientData>
+    <LtxtMaps>Mapas</LtxtMaps>
+    <LtxtOlkAct>Actividades OLK</LtxtOlkAct>
+    <LtxtPendOlk>Documentos Pendientes OLK</LtxtPendOlk>
+    <LtxtPendSBO>Documentos Pendientes SBO</LtxtPendSBO>
+    <LtxtGenData>Datos Generales</LtxtGenData>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DbtnSearch>חפש</DbtnSearch>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtMore>עוד</DtxtMore>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtActivities>פעילויות</DtxtActivities>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <LtxtPendDocs>מסמכים פתוחים</LtxtPendDocs>
+    <LtxtValSelDoc>צריך לבחור מסמך שיווק לפני שניתן להשתמש ב{0}</LtxtValSelDoc>
+    <LtxtMessages>הודעות</LtxtMessages>
+    <LtxtDocLeadErr>לא ניתן לעשות {0} לחשבון מסוג זה</LtxtDocLeadErr>
+    <LttlClientOps>פעולות עם כרטיס</LttlClientOps>
+    <LttlClientSearch>חיפוש מתקדם {0}</LttlClientSearch>
+    <LtxtClientData>נתוני כרטיס</LtxtClientData>
+    <LtxtMaps>מפות</LtxtMaps>
+    <LtxtOlkAct>פעילויות אולק</LtxtOlkAct>
+    <LtxtPendOlk>מסמכים פתוחים אולק</LtxtPendOlk>
+    <LtxtPendSBO>מסמכים פתוחים סאפ</LtxtPendSBO>
+    <LtxtGenData>נתונים כללים</LtxtGenData>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Search</DbtnSearch>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtMore>More</DtxtMore>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LtxtPendDocs>Open Docs.</LtxtPendDocs>
+    <LtxtValSelDoc>Select a sales document before using {0}</LtxtValSelDoc>
+    <LtxtMessages>Messages</LtxtMessages>
+    <LtxtDocLeadErr>You cannot create an {0} for a lead</LtxtDocLeadErr>
+    <LttlClientOps>Business Partner Operations</LttlClientOps>
+    <LttlClientSearch>{0} Advanced Search</LttlClientSearch>
+    <LtxtClientData>BP Data</LtxtClientData>
+    <LtxtMaps>Maps</LtxtMaps>
+    <LtxtOlkAct>OLK Activities</LtxtOlkAct>
+    <LtxtPendOlk>OLK Open Documents</LtxtPendOlk>
+    <LtxtPendSBO>SBO Open Documents</LtxtPendSBO>
+    <LtxtGenData>General Data</LtxtGenData>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contato</DtxtContact>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtMore>Mais</DtxtMore>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtActivities>Atividades</DtxtActivities>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <LtxtPendDocs>Documentos Pendentes</LtxtPendDocs>
+    <LtxtValSelDoc>Deve escolher um documento de venda antes de usar as {0}</LtxtValSelDoc>
+    <LtxtMessages>Mensagens</LtxtMessages>
+    <LtxtDocLeadErr>Não  pode fazer uma {0} para um prospecto</LtxtDocLeadErr>
+    <LttlClientOps>Operações com Socios de Negócios</LttlClientOps>
+    <LttlClientSearch>Busca Avançada de {0}</LttlClientSearch>
+    <LtxtClientData>Dados de PN</LtxtClientData>
+    <LtxtMaps>Mapas</LtxtMaps>
+    <LtxtOlkAct>Atividades OLK</LtxtOlkAct>
+    <LtxtPendOlk>Documentos Pendentes OLK</LtxtPendOlk>
+    <LtxtPendSBO>Documentos Pendentes SBO</LtxtPendSBO>
+    <LtxtGenData>Dados Gerais</LtxtGenData>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtMore>Plus</DtxtMore>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Documents pendents</LtxtPendDocs>
+    <LtxtValSelDoc>Devez-vous choisir un document de vente avant d\'utiliser les {0}</LtxtValSelDoc>
+    <LtxtMessages>Messages</LtxtMessages>
+    <LtxtDocLeadErr>On ne peut pas faire une {0} pour un prospectus</LtxtDocLeadErr>
+    <LttlClientOps>&lt;--&gt;</LttlClientOps>
+    <LttlClientSearch>Recherche avancée de {0}</LttlClientSearch>
+    <LtxtClientData>&lt;--&gt;</LtxtClientData>
+    <LtxtMaps>&lt;--&gt;</LtxtMaps>
+    <LtxtOlkAct>&lt;--&gt;</LtxtOlkAct>
+    <LtxtPendOlk>&lt;--&gt;</LtxtPendOlk>
+    <LtxtPendSBO>&lt;--&gt;</LtxtPendSBO>
+    <LtxtGenData>&lt;--&gt;</LtxtGenData>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtMore>Mehr</DtxtMore>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtActivities>Aktivitäten</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Dokumente öffnen</LtxtPendDocs>
+    <LtxtValSelDoc>Bitte wählen Sie ein Verkaufsdokument bevor Sie {0} benutzen</LtxtValSelDoc>
+    <LtxtMessages>Nachrichten</LtxtMessages>
+    <LtxtDocLeadErr>Sie können kein {0} für einen Interessent haben</LtxtDocLeadErr>
+    <LttlClientOps>&lt;--&gt;</LttlClientOps>
+    <LttlClientSearch>{0} Erweiterte Suche</LttlClientSearch>
+    <LtxtClientData>&lt;--&gt;</LtxtClientData>
+    <LtxtMaps>&lt;--&gt;</LtxtMaps>
+    <LtxtOlkAct>&lt;--&gt;</LtxtOlkAct>
+    <LtxtPendOlk>&lt;--&gt;</LtxtPendOlk>
+    <LtxtPendSBO>&lt;--&gt;</LtxtPendSBO>
+    <LtxtGenData>&lt;--&gt;</LtxtGenData>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtMore>Ещё</DtxtMore>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtActivities>Активность</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Открытые документы</LtxtPendDocs>
+    <LtxtValSelDoc>Создать, выбрать документ  маркетинга заранее ,можно использовать {0}</LtxtValSelDoc>
+    <LtxtMessages>Сообщения</LtxtMessages>
+    <LtxtDocLeadErr>Вы не можете сделать {0) на такой счёт</LtxtDocLeadErr>
+    <LttlClientOps>Действия с карточками</LttlClientOps>
+    <LttlClientSearch>Расширенный поиск{0}</LttlClientSearch>
+    <LtxtClientData>Данные карточки</LtxtClientData>
+    <LtxtMaps>Карточки</LtxtMaps>
+    <LtxtOlkAct>Действия олк</LtxtOlkAct>
+    <LtxtPendOlk>Открытые документы олк</LtxtPendOlk>
+    <LtxtPendSBO>Открытые документы сап</LtxtPendSBO>
+    <LtxtGenData>Общие данные</LtxtGenData>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtMore>Další</DtxtMore>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Otevřené dokumenty</LtxtPendDocs>
+    <LtxtValSelDoc>Před použitím {0} vyberte prodejní dokument</LtxtValSelDoc>
+    <LtxtMessages>Vzkazy</LtxtMessages>
+    <LtxtDocLeadErr>Pro vedoucího nemůžete vytvořit {0}</LtxtDocLeadErr>
+    <LttlClientOps>Operace obchodního partnera</LttlClientOps>
+    <LttlClientSearch>{0} Pokročilé vyhledávání</LttlClientSearch>
+    <LtxtClientData>Údaje o OP</LtxtClientData>
+    <LtxtMaps>Mapy</LtxtMaps>
+    <LtxtOlkAct>Aktivity OLK</LtxtOlkAct>
+    <LtxtPendOlk>Otevřené dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otevřené dokumenty SBO</LtxtPendSBO>
+    <LtxtGenData>Všeobecné údaje</LtxtGenData>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtMore>Więcej </DtxtMore>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtActivities>Działania</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Otwarte dokumenty</LtxtPendDocs>
+    <LtxtValSelDoc>Przed użyciem {0} wybierz dokument sprzedaży</LtxtValSelDoc>
+    <LtxtMessages>Wiadomości</LtxtMessages>
+    <LtxtDocLeadErr>Nie możesz stworzyć {0} dla konta tego rodzaju</LtxtDocLeadErr>
+    <LttlClientOps>Operacje Partnera Biznesowego</LttlClientOps>
+    <LttlClientSearch>{0} Poszukiwanie zaawansowane</LttlClientSearch>
+    <LtxtClientData>Dane PB</LtxtClientData>
+    <LtxtMaps>Mapy</LtxtMaps>
+    <LtxtOlkAct>Działania OLK</LtxtOlkAct>
+    <LtxtPendOlk>Otwarte dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otwarte dokumenty SBO</LtxtPendSBO>
+    <LtxtGenData>Dane ogólne</LtxtGenData>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtMore>Viac</DtxtMore>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtPendDocs>Otvorené dokumenty</LtxtPendDocs>
+    <LtxtValSelDoc>Zvoľte komerčný dokument pred použitím {0}</LtxtValSelDoc>
+    <LtxtMessages>Správy</LtxtMessages>
+    <LtxtDocLeadErr>Nemôžete vytvoriť {0} pre prospekt</LtxtDocLeadErr>
+    <LttlClientOps>Aktivity Obchodného partnera</LttlClientOps>
+    <LttlClientSearch>{0} Rozšírené vyhľadávanie</LttlClientSearch>
+    <LtxtClientData>Dáta Obchodného partnera</LtxtClientData>
+    <LtxtMaps>Mapy</LtxtMaps>
+    <LtxtOlkAct>OLK Činnosti</LtxtOlkAct>
+    <LtxtPendOlk>Otvorené dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otvorené dokumenty SBO</LtxtPendSBO>
+    <LtxtGenData>Všeobecné dáta</LtxtGenData>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtMore>DtxtMore</DtxtMore>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtActivities>DtxtActivities</DtxtActivities>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <LtxtPendDocs>LtxtPendDocs</LtxtPendDocs>
+    <LtxtValSelDoc>LtxtValSelDoc</LtxtValSelDoc>
+    <LtxtMessages>LtxtMessages</LtxtMessages>
+    <LtxtDocLeadErr>LtxtDocLeadErr</LtxtDocLeadErr>
+    <LttlClientOps>LttlClientOps</LttlClientOps>
+    <LttlClientSearch>LttlClientSearch</LttlClientSearch>
+    <LtxtClientData>LtxtClientData</LtxtClientData>
+    <LtxtMaps>LtxtMaps</LtxtMaps>
+    <LtxtOlkAct>LtxtOlkAct</LtxtOlkAct>
+    <LtxtPendOlk>LtxtPendOlk</LtxtPendOlk>
+    <LtxtPendSBO>LtxtPendSBO</LtxtPendSBO>
+    <LtxtGenData>LtxtGenData</LtxtGenData>
+  </language>
+</languages>

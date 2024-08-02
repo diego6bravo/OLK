@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <LttlPwdChange>Change Password</LttlPwdChange>
+    <LttlPwdChangeNote>Here the system administrator’s password may be changed.</LttlPwdChangeNote>
+    <LtxtCurPwd>Current Password</LtxtCurPwd>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtPwdConf>Password Confirmation</LtxtPwdConf>
+    <LtxtValCurPwd>Your current password is incorrect</LtxtValCurPwd>
+    <LtxtPwdChanged>Password Changed Successfully</LtxtPwdChanged>
+    <LtxtValConfPwd>Your confirmation password does not match your new password</LtxtValConfPwd>
+    <LtxtValOldPwd>Please enter your current password</LtxtValOldPwd>
+    <LtxtValNewPwd>Please enter you new password</LtxtValNewPwd>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <LttlPwdChange>Cambio de Contraseña</LttlPwdChange>
+    <LttlPwdChangeNote>En esta sección podrá especificar la contraseña para la persona encargada de la administración del sistema.</LttlPwdChangeNote>
+    <LtxtCurPwd>Contraseña actual</LtxtCurPwd>
+    <LtxtNewPwd>Nueva contraseña</LtxtNewPwd>
+    <LtxtPwdConf>Confirmar contraseña</LtxtPwdConf>
+    <LtxtValCurPwd>La contraseña actual que introdujo es errónea</LtxtValCurPwd>
+    <LtxtPwdChanged>Contraseña actualizada con éxito</LtxtPwdChanged>
+    <LtxtValConfPwd>La confirmación de la contraseña no concuerda</LtxtValConfPwd>
+    <LtxtValOldPwd>Debe introducir la contraseña actual</LtxtValOldPwd>
+    <LtxtValNewPwd>Debe introducir la nueva contraseña</LtxtValNewPwd>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <LttlPwdChange>שנה סיסמה</LttlPwdChange>
+    <LttlPwdChangeNote>בחלק זה מגדירים את הסיסמה של מנהל האתר.</LttlPwdChangeNote>
+    <LtxtCurPwd>סיסמה נוכחית</LtxtCurPwd>
+    <LtxtNewPwd>סיסמה חדשה</LtxtNewPwd>
+    <LtxtPwdConf>אשר סיסמה</LtxtPwdConf>
+    <LtxtValCurPwd>הסיסמה הישנה לא נכונה!</LtxtValCurPwd>
+    <LtxtPwdChanged>הסיסמה שונתה בהצלחה</LtxtPwdChanged>
+    <LtxtValConfPwd>הסיסמה בשדה האישור לא תואמת לסיסמה החדשה!</LtxtValConfPwd>
+    <LtxtValOldPwd>הכנס סיסמה נוכחית!</LtxtValOldPwd>
+    <LtxtValNewPwd>הכנס סיסמה חדשה!</LtxtValNewPwd>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <LttlPwdChange>Change Password</LttlPwdChange>
+    <LttlPwdChangeNote>Here the system administrator’s password may be changed.</LttlPwdChangeNote>
+    <LtxtCurPwd>Current Password</LtxtCurPwd>
+    <LtxtNewPwd>New Password</LtxtNewPwd>
+    <LtxtPwdConf>Password Confirmation</LtxtPwdConf>
+    <LtxtValCurPwd>Your current password is incorrect</LtxtValCurPwd>
+    <LtxtPwdChanged>Password Changed Successfully</LtxtPwdChanged>
+    <LtxtValConfPwd>Your confirmation password does not match your new password</LtxtValConfPwd>
+    <LtxtValOldPwd>Please enter your current password</LtxtValOldPwd>
+    <LtxtValNewPwd>Please enter you new password</LtxtValNewPwd>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <LttlPwdChange>Alterar Senha</LttlPwdChange>
+    <LttlPwdChangeNote>Nesta seção, a senha do administrador do sistema pode ser alterada.</LttlPwdChangeNote>
+    <LtxtCurPwd>Senha Atual</LtxtCurPwd>
+    <LtxtNewPwd>Nova senha</LtxtNewPwd>
+    <LtxtPwdConf>Confirmação de senha.</LtxtPwdConf>
+    <LtxtValCurPwd>Sua senha atual está incorreta.</LtxtValCurPwd>
+    <LtxtPwdChanged>Senha alterada com sucesso.</LtxtPwdChanged>
+    <LtxtValConfPwd>Sua senha de confirmação não coincide com sua nova senha.</LtxtValConfPwd>
+    <LtxtValOldPwd>Por favor, insira sua senha atual.</LtxtValOldPwd>
+    <LtxtValNewPwd>Por favor, insira sua nova senha.</LtxtValNewPwd>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <LttlPwdChange>Modification du Mot de passe</LttlPwdChange>
+    <LttlPwdChangeNote>Dans cette section vous pourrez déterminer le mot de passe pour la personne responsable de l'administration du système.</LttlPwdChangeNote>
+    <LtxtCurPwd>Mot de passe actuel</LtxtCurPwd>
+    <LtxtNewPwd>Nouveau mot de passe</LtxtNewPwd>
+    <LtxtPwdConf>Confirmer le mot de passe</LtxtPwdConf>
+    <LtxtValCurPwd>Le mot de passe actuel qui a inséré c'est erroné</LtxtValCurPwd>
+    <LtxtPwdChanged>Mot de passe mis à jour avec succès</LtxtPwdChanged>
+    <LtxtValConfPwd>La confirmation du mot de passe ne concorde pas </LtxtValConfPwd>
+    <LtxtValOldPwd>Devez-vous insérer le mot de passe actuel</LtxtValOldPwd>
+    <LtxtValNewPwd>Devez-vous insérer le nouveau mot de passe</LtxtValNewPwd>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <LttlPwdChange>Kennwort ändern</LttlPwdChange>
+    <LttlPwdChangeNote>Dieser Teil ist für die Eingabe des Administrator-Kennworts</LttlPwdChangeNote>
+    <LtxtCurPwd>Aktuelles Kennwort</LtxtCurPwd>
+    <LtxtNewPwd>Neues Kennwort</LtxtNewPwd>
+    <LtxtPwdConf>Kennwort bestätigen</LtxtPwdConf>
+    <LtxtValCurPwd>Ihr Kennwort ist falsch</LtxtValCurPwd>
+    <LtxtPwdChanged>Das Kennwort wurde erfolgreich geändert</LtxtPwdChanged>
+    <LtxtValConfPwd>Ihr bestägtiges Kennwort stimmt nicht überein mit Ihrem neuen Kennwort</LtxtValConfPwd>
+    <LtxtValOldPwd>Bitte geben Sie Ihr aktuelles Kennwort ein</LtxtValOldPwd>
+    <LtxtValNewPwd>Bitte geben Sie Ihr neues Kennwort ein</LtxtValNewPwd>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <LttlPwdChange>Изменение пароля</LttlPwdChange>
+    <LttlPwdChangeNote>Этот раздел определяет место пароля администратора.</LttlPwdChangeNote>
+    <LtxtCurPwd>Текущий пароль</LtxtCurPwd>
+    <LtxtNewPwd>Новый пароль</LtxtNewPwd>
+    <LtxtPwdConf>Подтвердить пароль</LtxtPwdConf>
+    <LtxtValCurPwd>Старый пароль неправильный!</LtxtValCurPwd>
+    <LtxtPwdChanged>Пароль изменен</LtxtPwdChanged>
+    <LtxtValConfPwd>Подтверждение пароля области не соответствует новым паролем!</LtxtValConfPwd>
+    <LtxtValOldPwd>Введите текущий пароль!</LtxtValOldPwd>
+    <LtxtValNewPwd>Введите новый пароль!</LtxtValNewPwd>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <LttlPwdChange>Změnit heslo</LttlPwdChange>
+    <LttlPwdChangeNote>V této sekci zadáváte heslo pro přístup do systému jako systémový administrátor.</LttlPwdChangeNote>
+    <LtxtCurPwd>Aktuální heslo</LtxtCurPwd>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtPwdConf>Potvrzení hesla</LtxtPwdConf>
+    <LtxtValCurPwd>Vaše stávající heslo je nesprávné</LtxtValCurPwd>
+    <LtxtPwdChanged>Heslo změněno úspěšně</LtxtPwdChanged>
+    <LtxtValConfPwd>Potvrzení hesla neodpovídá novému heslu.</LtxtValConfPwd>
+    <LtxtValOldPwd>Zadejte prosím Vaše stávající heslo</LtxtValOldPwd>
+    <LtxtValNewPwd>Zadejte prosím nové heslo</LtxtValNewPwd>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <LttlPwdChange>Zmień hasło</LttlPwdChange>
+    <LttlPwdChangeNote>Tutaj można zmienić hasło administratora systemu </LttlPwdChangeNote>
+    <LtxtCurPwd>Obecne hasło</LtxtCurPwd>
+    <LtxtNewPwd>Nowe hasło</LtxtNewPwd>
+    <LtxtPwdConf>Potwierdzenia hasła</LtxtPwdConf>
+    <LtxtValCurPwd>Twoje obecne hasło jest nieprawidłowe</LtxtValCurPwd>
+    <LtxtPwdChanged>Hasło zostało zmienione z sukcesem</LtxtPwdChanged>
+    <LtxtValConfPwd>Potwierdzenie hasła nie odpowiada twojemu nowemu hasłu</LtxtValConfPwd>
+    <LtxtValOldPwd>Proszę, wprowadź swoje obecne hasło</LtxtValOldPwd>
+    <LtxtValNewPwd>Proszę wprowadź nowe hasło</LtxtValNewPwd>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <LttlPwdChange>Zmeniť heslo</LttlPwdChange>
+    <LttlPwdChangeNote>Tu sa dá zmeniť heslo systémového administrátora.</LttlPwdChangeNote>
+    <LtxtCurPwd>Aktuálne heslo</LtxtCurPwd>
+    <LtxtNewPwd>Nové heslo</LtxtNewPwd>
+    <LtxtPwdConf>Potvrdenie hesla</LtxtPwdConf>
+    <LtxtValCurPwd>Vaše aktuálne heslo je nesprávne</LtxtValCurPwd>
+    <LtxtPwdChanged>Heslo úspešne zmenené</LtxtPwdChanged>
+    <LtxtValConfPwd>Vaše potvrdené heslo sa nezhoduje s vašim novým heslom</LtxtValConfPwd>
+    <LtxtValOldPwd>Prosím zadajte svoje terajšie heslo</LtxtValOldPwd>
+    <LtxtValNewPwd>Prosím zadajte svoje nové heslo</LtxtValNewPwd>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <LttlPwdChange>&lt;--&gt;</LttlPwdChange>
+    <LttlPwdChangeNote>&lt;--&gt;</LttlPwdChangeNote>
+    <LtxtCurPwd>&lt;--&gt;</LtxtCurPwd>
+    <LtxtNewPwd>&lt;--&gt;</LtxtNewPwd>
+    <LtxtPwdConf>&lt;--&gt;</LtxtPwdConf>
+    <LtxtValCurPwd>&lt;--&gt;</LtxtValCurPwd>
+    <LtxtPwdChanged>&lt;--&gt;</LtxtPwdChanged>
+    <LtxtValConfPwd>&lt;--&gt;</LtxtValConfPwd>
+    <LtxtValOldPwd>&lt;--&gt;</LtxtValOldPwd>
+    <LtxtValNewPwd>&lt;--&gt;</LtxtValNewPwd>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <LttlPwdChange>LttlPwdChange</LttlPwdChange>
+    <LttlPwdChangeNote>LttlPwdChangeNote</LttlPwdChangeNote>
+    <LtxtCurPwd>LtxtCurPwd</LtxtCurPwd>
+    <LtxtNewPwd>LtxtNewPwd</LtxtNewPwd>
+    <LtxtPwdConf>LtxtPwdConf</LtxtPwdConf>
+    <LtxtValCurPwd>LtxtValCurPwd</LtxtValCurPwd>
+    <LtxtPwdChanged>LtxtPwdChanged</LtxtPwdChanged>
+    <LtxtValConfPwd>LtxtValConfPwd</LtxtValConfPwd>
+    <LtxtValOldPwd>LtxtValOldPwd</LtxtValOldPwd>
+    <LtxtValNewPwd>LtxtValNewPwd</LtxtValNewPwd>
+  </language>
+</languages>

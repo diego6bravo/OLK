@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <LttlLanguages>Languages</LttlLanguages>
+    <LttlLanguagesNote>In this section it is possible to disable the languages that you do not want to use.</LttlLanguagesNote>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtSign>Sign</LtxtSign>
+    <LtxtLanguage>Language</LtxtLanguage>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <LttlLanguages>Idiomas</LttlLanguages>
+    <LttlLanguagesNote>En esta sección podrá deshabilitar los idiomas que no desea utilizar</LttlLanguagesNote>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtSign>Signo</LtxtSign>
+    <LtxtLanguage>Idioma</LtxtLanguage>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <LttlLanguages>שפות</LttlLanguages>
+    <LttlLanguagesNote>בחלק זה תוכל לסמן אילו שפות יהיו פעילות באתר</LttlLanguagesNote>
+    <LtxtNatLng>שפת מקור</LtxtNatLng>
+    <LtxtSign>סימן</LtxtSign>
+    <LtxtLanguage>שפה</LtxtLanguage>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <LttlLanguages>Languages</LttlLanguages>
+    <LttlLanguagesNote>In this section it is possible to disable the languages that you do not want to use.</LttlLanguagesNote>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtSign>Sign</LtxtSign>
+    <LtxtLanguage>Language</LtxtLanguage>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <LttlLanguages>Idiomas</LttlLanguages>
+    <LttlLanguagesNote>Nesta seção, poderá desabilitar os idiomas que não deseja utilizar</LttlLanguagesNote>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtSign>Assinar</LtxtSign>
+    <LtxtLanguage>Idioma</LtxtLanguage>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <LttlLanguages>&lt;--&gt;</LttlLanguages>
+    <LttlLanguagesNote>&lt;--&gt;</LttlLanguagesNote>
+    <LtxtNatLng>Langue maternelle</LtxtNatLng>
+    <LtxtSign>&lt;--&gt;</LtxtSign>
+    <LtxtLanguage>&lt;--&gt;</LtxtLanguage>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <LttlLanguages>&lt;--&gt;</LttlLanguages>
+    <LttlLanguagesNote>&lt;--&gt;</LttlLanguagesNote>
+    <LtxtNatLng>Muttersprache</LtxtNatLng>
+    <LtxtSign>&lt;--&gt;</LtxtSign>
+    <LtxtLanguage>&lt;--&gt;</LtxtLanguage>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <LttlLanguages>Языки</LttlLanguages>
+    <LttlLanguagesNote>В этом разделе можно отключить языки, которые вы не хотите использовать.</LttlLanguagesNote>
+    <LtxtNatLng>Родной язык</LtxtNatLng>
+    <LtxtSign>Вход</LtxtSign>
+    <LtxtLanguage>Язык</LtxtLanguage>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <LttlLanguages>Jazyky</LttlLanguages>
+    <LttlLanguagesNote>V této sekci je možné zakázat jazyky, které nechcete používat.</LttlLanguagesNote>
+    <LtxtNatLng>Mateřský jazyk</LtxtNatLng>
+    <LtxtSign>Přihlásit</LtxtSign>
+    <LtxtLanguage>Jazyk</LtxtLanguage>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <LttlLanguages>Języki</LttlLanguages>
+    <LttlLanguagesNote>W tym dziale można zaznaczyć języki, których nie chcesz używać</LttlLanguagesNote>
+    <LtxtNatLng>Język ojczysty</LtxtNatLng>
+    <LtxtSign>Znak</LtxtSign>
+    <LtxtLanguage>Język</LtxtLanguage>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <LttlLanguages>Jazyky</LttlLanguages>
+    <LttlLanguagesNote>V tejto sekcii je možné deaktivovať jazyky, ktoré nechcete používať.</LttlLanguagesNote>
+    <LtxtNatLng>Rodné jazyky</LtxtNatLng>
+    <LtxtSign>Znak</LtxtSign>
+    <LtxtLanguage>Jazyk</LtxtLanguage>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <LttlLanguages>&lt;--&gt;</LttlLanguages>
+    <LttlLanguagesNote>&lt;--&gt;</LttlLanguagesNote>
+    <LtxtNatLng>&lt;--&gt;</LtxtNatLng>
+    <LtxtSign>&lt;--&gt;</LtxtSign>
+    <LtxtLanguage>&lt;--&gt;</LtxtLanguage>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <LttlLanguages>LttlLanguages</LttlLanguages>
+    <LttlLanguagesNote>LttlLanguagesNote</LttlLanguagesNote>
+    <LtxtNatLng>LtxtNatLng</LtxtNatLng>
+    <LtxtSign>LtxtSign</LtxtSign>
+    <LtxtLanguage>LtxtLanguage</LtxtLanguage>
+  </language>
+</languages>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtErrCols>Columns with the same name are not allowed: {0}.</LtxtErrCols>
+    <LtxtValidVar>The variable "{0}" is not valid.</LtxtValidVar>
+    <Ltxt2Cols>The query must have at least 2 columns. \nThe first column is the value and the second column is the text.</Ltxt2Cols>
+    <LtxtColType>The type of column {0} must be "{1}"</LtxtColType>
+    <LtxtNumWhole>Whole Number</LtxtNumWhole>
+    <LtxtErrColsNames>Columns with no alias are not allowed</LtxtErrColsNames>
+    <LtxtErrColsPar>Column names containing parenthesis are not allowed</LtxtErrColsPar>
+    <LtxtMisCols>The following columns are missing in the query</LtxtMisCols>
+    <LtxtErrOrderBy>The "Order By" function is not allowed in this query</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtDate>Fecha</DtxtDate>
+    <LtxtErrCols>No se permite columnas con el mismo nombre: {0}.</LtxtErrCols>
+    <LtxtValidVar>La variable "{0}" no es válida.</LtxtValidVar>
+    <Ltxt2Cols>La consulta debe tener al menos 2 columnas. \nLa primera columna es el valor y la segunda es el texto</Ltxt2Cols>
+    <LtxtColType>El tipo de la columna {0} debe ser "{1}"</LtxtColType>
+    <LtxtNumWhole>Numérico entero</LtxtNumWhole>
+    <LtxtErrColsNames>No se permite columnas sin alias</LtxtErrColsNames>
+    <LtxtErrColsPar>No se permite columnas con parentesis</LtxtErrColsPar>
+    <LtxtMisCols>Faltan las siguientes columnas</LtxtMisCols>
+    <LtxtErrOrderBy>La función "Order By" no está permitida en esta consulta</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNumeric>נומרי</DtxtNumeric>
+    <DtxtDate>תאריך</DtxtDate>
+    <LtxtErrCols>לא ניתן לבנות שאילתא של שדות עם אותו שם: {0}</LtxtErrCols>
+    <LtxtValidVar>המשנתה "{0}" אינו חוקי.</LtxtValidVar>
+    <Ltxt2Cols>השאילתא צריך להיות לפחות עם שתי ערכים.\nהראשונה קוד ערך והשניה תאור ערך.</Ltxt2Cols>
+    <LtxtColType>סוג הטור {0} צריך להיות "{1}"</LtxtColType>
+    <LtxtNumWhole>מספר שלם</LtxtNumWhole>
+    <LtxtErrColsNames>לא ניתן לאשר שאילתא שיש לה טורים ללא כינוי</LtxtErrColsNames>
+    <LtxtErrColsPar>לא מותר להשתמש בשם שדה עם סוגריים</LtxtErrColsPar>
+    <LtxtMisCols>השדות הבאים חסרים בשאילתא</LtxtMisCols>
+    <LtxtErrOrderBy>בשאילתא זו אסור להשתמש ב  "Order By" </LtxtErrOrderBy>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numeric</DtxtNumeric>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtErrCols>Columns with the same name are not allowed: {0}.</LtxtErrCols>
+    <LtxtValidVar>The variable "{0}" is not valid.</LtxtValidVar>
+    <Ltxt2Cols>The query must have at least 2 columns. \nThe first column is the value and the second column is the text.</Ltxt2Cols>
+    <LtxtColType>The type of column {0} must be "{1}"</LtxtColType>
+    <LtxtNumWhole>Whole Number</LtxtNumWhole>
+    <LtxtErrColsNames>Columns with no alias are not allowed</LtxtErrColsNames>
+    <LtxtErrColsPar>Column names containing parenthesis are not allowed</LtxtErrColsPar>
+    <LtxtMisCols>The following columns are missing in the query</LtxtMisCols>
+    <LtxtErrOrderBy>The "Order By" function is not allowed in this query</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numérico</DtxtNumeric>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtErrCols>Não se permite colunas com o mesmo nome: {0}.</LtxtErrCols>
+    <LtxtValidVar>A variável "{0}" não é válida.</LtxtValidVar>
+    <Ltxt2Cols>A consulta deve ter pelo menos 2 colunas.\nA primeira coluna é o valor e segunda é o texto</Ltxt2Cols>
+    <LtxtColType>O tipo da coluna {0} deve ser "{1}"</LtxtColType>
+    <LtxtNumWhole>Numérico inteiro</LtxtNumWhole>
+    <LtxtErrColsNames>Não é permitido colunas sem um alias</LtxtErrColsNames>
+    <LtxtErrColsPar>Não é permitido colunas com parêntese</LtxtErrColsPar>
+    <LtxtMisCols>Faltam as seguintes colunas</LtxtMisCols>
+    <LtxtErrOrderBy>A função "Order By" não está liberada nesta consulta</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numérique</DtxtNumeric>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtErrCols>On ne permet pas des colonnes avec le même nom: {0}</LtxtErrCols>
+    <LtxtValidVar>La variable "{0}" n\'est pas valable.</LtxtValidVar>
+    <Ltxt2Cols>La consultation doit avoir au moins 2 colonnes. \nLa première colonne est la valeur et la seconde est le texte</Ltxt2Cols>
+    <LtxtColType>Le genre de la colonne {0} doit-être "{1}"</LtxtColType>
+    <LtxtNumWhole>Numérique entier</LtxtNumWhole>
+    <LtxtErrColsNames>&lt;--&gt;</LtxtErrColsNames>
+    <LtxtErrColsPar>&lt;--&gt;</LtxtErrColsPar>
+    <LtxtMisCols>&lt;--&gt;</LtxtMisCols>
+    <LtxtErrOrderBy>&lt;--&gt;</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numerisch</DtxtNumeric>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtErrCols>Spalten mit dem gleichen Namen sind nicht erlaubt: {0}.</LtxtErrCols>
+    <LtxtValidVar>Die Variable "{0}" ist nicht gültig.</LtxtValidVar>
+    <Ltxt2Cols>Die Anfrage muss mindestens 2 Spalten beinhalten. Die erste Spalte bestimmt den Wert, die zweite Spalte den Text.</Ltxt2Cols>
+    <LtxtColType>Der Typ von Spalte {0} muss "{1}" sein</LtxtColType>
+    <LtxtNumWhole>Ganzezahl</LtxtNumWhole>
+    <LtxtErrColsNames>&lt;--&gt;</LtxtErrColsNames>
+    <LtxtErrColsPar>&lt;--&gt;</LtxtErrColsPar>
+    <LtxtMisCols>&lt;--&gt;</LtxtMisCols>
+    <LtxtErrOrderBy>&lt;--&gt;</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Числовой</DtxtNumeric>
+    <DtxtDate>Дата</DtxtDate>
+    <LtxtErrCols>Поля с тем же названием не допускаются:{0}.</LtxtErrCols>
+    <LtxtValidVar>Переменная "{0}" не является действительной.</LtxtValidVar>
+    <Ltxt2Cols>Запрос должен иметь как минимум 2 столбца.\nПервый столбец имеет значение и во втором столбце приводится текст.</Ltxt2Cols>
+    <LtxtColType>Тип столбца {0} должно быть"{1}"</LtxtColType>
+    <LtxtNumWhole>Целое число</LtxtNumWhole>
+    <LtxtErrColsNames>Столбцы, не псевдоним, не допускается</LtxtErrColsNames>
+    <LtxtErrColsPar>Имя поля в скобках не допускаются</LtxtErrColsPar>
+    <LtxtMisCols>Следующие поля отсутствуют в запросе</LtxtMisCols>
+    <LtxtErrOrderBy>&lt;--&gt;</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Číselné</DtxtNumeric>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtErrCols>Sloupce se stejným názvem nejsou povoleny: {0}.</LtxtErrCols>
+    <LtxtValidVar>Proměnná "{0}" není platná.</LtxtValidVar>
+    <Ltxt2Cols>Dotaz musí mít aspoň 2 sloupce.\nPrvní sloupec je hodnota, druhý sloupec je text.</Ltxt2Cols>
+    <LtxtColType>Typ sloupce {0} musí být "{1}"</LtxtColType>
+    <LtxtNumWhole>Celé číslo</LtxtNumWhole>
+    <LtxtErrColsNames>Sloupce bez aliasu nejsou povoleny</LtxtErrColsNames>
+    <LtxtErrColsPar>Názvy sloupců se závorkami nejsou povoleny</LtxtErrColsPar>
+    <LtxtMisCols>Uvedené sloupce chybí v dotazu</LtxtMisCols>
+    <LtxtErrOrderBy>Funkce "Order by" není v tomto dotazu povolená</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Numeryczny</DtxtNumeric>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtErrCols>Kolumny o tej samej nazwie nie są dozwolone: {0}</LtxtErrCols>
+    <LtxtValidVar>Zmienna "{0}" jest nieważna</LtxtValidVar>
+    <Ltxt2Cols>Zapytanie musi mieć przy najmniej 2 kolumny. Pierwsza kolumna to wartość, druga - tekst.</Ltxt2Cols>
+    <LtxtColType>Typ kolumny {0} musi być "{1}"</LtxtColType>
+    <LtxtNumWhole>Cały numer</LtxtNumWhole>
+    <LtxtErrColsNames>Kolumny bez nazwy zastępczej (alias) nie są dozwolone</LtxtErrColsNames>
+    <LtxtErrColsPar>Nazwy kolumn zawierające nawiasy/ uwagi w nawiasach nie są dozwolone</LtxtErrColsPar>
+    <LtxtMisCols>W zapytaniu brakuje następujących kolumn.</LtxtMisCols>
+    <LtxtErrOrderBy>Funkcja "zamówienie poprzez" nie jest dozwolona w tym zapytaniu</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>Číselný</DtxtNumeric>
+    <DtxtDate>Dátum</DtxtDate>
+    <LtxtErrCols>Stĺpce s rovnakým názvom nie sú povolené: {0}.</LtxtErrCols>
+    <LtxtValidVar>Premenná "{0}" nie je platná.</LtxtValidVar>
+    <Ltxt2Cols>Zadanie musí mať aspoň 2 stĺpce.\nPrvý stĺpec je hodnota a druhý stĺpec je text.</Ltxt2Cols>
+    <LtxtColType>Typ stĺpca {0} musí byť "{1}"</LtxtColType>
+    <LtxtNumWhole>Celé číslo</LtxtNumWhole>
+    <LtxtErrColsNames>Stĺpce bez aliasu nie sú povolené</LtxtErrColsNames>
+    <LtxtErrColsPar>Názvy stĺpcov obsahujúce zátvorky nie sú povolené</LtxtErrColsPar>
+    <LtxtMisCols>Nasledujúce stĺpce v tomto zadaní chýbajú</LtxtMisCols>
+    <LtxtErrOrderBy>Funkcia "Usporiadať podľa" v tomto zadaní nie je povolená</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>&lt;--&gt;</DtxtNumeric>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <LtxtErrCols>&lt;--&gt;</LtxtErrCols>
+    <LtxtValidVar>&lt;--&gt;</LtxtValidVar>
+    <Ltxt2Cols>&lt;--&gt;</Ltxt2Cols>
+    <LtxtColType>&lt;--&gt;</LtxtColType>
+    <LtxtNumWhole>&lt;--&gt;</LtxtNumWhole>
+    <LtxtErrColsNames>&lt;--&gt;</LtxtErrColsNames>
+    <LtxtErrColsPar>&lt;--&gt;</LtxtErrColsPar>
+    <LtxtMisCols>&lt;--&gt;</LtxtMisCols>
+    <LtxtErrOrderBy>&lt;--&gt;</LtxtErrOrderBy>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNumeric>DtxtNumeric</DtxtNumeric>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <LtxtErrCols>LtxtErrCols</LtxtErrCols>
+    <LtxtValidVar>LtxtValidVar</LtxtValidVar>
+    <Ltxt2Cols>Ltxt2Cols</Ltxt2Cols>
+    <LtxtColType>LtxtColType</LtxtColType>
+    <LtxtNumWhole>LtxtNumWhole</LtxtNumWhole>
+    <LtxtErrColsNames>LtxtErrColsNames</LtxtErrColsNames>
+    <LtxtErrColsPar>LtxtErrColsPar</LtxtErrColsPar>
+    <LtxtMisCols>LtxtMisCols</LtxtMisCols>
+    <LtxtErrOrderBy>LtxtErrOrderBy</LtxtErrOrderBy>
+  </language>
+</languages>

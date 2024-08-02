@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>OLK Updates</LttlUpdate>
+    <LtxtErrTtl>Error: the connection with the license server could not be established.</LtxtErrTtl>
+    <LtxtErrTxt1>This could have happened because</LtxtErrTxt1>
+    <LtxtServStart>The service has not been started.</LtxtServStart>
+    <LtxtNoLic>You do not have an OLK license installed.</LtxtNoLic>
+    <LtxtLicExp>Your license has expired.</LtxtLicExp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>Actualizaciones OLK</LttlUpdate>
+    <LtxtErrTtl>Error: no se pudo establecer la conexión con el servidor de licencias.</LtxtErrTtl>
+    <LtxtErrTxt1>Esto puede pasar debida a</LtxtErrTxt1>
+    <LtxtServStart>El servicio de licencia no está corriendo.</LtxtServStart>
+    <LtxtNoLic>No tiene instalada la licencia de OLK.</LtxtNoLic>
+    <LtxtLicExp>Su licencia ha vencido.</LtxtLicExp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlUpdate>עידכון אולק</LttlUpdate>
+    <LtxtErrTtl>תקלה: לא ניתן לייצור קשר אם שרת הרשיונות.</LtxtErrTtl>
+    <LtxtErrTxt1>הסיבות שיכולות לגרום לתקלה הם:</LtxtErrTxt1>
+    <LtxtServStart>מערכת שירות הרשיונות אינה פעילה </LtxtServStart>
+    <LtxtNoLic>הרשיון של אולק אינו מותקן</LtxtNoLic>
+    <LtxtLicExp>הרשיון הזמני ניגמר</LtxtLicExp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>OLK Updates</LttlUpdate>
+    <LtxtErrTtl>Error: the connection with the license server could not be established.</LtxtErrTtl>
+    <LtxtErrTxt1>This could have happened because</LtxtErrTxt1>
+    <LtxtServStart>The service has not been started.</LtxtServStart>
+    <LtxtNoLic>You do not have an OLK license installed.</LtxtNoLic>
+    <LtxtLicExp>Your license has expired.</LtxtLicExp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>Atualizações OnlineKit</LttlUpdate>
+    <LtxtErrTtl>Erro: Não foi possível estabelecer a conexão com o servidor de licenças.</LtxtErrTtl>
+    <LtxtErrTxt1>Isto pode ocorrer devido a </LtxtErrTxt1>
+    <LtxtServStart>O serviço de licença não está correndo.</LtxtServStart>
+    <LtxtNoLic>Você não possui instalada a licença do OnlineKit.</LtxtNoLic>
+    <LtxtLicExp>Sua Licença expirou.</LtxtLicExp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>Mise à jour d'OLK</LttlUpdate>
+    <LtxtErrTtl>Erreur: on ne peut pas établir la connexion avec le serveur de licences</LtxtErrTtl>
+    <LtxtErrTxt1>Ça peut-être passé parce que</LtxtErrTxt1>
+    <LtxtServStart>Le service de licence ne pas en marche.</LtxtServStart>
+    <LtxtNoLic>Vous n'avez pas une licence OLK installée</LtxtNoLic>
+    <LtxtLicExp>Votre licence a déjà expirée</LtxtLicExp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>OLK Updates</LttlUpdate>
+    <LtxtErrTtl>Fehlermeldung: die Verbindung mit dem Server konnte nicht hergestellt werden.</LtxtErrTtl>
+    <LtxtErrTxt1>Warum das passiert sein könnte</LtxtErrTxt1>
+    <LtxtServStart>Der Service wurde noch nicht gestarted.</LtxtServStart>
+    <LtxtNoLic>Sie haben keine OLK-Lizenz installiert.</LtxtNoLic>
+    <LtxtLicExp>Ihre Lizenz ist bereits abgelaufen.</LtxtLicExp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>ОЛК обновления</LttlUpdate>
+    <LtxtErrTtl>Ошибка: соединение с сервером лицензия не может быть создана.</LtxtErrTtl>
+    <LtxtErrTxt1>Это могло произойти потому:</LtxtErrTxt1>
+    <LtxtServStart>Службы не были начаты.</LtxtServStart>
+    <LtxtNoLic>У вас не   установлены лицензии ОЛК.</LtxtNoLic>
+    <LtxtLicExp>Срок лицензии истек.</LtxtLicExp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>Aktualizace OLK</LttlUpdate>
+    <LtxtErrTtl>Chyba: spojení s licenčním serverem nemohlo být navázáno.</LtxtErrTtl>
+    <LtxtErrTxt1>K tomu mohlo dojít, protože</LtxtErrTxt1>
+    <LtxtServStart>Služba nebyla spuštěna.</LtxtServStart>
+    <LtxtNoLic>Nemáte nainstalovanou licenci OLK.</LtxtNoLic>
+    <LtxtLicExp>Vaše licence vypršela.</LtxtLicExp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>Aktualizacje OLK</LttlUpdate>
+    <LtxtErrTtl>Błąd: połączenie z serwerem licencji nie mogło być ustanowione</LtxtErrTtl>
+    <LtxtErrTxt1>Mogło się tak zdarzyć ponieważ:</LtxtErrTxt1>
+    <LtxtServStart>Usługa nie została rozpoczęta</LtxtServStart>
+    <LtxtNoLic>Nie masz zainstalowanej licencji OLK</LtxtNoLic>
+    <LtxtLicExp>Twoja licencja wygasła</LtxtLicExp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>OLK Aktualizácie</LttlUpdate>
+    <LtxtErrTtl>Chyba: spojenie s licenčným serverom sa nepodarilo nadviazať.</LtxtErrTtl>
+    <LtxtErrTxt1>Toto sa mohlo stať preto, lebo</LtxtErrTxt1>
+    <LtxtServStart>Služba nebola zatiaľ spustená.</LtxtServStart>
+    <LtxtNoLic>Nemáte nainštalovanú OLK licenciu.</LtxtNoLic>
+    <LtxtLicExp>Vaša licencia expirovala.</LtxtLicExp>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>&lt;--&gt;</LttlUpdate>
+    <LtxtErrTtl>&lt;--&gt;</LtxtErrTtl>
+    <LtxtErrTxt1>&lt;--&gt;</LtxtErrTxt1>
+    <LtxtServStart>&lt;--&gt;</LtxtServStart>
+    <LtxtNoLic>&lt;--&gt;</LtxtNoLic>
+    <LtxtLicExp>&lt;--&gt;</LtxtLicExp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdate>LttlUpdate</LttlUpdate>
+    <LtxtErrTtl>LtxtErrTtl</LtxtErrTtl>
+    <LtxtErrTxt1>LtxtErrTxt1</LtxtErrTxt1>
+    <LtxtServStart>LtxtServStart</LtxtServStart>
+    <LtxtNoLic>LtxtNoLic</LtxtNoLic>
+    <LtxtLicExp>LtxtLicExp</LtxtLicExp>
+  </language>
+</languages>

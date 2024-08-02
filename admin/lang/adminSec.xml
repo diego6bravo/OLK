@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Content</DtxtContent>
+    <LttlDefOlkSec>Definition of OLK Sections</LttlDefOlkSec>
+    <LttlDefOlkSecNote>In this section it is possible to define the different properties of the default sections of the OLK.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Are you sure you want to delete section {0}?</LtxtConfDelSec>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMenu>Hide Menu</LtxtHideMenu>
+    <LtxtActive>Activated</LtxtActive>
+    <LtxtValSecNam>Please enter the section name</LtxtValSecNam>
+    <LtxtValActiveDep>The section "{0}" cannot be activated because it requires the following sections to be active:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Do you wish to activate these sections now?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>To deactivate the section "{0}" you will need to deactivate the following sections that depend on this one:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Do you wish to deactivate these sections now?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definition of Mobile Forms</LttlDefOlkForm>
+    <LttlDefOlkFormNote>In this section it is possible to define the custom mobile forms.</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>In this section it is possible to define the custom Agent sections.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definition of Agents Sections</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Hide Alter Menu</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtReport>Reporte</DtxtReport>
+    <DtxtContent>Contenido</DtxtContent>
+    <LttlDefOlkSec>Definición de Secciones OLK</LttlDefOlkSec>
+    <LttlDefOlkSecNote>En esta sección podrá definir las diferentes propiedades de las secciones predeterminadas del OLK.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>¿Está seguro que desea eliminar la sección {0}?</LtxtConfDelSec>
+    <LtxtSesion>Sesión</LtxtSesion>
+    <LtxtHideMenu>Ocultar Menú</LtxtHideMenu>
+    <LtxtActive>Activa</LtxtActive>
+    <LtxtValSecNam>Debe introducir el nombre de la sección</LtxtValSecNam>
+    <LtxtValActiveDep>La sección "{0}" no se puede activar porque depende de que se activen las siguientes secciones:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>¿Desea activar estas secciones ahora?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Para desactivar la sección "{0}" deberá desactivar las siguientes secciones que dependen de esta:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>¿Desea desactivar estas secciones ahora?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definición de Formularios Movil</LttlDefOlkForm>
+    <LttlDefOlkFormNote>En esta sección podrá definir los formularios personalizados de Movil.</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>En esta sección podrá definir las secciones personalizadas de los Agentes.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definición de Formularios de Agentes</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Ocultar Menú Alterno</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtType>סוג</DtxtType>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtReport>דוח</DtxtReport>
+    <DtxtContent>תוכן</DtxtContent>
+    <LttlDefOlkSec>הגדרת אזורים בממשק הלקוחות</LttlDefOlkSec>
+    <LttlDefOlkSecNote>בחלק זה תוכל לקבוע הגדרות כלליות לאזורים בממשק הלקוחות</LttlDefOlkSecNote>
+    <LtxtConfDelSec>האם למחוק אזור {0}?</LtxtConfDelSec>
+    <LtxtSesion>מחובר</LtxtSesion>
+    <LtxtHideMenu>הסתר תפריט</LtxtHideMenu>
+    <LtxtActive>פעיל</LtxtActive>
+    <LtxtValSecNam>צריך לתת שם לאזור</LtxtValSecNam>
+    <LtxtValActiveDep>לא ניתן להפעיל את אזור "{0}" בגלל שהוא תלוי בהפעלה של האזורים הבאים:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>האם להפעיל אזור?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>ע"מ לסגור את אזור "{0}" צריך לסגור אזורים הקשורים אליו:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>האם לסגור אזור?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>הגדרות טפסים לפוקט</LttlDefOlkForm>
+    <LttlDefOlkFormNote>בחלק זה ניתן לקבוע הגדרות לטפסים בפוקט</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>בחלק זה תוכל להגדיר ולערוך טפסים לסוכנים</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>הגדרת טפסים לסוכנים</LttlDefOlkAgent>
+    <LtxtHideSecMenu>הסתר תפריט משני</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Content</DtxtContent>
+    <LttlDefOlkSec>Definition of OLK Sections</LttlDefOlkSec>
+    <LttlDefOlkSecNote>In this section it is possible to define the different properties of the default sections of the OLK.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Are you sure you want to delete section {0}?</LtxtConfDelSec>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMenu>Hide Menu</LtxtHideMenu>
+    <LtxtActive>Activated</LtxtActive>
+    <LtxtValSecNam>Please enter the section name</LtxtValSecNam>
+    <LtxtValActiveDep>The section "{0}" cannot be activated because it requires the following sections to be active:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Do you wish to activate these sections now?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>To deactivate the section "{0}" you will need to deactivate the following sections that depend on this one:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Do you wish to deactivate these sections now?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definition of Mobile Forms</LttlDefOlkForm>
+    <LttlDefOlkFormNote>In this section it is possible to define the custom mobile forms.</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>In this section it is possible to define the custom Agent sections.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definition of Agents Sections</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Hide Alter Menu</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtReport>Relatório</DtxtReport>
+    <DtxtContent>Conteúdo</DtxtContent>
+    <LttlDefOlkSec>Definição de Seções OnlineKit</LttlDefOlkSec>
+    <LttlDefOlkSecNote>Nesta seção, poderá definir as diferentes propriedades das seções predeterminadas do OnlineKit.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Você tem certeza que deseja excluir a seção{0}?</LtxtConfDelSec>
+    <LtxtSesion>Sessão</LtxtSesion>
+    <LtxtHideMenu>Ocultar Menu</LtxtHideMenu>
+    <LtxtActive>Ativa</LtxtActive>
+    <LtxtValSecNam>Deve inserir o nome da seção</LtxtValSecNam>
+    <LtxtValActiveDep>A seção "{0}" não pode ser ativada porque depende de que sejam ativadas as seguintes seções: </LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Deseja ativar estas seções agora?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Para desativar a seção "{0}" deverá desativar as seguintes seções que dependem desta:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Deseja ativar estas seções agora?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definição de formulários do módulo Mobile</LttlDefOlkForm>
+    <LttlDefOlkFormNote>Nesta seção é possível definir os formulários personalizados do módulo Mobile</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>Nesta seção é possível definir as seções personalizadas do módulo Vendedores</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definição de formulários do módulo de Vendedores</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Ocultar Menu Alternativo</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlDefOlkSec>Définition des sections OLK</LttlDefOlkSec>
+    <LttlDefOlkSecNote>Dans cette sections vous pourrez déterminer les divers propriétés des sections prédéterminées d'OLK</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Êtes-vous sûre d\'éliminer la section {0}?</LtxtConfDelSec>
+    <LtxtSesion>Séance</LtxtSesion>
+    <LtxtHideMenu>Oculter Menu</LtxtHideMenu>
+    <LtxtActive>Active</LtxtActive>
+    <LtxtValSecNam>Devez-vous insérer le nom de la section</LtxtValSecNam>
+    <LtxtValActiveDep>La section "{0}" ne peut pas être activer parce que dépend de l\'activation des suivants sections:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Veuillez-vous activer ces sections maintenant?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Pour déactiver  la section {0} vous devrez déactiver les suivants sections qu\'ils dépendent de:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Veuillez-vous déactiver ces sections maintenant?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>&lt;--&gt;</LttlDefOlkForm>
+    <LttlDefOlkFormNote>&lt;--&gt;</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>&lt;--&gt;</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>&lt;--&gt;</LttlDefOlkAgent>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtType>Art</DtxtType>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtReport>Bericht</DtxtReport>
+    <DtxtContent>Inhalt</DtxtContent>
+    <LttlDefOlkSec>Gestaltung von On-Line-Kit Bereiche</LttlDefOlkSec>
+    <LttlDefOlkSecNote>In diesem Bereich kann man die verschiedenen Eigenschaften der Standard-Bereiche des On-Line-Kits festlegen.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Möchten Sie den Bereich {0} wirklich löschen?</LtxtConfDelSec>
+    <LtxtSesion>Sitzung</LtxtSesion>
+    <LtxtHideMenu>Menü ausblenden</LtxtHideMenu>
+    <LtxtActive>Aktiviert</LtxtActive>
+    <LtxtValSecNam>Bitte geben Sie den Bereich Namen ein</LtxtValSecNam>
+    <LtxtValActiveDep>Der Bereich "{0}" kann nicht aktiviert werden, die folgenden Bereiche müssen zuerst aktiv sein:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Möchten Sie diese Bereiche jetzt aktivieren?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Um den Bereich "{0}" zu deaktivieren, müssen die folgenden abhängigen Bereiche zuerst deaktiviert werden:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Möchten Sie diese Bereiche jetzt deaktivieren?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>&lt;--&gt;</LttlDefOlkForm>
+    <LttlDefOlkFormNote>&lt;--&gt;</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>&lt;--&gt;</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>&lt;--&gt;</LttlDefOlkAgent>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtType>Вид</DtxtType>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtReport>Доклад</DtxtReport>
+    <DtxtContent>Содержание</DtxtContent>
+    <LttlDefOlkSec>Определение разделов ОЛК </LttlDefOlkSec>
+    <LttlDefOlkSecNote>В этом разделе можно определить различными свойствами по умолчанию, разделы ОЛК.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Вы уверены, что хотите удалить раздел {0}?</LtxtConfDelSec>
+    <LtxtSesion>Сесии</LtxtSesion>
+    <LtxtHideMenu>Скрыть меню</LtxtHideMenu>
+    <LtxtActive>Активированный</LtxtActive>
+    <LtxtValSecNam>Пожалуйста, введите название раздела</LtxtValSecNam>
+    <LtxtValActiveDep>В разделе "{0}" не может быть активирован, поскольку он требует следующих разделах быть активным:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Вы хотите,  активировать эти разделы сейчас?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Чтобы отключить в разделе "{0}" Вам необходимо будет отключить следующие разделы, которые зависят от этого:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Желаете ли вы отключить эти разделы сейчас?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Определение карманной Формы</LttlDefOlkForm>
+    <LttlDefOlkFormNote>В этом разделе можно определить пользовательские кармманные формы.</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>В этом разделе можно определить пользовательский агент разделов.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Определение разделов агентов </LttlDefOlkAgent>
+    <LtxtHideSecMenu>Скрыть Alter Меню</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlDefOlkSec>Definice sekcí OLK</LttlDefOlkSec>
+    <LttlDefOlkSecNote>V této sekci je možné definovat různé vlastnosti výchozích sekcí OLK.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Jste si jistý/á, že chcete vymazat sekci {0}?</LtxtConfDelSec>
+    <LtxtSesion>Relace</LtxtSesion>
+    <LtxtHideMenu>Schovat nabídku</LtxtHideMenu>
+    <LtxtActive>Aktivováno</LtxtActive>
+    <LtxtValSecNam>Zadejte prosím název sekce</LtxtValSecNam>
+    <LtxtValActiveDep>Relaci "{0}" není možné aktivovat, protože musí být zároveň aktivní tyto sekce:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Přejete si aktivovat tyto sekce nyní?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Pro deaktivaci sekce "{0}" musíte deaktivovat tyto sekce, které jsou na ní závislé:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Přejete se deaktivovat tyto sekce nyní?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definice kapesních obrazovek</LttlDefOlkForm>
+    <LttlDefOlkFormNote>V této sekci je možné definovat přizpůsobené kapesní obrazovky.</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>V této sekci je možné definovat přizpůsobené sekce agenta.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definice sekcí agentů</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Schovat nabídku Změnit</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtReport>Raport</DtxtReport>
+    <DtxtContent>Treść</DtxtContent>
+    <LttlDefOlkSec>Definicja działów OLK</LttlDefOlkSec>
+    <LttlDefOlkSecNote>W tym dziale można zdefiniować różne właściwości domyślnych działów OLK</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Czy jesteś pewien, że chcesz skasować dział {0}?</LtxtConfDelSec>
+    <LtxtSesion>Sesja</LtxtSesion>
+    <LtxtHideMenu>Ukryj menu</LtxtHideMenu>
+    <LtxtActive>Aktywny</LtxtActive>
+    <LtxtValSecNam>Proszę wprowadź nazwę działu</LtxtValSecNam>
+    <LtxtValActiveDep>Dział "{0}" nie może być aktywowany, ponieważ wymaga on aktywacji następujących działów:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Czy chcesz teraz aktywować te działy?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Aby dezaktywować dział "{0}"musisz dezaktywować następujące działy, które są z nim powiązane:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Czy chcesz dezaktywować te działy?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definicja formularzy schowka</LttlDefOlkForm>
+    <LttlDefOlkFormNote>W tym dziale można zdefiniować zindywidualizowane formularze schowka</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>W tym dziale można zdefiniować zindywidualizowane działy sprzedawcy</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definicja działów sprzedawcy</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Ukryj alternatywne menu</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtReport>Záznam</DtxtReport>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlDefOlkSec>Definovanie sekcií OLK</LttlDefOlkSec>
+    <LttlDefOlkSecNote>V tejto sekcii je možné definovať rôzne vlastnosti východiskových sekcií OLK.</LttlDefOlkSecNote>
+    <LtxtConfDelSec>Ste si istí, že chcete zmazať sekciu {0}?</LtxtConfDelSec>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMenu>Ukryť menu</LtxtHideMenu>
+    <LtxtActive>Aktivované</LtxtActive>
+    <LtxtValSecNam>Prosím zadajte názov sekcie</LtxtValSecNam>
+    <LtxtValActiveDep>Sekcia "{0}" nemôže byť aktivovaná, lebo sa vyžaduje, aby boli aktívne nasledujúce sekcie:</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>Prajete si aktivovať tieto sekcie už teraz?</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>Na deaktivovanie sekcie "{0}" budete potrebovať deaktivovať nasledujúce sekcie, ktoré od nej závisia:</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>Prajete si deaktivovať tieto sekcie už teraz?</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>Definovanie formulárov pre pocket (vreckový počítač)</LttlDefOlkForm>
+    <LttlDefOlkFormNote>V tejto sekcii je možné definovať vlastné formuláre pocket (vreckového počítača).</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>V tejto sekcii je možné definovať vlastné sekcie agentov.</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>Definovanie sekcií agentov</LttlDefOlkAgent>
+    <LtxtHideSecMenu>Ukryť alternujúce menu</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlDefOlkSec>&lt;--&gt;</LttlDefOlkSec>
+    <LttlDefOlkSecNote>&lt;--&gt;</LttlDefOlkSecNote>
+    <LtxtConfDelSec>&lt;--&gt;</LtxtConfDelSec>
+    <LtxtSesion>&lt;--&gt;</LtxtSesion>
+    <LtxtHideMenu>&lt;--&gt;</LtxtHideMenu>
+    <LtxtActive>&lt;--&gt;</LtxtActive>
+    <LtxtValSecNam>&lt;--&gt;</LtxtValSecNam>
+    <LtxtValActiveDep>&lt;--&gt;</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>&lt;--&gt;</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>&lt;--&gt;</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>&lt;--&gt;</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>&lt;--&gt;</LttlDefOlkForm>
+    <LttlDefOlkFormNote>&lt;--&gt;</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>&lt;--&gt;</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>&lt;--&gt;</LttlDefOlkAgent>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtReport>DtxtReport</DtxtReport>
+    <DtxtContent>DtxtContent</DtxtContent>
+    <LttlDefOlkSec>LttlDefOlkSec</LttlDefOlkSec>
+    <LttlDefOlkSecNote>LttlDefOlkSecNote</LttlDefOlkSecNote>
+    <LtxtConfDelSec>LtxtConfDelSec</LtxtConfDelSec>
+    <LtxtSesion>LtxtSesion</LtxtSesion>
+    <LtxtHideMenu>LtxtHideMenu</LtxtHideMenu>
+    <LtxtActive>LtxtActive</LtxtActive>
+    <LtxtValSecNam>LtxtValSecNam</LtxtValSecNam>
+    <LtxtValActiveDep>LtxtValActiveDep</LtxtValActiveDep>
+    <LtxtValActiveDepEnd>LtxtValActiveDepEnd</LtxtValActiveDepEnd>
+    <LtxtValDeactiveSec>LtxtValDeactiveSec</LtxtValDeactiveSec>
+    <LtxtValDeactiveSecNow>LtxtValDeactiveSecNow</LtxtValDeactiveSecNow>
+    <LttlDefOlkForm>LttlDefOlkForm</LttlDefOlkForm>
+    <LttlDefOlkFormNote>LttlDefOlkFormNote</LttlDefOlkFormNote>
+    <LttlDefOlkAgentNote>LttlDefOlkAgentNote</LttlDefOlkAgentNote>
+    <LttlDefOlkAgent>LttlDefOlkAgent</LttlDefOlkAgent>
+    <LtxtHideSecMenu>LtxtHideSecMenu</LtxtHideSecMenu>
+  </language>
+</languages>

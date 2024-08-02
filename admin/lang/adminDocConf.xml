@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtSeries>Series</DtxtSeries>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtRFM>Request for Material</DtxtRFM>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Customer Equipment Card</DtxtEquipmentCard>
+    <DtxtServiceContract>Service Contract</DtxtServiceContract>
+    <DtxtInventory>Inventory</DtxtInventory>
+    <DtxtInvTransReq>Inventory Transfer Request</DtxtInvTransReq>
+    <DtxtInvTrans>Inventory Transfer</DtxtInvTrans>
+    <LtxtValSelSeries>You must select a series</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>You must select a receipt series</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Configure Objects</LttlConfObjs>
+    <LttlConfObjsNote>Here the options for the object selected may be defined.</LttlConfObjsNote>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtInvSeries>Invoice Series</LtxtInvSeries>
+    <LtxtRctSeries>Receipt Series</LtxtRctSeries>
+    <LtxtSelSeries>Select a Series</LtxtSelSeries>
+    <LtxtUn3dxVer>Incomplete 3dx Verification</LtxtUn3dxVer>
+    <LtxtInBtchVer>Incomplete Batches Verification</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Print on Company Paper</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Enable Reserved Invoice</LtxtEnResInv>
+    <LtxtDefResInv>Reserved Invoice Default</LtxtDefResInv>
+    <LtxtPrintContact>Show Contact (Printing)</LtxtPrintContact>
+    <LtxtPrintAddress>Show Address (Printing)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Show Only Paid Amount (Printing)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Enable receipt to sales orders (not recommended)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Save Transaction # as Counter Reference of Receipt</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Default Cash Account</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Default Check Account</LtxtDefChkAcct>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Take into Account OLK Pending Payments over Invoice Balances</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Check Filter Query</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>You must verify the checks filter query</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtGoodsIssue>Goods Issue</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignore System Filter for Checking Accounts</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Create as Reserved Invoice</LtxtClientReservedInv>
+    <LtxtObjNote>Object Note</LtxtObjNote>
+    <LtxtAutoGen>Auto Generate Code</LtxtAutoGen>
+    <LtxtValAutoGenQry>You must enter automatic code generation query</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>You must validate the auto code generation query</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>Enable "View Object"</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtNotNull>Obligatorio</DtxtNotNull>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtBranch>Sucursal</DtxtBranch>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBPS>Socios de Negocios</DtxtBPS>
+    <DtxtServiceCall>Llamada de servicio</DtxtServiceCall>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitud de anticipo de clientes</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Factura de anticipo de clientes</DtxtARDownPayInv>
+    <DtxtPurOrder>Orden de Compra</DtxtPurOrder>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtRFM>Solicitud de Material</DtxtRFM>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtService>Servicio</DtxtService>
+    <DtxtEquipmentCard>Tarjeta del equipo del cliente</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrato de servicio</DtxtServiceContract>
+    <DtxtInventory>Inventario</DtxtInventory>
+    <DtxtInvTransReq>Solicitud de traslado</DtxtInvTransReq>
+    <DtxtInvTrans>Transferencia de stock</DtxtInvTrans>
+    <LtxtValSelSeries>Debe seleccionar una libreta</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Debe seleccionar una libreta de recibo</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Configurar Objetos</LttlConfObjs>
+    <LttlConfObjsNote>En esta sección podrá configurar diferentes opciones dependiendo del tipo de objeto que haya seleccionado.</LttlConfObjsNote>
+    <LtxtSelObj>Escoja un objeto</LtxtSelObj>
+    <LtxtInvSeries>Libreta de factura</LtxtInvSeries>
+    <LtxtRctSeries>Libreta de recibo</LtxtRctSeries>
+    <LtxtSelSeries>Seleccione una libreta</LtxtSelSeries>
+    <LtxtUn3dxVer>Verificación 3dx incompletos</LtxtUn3dxVer>
+    <LtxtInBtchVer>Verificación lotes incompletos</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Imprimir en papel de compañía</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Habilitar factura reservada</LtxtEnResInv>
+    <LtxtDefResInv>Predeterminar factura reservada</LtxtDefResInv>
+    <LtxtPrintContact>Mostrar contacto (impresión)</LtxtPrintContact>
+    <LtxtPrintAddress>Mostrar dirección (impresión)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Solamente mostrar cantidad abonada (impresión)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Habilitar recibo a pedidos (no recomendado)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Guardar N° de Transacción como contra comprobante de recibo</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Cuenta efectivo (predeterminada)</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Cuenta cheque (predeterminada)</LtxtDefChkAcct>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Tomar en cuenta pagos pendientes en OLK sobre saldo de facturas</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Filtro de Cheques</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Debe verificar la consulta de filtro de cheques</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Código de Agente</LtxtAgentCode>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LtxtPurchase>Compras</LtxtPurchase>
+    <LtxtGoodsIssue>Entrada</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignorar filtro de sistema para cuentas de cheque</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Crear como Factura Reservada</LtxtClientReservedInv>
+    <LtxtObjNote>Nota de Objeto</LtxtObjNote>
+    <LtxtAutoGen>Auto-Generación de Código</LtxtAutoGen>
+    <LtxtValAutoGenQry>Debe introducir la consulta de generación automática de código</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>Debe validar la consulta  de generación automática de código</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>Habilitar "Ver Objeto"</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtNotNull>חייב</DtxtNotNull>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtSeries>סידרה</DtxtSeries>
+    <DtxtBranch>סניף</DtxtBranch>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtBPS>כרטיסים</DtxtBPS>
+    <DtxtServiceCall>קריאת שירות</DtxtServiceCall>
+    <DtxtReservada>שמור\ה</DtxtReservada>
+    <DtxtARDownPayReq>בקשה למקדמה – לקוח</DtxtARDownPayReq>
+    <DtxtARDownPayInv>חשבונית מקדמה – לקוח</DtxtARDownPayInv>
+    <DtxtPurOrder>הזמנה מספקים</DtxtPurOrder>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtRFM />
+    <DtxtPurQuote>הצעת מחיר לקנייה</DtxtPurQuote>
+    <DtxtService>שירות</DtxtService>
+    <DtxtEquipmentCard>כרטיס ציוד לקוח</DtxtEquipmentCard>
+    <DtxtServiceContract>חוזה שירות</DtxtServiceContract>
+    <DtxtInventory>מלאי</DtxtInventory>
+    <DtxtInvTransReq>בקשת העברה בין מחסנים</DtxtInvTransReq>
+    <DtxtInvTrans>העברה בין מחסנים</DtxtInvTrans>
+    <LtxtValSelSeries>צריך לבחור סדרה!</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>צריך לבחור סדרה לקבלות!</LtxtValSelSeriesRCT>
+    <LttlConfObjs>הגדרות אובייקטים</LttlConfObjs>
+    <LttlConfObjsNote>בחלק זה תוכל לקבוע הגדרות כלליות לאובייקטים במערכת</LttlConfObjsNote>
+    <LtxtSelObj>בחר אובייקט</LtxtSelObj>
+    <LtxtInvSeries>סדרה לחשבוניות מס</LtxtInvSeries>
+    <LtxtRctSeries>סדרת לקבלות</LtxtRctSeries>
+    <LtxtSelSeries>בחר סידרה</LtxtSelSeries>
+    <LtxtUn3dxVer>בדוק 3dx לא שלמים</LtxtUn3dxVer>
+    <LtxtInBtchVer>בדוק אצוות לא שלמות</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>מדפיס על נייר חברה</LtxtPrintCmpPaper>
+    <LtxtEnResInv>הפעל חשבונית שריון</LtxtEnResInv>
+    <LtxtDefResInv>ברירת מחדל חשבונית שריון</LtxtDefResInv>
+    <LtxtPrintContact>הדפס איש קשר</LtxtPrintContact>
+    <LtxtPrintAddress>הדפס כתובת</LtxtPrintAddress>
+    <LtxtPrintPaidSum>הדפס רק סכום ששולם</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>הפעל קבלה על הזמנות (לא ממולץ)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>שמור מספר עיסקה כאסמכתא 2 בקבלה</LtxtORCTContraComp>
+    <LtxtDefCashAcct>חשבון מזומנים (ברירת מחדל)</LtxtDefCashAcct>
+    <LtxtDefChkAcct>חשבון צ'קים (ברירת מחדל)</LtxtDefChkAcct>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtApplyOpenRctToInv>קח בחשבון תשלומים לקבלות באולק פתוחים בסכום הפתוח לחשבוניות מס</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>אשר שאילתא</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>יש לאשר את השאילתא</LtxtValChkFltQryVal>
+    <LtxtAgentCode>קוד סוכן</LtxtAgentCode>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LtxtPurchase>קניה</LtxtPurchase>
+    <LtxtGoodsIssue>תעודת משלוח</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>התעלם מפילטר מערכת (צ'קים)</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>צור כחשבונית מס שיריון</LtxtClientReservedInv>
+    <LtxtObjNote>הערה לאובייקט</LtxtObjNote>
+    <LtxtAutoGen>הקצאת קוד אוטומטית</LtxtAutoGen>
+    <LtxtValAutoGenQry>עליך להזין לשאילתא את הקצאת הקוד האוטומטית</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>עליך לאמת את שאילתת הרצאת הקוד האוטמטית</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>אפשר "תצוגת אובייקט"</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtSeries>Series</DtxtSeries>
+    <DtxtBranch>Branch</DtxtBranch>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Purchase Quotation</DtxtPurQuote>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Customer Equipment Card</DtxtEquipmentCard>
+    <DtxtServiceContract>Service Contract</DtxtServiceContract>
+    <DtxtInventory>Inventory</DtxtInventory>
+    <DtxtInvTransReq>Inventory Transfer Request</DtxtInvTransReq>
+    <DtxtInvTrans>Inventory Transfer</DtxtInvTrans>
+    <LtxtValSelSeries>You must select a series</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>You must select a receipt series</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Configure Objects</LttlConfObjs>
+    <LttlConfObjsNote>Here the options for the object selected may be defined.</LttlConfObjsNote>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtInvSeries>Invoice Series</LtxtInvSeries>
+    <LtxtRctSeries>Receipt Series</LtxtRctSeries>
+    <LtxtSelSeries>Select a Series</LtxtSelSeries>
+    <LtxtUn3dxVer>Incomplete 3dx Verification</LtxtUn3dxVer>
+    <LtxtInBtchVer>Incomplete Batches Verification</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Print on Company Paper</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Enable Reserved Invoice</LtxtEnResInv>
+    <LtxtDefResInv>Reserved Invoice Default</LtxtDefResInv>
+    <LtxtPrintContact>Show Contact (Printing)</LtxtPrintContact>
+    <LtxtPrintAddress>Show Address (Printing)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Show Only Paid Amount (Printing)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Enable receipt to sales orders (not recommended)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Save Transaction # as Counter Reference of Receipt</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Default Cash Account</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Default Check Account</LtxtDefChkAcct>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Take into Account OLK Pending Payments over Invoice Balances</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Check Filter Query</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>You must verify the checks filter query</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtGoodsIssue>Goods Issue</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignore System Filter for Checking Accounts</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Create as Reserved Invoice</LtxtClientReservedInv>
+    <LtxtObjNote>Object Note</LtxtObjNote>
+    <LtxtAutoGen>Auto Generate Code</LtxtAutoGen>
+    <LtxtValAutoGenQry>You must enter automatic code generation query</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>You must validate the auto code generation query</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>Enable "View Object"</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtNotNull>Obrigatório</DtxtNotNull>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtSeries>Série</DtxtSeries>
+    <DtxtBranch>Filial</DtxtBranch>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBPS>Parceiros de negócios</DtxtBPS>
+    <DtxtServiceCall>Chamada de serviço</DtxtServiceCall>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitação de adiantamento de cliente</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Adiantamento de cliente</DtxtARDownPayInv>
+    <DtxtPurOrder>Pedido de Compra</DtxtPurOrder>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtRFM>Solicitação de Material</DtxtRFM>
+    <DtxtPurQuote>Oferta de Compra</DtxtPurQuote>
+    <DtxtService>Serviço</DtxtService>
+    <DtxtEquipmentCard>Cartão de equipamento do cliente</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrato de serviço</DtxtServiceContract>
+    <DtxtInventory>Estoque</DtxtInventory>
+    <DtxtInvTransReq>Solicitação de transferência de estoque</DtxtInvTransReq>
+    <DtxtInvTrans>Transferência do estoque</DtxtInvTrans>
+    <LtxtValSelSeries>Deve selecionar uma caderneta</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Deve selecionar uma caderneta de recibo</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Configurar Objetos</LttlConfObjs>
+    <LttlConfObjsNote>Nesta seção, poderá configurar diferentes opções dependendo do tipo de objeto que selecionou.</LttlConfObjsNote>
+    <LtxtSelObj>Escolha um objeto</LtxtSelObj>
+    <LtxtInvSeries>Série padrão de NF de Saída</LtxtInvSeries>
+    <LtxtRctSeries>Caderneta de recibo</LtxtRctSeries>
+    <LtxtSelSeries>Selecione uma caderneta</LtxtSelSeries>
+    <LtxtUn3dxVer>Verificação 3dx incompletos</LtxtUn3dxVer>
+    <LtxtInBtchVer>Verificação lotes incompletos</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Imprimir em papel timbrado</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Habilitar fatura reservada</LtxtEnResInv>
+    <LtxtDefResInv>Predeterminar Adiantamento de Cliente </LtxtDefResInv>
+    <LtxtPrintContact>Mostrar contato (impressão)</LtxtPrintContact>
+    <LtxtPrintAddress>Mostrar endereço (impressão)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Somente mostrar quantidade abonada (impressão)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Habilitar recibo a pedidos</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Guardar o Nº de Transação como prova de rebimento </LtxtORCTContraComp>
+    <LtxtDefCashAcct>Conta em dinheiro (predeterminada)</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Conta Cheque (predeterminada)</LtxtDefChkAcct>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Levar em conta pagamentos pendentes em OnlineKit sobre saldo das NFs de Saída</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Filtro de Cheques</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Você deve verificar a consulta de filtro de cheques</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Código do Vendedor</LtxtAgentCode>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LtxtPurchase>Compra</LtxtPurchase>
+    <LtxtGoodsIssue>Entrada</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignorar filtro do sistema para contas de cheque</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Criar como Adiantamento de Cliente </LtxtClientReservedInv>
+    <LtxtObjNote>Nota de Objeto</LtxtObjNote>
+    <LtxtAutoGen>Auto Geração de Código</LtxtAutoGen>
+    <LtxtValAutoGenQry>Você deve digitar a geração de código de consulta</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>Você deve validar a geração de código de consulta</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>Habilitar "Ver Objeto"</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Obligatoire</DtxtNotNull>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtSeries>Série</DtxtSeries>
+    <DtxtBranch>Succursale (Annexe)</DtxtBranch>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBPS>Partenaires</DtxtBPS>
+    <DtxtServiceCall>Appel client</DtxtServiceCall>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>Demande d'acompte client</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Facture d'acompte client</DtxtARDownPayInv>
+    <DtxtPurOrder>Ordre d'achat</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Appel d'offres</DtxtPurQuote>
+    <DtxtService>Service Après-Vente</DtxtService>
+    <DtxtEquipmentCard>Fiche équipement client</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrat de maintenance</DtxtServiceContract>
+    <DtxtInventory>Gestion des stocks</DtxtInventory>
+    <DtxtInvTransReq>Demande de transfert</DtxtInvTransReq>
+    <DtxtInvTrans>Transfert de stock</DtxtInvTrans>
+    <LtxtValSelSeries>Devez-vous sélectioner un livret</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Devez-vous sélectioner un livret de quittance</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Configurer des objets</LttlConfObjs>
+    <LttlConfObjsNote>Dans cette section vous pourrez configurer divers options en dépendant du genre d'objet que vous avez choisi.</LttlConfObjsNote>
+    <LtxtSelObj>Choisissez-vous un objet</LtxtSelObj>
+    <LtxtInvSeries>Livret de facture</LtxtInvSeries>
+    <LtxtRctSeries>Livret de quittance</LtxtRctSeries>
+    <LtxtSelSeries>Sélectionnez-vous un livret</LtxtSelSeries>
+    <LtxtUn3dxVer>Vérification 3dx incomplet</LtxtUn3dxVer>
+    <LtxtInBtchVer>Vérification des lotes incomplets</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Imprimer en papier de la compagnie</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Habiliter la facture réservée</LtxtEnResInv>
+    <LtxtDefResInv>Prédéterminer la facture reservée</LtxtDefResInv>
+    <LtxtPrintContact>Montrer le contact (impression)</LtxtPrintContact>
+    <LtxtPrintAddress>Montrer l'adresse (impression)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Seulement montrer la quantité abonnée (impression)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Habiliter la quittance aux commandes</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>&lt;--&gt;</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Compte liquide (prédéterminée)</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Compte cheque (prédéterminée)</LtxtDefChkAcct>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtApplyOpenRctToInv>&lt;--&gt;</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>&lt;--&gt;</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>&lt;--&gt;</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Code d'Agent</LtxtAgentCode>
+    <LtxtAvlVars>Variables disonibles</LtxtAvlVars>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>&lt;--&gt;</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>&lt;--&gt;</LtxtClientReservedInv>
+    <LtxtObjNote>&lt;--&gt;</LtxtObjNote>
+    <LtxtAutoGen>&lt;--&gt;</LtxtAutoGen>
+    <LtxtValAutoGenQry>&lt;--&gt;</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>&lt;--&gt;</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtNotNull>Pflicht</DtxtNotNull>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtBranch>Zweig</DtxtBranch>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtBPS>Geschäftspartner</DtxtBPS>
+    <DtxtServiceCall>Serviceabruf</DtxtServiceCall>
+    <DtxtReservada>Belegt</DtxtReservada>
+    <DtxtARDownPayReq>Verkaufsanzahlungsanforderung</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Verkaufsanzahlungsrechnung</DtxtARDownPayInv>
+    <DtxtPurOrder>Einkaufsauftrag</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Lieferantenanfrage</DtxtPurQuote>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Stammdaten Kundenequipment</DtxtEquipmentCard>
+    <DtxtServiceContract>Servicevertrag</DtxtServiceContract>
+    <DtxtInventory>Lagerverwaltung</DtxtInventory>
+    <DtxtInvTransReq>Anfrage zur Bestandsumlagerung</DtxtInvTransReq>
+    <DtxtInvTrans>Bestandsumlagerung</DtxtInvTrans>
+    <LtxtValSelSeries>Sie müssen eine Serie auswählen</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Sie müssen eine Belegs-Serie auswählen</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Objekte konfigurieren</LttlConfObjs>
+    <LttlConfObjsNote>In diesem Bereich können Sie verschiedene Optionen der ausgewählten Objekte festlegen.</LttlConfObjsNote>
+    <LtxtSelObj>Objekt auswählen</LtxtSelObj>
+    <LtxtInvSeries>Rechnungs Serie</LtxtInvSeries>
+    <LtxtRctSeries>Belegs Serie</LtxtRctSeries>
+    <LtxtSelSeries>Serie auswählen</LtxtSelSeries>
+    <LtxtUn3dxVer>Unvollständige 3dx Bestätigung</LtxtUn3dxVer>
+    <LtxtInBtchVer>Unvollständige Bündel-Bestätigung</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Auf Firmenpapier ausdrucken</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Belegte Rechnungen freigeben</LtxtEnResInv>
+    <LtxtDefResInv>Standard belegte Rechnung</LtxtDefResInv>
+    <LtxtPrintContact>Kontakt anzeigen (drucken)</LtxtPrintContact>
+    <LtxtPrintAddress>Adresse anzeigen (drucken)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Nur bezahlten Betrag anzeigen (drucken)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Belege für Verkaufsaufträge freigeben</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>&lt;--&gt;</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Standard Geldkonto</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Standard Girokonto</LtxtDefChkAcct>
+    <LtxtGeneral>Allgemeines</LtxtGeneral>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtBanks>Banken</LtxtBanks>
+    <LtxtApplyOpenRctToInv>&lt;--&gt;</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>&lt;--&gt;</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>&lt;--&gt;</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Agentenkennzeichen</LtxtAgentCode>
+    <LtxtAvlVars>Verfügbare Variablen</LtxtAvlVars>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>&lt;--&gt;</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>&lt;--&gt;</LtxtClientReservedInv>
+    <LtxtObjNote>&lt;--&gt;</LtxtObjNote>
+    <LtxtAutoGen>&lt;--&gt;</LtxtAutoGen>
+    <LtxtValAutoGenQry>&lt;--&gt;</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>&lt;--&gt;</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtNotNull>Должен</DtxtNotNull>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtSeries>Серии</DtxtSeries>
+    <DtxtBranch>Отделение</DtxtBranch>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtBPS>Деловые партнеры</DtxtBPS>
+    <DtxtServiceCall>Сервисная заявка</DtxtServiceCall>
+    <DtxtReservada>Сохранить</DtxtReservada>
+    <DtxtARDownPayReq>Продажа: счет на предоплату</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Продажа: счет на предоплату</DtxtARDownPayInv>
+    <DtxtPurOrder>Заказ от поставщиков</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Предложение поставщика</DtxtPurQuote>
+    <DtxtService>Сервис</DtxtService>
+    <DtxtEquipmentCard>Карта учета объектов сервиса</DtxtEquipmentCard>
+    <DtxtServiceContract>Сервисный договор</DtxtServiceContract>
+    <DtxtInventory>Запасы</DtxtInventory>
+    <DtxtInvTransReq>Запросы на перемещение</DtxtInvTransReq>
+    <DtxtInvTrans>Перемещение запасов</DtxtInvTrans>
+    <LtxtValSelSeries>Вы должны выбрать серии</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Вам нужно выбрать получение серии</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Настройка объектов</LttlConfObjs>
+    <LttlConfObjsNote>В этом разделе вы сможете определить различные параметры для выбранного объекта.</LttlConfObjsNote>
+    <LtxtSelObj>Выбор объекта</LtxtSelObj>
+    <LtxtInvSeries>Счет серии</LtxtInvSeries>
+    <LtxtRctSeries>Получение серии</LtxtRctSeries>
+    <LtxtSelSeries>Выберите серию</LtxtSelSeries>
+    <LtxtUn3dxVer>3DX испытание неполное</LtxtUn3dxVer>
+    <LtxtInBtchVer>Неполный пакет проверки</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Печать на бумаге компаний</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Включите защищение счетов</LtxtEnResInv>
+    <LtxtDefResInv>Счета сохраняются по умолчанию</LtxtDefResInv>
+    <LtxtPrintContact>Показать контакт (печатать)</LtxtPrintContact>
+    <LtxtPrintAddress>Показать адрес (печатать)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Показать только уплаченную сумму (печатать)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Включите в получении заказов (не рекомендуется)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Сохраните номер сделки как ссылку на 2 квитанцию</LtxtORCTContraComp>
+    <LtxtDefCashAcct>По умолчанию на счетах</LtxtDefCashAcct>
+    <LtxtDefChkAcct>По умолчанию проверить счет</LtxtDefChkAcct>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtBanks>Банки</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Примите во внимание ОЛК в ожидании платежей по счетам баланса</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Проверьте фильтр запросов</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Вам необходимо убедиться, в запросе проверки фильтра</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Код агента</LtxtAgentCode>
+    <LtxtAvlVars>
+Перемена времени</LtxtAvlVars>
+    <LtxtPurchase>Покупка</LtxtPurchase>
+    <LtxtGoodsIssue>Накладная</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>&lt;--&gt;</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Создайте  зарезервированные счета</LtxtClientReservedInv>
+    <LtxtObjNote> Примечание объекта</LtxtObjNote>
+    <LtxtAutoGen>&lt;--&gt;</LtxtAutoGen>
+    <LtxtValAutoGenQry>&lt;--&gt;</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>&lt;--&gt;</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtSeries>Serie</DtxtSeries>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtBPS>Obchodní partneři</DtxtBPS>
+    <DtxtServiceCall>Servisní hlášení</DtxtServiceCall>
+    <DtxtReservada>Vyhrazeno</DtxtReservada>
+    <DtxtARDownPayReq>Prodej - požadavek na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Prodej - daňový doklad k záloze</DtxtARDownPayInv>
+    <DtxtPurOrder>Nákupní objednávka</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Poptávka</DtxtPurQuote>
+    <DtxtService>Servis</DtxtService>
+    <DtxtEquipmentCard>Kmenová data vybavení zákazníka</DtxtEquipmentCard>
+    <DtxtServiceContract>Servisní smlouva</DtxtServiceContract>
+    <DtxtInventory>Řízení skladu</DtxtInventory>
+    <DtxtInvTransReq>Požadavek na přeskladnění zásob</DtxtInvTransReq>
+    <DtxtInvTrans>Přeskladnění zásob</DtxtInvTrans>
+    <LtxtValSelSeries>Musíte vybrat řadu</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Musíte vybrat řadu příjemek</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Nakonfigurovat objekty</LttlConfObjs>
+    <LttlConfObjsNote>V této sekci můžete definovat různé možnosti pro vybrané objekty.</LttlConfObjsNote>
+    <LtxtSelObj>Vybrat objekt</LtxtSelObj>
+    <LtxtInvSeries>Řada faktur</LtxtInvSeries>
+    <LtxtRctSeries>Řada příjemek</LtxtRctSeries>
+    <LtxtSelSeries>Vybrat řadu</LtxtSelSeries>
+    <LtxtUn3dxVer>Nedokončené ověření 3dx</LtxtUn3dxVer>
+    <LtxtInBtchVer>Nedokončené ověření dávek</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Tisk na firemní papír</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Aktivovat vyhrazené faktury</LtxtEnResInv>
+    <LtxtDefResInv>Vyhrazené faktury výchozí</LtxtDefResInv>
+    <LtxtPrintContact>Zobrazit kontakt (Tisk)</LtxtPrintContact>
+    <LtxtPrintAddress>Zobrazit adresu (Tisk)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Zobrazit pouze zaplacenou částku (Tisk)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Povolit příjemky k prodejním příkazům (nedoporučeno)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Uložit č. transakce jako Referenci protinávrhu příjemky</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Výchozí hotovostní účet</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Výchozí šekový účet</LtxtDefChkAcct>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Pro bilanci faktur zohlednit OLK nevyřízené platby</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Ověřit dotaz filtru</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Musíte ověřit dotaz filtru pro šeky</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtAvlVars>Možné proměnné</LtxtAvlVars>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtGoodsIssue>Výdej zboží</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignorovat systémový filtr pro šekové účty</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Vytvořit jako vyhrazenou fakturu</LtxtClientReservedInv>
+    <LtxtObjNote>Poznámka k objektu</LtxtObjNote>
+    <LtxtAutoGen>&lt;--&gt;</LtxtAutoGen>
+    <LtxtValAutoGenQry>&lt;--&gt;</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>&lt;--&gt;</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtNotNull>Obowiązkowy</DtxtNotNull>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtSeries>Seria</DtxtSeries>
+    <DtxtBranch>Oddziały</DtxtBranch>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtBPS>Partnerzy biznesowi</DtxtBPS>
+    <DtxtServiceCall>Zgłoszenie serwisowe</DtxtServiceCall>
+    <DtxtReservada>Zarezerwowany/a</DtxtReservada>
+    <DtxtARDownPayReq>Żądanie zaliczki z tyt. sprzedaży</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Faktura za zaliczkę z tyt. sprzedaży</DtxtARDownPayInv>
+    <DtxtPurOrder>Zamówienie zakupu</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Oferta zakupu</DtxtPurQuote>
+    <DtxtService>Usługa</DtxtService>
+    <DtxtEquipmentCard>Dane podstawowe urządzenia odbiorcy</DtxtEquipmentCard>
+    <DtxtServiceContract>Umowa serwisowa</DtxtServiceContract>
+    <DtxtInventory>Gospodarka materiałowa</DtxtInventory>
+    <DtxtInvTransReq>Żądanie przesunięcia magazynowego</DtxtInvTransReq>
+    <DtxtInvTrans>Przesunięcie magazynowe</DtxtInvTrans>
+    <LtxtValSelSeries>Musisz wybrać serię</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Musisz wybrać pokwitowanie serii</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Konfiguracja przedmiotów</LttlConfObjs>
+    <LttlConfObjsNote>Tutaj można zdefiniować opcje wybranego przedmiotu</LttlConfObjsNote>
+    <LtxtSelObj>Wybierz przedmiot</LtxtSelObj>
+    <LtxtInvSeries>Seria faktury</LtxtInvSeries>
+    <LtxtRctSeries>Seria pokwitowania</LtxtRctSeries>
+    <LtxtSelSeries>Wybierz serię</LtxtSelSeries>
+    <LtxtUn3dxVer>Weryfikacja niekompletnego 3dx</LtxtUn3dxVer>
+    <LtxtInBtchVer>Weryfikacja niekompletnej partii</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Wydrukuj na papierze firmowym</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Aktywuj fakturę rezerwującą</LtxtEnResInv>
+    <LtxtDefResInv>Domyślna faktura rezerwująca sprzedaży</LtxtDefResInv>
+    <LtxtPrintContact>Pokaż kontakt (wydruk)</LtxtPrintContact>
+    <LtxtPrintAddress>Pokaż adres (wydruk)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Pokaż tylko zapłaconą kwotę (wydruk)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Aktywuj pokwitowanie zlecenia sprzedaży (nie rekomendowane)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Zapisz transakcję # jako odsyłacz pokwitowania</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Domyślny rachunek gotówkowy</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Domyślny rachunek czekowy</LtxtDefChkAcct>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtBanks>Banki </LtxtBanks>
+    <LtxtApplyOpenRctToInv>Włącz płatności OLK oczekujące/w trakcie realizacji  do sumy sald faktury</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Sprawdź zapytanie filtra</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Musisz zweryfikować zapytania filtra</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Kod sprzedawcy</LtxtAgentCode>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LtxtPurchase>Zakup</LtxtPurchase>
+    <LtxtGoodsIssue>Wysyłka artykułów</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Zignoruj filtr systemu do sprawdzania kont</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Stwórz jako fakturę rezerwującą</LtxtClientReservedInv>
+    <LtxtObjNote>Uwaga do przedmiotu</LtxtObjNote>
+    <LtxtAutoGen>Automatyczna generacja kodu</LtxtAutoGen>
+    <LtxtValAutoGenQry>Musisz wprowadzić zapytanie automatycznego generowania  kodu</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>Musisz zweryfikować zapytanie automatycznego generowania  kodu</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtSeries>Séria</DtxtSeries>
+    <DtxtBranch>Pobočka</DtxtBranch>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtBPS>Obchodní partneri</DtxtBPS>
+    <DtxtServiceCall>Servisné volanie</DtxtServiceCall>
+    <DtxtReservada>Rezervované</DtxtReservada>
+    <DtxtARDownPayReq>Predaj - požiadavka na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Predaj - zálohová faktúra</DtxtARDownPayInv>
+    <DtxtPurOrder>Objednávka</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>Požiadavka na ponuku</DtxtPurQuote>
+    <DtxtService>Servis</DtxtService>
+    <DtxtEquipmentCard>Karta predaných materiálov</DtxtEquipmentCard>
+    <DtxtServiceContract>Servisná zmluva</DtxtServiceContract>
+    <DtxtInventory>Riadenie skladu</DtxtInventory>
+    <DtxtInvTransReq>Požiadavka na preskladnenie zásob</DtxtInvTransReq>
+    <DtxtInvTrans>Preskladnenie zásob</DtxtInvTrans>
+    <LtxtValSelSeries>Musíte zvoliť sériu</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>Musíte zvoliť sériu účtenky</LtxtValSelSeriesRCT>
+    <LttlConfObjs>Nakonfigurovať objekty</LttlConfObjs>
+    <LttlConfObjsNote>Tu sa dajú definovať možnosti pre zvolený objekt.</LttlConfObjsNote>
+    <LtxtSelObj>Vyberte objekt</LtxtSelObj>
+    <LtxtInvSeries>Série faktúr</LtxtInvSeries>
+    <LtxtRctSeries>Séria účtenky</LtxtRctSeries>
+    <LtxtSelSeries>Vyberte sériu</LtxtSelSeries>
+    <LtxtUn3dxVer>Nekompletné 3dx overenie</LtxtUn3dxVer>
+    <LtxtInBtchVer>Nekompletné overenie šarží</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>Vytlačiť na hlavičkový papier spoločnosti</LtxtPrintCmpPaper>
+    <LtxtEnResInv>Umožniť Rezervujúcu faktúru</LtxtEnResInv>
+    <LtxtDefResInv>Východisková rezervujúca faktúra</LtxtDefResInv>
+    <LtxtPrintContact>Zobraziť kontakt (Tlač)</LtxtPrintContact>
+    <LtxtPrintAddress>Zobraziť adresu (Tlač)</LtxtPrintAddress>
+    <LtxtPrintPaidSum>Zobraziť len uhradené množstvo (Tlač)</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>Umožniť účtenku na zákazky odberateľa (neodporúča sa)</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>Uložiť # transakcie ako odkaz pokladničný doklad</LtxtORCTContraComp>
+    <LtxtDefCashAcct>Východiskový peňažný účet</LtxtDefCashAcct>
+    <LtxtDefChkAcct>Východiskový šekový účet</LtxtDefChkAcct>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtApplyOpenRctToInv>Zohľadniť nespracované OLK platby viac ako zostatky faktúry</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>Skontrolovať filtrujúci dotaz</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>Musíte overiť dotaz na filtrovanie šekov</LtxtValChkFltQryVal>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtAvlVars>Dostupné premenné</LtxtAvlVars>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtGoodsIssue>Výdaj tovaru</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>Ignorovať systémový filter pre Šekové účty</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>Vytvoriť ako Rezervujúcu faktúru</LtxtClientReservedInv>
+    <LtxtObjNote>Poznámka objektu</LtxtObjNote>
+    <LtxtAutoGen>Automaticky vygenerovať kód</LtxtAutoGen>
+    <LtxtValAutoGenQry>Musíte zadať dotaz na automatické vygenerovanie kódu</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>Musíte overiť dotaz na automatické vygenerovanie kódu</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtNotNull>&lt;--&gt;</DtxtNotNull>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtSeries>&lt;--&gt;</DtxtSeries>
+    <DtxtBranch>&lt;--&gt;</DtxtBranch>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBPS>&lt;--&gt;</DtxtBPS>
+    <DtxtServiceCall>サービスコール(S)</DtxtServiceCall>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>&lt;--&gt;</DtxtARDownPayReq>
+    <DtxtARDownPayInv>&lt;--&gt;</DtxtARDownPayInv>
+    <DtxtPurOrder>&lt;--&gt;</DtxtPurOrder>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtRFM>&lt;--&gt;</DtxtRFM>
+    <DtxtPurQuote>&lt;--&gt;</DtxtPurQuote>
+    <DtxtService>サービス(E)</DtxtService>
+    <DtxtEquipmentCard>得意先別登録商品カード(C)</DtxtEquipmentCard>
+    <DtxtServiceContract>サービス契約(E)</DtxtServiceContract>
+    <DtxtInventory>在庫(I)</DtxtInventory>
+    <DtxtInvTransReq>在庫転送依頼(I)</DtxtInvTransReq>
+    <DtxtInvTrans>在庫転送</DtxtInvTrans>
+    <LtxtValSelSeries>&lt;--&gt;</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>&lt;--&gt;</LtxtValSelSeriesRCT>
+    <LttlConfObjs>&lt;--&gt;</LttlConfObjs>
+    <LttlConfObjsNote>&lt;--&gt;</LttlConfObjsNote>
+    <LtxtSelObj>&lt;--&gt;</LtxtSelObj>
+    <LtxtInvSeries>&lt;--&gt;</LtxtInvSeries>
+    <LtxtRctSeries>&lt;--&gt;</LtxtRctSeries>
+    <LtxtSelSeries>&lt;--&gt;</LtxtSelSeries>
+    <LtxtUn3dxVer>&lt;--&gt;</LtxtUn3dxVer>
+    <LtxtInBtchVer>&lt;--&gt;</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>&lt;--&gt;</LtxtPrintCmpPaper>
+    <LtxtEnResInv>&lt;--&gt;</LtxtEnResInv>
+    <LtxtDefResInv>&lt;--&gt;</LtxtDefResInv>
+    <LtxtPrintContact>&lt;--&gt;</LtxtPrintContact>
+    <LtxtPrintAddress>&lt;--&gt;</LtxtPrintAddress>
+    <LtxtPrintPaidSum>&lt;--&gt;</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>&lt;--&gt;</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>&lt;--&gt;</LtxtORCTContraComp>
+    <LtxtDefCashAcct>&lt;--&gt;</LtxtDefCashAcct>
+    <LtxtDefChkAcct>&lt;--&gt;</LtxtDefChkAcct>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtApplyOpenRctToInv>&lt;--&gt;</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>&lt;--&gt;</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>&lt;--&gt;</LtxtValChkFltQryVal>
+    <LtxtAgentCode>&lt;--&gt;</LtxtAgentCode>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>&lt;--&gt;</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>&lt;--&gt;</LtxtClientReservedInv>
+    <LtxtObjNote>&lt;--&gt;</LtxtObjNote>
+    <LtxtAutoGen>&lt;--&gt;</LtxtAutoGen>
+    <LtxtValAutoGenQry>&lt;--&gt;</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>&lt;--&gt;</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>&lt;--&gt;</LtxtViewObjBtn>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtNotNull>DtxtNotNull</DtxtNotNull>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtSeries>DtxtSeries</DtxtSeries>
+    <DtxtBranch>DtxtBranch</DtxtBranch>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtBPS>DtxtBPS</DtxtBPS>
+    <DtxtServiceCall>DtxtServiceCall</DtxtServiceCall>
+    <DtxtReservada>DtxtReservada</DtxtReservada>
+    <DtxtARDownPayReq>DtxtARDownPayReq</DtxtARDownPayReq>
+    <DtxtARDownPayInv>DtxtARDownPayInv</DtxtARDownPayInv>
+    <DtxtPurOrder>DtxtPurOrder</DtxtPurOrder>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtRFM>DtxtRFM</DtxtRFM>
+    <DtxtPurQuote>DtxtPurQuote</DtxtPurQuote>
+    <DtxtService>DtxtService</DtxtService>
+    <DtxtEquipmentCard>DtxtEquipmentCard</DtxtEquipmentCard>
+    <DtxtServiceContract>DtxtServiceContract</DtxtServiceContract>
+    <DtxtInventory>DtxtInventory</DtxtInventory>
+    <DtxtInvTransReq>DtxtInvTransReq</DtxtInvTransReq>
+    <DtxtInvTrans>DtxtInvTrans</DtxtInvTrans>
+    <LtxtValSelSeries>LtxtValSelSeries</LtxtValSelSeries>
+    <LtxtValSelSeriesRCT>LtxtValSelSeriesRCT</LtxtValSelSeriesRCT>
+    <LttlConfObjs>LttlConfObjs</LttlConfObjs>
+    <LttlConfObjsNote>LttlConfObjsNote</LttlConfObjsNote>
+    <LtxtSelObj>LtxtSelObj</LtxtSelObj>
+    <LtxtInvSeries>LtxtInvSeries</LtxtInvSeries>
+    <LtxtRctSeries>LtxtRctSeries</LtxtRctSeries>
+    <LtxtSelSeries>LtxtSelSeries</LtxtSelSeries>
+    <LtxtUn3dxVer>LtxtUn3dxVer</LtxtUn3dxVer>
+    <LtxtInBtchVer>LtxtInBtchVer</LtxtInBtchVer>
+    <LtxtPrintCmpPaper>LtxtPrintCmpPaper</LtxtPrintCmpPaper>
+    <LtxtEnResInv>LtxtEnResInv</LtxtEnResInv>
+    <LtxtDefResInv>LtxtDefResInv</LtxtDefResInv>
+    <LtxtPrintContact>LtxtPrintContact</LtxtPrintContact>
+    <LtxtPrintAddress>LtxtPrintAddress</LtxtPrintAddress>
+    <LtxtPrintPaidSum>LtxtPrintPaidSum</LtxtPrintPaidSum>
+    <LtxtEnableOrderPaymen>LtxtEnableOrderPaymen</LtxtEnableOrderPaymen>
+    <LtxtORCTContraComp>LtxtORCTContraComp</LtxtORCTContraComp>
+    <LtxtDefCashAcct>LtxtDefCashAcct</LtxtDefCashAcct>
+    <LtxtDefChkAcct>LtxtDefChkAcct</LtxtDefChkAcct>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtApplyOpenRctToInv>LtxtApplyOpenRctToInv</LtxtApplyOpenRctToInv>
+    <LtxtChecksFilterQry>LtxtChecksFilterQry</LtxtChecksFilterQry>
+    <LtxtValChkFltQryVal>LtxtValChkFltQryVal</LtxtValChkFltQryVal>
+    <LtxtAgentCode>LtxtAgentCode</LtxtAgentCode>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LtxtPurchase>LtxtPurchase</LtxtPurchase>
+    <LtxtGoodsIssue>LtxtGoodsIssue</LtxtGoodsIssue>
+    <LtxtIgnoreSystemCheck>LtxtIgnoreSystemCheck</LtxtIgnoreSystemCheck>
+    <LtxtClientReservedInv>LtxtClientReservedInv</LtxtClientReservedInv>
+    <LtxtObjNote>LtxtObjNote</LtxtObjNote>
+    <LtxtAutoGen>LtxtAutoGen</LtxtAutoGen>
+    <LtxtValAutoGenQry>LtxtValAutoGenQry</LtxtValAutoGenQry>
+    <LtxtAutoGenQryVal>LtxtAutoGenQryVal</LtxtAutoGenQryVal>
+    <LtxtViewObjBtn>LtxtViewObjBtn</LtxtViewObjBtn>
+  </language>
+</languages>

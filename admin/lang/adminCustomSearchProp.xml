@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtProp>Properties</DtxtProp>
+    <LtxtCustomSearchProp>Custom Search Properties</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtProp>Propiedades</DtxtProp>
+    <LtxtCustomSearchProp>Propiedades de Búsqueda Avanzada</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtProp>מאפיינים</DtxtProp>
+    <LtxtCustomSearchProp>מאפייני חיפוש מתקדם</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAll>All</DtxtAll>
+    <DtxtProp>Properties</DtxtProp>
+    <LtxtCustomSearchProp>Custom Search Properties</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtProp>Propriedades</DtxtProp>
+    <LtxtCustomSearchProp>Propriedade da Busca Avançada</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <LtxtCustomSearchProp>&lt;--&gt;</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtProp>Eigenschaften</DtxtProp>
+    <LtxtCustomSearchProp>&lt;--&gt;</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtProp>Свойства</DtxtProp>
+    <LtxtCustomSearchProp>Свойства продвинутого поиска</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <LtxtCustomSearchProp>Vlastnosti upraveného hledání</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtProp>Właściwości</DtxtProp>
+    <LtxtCustomSearchProp>Właściwości zindywidualizowanego poszukiwania</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <LtxtCustomSearchProp>Vlastnosti frekventovaného vyhľadávania</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <LtxtCustomSearchProp>&lt;--&gt;</LtxtCustomSearchProp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtProp>DtxtProp</DtxtProp>
+    <LtxtCustomSearchProp>LtxtCustomSearchProp</LtxtCustomSearchProp>
+  </language>
+</languages>

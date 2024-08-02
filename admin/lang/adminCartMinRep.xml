@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtMain>Main</DtxtMain>
+    <LttlPerCartMinRep>Customize Cart Mini-Report</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Here the mini-menu found under the user options in the Client session and on the left hand side of the screen in the Agent session while creating documents may be customized.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Agents Visible</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Agents Printing</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Client Visible</LtxtClientsVisible>
+    <LtxtClientsPrinting>Client Printing</LtxtClientsPrinting>
+    <LtxtConfRemFld>Are you sure you want to delete the {0} field?</LtxtConfRemFld>
+    <LtxtValFldNam>Please enter the field\'s name</LtxtValFldNam>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtAlignment>Alineamiento</DtxtAlignment>
+    <DtxtLeft>Izquierda</DtxtLeft>
+    <DtxtRight>Derecha</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtMain>Principal</DtxtMain>
+    <LttlPerCartMinRep>Personalizar Mini-Reporte de Canasta de Compras</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>En esta sección podrá personalizar el mini-menú que se encuentra la sesión de cliente y agente.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Agentes Visible</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Agentes Impresión</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Clientes Visible</LtxtClientsVisible>
+    <LtxtClientsPrinting>Clientes Impresión</LtxtClientsPrinting>
+    <LtxtConfRemFld>¿Está seguro que desea eliminar el campo {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Debe introducir el nombre del campo</LtxtValFldNam>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtAlignment>יישור</DtxtAlignment>
+    <DtxtLeft>שמאל</DtxtLeft>
+    <DtxtRight>ימין</DtxtRight>
+    <DtxtCenter>אמצע</DtxtCenter>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtMain>ראשי</DtxtMain>
+    <LttlPerCartMinRep>התאמה אישית של מיני דוח לסל קניות</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>בחלק זה תוכל להתאים אישית את "מיני דוח" לסוכנים ולקוחות.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>סוכנים פעיל</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>סוכנים הדפסה</LtxtAgentsPrinting>
+    <LtxtClientsVisible>לקוחות פעיל</LtxtClientsVisible>
+    <LtxtClientsPrinting>לקוחות הדפסה</LtxtClientsPrinting>
+    <LtxtConfRemFld>האם למחוק שדה {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>יש לתת שם לשדה</LtxtValFldNam>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtAlignment>Alignment</DtxtAlignment>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtMain>Main</DtxtMain>
+    <LttlPerCartMinRep>Customize Cart Mini-Report</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Here the mini-menu found under the user options in the Client session and on the left hand side of the screen in the Agent session while creating documents may be customized.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Agents Visible</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Agents Printing</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Client Visible</LtxtClientsVisible>
+    <LtxtClientsPrinting>Client Printing</LtxtClientsPrinting>
+    <LtxtConfRemFld>Are you sure you want to delete the {0} field?</LtxtConfRemFld>
+    <LtxtValFldNam>Please enter the field\'s name</LtxtValFldNam>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtAlignment>Alinhamento</DtxtAlignment>
+    <DtxtLeft>Esquerda</DtxtLeft>
+    <DtxtRight>Direita</DtxtRight>
+    <DtxtCenter>Centro</DtxtCenter>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtMain>Principal</DtxtMain>
+    <LttlPerCartMinRep>Personalizar Mini-Relatório do Carrinho de Compras</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Nesta sessão, podem ser personalizados, o mini-menu encontrado nas opções do usuário na sessão do Cliente e o mini-menu no lado esquerdo da tela na sessão de Vendedor.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Vendedores Visíveis</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Impressão de vendedores </LtxtAgentsPrinting>
+    <LtxtClientsVisible>Clientes Visíveis</LtxtClientsVisible>
+    <LtxtClientsPrinting>Clientes Impressão</LtxtClientsPrinting>
+    <LtxtConfRemFld>Você tem certeza que deseja excluir o campo {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Por favor, insira o nome do campo.</LtxtValFldNam>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtAlignment>Alignement</DtxtAlignment>
+    <DtxtLeft>Gauche</DtxtLeft>
+    <DtxtRight>Droite</DtxtRight>
+    <DtxtCenter>Centre</DtxtCenter>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Personnaliser Mini-Report de la Corbeille des achats</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Dans cette section vous pourrez personnaliser le mini-menu qui se trouve dans la section de client et d'agent.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Agents Visible</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Agents Impression</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Clients Visible</LtxtClientsVisible>
+    <LtxtClientsPrinting>Clients Impression</LtxtClientsPrinting>
+    <LtxtConfRemFld>Êtes-vous sûre d\'éliminer le domaine {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Devez-vous insérer le nom du domaine</LtxtValFldNam>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtAlignment>Anpassung</DtxtAlignment>
+    <DtxtLeft>Links</DtxtLeft>
+    <DtxtRight>Rechts</DtxtRight>
+    <DtxtCenter>Center</DtxtCenter>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Einkaufswagen Mini-Bericht individualisieren</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>In diesem Bereich können Sie das Mini-Verzeichniss individualisieren. Das Verzeichniss erscheint in den Benutzeroptionen der Kundensitzung.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Sichtbare Agenten</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Agentenausdruck</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Sichtbare Kunden</LtxtClientsVisible>
+    <LtxtClientsPrinting>Kundenausdruck</LtxtClientsPrinting>
+    <LtxtConfRemFld>Möchten Sie das Feld {0} wirklich löschen?</LtxtConfRemFld>
+    <LtxtValFldNam>Bitte geben sie den Feldnamen an</LtxtValFldNam>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtAlignment>Выравнивание</DtxtAlignment>
+    <DtxtLeft>Левое</DtxtLeft>
+    <DtxtRight>Правый</DtxtRight>
+    <DtxtCenter>Середина</DtxtCenter>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Настройка корзины мини-доклада</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>В этом разделе можно настроить мини-доклад для агента или клиента</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Активные агенты</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Печатать агентов</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Активные клиенты</LtxtClientsVisible>
+    <LtxtClientsPrinting>Печатать клиентов</LtxtClientsPrinting>
+    <LtxtConfRemFld>Вы уверены, что хотите удалить поле {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Пожалуйста, введите название поля</LtxtValFldNam>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtAlignment>Zarovnání</DtxtAlignment>
+    <DtxtLeft>Vlevo</DtxtLeft>
+    <DtxtRight>Vpravo</DtxtRight>
+    <DtxtCenter>Středisko</DtxtCenter>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Přizpůsobit mini report košíku</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>V této sekci je možné přizpůsobit mini nabídku, která se nachází v uživatelských možnostech v relaci klienta.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Viditelní agenti</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Tisky agentů</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Viditelní klienti</LtxtClientsVisible>
+    <LtxtClientsPrinting>Tisky klientů</LtxtClientsPrinting>
+    <LtxtConfRemFld>Jste si jistý/á, že chcete vymazat pole {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Zadejte název pole</LtxtValFldNam>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtAlignment>Wyrównanie</DtxtAlignment>
+    <DtxtLeft>Lewy</DtxtLeft>
+    <DtxtRight>Prawy</DtxtRight>
+    <DtxtCenter>Środek</DtxtCenter>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Dostosuj/zindywidualizuj Mini-raport koszyka</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Tutaj można dostosować/zindywidualizować mini-menu znajdujące się w sesji klienta jako opcje użytkownika oraz po lewej stronie ekranu w sesji Sprzedawcy w trakcie tworzenia dokumentów</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Aktywni sprzedawcy</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Wydruk sprzedawców</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Aktywni klienci</LtxtClientsVisible>
+    <LtxtClientsPrinting>Wydruk klientów</LtxtClientsPrinting>
+    <LtxtConfRemFld>Czy jesteś pewien, że chcesz skasować pole {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Proszę wprowadź nazwę pola.</LtxtValFldNam>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtAlignment>Zarovnanie</DtxtAlignment>
+    <DtxtLeft>Naľavo</DtxtLeft>
+    <DtxtRight>Pravý</DtxtRight>
+    <DtxtCenter>Stred</DtxtCenter>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>Prispôsobiť Mini-výkaz košíka</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>Tu sa dá prispôsobovať mini-menu umiestnené pod možnosťami užívateľa v session pre klienta a na ľavej strane obrazovky v session pre agenta počas tvorby dokumentov.</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>Agenti viditeľní</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>Tlač agentov</LtxtAgentsPrinting>
+    <LtxtClientsVisible>Klient viditeľný</LtxtClientsVisible>
+    <LtxtClientsPrinting>Tlač klienta</LtxtClientsPrinting>
+    <LtxtConfRemFld>Ste si istí, že chcete vymazať políčko {0}?</LtxtConfRemFld>
+    <LtxtValFldNam>Prosím, zadajte názov políčka</LtxtValFldNam>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtAlignment>&lt;--&gt;</DtxtAlignment>
+    <DtxtLeft>&lt;--&gt;</DtxtLeft>
+    <DtxtRight>&lt;--&gt;</DtxtRight>
+    <DtxtCenter>&lt;--&gt;</DtxtCenter>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtMain>&lt;--&gt;</DtxtMain>
+    <LttlPerCartMinRep>&lt;--&gt;</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>&lt;--&gt;</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>&lt;--&gt;</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>&lt;--&gt;</LtxtAgentsPrinting>
+    <LtxtClientsVisible>&lt;--&gt;</LtxtClientsVisible>
+    <LtxtClientsPrinting>&lt;--&gt;</LtxtClientsPrinting>
+    <LtxtConfRemFld>&lt;--&gt;</LtxtConfRemFld>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtAlignment>DtxtAlignment</DtxtAlignment>
+    <DtxtLeft>DtxtLeft</DtxtLeft>
+    <DtxtRight>DtxtRight</DtxtRight>
+    <DtxtCenter>DtxtCenter</DtxtCenter>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtMain>DtxtMain</DtxtMain>
+    <LttlPerCartMinRep>LttlPerCartMinRep</LttlPerCartMinRep>
+    <LttlPerCartMinRepNote>LttlPerCartMinRepNote</LttlPerCartMinRepNote>
+    <LtxtAgentsVisible>LtxtAgentsVisible</LtxtAgentsVisible>
+    <LtxtAgentsPrinting>LtxtAgentsPrinting</LtxtAgentsPrinting>
+    <LtxtClientsVisible>LtxtClientsVisible</LtxtClientsVisible>
+    <LtxtClientsPrinting>LtxtClientsPrinting</LtxtClientsPrinting>
+    <LtxtConfRemFld>LtxtConfRemFld</LtxtConfRemFld>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+  </language>
+</languages>

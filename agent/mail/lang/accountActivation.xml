@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>activate</LtxtActivate>
+    <LtxtPressActivate>Press {0} to activate your account</LtxtPressActivate>
+    <LtxtAcctActivated>Your account has been activated</LtxtAcctActivated>
+    <LtxtAcctRejected>Your account has been rejected for the following reason:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>You must wait from &lt;:-From-&gt; to &lt;:-To-&gt; hours for one of our 
+&lt;:-txtAgent-&gt; verify your registration and activate your account.</LtxtAgentActive>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>activar</LtxtActivate>
+    <LtxtPressActivate>Presiona {0} para activar su cuenta</LtxtPressActivate>
+    <LtxtAcctActivated>Su cuenta ha sido activada</LtxtAcctActivated>
+    <LtxtAcctRejected>Su ha cuenta ha sido rechazada por la siguiente razón:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Debe esperar de &lt;:-From-&gt; a &lt;:-To-&gt; horas para que uno de nuestros
+&lt;:-txtAgent-&gt; verifique su registro y active su cuenta</LtxtAgentActive>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <LtxtActivate>פעיל</LtxtActivate>
+    <LtxtPressActivate>לחץ {0} להעלת החשבון</LtxtPressActivate>
+    <LtxtAcctActivated>החשבון שלך מופעל</LtxtAcctActivated>
+    <LtxtAcctRejected>החשבון שלך לא מאושר בגלל:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>זמן המתנה יכול לקחת בין &lt;:-From-&gt; ל &lt;:-To-&gt; שעות, עד ש&lt;:-txtAgent-&gt; שלנו יבדוק את הרישום ויאשר את החשבון שלך</LtxtAgentActive>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>activate</LtxtActivate>
+    <LtxtPressActivate>Press {0} to activate your account</LtxtPressActivate>
+    <LtxtAcctActivated>Your account has been activated</LtxtAcctActivated>
+    <LtxtAcctRejected>Your account has been rejected for the following reason:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>You must wait from &lt;:-From-&gt; to &lt;:-To-&gt; hours for one of our 
+&lt;:-txtAgent-&gt; verify your registration and activate your account.</LtxtAgentActive>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>ativar</LtxtActivate>
+    <LtxtPressActivate>Pressione ativar para {0} sua conta</LtxtPressActivate>
+    <LtxtAcctActivated>Sua conta foi ativada</LtxtAcctActivated>
+    <LtxtAcctRejected>Sua conta foi recusada pela seguinte razão:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Deve esperar de &lt;:-From-&gt; a &lt;:-To-&gt; horas para que um dos nossos 
+&lt;:-txtAgent-&gt; verifique seu registro e ative sua conta</LtxtAgentActive>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>&lt;--&gt;</LtxtActivate>
+    <LtxtPressActivate>Cliquez {0} pour activer votre compte</LtxtPressActivate>
+    <LtxtAcctActivated>Votre compte a été activé</LtxtAcctActivated>
+    <LtxtAcctRejected>Votre compte a été refusé pour la raison suivant:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Devez-vous attendre de &lt;:-From-&gt; à &lt;:-To-&gt; heures à fin de vérifier et d'activer votre compte</LtxtAgentActive>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>&lt;--&gt;</LtxtActivate>
+    <LtxtPressActivate>Aktivieren {0} um Ihr Konto zu aktivieren</LtxtPressActivate>
+    <LtxtAcctActivated>Ihr Konto wurde aktiviert</LtxtAcctActivated>
+    <LtxtAcctRejected>Ihr Konto wurde aus folgendem Grund abgelehnt:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Sie müssen zwischen &lt;:-From-&gt; und &lt;:-To-&gt; Stunden warten bis einer unserer &lt;:-txtAgent-&gt; Ihre Anmeldung bestätigt und Ihr Konto aktiviert.</LtxtAgentActive>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <LtxtActivate>Активный</LtxtActivate>
+    <LtxtPressActivate>Нажмите {0} для включения счета</LtxtPressActivate>
+    <LtxtAcctActivated>Ваш счет включен</LtxtAcctActivated>
+    <LtxtAcctRejected>Ваш счет не утвержден ,потому, что:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Время ожидания может занять от &lt;:-From-&gt;  до  &lt;:-To-&gt;  часов, пока &lt;:-TxtAgent-&gt; наш проверит реестр и подтвердит ваш счет</LtxtAgentActive>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>Aktivovat</LtxtActivate>
+    <LtxtPressActivate>Stiskněte {0} pro aktivaci Vašeho účtu</LtxtPressActivate>
+    <LtxtAcctActivated>Váš účet byl aktitován</LtxtAcctActivated>
+    <LtxtAcctRejected>Váš účet byl zamítnut z tohoto důvodu:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Budete muset počkat od &lt;:-From-&gt; do &lt;:-To-&gt; hodin na ověření Vaší registrace a aktivaci účtu naším &lt;:-txtAgent-&gt;.</LtxtAgentActive>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>Aktywuj</LtxtActivate>
+    <LtxtPressActivate>Naciśnij {0} by aktywować swoje konto</LtxtPressActivate>
+    <LtxtAcctActivated>Twoje konto zostało aktywowane</LtxtAcctActivated>
+    <LtxtAcctRejected>Twoje konto zostało odrzucone z następujących powodów: &lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Musisz czekać od &lt;:-From-&gt; do &lt;:-To-&gt;  godzin aby jeden z naszych &lt;:-txtAgent-&gt; zweryfikował twoja rejestrację i aktywował konto. </LtxtAgentActive>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LtxtActivate>Aktivovať</LtxtActivate>
+    <LtxtPressActivate>Stlačte {0} na aktivovanie Vášho konta</LtxtPressActivate>
+    <LtxtAcctActivated>Vaše konto bolo aktivované</LtxtAcctActivated>
+    <LtxtAcctRejected>Vaše konto bolo zamietnuté z nasledovných dôvodov:&lt;br&gt;&lt;:-StatusNote-&gt;</LtxtAcctRejected>
+    <LtxtAgentActive>Musíte počkať od &lt;:-From-&gt; do &lt;:-To-&gt; hodín na to, aby jeden z našich &lt;:-txtAgent-&gt; overil Vašu registráciu a aktivoval Vaše konto.</LtxtAgentActive>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <LtxtActivate>LtxtActivate</LtxtActivate>
+    <LtxtPressActivate>LtxtPressActivate</LtxtPressActivate>
+    <LtxtAcctActivated>LtxtAcctActivated</LtxtAcctActivated>
+    <LtxtAcctRejected>LtxtAcctRejected</LtxtAcctRejected>
+    <LtxtAgentActive>LtxtAgentActive</LtxtAgentActive>
+  </language>
+</languages>

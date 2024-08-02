@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>State</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendClient>Open Business Partners</LttlPendClient>
+    <LtxtConfDel>Are you sure you want to delete this Business Partner(s)?</LtxtConfDel>
+    <LtxtConfReOpen>The Business Partner that you wish to edit is in confirmation state, if you continue the Business Partner state will return to open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtValSelCrd>You must select at least one Business Partner</LtxtValSelCrd>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtPend>Pendiente</DtxtPend>
+    <DtxtConfirmed>Confirmación</DtxtConfirmed>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtDelete>Eliminar</DtxtDelete>
+    <LttlPendClient>Socio de Negocios Pendientes</LttlPendClient>
+    <LtxtConfDel>¿Está seguro que desea eliminar el(los) Socio(s) de Negocio(s)?</LtxtConfDel>
+    <LtxtConfReOpen>El Socio de Neogocio que desea editar está en estado de confirmación, si continúa el Socio de Neogocio volverá al estado de pendiente.\n¿Desea continuar?</LtxtConfReOpen>
+    <LtxtValSelCrd>Debe seleccionar al menos un Socio de Negocio</LtxtValSelCrd>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtPend>פתוח</DtxtPend>
+    <DtxtConfirmed>אישור</DtxtConfirmed>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtDelete>מחק</DtxtDelete>
+    <LttlPendClient>כרטיסים פתוחים</LttlPendClient>
+    <LtxtConfDel>האם למחוק כרטיס(ים)?</LtxtConfDel>
+    <LtxtConfReOpen>הכרטיס נימצא בהמתנה לאישור, במידה ותמשיך הכרטיס יחזור למצב פתוח.\nהאם להמשיך?</LtxtConfReOpen>
+    <LtxtValSelCrd>יש לבחור לפחות כרטיס אחד</LtxtValSelCrd>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtState>County</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtPend>Pending</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtDelete>Delete</DtxtDelete>
+    <LttlPendClient>Open Business Partners</LttlPendClient>
+    <LtxtConfDel>Are you sure you want to delete this Business Partner(s)?</LtxtConfDel>
+    <LtxtConfReOpen>The Business Partner that you wish to edit is in confirmation state, if you continue the Business Partner state will return to open state.\nDo you wish to continue?</LtxtConfReOpen>
+    <LtxtValSelCrd>You must select at least one Business Partner</LtxtValSelCrd>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtState>Estado</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtPend>Pendente</DtxtPend>
+    <DtxtConfirmed>Confirmação</DtxtConfirmed>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtDelete>Excluir</DtxtDelete>
+    <LttlPendClient>Parceiro de Negócios Pendentes </LttlPendClient>
+    <LtxtConfDel>Tem certeza que deseja excluir este Parceiro de Negócio</LtxtConfDel>
+    <LtxtConfReOpen>O Parceiro de Negócio que você deseja editar está em uma situação de confirmação, se continuar, o Parceiro de Negócio irá retornar a situação de pendente. \nDeseja continuar?</LtxtConfReOpen>
+    <LtxtValSelCrd>Você deve selecionar pelo menos um Parceiro de Negócios</LtxtValSelCrd>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtState>État</DtxtState>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtPend>En attente, Pendent</DtxtPend>
+    <DtxtConfirmed>Confirmation</DtxtConfirmed>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtDelete>Éliminer</DtxtDelete>
+    <LttlPendClient>&lt;--&gt;</LttlPendClient>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+    <LtxtValSelCrd>&lt;--&gt;</LtxtValSelCrd>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtPend>Ausstehend</DtxtPend>
+    <DtxtConfirmed>Bestätigung</DtxtConfirmed>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtDelete>Löschen</DtxtDelete>
+    <LttlPendClient>&lt;--&gt;</LttlPendClient>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+    <LtxtValSelCrd>&lt;--&gt;</LtxtValSelCrd>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtState>Государство</DtxtState>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtPend>Открытый</DtxtPend>
+    <DtxtConfirmed>Разрешить</DtxtConfirmed>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtDelete>Стереть</DtxtDelete>
+    <LttlPendClient>Открытые бизнес-партнеры</LttlPendClient>
+    <LtxtConfDel>Вы уверены, что хотите удалить этот бизнес-партнер (ы)?</LtxtConfDel>
+    <LtxtConfReOpen>Бизнес-партнер, который вы хотите отредактировать, находится в подтверждение государством, если вы продолжите, государственный бизнес-партнер вернется в открытом состоянии.</LtxtConfReOpen>
+    <LtxtValSelCrd>Вы должны выбрать по крайней мере один бизнес-партнер</LtxtValSelCrd>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtState>Stát</DtxtState>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtPend>Nevyřízený</DtxtPend>
+    <DtxtConfirmed>Potvrzení</DtxtConfirmed>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtDelete>Vymazat</DtxtDelete>
+    <LttlPendClient>Otevřít obchodního partnera</LttlPendClient>
+    <LtxtConfDel>Jste si jistý/á, že chcete vymazat tohoto obchodního partnera?</LtxtConfDel>
+    <LtxtConfReOpen>Obchodní partner, kterého chcete upravovat, je ve stavu potvrzení. Pokud budete pokračovat, tento obchodní partner přejde zpět do stavu otevřený.\nUrčitě chcete pokračovat?</LtxtConfReOpen>
+    <LtxtValSelCrd>Musíte vybrat aspoň jednoho obchodního partnera</LtxtValSelCrd>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtPend>W trakcie realizacji/oczekujący</DtxtPend>
+    <DtxtConfirmed>Potwierdzenie</DtxtConfirmed>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtDelete>Skasuj</DtxtDelete>
+    <LttlPendClient>Otwórz Partnerów Biznesowych</LttlPendClient>
+    <LtxtConfDel>Czy jesteś pewien, że chcesz usunąć tego Partnera/ów Biznesowych?</LtxtConfDel>
+    <LtxtConfReOpen>Partner Biznesowy, którego chcesz edytować jest w fazie potwierdzania, jeśli będziesz kontynuować status Partnera Biznesowego pozostanie otwarty. Czy chcesz kontynuować?</LtxtConfReOpen>
+    <LtxtValSelCrd>Musisz wybrać przynajmniej jednego Partnera Biznesowego</LtxtValSelCrd>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtState>Štát</DtxtState>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtPend>Pred uzavretím</DtxtPend>
+    <DtxtConfirmed>Potvrdenie</DtxtConfirmed>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtDelete>Vymazať</DtxtDelete>
+    <LttlPendClient>Otvorení Obchodní partneri</LttlPendClient>
+    <LtxtConfDel>Ste si istí, že chcete zmazať tohto Obchodného partnera(ov)?</LtxtConfDel>
+    <LtxtConfReOpen>Obchodní partner, ktorého si prajete editovať je v stave potvrdzovania, ak budete pokračovať, stav Obchodného partnera sa vráti do otvoreného stavu.</LtxtConfReOpen>
+    <LtxtValSelCrd>Musíte vybrať aspoň jedného Obchodného partnera</LtxtValSelCrd>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtPend>DtxtPend</DtxtPend>
+    <DtxtConfirmed>DtxtConfirmed</DtxtConfirmed>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtDelete>DtxtDelete</DtxtDelete>
+    <LttlPendClient>LttlPendClient</LttlPendClient>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtConfReOpen>LtxtConfReOpen</LtxtConfReOpen>
+    <LtxtValSelCrd>LtxtValSelCrd</LtxtValSelCrd>
+  </language>
+</languages>

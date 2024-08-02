@@ -1,0 +1,848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtActions>Actions</DtxtActions>
+    <DtxtOp>Operation</DtxtOp>
+    <LtxtSelConfType>Select confirmation type</LtxtSelConfType>
+    <LtxtNoRSVars>The selected report does not have variables.</LtxtNoRSVars>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValFldNam>You can\'t have a field without a name</LtxtValFldNam>
+    <LtxtValFldNam2>Please enter the field\'s name</LtxtValFldNam2>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>You must enter the query of the variable {0} value.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>You must validate the query of the variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>You must select the link report</LtxtValRepLnk>
+    <LtxtConfDelFld>Are you sure you want to delete the field {0}?</LtxtConfDelFld>
+    <LtxtActionID>Action ID</LtxtActionID>
+    <LttlObjConfDet>Objects Confirmation Custom Columns</LttlObjConfDet>
+    <LttlObjConfNote>Here custom columns that appear on the object confirmation screen may be defined.</LttlObjConfNote>
+    <LttlAddFldObjConf>Add Object Confirmation Column</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Edit Object Confirmation Column</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>Here custom columns on the object confirmation screen may be added and edited.</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificación</DtxtCodification>
+    <DtxtLow>Baja</DtxtLow>
+    <DtxtMedium>Media</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatoria</DtxtRndLtr>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItems>Artículos</DtxtItems>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtForm>Formulario</DtxtForm>
+    <DtxtDecSum>Importes</DtxtDecSum>
+    <DtxtDecPrice>Precios</DtxtDecPrice>
+    <DtxtDecRate>Tasas</DtxtDecRate>
+    <DtxtDecQty>Cantidades</DtxtDecQty>
+    <DtxtDecPercent>Porcentaje</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <DtxtBPS>Socios de Negocios</DtxtBPS>
+    <DtxtReport>Reporte</DtxtReport>
+    <DtxtActions>Acciones</DtxtActions>
+    <DtxtOp>Operación</DtxtOp>
+    <LtxtSelConfType>Seleccione tipo de confirmación</LtxtSelConfType>
+    <LtxtNoRSVars>El reporte seleccionado no tiene variables.</LtxtNoRSVars>
+    <LtxtValQryVal>Debe verificar la consulta antes de agregar el campo</LtxtValQryVal>
+    <LtxtValFldNam>No se puede agregar un campo sin nombre</LtxtValFldNam>
+    <LtxtValFldNam2>Debe introducir el nombre del campo</LtxtValFldNam2>
+    <LtxtValQry>Debe introducir la consulta</LtxtValQry>
+    <LtxtSelFldVar>Debe seleccionar el campo para la variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Debe introducir el valor para la variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Debe introducir la consulta del valor de la variable {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Debe validar la consulta del valor de la variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Debe seleccionar el reporte del enlace</LtxtValRepLnk>
+    <LtxtConfDelFld>¿Está seguro que desea eliminar el campo {0}?</LtxtConfDelFld>
+    <LtxtActionID>N° de Acción</LtxtActionID>
+    <LttlObjConfDet>Columnas personalizadas de confirmación de objetos</LttlObjConfDet>
+    <LttlObjConfNote>En esta sección podrá definir las columnas que aparecerán dentro del área de confirmación de objetos</LttlObjConfNote>
+    <LttlAddFldObjConf>Agregar columna a la confirmación de objetos</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Editar columna de la confirmación de objetos</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>En esta sección podrá agregar/editar columnas dentro del área de confirmación de objetos</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tablas</LtxtAvlTables>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtCodification>קידוד</DtxtCodification>
+    <DtxtLow>נמוך</DtxtLow>
+    <DtxtMedium>אמצע</DtxtMedium>
+    <DtxtHigh>גבוה</DtxtHigh>
+    <DtxtRndLtr>קידוד אוטומטי</DtxtRndLtr>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItems>פריטים</DtxtItems>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtValue>ערך</DtxtValue>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtReceipts>קבלות</DtxtReceipts>
+    <DtxtVariable>משתנה</DtxtVariable>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtForm>טופס</DtxtForm>
+    <DtxtDecSum>סכומים</DtxtDecSum>
+    <DtxtDecPrice>מחירים</DtxtDecPrice>
+    <DtxtDecRate>שערים</DtxtDecRate>
+    <DtxtDecQty>כמויות</DtxtDecQty>
+    <DtxtDecPercent>אחוזים</DtxtDecPercent>
+    <DtxtDecMeasure>יחידות</DtxtDecMeasure>
+    <DtxtDecimal>עשרוני</DtxtDecimal>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtBP>כרטיס</DtxtBP>
+    <DtxtBPS>כרטיסים</DtxtBPS>
+    <DtxtReport>דוח</DtxtReport>
+    <DtxtActions>פעולות</DtxtActions>
+    <DtxtOp>תהליך</DtxtOp>
+    <LtxtSelConfType>בחר סוג אישור אובייקט</LtxtSelConfType>
+    <LtxtNoRSVars>אין משתנים בדוח הנבחר</LtxtNoRSVars>
+    <LtxtValQryVal>צריך לאשר את השאילתא לפני הוספת השדה</LtxtValQryVal>
+    <LtxtValFldNam>לא ניתן להוסיף שדה ללא תאור</LtxtValFldNam>
+    <LtxtValFldNam2>צריך לתת תאור לשדה</LtxtValFldNam2>
+    <LtxtValQry>יש למלא את השאילתא</LtxtValQry>
+    <LtxtSelFldVar>צריך לבחור ערך לשדה {0}@</LtxtSelFldVar>
+    <LtxtValVarVal>צריך להכניס ערך למשתנה {0}@</LtxtValVarVal>
+    <LtxtValVarQry>יש למלא שאילתא למשתנה {0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>יש לאשר את השאילתא למשתנה {0}</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>יש לבחור את הדוח לקישור</LtxtValRepLnk>
+    <LtxtConfDelFld>האם למחוק שדה {0}?</LtxtConfDelFld>
+    <LtxtActionID>קוד פעולה</LtxtActionID>
+    <LttlObjConfDet>אישור אובייקטים - טורים מותאמים אישית</LttlObjConfDet>
+    <LttlObjConfNote>בחלק זה תוכל להגדיר טורים מותאמים אישית שיופיען עם אישור אובייקטים</LttlObjConfNote>
+    <LttlAddFldObjConf>הוסף טור - אישור אובייקטים</LttlAddFldObjConf>
+    <LttlEditFldObjConf>ערוך טור - אישור אובייקטים</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>בחלק זה תוכל להוסיף ולערוך טורים באישור אובייקטים</LttlAddFldObjConfNote>
+    <LtxtAvlTables>טבלות</LtxtAvlTables>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtCodification>Encryption</DtxtCodification>
+    <DtxtLow>Low</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>High</DtxtHigh>
+    <DtxtRndLtr>Random Letter</DtxtRndLtr>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Value</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtDecSum>Amounts</DtxtDecSum>
+    <DtxtDecPrice>Prices</DtxtDecPrice>
+    <DtxtDecRate>Rates</DtxtDecRate>
+    <DtxtDecQty>Quantities</DtxtDecQty>
+    <DtxtDecPercent>Percent</DtxtDecPercent>
+    <DtxtDecMeasure>Units</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtActions>Actions</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>Select confirmation type</LtxtSelConfType>
+    <LtxtNoRSVars>The selected report does not have variables.</LtxtNoRSVars>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValFldNam>You can\'t have a field without a name</LtxtValFldNam>
+    <LtxtValFldNam2>Please enter the field\'s name</LtxtValFldNam2>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtSelFldVar>You must select the field for the variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Please enter the value for the variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>You must enter the query of the variable {0} value.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>You must validate the query of the variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>You must select the link report</LtxtValRepLnk>
+    <LtxtConfDelFld>Are you sure you want to delete the field {0}?</LtxtConfDelFld>
+    <LtxtActionID>Action ID</LtxtActionID>
+    <LttlObjConfDet>Objects Confirmation Custom Columns</LttlObjConfDet>
+    <LttlObjConfNote>Here custom columns that appear on the object confirmation screen may be defined.</LttlObjConfNote>
+    <LttlAddFldObjConf>Add Object Confirmation Column</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Edit Object Confirmation Column</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>Here custom columns on the object confirmation screen may be added and edited.</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtCodification>Codificação</DtxtCodification>
+    <DtxtLow>Baixa</DtxtLow>
+    <DtxtMedium>Médio</DtxtMedium>
+    <DtxtHigh>Alta</DtxtHigh>
+    <DtxtRndLtr>Letra Aleatória</DtxtRndLtr>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItems>Itens</DtxtItems>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtValue>Valor</DtxtValue>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtVariable>Variável</DtxtVariable>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtForm>Formulário</DtxtForm>
+    <DtxtDecSum>Quantidades</DtxtDecSum>
+    <DtxtDecPrice>Preços</DtxtDecPrice>
+    <DtxtDecRate>Taxas</DtxtDecRate>
+    <DtxtDecQty>Quantidades</DtxtDecQty>
+    <DtxtDecPercent>Percentagem</DtxtDecPercent>
+    <DtxtDecMeasure>Unidades</DtxtDecMeasure>
+    <DtxtDecimal>Decimal</DtxtDecimal>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <DtxtBPS>Parceiros de negócios</DtxtBPS>
+    <DtxtReport>Relatório</DtxtReport>
+    <DtxtActions>Ações</DtxtActions>
+    <DtxtOp>Operação</DtxtOp>
+    <LtxtSelConfType>Selecione o tipo de confirmação.</LtxtSelConfType>
+    <LtxtNoRSVars>O relatório selecionado possui variáveis.</LtxtNoRSVars>
+    <LtxtValQryVal>Você deve verificar a consulta antes de salvar as alterações.</LtxtValQryVal>
+    <LtxtValFldNam>Você não pode ter um campo sem nome.</LtxtValFldNam>
+    <LtxtValFldNam2>Por favor, insira o nome do campo.</LtxtValFldNam2>
+    <LtxtValQry>Por favor, insira a consulta.</LtxtValQry>
+    <LtxtSelFldVar>Você deve selecionar o campo para a variável @{0}.</LtxtSelFldVar>
+    <LtxtValVarVal>Por favor, insira o valor para a variável @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Você deve inserir a consulta do valor da variável {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Você deve validar a consulta da variável {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Você deve selecionar o relatório do link.</LtxtValRepLnk>
+    <LtxtConfDelFld>Você tem certeza que deseja excluir o campo {0}?</LtxtConfDelFld>
+    <LtxtActionID>ID Ação</LtxtActionID>
+    <LttlObjConfDet>Colunas personalizadas de confirmação de objetos. </LttlObjConfDet>
+    <LttlObjConfNote>Nesta seção, podem ser definidas as colunas personalizadas que aparecem na tela de confirmação de objeto.</LttlObjConfNote>
+    <LttlAddFldObjConf>Adicionar coluna de confirmação de objeto.</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Editar coluna de confirmação de objeto.</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>Nesta seção, podem ser adicionadas e editadas as colunas personalizadas na tela de confirmação de objeto.</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tabelas</LtxtAvlTables>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtCodification>Codification</DtxtCodification>
+    <DtxtLow>Basse</DtxtLow>
+    <DtxtMedium>Moyenne</DtxtMedium>
+    <DtxtHigh>Haute</DtxtHigh>
+    <DtxtRndLtr>Caractère aléatoire</DtxtRndLtr>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItems>Articles</DtxtItems>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtValue>Valeur</DtxtValue>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtReceipts>Reçus (Quittances)</DtxtReceipts>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtForm>Formulaire</DtxtForm>
+    <DtxtDecSum>Montants, Valeurs</DtxtDecSum>
+    <DtxtDecPrice>Prix</DtxtDecPrice>
+    <DtxtDecRate>Taux</DtxtDecRate>
+    <DtxtDecQty>Quantités</DtxtDecQty>
+    <DtxtDecPercent>Taux</DtxtDecPercent>
+    <DtxtDecMeasure>Unités</DtxtDecMeasure>
+    <DtxtDecimal>Décimal</DtxtDecimal>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtBPS>Partenaires</DtxtBPS>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>&lt;--&gt;</LtxtSelConfType>
+    <LtxtNoRSVars>Le report sélectionné n'a pas des variables</LtxtNoRSVars>
+    <LtxtValQryVal>Devez-vous vérifier la consultation avant d'ajouter le domaine</LtxtValQryVal>
+    <LtxtValFldNam>Ne peut pas ajouter un domaine sans nom</LtxtValFldNam>
+    <LtxtValFldNam2>Devez-vous insérer le nom du domaine</LtxtValFldNam2>
+    <LtxtValQry>Devez-vous insérer la consultation</LtxtValQry>
+    <LtxtSelFldVar>Devez-vous sélectionner le domaine pour la variable @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Devez-vous insérer la valeur pour la variable @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Devez-vous insérer la consultation de la valeur pour la variable{0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Devez-vous valider la consultation de la valeur pour la variable {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Devez-vous sélectione le report du lien</LtxtValRepLnk>
+    <LtxtConfDelFld>Êtes-vous sûre d\'éliminer le domaine{0}?</LtxtConfDelFld>
+    <LtxtActionID>&lt;--&gt;</LtxtActionID>
+    <LttlObjConfDet>&lt;--&gt;</LttlObjConfDet>
+    <LttlObjConfNote>&lt;--&gt;</LttlObjConfNote>
+    <LttlAddFldObjConf>&lt;--&gt;</LttlAddFldObjConf>
+    <LttlEditFldObjConf>&lt;--&gt;</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>&lt;--&gt;</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tables</LtxtAvlTables>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtCodification>Verschlüsselung</DtxtCodification>
+    <DtxtLow>Niedrig</DtxtLow>
+    <DtxtMedium>Medium</DtxtMedium>
+    <DtxtHigh>Hoch</DtxtHigh>
+    <DtxtRndLtr>Wilkürlicher Buchstabe</DtxtRndLtr>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtType>Art</DtxtType>
+    <DtxtItems>Artikel</DtxtItems>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtValue>Wert</DtxtValue>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtReceipts>Belege</DtxtReceipts>
+    <DtxtVariable>Variable</DtxtVariable>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtForm>Formular</DtxtForm>
+    <DtxtDecSum>Mengen</DtxtDecSum>
+    <DtxtDecPrice>Preise</DtxtDecPrice>
+    <DtxtDecRate>Tarife</DtxtDecRate>
+    <DtxtDecQty>Mengen</DtxtDecQty>
+    <DtxtDecPercent>Prozent</DtxtDecPercent>
+    <DtxtDecMeasure>Einheiten</DtxtDecMeasure>
+    <DtxtDecimal>Dezimal</DtxtDecimal>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <DtxtBPS>Geschäftspartner</DtxtBPS>
+    <DtxtReport>Bericht</DtxtReport>
+    <DtxtActions>Aktionen</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>&lt;--&gt;</LtxtSelConfType>
+    <LtxtNoRSVars>Der ausgewählte Bericht enthält keine Variablen</LtxtNoRSVars>
+    <LtxtValQryVal>Sie müssen die Anfrage zuerst bestätigen um alle Änderungen zu speichern</LtxtValQryVal>
+    <LtxtValFldNam>Sie können kein Feld ohne Namen haben</LtxtValFldNam>
+    <LtxtValFldNam2>Bitte geben Sie den Feldnamen an</LtxtValFldNam2>
+    <LtxtValQry>Bitte geben Sie die Anfrage an</LtxtValQry>
+    <LtxtSelFldVar>Sie müssen das Feld der Variable @{0} auswählen</LtxtSelFldVar>
+    <LtxtValVarVal>Bitte geben Sie den Wert der Variablen @{0} an</LtxtValVarVal>
+    <LtxtValVarQry>Sie müssen die Anfrage des Variablenwerts {0} angeben.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Sie müssen die Anfrage der Variable {0} bestätigen.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Sie müssen den Verknüpfungsbericht auswählen</LtxtValRepLnk>
+    <LtxtConfDelFld>Möchten Sie das Feld {0} wirklich löschen?</LtxtConfDelFld>
+    <LtxtActionID>&lt;--&gt;</LtxtActionID>
+    <LttlObjConfDet>&lt;--&gt;</LttlObjConfDet>
+    <LttlObjConfNote>&lt;--&gt;</LttlObjConfNote>
+    <LttlAddFldObjConf>&lt;--&gt;</LttlAddFldObjConf>
+    <LttlEditFldObjConf>&lt;--&gt;</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>&lt;--&gt;</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tabellen</LtxtAvlTables>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtCodification>Кодирование</DtxtCodification>
+    <DtxtLow>Низкий</DtxtLow>
+    <DtxtMedium>Среднее</DtxtMedium>
+    <DtxtHigh>Высокий</DtxtHigh>
+    <DtxtRndLtr>Автоматическое кодирование</DtxtRndLtr>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItems>Детали</DtxtItems>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtValue>Значение</DtxtValue>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtReceipts>Квитанции</DtxtReceipts>
+    <DtxtVariable>Переменная</DtxtVariable>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtForm>Форма</DtxtForm>
+    <DtxtDecSum>Суммы</DtxtDecSum>
+    <DtxtDecPrice>Цены</DtxtDecPrice>
+    <DtxtDecRate>Курсы</DtxtDecRate>
+    <DtxtDecQty>Сумма</DtxtDecQty>
+    <DtxtDecPercent>Проценты</DtxtDecPercent>
+    <DtxtDecMeasure>Единицы</DtxtDecMeasure>
+    <DtxtDecimal>Десятичный</DtxtDecimal>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <DtxtBPS>Деловые партнеры</DtxtBPS>
+    <DtxtReport>Доклад</DtxtReport>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>&lt;--&gt;</LtxtSelConfType>
+    <LtxtNoRSVars>Нет переменных в выбранном документе</LtxtNoRSVars>
+    <LtxtValQryVal>Вы должны подтвердить запрос прежде чем вы сможете сохранить изменения</LtxtValQryVal>
+    <LtxtValFldNam>Не возможно добавить поле без описания</LtxtValFldNam>
+    <LtxtValFldNam2>Должны дать название полю </LtxtValFldNam2>
+    <LtxtValQry>Нужно заполнить запрос</LtxtValQry>
+    <LtxtSelFldVar>Нужно выбрать поле перенной  {0}@</LtxtSelFldVar>
+    <LtxtValVarVal> Должны внести значения переменных  {0}@</LtxtValVarVal>
+    <LtxtValVarQry>Нужно заполнить запрос для переменных {0}</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Вы должны проверить запросы переменных</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Нужно выбрать документ для связи</LtxtValRepLnk>
+    <LtxtConfDelFld>Удалить поле {0}?</LtxtConfDelFld>
+    <LtxtActionID>&lt;--&gt;</LtxtActionID>
+    <LttlObjConfDet>&lt;--&gt;</LttlObjConfDet>
+    <LttlObjConfNote>&lt;--&gt;</LttlObjConfNote>
+    <LttlAddFldObjConf>&lt;--&gt;</LttlAddFldObjConf>
+    <LttlEditFldObjConf>&lt;--&gt;</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>&lt;--&gt;</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Таблицы</LtxtAvlTables>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kódování</DtxtCodification>
+    <DtxtLow>Nízký</DtxtLow>
+    <DtxtMedium>Střední</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný dopis</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtReceipts>Příjemky</DtxtReceipts>
+    <DtxtVariable>Proměnná</DtxtVariable>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtForm>Obrazovka</DtxtForm>
+    <DtxtDecSum>Částky</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Sazby</DtxtDecRate>
+    <DtxtDecQty>Množství</DtxtDecQty>
+    <DtxtDecPercent>Procento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Decimální</DtxtDecimal>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <DtxtBPS>Obchodní partneři</DtxtBPS>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtActions>Akce</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>Vyberte typ informace</LtxtSelConfType>
+    <LtxtNoRSVars>Vybraný report nemá proměnné.</LtxtNoRSVars>
+    <LtxtValQryVal>Před uložením změn musíte potvrdit dotaz</LtxtValQryVal>
+    <LtxtValFldNam>Není možné mít pole bez názvu</LtxtValFldNam>
+    <LtxtValFldNam2>Zadejte prosím název pole</LtxtValFldNam2>
+    <LtxtValQry>Zadejte dotaz</LtxtValQry>
+    <LtxtSelFldVar>Musíte vybrat pole pro proměnnou @{0}.</LtxtSelFldVar>
+    <LtxtValVarVal>Zadejte prosím hodnotu proměnné @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musíte zadat dotaz na hodnotu proměnné {0}.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Musíte potvrdti dotaz na proměnnou {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Musíte vybrat navázaný report</LtxtValRepLnk>
+    <LtxtConfDelFld>Jste si jistý/á, že chcete vymazat pole {0}?</LtxtConfDelFld>
+    <LtxtActionID>Č. akce</LtxtActionID>
+    <LttlObjConfDet>&lt;--&gt;</LttlObjConfDet>
+    <LttlObjConfNote>V této sekci je možné definovat sloupce na zakázku, které se zobrazí v potvrzení objektu</LttlObjConfNote>
+    <LttlAddFldObjConf>Přidat sloupec do potvrzení objektu</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Upravit potvrzení objektu</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>V této sekci je možné přidat/upravit sloupce v oblasti potvrzení objektu</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tabulky</LtxtAvlTables>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtCodification>Kodowanie</DtxtCodification>
+    <DtxtLow>Niski/a</DtxtLow>
+    <DtxtMedium>Średni/a</DtxtMedium>
+    <DtxtHigh>Wysoki/a</DtxtHigh>
+    <DtxtRndLtr>Przypadkowa litera</DtxtRndLtr>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItems>Pozycje</DtxtItems>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtValue>Wartość</DtxtValue>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtReceipts>Pokwitowania</DtxtReceipts>
+    <DtxtVariable>Zmienne</DtxtVariable>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtForm>Formularz</DtxtForm>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kursy</DtxtDecRate>
+    <DtxtDecQty>Ilości</DtxtDecQty>
+    <DtxtDecPercent>Procenty</DtxtDecPercent>
+    <DtxtDecMeasure>Jednostki</DtxtDecMeasure>
+    <DtxtDecimal>Miejsce po przecinku</DtxtDecimal>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <DtxtBPS>Partnerzy biznesowi</DtxtBPS>
+    <DtxtReport>Raport</DtxtReport>
+    <DtxtActions>Działania</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>Wybierz rodzaj potwierdzenia</LtxtSelConfType>
+    <LtxtNoRSVars>Wybrany raport nie ma zmiennych</LtxtNoRSVars>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie zanim będziesz mógł zapisać zmiany</LtxtValQryVal>
+    <LtxtValFldNam>Nie może być pola bez nazwy</LtxtValFldNam>
+    <LtxtValFldNam2>Proszę wprowadzić nazwę pola</LtxtValFldNam2>
+    <LtxtValQry>Proszę wprowadzić zapytanie</LtxtValQry>
+    <LtxtSelFldVar>Musisz wybrać pole dla zmiennej @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Proszę wprowadź wartość dla zmiennej @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musisz wprowadzić zapytanie dotyczące wartości {0} zmiennej</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Musisz zweryfikować zapytanie dotyczące zmiennej {0}</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Musisz wybrać raport do doczepienia/podłączenia</LtxtValRepLnk>
+    <LtxtConfDelFld>Czy jesteś pewien, że chcesz usunąć pole {0}?</LtxtConfDelFld>
+    <LtxtActionID>Kod działania</LtxtActionID>
+    <LttlObjConfDet>Zindywidualizowane kolumny potwierdzenie przedmiotów</LttlObjConfDet>
+    <LttlObjConfNote>Tutaj można zdefiniować zindywidualizowane kolumny pojawiające się na ekranie potwierdzenia przedmiotu</LttlObjConfNote>
+    <LttlAddFldObjConf>Dodaj kolumnę - potwierdzenie przedmiotu</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Edytuj kolumnę - potwierdzenie przedmiotu</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>Tutaj można edytować i dodawać zindywidualizowane kolumny pojawiające się na ekranie potwierdzenia przedmiotu</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tabele</LtxtAvlTables>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtCodification>Kodifikácia</DtxtCodification>
+    <DtxtLow>Nízky</DtxtLow>
+    <DtxtMedium>Stredný</DtxtMedium>
+    <DtxtHigh>Vysoký</DtxtHigh>
+    <DtxtRndLtr>Náhodný list</DtxtRndLtr>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtValue>Hodnota</DtxtValue>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtReceipts>Potvrdenky o zaplatení</DtxtReceipts>
+    <DtxtVariable>Premenná</DtxtVariable>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtForm>Formulár</DtxtForm>
+    <DtxtDecSum>Sumy</DtxtDecSum>
+    <DtxtDecPrice>Ceny</DtxtDecPrice>
+    <DtxtDecRate>Kurzy</DtxtDecRate>
+    <DtxtDecQty>Množstvá</DtxtDecQty>
+    <DtxtDecPercent>Percento</DtxtDecPercent>
+    <DtxtDecMeasure>Jednotky</DtxtDecMeasure>
+    <DtxtDecimal>Desatinné</DtxtDecimal>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <DtxtBPS>Obchodní partneri</DtxtBPS>
+    <DtxtReport>Záznam</DtxtReport>
+    <DtxtActions>Kroky</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>Vybrať typ potvrdenia</LtxtSelConfType>
+    <LtxtNoRSVars>Zvolený výkaz nemá premenné.</LtxtNoRSVars>
+    <LtxtValQryVal>Musíte overiť dotaz pred uložením zmien.</LtxtValQryVal>
+    <LtxtValFldNam>Nemôžete mať políčko bez názvu</LtxtValFldNam>
+    <LtxtValFldNam2>Prosím, zadajte názov políčka</LtxtValFldNam2>
+    <LtxtValQry>Prosím, zadajte dotaz</LtxtValQry>
+    <LtxtSelFldVar>Musíte zvoliť políčko pre premennú @{0}</LtxtSelFldVar>
+    <LtxtValVarVal>Prosím, zadajte hodnotu pre premennú @{0}</LtxtValVarVal>
+    <LtxtValVarQry>Musíte zadať dotaz premennej {0} hodnoty.</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>Musíte schváliť dotaz premennej {0}.</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>Musíte zvoliť link výkazu</LtxtValRepLnk>
+    <LtxtConfDelFld>Ste si istí, že chcete vymazať toto políčko {0}?</LtxtConfDelFld>
+    <LtxtActionID>ID úkonu</LtxtActionID>
+    <LttlObjConfDet>Frekventované stĺpce potvrdenia objektov</LttlObjConfDet>
+    <LttlObjConfNote>Tu sa dajú definovať frekventované stĺpce, ktoré sú zobrazované na obrazovke potvrdenia objektu.</LttlObjConfNote>
+    <LttlAddFldObjConf>Pridať stĺpec potvrdenia objektu</LttlAddFldObjConf>
+    <LttlEditFldObjConf>Editovať stĺpec potvrdenia objektu</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>Tu sa dajú pridať a editovať frekventované stĺpce na obrazovke potvrdenia objektu.</LttlAddFldObjConfNote>
+    <LtxtAvlTables>Tabuľky</LtxtAvlTables>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtCodification>&lt;--&gt;</DtxtCodification>
+    <DtxtLow>&lt;--&gt;</DtxtLow>
+    <DtxtMedium>&lt;--&gt;</DtxtMedium>
+    <DtxtHigh>&lt;--&gt;</DtxtHigh>
+    <DtxtRndLtr>&lt;--&gt;</DtxtRndLtr>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtItems>&lt;--&gt;</DtxtItems>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtValue>&lt;--&gt;</DtxtValue>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtReceipts>&lt;--&gt;</DtxtReceipts>
+    <DtxtVariable>&lt;--&gt;</DtxtVariable>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtForm>&lt;--&gt;</DtxtForm>
+    <DtxtDecSum>&lt;--&gt;</DtxtDecSum>
+    <DtxtDecPrice>&lt;--&gt;</DtxtDecPrice>
+    <DtxtDecRate>&lt;--&gt;</DtxtDecRate>
+    <DtxtDecQty>&lt;--&gt;</DtxtDecQty>
+    <DtxtDecPercent>&lt;--&gt;</DtxtDecPercent>
+    <DtxtDecMeasure>&lt;--&gt;</DtxtDecMeasure>
+    <DtxtDecimal>&lt;--&gt;</DtxtDecimal>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtBPS>&lt;--&gt;</DtxtBPS>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <DtxtOp>&lt;--&gt;</DtxtOp>
+    <LtxtSelConfType>&lt;--&gt;</LtxtSelConfType>
+    <LtxtNoRSVars>&lt;--&gt;</LtxtNoRSVars>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+    <LtxtValFldNam2>&lt;--&gt;</LtxtValFldNam2>
+    <LtxtValQry>&lt;--&gt;</LtxtValQry>
+    <LtxtSelFldVar>&lt;--&gt;</LtxtSelFldVar>
+    <LtxtValVarVal>&lt;--&gt;</LtxtValVarVal>
+    <LtxtValVarQry>&lt;--&gt;</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>&lt;--&gt;</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>&lt;--&gt;</LtxtValRepLnk>
+    <LtxtConfDelFld>&lt;--&gt;</LtxtConfDelFld>
+    <LtxtActionID>&lt;--&gt;</LtxtActionID>
+    <LttlObjConfDet>&lt;--&gt;</LttlObjConfDet>
+    <LttlObjConfNote>&lt;--&gt;</LttlObjConfNote>
+    <LttlAddFldObjConf>&lt;--&gt;</LttlAddFldObjConf>
+    <LttlEditFldObjConf>&lt;--&gt;</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>&lt;--&gt;</LttlAddFldObjConfNote>
+    <LtxtAvlTables>&lt;--&gt;</LtxtAvlTables>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtCodification>DtxtCodification</DtxtCodification>
+    <DtxtLow>DtxtLow</DtxtLow>
+    <DtxtMedium>DtxtMedium</DtxtMedium>
+    <DtxtHigh>DtxtHigh</DtxtHigh>
+    <DtxtRndLtr>DtxtRndLtr</DtxtRndLtr>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItems>DtxtItems</DtxtItems>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtValue>DtxtValue</DtxtValue>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtReceipts>DtxtReceipts</DtxtReceipts>
+    <DtxtVariable>DtxtVariable</DtxtVariable>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtForm>DtxtForm</DtxtForm>
+    <DtxtDecSum>DtxtDecSum</DtxtDecSum>
+    <DtxtDecPrice>DtxtDecPrice</DtxtDecPrice>
+    <DtxtDecRate>DtxtDecRate</DtxtDecRate>
+    <DtxtDecQty>DtxtDecQty</DtxtDecQty>
+    <DtxtDecPercent>DtxtDecPercent</DtxtDecPercent>
+    <DtxtDecMeasure>DtxtDecMeasure</DtxtDecMeasure>
+    <DtxtDecimal>DtxtDecimal</DtxtDecimal>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <DtxtBPS>DtxtBPS</DtxtBPS>
+    <DtxtReport>DtxtReport</DtxtReport>
+    <DtxtActions>DtxtActions</DtxtActions>
+    <DtxtOp>DtxtOp</DtxtOp>
+    <LtxtSelConfType>LtxtSelConfType</LtxtSelConfType>
+    <LtxtNoRSVars>LtxtNoRSVars</LtxtNoRSVars>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+    <LtxtValFldNam2>LtxtValFldNam2</LtxtValFldNam2>
+    <LtxtValQry>LtxtValQry</LtxtValQry>
+    <LtxtSelFldVar>LtxtSelFldVar</LtxtSelFldVar>
+    <LtxtValVarVal>LtxtValVarVal</LtxtValVarVal>
+    <LtxtValVarQry>LtxtValVarQry</LtxtValVarQry>
+    <LtxtValVarQryBrnVerfy>LtxtValVarQryBrnVerfy</LtxtValVarQryBrnVerfy>
+    <LtxtValRepLnk>LtxtValRepLnk</LtxtValRepLnk>
+    <LtxtConfDelFld>LtxtConfDelFld</LtxtConfDelFld>
+    <LtxtActionID>LtxtActionID</LtxtActionID>
+    <LttlObjConfDet>LttlObjConfDet</LttlObjConfDet>
+    <LttlObjConfNote>LttlObjConfNote</LttlObjConfNote>
+    <LttlAddFldObjConf>LttlAddFldObjConf</LttlAddFldObjConf>
+    <LttlEditFldObjConf>LttlEditFldObjConf</LttlEditFldObjConf>
+    <LttlAddFldObjConfNote>LttlAddFldObjConfNote</LttlAddFldObjConfNote>
+    <LtxtAvlTables>LtxtAvlTables</LtxtAvlTables>
+  </language>
+</languages>

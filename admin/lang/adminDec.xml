@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEdit>Edit</DtxtEdit>
+    <LttlSelDes>Design Selection</LttlSelDes>
+    <LttlSelDesNote>Here the design used to display your portal may be selected.</LttlSelDesNote>
+    <LtxtHomeLogo>Home Logo</LtxtHomeLogo>
+    <LtxtMailLogo>Mail Logo</LtxtMailLogo>
+    <LttlPerDes>Customized Designs</LttlPerDes>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtEdit>Editar</DtxtEdit>
+    <LttlSelDes>Selección de Diseño</LttlSelDes>
+    <LttlSelDesNote>En esta sección podrá seleccionar el diseño que desea utilizar, para presentar su portal. </LttlSelDesNote>
+    <LtxtHomeLogo>Logotipo Principal</LtxtHomeLogo>
+    <LtxtMailLogo>Logotipo de Correos</LtxtMailLogo>
+    <LttlPerDes>Diseños Personalizados</LttlPerDes>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <LttlSelDes>עיצוב ממשק לקוחות</LttlSelDes>
+    <LttlSelDesNote>בחלק זה תוכל לקבוע את העיצוב האתר לממשק הלקוחות.</LttlSelDesNote>
+    <LtxtHomeLogo>לוגו לאתר לקוחות</LtxtHomeLogo>
+    <LtxtMailLogo>לוגו לדואר אלקטרוני</LtxtMailLogo>
+    <LttlPerDes>עיצוב אישי</LttlPerDes>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtEdit>Edit</DtxtEdit>
+    <LttlSelDes>Design Selection</LttlSelDes>
+    <LttlSelDesNote>Here the design used to display your portal may be selected.</LttlSelDesNote>
+    <LtxtHomeLogo>Home Logo</LtxtHomeLogo>
+    <LtxtMailLogo>Mail Logo</LtxtMailLogo>
+    <LttlPerDes>Customized Designs</LttlPerDes>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtEdit>Editar</DtxtEdit>
+    <LttlSelDes>Seleção do Layout</LttlSelDes>
+    <LttlSelDesNote>Nesta seção, poderá selecionar o layout que deseja utilizar, para apresentar seu portal.</LttlSelDesNote>
+    <LtxtHomeLogo>Logotipo Principal</LtxtHomeLogo>
+    <LtxtMailLogo>Logotipos de Correios</LtxtMailLogo>
+    <LttlPerDes>Layouts Personalizados</LttlPerDes>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <LttlSelDes>Sélection du dessin</LttlSelDes>
+    <LttlSelDesNote>Dans cette section vous pourrez choisir le dessin que vous souhaitez utiliser, à fin de présenter votre portail.</LttlSelDesNote>
+    <LtxtHomeLogo>Logotype principal</LtxtHomeLogo>
+    <LtxtMailLogo>Logotype des courriers</LtxtMailLogo>
+    <LttlPerDes>Dessins personnalisés</LttlPerDes>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <LttlSelDes>Design Auswahl</LttlSelDes>
+    <LttlSelDesNote>In diesem Bereich kann man ein Design auswählen um Ihr Portal anzuzeigen.</LttlSelDesNote>
+    <LtxtHomeLogo>Startseiten Logo</LtxtHomeLogo>
+    <LtxtMailLogo>Post-Logo</LtxtMailLogo>
+    <LttlPerDes>Individualisierte Designs</LttlPerDes>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <LttlSelDes>Дизайн интерфейса клиента</LttlSelDes>
+    <LttlSelDesNote>В этом разделе можно выбрать дизайн для отображения вашего портала.</LttlSelDesNote>
+    <LtxtHomeLogo>Главный логотип клиентов</LtxtHomeLogo>
+    <LtxtMailLogo>Логотип электронной почты</LtxtMailLogo>
+    <LttlPerDes> Персональный дизайн</LttlPerDes>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <LttlSelDes>Výběr návrhu</LttlSelDes>
+    <LttlSelDesNote>V této sekci je možné vybrat vzor zobrazení vašeho portálu.</LttlSelDesNote>
+    <LtxtHomeLogo>Logo domovské stránky</LtxtHomeLogo>
+    <LtxtMailLogo>Logo e-mailu</LtxtMailLogo>
+    <LttlPerDes>Přizpůsobené vzory</LttlPerDes>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <LttlSelDes>Wybór wzoru</LttlSelDes>
+    <LttlSelDesNote>Tutaj można wybrać wzór wykorzystany do wyświetlenia twojego portalu</LttlSelDesNote>
+    <LtxtHomeLogo>Logo strony domowej</LtxtHomeLogo>
+    <LtxtMailLogo>Logo emaila</LtxtMailLogo>
+    <LttlPerDes>Projekt wykonany na zamówienie</LttlPerDes>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <LttlSelDes>Výber dizajnu</LttlSelDes>
+    <LttlSelDesNote>Tu sa dá vybrať dizajn použitý na zobrazenie Vášho portálu.</LttlSelDesNote>
+    <LtxtHomeLogo>Domovské logo</LtxtHomeLogo>
+    <LtxtMailLogo>Logo e-mailu</LtxtMailLogo>
+    <LttlPerDes>Prispôsobené dizajny</LttlPerDes>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <LttlSelDes>&lt;--&gt;</LttlSelDes>
+    <LttlSelDesNote>&lt;--&gt;</LttlSelDesNote>
+    <LtxtHomeLogo>&lt;--&gt;</LtxtHomeLogo>
+    <LtxtMailLogo>&lt;--&gt;</LtxtMailLogo>
+    <LttlPerDes>&lt;--&gt;</LttlPerDes>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <LttlSelDes>LttlSelDes</LttlSelDes>
+    <LttlSelDesNote>LttlSelDesNote</LttlSelDesNote>
+    <LtxtHomeLogo>LtxtHomeLogo</LtxtHomeLogo>
+    <LtxtMailLogo>LtxtMailLogo</LtxtMailLogo>
+    <LttlPerDes>LttlPerDes</LttlPerDes>
+  </language>
+</languages>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Expired Session</LttlExpSes>
+    <LtxtReenter>Reenter the system</LtxtReenter>
+    <LtxtDescExp>You session has expired; to reenter the system you must enter your user name and password.</LtxtDescExp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Sesión expirada</LttlExpSes>
+    <LtxtReenter>Ingresar nuevamente al sistema</LtxtReenter>
+    <LtxtDescExp>Su sesión ha expirado, para poder ingresar al sistema  necesita volver a escribir su usuario y su contraseña.</LtxtDescExp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlExpSes>אולק - סגירה אוטומטית</LttlExpSes>
+    <LtxtReenter>כניסה מחדש לאתר</LtxtReenter>
+    <LtxtDescExp>האתר ניסגר באופן אוטומתי עקב חוסר פעילות, אתה יכול להכנס שוב ע"י הכנסת משתמש וסיסמה.</LtxtDescExp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Expired Session</LttlExpSes>
+    <LtxtReenter>Reenter the system</LtxtReenter>
+    <LtxtDescExp>You session has expired; to reenter the system you must enter your user name and password.</LtxtDescExp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Sessão expirada</LttlExpSes>
+    <LtxtReenter>Entrar novamente  no sistema</LtxtReenter>
+    <LtxtDescExp>Sua sessão expirou, para poder entrar no sistema necessita  escrever outra vez seu usuário e  senha.</LtxtDescExp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Séance expirée</LttlExpSes>
+    <LtxtReenter>Entrer au systeme encore en fois</LtxtReenter>
+    <LtxtDescExp>Votre séance a expirée, a fin de pouvoir entrer au système vous aurez besoin encore en fois d'écrire votre nom d'utilisateur et mot de passe.</LtxtDescExp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - abgelaufene Sitzung</LttlExpSes>
+    <LtxtReenter>System wieder betreten</LtxtReenter>
+    <LtxtDescExp>Ihre Sitzung ist abgelaufen, um wieder ins System zu gelangen geben Sie Ihren Benutzernamen und Kennwort ein.</LtxtDescExp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>Олк - автоматическое закрытие</LttlExpSes>
+    <LtxtReenter>Обновленный вход на сайт</LtxtReenter>
+    <LtxtDescExp>Анонимный сайт закрылся  из-за бездействия, вы можете зайти снова, указав имя пользователя и пароль.</LtxtDescExp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - relace vypršela</LttlExpSes>
+    <LtxtReenter>Znovu se přihlásit do systému</LtxtReenter>
+    <LtxtDescExp>Vaše relace vypršela. Pro opětovné přihlášení do systému musíte zadat Vašeho uživatelské jméno a heslo.</LtxtDescExp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - system wygasł</LttlExpSes>
+    <LtxtReenter>Wejdź ponownie do systemu</LtxtReenter>
+    <LtxtDescExp>Twoja sesja wygasła; aby ponownie wejść do systemu musisz wprowadzić swoją nazwę użytkownika i hasło</LtxtDescExp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>TopManage OLK - Platnosť relácie vypršala</LttlExpSes>
+    <LtxtReenter>Znovu vstúpte do systému</LtxtReenter>
+    <LtxtDescExp>Vaša relácia vypršala; na znovu vstúpenie do systému musíte zadať Vaše užívateľské meno a heslo.</LtxtDescExp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlExpSes>LttlExpSes</LttlExpSes>
+    <LtxtReenter>LtxtReenter</LtxtReenter>
+    <LtxtDescExp>LtxtDescExp</LtxtDescExp>
+  </language>
+</languages>

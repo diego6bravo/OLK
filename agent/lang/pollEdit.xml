@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlAddPoll>Add Poll</LttlAddPoll>
+    <LttlEditPoll>Edit Poll</LttlEditPoll>
+    <LttlPollLines>Poll - Lines</LttlPollLines>
+    <LtxtValPollNam>Please enter the poll name</LtxtValPollNam>
+    <LtxtValPollTtl>Please enter the poll title</LtxtValPollTtl>
+    <LtxtValPollDat>Please enter the poll date</LtxtValPollDat>
+    <LtxtConfDelLine>Are you sure you want to delete this line?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicación</DtxtDateOfPub>
+    <DtxtColor>Color</DtxtColor>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <LttlAddPoll>Agregar Encuesta</LttlAddPoll>
+    <LttlEditPoll>Editar Encuesta</LttlEditPoll>
+    <LttlPollLines>Encuesta - Líneas</LttlPollLines>
+    <LtxtValPollNam>Debe introducir el nombre de la encuesta</LtxtValPollNam>
+    <LtxtValPollTtl>Debe introducir el  título de la encuesta</LtxtValPollTtl>
+    <LtxtValPollDat>Debe introducir la fecha de la encuesta</LtxtValPollDat>
+    <LtxtConfDelLine>¿Está seguro que desea eliminar esta línea?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtTitle>כותרת</DtxtTitle>
+    <DtxtDateOfPub>הפצה</DtxtDateOfPub>
+    <DtxtColor>צבע</DtxtColor>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <LttlAddPoll>הוסף סקר</LttlAddPoll>
+    <LttlEditPoll>ערוך סקר</LttlEditPoll>
+    <LttlPollLines>סקרים - שורות</LttlPollLines>
+    <LtxtValPollNam>חסר שם לסקר!</LtxtValPollNam>
+    <LtxtValPollTtl>חסר כותרת לסקר!</LtxtValPollTtl>
+    <LtxtValPollDat>חסר תאריך לסקר!</LtxtValPollDat>
+    <LtxtConfDelLine>אתה בטוח שאתה רוצה למחוק את השורה?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtTitle>Title</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtColor>Colour</DtxtColor>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <LttlAddPoll>Add Poll</LttlAddPoll>
+    <LttlEditPoll>Edit Poll</LttlEditPoll>
+    <LttlPollLines>Poll - Lines</LttlPollLines>
+    <LtxtValPollNam>Please enter the poll name</LtxtValPollNam>
+    <LtxtValPollTtl>Please enter the poll title</LtxtValPollTtl>
+    <LtxtValPollDat>Please enter the poll date</LtxtValPollDat>
+    <LtxtConfDelLine>Are you sure you want to delete this line?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtTitle>Título</DtxtTitle>
+    <DtxtDateOfPub>Publicação</DtxtDateOfPub>
+    <DtxtColor>Cor</DtxtColor>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <LttlAddPoll>Adicionar  Pesquisa</LttlAddPoll>
+    <LttlEditPoll>Editar pesquisa</LttlEditPoll>
+    <LttlPollLines>Pesquisa - Linhas</LttlPollLines>
+    <LtxtValPollNam>Deve introduzir  o nome da pesquisa</LtxtValPollNam>
+    <LtxtValPollTtl>Deve introduzir o título da pesquisa</LtxtValPollTtl>
+    <LtxtValPollDat>Deve introduzir a data da pesquisa</LtxtValPollDat>
+    <LtxtConfDelLine>Tem certeza  que deseja eliminar esta linha?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtTitle>Titre</DtxtTitle>
+    <DtxtDateOfPub>Publication</DtxtDateOfPub>
+    <DtxtColor>Couleur</DtxtColor>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <LttlAddPoll>Ajouter l'enquête</LttlAddPoll>
+    <LttlEditPoll>Éditer l'enquête</LttlEditPoll>
+    <LttlPollLines>Enquête - Lignes</LttlPollLines>
+    <LtxtValPollNam>Devez-vous insérer le nom de l'enquête</LtxtValPollNam>
+    <LtxtValPollTtl>Devez-vous insérer le titre de l'enquête</LtxtValPollTtl>
+    <LtxtValPollDat>Devez-vous insérez la date de l'enquête</LtxtValPollDat>
+    <LtxtConfDelLine>Êtes-vous sûre d\'éliminer cette ligne?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtTitle>Titel</DtxtTitle>
+    <DtxtDateOfPub>Erscheinungsdatum</DtxtDateOfPub>
+    <DtxtColor>Farbe</DtxtColor>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <LttlAddPoll>Umfrage hinzufügen</LttlAddPoll>
+    <LttlEditPoll>Umfrage ändern</LttlEditPoll>
+    <LttlPollLines>Umfrage - Zeilen</LttlPollLines>
+    <LtxtValPollNam>Bitte geben Sie den Umfragenamen an</LtxtValPollNam>
+    <LtxtValPollTtl>Bitte geben Sie der Umfrage einen Namen</LtxtValPollTtl>
+    <LtxtValPollDat>Bitte geben Sie das Umfragedatum ein</LtxtValPollDat>
+    <LtxtConfDelLine>Möchten Sie diese Zeile wirkich löschen?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtTitle>Название</DtxtTitle>
+    <DtxtDateOfPub>Распределение</DtxtDateOfPub>
+    <DtxtColor>Цвет</DtxtColor>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <LttlAddPoll>Добавить опрос</LttlAddPoll>
+    <LttlEditPoll>Изменить опрос</LttlEditPoll>
+    <LttlPollLines>Опросы-линии</LttlPollLines>
+    <LtxtValPollNam>Добавить название опроса</LtxtValPollNam>
+    <LtxtValPollTtl>Добавить зоголовок опроса</LtxtValPollTtl>
+    <LtxtValPollDat>Добавить дату опроса</LtxtValPollDat>
+    <LtxtConfDelLine>Вы уверены, что хотите удалить строку?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtTitle>Titul</DtxtTitle>
+    <DtxtDateOfPub>Uveřejnění</DtxtDateOfPub>
+    <DtxtColor>Barva</DtxtColor>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <LttlAddPoll>Vytvořit anketu</LttlAddPoll>
+    <LttlEditPoll>Upravit anketu</LttlEditPoll>
+    <LttlPollLines>Anketa - řádky</LttlPollLines>
+    <LtxtValPollNam>Zadejte název ankety</LtxtValPollNam>
+    <LtxtValPollTtl>Vložte titulek ankety</LtxtValPollTtl>
+    <LtxtValPollDat>Zadejte datum spuštění ankety</LtxtValPollDat>
+    <LtxtConfDelLine>Jste si jistý/á, že chcete tuto řádku vymazat?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtTitle>Tytuł</DtxtTitle>
+    <DtxtDateOfPub>Publikacja</DtxtDateOfPub>
+    <DtxtColor>Kolor</DtxtColor>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <LttlAddPoll>Dodaj ankietę </LttlAddPoll>
+    <LttlEditPoll>Edytuj ankietę</LttlEditPoll>
+    <LttlPollLines>Ankiety - wiersze</LttlPollLines>
+    <LtxtValPollNam>Proszę wprowadź nazwę ankiety</LtxtValPollNam>
+    <LtxtValPollTtl>Proszę wprowadź tytuł ankiety</LtxtValPollTtl>
+    <LtxtValPollDat>Proszę wprowadź datę ankiety</LtxtValPollDat>
+    <LtxtConfDelLine>Czy jesteś pewien, że chcesz usunąć ten wiersz?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtTitle>Nadpis</DtxtTitle>
+    <DtxtDateOfPub>Publikácia</DtxtDateOfPub>
+    <DtxtColor>Farba</DtxtColor>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <LttlAddPoll>Pridať anketu</LttlAddPoll>
+    <LttlEditPoll>Editovať anketu</LttlEditPoll>
+    <LttlPollLines>Anketa - Riadky</LttlPollLines>
+    <LtxtValPollNam>Prosím zadajte názov ankety</LtxtValPollNam>
+    <LtxtValPollTtl>Prosím zadajte nadpis ankety</LtxtValPollTtl>
+    <LtxtValPollDat>Prosím zadajte dátum ankety</LtxtValPollDat>
+    <LtxtConfDelLine>Ste si istí, že chcete zmazať tento riadok?</LtxtConfDelLine>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtTitle>DtxtTitle</DtxtTitle>
+    <DtxtDateOfPub>DtxtDateOfPub</DtxtDateOfPub>
+    <DtxtColor>DtxtColor</DtxtColor>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <LttlAddPoll>LttlAddPoll</LttlAddPoll>
+    <LttlEditPoll>LttlEditPoll</LttlEditPoll>
+    <LttlPollLines>LttlPollLines</LttlPollLines>
+    <LtxtValPollNam>LtxtValPollNam</LtxtValPollNam>
+    <LtxtValPollTtl>LtxtValPollTtl</LtxtValPollTtl>
+    <LtxtValPollDat>LtxtValPollDat</LtxtValPollDat>
+    <LtxtConfDelLine>LtxtConfDelLine</LtxtConfDelLine>
+  </language>
+</languages>

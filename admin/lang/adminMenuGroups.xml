@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtField>Field</DtxtField>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtDefault2>Default</DtxtDefault2>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtUp>Up</DtxtUp>
+    <DtxtDown>Down</DtxtDown>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtUDT>User Defined Table</DtxtUDT>
+    <LttlSearchTree>Search Tree</LttlSearchTree>
+    <LttlSearchTreeDesc>Here Search Trees that appear in the Client session may be created and customized.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Are you sure you want to remove the search tree "{0}"?</LtxtConfRemTree>
+    <LtxtValGrpNam>You must enter the name of the search tree</LtxtValGrpNam>
+    <LtxtValActiveDefTree>You cannot define a search tree as default if it not active.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>You must select a default search tree.</LtxtValDefSearchTree>
+    <LtxtTable>Table</LtxtTable>
+    <LtxtID>ID Column</LtxtID>
+    <LtxtNameID>Name Column</LtxtNameID>
+    <LtxtConfRemLine>Are you sure you want to remove the line "{0}"?</LtxtConfRemLine>
+    <LtxtAddLine>The search tree must be added in order to add lines.</LtxtAddLine>
+    <LtxtSupplier>Supplier</LtxtSupplier>
+    <LtxtFilter>Catalog Filter&lt;br&gt;Query</LtxtFilter>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtValCatFltQryVal>You must verify the catalog filter query</LtxtValCatFltQryVal>
+    <LtxtDescTable>Description Table</LtxtDescTable>
+    <LtxtValDescID>You must select code column</LtxtValDescID>
+    <LtxtValDescName>You must select name column</LtxtValDescName>
+    <LtxtDescID>Description &lt;br&gt;ID Column</LtxtDescID>
+    <LtxtDescName>Description &lt;br&gt;Name Column</LtxtDescName>
+    <LtxtProp>Properties</LtxtProp>
+    <LtxtValQryGroups>You must select at least one property</LtxtValQryGroups>
+    <LtxtValDescTable>You must select description table</LtxtValDescTable>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtField>Campo</DtxtField>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLine>Línea</DtxtLine>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtDefault2>Predeterminado</DtxtDefault2>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtUp>Arriba</DtxtUp>
+    <DtxtDown>Abajo</DtxtDown>
+    <DtxtPosition2>Posición</DtxtPosition2>
+    <DtxtUDT>Tabla de Usuario</DtxtUDT>
+    <LttlSearchTree>Árbol de Búsqueda</LttlSearchTree>
+    <LttlSearchTreeDesc>En esta sección podrá administrar las diferentes arboles de búsqueda que aparecerán en la sección del cliente.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>¿Está seguro que desea eliminar el árbol de búsqueda "{0}"?</LtxtConfRemTree>
+    <LtxtValGrpNam>Debe introducir el nombre del grupo del árbol de búsqueda</LtxtValGrpNam>
+    <LtxtValActiveDefTree>No puede definir un árbol de búsqueda predeterminado que no esté activo.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Debe definir un árbol de búsqueda predeterminado.</LtxtValDefSearchTree>
+    <LtxtTable>Tabla</LtxtTable>
+    <LtxtID>Columna de&lt;br&gt;Identificación</LtxtID>
+    <LtxtNameID>Columna de&lt;br&gt;Descripción</LtxtNameID>
+    <LtxtConfRemLine>¿Está seguro que desea eliminar la línea "{0}"?</LtxtConfRemLine>
+    <LtxtAddLine>El árbol de búsqueda debe de agregarse para poder agregar líneas.</LtxtAddLine>
+    <LtxtSupplier>Proveedor</LtxtSupplier>
+    <LtxtFilter>Filtro de Catalogo&lt;br&gt;Consulta</LtxtFilter>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LtxtCCode>Código de Cliente (Cliente activo solamente)</LtxtCCode>
+    <LtxtValCatFltQryVal>Debe verificar la consulta de filtro de catálogo</LtxtValCatFltQryVal>
+    <LtxtDescTable>Tabla de Descripción</LtxtDescTable>
+    <LtxtValDescID>Debe seleccionar columna de código</LtxtValDescID>
+    <LtxtValDescName>Debe seleccionar columna de nombre</LtxtValDescName>
+    <LtxtDescID>Columna de Identificación &lt;br&gt;de Descripcón</LtxtDescID>
+    <LtxtDescName>Columna de Nombre &lt;br&gt;de Descripcón</LtxtDescName>
+    <LtxtProp>Propiedades</LtxtProp>
+    <LtxtValQryGroups>Debe seleccionar al menos una propiedad</LtxtValQryGroups>
+    <LtxtValDescTable>Debe seleccionar tabla de descripción</LtxtValDescTable>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtField>שדה</DtxtField>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtLine>שורה</DtxtLine>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtDefault2>ברירת מחדל</DtxtDefault2>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtUp>למטה</DtxtUp>
+    <DtxtDown>למטה</DtxtDown>
+    <DtxtPosition2>מיקום</DtxtPosition2>
+    <DtxtUDT>טבלאות משתמש</DtxtUDT>
+    <LttlSearchTree>עץ חיפוש</LttlSearchTree>
+    <LttlSearchTreeDesc>בחלק זה תוכל לערוך סוגי עצי חיפוש שונים שיופיעו בממשק הלקוחות.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>האם למחוק עץ חיפוש {0}?</LtxtConfRemTree>
+    <LtxtValGrpNam>יש לתת שם לעץ החיפוש</LtxtValGrpNam>
+    <LtxtValActiveDefTree>לא ניתן להגדיר עץ חיפוש "לא פעיל" כברירת מחדל</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>יש לבחור עץ חיפוש כברירת מחדל</LtxtValDefSearchTree>
+    <LtxtTable>טבלה</LtxtTable>
+    <LtxtID>טור (קוד יחודי)</LtxtID>
+    <LtxtNameID>שם הטור</LtxtNameID>
+    <LtxtConfRemLine>האם למחוק שורה {0}?</LtxtConfRemLine>
+    <LtxtAddLine>יש להוסיף את עץ החיפוש ע"מ להוסיף שורות</LtxtAddLine>
+    <LtxtSupplier>ספק</LtxtSupplier>
+    <LtxtFilter>בחלק זה תוכל ליישם פילטר ברירת מחדל לעץ החיפוש&lt;br&gt;שאילתא</LtxtFilter>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LtxtCCode>קוד לקוח (רק כאשר לקוח מחובר)</LtxtCCode>
+    <LtxtValCatFltQryVal>צריך לאשר את השאילתא למסנן קטלוג</LtxtValCatFltQryVal>
+    <LtxtDescTable>תיאור טבלה</LtxtDescTable>
+    <LtxtValDescID>יש לבחור טור לקוד</LtxtValDescID>
+    <LtxtValDescName>יש לבחור טור לשם</LtxtValDescName>
+    <LtxtDescID>תאור&lt;br&gt;קוד טור</LtxtDescID>
+    <LtxtDescName>תאור&lt;br&gt;שם טור</LtxtDescName>
+    <LtxtProp>מאפיינים</LtxtProp>
+    <LtxtValQryGroups>יש לבחור מאפיין אחד לפחות</LtxtValQryGroups>
+    <LtxtValDescTable>יש לבחור תאור לטבלה</LtxtValDescTable>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtField>Field</DtxtField>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtDefault2>Default</DtxtDefault2>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtUp>Up</DtxtUp>
+    <DtxtDown>Down</DtxtDown>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtUDT>User Defined Table</DtxtUDT>
+    <LttlSearchTree>Search Tree</LttlSearchTree>
+    <LttlSearchTreeDesc>Here Search Trees that appear in the Client session may be created and customized.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Are you sure you want to remove the search tree "{0}"?</LtxtConfRemTree>
+    <LtxtValGrpNam>You must enter the name of the search tree</LtxtValGrpNam>
+    <LtxtValActiveDefTree>You cannot define a search tree as default if it not active.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>You must select a default search tree.</LtxtValDefSearchTree>
+    <LtxtTable>Table</LtxtTable>
+    <LtxtID>ID Column</LtxtID>
+    <LtxtNameID>Name Column</LtxtNameID>
+    <LtxtConfRemLine>Are you sure you want to remove the line "{0}"?</LtxtConfRemLine>
+    <LtxtAddLine>The search tree must be added in order to add lines.</LtxtAddLine>
+    <LtxtSupplier>Supplier</LtxtSupplier>
+    <LtxtFilter>Catalog Filter&lt;br&gt;Query</LtxtFilter>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtCCode>Client Code (Active client only)</LtxtCCode>
+    <LtxtValCatFltQryVal>Deve verificar a consulta do filtro do catálogo</LtxtValCatFltQryVal>
+    <LtxtDescTable>Description Table</LtxtDescTable>
+    <LtxtValDescID>You must select code column</LtxtValDescID>
+    <LtxtValDescName>You must select name column</LtxtValDescName>
+    <LtxtDescID>Description &lt;br&gt;ID Column</LtxtDescID>
+    <LtxtDescName>Description &lt;br&gt;Name Column</LtxtDescName>
+    <LtxtProp>Properties</LtxtProp>
+    <LtxtValQryGroups>You must select at least one property</LtxtValQryGroups>
+    <LtxtValDescTable>You must select description table</LtxtValDescTable>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtField>Campo</DtxtField>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtLine>Linha</DtxtLine>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtDefault2>Predeterminado</DtxtDefault2>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtUp>Acima</DtxtUp>
+    <DtxtDown>Abaixo</DtxtDown>
+    <DtxtPosition2>Posição</DtxtPosition2>
+    <DtxtUDT>Tabela de Usuário</DtxtUDT>
+    <LttlSearchTree>Árvore de Pesquisa</LttlSearchTree>
+    <LttlSearchTreeDesc>Nesta seção, poderá administrar as diferentes árvores de busca que aparecem na seção de cliente.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Você tem certeza que deseja excluir a árvore de busca "{0}"?</LtxtConfRemTree>
+    <LtxtValGrpNam>Você deve inserir o nome do grupo na árvore de busca</LtxtValGrpNam>
+    <LtxtValActiveDefTree>Você não pode definir uma árvore de busca padrão que não está ativa.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Você deve definir uma árvore de busca predeterminada.</LtxtValDefSearchTree>
+    <LtxtTable>Tabela</LtxtTable>
+    <LtxtID>Identificação da Coluna</LtxtID>
+    <LtxtNameID>Nome da Coluna</LtxtNameID>
+    <LtxtConfRemLine>Você tem certeza que deseja excluir a linha "{0}"?</LtxtConfRemLine>
+    <LtxtAddLine>A árvore de busca deve ser selecionada ao acrescentar linhas.</LtxtAddLine>
+    <LtxtSupplier>Fornecedor</LtxtSupplier>
+    <LtxtFilter>Filtro de Catálago&lt;br&gt;Consulta</LtxtFilter>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LtxtCCode>Código de Cliente (Somente Cliente ativo )</LtxtCCode>
+    <LtxtValCatFltQryVal>Deve verificar a consulta do filtro do catálogo</LtxtValCatFltQryVal>
+    <LtxtDescTable>Tabela de Descrição</LtxtDescTable>
+    <LtxtValDescID>Você deve selecionar coluna de código</LtxtValDescID>
+    <LtxtValDescName>Você deve selecionar coluna de nome</LtxtValDescName>
+    <LtxtDescID>Coluna de Identificação</LtxtDescID>
+    <LtxtDescName>Descrição do Nome da Coluna</LtxtDescName>
+    <LtxtProp>Propriedades</LtxtProp>
+    <LtxtValQryGroups>Você deve selecionar pelo menos uma propriedade</LtxtValQryGroups>
+    <LtxtValDescTable>Você deve selecionar a tabela de descrição</LtxtValDescTable>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLine>Ligne</DtxtLine>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtDefault2>Prédéterminée (prérésolué)</DtxtDefault2>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtUp>&lt;--&gt;</DtxtUp>
+    <DtxtDown>&lt;--&gt;</DtxtDown>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtUDT>&lt;--&gt;</DtxtUDT>
+    <LttlSearchTree>&lt;--&gt;</LttlSearchTree>
+    <LttlSearchTreeDesc>&lt;--&gt;</LttlSearchTreeDesc>
+    <LtxtConfRemTree>&lt;--&gt;</LtxtConfRemTree>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtValActiveDefTree>&lt;--&gt;</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>&lt;--&gt;</LtxtValDefSearchTree>
+    <LtxtTable>&lt;--&gt;</LtxtTable>
+    <LtxtID>&lt;--&gt;</LtxtID>
+    <LtxtNameID>&lt;--&gt;</LtxtNameID>
+    <LtxtConfRemLine>&lt;--&gt;</LtxtConfRemLine>
+    <LtxtAddLine>&lt;--&gt;</LtxtAddLine>
+    <LtxtSupplier>&lt;--&gt;</LtxtSupplier>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtAvlVars>Variables disonibles</LtxtAvlVars>
+    <LtxtCCode>Code de Client (Client seulement actif)</LtxtCCode>
+    <LtxtValCatFltQryVal>Devez vous vérifier la consultation du filtre du catalogue</LtxtValCatFltQryVal>
+    <LtxtDescTable>&lt;--&gt;</LtxtDescTable>
+    <LtxtValDescID>&lt;--&gt;</LtxtValDescID>
+    <LtxtValDescName>&lt;--&gt;</LtxtValDescName>
+    <LtxtDescID>&lt;--&gt;</LtxtDescID>
+    <LtxtDescName>&lt;--&gt;</LtxtDescName>
+    <LtxtProp>&lt;--&gt;</LtxtProp>
+    <LtxtValQryGroups>&lt;--&gt;</LtxtValQryGroups>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtField>Feld</DtxtField>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtLine>Zeile</DtxtLine>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtDefault2>Standardeinstellung</DtxtDefault2>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtUp>Nach Oben</DtxtUp>
+    <DtxtDown>Nach Unten</DtxtDown>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtUDT>Benutzerdefinierte Tabelle</DtxtUDT>
+    <LttlSearchTree>&lt;--&gt;</LttlSearchTree>
+    <LttlSearchTreeDesc>&lt;--&gt;</LttlSearchTreeDesc>
+    <LtxtConfRemTree>&lt;--&gt;</LtxtConfRemTree>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtValActiveDefTree>&lt;--&gt;</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>&lt;--&gt;</LtxtValDefSearchTree>
+    <LtxtTable>&lt;--&gt;</LtxtTable>
+    <LtxtID>&lt;--&gt;</LtxtID>
+    <LtxtNameID>&lt;--&gt;</LtxtNameID>
+    <LtxtConfRemLine>&lt;--&gt;</LtxtConfRemLine>
+    <LtxtAddLine>&lt;--&gt;</LtxtAddLine>
+    <LtxtSupplier>&lt;--&gt;</LtxtSupplier>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtAvlVars>Verfügbare Variablen</LtxtAvlVars>
+    <LtxtCCode>Kundenkennzeichen (nur aktive Kunden)</LtxtCCode>
+    <LtxtValCatFltQryVal>Sie müssen die Katalogfilter-Anfrage bestätigen</LtxtValCatFltQryVal>
+    <LtxtDescTable>&lt;--&gt;</LtxtDescTable>
+    <LtxtValDescID>&lt;--&gt;</LtxtValDescID>
+    <LtxtValDescName>&lt;--&gt;</LtxtValDescName>
+    <LtxtDescID>&lt;--&gt;</LtxtDescID>
+    <LtxtDescName>&lt;--&gt;</LtxtDescName>
+    <LtxtProp>&lt;--&gt;</LtxtProp>
+    <LtxtValQryGroups>&lt;--&gt;</LtxtValQryGroups>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtField>Поле</DtxtField>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtLine>Линия</DtxtLine>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtDefault2>По умолчанию</DtxtDefault2>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtUp>Вверх</DtxtUp>
+    <DtxtDown>Вниз</DtxtDown>
+    <DtxtPosition2>Положение</DtxtPosition2>
+    <DtxtUDT>Используемые таблицы</DtxtUDT>
+    <LttlSearchTree>Древо поиска</LttlSearchTree>
+    <LttlSearchTreeDesc>В этом разделе можно настроить различные древа поиска, которые появляются в клиентском разделе.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Вы уверены, что хотите удалить древа поиска"{0}?</LtxtConfRemTree>
+    <LtxtValGrpNam>Вы должны ввести имя древа поиска</LtxtValGrpNam>
+    <LtxtValActiveDefTree>Вы не можете определить древо поиска по умолчанию, если оно не активно.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Вы должны выбрать древо поиска по умолчанию.</LtxtValDefSearchTree>
+    <LtxtTable>Таблица</LtxtTable>
+    <LtxtID>Идентификационный номер колонки</LtxtID>
+    <LtxtNameID>Название колонки</LtxtNameID>
+    <LtxtConfRemLine>Вы уверены, что хотите удалить строку "{0}?</LtxtConfRemLine>
+    <LtxtAddLine>Поиск древа нужно добавить для того, чтобы добавить строки.</LtxtAddLine>
+    <LtxtSupplier>Поставщик</LtxtSupplier>
+    <LtxtFilter>Каталог фильтров&lt;br&gt;Запросов</LtxtFilter>
+    <LtxtAvlVars>Перемены во времени</LtxtAvlVars>
+    <LtxtCCode>Код клиента (активного клиента)</LtxtCCode>
+    <LtxtValCatFltQryVal>Вам необходимо проверить запрос каталога фильтров</LtxtValCatFltQryVal>
+    <LtxtDescTable>Описание таблицы</LtxtDescTable>
+    <LtxtValDescID>Вы должны выбрать колонку кода</LtxtValDescID>
+    <LtxtValDescName>Вы должны выбрать имя колонки</LtxtValDescName>
+    <LtxtDescID>Описание&lt;br&gt;Идентификационный номер колонки</LtxtDescID>
+    <LtxtDescName>Описание&lt;br&gt;Название колонки</LtxtDescName>
+    <LtxtProp>Свойства</LtxtProp>
+    <LtxtValQryGroups>Вы должны  выбрать,как минимум, одно свойство</LtxtValQryGroups>
+    <LtxtValDescTable>Вы должны выбрать описание таблицы</LtxtValDescTable>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtField>Pole</DtxtField>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtLine>Řádka</DtxtLine>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtDefault2>Výchozí</DtxtDefault2>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtUp>Nahoru</DtxtUp>
+    <DtxtDown>Dolů</DtxtDown>
+    <DtxtPosition2>Pozice</DtxtPosition2>
+    <DtxtUDT>Tabulka definovaná uživatelem</DtxtUDT>
+    <LttlSearchTree>Vyhledávací strom</LttlSearchTree>
+    <LttlSearchTreeDesc>V této sekci je možné přizpůsobit vyhledávací stromy, které se zobrazují v sekci klienta.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Jste si jistý/á, že chcete odebrat vyhledávací strom "{0}?</LtxtConfRemTree>
+    <LtxtValGrpNam>Musíte zadat název vyhledávacího stromu</LtxtValGrpNam>
+    <LtxtValActiveDefTree>Není možné definovat vyhledávací strom jako výchozí, pokud není aktivní.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Musíte vybrat výchozí vyhledávací strom.</LtxtValDefSearchTree>
+    <LtxtTable>Tabulka</LtxtTable>
+    <LtxtID>Sloupec ID</LtxtID>
+    <LtxtNameID>Sloupec Název</LtxtNameID>
+    <LtxtConfRemLine>Jste si jistý/á, že chcete odebrat řádku "{0}?</LtxtConfRemLine>
+    <LtxtAddLine>Abyste mohl/a přidávat řádky, musíte přidat vyhledávací strom.</LtxtAddLine>
+    <LtxtSupplier>Dodavatel</LtxtSupplier>
+    <LtxtFilter>Filtr katalogu&lt;br&gt;Dotaz</LtxtFilter>
+    <LtxtAvlVars>Možné proměnné</LtxtAvlVars>
+    <LtxtCCode>Kód klienta (pouze aktivní klient)</LtxtCCode>
+    <LtxtValCatFltQryVal>Musíte ověřit dotaz filtru katalogu</LtxtValCatFltQryVal>
+    <LtxtDescTable>Popisná tabulka</LtxtDescTable>
+    <LtxtValDescID>Zvolte sloupec kódů</LtxtValDescID>
+    <LtxtValDescName>Musíte vybrat sloupec s názvy</LtxtValDescName>
+    <LtxtDescID>Popis&lt;br&gt;Sloupec ID</LtxtDescID>
+    <LtxtDescName>Popis&lt;br&gt;Sloupec Název</LtxtDescName>
+    <LtxtProp>Vlastnosti</LtxtProp>
+    <LtxtValQryGroups>Vyberte alespoň jednu vlastnost</LtxtValQryGroups>
+    <LtxtValDescTable>Vyberte popisnou tabulku</LtxtValDescTable>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtField>Pole</DtxtField>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtLine>Wiersz</DtxtLine>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtDefault2>Domyślny</DtxtDefault2>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtUp>Do góry</DtxtUp>
+    <DtxtDown>Do dołu</DtxtDown>
+    <DtxtPosition2>Położenie</DtxtPosition2>
+    <DtxtUDT>Zdefiniowane tabele użytkownika</DtxtUDT>
+    <LttlSearchTree>Drzewo poszukiwań </LttlSearchTree>
+    <LttlSearchTreeDesc>Tutaj można stworzyć i zindywidualizować drzewo poszukiwań, które pojawia się w sesji klienta</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Czy jesteś pewien, że chcesz usunąć drzewo poszukiwań {0}?</LtxtConfRemTree>
+    <LtxtValGrpNam>Musisz wprowadzić nazwę drzewa poszukiwań</LtxtValGrpNam>
+    <LtxtValActiveDefTree>Nie możesz ustawić drzewa poszukiwań jako domyślnego jeśli nie jest aktywne</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Musisz wybrać domyślne drzewo poszukiwań</LtxtValDefSearchTree>
+    <LtxtTable>Tabela</LtxtTable>
+    <LtxtID>Kod kolumny</LtxtID>
+    <LtxtNameID>Nazwa kolumny</LtxtNameID>
+    <LtxtConfRemLine>Czy jesteś pewien, że chcesz usunąć wiersz {0}?</LtxtConfRemLine>
+    <LtxtAddLine>Aby dodać wiersze trzeba dodać drzewo poszukiwań </LtxtAddLine>
+    <LtxtSupplier>Dostawca</LtxtSupplier>
+    <LtxtFilter>Zapytanie dotyczące filtru katalogu</LtxtFilter>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LtxtCCode>Kod klienta (tylko aktywni klienci)</LtxtCCode>
+    <LtxtValCatFltQryVal>Musisz zweryfikować zapytanie dotyczące filtru katalogu</LtxtValCatFltQryVal>
+    <LtxtDescTable>Tabela opisu</LtxtDescTable>
+    <LtxtValDescID>Musisz wybrać kod kolumny</LtxtValDescID>
+    <LtxtValDescName>Musisz wybrać nazwę kolumny</LtxtValDescName>
+    <LtxtDescID>Opis kod kolumny</LtxtDescID>
+    <LtxtDescName>Opis nazwa kolumny</LtxtDescName>
+    <LtxtProp>Właściwości</LtxtProp>
+    <LtxtValQryGroups>Musisz wybrać przy najmniej jedną właściwość</LtxtValQryGroups>
+    <LtxtValDescTable>Musisz wybrać opis tabeli</LtxtValDescTable>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtLine>Riadok</DtxtLine>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtDefault2>Predvolené</DtxtDefault2>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtUp>Nahor</DtxtUp>
+    <DtxtDown>Nadol</DtxtDown>
+    <DtxtPosition2>Pozícia</DtxtPosition2>
+    <DtxtUDT>Tabuľka definovaná užívateľom</DtxtUDT>
+    <LttlSearchTree>Strom vyhľadávania</LttlSearchTree>
+    <LttlSearchTreeDesc>Tu sa dajú vytvoriť a na mieru prispôsobiť stromy vyhľadávania, ktoré sa zobrazujú v session klienta.</LttlSearchTreeDesc>
+    <LtxtConfRemTree>Ste si istí, že chcete odstrániť strom vyhľadávania "{0}"?</LtxtConfRemTree>
+    <LtxtValGrpNam>Musíte zadať názov stromu vyhľadávania</LtxtValGrpNam>
+    <LtxtValActiveDefTree>Nemôžete definovať strom vyhľadávania ako východiskový, ak tento nie je aktívny.</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>Musíte zvoliť východiskový strom vyhľadávania.</LtxtValDefSearchTree>
+    <LtxtTable>Tabuľka</LtxtTable>
+    <LtxtID>ID Stĺpca</LtxtID>
+    <LtxtNameID>Názov stĺpca</LtxtNameID>
+    <LtxtConfRemLine>Ste si istí, že chcete odstrániť riadok "{0}"?</LtxtConfRemLine>
+    <LtxtAddLine>Na pridanie riadkov musí byť pridaný strom vyhľadávania.</LtxtAddLine>
+    <LtxtSupplier>Dodávateľ</LtxtSupplier>
+    <LtxtFilter>Dotaz na filter katalógu</LtxtFilter>
+    <LtxtAvlVars>Dostupné premenné</LtxtAvlVars>
+    <LtxtCCode>Kód klienta (Len aktívny klient)</LtxtCCode>
+    <LtxtValCatFltQryVal>Musíte overiť dotaz filtra katalógu</LtxtValCatFltQryVal>
+    <LtxtDescTable>Tabuľka s popisom</LtxtDescTable>
+    <LtxtValDescID>Musíte vybrať stĺpec kódu</LtxtValDescID>
+    <LtxtValDescName>Musíte zvoliť názov stĺpca</LtxtValDescName>
+    <LtxtDescID>Popis&lt;br&gt;ID Stĺpca</LtxtDescID>
+    <LtxtDescName>Popis&lt;br&gt;Názov stĺpca</LtxtDescName>
+    <LtxtProp>Vlastnosti</LtxtProp>
+    <LtxtValQryGroups>Musíte vybrať aspoň jednu vlastnosť</LtxtValQryGroups>
+    <LtxtValDescTable>Musíte zvoliť tabuľku popisu</LtxtValDescTable>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtLine>&lt;--&gt;</DtxtLine>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtFirm>&lt;--&gt;</DtxtFirm>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtDefault2>&lt;--&gt;</DtxtDefault2>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtUp>&lt;--&gt;</DtxtUp>
+    <DtxtDown>&lt;--&gt;</DtxtDown>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtUDT>&lt;--&gt;</DtxtUDT>
+    <LttlSearchTree>&lt;--&gt;</LttlSearchTree>
+    <LttlSearchTreeDesc>&lt;--&gt;</LttlSearchTreeDesc>
+    <LtxtConfRemTree>&lt;--&gt;</LtxtConfRemTree>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtValActiveDefTree>&lt;--&gt;</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>&lt;--&gt;</LtxtValDefSearchTree>
+    <LtxtTable>&lt;--&gt;</LtxtTable>
+    <LtxtID>&lt;--&gt;</LtxtID>
+    <LtxtNameID>&lt;--&gt;</LtxtNameID>
+    <LtxtConfRemLine>&lt;--&gt;</LtxtConfRemLine>
+    <LtxtAddLine>&lt;--&gt;</LtxtAddLine>
+    <LtxtSupplier>&lt;--&gt;</LtxtSupplier>
+    <LtxtFilter>&lt;--&gt;</LtxtFilter>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LtxtCCode>&lt;--&gt;</LtxtCCode>
+    <LtxtValCatFltQryVal>&lt;--&gt;</LtxtValCatFltQryVal>
+    <LtxtDescTable>&lt;--&gt;</LtxtDescTable>
+    <LtxtValDescID>&lt;--&gt;</LtxtValDescID>
+    <LtxtValDescName>&lt;--&gt;</LtxtValDescName>
+    <LtxtDescID>&lt;--&gt;</LtxtDescID>
+    <LtxtDescName>&lt;--&gt;</LtxtDescName>
+    <LtxtProp>&lt;--&gt;</LtxtProp>
+    <LtxtValQryGroups>&lt;--&gt;</LtxtValQryGroups>
+    <LtxtValDescTable>&lt;--&gt;</LtxtValDescTable>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtLine>DtxtLine</DtxtLine>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtDefault2>DtxtDefault2</DtxtDefault2>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtUp>DtxtUp</DtxtUp>
+    <DtxtDown>DtxtDown</DtxtDown>
+    <DtxtPosition2>DtxtPosition2</DtxtPosition2>
+    <DtxtUDT>DtxtUDT</DtxtUDT>
+    <LttlSearchTree>LttlSearchTree</LttlSearchTree>
+    <LttlSearchTreeDesc>LttlSearchTreeDesc</LttlSearchTreeDesc>
+    <LtxtConfRemTree>LtxtConfRemTree</LtxtConfRemTree>
+    <LtxtValGrpNam>LtxtValGrpNam</LtxtValGrpNam>
+    <LtxtValActiveDefTree>LtxtValActiveDefTree</LtxtValActiveDefTree>
+    <LtxtValDefSearchTree>LtxtValDefSearchTree</LtxtValDefSearchTree>
+    <LtxtTable>LtxtTable</LtxtTable>
+    <LtxtID>LtxtID</LtxtID>
+    <LtxtNameID>LtxtNameID</LtxtNameID>
+    <LtxtConfRemLine>LtxtConfRemLine</LtxtConfRemLine>
+    <LtxtAddLine>LtxtAddLine</LtxtAddLine>
+    <LtxtSupplier>LtxtSupplier</LtxtSupplier>
+    <LtxtFilter>LtxtFilter</LtxtFilter>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LtxtCCode>LtxtCCode</LtxtCCode>
+    <LtxtValCatFltQryVal>LtxtValCatFltQryVal</LtxtValCatFltQryVal>
+    <LtxtDescTable>LtxtDescTable</LtxtDescTable>
+    <LtxtValDescID>LtxtValDescID</LtxtValDescID>
+    <LtxtValDescName>LtxtValDescName</LtxtValDescName>
+    <LtxtDescID>LtxtDescID</LtxtDescID>
+    <LtxtDescName>LtxtDescName</LtxtDescName>
+    <LtxtProp>LtxtProp</LtxtProp>
+    <LtxtValQryGroups>LtxtValQryGroups</LtxtValQryGroups>
+    <LtxtValDescTable>LtxtValDescTable</LtxtValDescTable>
+  </language>
+</languages>

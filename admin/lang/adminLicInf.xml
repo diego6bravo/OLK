@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtState>State</DtxtState>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtNotActive>Not Active</DtxtNotActive>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>State</DtxtState2>
+    <LttlLicInf>License Information</LttlLicInf>
+    <LttlLicInfNote>In this section it is possible to see all available information on the state of your license.</LttlLicInfNote>
+    <LtxtTotalTrans>Total Transactions</LtxtTotalTrans>
+    <LtxtUsedTrans>Used Transactions</LtxtUsedTrans>
+    <LtxtRemTrans>Remaining Transactions</LtxtRemTrans>
+    <LtxtExpired>Expired</LtxtExpired>
+    <LtxtUsed>Used</LtxtUsed>
+    <LtxtLicense>License</LtxtLicense>
+    <LtxtUserLicAsign>User license assignment</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>In this section it is possible to assign a license to agent users.</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>No more license are available to this user type</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtState>Estado</DtxtState>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtRefresh>Refrescar</DtxtRefresh>
+    <DtxtNotActive>No Activo</DtxtNotActive>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlLicInf>Información de Licencia</LttlLicInf>
+    <LttlLicInfNote>En esta sección podrá ver toda la información disponible sobre el estado de su licencia.</LttlLicInfNote>
+    <LtxtTotalTrans>Total de Transacciones</LtxtTotalTrans>
+    <LtxtUsedTrans>Transacciones Usadas</LtxtUsedTrans>
+    <LtxtRemTrans>Transacciones Restantes</LtxtRemTrans>
+    <LtxtExpired>Expirado</LtxtExpired>
+    <LtxtUsed>Utilizadas</LtxtUsed>
+    <LtxtLicense>Licencia</LtxtLicense>
+    <LtxtUserLicAsign>Asignacion de licencia de usuario</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>En esta seccion podra asignar la licencia a los usuarios agentes.</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>No hay mas licencias disponibles para este tipo de usuario</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtRefresh>רענן</DtxtRefresh>
+    <DtxtNotActive>לא פעיל</DtxtNotActive>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtAvl>זמין</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>סטטוס</DtxtState2>
+    <LttlLicInf>נתוני רשיון</LttlLicInf>
+    <LttlLicInfNote>בחלק זה תוכל לראות נתונים על מצב הרשיון</LttlLicInfNote>
+    <LtxtTotalTrans>סה"כ תנועות ברשיון</LtxtTotalTrans>
+    <LtxtUsedTrans>תנועות רשומות</LtxtUsedTrans>
+    <LtxtRemTrans>תנועות פנויות</LtxtRemTrans>
+    <LtxtExpired>פג תוקף </LtxtExpired>
+    <LtxtUsed>בשימוש</LtxtUsed>
+    <LtxtLicense>רשיון</LtxtLicense>
+    <LtxtUserLicAsign>הקצאת רשיון משתמש</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>בחלק זה תוכל להקצות רשיון לכל משתמש שהוא סוכן</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>לא קיימים רשיונות פנוים לסוג זה של משתמש</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtState>County</DtxtState>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtRefresh>Refresh</DtxtRefresh>
+    <DtxtNotActive>Not Active</DtxtNotActive>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtAvl>Available</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>County</DtxtState2>
+    <LttlLicInf>License Information</LttlLicInf>
+    <LttlLicInfNote>In this section it is possible to see all available information on the state of your license.</LttlLicInfNote>
+    <LtxtTotalTrans>Total Transactions</LtxtTotalTrans>
+    <LtxtUsedTrans>Used Transactions</LtxtUsedTrans>
+    <LtxtRemTrans>Remaining Transactions</LtxtRemTrans>
+    <LtxtExpired>Expired</LtxtExpired>
+    <LtxtUsed>Used</LtxtUsed>
+    <LtxtLicense>License</LtxtLicense>
+    <LtxtUserLicAsign>User license assignment</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>In this section it is possible to assign a license to agent users.</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>No more license are available to this user type</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtState>Estado</DtxtState>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtRefresh>Atualizar</DtxtRefresh>
+    <DtxtNotActive>Não Ativo</DtxtNotActive>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtAvl>Disponível</DtxtAvl>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtState2>Estado</DtxtState2>
+    <LttlLicInf>Informação da Licença</LttlLicInf>
+    <LttlLicInfNote>Nesta seção, poderá ver toda a informação disponível sobre o estado da sua licença.</LttlLicInfNote>
+    <LtxtTotalTrans>Total de Transações</LtxtTotalTrans>
+    <LtxtUsedTrans>Transações Usadas</LtxtUsedTrans>
+    <LtxtRemTrans>Transações Restantes</LtxtRemTrans>
+    <LtxtExpired>Expirado</LtxtExpired>
+    <LtxtUsed>Utilizadas</LtxtUsed>
+    <LtxtLicense>Licença</LtxtLicense>
+    <LtxtUserLicAsign>Atribuição de licença de usuário</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>Nesta seção você poderá atribuir licenças aos usuários vendedores</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>Não possui mais licenças disponíveis para este tipo de usuário</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtState>État</DtxtState>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtRefresh>Rafraîchir</DtxtRefresh>
+    <DtxtNotActive>Pas active</DtxtNotActive>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtAvl>Disponible</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>État</DtxtState2>
+    <LttlLicInf>Information de licence.</LttlLicInf>
+    <LttlLicInfNote>Dans cette section vous pourrez voir toute l'information disponible sur l'état de votre licence.</LttlLicInfNote>
+    <LtxtTotalTrans>Totaux des transactions</LtxtTotalTrans>
+    <LtxtUsedTrans>Transactions utilisées</LtxtUsedTrans>
+    <LtxtRemTrans>Transactions  restantes</LtxtRemTrans>
+    <LtxtExpired>&lt;--&gt;</LtxtExpired>
+    <LtxtUsed>&lt;--&gt;</LtxtUsed>
+    <LtxtLicense>&lt;--&gt;</LtxtLicense>
+    <LtxtUserLicAsign>&lt;--&gt;</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>&lt;--&gt;</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>&lt;--&gt;</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtRefresh>Aktualisieren</DtxtRefresh>
+    <DtxtNotActive>Nicht Aktiv</DtxtNotActive>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtAvl>Vorhanden</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>Bundesland</DtxtState2>
+    <LttlLicInf>Lizenz Info</LttlLicInf>
+    <LttlLicInfNote>In diesem Bereich können Sie alle Infos zum Status Ihrer Lizenz einsehen.</LttlLicInfNote>
+    <LtxtTotalTrans>Gesamt-Transaktionen</LtxtTotalTrans>
+    <LtxtUsedTrans>Benutzte Transaktionen</LtxtUsedTrans>
+    <LtxtRemTrans>Rest-Transaktionen</LtxtRemTrans>
+    <LtxtExpired>&lt;--&gt;</LtxtExpired>
+    <LtxtUsed>&lt;--&gt;</LtxtUsed>
+    <LtxtLicense>&lt;--&gt;</LtxtLicense>
+    <LtxtUserLicAsign>&lt;--&gt;</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>&lt;--&gt;</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>&lt;--&gt;</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtState>Государство</DtxtState>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtRefresh>Освежать</DtxtRefresh>
+    <DtxtNotActive>Не активный</DtxtNotActive>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtAvl>Доступный</DtxtAvl>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtState2>Статус</DtxtState2>
+    <LttlLicInf>Информация о лицензии</LttlLicInf>
+    <LttlLicInfNote>В этом разделе можно увидеть всю имеющуюся информацию о состоянии вашей лицензии.</LttlLicInfNote>
+    <LtxtTotalTrans>Все сделки</LtxtTotalTrans>
+    <LtxtUsedTrans>Используется сделок</LtxtUsedTrans>
+    <LtxtRemTrans>Остальные операции</LtxtRemTrans>
+    <LtxtExpired>&lt;--&gt;</LtxtExpired>
+    <LtxtUsed>&lt;--&gt;</LtxtUsed>
+    <LtxtLicense>&lt;--&gt;</LtxtLicense>
+    <LtxtUserLicAsign>&lt;--&gt;</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>&lt;--&gt;</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>&lt;--&gt;</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtState>Stát</DtxtState>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtRefresh>Obnovit</DtxtRefresh>
+    <DtxtNotActive>Neaktivní</DtxtNotActive>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtState2>Stát</DtxtState2>
+    <LttlLicInf>Informace o licenci</LttlLicInf>
+    <LttlLicInfNote>V této sekci je možné zobrazit všechny dostupné informace o stavu vaší licence.</LttlLicInfNote>
+    <LtxtTotalTrans>Celkem transakcí</LtxtTotalTrans>
+    <LtxtUsedTrans>Použité transakce</LtxtUsedTrans>
+    <LtxtRemTrans>Zbyvající transakce</LtxtRemTrans>
+    <LtxtExpired>&lt;--&gt;</LtxtExpired>
+    <LtxtUsed>&lt;--&gt;</LtxtUsed>
+    <LtxtLicense>&lt;--&gt;</LtxtLicense>
+    <LtxtUserLicAsign>&lt;--&gt;</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>&lt;--&gt;</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>&lt;--&gt;</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtRefresh>Odśwież</DtxtRefresh>
+    <DtxtNotActive>Nie aktywny</DtxtNotActive>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtAvl>Dostępny</DtxtAvl>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtState2>Stan</DtxtState2>
+    <LttlLicInf>Dane licencji</LttlLicInf>
+    <LttlLicInfNote>W tym dziale można zobaczyć wszystkie dostępne informacje na temat stanu twojej licencji</LttlLicInfNote>
+    <LtxtTotalTrans>Razem transakcje</LtxtTotalTrans>
+    <LtxtUsedTrans>Wykonane transakcje</LtxtUsedTrans>
+    <LtxtRemTrans>Pozostałe transakcje</LtxtRemTrans>
+    <LtxtExpired>Wygasł/a</LtxtExpired>
+    <LtxtUsed>W użyciu</LtxtUsed>
+    <LtxtLicense>Licencja</LtxtLicense>
+    <LtxtUserLicAsign>Przydział licencji użytkownika</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>W tym dziale możliwy jest przydział licencji użytkownikom sprzedawcy</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>Dla tego typu użytkownika nie ma więcej dostępnych licencji </LtxtNoMoreLic>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtState>Štát</DtxtState>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtRefresh>Obnoviť</DtxtRefresh>
+    <DtxtNotActive>Neaktívny</DtxtNotActive>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtAvl>Dostupné</DtxtAvl>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtState2>Štát</DtxtState2>
+    <LttlLicInf>Údaje o licencii</LttlLicInf>
+    <LttlLicInfNote>V tejto sekcii je možné vidieť všetky dostupné informácie o stave Vašej licencie.</LttlLicInfNote>
+    <LtxtTotalTrans>Celkový počet transakcií</LtxtTotalTrans>
+    <LtxtUsedTrans>Použité transakcie</LtxtUsedTrans>
+    <LtxtRemTrans>Zostávajúce transakcie</LtxtRemTrans>
+    <LtxtExpired>Expirované</LtxtExpired>
+    <LtxtUsed>Použité</LtxtUsed>
+    <LtxtLicense>Licencia</LtxtLicense>
+    <LtxtUserLicAsign>Priradenie licencie užívateľa</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>V tejto sekcii je možné prideliť licenciu užívateľom agenta.</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>Žiadne ďalšie licencie nie sú dostupné pre tento typ užívateľa</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtState>&lt;--&gt;</DtxtState>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtRefresh>&lt;--&gt;</DtxtRefresh>
+    <DtxtNotActive>&lt;--&gt;</DtxtNotActive>
+    <DtxtTotal>&lt;--&gt;</DtxtTotal>
+    <DtxtAvl>&lt;--&gt;</DtxtAvl>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtState2>&lt;--&gt;</DtxtState2>
+    <LttlLicInf>&lt;--&gt;</LttlLicInf>
+    <LttlLicInfNote>&lt;--&gt;</LttlLicInfNote>
+    <LtxtTotalTrans>&lt;--&gt;</LtxtTotalTrans>
+    <LtxtUsedTrans>&lt;--&gt;</LtxtUsedTrans>
+    <LtxtRemTrans>&lt;--&gt;</LtxtRemTrans>
+    <LtxtExpired>&lt;--&gt;</LtxtExpired>
+    <LtxtUsed>&lt;--&gt;</LtxtUsed>
+    <LtxtLicense>&lt;--&gt;</LtxtLicense>
+    <LtxtUserLicAsign>&lt;--&gt;</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>&lt;--&gt;</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>&lt;--&gt;</LtxtNoMoreLic>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtRefresh>DtxtRefresh</DtxtRefresh>
+    <DtxtNotActive>DtxtNotActive</DtxtNotActive>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtAvl>DtxtAvl</DtxtAvl>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtState2>DtxtState2</DtxtState2>
+    <LttlLicInf>LttlLicInf</LttlLicInf>
+    <LttlLicInfNote>LttlLicInfNote</LttlLicInfNote>
+    <LtxtTotalTrans>LtxtTotalTrans</LtxtTotalTrans>
+    <LtxtUsedTrans>LtxtUsedTrans</LtxtUsedTrans>
+    <LtxtRemTrans>LtxtRemTrans</LtxtRemTrans>
+    <LtxtExpired>LtxtExpired</LtxtExpired>
+    <LtxtUsed>LtxtUsed</LtxtUsed>
+    <LtxtLicense>LtxtLicense</LtxtLicense>
+    <LtxtUserLicAsign>LtxtUserLicAsign</LtxtUserLicAsign>
+    <LtxtUserLicAsignDesc>LtxtUserLicAsignDesc</LtxtUserLicAsignDesc>
+    <LtxtNoMoreLic>LtxtNoMoreLic</LtxtNoMoreLic>
+  </language>
+</languages>

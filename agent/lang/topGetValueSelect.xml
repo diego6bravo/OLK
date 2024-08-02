@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtOwner>Owner</DtxtOwner>
+    <LttlSelX>Select {0}</LttlSelX>
+    <LtxtClientLead>Client/Lead</LtxtClientLead>
+    <LtxtPrj>Project</LtxtPrj>
+    <LtxtItmGrp>Item Group</LtxtItmGrp>
+    <LttlUser>User</LttlUser>
+    <LtxtLastName>Last Name</LtxtLastName>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtOwner>Titular</DtxtOwner>
+    <LttlSelX>Escoger {0}</LttlSelX>
+    <LtxtClientLead>Cliente/Prospecto</LtxtClientLead>
+    <LtxtPrj>Proyecto</LtxtPrj>
+    <LtxtItmGrp>Grupo de Artículos</LtxtItmGrp>
+    <LttlUser>Usuario</LttlUser>
+    <LtxtLastName>Apellido</LtxtLastName>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtFirm>יצרן</DtxtFirm>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtOwner>בעלים</DtxtOwner>
+    <LttlSelX>בחר {0}</LttlSelX>
+    <LtxtClientLead>לקוח \ ליד</LtxtClientLead>
+    <LtxtPrj>פרוייקט</LtxtPrj>
+    <LtxtItmGrp>קבוצת פריטים</LtxtItmGrp>
+    <LttlUser>משתמש</LttlUser>
+    <LtxtLastName>שם משפחה</LtxtLastName>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtFirm>Brand</DtxtFirm>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtOwner>Owner</DtxtOwner>
+    <LttlSelX>Select {0}</LttlSelX>
+    <LtxtClientLead>Client/Lead</LtxtClientLead>
+    <LtxtPrj>Project</LtxtPrj>
+    <LtxtItmGrp>Item Group</LtxtItmGrp>
+    <LttlUser>User</LttlUser>
+    <LtxtLastName>Last Name</LtxtLastName>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtFirm>Marca</DtxtFirm>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtOwner>Proprietário</DtxtOwner>
+    <LttlSelX>Escolher {0}</LttlSelX>
+    <LtxtClientLead>Cliente/Prospecto</LtxtClientLead>
+    <LtxtPrj>Projeto</LtxtPrj>
+    <LtxtItmGrp>Grupo de Itens</LtxtItmGrp>
+    <LttlUser>Usuário</LttlUser>
+    <LtxtLastName>Apelido</LtxtLastName>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtFirm>Marque</DtxtFirm>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtOwner>Propriétaires</DtxtOwner>
+    <LttlSelX>Choisir {0}</LttlSelX>
+    <LtxtClientLead>Client/Prospectus</LtxtClientLead>
+    <LtxtPrj>Project</LtxtPrj>
+    <LtxtItmGrp>Groupes des articles</LtxtItmGrp>
+    <LttlUser>&lt;--&gt;</LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtFirm>Marke</DtxtFirm>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtOwner>Eigentümer</DtxtOwner>
+    <LttlSelX>{0} Wählen</LttlSelX>
+    <LtxtClientLead>Kunde/Haupt</LtxtClientLead>
+    <LtxtPrj>Projekt</LtxtPrj>
+    <LtxtItmGrp>Artikel Gruppe</LtxtItmGrp>
+    <LttlUser>&lt;--&gt;</LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtFirm>Производитель</DtxtFirm>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtOwner>Ответственный</DtxtOwner>
+    <LttlSelX>Выбрать{0}</LttlSelX>
+    <LtxtClientLead>Клиент \</LtxtClientLead>
+    <LtxtPrj>Проект</LtxtPrj>
+    <LtxtItmGrp>Группы деталей</LtxtItmGrp>
+    <LttlUser>Пользователь</LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtOwner>Pracovník odbytu</DtxtOwner>
+    <LttlSelX>Vyberte {0}</LttlSelX>
+    <LtxtClientLead>Klient/Vedoucí</LtxtClientLead>
+    <LtxtPrj>Projekt</LtxtPrj>
+    <LtxtItmGrp>Položková skupina</LtxtItmGrp>
+    <LttlUser>Uživatel</LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtFirm>Producent</DtxtFirm>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtOwner>Właściciel</DtxtOwner>
+    <LttlSelX>Wybierz {0}</LttlSelX>
+    <LtxtClientLead>Klient</LtxtClientLead>
+    <LtxtPrj>Projekt</LtxtPrj>
+    <LtxtItmGrp>Grupa pozycji</LtxtItmGrp>
+    <LttlUser>Użytkownik </LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtFirm>Značka</DtxtFirm>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtOwner>Vlastník</DtxtOwner>
+    <LttlSelX>Vybrať {0}</LttlSelX>
+    <LtxtClientLead>Klient/Prospekt</LtxtClientLead>
+    <LtxtPrj>Projekt</LtxtPrj>
+    <LtxtItmGrp>Položková skupina</LtxtItmGrp>
+    <LttlUser>Užívateľ</LttlUser>
+    <LtxtLastName>&lt;--&gt;</LtxtLastName>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtFirm>DtxtFirm</DtxtFirm>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtOwner>DtxtOwner</DtxtOwner>
+    <LttlSelX>LttlSelX</LttlSelX>
+    <LtxtClientLead>LtxtClientLead</LtxtClientLead>
+    <LtxtPrj>LtxtPrj</LtxtPrj>
+    <LtxtItmGrp>LtxtItmGrp</LtxtItmGrp>
+    <LttlUser>LttlUser</LttlUser>
+    <LtxtLastName>LtxtLastName</LtxtLastName>
+  </language>
+</languages>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <LtxtExpExcell>Export to Excel</LtxtExpExcell>
+    <LtxtGoTop>Go to page top</LtxtGoTop>
+    <LtxtGoBottom>Go to page bottom</LtxtGoBottom>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <LtxtExpExcell>Exportar a Excel</LtxtExpExcell>
+    <LtxtGoTop>Ir al tope de página</LtxtGoTop>
+    <LtxtGoBottom>Ir a pie de página</LtxtGoBottom>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <LtxtExpExcell>יצוא לאקסל</LtxtExpExcell>
+    <LtxtGoTop>לך למעלה</LtxtGoTop>
+    <LtxtGoBottom>לך למטה</LtxtGoBottom>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <LtxtExpExcell>Export to Excel</LtxtExpExcell>
+    <LtxtGoTop>Go to page top</LtxtGoTop>
+    <LtxtGoBottom>Go to page bottom</LtxtGoBottom>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <LtxtExpExcell>Exportar para Excel</LtxtExpExcell>
+    <LtxtGoTop>Ir para o topo da página</LtxtGoTop>
+    <LtxtGoBottom>Ir para o rodapé da página</LtxtGoBottom>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <LtxtExpExcell>Exporter à Excel</LtxtExpExcell>
+    <LtxtGoTop>&lt;--&gt;</LtxtGoTop>
+    <LtxtGoBottom>&lt;--&gt;</LtxtGoBottom>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <LtxtExpExcell>In Excel exportieren</LtxtExpExcell>
+    <LtxtGoTop>&lt;--&gt;</LtxtGoTop>
+    <LtxtGoBottom>&lt;--&gt;</LtxtGoBottom>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <LtxtExpExcell>Экспорт в Excel</LtxtExpExcell>
+    <LtxtGoTop>Идите в верх</LtxtGoTop>
+    <LtxtGoBottom>Идите в низ</LtxtGoBottom>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <LtxtExpExcell>Export do Excelu</LtxtExpExcell>
+    <LtxtGoTop>Přejít do horní části obrazovky</LtxtGoTop>
+    <LtxtGoBottom>Přejít do spodní části obrazovky</LtxtGoBottom>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <LtxtExpExcell>Eksport do excella</LtxtExpExcell>
+    <LtxtGoTop>Idź do góry</LtxtGoTop>
+    <LtxtGoBottom>Idź na dół</LtxtGoBottom>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <LtxtExpExcell>Exportovať do Excelu</LtxtExpExcell>
+    <LtxtGoTop>Prejsť na vrchnú časť stránky</LtxtGoTop>
+    <LtxtGoBottom>Prejsť na spodnú časť stránky</LtxtGoBottom>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <LtxtExpExcell>LtxtExpExcell</LtxtExpExcell>
+    <LtxtGoTop>LtxtGoTop</LtxtGoTop>
+    <LtxtGoBottom>LtxtGoBottom</LtxtGoBottom>
+  </language>
+</languages>

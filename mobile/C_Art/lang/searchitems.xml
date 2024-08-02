@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtSearch>Search</DtxtSearch>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtItemsSearch>Items Search</LtxtItemsSearch>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtItemsSearch>Búsqueda de Artículos</LtxtItemsSearch>
+    <LtxtAdvanced>Avanzado</LtxtAdvanced>
+    <LtxtExact>Exacto</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DbtnSearch>חפש</DbtnSearch>
+    <LtxtItemsSearch>חיפוש פריטים</LtxtItemsSearch>
+    <LtxtAdvanced>מתקדם</LtxtAdvanced>
+    <LtxtExact>מדוייק</LtxtExact>
+    <LtxtLike>דומה</LtxtLike>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtSearch>Search</DtxtSearch>
+    <DbtnSearch>Search</DbtnSearch>
+    <LtxtItemsSearch>Items Search</LtxtItemsSearch>
+    <LtxtAdvanced>Advanced</LtxtAdvanced>
+    <LtxtExact>Exact</LtxtExact>
+    <LtxtLike>Like</LtxtLike>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DbtnSearch>Buscar</DbtnSearch>
+    <LtxtItemsSearch>Busca de Itens</LtxtItemsSearch>
+    <LtxtAdvanced>Avançado</LtxtAdvanced>
+    <LtxtExact>Exato</LtxtExact>
+    <LtxtLike>Similar</LtxtLike>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DbtnSearch>Chercher</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtAdvanced>&lt;--&gt;</LtxtAdvanced>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DbtnSearch>Suchen</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtAdvanced>&lt;--&gt;</LtxtAdvanced>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DbtnSearch>Поиск</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtAdvanced>&lt;--&gt;</LtxtAdvanced>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DbtnSearch>Hledat</DbtnSearch>
+    <LtxtItemsSearch>Vyhledávání položek</LtxtItemsSearch>
+    <LtxtAdvanced>Rozšířené</LtxtAdvanced>
+    <LtxtExact>Přesné</LtxtExact>
+    <LtxtLike>jako</LtxtLike>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DbtnSearch>Szukaj</DbtnSearch>
+    <LtxtItemsSearch>Poszukiwanie pozycji</LtxtItemsSearch>
+    <LtxtAdvanced>Zaawansowane</LtxtAdvanced>
+    <LtxtExact>Dokładny</LtxtExact>
+    <LtxtLike>Podobny</LtxtLike>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DbtnSearch>Hľadať</DbtnSearch>
+    <LtxtItemsSearch>Vyhľadávanie položiek</LtxtItemsSearch>
+    <LtxtAdvanced>Rozšírené</LtxtAdvanced>
+    <LtxtExact>Presné</LtxtExact>
+    <LtxtLike>Podobné</LtxtLike>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DbtnSearch>&lt;--&gt;</DbtnSearch>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtAdvanced>&lt;--&gt;</LtxtAdvanced>
+    <LtxtExact>&lt;--&gt;</LtxtExact>
+    <LtxtLike>&lt;--&gt;</LtxtLike>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DbtnSearch>DbtnSearch</DbtnSearch>
+    <LtxtItemsSearch>LtxtItemsSearch</LtxtItemsSearch>
+    <LtxtAdvanced>LtxtAdvanced</LtxtAdvanced>
+    <LtxtExact>LtxtExact</LtxtExact>
+    <LtxtLike>LtxtLike</LtxtLike>
+  </language>
+</languages>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Incoming Inventory Check</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Revisión de Inventario Saliente</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Revisión de Inventario Entrante</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtSalesOrderCheck>יציאת מלאי</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>כניסת מלאי</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Outgoing Inventory Check</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Incoming Inventory Check</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Revisão de Saída de Estoque</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Revisão de Entrada de Estoque</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Kontrola odchozích zásob</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Kontrola příchozích zásob</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Sprawdzenie zapasu wychodzącego</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Sprawdzenie zapasu wchodzącego</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>Kontrola odchádzajúceho inventáru</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>Kontrola prichádzajúceho inventáru</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>&lt;--&gt;</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>&lt;--&gt;</LtxtPurchaseOrderChec>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtSalesOrderCheck>LtxtSalesOrderCheck</LtxtSalesOrderCheck>
+    <LtxtPurchaseOrderChec>LtxtPurchaseOrderChec</LtxtPurchaseOrderChec>
+  </language>
+</languages>

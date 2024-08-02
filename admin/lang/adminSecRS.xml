@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtConfDel>Are you sure you want to delete the record set {0}?</LtxtConfDel>
+    <LtxtTag>Tag</LtxtTag>
+    <LtxtSaveSec>You must save the section in order to add record sets</LtxtSaveSec>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LtxtConfDel>¿Está seguro que desea eliminar el conjunto de datos {0}?</LtxtConfDel>
+    <LtxtTag>Etiqueta</LtxtTag>
+    <LtxtSaveSec>Debe guardar la sección para poder agregar conjuntos de datos</LtxtSaveSec>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LtxtConfDel>האם למחוק Record Sets {0}?</LtxtConfDel>
+    <LtxtTag>מדבקה</LtxtTag>
+    <LtxtSaveSec>יש לשמור לפני שתוכל לקבוע Record sets</LtxtSaveSec>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtNew>New</DtxtNew>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtConfDel>Are you sure you want to delete the record set {0}?</LtxtConfDel>
+    <LtxtTag>Tag</LtxtTag>
+    <LtxtSaveSec>You must save the section in order to add record sets</LtxtSaveSec>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LtxtConfDel>Você tem certeza que deseja excluir o conjunto de dados {0}?</LtxtConfDel>
+    <LtxtTag>Etiqueta</LtxtTag>
+    <LtxtSaveSec>Você deve salvar a seção em ordem para adicionar os conjuntos de dados.</LtxtSaveSec>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtTag>Étiquette</LtxtTag>
+    <LtxtSaveSec>&lt;--&gt;</LtxtSaveSec>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtTag>Kennzeichen</LtxtTag>
+    <LtxtSaveSec>&lt;--&gt;</LtxtSaveSec>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LtxtConfDel>Запись набора или удалить {0}?</LtxtConfDel>
+    <LtxtTag>Наклейка</LtxtTag>
+    <LtxtSaveSec>Нужно сохранить до того сможешь назначить Record sets</LtxtSaveSec>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LtxtConfDel>Jste si jistý/á, že chcete odstranit záznam {0}?</LtxtConfDel>
+    <LtxtTag>Značka</LtxtTag>
+    <LtxtSaveSec>Sekci musíte uložit, abyste mohl/a uložit záznamy </LtxtSaveSec>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LtxtConfDel>Jesteś pewien, że chcesz usunąć Rekord Set {0}?</LtxtConfDel>
+    <LtxtTag>Plakietka/ naklejka</LtxtTag>
+    <LtxtSaveSec>Musisz zapamiętać dział, aby dodać ustawienia rekordów</LtxtSaveSec>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LtxtConfDel>Ste si istí, že chcete vymazať skupinu záznamov {0}?</LtxtConfDel>
+    <LtxtTag>Označenie</LtxtTag>
+    <LtxtSaveSec>Musíte uložiť sekciu na to, aby ste mohli pridávať skupiny záznamov</LtxtSaveSec>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtConfDel>&lt;--&gt;</LtxtConfDel>
+    <LtxtTag>&lt;--&gt;</LtxtTag>
+    <LtxtSaveSec>&lt;--&gt;</LtxtSaveSec>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LtxtConfDel>LtxtConfDel</LtxtConfDel>
+    <LtxtTag>LtxtTag</LtxtTag>
+    <LtxtSaveSec>LtxtSaveSec</LtxtSaveSec>
+  </language>
+</languages>

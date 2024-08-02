@@ -1,0 +1,1264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtCart>Cart</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Forms</DtxtForms>
+    <LmnuGenOpt>General Options</LmnuGenOpt>
+    <LmnuHomeOpt>Home</LmnuHomeOpt>
+    <LmnuCatPropOpt>Catalog Properties</LmnuCatPropOpt>
+    <LmnuShopCart>Shopping Cart</LmnuShopCart>
+    <LmnuInv>Inventory</LmnuInv>
+    <LmnuBranches>Branches</LmnuBranches>
+    <LmnuObjsConf>Object Configuration</LmnuObjsConf>
+    <LmnuClientPList>Client Price List</LmnuClientPList>
+    <LmnuAgentPList>Agent Price List</LmnuAgentPList>
+    <LmnuAlerts>Alerts</LmnuAlerts>
+    <LmnuClientDes>Client Design</LmnuClientDes>
+    <LmnuAnonSes>Anonymous Session</LmnuAnonSes>
+    <LmnuSec>Sections</LmnuSec>
+    <LmnuEmails>E-Mails</LmnuEmails>
+    <LmnuNews>News</LmnuNews>
+    <LtxtPolls>Polls</LtxtPolls>
+    <LmnuPwd>Password</LmnuPwd>
+    <LmnuClientsAccess>Clients</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agents</LmnuAgentsAccess>
+    <LmnuDocFlow>Document Flow</LmnuDocFlow>
+    <LtxtAut>Authorizations</LtxtAut>
+    <LmnuItemDet>Item Details</LmnuItemDet>
+    <LmnuBtchDet>Batch Details</LmnuBtchDet>
+    <LmnuUDF>Fields</LmnuUDF>
+    <LmnuAlterNames>Alternate Names</LmnuAlterNames>
+    <LmnuCustCat>Catalog</LmnuCustCat>
+    <LmnuCartMiniRep>Cart Mini-Report</LmnuCartMiniRep>
+    <LmnuNumCod>Number Encoding</LmnuNumCod>
+    <LmnuCustObjs>Objects</LmnuCustObjs>
+    <LmnuClientReps>Clients</LmnuClientReps>
+    <LmnuAgentsRep>Agents</LmnuAgentsRep>
+    <LmnuSecIndex>Section Index</LmnuSecIndex>
+    <LmnuAddSec>Add Section</LmnuAddSec>
+    <LmnuEditSec>Edit Section</LmnuEditSec>
+    <LmnuEditNews>Edit News</LmnuEditNews>
+    <LmnuNewNews>Add News</LmnuNewNews>
+    <LmnuNewPoll>New Poll</LmnuNewPoll>
+    <LmnuEditPoll>Edit Poll</LmnuEditPoll>
+    <LmnuEditField>Edit Field</LmnuEditField>
+    <LmnuNewFld>New Field</LmnuNewFld>
+    <LmnuPerObj>Customize Object</LmnuPerObj>
+    <LtxtClientsRep>Client Reports</LtxtClientsRep>
+    <LtxtAgentsRep>Agent Reports</LtxtAgentsRep>
+    <LmnuUpdates>Updates</LmnuUpdates>
+    <LmnuLic>License</LmnuLic>
+    <LmnuEditRep>Edit Report</LmnuEditRep>
+    <LmnuNewRep>New Report</LmnuNewRep>
+    <LmnuEditBranch>Edit Branch</LmnuEditBranch>
+    <LmnuReps>Reports</LmnuReps>
+    <LmnuBanners>Banners</LmnuBanners>
+    <LmnuNewBanner>New Banner</LmnuNewBanner>
+    <LmnuEditBanner>Edit Banner</LmnuEditBanner>
+    <LmnuCatNav>Catalog Navigator</LmnuCatNav>
+    <LmnuMyData>My Information</LmnuMyData>
+    <LmnuSearchTree>Search Tree</LmnuSearchTree>
+    <LmnuLanguages>Languages</LmnuLanguages>
+    <LmnuUsersLng>User Language</LmnuUsersLng>
+    <LmnuAddForm>Add Form</LmnuAddForm>
+    <LmnuEditForm>Edit Form</LmnuEditForm>
+    <LtxtMoreOpt>More Options</LtxtMoreOpt>
+    <LmnuPrintTitle>Print Title</LmnuPrintTitle>
+    <LmnuLogo>Logos</LmnuLogo>
+    <LmnuCardDet>Card Details</LmnuCardDet>
+    <LtxtSysProp>System Settings</LtxtSysProp>
+    <LmnuPaySis>Payment Systems</LmnuPaySis>
+    <LmnuShipSis>Shipping System</LmnuShipSis>
+    <LmnuCustomSearch>Item Search</LmnuCustomSearch>
+    <LmnuEditSearch>Edit Search</LmnuEditSearch>
+    <LmnuNewSearch>New Search</LmnuNewSearch>
+    <LmnuCustomSearchCl>BP Search</LmnuCustomSearchCl>
+    <LmnuInformer>Task Monitor</LmnuInformer>
+    <LttlEditMonitor>Edit Task Monitor</LttlEditMonitor>
+    <LttlAddMonitor>Add Task Monitor</LttlAddMonitor>
+    <LmnuCustLogin>External Login</LmnuCustLogin>
+    <LmnuObjConfCols>Object Confirmation</LmnuObjConfCols>
+    <LmnuPrint>Object Printing</LmnuPrint>
+    <LmnuCustDec>Decimals</LmnuCustDec>
+    <LmnuAutGrp>Authorization Groups</LmnuAutGrp>
+    <LmnuAddAutGrp>Add Authorization Group</LmnuAddAutGrp>
+    <LmnuEditAutGrp>Edit Authorization Group</LmnuEditAutGrp>
+    <LmnuCartDet>Cart Details</LmnuCartDet>
+    <LmnuBreakDown>Document Break Down</LmnuBreakDown>
+    <LmnuiPO>iPO Details</LmnuiPO>
+    <LtxtOperations>Operations</LtxtOperations>
+    <LmnuEditOp>Edit Operation</LmnuEditOp>
+    <LmnuNewOp>New Operations</LmnuNewOp>
+    <LmnuFooter>Footer</LmnuFooter>
+    <LmnuLayout>Layout</LmnuLayout>
+    <LmnuSmallCat>Layout Catalogs</LmnuSmallCat>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtCart>Canasta</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Formularios</DtxtForms>
+    <LmnuGenOpt>Opciones Generales</LmnuGenOpt>
+    <LmnuHomeOpt>Inicio</LmnuHomeOpt>
+    <LmnuCatPropOpt>Propiedades de Catálogo</LmnuCatPropOpt>
+    <LmnuShopCart>Canasta de Compras</LmnuShopCart>
+    <LmnuInv>Inventario</LmnuInv>
+    <LmnuBranches>Sucursales</LmnuBranches>
+    <LmnuObjsConf>Configurar Objetos</LmnuObjsConf>
+    <LmnuClientPList>Lista de Precios Clientes</LmnuClientPList>
+    <LmnuAgentPList>Lista de Precios Agentes</LmnuAgentPList>
+    <LmnuAlerts>Alertas</LmnuAlerts>
+    <LmnuClientDes>Diseño Cliente</LmnuClientDes>
+    <LmnuAnonSes>Sesión Anónima</LmnuAnonSes>
+    <LmnuSec>Secciones</LmnuSec>
+    <LmnuEmails>Envío de Correos</LmnuEmails>
+    <LmnuNews>Noticias</LmnuNews>
+    <LtxtPolls>Encuestas</LtxtPolls>
+    <LmnuPwd>Contraseña</LmnuPwd>
+    <LmnuClientsAccess>Clientes</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agentes</LmnuAgentsAccess>
+    <LmnuDocFlow>Flujo de Documentos</LmnuDocFlow>
+    <LtxtAut>Autorizaciones</LtxtAut>
+    <LmnuItemDet>Detalles de Artículos</LmnuItemDet>
+    <LmnuBtchDet>Detalles de Lotes</LmnuBtchDet>
+    <LmnuUDF>Campos</LmnuUDF>
+    <LmnuAlterNames>Nombres Alternos</LmnuAlterNames>
+    <LmnuCustCat>Catálogo</LmnuCustCat>
+    <LmnuCartMiniRep>Mini-Reporte de Canasta</LmnuCartMiniRep>
+    <LmnuNumCod>Codificación de Números</LmnuNumCod>
+    <LmnuCustObjs>Objetos</LmnuCustObjs>
+    <LmnuClientReps>Clientes</LmnuClientReps>
+    <LmnuAgentsRep>Agentes</LmnuAgentsRep>
+    <LmnuSecIndex>Índice de Secciones</LmnuSecIndex>
+    <LmnuAddSec>Nueva Sección</LmnuAddSec>
+    <LmnuEditSec>Editar Sección</LmnuEditSec>
+    <LmnuEditNews>Editar Noticia</LmnuEditNews>
+    <LmnuNewNews>Nueva Noticia</LmnuNewNews>
+    <LmnuNewPoll>Nueva Encuesta</LmnuNewPoll>
+    <LmnuEditPoll>Editar Encuesta</LmnuEditPoll>
+    <LmnuEditField>Editar Campo</LmnuEditField>
+    <LmnuNewFld>Nuevo Campo</LmnuNewFld>
+    <LmnuPerObj>Personalizar Objeto</LmnuPerObj>
+    <LtxtClientsRep>Reportes de Clientes</LtxtClientsRep>
+    <LtxtAgentsRep>Reportes de Agentes</LtxtAgentsRep>
+    <LmnuUpdates>Actualizaciones</LmnuUpdates>
+    <LmnuLic>Licencia</LmnuLic>
+    <LmnuEditRep>Editar Reporte</LmnuEditRep>
+    <LmnuNewRep>Nuevo Reporte</LmnuNewRep>
+    <LmnuEditBranch>Editar Sucursal</LmnuEditBranch>
+    <LmnuReps>Reportes</LmnuReps>
+    <LmnuBanners>Pancartas</LmnuBanners>
+    <LmnuNewBanner>Nueva Pancarta</LmnuNewBanner>
+    <LmnuEditBanner>Editar Pancarta</LmnuEditBanner>
+    <LmnuCatNav>Navegador de Catálogo</LmnuCatNav>
+    <LmnuMyData>Mis Datos</LmnuMyData>
+    <LmnuSearchTree>Árbol de Búsqueda</LmnuSearchTree>
+    <LmnuLanguages>Idiomas</LmnuLanguages>
+    <LmnuUsersLng>Idioma de Usuarios</LmnuUsersLng>
+    <LmnuAddForm>Nuevo Formulario</LmnuAddForm>
+    <LmnuEditForm>Editar Formulario</LmnuEditForm>
+    <LtxtMoreOpt>Más Opciones</LtxtMoreOpt>
+    <LmnuPrintTitle>Titulo de Impresión</LmnuPrintTitle>
+    <LmnuLogo>Logotipos</LmnuLogo>
+    <LmnuCardDet>Detalle de Ficha</LmnuCardDet>
+    <LtxtSysProp>Configuraciones de Sistema</LtxtSysProp>
+    <LmnuPaySis>Sistema de Pagos</LmnuPaySis>
+    <LmnuShipSis>Sistema de Envios</LmnuShipSis>
+    <LmnuCustomSearch>Búsqueda de Artículos</LmnuCustomSearch>
+    <LmnuEditSearch>Editar Búsqueda</LmnuEditSearch>
+    <LmnuNewSearch>Nueva Búsqueda</LmnuNewSearch>
+    <LmnuCustomSearchCl>Búsqueda de SN</LmnuCustomSearchCl>
+    <LmnuInformer>Monitor de Tarea</LmnuInformer>
+    <LttlEditMonitor>Editar Monitor de Tarea</LttlEditMonitor>
+    <LttlAddMonitor>Agregar Monitor de Tarea</LttlAddMonitor>
+    <LmnuCustLogin>Acceso Externo</LmnuCustLogin>
+    <LmnuObjConfCols>Confirmación de objetos</LmnuObjConfCols>
+    <LmnuPrint>Impresión de Objetos</LmnuPrint>
+    <LmnuCustDec>Decimales</LmnuCustDec>
+    <LmnuAutGrp>Grupos de Autorización</LmnuAutGrp>
+    <LmnuAddAutGrp>Agregar Grupo de Autorización</LmnuAddAutGrp>
+    <LmnuEditAutGrp>Editar Grupo de Autorización</LmnuEditAutGrp>
+    <LmnuCartDet>Detalle de Canasta</LmnuCartDet>
+    <LmnuBreakDown>Separación de Documento</LmnuBreakDown>
+    <LmnuiPO>Detalles de iPO</LmnuiPO>
+    <LtxtOperations>Operaciones</LtxtOperations>
+    <LmnuEditOp>Editar Operación</LmnuEditOp>
+    <LmnuNewOp>Nueva Operación</LmnuNewOp>
+    <LmnuFooter>Pie de Pagina</LmnuFooter>
+    <LmnuLayout>Diseño</LmnuLayout>
+    <LmnuSmallCat>Catálogos de Diseño</LmnuSmallCat>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtCart>סל הקניות</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>טפסים</DtxtForms>
+    <LmnuGenOpt>אופציות כלליות</LmnuGenOpt>
+    <LmnuHomeOpt>התחלה</LmnuHomeOpt>
+    <LmnuCatPropOpt>מאפייני קטלוג</LmnuCatPropOpt>
+    <LmnuShopCart>סל קניות</LmnuShopCart>
+    <LmnuInv>מלאי</LmnuInv>
+    <LmnuBranches>סניפים</LmnuBranches>
+    <LmnuObjsConf>ניהול אובייקטים</LmnuObjsConf>
+    <LmnuClientPList>מחירון לקוחות</LmnuClientPList>
+    <LmnuAgentPList>מחירון סוכנים</LmnuAgentPList>
+    <LmnuAlerts>התראות</LmnuAlerts>
+    <LmnuClientDes>עיצוב ממשק לקוחות</LmnuClientDes>
+    <LmnuAnonSes>כניסה אנונימית</LmnuAnonSes>
+    <LmnuSec>אזורים</LmnuSec>
+    <LmnuEmails>דואר אלקטרוני</LmnuEmails>
+    <LmnuNews>חדשות</LmnuNews>
+    <LtxtPolls>סקרים</LtxtPolls>
+    <LmnuPwd>סיסמה</LmnuPwd>
+    <LmnuClientsAccess>לקוחות</LmnuClientsAccess>
+    <LmnuAgentsAccess>סוכנים</LmnuAgentsAccess>
+    <LmnuDocFlow>זרימת מסמכים</LmnuDocFlow>
+    <LtxtAut>הרשאות</LtxtAut>
+    <LmnuItemDet>נתוני פריטים</LmnuItemDet>
+    <LmnuBtchDet>נתוני אצוות</LmnuBtchDet>
+    <LmnuUDF>שדות</LmnuUDF>
+    <LmnuAlterNames>שמות חלופיים</LmnuAlterNames>
+    <LmnuCustCat>קטלוג</LmnuCustCat>
+    <LmnuCartMiniRep>מיני דוח</LmnuCartMiniRep>
+    <LmnuNumCod>קידוד מספרים</LmnuNumCod>
+    <LmnuCustObjs>אובייקטים</LmnuCustObjs>
+    <LmnuClientReps>לקוחות</LmnuClientReps>
+    <LmnuAgentsRep>סוכנים</LmnuAgentsRep>
+    <LmnuSecIndex>אינדקס אזורים</LmnuSecIndex>
+    <LmnuAddSec>אזור חדש</LmnuAddSec>
+    <LmnuEditSec>ניהול אזורים</LmnuEditSec>
+    <LmnuEditNews>ניהול חדשות</LmnuEditNews>
+    <LmnuNewNews>ידיעה חדשה</LmnuNewNews>
+    <LmnuNewPoll>סקר חדש</LmnuNewPoll>
+    <LmnuEditPoll>ניהול סקרים</LmnuEditPoll>
+    <LmnuEditField>ניהול שדות</LmnuEditField>
+    <LmnuNewFld>שדה חדש</LmnuNewFld>
+    <LmnuPerObj>התאמת אובייקט</LmnuPerObj>
+    <LtxtClientsRep>דוחות לקוחות</LtxtClientsRep>
+    <LtxtAgentsRep>דוחות סוכנים</LtxtAgentsRep>
+    <LmnuUpdates>שידרוגים</LmnuUpdates>
+    <LmnuLic>רשיון</LmnuLic>
+    <LmnuEditRep>ניהול דוחות</LmnuEditRep>
+    <LmnuNewRep>דוח חדש</LmnuNewRep>
+    <LmnuEditBranch>ניהול סניפים</LmnuEditBranch>
+    <LmnuReps>דוחות</LmnuReps>
+    <LmnuBanners>באנרים</LmnuBanners>
+    <LmnuNewBanner>בנר חדש</LmnuNewBanner>
+    <LmnuEditBanner>ערוך בנר</LmnuEditBanner>
+    <LmnuCatNav>נווט קטלוג</LmnuCatNav>
+    <LmnuMyData>הנתונים שלי</LmnuMyData>
+    <LmnuSearchTree>עץ חיפוש</LmnuSearchTree>
+    <LmnuLanguages>שפות</LmnuLanguages>
+    <LmnuUsersLng>שפת משתמשים</LmnuUsersLng>
+    <LmnuAddForm>טופס חדש</LmnuAddForm>
+    <LmnuEditForm>ניהול טופס</LmnuEditForm>
+    <LtxtMoreOpt>עוד אפשרויות</LtxtMoreOpt>
+    <LmnuPrintTitle>הדפסת כותרת</LmnuPrintTitle>
+    <LmnuLogo>לוגו</LmnuLogo>
+    <LmnuCardDet>נתוני כרטיס</LmnuCardDet>
+    <LtxtSysProp>קביעות מערכת</LtxtSysProp>
+    <LmnuPaySis>מערכת תשלומים</LmnuPaySis>
+    <LmnuShipSis>מערכת משלוחים</LmnuShipSis>
+    <LmnuCustomSearch>חיפוש פריטים</LmnuCustomSearch>
+    <LmnuEditSearch>ערוך חיפוש</LmnuEditSearch>
+    <LmnuNewSearch>חיפוש חדש</LmnuNewSearch>
+    <LmnuCustomSearchCl>חיפוש כרטיסים</LmnuCustomSearchCl>
+    <LmnuInformer>צג משימות</LmnuInformer>
+    <LttlEditMonitor>ערוך צג משימה</LttlEditMonitor>
+    <LttlAddMonitor>הוסף צג משימה</LttlAddMonitor>
+    <LmnuCustLogin>כניסה חיצונית</LmnuCustLogin>
+    <LmnuObjConfCols>אישור אובייקטים</LmnuObjConfCols>
+    <LmnuPrint>הדפסת אובייקטים</LmnuPrint>
+    <LmnuCustDec>דצימלים</LmnuCustDec>
+    <LmnuAutGrp>קבוצות אישור</LmnuAutGrp>
+    <LmnuAddAutGrp>הוסף קבוצת אישור</LmnuAddAutGrp>
+    <LmnuEditAutGrp>ערוך קבוצת אישור</LmnuEditAutGrp>
+    <LmnuCartDet>פרטי סל קניות</LmnuCartDet>
+    <LmnuBreakDown>חלק מסמך</LmnuBreakDown>
+    <LmnuiPO>פרטיי הנפקה</LmnuiPO>
+    <LtxtOperations>תהליכים</LtxtOperations>
+    <LmnuEditOp>ערוך תהליך</LmnuEditOp>
+    <LmnuNewOp>תהליכים חדשים</LmnuNewOp>
+    <LmnuFooter>כותרת תחתונה</LmnuFooter>
+    <LmnuLayout>מערך</LmnuLayout>
+    <LmnuSmallCat>קטלוגיי מערך</LmnuSmallCat>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtCart>Cart</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Forms</DtxtForms>
+    <LmnuGenOpt>General Options</LmnuGenOpt>
+    <LmnuHomeOpt>Home</LmnuHomeOpt>
+    <LmnuCatPropOpt>Catalog Properties</LmnuCatPropOpt>
+    <LmnuShopCart>Shopping Cart</LmnuShopCart>
+    <LmnuInv>Inventory</LmnuInv>
+    <LmnuBranches>Branches</LmnuBranches>
+    <LmnuObjsConf>Object Configuration</LmnuObjsConf>
+    <LmnuClientPList>Client Price List</LmnuClientPList>
+    <LmnuAgentPList>Agent Price List</LmnuAgentPList>
+    <LmnuAlerts>Alerts</LmnuAlerts>
+    <LmnuClientDes>Client Design</LmnuClientDes>
+    <LmnuAnonSes>Anonymous Session</LmnuAnonSes>
+    <LmnuSec>Sections</LmnuSec>
+    <LmnuEmails>E-Mails</LmnuEmails>
+    <LmnuNews>News</LmnuNews>
+    <LtxtPolls>Polls</LtxtPolls>
+    <LmnuPwd>Password</LmnuPwd>
+    <LmnuClientsAccess>Clients</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agents</LmnuAgentsAccess>
+    <LmnuDocFlow>Document Flow</LmnuDocFlow>
+    <LtxtAut>Authorizations</LtxtAut>
+    <LmnuItemDet>Item Details</LmnuItemDet>
+    <LmnuBtchDet>Batch Details</LmnuBtchDet>
+    <LmnuUDF>Fields</LmnuUDF>
+    <LmnuAlterNames>Alternate Names</LmnuAlterNames>
+    <LmnuCustCat>Catalog</LmnuCustCat>
+    <LmnuCartMiniRep>Cart Mini-Report</LmnuCartMiniRep>
+    <LmnuNumCod>Number Encoding</LmnuNumCod>
+    <LmnuCustObjs>Objects</LmnuCustObjs>
+    <LmnuClientReps>Clients</LmnuClientReps>
+    <LmnuAgentsRep>Agents</LmnuAgentsRep>
+    <LmnuSecIndex>Section Index</LmnuSecIndex>
+    <LmnuAddSec>Add Section</LmnuAddSec>
+    <LmnuEditSec>Edit Section</LmnuEditSec>
+    <LmnuEditNews>Edit News</LmnuEditNews>
+    <LmnuNewNews>Add News</LmnuNewNews>
+    <LmnuNewPoll>New Poll</LmnuNewPoll>
+    <LmnuEditPoll>Edit Poll</LmnuEditPoll>
+    <LmnuEditField>Edit Field</LmnuEditField>
+    <LmnuNewFld>New Field</LmnuNewFld>
+    <LmnuPerObj>Customize Object</LmnuPerObj>
+    <LtxtClientsRep>Client Reports</LtxtClientsRep>
+    <LtxtAgentsRep>Agent Reports</LtxtAgentsRep>
+    <LmnuUpdates>Updates</LmnuUpdates>
+    <LmnuLic>License</LmnuLic>
+    <LmnuEditRep>Edit Report</LmnuEditRep>
+    <LmnuNewRep>New Report</LmnuNewRep>
+    <LmnuEditBranch>Edit Branch</LmnuEditBranch>
+    <LmnuReps>Reports</LmnuReps>
+    <LmnuBanners>Banners</LmnuBanners>
+    <LmnuNewBanner>New Banner</LmnuNewBanner>
+    <LmnuEditBanner>Edit Banner</LmnuEditBanner>
+    <LmnuCatNav>Catalog Navigator</LmnuCatNav>
+    <LmnuMyData>My Information</LmnuMyData>
+    <LmnuSearchTree>Search Tree</LmnuSearchTree>
+    <LmnuLanguages>Languages</LmnuLanguages>
+    <LmnuUsersLng>User Language</LmnuUsersLng>
+    <LmnuAddForm>Add Form</LmnuAddForm>
+    <LmnuEditForm>Edit Form</LmnuEditForm>
+    <LtxtMoreOpt>More Options</LtxtMoreOpt>
+    <LmnuPrintTitle>Print Title</LmnuPrintTitle>
+    <LmnuLogo>Logos</LmnuLogo>
+    <LmnuCardDet>Card Details</LmnuCardDet>
+    <LtxtSysProp>System Settings</LtxtSysProp>
+    <LmnuPaySis>Payment Systems</LmnuPaySis>
+    <LmnuShipSis>Shipping System</LmnuShipSis>
+    <LmnuCustomSearch>Item Search</LmnuCustomSearch>
+    <LmnuEditSearch>Edit Search</LmnuEditSearch>
+    <LmnuNewSearch>New Search</LmnuNewSearch>
+    <LmnuCustomSearchCl>BP Search</LmnuCustomSearchCl>
+    <LmnuInformer>Task Monitor</LmnuInformer>
+    <LttlEditMonitor>Edit Task Monitor</LttlEditMonitor>
+    <LttlAddMonitor>Add Task Monitor</LttlAddMonitor>
+    <LmnuCustLogin>External Login</LmnuCustLogin>
+    <LmnuObjConfCols>Object Confirmation</LmnuObjConfCols>
+    <LmnuPrint>Object Printing</LmnuPrint>
+    <LmnuCustDec>Decimals</LmnuCustDec>
+    <LmnuAutGrp>Authorization Groups</LmnuAutGrp>
+    <LmnuAddAutGrp>Add Authorization Group</LmnuAddAutGrp>
+    <LmnuEditAutGrp>Edit Authorization Group</LmnuEditAutGrp>
+    <LmnuCartDet>Cart Details</LmnuCartDet>
+    <LmnuBreakDown>Document Break Down</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtCart>Carrinho</DtxtCart>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtForms>Formulários</DtxtForms>
+    <LmnuGenOpt>Opções Gerais</LmnuGenOpt>
+    <LmnuHomeOpt>Início</LmnuHomeOpt>
+    <LmnuCatPropOpt>Propriedades do Catálogo</LmnuCatPropOpt>
+    <LmnuShopCart>Carrinho de Compras</LmnuShopCart>
+    <LmnuInv>Estoque</LmnuInv>
+    <LmnuBranches>Filiais</LmnuBranches>
+    <LmnuObjsConf>Configuração de Objetos</LmnuObjsConf>
+    <LmnuClientPList>Lista de Preços de Clientes</LmnuClientPList>
+    <LmnuAgentPList>Lista de Preços Vendedores</LmnuAgentPList>
+    <LmnuAlerts>Alertas</LmnuAlerts>
+    <LmnuClientDes>Layout do Cliente</LmnuClientDes>
+    <LmnuAnonSes>Sessão Anônima</LmnuAnonSes>
+    <LmnuSec>Seções</LmnuSec>
+    <LmnuEmails>E-mails</LmnuEmails>
+    <LmnuNews>Notícia</LmnuNews>
+    <LtxtPolls>Pesquisas</LtxtPolls>
+    <LmnuPwd>Senha</LmnuPwd>
+    <LmnuClientsAccess>Clientes</LmnuClientsAccess>
+    <LmnuAgentsAccess>Vendedores</LmnuAgentsAccess>
+    <LmnuDocFlow>Fluxo de Documento</LmnuDocFlow>
+    <LtxtAut>Autorizações</LtxtAut>
+    <LmnuItemDet>Detalhes do Item</LmnuItemDet>
+    <LmnuBtchDet>Detalhes de Lotes</LmnuBtchDet>
+    <LmnuUDF>Campos</LmnuUDF>
+    <LmnuAlterNames>Nomes Alternativos</LmnuAlterNames>
+    <LmnuCustCat>Catálogo</LmnuCustCat>
+    <LmnuCartMiniRep>Mini-Relatório do Carrinho</LmnuCartMiniRep>
+    <LmnuNumCod>Codificação de Números</LmnuNumCod>
+    <LmnuCustObjs>Objetos</LmnuCustObjs>
+    <LmnuClientReps>Clientes</LmnuClientReps>
+    <LmnuAgentsRep>Vendedores</LmnuAgentsRep>
+    <LmnuSecIndex>Índice de Seções</LmnuSecIndex>
+    <LmnuAddSec>Adicionar Seção</LmnuAddSec>
+    <LmnuEditSec>Editar Seção</LmnuEditSec>
+    <LmnuEditNews>Editar Notícia</LmnuEditNews>
+    <LmnuNewNews>Adicionar Notícia</LmnuNewNews>
+    <LmnuNewPoll>Nova Pesquisa</LmnuNewPoll>
+    <LmnuEditPoll>Editar Pesquisa</LmnuEditPoll>
+    <LmnuEditField>Editar Campo</LmnuEditField>
+    <LmnuNewFld>Novo Campo</LmnuNewFld>
+    <LmnuPerObj>Personalizar Objeto</LmnuPerObj>
+    <LtxtClientsRep>Relatórios de Clientes</LtxtClientsRep>
+    <LtxtAgentsRep>Relatórios de Vendedores</LtxtAgentsRep>
+    <LmnuUpdates>Atualizações</LmnuUpdates>
+    <LmnuLic>Licença</LmnuLic>
+    <LmnuEditRep>Editar Relatório</LmnuEditRep>
+    <LmnuNewRep>Novo Relatório</LmnuNewRep>
+    <LmnuEditBranch>Editar Filial</LmnuEditBranch>
+    <LmnuReps>Relatórios</LmnuReps>
+    <LmnuBanners>Banners</LmnuBanners>
+    <LmnuNewBanner>Novo Banner</LmnuNewBanner>
+    <LmnuEditBanner>Editar Banner</LmnuEditBanner>
+    <LmnuCatNav>Navegador de Catálogo</LmnuCatNav>
+    <LmnuMyData>Minha Informação</LmnuMyData>
+    <LmnuSearchTree>Árvore de Pesquisa</LmnuSearchTree>
+    <LmnuLanguages>Idiomas</LmnuLanguages>
+    <LmnuUsersLng>Idioma do Usuário</LmnuUsersLng>
+    <LmnuAddForm>Adicionar Formulário</LmnuAddForm>
+    <LmnuEditForm>Editar Formulário</LmnuEditForm>
+    <LtxtMoreOpt>Mais Opções</LtxtMoreOpt>
+    <LmnuPrintTitle>Imprimir Título</LmnuPrintTitle>
+    <LmnuLogo>Logotipos</LmnuLogo>
+    <LmnuCardDet>Detalhes do Cartão</LmnuCardDet>
+    <LtxtSysProp>Configurações do Sistema</LtxtSysProp>
+    <LmnuPaySis>Formas de Pagamento</LmnuPaySis>
+    <LmnuShipSis>Sistema de Envios</LmnuShipSis>
+    <LmnuCustomSearch>Pesquisa do Item</LmnuCustomSearch>
+    <LmnuEditSearch>Editar Pesquisa</LmnuEditSearch>
+    <LmnuNewSearch>Nova Pesquisa</LmnuNewSearch>
+    <LmnuCustomSearchCl>Pesquisa de PN</LmnuCustomSearchCl>
+    <LmnuInformer>Monitor de Tarefas</LmnuInformer>
+    <LttlEditMonitor>Editar Monitor de Tarefa</LttlEditMonitor>
+    <LttlAddMonitor>Adicionar Monitor de Tarefa</LttlAddMonitor>
+    <LmnuCustLogin>Acesso Externo</LmnuCustLogin>
+    <LmnuObjConfCols>Confirmação de Objetos</LmnuObjConfCols>
+    <LmnuPrint>Impressão de Objetos</LmnuPrint>
+    <LmnuCustDec>Decimais</LmnuCustDec>
+    <LmnuAutGrp>Grupos de Autorização</LmnuAutGrp>
+    <LmnuAddAutGrp>Adicionar Grupo de Autorização</LmnuAddAutGrp>
+    <LmnuEditAutGrp>Editar Grupo de Autorização</LmnuEditAutGrp>
+    <LmnuCartDet>Detalhes do Carrinho</LmnuCartDet>
+    <LmnuBreakDown>Separação de Documento</LmnuBreakDown>
+    <LmnuiPO>Detalhes de iPO</LmnuiPO>
+    <LtxtOperations>Operações</LtxtOperations>
+    <LmnuEditOp>Editar Operação</LmnuEditOp>
+    <LmnuNewOp>Nova operação</LmnuNewOp>
+    <LmnuFooter>Rodapé</LmnuFooter>
+    <LmnuLayout>Desenho</LmnuLayout>
+    <LmnuSmallCat>Catálogos de layout</LmnuSmallCat>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtCart>Corbeille</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <LmnuGenOpt>Options généraux</LmnuGenOpt>
+    <LmnuHomeOpt>Start (Début)</LmnuHomeOpt>
+    <LmnuCatPropOpt>Propriétés du catalogue</LmnuCatPropOpt>
+    <LmnuShopCart>Corbeille d'achats</LmnuShopCart>
+    <LmnuInv>Inventaire</LmnuInv>
+    <LmnuBranches>Succursales</LmnuBranches>
+    <LmnuObjsConf>Configurer les objects</LmnuObjsConf>
+    <LmnuClientPList>Liste de Prix Clients</LmnuClientPList>
+    <LmnuAgentPList>Liste des Prix Agents</LmnuAgentPList>
+    <LmnuAlerts>Alertes</LmnuAlerts>
+    <LmnuClientDes>Description client</LmnuClientDes>
+    <LmnuAnonSes>Séance anonime</LmnuAnonSes>
+    <LmnuSec>Sections</LmnuSec>
+    <LmnuEmails>Envoie des courriers (Emails)</LmnuEmails>
+    <LmnuNews>Nouvelles</LmnuNews>
+    <LtxtPolls>Enquêtes</LtxtPolls>
+    <LmnuPwd>Mot de passe</LmnuPwd>
+    <LmnuClientsAccess>Clients</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agents</LmnuAgentsAccess>
+    <LmnuDocFlow>Flux des documentations</LmnuDocFlow>
+    <LtxtAut>Autorisations</LtxtAut>
+    <LmnuItemDet>Details des articles</LmnuItemDet>
+    <LmnuBtchDet>Details des lotes </LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Noms alternatifs</LmnuAlterNames>
+    <LmnuCustCat>Catalogue</LmnuCustCat>
+    <LmnuCartMiniRep>Mini- Report de Corbeille</LmnuCartMiniRep>
+    <LmnuNumCod>Codification des chiffres</LmnuNumCod>
+    <LmnuCustObjs>Objects</LmnuCustObjs>
+    <LmnuClientReps>Clientes</LmnuClientReps>
+    <LmnuAgentsRep>Agentes</LmnuAgentsRep>
+    <LmnuSecIndex>Index des sections</LmnuSecIndex>
+    <LmnuAddSec>Ajouter Section</LmnuAddSec>
+    <LmnuEditSec>Éditer la section</LmnuEditSec>
+    <LmnuEditNews>Éditer la nouvelle</LmnuEditNews>
+    <LmnuNewNews>Ajouter Nouvelle</LmnuNewNews>
+    <LmnuNewPoll>Enquête actuelle</LmnuNewPoll>
+    <LmnuEditPoll>Éditer l'enquête</LmnuEditPoll>
+    <LmnuEditField>Éditer le domaine</LmnuEditField>
+    <LmnuNewFld>Domaine actuel</LmnuNewFld>
+    <LmnuPerObj>Personnaliser l'object</LmnuPerObj>
+    <LtxtClientsRep>Report des Clients</LtxtClientsRep>
+    <LtxtAgentsRep>Reports des Agents</LtxtAgentsRep>
+    <LmnuUpdates>Mise à jour</LmnuUpdates>
+    <LmnuLic>Licence</LmnuLic>
+    <LmnuEditRep>Éditer le report</LmnuEditRep>
+    <LmnuNewRep>Report actuel</LmnuNewRep>
+    <LmnuEditBranch>Éditer la Succursale</LmnuEditBranch>
+    <LmnuReps>Reports</LmnuReps>
+    <LmnuBanners>Banners</LmnuBanners>
+    <LmnuNewBanner>Banner actuel</LmnuNewBanner>
+    <LmnuEditBanner>Éditer le banner</LmnuEditBanner>
+    <LmnuCatNav>Navigateur de catalogue</LmnuCatNav>
+    <LmnuMyData>Mes données</LmnuMyData>
+    <LmnuSearchTree>&lt;--&gt;</LmnuSearchTree>
+    <LmnuLanguages>&lt;--&gt;</LmnuLanguages>
+    <LmnuUsersLng>&lt;--&gt;</LmnuUsersLng>
+    <LmnuAddForm>&lt;--&gt;</LmnuAddForm>
+    <LmnuEditForm>&lt;--&gt;</LmnuEditForm>
+    <LtxtMoreOpt>&lt;--&gt;</LtxtMoreOpt>
+    <LmnuPrintTitle>&lt;--&gt;</LmnuPrintTitle>
+    <LmnuLogo>Logotypes</LmnuLogo>
+    <LmnuCardDet>&lt;--&gt;</LmnuCardDet>
+    <LtxtSysProp>&lt;--&gt;</LtxtSysProp>
+    <LmnuPaySis>&lt;--&gt;</LmnuPaySis>
+    <LmnuShipSis>&lt;--&gt;</LmnuShipSis>
+    <LmnuCustomSearch>&lt;--&gt;</LmnuCustomSearch>
+    <LmnuEditSearch>&lt;--&gt;</LmnuEditSearch>
+    <LmnuNewSearch>&lt;--&gt;</LmnuNewSearch>
+    <LmnuCustomSearchCl>&lt;--&gt;</LmnuCustomSearchCl>
+    <LmnuInformer>&lt;--&gt;</LmnuInformer>
+    <LttlEditMonitor>&lt;--&gt;</LttlEditMonitor>
+    <LttlAddMonitor>&lt;--&gt;</LttlAddMonitor>
+    <LmnuCustLogin>&lt;--&gt;</LmnuCustLogin>
+    <LmnuObjConfCols>&lt;--&gt;</LmnuObjConfCols>
+    <LmnuPrint>&lt;--&gt;</LmnuPrint>
+    <LmnuCustDec>&lt;--&gt;</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtCart>Einkaufswagen</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Formulare</DtxtForms>
+    <LmnuGenOpt>Allgemeine Optionen</LmnuGenOpt>
+    <LmnuHomeOpt>Startseite</LmnuHomeOpt>
+    <LmnuCatPropOpt>Katalogeigenschaften</LmnuCatPropOpt>
+    <LmnuShopCart>Einkaufswagen</LmnuShopCart>
+    <LmnuInv>Inventur</LmnuInv>
+    <LmnuBranches>Zweige</LmnuBranches>
+    <LmnuObjsConf>Objekt-Konfiguration</LmnuObjsConf>
+    <LmnuClientPList>Kunden Preisliste</LmnuClientPList>
+    <LmnuAgentPList>Agenten Preisliste</LmnuAgentPList>
+    <LmnuAlerts>Meldungen</LmnuAlerts>
+    <LmnuClientDes>Kundendesign</LmnuClientDes>
+    <LmnuAnonSes>Anonyme Sitzung</LmnuAnonSes>
+    <LmnuSec>Bereiche</LmnuSec>
+    <LmnuEmails>E-Mails</LmnuEmails>
+    <LmnuNews>Neuigkeiten</LmnuNews>
+    <LtxtPolls>Umfragen</LtxtPolls>
+    <LmnuPwd>Kennwort</LmnuPwd>
+    <LmnuClientsAccess>Kunden</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agenten</LmnuAgentsAccess>
+    <LmnuDocFlow>Dokument Fluss</LmnuDocFlow>
+    <LtxtAut>Genehmigungen</LtxtAut>
+    <LmnuItemDet>Artikeleinzelheiten</LmnuItemDet>
+    <LmnuBtchDet>Los Einzelheiten</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Alternativnamen</LmnuAlterNames>
+    <LmnuCustCat>Katalog</LmnuCustCat>
+    <LmnuCartMiniRep>Einkaufswagen Minibericht</LmnuCartMiniRep>
+    <LmnuNumCod>Nummer-Verschlüsselung</LmnuNumCod>
+    <LmnuCustObjs>Objekte</LmnuCustObjs>
+    <LmnuClientReps>Kunden</LmnuClientReps>
+    <LmnuAgentsRep>Agenten</LmnuAgentsRep>
+    <LmnuSecIndex>Bereich-Index</LmnuSecIndex>
+    <LmnuAddSec>Bereich Hinzufügen</LmnuAddSec>
+    <LmnuEditSec>Bereich bearbeiten</LmnuEditSec>
+    <LmnuEditNews>Neuigkeiten bearbeiten</LmnuEditNews>
+    <LmnuNewNews>Neuigkeiten hinzufügen</LmnuNewNews>
+    <LmnuNewPoll>Neue Umfrage</LmnuNewPoll>
+    <LmnuEditPoll>Umfrage bearbeiten</LmnuEditPoll>
+    <LmnuEditField>Feld bearbeiten</LmnuEditField>
+    <LmnuNewFld>Neues Feld</LmnuNewFld>
+    <LmnuPerObj>Objeckt individualisieren</LmnuPerObj>
+    <LtxtClientsRep>Kundenberichte</LtxtClientsRep>
+    <LtxtAgentsRep>Agentenberichte</LtxtAgentsRep>
+    <LmnuUpdates>Updates</LmnuUpdates>
+    <LmnuLic>Lizenz</LmnuLic>
+    <LmnuEditRep>Bericht bearbeiten</LmnuEditRep>
+    <LmnuNewRep>Neuer Bericht</LmnuNewRep>
+    <LmnuEditBranch>Zweig bearbeiten</LmnuEditBranch>
+    <LmnuReps>Berichte</LmnuReps>
+    <LmnuBanners>Anzeigen</LmnuBanners>
+    <LmnuNewBanner>Neue Anzeige</LmnuNewBanner>
+    <LmnuEditBanner>Anzeige bearbeiten</LmnuEditBanner>
+    <LmnuCatNav>Katalognavigator</LmnuCatNav>
+    <LmnuMyData>Meine Daten</LmnuMyData>
+    <LmnuSearchTree>&lt;--&gt;</LmnuSearchTree>
+    <LmnuLanguages>&lt;--&gt;</LmnuLanguages>
+    <LmnuUsersLng>&lt;--&gt;</LmnuUsersLng>
+    <LmnuAddForm>&lt;--&gt;</LmnuAddForm>
+    <LmnuEditForm>&lt;--&gt;</LmnuEditForm>
+    <LtxtMoreOpt>&lt;--&gt;</LtxtMoreOpt>
+    <LmnuPrintTitle>&lt;--&gt;</LmnuPrintTitle>
+    <LmnuLogo>Logos</LmnuLogo>
+    <LmnuCardDet>&lt;--&gt;</LmnuCardDet>
+    <LtxtSysProp>&lt;--&gt;</LtxtSysProp>
+    <LmnuPaySis>&lt;--&gt;</LmnuPaySis>
+    <LmnuShipSis>&lt;--&gt;</LmnuShipSis>
+    <LmnuCustomSearch>&lt;--&gt;</LmnuCustomSearch>
+    <LmnuEditSearch>&lt;--&gt;</LmnuEditSearch>
+    <LmnuNewSearch>&lt;--&gt;</LmnuNewSearch>
+    <LmnuCustomSearchCl>&lt;--&gt;</LmnuCustomSearchCl>
+    <LmnuInformer>&lt;--&gt;</LmnuInformer>
+    <LttlEditMonitor>&lt;--&gt;</LttlEditMonitor>
+    <LttlAddMonitor>&lt;--&gt;</LttlAddMonitor>
+    <LmnuCustLogin>&lt;--&gt;</LmnuCustLogin>
+    <LmnuObjConfCols>&lt;--&gt;</LmnuObjConfCols>
+    <LmnuPrint>&lt;--&gt;</LmnuPrint>
+    <LmnuCustDec>&lt;--&gt;</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtCart>Пакет услуг</DtxtCart>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtForms>Формы</DtxtForms>
+    <LmnuGenOpt>Общие опции</LmnuGenOpt>
+    <LmnuHomeOpt>Начало</LmnuHomeOpt>
+    <LmnuCatPropOpt>Свойства каталога</LmnuCatPropOpt>
+    <LmnuShopCart>Корзина покупок</LmnuShopCart>
+    <LmnuInv>Запас</LmnuInv>
+    <LmnuBranches>Филиалы</LmnuBranches>
+    <LmnuObjsConf>Объекты управления</LmnuObjsConf>
+    <LmnuClientPList>Список цен для  клиентов</LmnuClientPList>
+    <LmnuAgentPList>Список цен для агентов</LmnuAgentPList>
+    <LmnuAlerts>Предупреждения</LmnuAlerts>
+    <LmnuClientDes>Дизайн интерфейса клиента</LmnuClientDes>
+    <LmnuAnonSes>Анонимный вход</LmnuAnonSes>
+    <LmnuSec>Регионы</LmnuSec>
+    <LmnuEmails>Электронная почта</LmnuEmails>
+    <LmnuNews>Новости</LmnuNews>
+    <LtxtPolls>Опросы</LtxtPolls>
+    <LmnuPwd>Пароль</LmnuPwd>
+    <LmnuClientsAccess>Клиенты</LmnuClientsAccess>
+    <LmnuAgentsAccess>Агенты</LmnuAgentsAccess>
+    <LmnuDocFlow>Поток документов</LmnuDocFlow>
+    <LtxtAut>Разрешения</LtxtAut>
+    <LmnuItemDet>Управление деталями</LmnuItemDet>
+    <LmnuBtchDet>Управление полками</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Альтернативные названия</LmnuAlterNames>
+    <LmnuCustCat>Каталог</LmnuCustCat>
+    <LmnuCartMiniRep>Мини доклад</LmnuCartMiniRep>
+    <LmnuNumCod>Кодирование номеров</LmnuNumCod>
+    <LmnuCustObjs>Объекты</LmnuCustObjs>
+    <LmnuClientReps>Клиенты</LmnuClientReps>
+    <LmnuAgentsRep>Агенты</LmnuAgentsRep>
+    <LmnuSecIndex>Индекс регионов</LmnuSecIndex>
+    <LmnuAddSec>Новая зона</LmnuAddSec>
+    <LmnuEditSec>Объекты управления</LmnuEditSec>
+    <LmnuEditNews>Руководство новостями</LmnuEditNews>
+    <LmnuNewNews>Свежие новости</LmnuNewNews>
+    <LmnuNewPoll>Новый опрос</LmnuNewPoll>
+    <LmnuEditPoll>Управление опросами</LmnuEditPoll>
+    <LmnuEditField>Управление полями</LmnuEditField>
+    <LmnuNewFld>Новое поле</LmnuNewFld>
+    <LmnuPerObj>Приспосабливать Объект</LmnuPerObj>
+    <LtxtClientsRep>Отчеты для клиентов</LtxtClientsRep>
+    <LtxtAgentsRep>Отчеты для агентов</LtxtAgentsRep>
+    <LmnuUpdates>Обновления</LmnuUpdates>
+    <LmnuLic>Лицензия</LmnuLic>
+    <LmnuEditRep>Управление отчетами</LmnuEditRep>
+    <LmnuNewRep>Новый отчет</LmnuNewRep>
+    <LmnuEditBranch>Управление филиалами</LmnuEditBranch>
+    <LmnuReps>Отчеты</LmnuReps>
+    <LmnuBanners>Баннеры</LmnuBanners>
+    <LmnuNewBanner>Новый баннер</LmnuNewBanner>
+    <LmnuEditBanner>Изменить баннер</LmnuEditBanner>
+    <LmnuCatNav>Навигатор каталога</LmnuCatNav>
+    <LmnuMyData>Мои данные</LmnuMyData>
+    <LmnuSearchTree>Дерево поиска</LmnuSearchTree>
+    <LmnuLanguages>Языки</LmnuLanguages>
+    <LmnuUsersLng>Язык пользователей</LmnuUsersLng>
+    <LmnuAddForm>Навая форма</LmnuAddForm>
+    <LmnuEditForm>Управление формами</LmnuEditForm>
+    <LtxtMoreOpt>Дополнительные возможности</LtxtMoreOpt>
+    <LmnuPrintTitle>Напечатать название </LmnuPrintTitle>
+    <LmnuLogo>Логотип</LmnuLogo>
+    <LmnuCardDet>Управление карточками</LmnuCardDet>
+    <LtxtSysProp> Настройки системы</LtxtSysProp>
+    <LmnuPaySis>Система платежей</LmnuPaySis>
+    <LmnuShipSis>Система доставки</LmnuShipSis>
+    <LmnuCustomSearch>Поиск деталей</LmnuCustomSearch>
+    <LmnuEditSearch>Изменить поиск </LmnuEditSearch>
+    <LmnuNewSearch>Поиск новостей</LmnuNewSearch>
+    <LmnuCustomSearchCl>Поиск карточек</LmnuCustomSearchCl>
+    <LmnuInformer>задачи монитора</LmnuInformer>
+    <LttlEditMonitor> Изменить задачу монитора</LttlEditMonitor>
+    <LttlAddMonitor>Добавить задачу контроля</LttlAddMonitor>
+    <LmnuCustLogin>Внешний вход</LmnuCustLogin>
+    <LmnuObjConfCols>&lt;--&gt;</LmnuObjConfCols>
+    <LmnuPrint>&lt;--&gt;</LmnuPrint>
+    <LmnuCustDec>&lt;--&gt;</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtCart>Košík</DtxtCart>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtForms>Formuláře</DtxtForms>
+    <LmnuGenOpt>Všeobecné možnosti</LmnuGenOpt>
+    <LmnuHomeOpt>Domů</LmnuHomeOpt>
+    <LmnuCatPropOpt>Vlastnosti katalogu</LmnuCatPropOpt>
+    <LmnuShopCart>Nákupní košík</LmnuShopCart>
+    <LmnuInv>Zásoby</LmnuInv>
+    <LmnuBranches>Pobočky</LmnuBranches>
+    <LmnuObjsConf>Konfigurace objektů</LmnuObjsConf>
+    <LmnuClientPList>Ceník klienta</LmnuClientPList>
+    <LmnuAgentPList>Ceník agenta</LmnuAgentPList>
+    <LmnuAlerts>Varování</LmnuAlerts>
+    <LmnuClientDes>Vzor klienta</LmnuClientDes>
+    <LmnuAnonSes>Anonymní relace</LmnuAnonSes>
+    <LmnuSec>Sekce</LmnuSec>
+    <LmnuEmails>E-maily</LmnuEmails>
+    <LmnuNews>Novinky</LmnuNews>
+    <LtxtPolls>Ankety</LtxtPolls>
+    <LmnuPwd>Heslo</LmnuPwd>
+    <LmnuClientsAccess>Klienti</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agenti</LmnuAgentsAccess>
+    <LmnuDocFlow>Tok dokumentů</LmnuDocFlow>
+    <LtxtAut>Autorizace</LtxtAut>
+    <LmnuItemDet>Údaje o položce</LmnuItemDet>
+    <LmnuBtchDet>Údaje o dávce</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Jiné názvy</LmnuAlterNames>
+    <LmnuCustCat>Katalog</LmnuCustCat>
+    <LmnuCartMiniRep>Mini report košíku</LmnuCartMiniRep>
+    <LmnuNumCod>Číselné kódování</LmnuNumCod>
+    <LmnuCustObjs>Objekty</LmnuCustObjs>
+    <LmnuClientReps>Klienti</LmnuClientReps>
+    <LmnuAgentsRep>Agenti</LmnuAgentsRep>
+    <LmnuSecIndex>Index sekce</LmnuSecIndex>
+    <LmnuAddSec>Přidat sekci</LmnuAddSec>
+    <LmnuEditSec>Upravit sekci</LmnuEditSec>
+    <LmnuEditNews>Upravit Novinky</LmnuEditNews>
+    <LmnuNewNews>Přidat novinku</LmnuNewNews>
+    <LmnuNewPoll>Nová anketa</LmnuNewPoll>
+    <LmnuEditPoll>Upravit anketu</LmnuEditPoll>
+    <LmnuEditField>Upravit pole</LmnuEditField>
+    <LmnuNewFld>Nové pole</LmnuNewFld>
+    <LmnuPerObj>Upravit objekt</LmnuPerObj>
+    <LtxtClientsRep>Klientské reporty</LtxtClientsRep>
+    <LtxtAgentsRep>Report o agentech</LtxtAgentsRep>
+    <LmnuUpdates>Aktualizace</LmnuUpdates>
+    <LmnuLic>Licence</LmnuLic>
+    <LmnuEditRep>Upravit report</LmnuEditRep>
+    <LmnuNewRep>Nový report</LmnuNewRep>
+    <LmnuEditBranch>Upravit pobočku</LmnuEditBranch>
+    <LmnuReps>Reporty</LmnuReps>
+    <LmnuBanners>Bannery</LmnuBanners>
+    <LmnuNewBanner>Nový banner</LmnuNewBanner>
+    <LmnuEditBanner>Upravit banner</LmnuEditBanner>
+    <LmnuCatNav>Procházení katalogu</LmnuCatNav>
+    <LmnuMyData>Moje údaje</LmnuMyData>
+    <LmnuSearchTree>Vyhledávací strom</LmnuSearchTree>
+    <LmnuLanguages>Jazyky</LmnuLanguages>
+    <LmnuUsersLng>Jazyky uživatele</LmnuUsersLng>
+    <LmnuAddForm>Přidat formulář</LmnuAddForm>
+    <LmnuEditForm>Upravit formulář</LmnuEditForm>
+    <LtxtMoreOpt>Víc možností</LtxtMoreOpt>
+    <LmnuPrintTitle>Tisk názvu</LmnuPrintTitle>
+    <LmnuLogo>Loga</LmnuLogo>
+    <LmnuCardDet>Údaje o kartě</LmnuCardDet>
+    <LtxtSysProp>Nastavení systému</LtxtSysProp>
+    <LmnuPaySis>Systém plateb</LmnuPaySis>
+    <LmnuShipSis>Systém zasílání</LmnuShipSis>
+    <LmnuCustomSearch>Hledání položek</LmnuCustomSearch>
+    <LmnuEditSearch>Upravit vyhledávání</LmnuEditSearch>
+    <LmnuNewSearch>Nové hledání</LmnuNewSearch>
+    <LmnuCustomSearchCl>Vyhledávání OP</LmnuCustomSearchCl>
+    <LmnuInformer>Monitor úkolu</LmnuInformer>
+    <LttlEditMonitor>Upravit monitor úkolu</LttlEditMonitor>
+    <LttlAddMonitor>Přidat Monitor úkolu</LttlAddMonitor>
+    <LmnuCustLogin>Externí přihlášení</LmnuCustLogin>
+    <LmnuObjConfCols>&lt;--&gt;</LmnuObjConfCols>
+    <LmnuPrint>&lt;--&gt;</LmnuPrint>
+    <LmnuCustDec>&lt;--&gt;</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtCart>Koszyk</DtxtCart>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtForms>Formularze</DtxtForms>
+    <LmnuGenOpt>Opcje ogólne</LmnuGenOpt>
+    <LmnuHomeOpt>Początek</LmnuHomeOpt>
+    <LmnuCatPropOpt>Katalog właściwości</LmnuCatPropOpt>
+    <LmnuShopCart>Koszyk</LmnuShopCart>
+    <LmnuInv>Zapas</LmnuInv>
+    <LmnuBranches>Oddziały</LmnuBranches>
+    <LmnuObjsConf>Konfiguracja przedmiotów</LmnuObjsConf>
+    <LmnuClientPList>Cennik Klienta</LmnuClientPList>
+    <LmnuAgentPList>Cennik Sprzedawcy</LmnuAgentPList>
+    <LmnuAlerts>Alerty</LmnuAlerts>
+    <LmnuClientDes>Projekt klienta</LmnuClientDes>
+    <LmnuAnonSes>Anonimowa sesja</LmnuAnonSes>
+    <LmnuSec>Działy</LmnuSec>
+    <LmnuEmails>E-maile</LmnuEmails>
+    <LmnuNews>Wiadomości</LmnuNews>
+    <LtxtPolls>Ankiety</LtxtPolls>
+    <LmnuPwd>Hasło</LmnuPwd>
+    <LmnuClientsAccess>Klienci</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agenci</LmnuAgentsAccess>
+    <LmnuDocFlow>Przepływ dokumentów</LmnuDocFlow>
+    <LtxtAut>Autoryzacje</LtxtAut>
+    <LmnuItemDet>Szczegóły pozycji</LmnuItemDet>
+    <LmnuBtchDet>Szczegóły partii</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Nazwy alternatywne</LmnuAlterNames>
+    <LmnuCustCat>Katalog</LmnuCustCat>
+    <LmnuCartMiniRep>Mini- raport koszyka</LmnuCartMiniRep>
+    <LmnuNumCod>Numer kodujący</LmnuNumCod>
+    <LmnuCustObjs>przedmioty</LmnuCustObjs>
+    <LmnuClientReps>Klienci</LmnuClientReps>
+    <LmnuAgentsRep>Agenci</LmnuAgentsRep>
+    <LmnuSecIndex>Spis działów</LmnuSecIndex>
+    <LmnuAddSec>Dodaj dział</LmnuAddSec>
+    <LmnuEditSec>Edytuj dział</LmnuEditSec>
+    <LmnuEditNews>Edytuj wiadomości</LmnuEditNews>
+    <LmnuNewNews>Dodaj wiadomość</LmnuNewNews>
+    <LmnuNewPoll>Nowa ankieta</LmnuNewPoll>
+    <LmnuEditPoll>Edytuj ankietę</LmnuEditPoll>
+    <LmnuEditField>Edytuj pole</LmnuEditField>
+    <LmnuNewFld>Nowe pole</LmnuNewFld>
+    <LmnuPerObj>Zindywidualizowanie przedmiotu/ Przygotowanie przedmiotu zgodnie z życzeniami klienta</LmnuPerObj>
+    <LtxtClientsRep>Raporty klientów</LtxtClientsRep>
+    <LtxtAgentsRep>Raporty agentów</LtxtAgentsRep>
+    <LmnuUpdates>Uaktualnienia</LmnuUpdates>
+    <LmnuLic>Licencja</LmnuLic>
+    <LmnuEditRep>Edytuj raport</LmnuEditRep>
+    <LmnuNewRep>Nowy raport</LmnuNewRep>
+    <LmnuEditBranch>Edytuj partie</LmnuEditBranch>
+    <LmnuReps>Raporty</LmnuReps>
+    <LmnuBanners>Banery</LmnuBanners>
+    <LmnuNewBanner>Nowy baner</LmnuNewBanner>
+    <LmnuEditBanner>Edytuj baner</LmnuEditBanner>
+    <LmnuCatNav>nawigator katalogu</LmnuCatNav>
+    <LmnuMyData>Moje dane</LmnuMyData>
+    <LmnuSearchTree>Drzewo poszukiwań</LmnuSearchTree>
+    <LmnuLanguages>Języki</LmnuLanguages>
+    <LmnuUsersLng>Język użytkownika</LmnuUsersLng>
+    <LmnuAddForm>Dodaj formularz</LmnuAddForm>
+    <LmnuEditForm>Edytuj formularz</LmnuEditForm>
+    <LtxtMoreOpt>Więcej opcji</LtxtMoreOpt>
+    <LmnuPrintTitle>Drukuj nagłówek</LmnuPrintTitle>
+    <LmnuLogo>Loga</LmnuLogo>
+    <LmnuCardDet>Szczegóły karty</LmnuCardDet>
+    <LtxtSysProp>Ustawienia systemu</LtxtSysProp>
+    <LmnuPaySis>Systemy płatności</LmnuPaySis>
+    <LmnuShipSis>System wysyłki</LmnuShipSis>
+    <LmnuCustomSearch>Poszukiwanie pozycji</LmnuCustomSearch>
+    <LmnuEditSearch>Edycja poszukiwania</LmnuEditSearch>
+    <LmnuNewSearch>Nowe poszukiwanie</LmnuNewSearch>
+    <LmnuCustomSearchCl>Poszukiwanie BP</LmnuCustomSearchCl>
+    <LmnuInformer>Ekran zadań </LmnuInformer>
+    <LttlEditMonitor>Edytuj ekran zadań </LttlEditMonitor>
+    <LttlAddMonitor>Dodaj ekran zadań</LttlAddMonitor>
+    <LmnuCustLogin>Login zewnętrzny</LmnuCustLogin>
+    <LmnuObjConfCols>Potwierdzenie przedmiotu</LmnuObjConfCols>
+    <LmnuPrint>Wydruk przedmiotu</LmnuPrint>
+    <LmnuCustDec>Miejsca po przecinku</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtCart>Košík</DtxtCart>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtForms>Formuláre</DtxtForms>
+    <LmnuGenOpt>Všeobecné možnosti</LmnuGenOpt>
+    <LmnuHomeOpt>Úvod</LmnuHomeOpt>
+    <LmnuCatPropOpt>Vlastnosti katalógu</LmnuCatPropOpt>
+    <LmnuShopCart>Nákupný košík</LmnuShopCart>
+    <LmnuInv>Inventár</LmnuInv>
+    <LmnuBranches>Pobočky</LmnuBranches>
+    <LmnuObjsConf>Konfigurácia objektu</LmnuObjsConf>
+    <LmnuClientPList>Cenník klienta</LmnuClientPList>
+    <LmnuAgentPList>Cenník agenta</LmnuAgentPList>
+    <LmnuAlerts>Upozornenia</LmnuAlerts>
+    <LmnuClientDes>Dizajn klienta</LmnuClientDes>
+    <LmnuAnonSes>Anonymná session</LmnuAnonSes>
+    <LmnuSec>Sekcie</LmnuSec>
+    <LmnuEmails>E-maily</LmnuEmails>
+    <LmnuNews>Novinky</LmnuNews>
+    <LtxtPolls>Ankety</LtxtPolls>
+    <LmnuPwd>Heslo</LmnuPwd>
+    <LmnuClientsAccess>Klienti</LmnuClientsAccess>
+    <LmnuAgentsAccess>Agenti</LmnuAgentsAccess>
+    <LmnuDocFlow>Tok dokumentov</LmnuDocFlow>
+    <LtxtAut>Autorizácie</LtxtAut>
+    <LmnuItemDet>Udaje o položke</LmnuItemDet>
+    <LmnuBtchDet>Udaje o šarži</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>Alternatívne názvy</LmnuAlterNames>
+    <LmnuCustCat>Katalóg</LmnuCustCat>
+    <LmnuCartMiniRep>Mini-výkaz košíka</LmnuCartMiniRep>
+    <LmnuNumCod>Kódovanie čísel</LmnuNumCod>
+    <LmnuCustObjs>Objekty</LmnuCustObjs>
+    <LmnuClientReps>Klienti</LmnuClientReps>
+    <LmnuAgentsRep>Agenti</LmnuAgentsRep>
+    <LmnuSecIndex>Zoznam sekcie</LmnuSecIndex>
+    <LmnuAddSec>Pridať sekciu</LmnuAddSec>
+    <LmnuEditSec>Editovať sekciu</LmnuEditSec>
+    <LmnuEditNews>Editovať správy</LmnuEditNews>
+    <LmnuNewNews>Pridať správy</LmnuNewNews>
+    <LmnuNewPoll>Nový dotazník</LmnuNewPoll>
+    <LmnuEditPoll>Editovať dotazník</LmnuEditPoll>
+    <LmnuEditField>Editovať políčko</LmnuEditField>
+    <LmnuNewFld>Nové políčko</LmnuNewFld>
+    <LmnuPerObj>Prispôsobiť objekt na mieru</LmnuPerObj>
+    <LtxtClientsRep>Výkazy klienta</LtxtClientsRep>
+    <LtxtAgentsRep>Výkazy agenta</LtxtAgentsRep>
+    <LmnuUpdates>Aktualizácie</LmnuUpdates>
+    <LmnuLic>Licencia</LmnuLic>
+    <LmnuEditRep>Editovať výkaz</LmnuEditRep>
+    <LmnuNewRep>Nový výkaz</LmnuNewRep>
+    <LmnuEditBranch>Editovať pobočku</LmnuEditBranch>
+    <LmnuReps>Výkazy</LmnuReps>
+    <LmnuBanners>Banery</LmnuBanners>
+    <LmnuNewBanner>Nový baner</LmnuNewBanner>
+    <LmnuEditBanner>Editovať baner</LmnuEditBanner>
+    <LmnuCatNav>Navigátor katalógu</LmnuCatNav>
+    <LmnuMyData>Moje údaje</LmnuMyData>
+    <LmnuSearchTree>Vyhľadávací strom</LmnuSearchTree>
+    <LmnuLanguages>Jazyky</LmnuLanguages>
+    <LmnuUsersLng>Jazyk užívateľa</LmnuUsersLng>
+    <LmnuAddForm>Pridať formulár</LmnuAddForm>
+    <LmnuEditForm>Editovať formulár</LmnuEditForm>
+    <LtxtMoreOpt>Viac možností</LtxtMoreOpt>
+    <LmnuPrintTitle>Názov tlače</LmnuPrintTitle>
+    <LmnuLogo>Logá</LmnuLogo>
+    <LmnuCardDet>Údaje karty</LmnuCardDet>
+    <LtxtSysProp>Systémové nastavenia</LtxtSysProp>
+    <LmnuPaySis>Platobné systémy</LmnuPaySis>
+    <LmnuShipSis>Prepravný systém</LmnuShipSis>
+    <LmnuCustomSearch>Vyhľadávanie položiek</LmnuCustomSearch>
+    <LmnuEditSearch>Editovať vyhľadávanie</LmnuEditSearch>
+    <LmnuNewSearch>Nové vyhľadávanie</LmnuNewSearch>
+    <LmnuCustomSearchCl>Vyhľadávanie Obchodných partnerov</LmnuCustomSearchCl>
+    <LmnuInformer>Monitor úloh</LmnuInformer>
+    <LttlEditMonitor>Editovať monitor úloh</LttlEditMonitor>
+    <LttlAddMonitor>Pridať monitor úloh</LttlAddMonitor>
+    <LmnuCustLogin>Externé prihlásenie</LmnuCustLogin>
+    <LmnuObjConfCols>Potvrdenie objektu</LmnuObjConfCols>
+    <LmnuPrint>Tlač objektu</LmnuPrint>
+    <LmnuCustDec>Desatinné</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtCart>&lt;--&gt;</DtxtCart>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtForms>&lt;--&gt;</DtxtForms>
+    <LmnuGenOpt>&lt;--&gt;</LmnuGenOpt>
+    <LmnuHomeOpt>&lt;--&gt;</LmnuHomeOpt>
+    <LmnuCatPropOpt>&lt;--&gt;</LmnuCatPropOpt>
+    <LmnuShopCart>&lt;--&gt;</LmnuShopCart>
+    <LmnuInv>&lt;--&gt;</LmnuInv>
+    <LmnuBranches>&lt;--&gt;</LmnuBranches>
+    <LmnuObjsConf>&lt;--&gt;</LmnuObjsConf>
+    <LmnuClientPList>&lt;--&gt;</LmnuClientPList>
+    <LmnuAgentPList>&lt;--&gt;</LmnuAgentPList>
+    <LmnuAlerts>&lt;--&gt;</LmnuAlerts>
+    <LmnuClientDes>&lt;--&gt;</LmnuClientDes>
+    <LmnuAnonSes>&lt;--&gt;</LmnuAnonSes>
+    <LmnuSec>&lt;--&gt;</LmnuSec>
+    <LmnuEmails>&lt;--&gt;</LmnuEmails>
+    <LmnuNews>&lt;--&gt;</LmnuNews>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LmnuPwd>&lt;--&gt;</LmnuPwd>
+    <LmnuClientsAccess>&lt;--&gt;</LmnuClientsAccess>
+    <LmnuAgentsAccess>&lt;--&gt;</LmnuAgentsAccess>
+    <LmnuDocFlow>&lt;--&gt;</LmnuDocFlow>
+    <LtxtAut>&lt;--&gt;</LtxtAut>
+    <LmnuItemDet>&lt;--&gt;</LmnuItemDet>
+    <LmnuBtchDet>&lt;--&gt;</LmnuBtchDet>
+    <LmnuUDF>&lt;--&gt;</LmnuUDF>
+    <LmnuAlterNames>&lt;--&gt;</LmnuAlterNames>
+    <LmnuCustCat>&lt;--&gt;</LmnuCustCat>
+    <LmnuCartMiniRep>&lt;--&gt;</LmnuCartMiniRep>
+    <LmnuNumCod>&lt;--&gt;</LmnuNumCod>
+    <LmnuCustObjs>&lt;--&gt;</LmnuCustObjs>
+    <LmnuClientReps>&lt;--&gt;</LmnuClientReps>
+    <LmnuAgentsRep>&lt;--&gt;</LmnuAgentsRep>
+    <LmnuSecIndex>&lt;--&gt;</LmnuSecIndex>
+    <LmnuAddSec>&lt;--&gt;</LmnuAddSec>
+    <LmnuEditSec>&lt;--&gt;</LmnuEditSec>
+    <LmnuEditNews>&lt;--&gt;</LmnuEditNews>
+    <LmnuNewNews>&lt;--&gt;</LmnuNewNews>
+    <LmnuNewPoll>&lt;--&gt;</LmnuNewPoll>
+    <LmnuEditPoll>&lt;--&gt;</LmnuEditPoll>
+    <LmnuEditField>&lt;--&gt;</LmnuEditField>
+    <LmnuNewFld>&lt;--&gt;</LmnuNewFld>
+    <LmnuPerObj>&lt;--&gt;</LmnuPerObj>
+    <LtxtClientsRep>&lt;--&gt;</LtxtClientsRep>
+    <LtxtAgentsRep>&lt;--&gt;</LtxtAgentsRep>
+    <LmnuUpdates>&lt;--&gt;</LmnuUpdates>
+    <LmnuLic>&lt;--&gt;</LmnuLic>
+    <LmnuEditRep>&lt;--&gt;</LmnuEditRep>
+    <LmnuNewRep>&lt;--&gt;</LmnuNewRep>
+    <LmnuEditBranch>&lt;--&gt;</LmnuEditBranch>
+    <LmnuReps>&lt;--&gt;</LmnuReps>
+    <LmnuBanners>&lt;--&gt;</LmnuBanners>
+    <LmnuNewBanner>&lt;--&gt;</LmnuNewBanner>
+    <LmnuEditBanner>&lt;--&gt;</LmnuEditBanner>
+    <LmnuCatNav>&lt;--&gt;</LmnuCatNav>
+    <LmnuMyData>&lt;--&gt;</LmnuMyData>
+    <LmnuSearchTree>&lt;--&gt;</LmnuSearchTree>
+    <LmnuLanguages>&lt;--&gt;</LmnuLanguages>
+    <LmnuUsersLng>&lt;--&gt;</LmnuUsersLng>
+    <LmnuAddForm>&lt;--&gt;</LmnuAddForm>
+    <LmnuEditForm>&lt;--&gt;</LmnuEditForm>
+    <LtxtMoreOpt>&lt;--&gt;</LtxtMoreOpt>
+    <LmnuPrintTitle>&lt;--&gt;</LmnuPrintTitle>
+    <LmnuLogo>&lt;--&gt;</LmnuLogo>
+    <LmnuCardDet>&lt;--&gt;</LmnuCardDet>
+    <LtxtSysProp>&lt;--&gt;</LtxtSysProp>
+    <LmnuPaySis>&lt;--&gt;</LmnuPaySis>
+    <LmnuShipSis>&lt;--&gt;</LmnuShipSis>
+    <LmnuCustomSearch>&lt;--&gt;</LmnuCustomSearch>
+    <LmnuEditSearch>&lt;--&gt;</LmnuEditSearch>
+    <LmnuNewSearch>&lt;--&gt;</LmnuNewSearch>
+    <LmnuCustomSearchCl>&lt;--&gt;</LmnuCustomSearchCl>
+    <LmnuInformer>&lt;--&gt;</LmnuInformer>
+    <LttlEditMonitor>&lt;--&gt;</LttlEditMonitor>
+    <LttlAddMonitor>&lt;--&gt;</LttlAddMonitor>
+    <LmnuCustLogin>&lt;--&gt;</LmnuCustLogin>
+    <LmnuObjConfCols>&lt;--&gt;</LmnuObjConfCols>
+    <LmnuPrint>&lt;--&gt;</LmnuPrint>
+    <LmnuCustDec>&lt;--&gt;</LmnuCustDec>
+    <LmnuAutGrp>&lt;--&gt;</LmnuAutGrp>
+    <LmnuAddAutGrp>&lt;--&gt;</LmnuAddAutGrp>
+    <LmnuEditAutGrp>&lt;--&gt;</LmnuEditAutGrp>
+    <LmnuCartDet>&lt;--&gt;</LmnuCartDet>
+    <LmnuBreakDown>&lt;--&gt;</LmnuBreakDown>
+    <LmnuiPO>&lt;--&gt;</LmnuiPO>
+    <LtxtOperations>&lt;--&gt;</LtxtOperations>
+    <LmnuEditOp>&lt;--&gt;</LmnuEditOp>
+    <LmnuNewOp>&lt;--&gt;</LmnuNewOp>
+    <LmnuFooter>&lt;--&gt;</LmnuFooter>
+    <LmnuLayout>&lt;--&gt;</LmnuLayout>
+    <LmnuSmallCat>&lt;--&gt;</LmnuSmallCat>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtCart>DtxtCart</DtxtCart>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtForms>DtxtForms</DtxtForms>
+    <LmnuGenOpt>LmnuGenOpt</LmnuGenOpt>
+    <LmnuHomeOpt>LmnuHomeOpt</LmnuHomeOpt>
+    <LmnuCatPropOpt>LmnuCatPropOpt</LmnuCatPropOpt>
+    <LmnuShopCart>LmnuShopCart</LmnuShopCart>
+    <LmnuInv>LmnuInv</LmnuInv>
+    <LmnuBranches>LmnuBranches</LmnuBranches>
+    <LmnuObjsConf>LmnuObjsConf</LmnuObjsConf>
+    <LmnuClientPList>LmnuClientPList</LmnuClientPList>
+    <LmnuAgentPList>LmnuAgentPList</LmnuAgentPList>
+    <LmnuAlerts>LmnuAlerts</LmnuAlerts>
+    <LmnuClientDes>LmnuClientDes</LmnuClientDes>
+    <LmnuAnonSes>LmnuAnonSes</LmnuAnonSes>
+    <LmnuSec>LmnuSec</LmnuSec>
+    <LmnuEmails>LmnuEmails</LmnuEmails>
+    <LmnuNews>LmnuNews</LmnuNews>
+    <LtxtPolls>LtxtPolls</LtxtPolls>
+    <LmnuPwd>LmnuPwd</LmnuPwd>
+    <LmnuClientsAccess>LmnuClientsAccess</LmnuClientsAccess>
+    <LmnuAgentsAccess>LmnuAgentsAccess</LmnuAgentsAccess>
+    <LmnuDocFlow>LmnuDocFlow</LmnuDocFlow>
+    <LtxtAut>LtxtAut</LtxtAut>
+    <LmnuItemDet>LmnuItemDet</LmnuItemDet>
+    <LmnuBtchDet>LmnuBtchDet</LmnuBtchDet>
+    <LmnuUDF>LmnuUDF</LmnuUDF>
+    <LmnuAlterNames>LmnuAlterNames</LmnuAlterNames>
+    <LmnuCustCat>LmnuCustCat</LmnuCustCat>
+    <LmnuCartMiniRep>LmnuCartMiniRep</LmnuCartMiniRep>
+    <LmnuNumCod>LmnuNumCod</LmnuNumCod>
+    <LmnuCustObjs>LmnuCustObjs</LmnuCustObjs>
+    <LmnuClientReps>LmnuClientReps</LmnuClientReps>
+    <LmnuAgentsRep>LmnuAgentsRep</LmnuAgentsRep>
+    <LmnuSecIndex>LmnuSecIndex</LmnuSecIndex>
+    <LmnuAddSec>LmnuAddSec</LmnuAddSec>
+    <LmnuEditSec>LmnuEditSec</LmnuEditSec>
+    <LmnuEditNews>LmnuEditNews</LmnuEditNews>
+    <LmnuNewNews>LmnuNewNews</LmnuNewNews>
+    <LmnuNewPoll>LmnuNewPoll</LmnuNewPoll>
+    <LmnuEditPoll>LmnuEditPoll</LmnuEditPoll>
+    <LmnuEditField>LmnuEditField</LmnuEditField>
+    <LmnuNewFld>LmnuNewFld</LmnuNewFld>
+    <LmnuPerObj>LmnuPerObj</LmnuPerObj>
+    <LtxtClientsRep>LtxtClientsRep</LtxtClientsRep>
+    <LtxtAgentsRep>LtxtAgentsRep</LtxtAgentsRep>
+    <LmnuUpdates>LmnuUpdates</LmnuUpdates>
+    <LmnuLic>LmnuLic</LmnuLic>
+    <LmnuEditRep>LmnuEditRep</LmnuEditRep>
+    <LmnuNewRep>LmnuNewRep</LmnuNewRep>
+    <LmnuEditBranch>LmnuEditBranch</LmnuEditBranch>
+    <LmnuReps>LmnuReps</LmnuReps>
+    <LmnuBanners>LmnuBanners</LmnuBanners>
+    <LmnuNewBanner>LmnuNewBanner</LmnuNewBanner>
+    <LmnuEditBanner>LmnuEditBanner</LmnuEditBanner>
+    <LmnuCatNav>LmnuCatNav</LmnuCatNav>
+    <LmnuMyData>LmnuMyData</LmnuMyData>
+    <LmnuSearchTree>LmnuSearchTree</LmnuSearchTree>
+    <LmnuLanguages>LmnuLanguages</LmnuLanguages>
+    <LmnuUsersLng>LmnuUsersLng</LmnuUsersLng>
+    <LmnuAddForm>LmnuAddForm</LmnuAddForm>
+    <LmnuEditForm>LmnuEditForm</LmnuEditForm>
+    <LtxtMoreOpt>LtxtMoreOpt</LtxtMoreOpt>
+    <LmnuPrintTitle>LmnuPrintTitle</LmnuPrintTitle>
+    <LmnuLogo>LmnuLogo</LmnuLogo>
+    <LmnuCardDet>LmnuCardDet</LmnuCardDet>
+    <LtxtSysProp>LtxtSysProp</LtxtSysProp>
+    <LmnuPaySis>LmnuPaySis</LmnuPaySis>
+    <LmnuShipSis>LmnuShipSis</LmnuShipSis>
+    <LmnuCustomSearch>LmnuCustomSearch</LmnuCustomSearch>
+    <LmnuEditSearch>LmnuEditSearch</LmnuEditSearch>
+    <LmnuNewSearch>LmnuNewSearch</LmnuNewSearch>
+    <LmnuCustomSearchCl>LmnuCustomSearchCl</LmnuCustomSearchCl>
+    <LmnuInformer>LmnuInformer</LmnuInformer>
+    <LttlEditMonitor>LttlEditMonitor</LttlEditMonitor>
+    <LttlAddMonitor>LttlAddMonitor</LttlAddMonitor>
+    <LmnuCustLogin>LmnuCustLogin</LmnuCustLogin>
+    <LmnuObjConfCols>LmnuObjConfCols</LmnuObjConfCols>
+    <LmnuPrint>LmnuPrint</LmnuPrint>
+    <LmnuCustDec>LmnuCustDec</LmnuCustDec>
+    <LmnuAutGrp>LmnuAutGrp</LmnuAutGrp>
+    <LmnuAddAutGrp>LmnuAddAutGrp</LmnuAddAutGrp>
+    <LmnuEditAutGrp>LmnuEditAutGrp</LmnuEditAutGrp>
+    <LmnuCartDet>LmnuCartDet</LmnuCartDet>
+    <LmnuBreakDown>LmnuBreakDown</LmnuBreakDown>
+    <LmnuiPO>LmnuiPO</LmnuiPO>
+    <LtxtOperations>LtxtOperations</LtxtOperations>
+    <LmnuEditOp>LmnuEditOp</LmnuEditOp>
+    <LmnuNewOp>LmnuNewOp</LmnuNewOp>
+    <LmnuFooter>LmnuFooter</LmnuFooter>
+    <LmnuLayout>LmnuLayout</LmnuLayout>
+    <LmnuSmallCat>LmnuSmallCat</LmnuSmallCat>
+  </language>
+</languages>

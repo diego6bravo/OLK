@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlEditNote>Edit Note</LttlEditNote>
+    <LttlAddNote>Add Note</LttlAddNote>
+    <LtxtValFldNam>Please enter the note name</LtxtValFldNam>
+    <LtxtValFldLength>The "Name" field has a 50 character limit.</LtxtValFldLength>
+    <LtxtValNote>Please enter the note</LtxtValNote>
+    <LtxtValFldMaxCharNote>The "Note" field has a 254 character limit.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtNote>Nota</DtxtNote>
+    <LttlEditNote>Editar Nota</LttlEditNote>
+    <LttlAddNote>Agregar Nota</LttlAddNote>
+    <LtxtValFldNam>Debe introducir el nombre de la nota</LtxtValFldNam>
+    <LtxtValFldLength>El campo "Nombre" tiene un límite de 50 caracteres</LtxtValFldLength>
+    <LtxtValNote>Debe introducir la nota</LtxtValNote>
+    <LtxtValFldMaxCharNote>El campo "Nota" tiene un límite de 254 caracteres</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtNote>הערה</DtxtNote>
+    <LttlEditNote>ערוך הערה</LttlEditNote>
+    <LttlAddNote>הוסף הערה</LttlAddNote>
+    <LtxtValFldNam>חסר "שם" לשדה הערה</LtxtValFldNam>
+    <LtxtValFldLength>"שם" השדה  מוגבל ל-50 תווים</LtxtValFldLength>
+    <LtxtValNote>חסר שדה "הערה"</LtxtValNote>
+    <LtxtValFldMaxCharNote>השדה "הערה" מוגבל ל-254 תווים</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlEditNote>Edit Note</LttlEditNote>
+    <LttlAddNote>Add Note</LttlAddNote>
+    <LtxtValFldNam>Please enter the note name</LtxtValFldNam>
+    <LtxtValFldLength>The "Name" field has a 50 character limit.</LtxtValFldLength>
+    <LtxtValNote>Please enter the note</LtxtValNote>
+    <LtxtValFldMaxCharNote>The "Note" field has a 254 character limit.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtNote>Nota</DtxtNote>
+    <LttlEditNote>Editar Nota</LttlEditNote>
+    <LttlAddNote>Adicionar Nota</LttlAddNote>
+    <LtxtValFldNam>Por favor, insira o nome da nota.</LtxtValFldNam>
+    <LtxtValFldLength>O campo "Nome" tem um limite de 50 caracteres.</LtxtValFldLength>
+    <LtxtValNote>Por favor, insira a nota.</LtxtValNote>
+    <LtxtValFldMaxCharNote>O campo "Nota" tem um limite de 254 caracteres.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtNote>Note</DtxtNote>
+    <LttlEditNote>Éditer la note</LttlEditNote>
+    <LttlAddNote>Ajouter la note</LttlAddNote>
+    <LtxtValFldNam>Devez-vous insérer le nom de la note</LtxtValFldNam>
+    <LtxtValFldLength>Le domaine "Nom" a une limite de 50 caractères</LtxtValFldLength>
+    <LtxtValNote>Devez-vous insérer la note</LtxtValNote>
+    <LtxtValFldMaxCharNote>Le domaine "Note" a une limite de 254 caractères</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtNote>Notiz</DtxtNote>
+    <LttlEditNote>Notiz bearbeiten</LttlEditNote>
+    <LttlAddNote>Notiz hinzufügen</LttlAddNote>
+    <LtxtValFldNam>Bitte geben Sie den Notiznamen an</LtxtValFldNam>
+    <LtxtValFldLength>Das Namensfeld hat maximal 50 Zeichen.</LtxtValFldLength>
+    <LtxtValNote>Bitte geben Sie die Notiz ein</LtxtValNote>
+    <LtxtValFldMaxCharNote>Das Notizfeld hat maximal 254 Zeichen.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtNote>Примечание</DtxtNote>
+    <LttlEditNote>Изменить примечание</LttlEditNote>
+    <LttlAddNote>Добавить примечание</LttlAddNote>
+    <LtxtValFldNam>Примечание в поле отсутствует имя</LtxtValFldNam>
+    <LtxtValFldLength>Поле "Имя" ограничены до 50 символов</LtxtValFldLength>
+    <LtxtValNote>Отсутствует поле "Примечание"</LtxtValNote>
+    <LtxtValFldMaxCharNote>Поле "Примечание" ограничено, в 254 символов</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LttlEditNote>Upravit poznámku</LttlEditNote>
+    <LttlAddNote>Přidat poznámku</LttlAddNote>
+    <LtxtValFldNam>Zadejte prosím název poznámky</LtxtValFldNam>
+    <LtxtValFldLength>Pole "Název" má limit 50 znaků.</LtxtValFldLength>
+    <LtxtValNote>Vložte prosím poznámku</LtxtValNote>
+    <LtxtValFldMaxCharNote>Pole "Poznámka" má limit 254 znaků.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtNote>Uwaga</DtxtNote>
+    <LttlEditNote>Edytuj uwagę </LttlEditNote>
+    <LttlAddNote>Dodaj uwagę </LttlAddNote>
+    <LtxtValFldNam>Proszę wprowadź nazwę uwagi</LtxtValFldNam>
+    <LtxtValFldLength>Pole "nazwa" ma limit do 50 znaków</LtxtValFldLength>
+    <LtxtValNote>Proszę wprowadź uwagę </LtxtValNote>
+    <LtxtValFldMaxCharNote>Pole "Uwaga" ma limit do 254 znaków</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtNote>Poznámka</DtxtNote>
+    <LttlEditNote>Editovať poznámku</LttlEditNote>
+    <LttlAddNote>Pridať poznámku</LttlAddNote>
+    <LtxtValFldNam>Prosím zadajte názov poznámky</LtxtValFldNam>
+    <LtxtValFldLength>Políčko "Názov" má limit 50 znakov.</LtxtValFldLength>
+    <LtxtValNote>Prosím zadajte poznámku</LtxtValNote>
+    <LtxtValFldMaxCharNote>Políčko "Poznámka" má limit 254 znakov.</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtConfirm>&lt;--&gt;</DtxtConfirm>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <LttlEditNote>&lt;--&gt;</LttlEditNote>
+    <LttlAddNote>&lt;--&gt;</LttlAddNote>
+    <LtxtValFldNam>&lt;--&gt;</LtxtValFldNam>
+    <LtxtValFldLength>&lt;--&gt;</LtxtValFldLength>
+    <LtxtValNote>&lt;--&gt;</LtxtValNote>
+    <LtxtValFldMaxCharNote>&lt;--&gt;</LtxtValFldMaxCharNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <LttlEditNote>LttlEditNote</LttlEditNote>
+    <LttlAddNote>LttlAddNote</LttlAddNote>
+    <LtxtValFldNam>LtxtValFldNam</LtxtValFldNam>
+    <LtxtValFldLength>LtxtValFldLength</LtxtValFldLength>
+    <LtxtValNote>LtxtValNote</LtxtValNote>
+    <LtxtValFldMaxCharNote>LtxtValFldMaxCharNote</LtxtValFldMaxCharNote>
+  </language>
+</languages>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>DATABASE UPDATE</LttlUpdDB>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>ACTUALIZACION DE BASE DE DATOS</LttlUpdDB>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LttlUpdDB>עידכון בסיס נתונים</LttlUpdDB>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>DATABASE UPDATE</LttlUpdDB>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>ATUALIZAÇĂO DA BASE DE DADOS
+	
+</LttlUpdDB>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>MISE À JOUR DE LA BASE DES DONNÉES</LttlUpdDB>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>Datenbank Update</LttlUpdDB>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>Обновление базы данных</LttlUpdDB>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>AKTUALIZACE DATABÁZE</LttlUpdDB>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>AKTUALIZACJA BAZY DANYCH</LttlUpdDB>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>AKTUALIZÁCIA DATABÁZY</LttlUpdDB>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>&lt;--&gt;</LttlUpdDB>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LttlUpdDB>LttlUpdDB</LttlUpdDB>
+  </language>
+</languages>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <LtxtRemoveItem>Remove Item</LtxtRemoveItem>
+    <LtxtConfRemItm>Are you sure you want to remove the item {0} from the shopping cart?</LtxtConfRemItm>
+    <LtxtComments>Comments</LtxtComments>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <LtxtRemoveItem>Eliminar Artículo</LtxtRemoveItem>
+    <LtxtConfRemItm>¿Está seguro que desea eliminar el artículo {0} de la canasta de compras?</LtxtConfRemItm>
+    <LtxtComments>Comentarios</LtxtComments>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtFor>ל</DtxtFor>
+    <LtxtRemoveItem>הסר פריט</LtxtRemoveItem>
+    <LtxtConfRemItm>האם להסיר פריט {0} מסל הקניות?</LtxtConfRemItm>
+    <LtxtComments>הערות</LtxtComments>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <LtxtRemoveItem>Remove Item</LtxtRemoveItem>
+    <LtxtConfRemItm>Are you sure you want to remove the item {0} from the shopping cart?</LtxtConfRemItm>
+    <LtxtComments>Comments</LtxtComments>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <LtxtRemoveItem>Excluir Item</LtxtRemoveItem>
+    <LtxtConfRemItm>Tem certeza que deseja excluir o item {0} do Carrinho de Compras?</LtxtConfRemItm>
+    <LtxtComments>Comentários</LtxtComments>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>Pour</DtxtFor>
+    <LtxtRemoveItem>&lt;--&gt;</LtxtRemoveItem>
+    <LtxtConfRemItm>&lt;--&gt;</LtxtConfRemItm>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Für</DtxtFor>
+    <LtxtRemoveItem>&lt;--&gt;</LtxtRemoveItem>
+    <LtxtConfRemItm>&lt;--&gt;</LtxtConfRemItm>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtFor>для</DtxtFor>
+    <LtxtRemoveItem>&lt;--&gt;</LtxtRemoveItem>
+    <LtxtConfRemItm>&lt;--&gt;</LtxtConfRemItm>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Pro</DtxtFor>
+    <LtxtRemoveItem>Odebrat položku</LtxtRemoveItem>
+    <LtxtConfRemItm>Jste si jistý/á, že chcete odstranit položku {0} z nákupního košíku?</LtxtConfRemItm>
+    <LtxtComments>Komentáře</LtxtComments>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Dla</DtxtFor>
+    <LtxtRemoveItem>Usuń pozycję</LtxtRemoveItem>
+    <LtxtConfRemItm>Czy jesteś pewien, że chcesz usunąć pozycje {0} z koszyka?</LtxtConfRemItm>
+    <LtxtComments>Uwagi</LtxtComments>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtFor>Pre</DtxtFor>
+    <LtxtRemoveItem>Odstrániť položku</LtxtRemoveItem>
+    <LtxtConfRemItm>Ste si istí, že chcete odstrániť položku {0} z nákupného košíka?</LtxtConfRemItm>
+    <LtxtComments>Komentáre</LtxtComments>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtFor>&lt;--&gt;</DtxtFor>
+    <LtxtRemoveItem>&lt;--&gt;</LtxtRemoveItem>
+    <LtxtConfRemItm>&lt;--&gt;</LtxtConfRemItm>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtFor>DtxtFor</DtxtFor>
+    <LtxtRemoveItem>LtxtRemoveItem</LtxtRemoveItem>
+    <LtxtConfRemItm>LtxtConfRemItm</LtxtConfRemItm>
+    <LtxtComments>LtxtComments</LtxtComments>
+  </language>
+</languages>

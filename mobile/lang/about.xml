@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <LtxtAbout>About Mobile OLK</LtxtAbout>
+    <LtxtLetsTalkBusiness>LET'S TALK BUSINESS!</LtxtLetsTalkBusiness>
+    <LtxtRights>All rights reserved</LtxtRights>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <LtxtAbout>Sobre OLK Movil</LtxtAbout>
+    <LtxtLetsTalkBusiness>¡HABLEMOS DE NEGOCIOS!</LtxtLetsTalkBusiness>
+    <LtxtRights>Derecho reservado</LtxtRights>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <LtxtAbout>אודות פוקט אולק</LtxtAbout>
+    <LtxtLetsTalkBusiness>בואו נדבר עסקים</LtxtLetsTalkBusiness>
+    <LtxtRights>כל הזכויות שמורות</LtxtRights>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Phone</DtxtPhone>
+    <LtxtAbout>About Mobile OLK</LtxtAbout>
+    <LtxtLetsTalkBusiness>LET'S TALK BUSINESS!</LtxtLetsTalkBusiness>
+    <LtxtRights>All rights reserved</LtxtRights>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <LtxtAbout>Sobre a Solução OnlineKit Mobile</LtxtAbout>
+    <LtxtLetsTalkBusiness>VAMOS FALAR DE NEGÓCIOS</LtxtLetsTalkBusiness>
+    <LtxtRights>Todos os direitos reservados</LtxtRights>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <LtxtAbout>&lt;--&gt;</LtxtAbout>
+    <LtxtLetsTalkBusiness>&lt;--&gt;</LtxtLetsTalkBusiness>
+    <LtxtRights>&lt;--&gt;</LtxtRights>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtAbout>&lt;--&gt;</LtxtAbout>
+    <LtxtLetsTalkBusiness>&lt;--&gt;</LtxtLetsTalkBusiness>
+    <LtxtRights>&lt;--&gt;</LtxtRights>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <LtxtAbout>&lt;--&gt;</LtxtAbout>
+    <LtxtLetsTalkBusiness>Давайте поговорим о бизнесе</LtxtLetsTalkBusiness>
+    <LtxtRights>Все права защищены</LtxtRights>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtAbout>O Kapesním OLK</LtxtAbout>
+    <LtxtLetsTalkBusiness>POJĎME MLUVIT OBCHODU!</LtxtLetsTalkBusiness>
+    <LtxtRights>Všechna práva vyhrazena</LtxtRights>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <LtxtAbout>O schowku OLK</LtxtAbout>
+    <LtxtLetsTalkBusiness>Porozmawiajmy o interesach!</LtxtLetsTalkBusiness>
+    <LtxtRights>Wszystkie prawa zastrzeżone</LtxtRights>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <LtxtAbout>O vreckovom (Pocket) OLK</LtxtAbout>
+    <LtxtLetsTalkBusiness>POĎME SI POHOVORIŤ O BIZNISE!</LtxtLetsTalkBusiness>
+    <LtxtRights>Všetky práva vyhradené</LtxtRights>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <LtxtAbout>&lt;--&gt;</LtxtAbout>
+    <LtxtLetsTalkBusiness>&lt;--&gt;</LtxtLetsTalkBusiness>
+    <LtxtRights>&lt;--&gt;</LtxtRights>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <LtxtAbout>LtxtAbout</LtxtAbout>
+    <LtxtLetsTalkBusiness>LtxtLetsTalkBusiness</LtxtLetsTalkBusiness>
+    <LtxtRights>LtxtRights</LtxtRights>
+  </language>
+</languages>

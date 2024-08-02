@@ -1,0 +1,1173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLog>Log</DtxtLog>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtObjCode>Object Code</DtxtObjCode>
+    <LttlGenOpt>General Options</LttlGenOpt>
+    <LttlGenOptNote>Here the general options of the system may be defined.</LttlGenOptNote>
+    <LtxtSlpCode>Agent for OLK Clients</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Final Document Agent</LtxtAddDocSlpCode>
+    <LoptCardAgent>Client Agent</LoptCardAgent>
+    <LoptDocAgent>Document Agent</LoptDocAgent>
+    <LtxtAsignedSLP>Locked agents to their assigned clients</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Enable Retroactive Polls</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Antiquity of Retroactive Polls in Days</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Enable Branches</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Foreign Currency - Use Latest Exchange Rate</LtxtCopyLastFCRate>
+    <LtxtCarArt>Properties of deactivated items</LtxtCarArt>
+    <LtxtEnBlockRClk>Block Mouse Right Click (Clients)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Block Mouse Right Click Message</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Account Statement</LttlAcctBal>
+    <LttlAcctBalNote>Here the configurations concerning how Business Partner Account Statements are formatted may be defined.</LttlAcctBalNote>
+    <LtxtECDays>Number of Days </LtxtECDays>
+    <LtxtShowCxcOpenInv>Show Open Invoices in Account Statement</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Calculate Antiquity of Account Statement by</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Document Date</LoptDocDate>
+    <LtxtDocDueDate>Document Due Date</LtxtDocDueDate>
+    <LoptCardAgent2>Client Agent</LoptCardAgent2>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Show Future Transactions</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Enable Client Login Log</LEnableCLogLogin>
+    <LEnableVLogLogin>Enable Agents Login Log</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Enable Client Search Filter Log</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Enable Search Result Items Viewed by Clients Log</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Enable Item Details Viewed by Clients Log</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Enable Items Purchased by Clients Log</LEnableCItemPurLog>
+    <LtxtLogDesc>Here the OLK logs may be enabled/ disabled.</LtxtLogDesc>
+    <LttlAgentClientFilter>Business Partner Filter</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>Here a filter may be specified for Client Search results.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtValClientFilter>You must verify the client filter query</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Enable Client Search by "Federal Tax ID"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Enable Client Search by "Unified Federal Tax ID"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Show Due Date</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Allow Agents to Access Clients’ Open Documents</LtxtAllowAgentAccessC>
+    <LtxtDefTab>BP Operations - Default Tab</LtxtDefTab>
+    <LtxtGenData>General Data</LtxtGenData>
+    <LtxtOlkAct>OLK Activities</LtxtOlkAct>
+    <LtxtPendOlk>OLK Open Documents</LtxtPendOlk>
+    <LtxtPendSBO>SBO Open Documents</LtxtPendSBO>
+    <LtxtOffers>Offers</LtxtOffers>
+    <LtxtNumFormat>Number Format</LtxtNumFormat>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtDefActOrdr>Activities Default Sort Order</LtxtDefActOrdr>
+    <LtxtBPSearch>Business Partners Search</LtxtBPSearch>
+    <LtxtStateAct>Account Statement</LtxtStateAct>
+    <LtxtValViewDocFilter>You must verify the document view filter query</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>View Document Filter</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>Here a filter may be specified for document view</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>Enable Additional User Approval</LtxtAddUserApr>
+    <LtxtEnableAtt>Enable Attachments</LtxtEnableAtt>
+    <LShowBPCountry>Show Business Partner Country Flag</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>Automatically submit fully authorized objects</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>Enable User Approval Delegation</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLog>Bitácora</DtxtLog>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBPCode>Código SN</DtxtBPCode>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtActivities>Actvidades</DtxtActivities>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtObjCode>Código de Objeto</DtxtObjCode>
+    <LttlGenOpt>Opciones Generales</LttlGenOpt>
+    <LttlGenOptNote>En esta sección podrá definir las opciones generales del sistema.</LttlGenOptNote>
+    <LtxtSlpCode>Agente de OLK clientes</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Agente de documento final</LtxtAddDocSlpCode>
+    <LoptCardAgent>Agente de ficha</LoptCardAgent>
+    <LoptDocAgent>Agente de documento</LoptDocAgent>
+    <LtxtAsignedSLP>Agentes estrictos a sus clientes asignados</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Habilitar encuestas retroactivas</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Antigüedad de encuestas retroactivas en días</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Habilitar sucursales</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Moneda extranjera - Utilizar última tasa de cambio</LtxtCopyLastFCRate>
+    <LtxtCarArt>Característica de artículos desactivados</LtxtCarArt>
+    <LtxtEnBlockRClk>Habilitar bloqueo del botón derecho del ratón (Clientes)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Mensaje de bloqueo del botón derecho del ratón</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Estado de Cuenta</LttlAcctBal>
+    <LttlAcctBalNote>En esta sección podrá definir el formato que se verá en el estado de cuenta de los Socios de Negocios.</LttlAcctBalNote>
+    <LtxtECDays>Cantidad de días </LtxtECDays>
+    <LtxtShowCxcOpenInv>Mostrar facturas pendientes </LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Calcular antigüedad de estado de cuenta por</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Fecha de documento</LoptDocDate>
+    <LtxtDocDueDate>Fecha de vencimiento</LtxtDocDueDate>
+    <LoptCardAgent2>Agente de ficha</LoptCardAgent2>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Mostrar transacciones por venir</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Habilitar bitácora de entrada de clientes</LEnableCLogLogin>
+    <LEnableVLogLogin>Habilitar bitácora de entrada de agentes</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Habilitar bitácora de filtros de búsqueda de clientes</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Habilitar bitácora de resultados de artículos vistos en búsqueda de clientes</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Habilitar bitácora de clientes ver detalle de articulo</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Habilitar bitácora de artículos comprados por clientes</LEnableCItemPurLog>
+    <LtxtLogDesc>En esta sección podrá habilitar/deshabilitar las bitácoras de OLK.</LtxtLogDesc>
+    <LttlAgentClientFilter>Filtro de Socio de Negocios</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>En esta sección podrá especificar un filtro para la búsqueda de clientes.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Código de Agente</LtxtAgentCode>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LtxtValClientFilter>Debe verificar la consulta de filtro de cliente</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Habilitar búsqueda de cliente por "Número de identificación fiscal"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Habilitar búsqueda de cliente por "ID fiscal federal unificado"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Mostrar Fecha de Vencimiento</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Habilitar a los agentes accesar documentos pendientes de clientes</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Operaciones del SN - Pestaña Predeterminada</LtxtDefTab>
+    <LtxtGenData>Datos Generales</LtxtGenData>
+    <LtxtOlkAct>Actividades OLK</LtxtOlkAct>
+    <LtxtPendOlk>Documentos Pendientes OLK</LtxtPendOlk>
+    <LtxtPendSBO>Documentos Pendientes SBO</LtxtPendSBO>
+    <LtxtOffers>Ofertas</LtxtOffers>
+    <LtxtNumFormat>Formato de Números</LtxtNumFormat>
+    <LtxtCntDate>Fecha de Contacto</LtxtCntDate>
+    <LtxtDefActOrdr>Orden predeterminado de las actividades</LtxtDefActOrdr>
+    <LtxtBPSearch>Búsqueda de Socios de Negocios</LtxtBPSearch>
+    <LtxtStateAct>Estado de Cuenta</LtxtStateAct>
+    <LtxtValViewDocFilter>Debe verificar la consulta de filtro de vista de documento</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>Filtro de Vista de Documento</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>En esta sección podrá especificar un filtro para la vista de documentos.</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>Habilitar Aprobación Adicional de Usuario</LtxtAddUserApr>
+    <LtxtEnableAtt>Habilitar Archivos Adjuntos</LtxtEnableAtt>
+    <LShowBPCountry>Mostrar Bandera de Socio de Negocio</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>Enviar automáticamente los objetos plenamente autorizados</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>Habilitar Delegación de Usuario de Aprobador</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtReceipts>קבלות</DtxtReceipts>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLog>מעקב רשום</DtxtLog>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtBPCode>קוד כרטיס</DtxtBPCode>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtActivities>פעילויות</DtxtActivities>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtObjCode>קוד אובייקט</DtxtObjCode>
+    <LttlGenOpt>אופציות כלליות</LttlGenOpt>
+    <LttlGenOptNote>בחלק זה תוכל להגדיר אופציות כלליות לאתר</LttlGenOptNote>
+    <LtxtSlpCode>סוכן (אתר לקוחות)</LtxtSlpCode>
+    <LtxtAddDocSlpCode>סוכן סופי למסמך</LtxtAddDocSlpCode>
+    <LoptCardAgent>סוכן כרטיס</LoptCardAgent>
+    <LoptDocAgent>סוכן מסמך</LoptDocAgent>
+    <LtxtAsignedSLP>סוכנים מוגבלים ללקוחות מקושרים</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>הפעל סקרים חוזרים</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>גיול סקרים חוזרים בימים</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>הפעל סניפים</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>מט"ח - השתמש בשער אחרון</LtxtCopyLastFCRate>
+    <LtxtCarArt>מאפיין לפריטים לא פעילים</LtxtCarArt>
+    <LtxtEnBlockRClk>הפעל נעילה על הכפתור הימני של העכבר (לקוחות בלבד)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>הודעה לנעילת כפתור ימני על העכבר</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>מצב חשבון</LttlAcctBal>
+    <LttlAcctBalNote>בחלק זה תוכל לקבוע את תבנית התצוגה של מצב חשבון של כרטיסים.</LttlAcctBalNote>
+    <LtxtECDays>כמות ימים</LtxtECDays>
+    <LtxtShowCxcOpenInv>הצג חשבוניות פתוחות</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>חשב גיול מצב חשבון לפי</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>תאריך אסמכתא</LoptDocDate>
+    <LtxtDocDueDate>תאריך ערך</LtxtDocDueDate>
+    <LoptCardAgent2>סוכן כרטיס</LoptCardAgent2>
+    <LtxtNatLng>שפת מקור</LtxtNatLng>
+    <LtxtShowCxcIncTrans>הצג תנועות עתידיות</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>הפעל מעקב רשום של כניסת ויציאת לקוחות</LEnableCLogLogin>
+    <LEnableVLogLogin>הפעל מעקב רשום של כניסת ויציאת סוכנים</LEnableVLogLogin>
+    <LEnableCSearchFilterL>הפעל מעקב רשום על חיפוש לקוחות</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>הפעל מעקב רשום על תוצאות חיפוש של פריטים (רק מוצרים שהוצגו על המסך) ללקוחות</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>הפעל מעקב רשום על מוצרים שניבחרו לראית פרטים ע"י לקוחות</LEnableCItemViewLog>
+    <LEnableCItemPurLog>הפעל מעקב רשום על מוצרים שניבחרו לקניה ע"י לקוחות</LEnableCItemPurLog>
+    <LtxtLogDesc>בחלק זה תוכל להגדיר את מעקב הרשום באתר</LtxtLogDesc>
+    <LttlAgentClientFilter>פילטר כרטיסים</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>בחלק זה ניתן לקבוע פילטר לתוצאת ללקוחות</LttlAgentCLFilterNote>
+    <LtxtAgentCode>קוד סוכן</LtxtAgentCode>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LtxtValClientFilter>יש לאשר את פילטר הלקוחות</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>אפשר חיפוש לקוח לפי מספר עוסק מורשה</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>אפשר חיפוש לקוח לפי מספר עוסק מאוחד</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>הצג תאריך ערך</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>הפעל אישור לסוכנים להכנס למסמכים פתוחים שנוצרו ע"י לקוחות</LtxtAllowAgentAccessC>
+    <LtxtDefTab>פעילויות עם כרטיסים - לשונית ברירת מחדל</LtxtDefTab>
+    <LtxtGenData>נתונים כללים</LtxtGenData>
+    <LtxtOlkAct>פעילויות אולק</LtxtOlkAct>
+    <LtxtPendOlk>מסמכים פתוחים אולק</LtxtPendOlk>
+    <LtxtPendSBO>מסמכים פתוחים סאפ</LtxtPendSBO>
+    <LtxtOffers>הצעות</LtxtOffers>
+    <LtxtNumFormat>תבנית מספרים</LtxtNumFormat>
+    <LtxtCntDate>תקף עד</LtxtCntDate>
+    <LtxtDefActOrdr>ברירת מחדל למיון פעילויות</LtxtDefActOrdr>
+    <LtxtBPSearch>חיפוש כרטיסים</LtxtBPSearch>
+    <LtxtStateAct>מצב חשבון</LtxtStateAct>
+    <LtxtValViewDocFilter>אליך לבדוק את שאילתת מסנן מציג המסמכים</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>הצג מסנן מסמך</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>בחלק זה תוכל להגדיר מסנן מסנן עבור תצוגת מסמך</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>אפשר אישור משתמש נוסף</LtxtAddUserApr>
+    <LtxtEnableAtt>הפעל קבצים מצורפים</LtxtEnableAtt>
+    <LShowBPCountry>הצג דגל מדינת הכרטיס</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>שלח באופן אוטומטי אובייקטים מורשים באופן מלא</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>אפשר משלחת אישור משתמש</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLog>Log</DtxtLog>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>General Options</LttlGenOpt>
+    <LttlGenOptNote>Here the general options of the system may be defined.</LttlGenOptNote>
+    <LtxtSlpCode>Agent for OLK Clients</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Final Document Agent</LtxtAddDocSlpCode>
+    <LoptCardAgent>Client Agent</LoptCardAgent>
+    <LoptDocAgent>Document Agent</LoptDocAgent>
+    <LtxtAsignedSLP>Locked agents to their assigned clients</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Enable Retroactive Polls</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Antiquity of Retroactive Polls in Days</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Enable Branches</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Foreign Currency - Use Latest Exchange Rate</LtxtCopyLastFCRate>
+    <LtxtCarArt>Properties of deactivated items</LtxtCarArt>
+    <LtxtEnBlockRClk>Block Mouse Right Click (Clients)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Block Mouse Right Click Message</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Account Statement</LttlAcctBal>
+    <LttlAcctBalNote>Here the configurations concerning how Business Partner Account Statements are formatted may be defined.</LttlAcctBalNote>
+    <LtxtECDays>Number of Days </LtxtECDays>
+    <LtxtShowCxcOpenInv>Show Open Invoices in Account Statement</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Calculate Antiquity of Account Statement by</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Document Date</LoptDocDate>
+    <LtxtDocDueDate>Document Due Date</LtxtDocDueDate>
+    <LoptCardAgent2>Client Agent</LoptCardAgent2>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Show Future Transactions</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Enable Client Login Log</LEnableCLogLogin>
+    <LEnableVLogLogin>Enable Agents Login Log</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Enable Client Search Filter Log</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Enable Search Result Items Viewed by Clients Log</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Enable Item Details Viewed by Clients Log</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Enable Items Purchased by Clients Log</LEnableCItemPurLog>
+    <LtxtLogDesc>Here the OLK logs may be enabled/ disabled.</LtxtLogDesc>
+    <LttlAgentClientFilter>Business Partner Filter</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>Here a filter may be specified for Client Search results.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Agent Code</LtxtAgentCode>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtValClientFilter>You must verify the client filter query</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Enable Client Search by "Federal Tax ID"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Enable Client Search by "Unified Federal Tax ID"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Show Due Date</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Allow Agents to Access Clients’ Open Documents</LtxtAllowAgentAccessC>
+    <LtxtDefTab>BP Operations - Default Tab</LtxtDefTab>
+    <LtxtGenData>General Data</LtxtGenData>
+    <LtxtOlkAct>OLK Activities</LtxtOlkAct>
+    <LtxtPendOlk>OLK Open Documents</LtxtPendOlk>
+    <LtxtPendSBO>SBO Open Documents</LtxtPendSBO>
+    <LtxtOffers>Offers</LtxtOffers>
+    <LtxtNumFormat>Number Format</LtxtNumFormat>
+    <LtxtCntDate>Contact Date</LtxtCntDate>
+    <LtxtDefActOrdr>Activities Default Sort Order</LtxtDefActOrdr>
+    <LtxtBPSearch>Business Partners Search</LtxtBPSearch>
+    <LtxtStateAct>Account Statement</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLog>Log</DtxtLog>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtBPCode>Código do PN</DtxtBPCode>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtActivities>Atividades</DtxtActivities>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtObjCode>Código do Objeto</DtxtObjCode>
+    <LttlGenOpt>Opções Gerais</LttlGenOpt>
+    <LttlGenOptNote>Nesta seção, poderá definir as opções gerais do sistema</LttlGenOptNote>
+    <LtxtSlpCode>Vendedor de OnlineKit clientes</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Vendedor de documento final</LtxtAddDocSlpCode>
+    <LoptCardAgent>Vendedor da ficha</LoptCardAgent>
+    <LoptDocAgent>Vendedor de documento</LoptDocAgent>
+    <LtxtAsignedSLP>Vendedores restritos aos seus clientes atribuídos</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Habilitar pesquisas retroativas</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Tempo de ativação de conta</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Habilitar filiais</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Moeda extrangeira - Utilizar última taxa do câmbio</LtxtCopyLastFCRate>
+    <LtxtCarArt>Característica dos itens desativados</LtxtCarArt>
+    <LtxtEnBlockRClk>Habilitar bloqueio do botão direito do mouse (Clientes)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Mensagem de bloqueio do botão direito do mouse </LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Situação da Conta</LttlAcctBal>
+    <LttlAcctBalNote>Nesta seção, poderá definir o formato de visualização do situação da conta dos Parceiros de Negócios.</LttlAcctBalNote>
+    <LtxtECDays>Quantidade de dias</LtxtECDays>
+    <LtxtShowCxcOpenInv>Mostrar NFs de Saídas pendentes</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Calcular o tempo do situação da conta por</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Data do documento</LoptDocDate>
+    <LtxtDocDueDate>Data do Vencimento</LtxtDocDueDate>
+    <LoptCardAgent2>Vendedor da ficha</LoptCardAgent2>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Mostrar transações por chegar</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Habilitar Logs de login de clientes</LEnableCLogLogin>
+    <LEnableVLogLogin>Habilitar logs de login de vendedores</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Habilitar Logs de filtros de busca de clientes</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Habilitar Logs de resultados de itens visualizados em busca de clientes</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Habilita aos clientes visualizar log detalhado do item</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Habilitar logs de itens comprados por clientes</LEnableCItemPurLog>
+    <LtxtLogDesc>Nesta seção, poderá habilitar / desabilitar os logs do OnlineKit.</LtxtLogDesc>
+    <LttlAgentClientFilter>Filtro de Parceiro de Negócios</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>Nesta seção, poderá especificar um filtro para a busca de clientes.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Código do Vendedor</LtxtAgentCode>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LtxtValClientFilter>Você deve verificar o filtro da consulta de cliente</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Habilitar busca de cliente por CPF</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Habilitar busca de cliente por CNPJ</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Mostrar data de Vencimento</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Permitir aos vendedores acessar documentos pendentes dos clientes</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Operações de PN - Aba Padrão</LtxtDefTab>
+    <LtxtGenData>Dados Gerais</LtxtGenData>
+    <LtxtOlkAct>Atividades OnlineKit</LtxtOlkAct>
+    <LtxtPendOlk>Documentos Pendentes OnlineKit</LtxtPendOlk>
+    <LtxtPendSBO>Documentos Pendentes SBO</LtxtPendSBO>
+    <LtxtOffers>Ofertas</LtxtOffers>
+    <LtxtNumFormat>Formato de Números</LtxtNumFormat>
+    <LtxtCntDate>Data de Contato</LtxtCntDate>
+    <LtxtDefActOrdr>Ordem padrão das atividades</LtxtDefActOrdr>
+    <LtxtBPSearch>Busca de Parceiros de Negócios</LtxtBPSearch>
+    <LtxtStateAct>Situação da Conta</LtxtStateAct>
+    <LtxtValViewDocFilter>Deve verificar a consulta do filtro para a visualização do documento</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>Filtro para visualização de documento</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>Nesta seção, poderá especificar um filtro para a visualização de documentos.</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>Habilitar Aprovação Adicional de Usuário</LtxtAddUserApr>
+    <LtxtEnableAtt>Habilitar Arquivos Anexos</LtxtEnableAtt>
+    <LShowBPCountry>Mostrar Bandeira de Parceiro de Negócio</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>Enviar automaticamente </LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>Habilitar Delegação de Usuário de Aprovador</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtReceipts>Reçus (Quittances)</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLog>&lt;--&gt;</DtxtLog>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBPCode>Code du partenaire</DtxtBPCode>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Options généraux</LttlGenOpt>
+    <LttlGenOptNote>Dans cette section vous pourrez détérminer les options généraux du système.</LttlGenOptNote>
+    <LtxtSlpCode>Agent d'OLK clients</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Agent de documentation finale</LtxtAddDocSlpCode>
+    <LoptCardAgent>Agent de fiche</LoptCardAgent>
+    <LoptDocAgent>Agent de documentation</LoptDocAgent>
+    <LtxtAsignedSLP>Agents écrit aux clients attribués</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Habiliter des enquêtes retroactives</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Ancienneté des enquêtes retroactives en jours</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Habiliter des succursales</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Monnaie étrangère - Utiliser le dernier taux d'échange</LtxtCopyLastFCRate>
+    <LtxtCarArt>Caractéristique des articles déactivés</LtxtCarArt>
+    <LtxtEnBlockRClk>Habiliter blocage du bouton droit de la souris (Clients)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Message du blocage du bouton droit de la souris</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Relevé de Compte</LttlAcctBal>
+    <LttlAcctBalNote>&lt;--&gt;</LttlAcctBalNote>
+    <LtxtECDays>Quantité des jours</LtxtECDays>
+    <LtxtShowCxcOpenInv>Montrer des factures pendents</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Calculer l'ancienneté de relevé de compte par</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Date de documentation</LoptDocDate>
+    <LtxtDocDueDate>Date d'expiration</LtxtDocDueDate>
+    <LoptCardAgent2>Agente de fiche</LoptCardAgent2>
+    <LtxtNatLng>Langue maternelle</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Montrer des transactions par arriver</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>&lt;--&gt;</LEnableCLogLogin>
+    <LEnableVLogLogin>&lt;--&gt;</LEnableVLogLogin>
+    <LEnableCSearchFilterL>&lt;--&gt;</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>&lt;--&gt;</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>&lt;--&gt;</LEnableCItemViewLog>
+    <LEnableCItemPurLog>&lt;--&gt;</LEnableCItemPurLog>
+    <LtxtLogDesc>&lt;--&gt;</LtxtLogDesc>
+    <LttlAgentClientFilter>&lt;--&gt;</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>&lt;--&gt;</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Code d'Agent</LtxtAgentCode>
+    <LtxtAvlVars>Variables disonibles</LtxtAvlVars>
+    <LtxtValClientFilter>&lt;--&gt;</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>&lt;--&gt;</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>&lt;--&gt;</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>&lt;--&gt;</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>&lt;--&gt;</LtxtAllowAgentAccessC>
+    <LtxtDefTab>&lt;--&gt;</LtxtDefTab>
+    <LtxtGenData>&lt;--&gt;</LtxtGenData>
+    <LtxtOlkAct>&lt;--&gt;</LtxtOlkAct>
+    <LtxtPendOlk>&lt;--&gt;</LtxtPendOlk>
+    <LtxtPendSBO>&lt;--&gt;</LtxtPendSBO>
+    <LtxtOffers>Offres</LtxtOffers>
+    <LtxtNumFormat>&lt;--&gt;</LtxtNumFormat>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtDefActOrdr>&lt;--&gt;</LtxtDefActOrdr>
+    <LtxtBPSearch>&lt;--&gt;</LtxtBPSearch>
+    <LtxtStateAct>Relevé de compte</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtReceipts>Belege</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLog>Protokoll</DtxtLog>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtBPCode>BP Kode</DtxtBPCode>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtActivities>Aktivitäten</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Allgemeine Optionen</LttlGenOpt>
+    <LttlGenOptNote>In diesem Bereich kann man die allgemeinen Einstellungen des Systems festlegen.</LttlGenOptNote>
+    <LtxtSlpCode>Agent für OLK kunden</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Schluss-Dokument Agent</LtxtAddDocSlpCode>
+    <LoptCardAgent>Kunden-Agent</LoptCardAgent>
+    <LoptDocAgent>Dokument Agent</LoptDocAgent>
+    <LtxtAsignedSLP>Agenten auf ihre zugewiesenen Kunden fixieren</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Rückwirkende Umfragen freischalten</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Alter von rückwirckenden Umfragen in Tagen</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Zweige freischalten</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Ausländische Währungen - aktuellen Wechselkurs benutzen</LtxtCopyLastFCRate>
+    <LtxtCarArt>Eigenschaften von deaktivierten Artikeln</LtxtCarArt>
+    <LtxtEnBlockRClk>Rechter Mausklick blockieren (Kunden)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Rechter Mausklick um Nachricht zu blockieren</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Kontoauszüge</LttlAcctBal>
+    <LttlAcctBalNote>&lt;--&gt;</LttlAcctBalNote>
+    <LtxtECDays>Anzahl der Tage</LtxtECDays>
+    <LtxtShowCxcOpenInv>Offene Rechnungen im Kontoauszug anzeigen</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Alter des Kontoauszugs berechnen durch</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Dokumentdatum</LoptDocDate>
+    <LtxtDocDueDate>Dokument Fälligkeitsdatum</LtxtDocDueDate>
+    <LoptCardAgent2>Kunden-Agent</LoptCardAgent2>
+    <LtxtNatLng>Muttersprache</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Zukünftige Transaktionen anzeigen</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>&lt;--&gt;</LEnableCLogLogin>
+    <LEnableVLogLogin>&lt;--&gt;</LEnableVLogLogin>
+    <LEnableCSearchFilterL>&lt;--&gt;</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>&lt;--&gt;</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>&lt;--&gt;</LEnableCItemViewLog>
+    <LEnableCItemPurLog>&lt;--&gt;</LEnableCItemPurLog>
+    <LtxtLogDesc>&lt;--&gt;</LtxtLogDesc>
+    <LttlAgentClientFilter>&lt;--&gt;</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>&lt;--&gt;</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Agentenkennzeichen</LtxtAgentCode>
+    <LtxtAvlVars>Verfügbare Variablen</LtxtAvlVars>
+    <LtxtValClientFilter>&lt;--&gt;</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>&lt;--&gt;</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>&lt;--&gt;</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>&lt;--&gt;</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>&lt;--&gt;</LtxtAllowAgentAccessC>
+    <LtxtDefTab>&lt;--&gt;</LtxtDefTab>
+    <LtxtGenData>&lt;--&gt;</LtxtGenData>
+    <LtxtOlkAct>&lt;--&gt;</LtxtOlkAct>
+    <LtxtPendOlk>&lt;--&gt;</LtxtPendOlk>
+    <LtxtPendSBO>&lt;--&gt;</LtxtPendSBO>
+    <LtxtOffers>Angebote</LtxtOffers>
+    <LtxtNumFormat>&lt;--&gt;</LtxtNumFormat>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtDefActOrdr>&lt;--&gt;</LtxtDefActOrdr>
+    <LtxtBPSearch>&lt;--&gt;</LtxtBPSearch>
+    <LtxtStateAct>Kontoauszug</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtReceipts>Квитанции</DtxtReceipts>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLog>Наблюдение регистрации</DtxtLog>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtBPCode>Код карточки</DtxtBPCode>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtActivities>Активность</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Главная опция</LttlGenOpt>
+    <LttlGenOptNote>В этом разделе можно определить общие параметры системы.</LttlGenOptNote>
+    <LtxtSlpCode>Агент (сайт клиентов)</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Заключительный документ агента</LtxtAddDocSlpCode>
+    <LoptCardAgent>Клиент агент</LoptCardAgent>
+    <LoptDocAgent>Документы агента</LoptDocAgent>
+    <LtxtAsignedSLP>Заблокировано агентами возложенных на них клиентов</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Включить обратные опросы</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Востоновление вернувшихся запросов в днях</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Включите филиалы</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Иностранная валюта - использовать последний обменный курс</LtxtCopyLastFCRate>
+    <LtxtCarArt>Свойства не рабочих деталей</LtxtCarArt>
+    <LtxtEnBlockRClk>Работает блокировка правой кнопки мыши (только клиентам)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Щелкните правой кнопкой мыши для блока сообщений</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Отчет о состоянии счетов</LttlAcctBal>
+    <LttlAcctBalNote>В этом разделе можно определить формат, в котором заявления Деловые партнеры счета будет рассматриваться</LttlAcctBalNote>
+    <LtxtECDays>Количество дней</LtxtECDays>
+    <LtxtShowCxcOpenInv>Показать открытые квитанции</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Рассчитать прошлые выписки по счету </LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Дата источника</LoptDocDate>
+    <LtxtDocDueDate>Изменить дату</LtxtDocDueDate>
+    <LoptCardAgent2>Клиент агент</LoptCardAgent2>
+    <LtxtNatLng>Родной язык</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Показать будущие сделки</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Работает запись входа и выхода клиентов</LEnableCLogLogin>
+    <LEnableVLogLogin>Работает запись входа и выхода агентов</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Отслеживать запись по поиску клиентов</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Начать отслеживание перечисленные в результатах поиска пунктов (только товары, представленные на экране) для клиентов</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Включите пункт клиентам подробнее просмотр журнала</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Позволять клиентам закупать товары из журнала</LEnableCItemPurLog>
+    <LtxtLogDesc>В этом разделе можно включить /выключить журналы ОЛК.</LtxtLogDesc>
+    <LttlAgentClientFilter>Фильтр карточек</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>В этом разделе можно задать фильтр для результатов поиска клиентов.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Код агента</LtxtAgentCode>
+    <LtxtAvlVars>Доступные переменные</LtxtAvlVars>
+    <LtxtValClientFilter>Вы должны подтвердить запрос  фильтра клиента</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Включить поиск клиентов словами "Федеральной налоговой службы"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Включить поиск по клиенту "Единый федеральный налоговый номер"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Показать соотношение даты</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Разрешить агентам и клиентам получать доступ к открытым документам</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Деятельность с карты - по умолчанию закладки</LtxtDefTab>
+    <LtxtGenData>Объщие данные</LtxtGenData>
+    <LtxtOlkAct>ОЛК мероприятия</LtxtOlkAct>
+    <LtxtPendOlk>Открытые документы олк</LtxtPendOlk>
+    <LtxtPendSBO>Открытые документы сап</LtxtPendSBO>
+    <LtxtOffers>Предложение</LtxtOffers>
+    <LtxtNumFormat>Номера форматов</LtxtNumFormat>
+    <LtxtCntDate>Годен до</LtxtCntDate>
+    <LtxtDefActOrdr>Сортировка деятельности по умолчанию</LtxtDefActOrdr>
+    <LtxtBPSearch>Поиск карточек</LtxtBPSearch>
+    <LtxtStateAct>Выписка со счета</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtReceipts>Příjemky</DtxtReceipts>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLog>Log</DtxtLog>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtBPCode>Kód OP</DtxtBPCode>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Všeobecné možnosti</LttlGenOpt>
+    <LttlGenOptNote>V této sekci je možné definovat všeobecné možnosti systému</LttlGenOptNote>
+    <LtxtSlpCode>Agent pro OLK klienty</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Agent finálního dokumentu</LtxtAddDocSlpCode>
+    <LoptCardAgent>klient agent</LoptCardAgent>
+    <LoptDocAgent>Agent dokumentu</LoptDocAgent>
+    <LtxtAsignedSLP>Zamknutí agenti k jejich přiřazeným klientům</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Povolit retroaktivní ankety</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Zpětná doba retroaktivních anket ve dnech</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Povolit pobočky</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Cizí měna - Použít poslední směnný kurz</LtxtCopyLastFCRate>
+    <LtxtCarArt>Vlastnosti deaktivovaných položek</LtxtCarArt>
+    <LtxtEnBlockRClk>Zablokovat pravé tlačítko myši (klienti)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Zablokovat zprávu pravého tlačítka myši</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Výpis účtu</LttlAcctBal>
+    <LttlAcctBalNote>Tato sekce obsahuje nastavení formátovaní výpisů z účtu obchodních partnerů.</LttlAcctBalNote>
+    <LtxtECDays>Počet dnů</LtxtECDays>
+    <LtxtShowCxcOpenInv>Zobrazit otevřené faktury ve výpisu účtu</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Přepočítat zpětnou dobu výpisu z účtu podle</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Datum dokumentu</LoptDocDate>
+    <LtxtDocDueDate>Platnost dokumentu</LtxtDocDueDate>
+    <LoptCardAgent2>klient agent</LoptCardAgent2>
+    <LtxtNatLng>Mateřský jazyk</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Zobrazit budoucí transakce</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Povolit logování přihlašování klientů</LEnableCLogLogin>
+    <LEnableVLogLogin>Povolit logování přihlašování agentů</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Povolit zapisování filtru vyhledávání klientů</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Povolit zapisování zobrazení výsledků položkového vyhledávání podle klientů</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Povolit zapisování zobrazení podrobností položek podle klientů</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Povolit zapisování zakoupených položek podle klientů</LEnableCItemPurLog>
+    <LtxtLogDesc>V této sekci je možné povolit/zakázat OLK logy.</LtxtLogDesc>
+    <LttlAgentClientFilter>Filtr obchodních partnerů</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>V této sekci můžete nastavit filtr pro výsledky vyhledávání klientů.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtAvlVars>Možné proměnné</LtxtAvlVars>
+    <LtxtValClientFilter>Musíte ověřit dotaz filtru klienta</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Povolit vyhledávání klientů podle "Federálního DIČ"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Povolit vyhledávání klientů pole "Unifikovaného federálního DIČ"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Zobrazit datum splatnosti</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Povolit agentům přístup k Otevřeným dokumentům klientů</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Operace OP - Výchozí záložka</LtxtDefTab>
+    <LtxtGenData>Všeobecné údaje</LtxtGenData>
+    <LtxtOlkAct>Aktivity OLK</LtxtOlkAct>
+    <LtxtPendOlk>Otevřené dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otevřené dokumenty SBO</LtxtPendSBO>
+    <LtxtOffers>Nabídky</LtxtOffers>
+    <LtxtNumFormat>Číselný formát</LtxtNumFormat>
+    <LtxtCntDate>Datum kontaktu</LtxtCntDate>
+    <LtxtDefActOrdr>Výchozí způsob řazení aktivit</LtxtDefActOrdr>
+    <LtxtBPSearch>Vyhledávání obchodních partnerů</LtxtBPSearch>
+    <LtxtStateAct>Výpis účtu</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtReceipts>Pokwitowania</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLog>Log</DtxtLog>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtBPCode>Kod kreskowy</DtxtBPCode>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtActivities>Działania</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Opcje ogólne</LttlGenOpt>
+    <LttlGenOptNote>Tutaj można zdefiniować ogólne opcje systemu. </LttlGenOptNote>
+    <LtxtSlpCode>Sprzedawca dla klientów OLK </LtxtSlpCode>
+    <LtxtAddDocSlpCode>Ostateczny Sprzedawca Dokumentu</LtxtAddDocSlpCode>
+    <LoptCardAgent>Sprzedawca Klienta</LoptCardAgent>
+    <LoptDocAgent>Sprzedawca Dokumentu</LoptDocAgent>
+    <LtxtAsignedSLP>Sprzedawcy ograniczeni do swoich przypisanych klientów</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Aktywuj retroaktywną ankietę</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Wiek retrospektywnych ankiet w dniach</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Aktywuj oddziały</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Waluta obca - użyj ostatniego kursu </LtxtCopyLastFCRate>
+    <LtxtCarArt>Właściwości dezaktywowanych pozycji</LtxtCarArt>
+    <LtxtEnBlockRClk>Zablokuj prawym przyciskiem myszy (klienci)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Zablokuj prawym przyciskiem myszy wiadomość</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Wyciąg z konta</LttlAcctBal>
+    <LttlAcctBalNote>Tutaj można zdefiniować konfiguracje formatowania wyciągu z konta partnera biznesowego</LttlAcctBalNote>
+    <LtxtECDays>Liczba dni</LtxtECDays>
+    <LtxtShowCxcOpenInv>Pokaż otwarte faktury na wyciągu z konta</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Oblicz wiek wyciągu z konta </LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Data dokumentu</LoptDocDate>
+    <LtxtDocDueDate>Termin zwrotu dokumentu</LtxtDocDueDate>
+    <LoptCardAgent2>Sprzedawca klienta</LoptCardAgent2>
+    <LtxtNatLng>Język ojczysty</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Pokaż przyszłe transakcje</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Aktywuj dziennik login klienta</LEnableCLogLogin>
+    <LEnableVLogLogin>Aktywuj dziennik login sprzedawcy</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Aktywuj dziennik poszukiwań klienta</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Aktywuj dziennik wyniku poszukiwań pozycji oglądanych przez klientów</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Aktywuj dziennik szczegółów pozycji oglądanych przez klientów</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Aktywuj dziennik pozycji nabytych przez klientów</LEnableCItemPurLog>
+    <LtxtLogDesc>Tutaj można aktywować i dezaktywować dzienniki OLK</LtxtLogDesc>
+    <LttlAgentClientFilter>Filtr Partnerów Biznesowych</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>Tutaj można określić filtr dla wyników poszukiwania klienta</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Kod sprzedawcy</LtxtAgentCode>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LtxtValClientFilter>Musisz zweryfikować filtr zapytania klienta</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Zezwól na poszukiwanie klienta za pomocą numeru identyfikacji podatkowej"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Zezwól na poszukiwanie klienta za pomocą "ujednoliconego numeru identyfikacji podatkowej"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Pokaż termin płatności</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Zezwól Sprzedawcom na dostęp do otwartych dokumentów klientów</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Operacje PB - tabulator domyślny</LtxtDefTab>
+    <LtxtGenData>Dane ogólne</LtxtGenData>
+    <LtxtOlkAct>Działania OLK</LtxtOlkAct>
+    <LtxtPendOlk>Otwarte dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otwarte dokumenty  SBO</LtxtPendSBO>
+    <LtxtOffers>Oferty</LtxtOffers>
+    <LtxtNumFormat>Format numeru</LtxtNumFormat>
+    <LtxtCntDate>Data kontaktu</LtxtCntDate>
+    <LtxtDefActOrdr>Układ domyślnego podziału działań </LtxtDefActOrdr>
+    <LtxtBPSearch>Szukaj partnerów biznesowych</LtxtBPSearch>
+    <LtxtStateAct>Wyciąg z konta</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtReceipts>Potvrdenky o zaplatení</DtxtReceipts>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLog>Záznam</DtxtLog>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtBPCode>Kód Obchodného partnera</DtxtBPCode>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>Všeobecné možnosti</LttlGenOpt>
+    <LttlGenOptNote>Tu sa dajú definovať všeobecné možnosti systému.</LttlGenOptNote>
+    <LtxtSlpCode>Agent pre OLK klientov</LtxtSlpCode>
+    <LtxtAddDocSlpCode>Agent posledného dokumentu</LtxtAddDocSlpCode>
+    <LoptCardAgent>Agent klienta</LoptCardAgent>
+    <LoptDocAgent>Agent dokumentu</LoptDocAgent>
+    <LtxtAsignedSLP>Uzamknutí agenti k svojim prideleným klientom</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>Umožniť retroaktívne ankety</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>Doba v dňoch na uchovanie predošlých ankiet</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>Umožni pobočky</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>Zahraničná mena - Použiť posledný výmenný kurz</LtxtCopyLastFCRate>
+    <LtxtCarArt>Vlastnosti deaktivovaných položiek</LtxtCarArt>
+    <LtxtEnBlockRClk>Zablokovanie možnosti kliknutia pravým tlačidlom myše (Klienti)</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>Správa o zablokovaní možnosti kliknutia pravým tlačidlom myše</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>Výpis z účtu</LttlAcctBal>
+    <LttlAcctBalNote>Tu sa dajú definovať konfigurácie týkajúce sa spôsobu formátovania Výpisov z účtu obchodného partnera.</LttlAcctBalNote>
+    <LtxtECDays>Počet dní</LtxtECDays>
+    <LtxtShowCxcOpenInv>Zobraziť otvorené faktúry vo Výpise z účtu</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>Vypočítať dobu uchovania výpisu z účtu</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>Dátum dokumentu</LoptDocDate>
+    <LtxtDocDueDate>Dátum splatnosti dokumentu</LtxtDocDueDate>
+    <LoptCardAgent2>Agent klienta</LoptCardAgent2>
+    <LtxtNatLng>Rodný jazyk</LtxtNatLng>
+    <LtxtShowCxcIncTrans>Zobraziť budúce transakcie</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>Umožniť záznam prístupov klienta</LEnableCLogLogin>
+    <LEnableVLogLogin>Umožni záznam o prístupoch agentov</LEnableVLogLogin>
+    <LEnableCSearchFilterL>Umožniť filtrový záznam vyhlľadávania klientov</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>Umožniť zobrazenie položiek výsledkov vyhľadávania podľa záznamu klientov</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>Umožniť zobrazenie údajov o položke podľa záznamu klientov</LEnableCItemViewLog>
+    <LEnableCItemPurLog>Umožniť zobrazenie zakúpených položiek podľa záznamu klientov</LEnableCItemPurLog>
+    <LtxtLogDesc>Tu sa dajú sprístupniť/zneprístupniť OLK záznamy.</LtxtLogDesc>
+    <LttlAgentClientFilter>Filter biznis partnerov</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>Tu sa dá stanoviť filter výsledkov vyhľadávania klientov.</LttlAgentCLFilterNote>
+    <LtxtAgentCode>Kód agenta</LtxtAgentCode>
+    <LtxtAvlVars>Dostupné premenné</LtxtAvlVars>
+    <LtxtValClientFilter>Musíte overiť dotaz filtra klientov</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>Umožniť vyhľadávanie klientov podľa "Daňového identifikačného čísla"</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>Umožniť vyhľadávanie klientov podľa "Jednotného Daňového identifikačného čísla"</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>Zobraziť dátum splatnosti</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>Povoľ agentom prístup k otvoreným dokumentom klientov</LtxtAllowAgentAccessC>
+    <LtxtDefTab>Činnosti obchodného partnera - Východisková záložka</LtxtDefTab>
+    <LtxtGenData>Všeobecné dáta</LtxtGenData>
+    <LtxtOlkAct>Aktivity OLK</LtxtOlkAct>
+    <LtxtPendOlk>Otvorené dokumenty OLK</LtxtPendOlk>
+    <LtxtPendSBO>Otvorené dolumenty SBO</LtxtPendSBO>
+    <LtxtOffers>Ponuky</LtxtOffers>
+    <LtxtNumFormat>Číselný formát</LtxtNumFormat>
+    <LtxtCntDate>Dátum kontaktu</LtxtCntDate>
+    <LtxtDefActOrdr>Predvolené radenie činností</LtxtDefActOrdr>
+    <LtxtBPSearch>Vyhľadávanie Obchodných partnerov</LtxtBPSearch>
+    <LtxtStateAct>Výpis z účtu</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtCountry>&lt;--&gt;</DtxtCountry>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtReceipts>&lt;--&gt;</DtxtReceipts>
+    <DtxtAsc>&lt;--&gt;</DtxtAsc>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLog>&lt;--&gt;</DtxtLog>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtBPCode>&lt;--&gt;</DtxtBPCode>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtObjCode>&lt;--&gt;</DtxtObjCode>
+    <LttlGenOpt>&lt;--&gt;</LttlGenOpt>
+    <LttlGenOptNote>&lt;--&gt;</LttlGenOptNote>
+    <LtxtSlpCode>&lt;--&gt;</LtxtSlpCode>
+    <LtxtAddDocSlpCode>&lt;--&gt;</LtxtAddDocSlpCode>
+    <LoptCardAgent>&lt;--&gt;</LoptCardAgent>
+    <LoptDocAgent>&lt;--&gt;</LoptDocAgent>
+    <LtxtAsignedSLP>&lt;--&gt;</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>&lt;--&gt;</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>&lt;--&gt;</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>&lt;--&gt;</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>&lt;--&gt;</LtxtCopyLastFCRate>
+    <LtxtCarArt>&lt;--&gt;</LtxtCarArt>
+    <LtxtEnBlockRClk>&lt;--&gt;</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>&lt;--&gt;</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>&lt;--&gt;</LttlAcctBal>
+    <LttlAcctBalNote>&lt;--&gt;</LttlAcctBalNote>
+    <LtxtECDays>&lt;--&gt;</LtxtECDays>
+    <LtxtShowCxcOpenInv>&lt;--&gt;</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>&lt;--&gt;</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>&lt;--&gt;</LoptDocDate>
+    <LtxtDocDueDate>&lt;--&gt;</LtxtDocDueDate>
+    <LoptCardAgent2>&lt;--&gt;</LoptCardAgent2>
+    <LtxtNatLng>&lt;--&gt;</LtxtNatLng>
+    <LtxtShowCxcIncTrans>&lt;--&gt;</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>&lt;--&gt;</LEnableCLogLogin>
+    <LEnableVLogLogin>&lt;--&gt;</LEnableVLogLogin>
+    <LEnableCSearchFilterL>&lt;--&gt;</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>&lt;--&gt;</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>&lt;--&gt;</LEnableCItemViewLog>
+    <LEnableCItemPurLog>&lt;--&gt;</LEnableCItemPurLog>
+    <LtxtLogDesc>&lt;--&gt;</LtxtLogDesc>
+    <LttlAgentClientFilter>&lt;--&gt;</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>&lt;--&gt;</LttlAgentCLFilterNote>
+    <LtxtAgentCode>&lt;--&gt;</LtxtAgentCode>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LtxtValClientFilter>&lt;--&gt;</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>&lt;--&gt;</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>&lt;--&gt;</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>&lt;--&gt;</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>&lt;--&gt;</LtxtAllowAgentAccessC>
+    <LtxtDefTab>&lt;--&gt;</LtxtDefTab>
+    <LtxtGenData>&lt;--&gt;</LtxtGenData>
+    <LtxtOlkAct>&lt;--&gt;</LtxtOlkAct>
+    <LtxtPendOlk>&lt;--&gt;</LtxtPendOlk>
+    <LtxtPendSBO>&lt;--&gt;</LtxtPendSBO>
+    <LtxtOffers>&lt;--&gt;</LtxtOffers>
+    <LtxtNumFormat>&lt;--&gt;</LtxtNumFormat>
+    <LtxtCntDate>&lt;--&gt;</LtxtCntDate>
+    <LtxtDefActOrdr>&lt;--&gt;</LtxtDefActOrdr>
+    <LtxtBPSearch>&lt;--&gt;</LtxtBPSearch>
+    <LtxtStateAct>&lt;--&gt;</LtxtStateAct>
+    <LtxtValViewDocFilter>&lt;--&gt;</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>&lt;--&gt;</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>&lt;--&gt;</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>&lt;--&gt;</LtxtAddUserApr>
+    <LtxtEnableAtt>&lt;--&gt;</LtxtEnableAtt>
+    <LShowBPCountry>&lt;--&gt;</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>&lt;--&gt;</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>&lt;--&gt;</LtxtEnableDelegate>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtReceipts>DtxtReceipts</DtxtReceipts>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLog>DtxtLog</DtxtLog>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtBPCode>DtxtBPCode</DtxtBPCode>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtActivities>DtxtActivities</DtxtActivities>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtObjCode>DtxtObjCode</DtxtObjCode>
+    <LttlGenOpt>LttlGenOpt</LttlGenOpt>
+    <LttlGenOptNote>LttlGenOptNote</LttlGenOptNote>
+    <LtxtSlpCode>LtxtSlpCode</LtxtSlpCode>
+    <LtxtAddDocSlpCode>LtxtAddDocSlpCode</LtxtAddDocSlpCode>
+    <LoptCardAgent>LoptCardAgent</LoptCardAgent>
+    <LoptDocAgent>LoptDocAgent</LoptDocAgent>
+    <LtxtAsignedSLP>LtxtAsignedSLP</LtxtAsignedSLP>
+    <LtxtEnRetroPoll>LtxtEnRetroPoll</LtxtEnRetroPoll>
+    <LtxtEnRetroPollDays>LtxtEnRetroPollDays</LtxtEnRetroPollDays>
+    <LtxtEnableBranchs>LtxtEnableBranchs</LtxtEnableBranchs>
+    <LtxtCopyLastFCRate>LtxtCopyLastFCRate</LtxtCopyLastFCRate>
+    <LtxtCarArt>LtxtCarArt</LtxtCarArt>
+    <LtxtEnBlockRClk>LtxtEnBlockRClk</LtxtEnBlockRClk>
+    <LtxtEnBlkRClkMsg>LtxtEnBlkRClkMsg</LtxtEnBlkRClkMsg>
+    <LttlAcctBal>LttlAcctBal</LttlAcctBal>
+    <LttlAcctBalNote>LttlAcctBalNote</LttlAcctBalNote>
+    <LtxtECDays>LtxtECDays</LtxtECDays>
+    <LtxtShowCxcOpenInv>LtxtShowCxcOpenInv</LtxtShowCxcOpenInv>
+    <LtxtShowCxcOpenInvBy>LtxtShowCxcOpenInvBy</LtxtShowCxcOpenInvBy>
+    <LoptDocDate>LoptDocDate</LoptDocDate>
+    <LtxtDocDueDate>LtxtDocDueDate</LtxtDocDueDate>
+    <LoptCardAgent2>LoptCardAgent2</LoptCardAgent2>
+    <LtxtNatLng>LtxtNatLng</LtxtNatLng>
+    <LtxtShowCxcIncTrans>LtxtShowCxcIncTrans</LtxtShowCxcIncTrans>
+    <LEnableCLogLogin>LEnableCLogLogin</LEnableCLogLogin>
+    <LEnableVLogLogin>LEnableVLogLogin</LEnableVLogLogin>
+    <LEnableCSearchFilterL>LEnableCSearchFilterL</LEnableCSearchFilterL>
+    <LEnableCSearchItemLog>LEnableCSearchItemLog</LEnableCSearchItemLog>
+    <LEnableCItemViewLog>LEnableCItemViewLog</LEnableCItemViewLog>
+    <LEnableCItemPurLog>LEnableCItemPurLog</LEnableCItemPurLog>
+    <LtxtLogDesc>LtxtLogDesc</LtxtLogDesc>
+    <LttlAgentClientFilter>LttlAgentClientFilter</LttlAgentClientFilter>
+    <LttlAgentCLFilterNote>LttlAgentCLFilterNote</LttlAgentCLFilterNote>
+    <LtxtAgentCode>LtxtAgentCode</LtxtAgentCode>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LtxtValClientFilter>LtxtValClientFilter</LtxtValClientFilter>
+    <LtxtEnableCSearchByLi>LtxtEnableCSearchByLi</LtxtEnableCSearchByLi>
+    <LtxtEnableCSearchByVa>LtxtEnableCSearchByVa</LtxtEnableCSearchByVa>
+    <LtxtShowCxcDueDate>LtxtShowCxcDueDate</LtxtShowCxcDueDate>
+    <LtxtAllowAgentAccessC>LtxtAllowAgentAccessC</LtxtAllowAgentAccessC>
+    <LtxtDefTab>LtxtDefTab</LtxtDefTab>
+    <LtxtGenData>LtxtGenData</LtxtGenData>
+    <LtxtOlkAct>LtxtOlkAct</LtxtOlkAct>
+    <LtxtPendOlk>LtxtPendOlk</LtxtPendOlk>
+    <LtxtPendSBO>LtxtPendSBO</LtxtPendSBO>
+    <LtxtOffers>LtxtOffers</LtxtOffers>
+    <LtxtNumFormat>LtxtNumFormat</LtxtNumFormat>
+    <LtxtCntDate>LtxtCntDate</LtxtCntDate>
+    <LtxtDefActOrdr>LtxtDefActOrdr</LtxtDefActOrdr>
+    <LtxtBPSearch>LtxtBPSearch</LtxtBPSearch>
+    <LtxtStateAct>LtxtStateAct</LtxtStateAct>
+    <LtxtValViewDocFilter>LtxtValViewDocFilter</LtxtValViewDocFilter>
+    <LtxtViewDocFilter>LtxtViewDocFilter</LtxtViewDocFilter>
+    <LtxtViewDocFilterNote>LtxtViewDocFilterNote</LtxtViewDocFilterNote>
+    <LtxtAddUserApr>LtxtAddUserApr</LtxtAddUserApr>
+    <LtxtEnableAtt>LtxtEnableAtt</LtxtEnableAtt>
+    <LShowBPCountry>LShowBPCountry</LShowBPCountry>
+    <LtxtFlowAutDirectAdd>LtxtFlowAutDirectAdd</LtxtFlowAutDirectAdd>
+    <LtxtEnableDelegate>LtxtEnableDelegate</LtxtEnableDelegate>
+  </language>
+</languages>

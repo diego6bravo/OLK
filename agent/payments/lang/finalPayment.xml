@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtInstallment>Installment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtPrevBal>Previous Balance</LtxtPrevBal>
+    <LtxtPendBal>Pending Balance</LtxtPendBal>
+    <LttlDraftNote>This receipt was created as a draft and is subject to approval</LttlDraftNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtDetail>Detalle</DtxtDetail>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Plazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <LtxtCounterRef>Contra Comprobante</LtxtCounterRef>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtCredCard>T. Crédito</LtxtCredCard>
+    <LtxtBankTrans>T. Bancaria</LtxtBankTrans>
+    <LtxtPrevBal>Saldo Anterior</LtxtPrevBal>
+    <LtxtPendBal>Saldo Pendiente</LtxtPendBal>
+    <LttlDraftNote>Este recibo fue creado como borrador y está sujeto a aprobación</LttlDraftNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtDoc>מסמך</DtxtDoc>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtDetail>פרטים</DtxtDetail>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtInstallment>תשלום</DtxtInstallment>
+    <DtxtXofY>{0} מתוך {1}</DtxtXofY>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <LtxtCounterRef>אסמכתא נגדית</LtxtCounterRef>
+    <LtxtCash>מזומנים</LtxtCash>
+    <LtxtCheck>צ'ק</LtxtCheck>
+    <LtxtCredCard>כרטיס אשראי</LtxtCredCard>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtPrevBal>יתרה קודמת</LtxtPrevBal>
+    <LtxtPendBal>יתרה פתוחה</LtxtPendBal>
+    <LttlDraftNote>הקבלה נוצרה כטיוטה ודורשת אישור</LttlDraftNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtInstallment>Instalment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtCredCard>Credit Card</LtxtCredCard>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtPrevBal>Previous Balance</LtxtPrevBal>
+    <LtxtPendBal>Pending Balance</LtxtPendBal>
+    <LttlDraftNote>This receipt was created as a draft and is subject to approval</LttlDraftNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtDetail>Detalhe</DtxtDetail>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Prazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <LtxtCounterRef>Contra Comprovante</LtxtCounterRef>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtCredCard>Cartão Crédito</LtxtCredCard>
+    <LtxtBankTrans>Cartão Bancário</LtxtBankTrans>
+    <LtxtPrevBal>Saldo Anterior</LtxtPrevBal>
+    <LtxtPendBal>Saldo Pendente</LtxtPendBal>
+    <LttlDraftNote>Este recibo foi criado como esboço e esta sujeito a aprovação</LttlDraftNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDoc>Documentation</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtDetail>Détail</DtxtDetail>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtInstallment>&lt;--&gt;</DtxtInstallment>
+    <DtxtXofY>&lt;--&gt;</DtxtXofY>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <LtxtCounterRef>Contre quittance</LtxtCounterRef>
+    <LtxtCash>Effectif</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtCredCard>Card de crédit</LtxtCredCard>
+    <LtxtBankTrans>Virement bancaire</LtxtBankTrans>
+    <LtxtPrevBal>Solde précédent</LtxtPrevBal>
+    <LtxtPendBal>Solde pendant</LtxtPendBal>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtDetail>Einzelheit</DtxtDetail>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtInstallment>Rate</DtxtInstallment>
+    <DtxtXofY>{0} von {1}</DtxtXofY>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <LtxtCounterRef>Gegenbezug</LtxtCounterRef>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtCredCard>Kreditkarte</LtxtCredCard>
+    <LtxtBankTrans>Überweisung</LtxtBankTrans>
+    <LtxtPrevBal>Vorherige Summe</LtxtPrevBal>
+    <LtxtPendBal>Ausstehende Summe</LtxtPendBal>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDoc>Документ</DtxtDoc>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtDetail>Детали</DtxtDetail>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtInstallment>Платеж</DtxtInstallment>
+    <DtxtXofY>{0} из {1}</DtxtXofY>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <LtxtCounterRef>Противоположный источник</LtxtCounterRef>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheck>Чек</LtxtCheck>
+    <LtxtCredCard>Кредитные карточки</LtxtCredCard>
+    <LtxtBankTrans>Банковский перевод</LtxtBankTrans>
+    <LtxtPrevBal>Предыдущий баланс</LtxtPrevBal>
+    <LtxtPendBal>Открытый баланс</LtxtPendBal>
+    <LttlDraftNote>Квитанция была создана в качестве проекта и требует утверждения</LttlDraftNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtDetail>Podrobnosti</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtInstallment>Instalace</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtCounterRef>Reference protinávrhu</LtxtCounterRef>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtCredCard>Kreditní karta</LtxtCredCard>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtPrevBal>Předchozí zůstatek</LtxtPrevBal>
+    <LtxtPendBal>Nevyřízený zůstatek</LtxtPendBal>
+    <LttlDraftNote>Tato příjemka byla vytvořena jako návrh a musí být schválena</LttlDraftNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtDetail>Szczegóły</DtxtDetail>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtInstallment>Rata</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <LtxtCounterRef>Adnotacja/odnośnik</LtxtCounterRef>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtCredCard>Karta kredytowa</LtxtCredCard>
+    <LtxtBankTrans>Przelew bankowy</LtxtBankTrans>
+    <LtxtPrevBal>Poprzednie saldo</LtxtPrevBal>
+    <LtxtPendBal>Pozostające saldo</LtxtPendBal>
+    <LttlDraftNote>To potwierdzenie stworzono jako projekt i powinno być zatwierdzone</LttlDraftNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtInstallment>Splátka</DtxtInstallment>
+    <DtxtXofY>{0} alebo {1}</DtxtXofY>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LtxtCounterRef>Odkaz na pokladňu</LtxtCounterRef>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtCredCard>Kreditná karta</LtxtCredCard>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtPrevBal>Predošlý zostatok</LtxtPrevBal>
+    <LtxtPendBal>Zostávajúci zostatok</LtxtPendBal>
+    <LttlDraftNote>Toto potvrdenie bolo vytvorené ako návrh a je predmetom na schválenie</LttlDraftNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDoc>DtxtDoc</DtxtDoc>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtDetail>DtxtDetail</DtxtDetail>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtInstallment>DtxtInstallment</DtxtInstallment>
+    <DtxtXofY>DtxtXofY</DtxtXofY>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <LtxtCounterRef>LtxtCounterRef</LtxtCounterRef>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtCredCard>LtxtCredCard</LtxtCredCard>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtPrevBal>LtxtPrevBal</LtxtPrevBal>
+    <LtxtPendBal>LtxtPendBal</LtxtPendBal>
+    <LttlDraftNote>LttlDraftNote</LttlDraftNote>
+  </language>
+</languages>

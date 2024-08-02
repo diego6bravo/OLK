@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtCelular>Mobile Phone</LtxtCelular>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtAddData>Datos Adicionales</DtxtAddData>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LtxtCelular>Celular</LtxtCelular>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtAddData>נתונים נוספים</DtxtAddData>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LtxtCelular>נייד</LtxtCelular>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtAddData>Additional Data</DtxtAddData>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LtxtCelular>Mobile Phone</LtxtCelular>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtAddData>Dados Adicionais</DtxtAddData>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>Novo Parceiro de Negócios</LttlNewClient>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LtxtCelular>Celular</LtxtCelular>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtAddData>Données supplementaires</DtxtAddData>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtCelular>Portable</LtxtCelular>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtAddData>Zusätsliche Daten</DtxtAddData>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtCelular>Mobil Telefon</LtxtCelular>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtAddData>Дополнительные данные</DtxtAddData>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtCelular>&lt;--&gt;</LtxtCelular>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Další údaje</DtxtAddData>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+    <LttlEditClient>Upravit obchodního partnera </LttlEditClient>
+    <LtxtCelular>Mobilní telefon</LtxtCelular>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtAddData>Dodatkowe dane</DtxtAddData>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>Nowy Partner Biznesowy</LttlNewClient>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LtxtCelular>Komórka</LtxtCelular>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtAddData>Doplnkové údaje</DtxtAddData>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <LttlNewClient>Nový Obchodný partner</LttlNewClient>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LtxtCelular>Mobilný telefón</LtxtCelular>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtEMail>&lt;--&gt;</DtxtEMail>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtObservations>&lt;--&gt;</DtxtObservations>
+    <DtxtAddData>&lt;--&gt;</DtxtAddData>
+    <DtxtPhone>&lt;--&gt;</DtxtPhone>
+    <DtxtFax>&lt;--&gt;</DtxtFax>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LtxtCelular>&lt;--&gt;</LtxtCelular>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtAddData>DtxtAddData</DtxtAddData>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LtxtCelular>LtxtCelular</LtxtCelular>
+  </language>
+</languages>

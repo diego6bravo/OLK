@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtPercentage>Percentage</DtxtPercentage>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtSum>Sum</DtxtSum>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtAlternative>Alternative</DtxtAlternative>
+    <LttlCustDec>Decimals</LttlCustDec>
+    <LttlCustDecNote>Here you can define alternative decimals over the system</LttlCustDecNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtRate>Tasas</DtxtRate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtPercentage>Porcentaje</DtxtPercentage>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtAlternative>Alternativo</DtxtAlternative>
+    <LttlCustDec>Decimales</LttlCustDec>
+    <LttlCustDecNote>En esta sección podrá definir cantidad de decimales alternos al del sistema</LttlCustDecNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtRate>שערים</DtxtRate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtPercentage>אחוז</DtxtPercentage>
+    <DtxtMeasure>מידה</DtxtMeasure>
+    <DtxtSum>סיכום</DtxtSum>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtAlternative>חילופי</DtxtAlternative>
+    <LttlCustDec>דצימלים</LttlCustDec>
+    <LttlCustDecNote>בחלק זה תוכל להגדיר את כמות הדצימלים החילופיים של המערכת</LttlCustDecNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtRate>Rate</DtxtRate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtPercentage>Percentage</DtxtPercentage>
+    <DtxtMeasure>Measure</DtxtMeasure>
+    <DtxtSum>Sum</DtxtSum>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtAlternative>Alternative</DtxtAlternative>
+    <LttlCustDec>Decimals</LttlCustDec>
+    <LttlCustDecNote>Here you can define alternative decimals over the system</LttlCustDecNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtRate>Taxas</DtxtRate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtPercentage>Percentagem</DtxtPercentage>
+    <DtxtMeasure>Medida</DtxtMeasure>
+    <DtxtSum>Soma</DtxtSum>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtAlternative>Alternativo</DtxtAlternative>
+    <LttlCustDec>Decimais</LttlCustDec>
+    <LttlCustDecNote>Nesta seção, você pode definir número alternativo de casas decimais para a utilização no sistema</LttlCustDecNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtRate>Taux</DtxtRate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtPercentage>Pourcentage</DtxtPercentage>
+    <DtxtMeasure>Mesure</DtxtMeasure>
+    <DtxtSum>Addition</DtxtSum>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtAlternative>&lt;--&gt;</DtxtAlternative>
+    <LttlCustDec>&lt;--&gt;</LttlCustDec>
+    <LttlCustDecNote>&lt;--&gt;</LttlCustDecNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtRate>Tarif</DtxtRate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtPercentage>Prozentsatz</DtxtPercentage>
+    <DtxtMeasure>Maß</DtxtMeasure>
+    <DtxtSum>Summe</DtxtSum>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtAlternative>Andere Auswahl</DtxtAlternative>
+    <LttlCustDec>&lt;--&gt;</LttlCustDec>
+    <LttlCustDecNote>&lt;--&gt;</LttlCustDecNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtRate>Курс</DtxtRate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtPercentage>Процент</DtxtPercentage>
+    <DtxtMeasure>Размер</DtxtMeasure>
+    <DtxtSum>Резюмирование</DtxtSum>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtAlternative>&lt;--&gt;</DtxtAlternative>
+    <LttlCustDec>&lt;--&gt;</LttlCustDec>
+    <LttlCustDecNote>&lt;--&gt;</LttlCustDecNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtRate>Sazba</DtxtRate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtPercentage>Procentní podíl</DtxtPercentage>
+    <DtxtMeasure>Opatření</DtxtMeasure>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtAlternative>&lt;--&gt;</DtxtAlternative>
+    <LttlCustDec>&lt;--&gt;</LttlCustDec>
+    <LttlCustDecNote>&lt;--&gt;</LttlCustDecNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtRate>Kurs</DtxtRate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtPercentage>Procent</DtxtPercentage>
+    <DtxtMeasure>Miara</DtxtMeasure>
+    <DtxtSum>Suma</DtxtSum>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtAlternative>Alternatywny</DtxtAlternative>
+    <LttlCustDec>Miejsca po przecinku</LttlCustDec>
+    <LttlCustDecNote>Tutaj możesz zdefiniować alternatywne miejsca po przecinku w systemie</LttlCustDecNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtRate>Kurz</DtxtRate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtPercentage>Percento</DtxtPercentage>
+    <DtxtMeasure>Zmerať</DtxtMeasure>
+    <DtxtSum>Súčet</DtxtSum>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtAlternative>Alternatívne</DtxtAlternative>
+    <LttlCustDec>Desatiny</LttlCustDec>
+    <LttlCustDecNote>Tu môžete definovať alternatívne desatiny pre systém</LttlCustDecNote>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtRate>&lt;--&gt;</DtxtRate>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtPercentage>&lt;--&gt;</DtxtPercentage>
+    <DtxtMeasure>&lt;--&gt;</DtxtMeasure>
+    <DtxtSum>&lt;--&gt;</DtxtSum>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtAlternative>&lt;--&gt;</DtxtAlternative>
+    <LttlCustDec>&lt;--&gt;</LttlCustDec>
+    <LttlCustDecNote>&lt;--&gt;</LttlCustDecNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtRate>DtxtRate</DtxtRate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtPercentage>DtxtPercentage</DtxtPercentage>
+    <DtxtMeasure>DtxtMeasure</DtxtMeasure>
+    <DtxtSum>DtxtSum</DtxtSum>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtAlternative>DtxtAlternative</DtxtAlternative>
+    <LttlCustDec>LttlCustDec</LttlCustDec>
+    <LttlCustDecNote>LttlCustDecNote</LttlCustDecNote>
+  </language>
+</languages>

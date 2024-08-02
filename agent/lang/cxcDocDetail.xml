@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>The client "{0} is not assigned to you</DtxtNoClientAccess>
+    <DtxtNoDocAccess>You are not allowed to view documents not created by you</DtxtNoDocAccess>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtDocDet>Document details</LtxtDocDet>
+    <LtxtTo>To</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Cart</LtxtCredCard>
+    <LtxtPymntCond>Payment Terms</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpToExcell>Export to Excell</LtxtExpToExcell>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+    <LttlConfirmNote>This document requires additional approval in SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtInvDueDate>A pagar hasta</DtxtInvDueDate>
+    <DtxtDeliveryDate>Fecha de entrega</DtxtDeliveryDate>
+    <DtxtComDate>Fecha de comunicación</DtxtComDate>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtExpPDF>Exportar a PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtDueDate>Fecha de vencimiento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtNoAccessObj>No tiene acceso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>El cliente "{0}" no está asignado a usted</DtxtNoClientAccess>
+    <DtxtNoDocAccess>No tiene acceso para visualizar documentos que no fueron creador por usted</DtxtNoDocAccess>
+    <DtxtDPM>Anticipo</DtxtDPM>
+    <LtxtDocDet>Detalles de Documento</LtxtDocDet>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>F. Vencimiento</LtxtDueDate>
+    <LtxtProd>Producto</LtxtProd>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>T. Bancaria</LtxtBankTrans>
+    <LtxtCredCard>T. Crédito</LtxtCredCard>
+    <LtxtPymntCond>Condición de Pago</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpToExcell>Exportar a Excell</LtxtExpToExcell>
+    <LtxtUnitPrice>Precio unitario</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Precio despues desc.</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Dirección de envío</LtxtShipAdd>
+    <LtxtPayAdd>Dirección de pago</LtxtPayAdd>
+    <LttlDraftNote>Este documento fue creado como borrador y está sujeto a aprobación</LttlDraftNote>
+    <LttlConfirmNote>Este documento requiere aprobación adicional en SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtInvDueDate>לשלם עד</DtxtInvDueDate>
+    <DtxtDeliveryDate>תאריך אספקה</DtxtDeliveryDate>
+    <DtxtComDate>תקף עד</DtxtComDate>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtExpPDF>ייצוא ל PDF</DtxtExpPDF>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtDueDate>תאריך ערך</DtxtDueDate>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtNoAccessObj>אין לך הרשאה לראות "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>הלקוח "{0}" אינו מקושר אליך!</DtxtNoClientAccess>
+    <DtxtNoDocAccess>אינך רשאי לראות מסמכים שלא יצרת</DtxtNoDocAccess>
+    <DtxtDPM>מקדמה</DtxtDPM>
+    <LtxtDocDet>פריטי מסמך</LtxtDocDet>
+    <LtxtTo>ל</LtxtTo>
+    <LtxtEMail>דואר אלקטרוני</LtxtEMail>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtProd>מוצר</LtxtProd>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheck>צק</LtxtCheck>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtCredCard>כרטיס אשראי</LtxtCredCard>
+    <LtxtPymntCond>תנאי תשלום</LtxtPymntCond>
+    <LtxtSubTotal>סיכום ביניים</LtxtSubTotal>
+    <LtxtExpToExcell>ייצא לאקסל</LtxtExpToExcell>
+    <LtxtUnitPrice>מחיר יח'</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>מחיר אחרי הנחה</LtxtPriceAfterDisc>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtPayAdd>כתובת תשלום</LtxtPayAdd>
+    <LttlDraftNote>המסמך הנ"ל נוצר כטיוטה ודורש אישור נוסף</LttlDraftNote>
+    <LttlConfirmNote>המסמך הנ"ל דורש אישור נוסף </LttlConfirmNote>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtExpPDF>Export to PDF</DtxtExpPDF>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtDueDate>Due Date</DtxtDueDate>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtNoAccessObj>You do not have access to view "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>The client "{0} is not assigned to you</DtxtNoClientAccess>
+    <DtxtNoDocAccess>You are not allowed to view documents not created by you</DtxtNoDocAccess>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtDocDet>Document details</LtxtDocDet>
+    <LtxtTo>To</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtProd>Product</LtxtProd>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCredCard>Credit Cart</LtxtCredCard>
+    <LtxtPymntCond>Payment Terms</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpToExcell>Export to Excell</LtxtExpToExcell>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+    <LttlConfirmNote>This document requires additional approval in SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtInvDueDate>A pagar até</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data de Entrega</DtxtDeliveryDate>
+    <DtxtComDate>Data da Comunicação</DtxtComDate>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtExpPDF>Exportar para PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtDueDate>Data de Vencimento</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtNoAccessObj>Você não tem acesso para visualizar "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>O cliente "{0}" não está vinculado para você</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Você não tem acesso para visualizar documentos que nao foram criados por você</DtxtNoDocAccess>
+    <DtxtDPM>Adiantamento</DtxtDPM>
+    <LtxtDocDet>Detalhes do Documento</LtxtDocDet>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>D. Vencimento</LtxtDueDate>
+    <LtxtProd>Produto</LtxtProd>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Cartão Bancário</LtxtBankTrans>
+    <LtxtCredCard>Cartão Crédito</LtxtCredCard>
+    <LtxtPymntCond>Condição de Pagamento</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpToExcell>Exportar para Excel</LtxtExpToExcell>
+    <LtxtUnitPrice>Preço Unitário</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Preço depois do desconto</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Endereço de Envio</LtxtShipAdd>
+    <LtxtPayAdd>Endereço de Pagamento</LtxtPayAdd>
+    <LttlDraftNote>Este documento foi criado como esboço e está sujeito a aprovação</LttlDraftNote>
+    <LttlConfirmNote>Este documento requer aprovação adicional no SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtInvDueDate>À payer jusqu'au</DtxtInvDueDate>
+    <DtxtDeliveryDate>Date de livraison</DtxtDeliveryDate>
+    <DtxtComDate>Date de comunication</DtxtComDate>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtExpPDF>Exporter à PDF</DtxtExpPDF>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtDueDate>Date d'échéance (Valable jusqu'au)</DtxtDueDate>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtNoAccessObj>&lt;--&gt;</DtxtNoAccessObj>
+    <DtxtNoClientAccess>&lt;--&gt;</DtxtNoClientAccess>
+    <DtxtNoDocAccess>&lt;--&gt;</DtxtNoDocAccess>
+    <DtxtDPM>Acompte</DtxtDPM>
+    <LtxtDocDet>Détails de document</LtxtDocDet>
+    <LtxtTo>Pour</LtxtTo>
+    <LtxtEMail>Courrier électronique</LtxtEMail>
+    <LtxtDueDate>Date d'expiration</LtxtDueDate>
+    <LtxtProd>Produit</LtxtProd>
+    <LtxtCash>Effectif</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Virement bancaire</LtxtBankTrans>
+    <LtxtCredCard>Card de crédit</LtxtCredCard>
+    <LtxtPymntCond>Condition de versement</LtxtPymntCond>
+    <LtxtSubTotal>Subtotal</LtxtSubTotal>
+    <LtxtExpToExcell>Export vers l'Excell</LtxtExpToExcell>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+    <LttlConfirmNote>&lt;--&gt;</LttlConfirmNote>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Zahlung fällig</DtxtInvDueDate>
+    <DtxtDeliveryDate>Lieferungsdatum</DtxtDeliveryDate>
+    <DtxtComDate>Kommunikationsdatum</DtxtComDate>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtExpPDF>Als PDF Exportieren</DtxtExpPDF>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtDueDate>Fälligkeitsdatum</DtxtDueDate>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtNoAccessObj>Sie haben keinen Zugang zu der Ansicht von "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>Der Kunde "{0}" ist ihnen nicht zugewiesen</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Sie können keine Dokumente anschauen die Sie nicht selbst erstellt haben</DtxtNoDocAccess>
+    <DtxtDPM>Anzahlung</DtxtDPM>
+    <LtxtDocDet>Dokument Einzelheiten</LtxtDocDet>
+    <LtxtTo>An</LtxtTo>
+    <LtxtEMail>E-Mail</LtxtEMail>
+    <LtxtDueDate>Fälligkeitsdatum</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Barzahlung</LtxtCash>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtBankTrans>Überweisung</LtxtBankTrans>
+    <LtxtCredCard>Kreditkarte</LtxtCredCard>
+    <LtxtPymntCond>Zahlungsbedingungen</LtxtPymntCond>
+    <LtxtSubTotal>Zwischensumme</LtxtSubTotal>
+    <LtxtExpToExcell>Zu Excell exportieren</LtxtExpToExcell>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Lieferadresse</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+    <LttlConfirmNote>&lt;--&gt;</LttlConfirmNote>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtInvDueDate>Заплатить до</DtxtInvDueDate>
+    <DtxtDeliveryDate>Дата  поставки</DtxtDeliveryDate>
+    <DtxtComDate>Действительный до</DtxtComDate>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtExpPDF>Экспорт в PDF</DtxtExpPDF>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtDueDate>Дата  поставки</DtxtDueDate>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtNoAccessObj>Вам не разрешено видеть"{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>Клиент"{0}" Не связано с вами!</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Вам не разрешено видеть  документы, которые созданные не вами</DtxtNoDocAccess>
+    <DtxtDPM>Ав. платеж</DtxtDPM>
+    <LtxtDocDet>Детали документа</LtxtDocDet>
+    <LtxtTo>К</LtxtTo>
+    <LtxtEMail>Электронная почта</LtxtEMail>
+    <LtxtDueDate>Изменить дату</LtxtDueDate>
+    <LtxtProd>Товар</LtxtProd>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheck>Чек</LtxtCheck>
+    <LtxtBankTrans>Банковский перевод</LtxtBankTrans>
+    <LtxtCredCard>Кредитные карточки</LtxtCredCard>
+    <LtxtPymntCond>Условия оплаты</LtxtPymntCond>
+    <LtxtSubTotal>Итого</LtxtSubTotal>
+    <LtxtExpToExcell>Экспорт для Эксел</LtxtExpToExcell>
+    <LtxtUnitPrice>Цена  единицы</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Цена после скидки</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Адрес доставки</LtxtShipAdd>
+    <LtxtPayAdd>Адрес платежа</LtxtPayAdd>
+    <LttlDraftNote>Этот документ был создан в качестве проекта, и требует дополнительного подтверждения</LttlDraftNote>
+    <LttlConfirmNote>Настоящий документ не требует дополнительного утверждения в SAP одного бизнеса</LttlConfirmNote>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Zaplatit do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Datum dodání</DtxtDeliveryDate>
+    <DtxtComDate>Datum komunikace</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtExpPDF>Export do PDF</DtxtExpPDF>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtDueDate>Datum splatnosti</DtxtDueDate>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtNoAccessObj>Nemáte přístup pro zobrazení "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>Klient "{0} Vám není přiřazen</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Nemáte oprávnění nahlížet do dokumentů, které jste nevytvořil/a</DtxtNoDocAccess>
+    <DtxtDPM>Záloha</DtxtDPM>
+    <LtxtDocDet>Podrobnosti dokumentu</LtxtDocDet>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtCredCard>Kreditní karta</LtxtCredCard>
+    <LtxtPymntCond>Platební podmínky</LtxtPymntCond>
+    <LtxtSubTotal>Podsoučet</LtxtSubTotal>
+    <LtxtExpToExcell>Export do Excelu</LtxtExpToExcell>
+    <LtxtUnitPrice>Jednotková cena</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po slevě</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Dodací adresa</LtxtShipAdd>
+    <LtxtPayAdd>Adresa pro platbu</LtxtPayAdd>
+    <LttlDraftNote>Tento dokument byl vytvořen jako návrh a musí být schválen</LttlDraftNote>
+    <LttlConfirmNote>Tento dokument vyžaduje další schválení v SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtInvDueDate>Płatne  do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data Dostawy</DtxtDeliveryDate>
+    <DtxtComDate>Ważne do </DtxtComDate>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtExpPDF>Exportuj do PDF</DtxtExpPDF>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtDueDate>Termin Płatności</DtxtDueDate>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtNoAccessObj>Nie masz dostępu do podglądu "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>Klient {0} nie jest przypisany do Ciebie</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Nie możesz zobaczyć dokumentów, które nie były stworzone przez Ciebie</DtxtNoDocAccess>
+    <DtxtDPM>Przedpłata</DtxtDPM>
+    <LtxtDocDet>Szczegóły dokumentu</LtxtDocDet>
+    <LtxtTo>do</LtxtTo>
+    <LtxtEMail>Email</LtxtEMail>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtBankTrans>Przelew bankowy</LtxtBankTrans>
+    <LtxtCredCard>Karta kredytowa</LtxtCredCard>
+    <LtxtPymntCond>Warunki płatności</LtxtPymntCond>
+    <LtxtSubTotal>Suma częściowa </LtxtSubTotal>
+    <LtxtExpToExcell>Eksport do excella</LtxtExpToExcell>
+    <LtxtUnitPrice>Cena jednostki</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po rabacie</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Adres do wysyłki</LtxtShipAdd>
+    <LtxtPayAdd>Adres do faktury</LtxtPayAdd>
+    <LttlDraftNote>Ten dokument powstał jako projekt i musi być zaakceptowany</LttlDraftNote>
+    <LttlConfirmNote>Ten dokument wymaga dodatkowego zatwierdzenia w SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtInvDueDate>Splatnosť</DtxtInvDueDate>
+    <DtxtDeliveryDate>Termín doručenia</DtxtDeliveryDate>
+    <DtxtComDate>Dátum komunikácie</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtExpPDF>Exportovať do PDF</DtxtExpPDF>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtDueDate>Dátum splatnosti</DtxtDueDate>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtNoAccessObj>Nemáte prístup pozrieť si "{0}"</DtxtNoAccessObj>
+    <DtxtNoClientAccess>Používateľ "{0}" Vám nie je pridelený.</DtxtNoClientAccess>
+    <DtxtNoDocAccess>Nemáte povolenie pozrieť si dokumenty, ktoré ste nevytvorili.</DtxtNoDocAccess>
+    <DtxtDPM>DPM</DtxtDPM>
+    <LtxtDocDet>Podrobnosti dokumentu</LtxtDocDet>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtEMail>E-mail</LtxtEMail>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtProd>Produkt</LtxtProd>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtCredCard>Kreditná karta</LtxtCredCard>
+    <LtxtPymntCond>Platobné podmienky</LtxtPymntCond>
+    <LtxtSubTotal>Medzisúčet</LtxtSubTotal>
+    <LtxtExpToExcell>Exportovať do Excelu</LtxtExpToExcell>
+    <LtxtUnitPrice>Jednotková cena</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po zľave</LtxtPriceAfterDisc>
+    <LtxtShipAdd>Doručovacia adresa</LtxtShipAdd>
+    <LtxtPayAdd>Platobná adresa</LtxtPayAdd>
+    <LttlDraftNote>Tento dokument bol vytvorený ako návrh a je predmetom na schválenie</LttlDraftNote>
+    <LttlConfirmNote>Tento dokument vyžaduje dodatočné schválenie v SAP Business One</LttlConfirmNote>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtInvDueDate>DtxtInvDueDate</DtxtInvDueDate>
+    <DtxtDeliveryDate>DtxtDeliveryDate</DtxtDeliveryDate>
+    <DtxtComDate>DtxtComDate</DtxtComDate>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtExpPDF>DtxtExpPDF</DtxtExpPDF>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtDueDate>DtxtDueDate</DtxtDueDate>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtNoAccessObj>DtxtNoAccessObj</DtxtNoAccessObj>
+    <DtxtNoClientAccess>DtxtNoClientAccess</DtxtNoClientAccess>
+    <DtxtNoDocAccess>DtxtNoDocAccess</DtxtNoDocAccess>
+    <DtxtDPM>DtxtDPM</DtxtDPM>
+    <LtxtDocDet>LtxtDocDet</LtxtDocDet>
+    <LtxtTo>LtxtTo</LtxtTo>
+    <LtxtEMail>LtxtEMail</LtxtEMail>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtProd>LtxtProd</LtxtProd>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtCredCard>LtxtCredCard</LtxtCredCard>
+    <LtxtPymntCond>LtxtPymntCond</LtxtPymntCond>
+    <LtxtSubTotal>LtxtSubTotal</LtxtSubTotal>
+    <LtxtExpToExcell>LtxtExpToExcell</LtxtExpToExcell>
+    <LtxtUnitPrice>LtxtUnitPrice</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>LtxtPriceAfterDisc</LtxtPriceAfterDisc>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtPayAdd>LtxtPayAdd</LtxtPayAdd>
+    <LttlDraftNote>LttlDraftNote</LttlDraftNote>
+    <LttlConfirmNote>LttlConfirmNote</LttlConfirmNote>
+  </language>
+</languages>

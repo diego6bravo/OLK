@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlSecIndex>Section Index</LttlSecIndex>
+    <LttlSecIndexNote>Here the number and format of the sections you wish to display in the portal may be specified.</LttlSecIndexNote>
+    <LtxtRows>Row(s)</LtxtRows>
+    <LtxtCols>Column(s)</LtxtCols>
+    <LttlDistInd>Distribution Index</LttlDistInd>
+    <LttlDistIndNote>Here the sections you wish to display in the portal may be selected.</LttlDistIndNote>
+    <LtxtValSelIndex>You must select the index #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>The value of index #{0} is equal to the index #{1}\nYou cannot have two indexes with the same value.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LttlSecIndex>Índice de Secciones</LttlSecIndex>
+    <LttlSecIndexNote>En esta sección podrá especificar el número de secciones que desea mostrar en el portal.</LttlSecIndexNote>
+    <LtxtRows>Fila(s)</LtxtRows>
+    <LtxtCols>Columna(s)</LtxtCols>
+    <LttlDistInd>Distribución de Índice</LttlDistInd>
+    <LttlDistIndNote>En esta sección podrá seleccionar las secciones que desea mostrar en el portal.</LttlDistIndNote>
+    <LtxtValSelIndex>Debe seleccionar el índice #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>El valor del índice #{0} es igual al valor del índice #{1}\nNo puede tener dos índices con el mismo valor.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LttlSecIndex>אינדקס אזורים</LttlSecIndex>
+    <LttlSecIndexNote>בחלק זה תוכל לקבוע את המספר האזורים שאתה מעוניין להציג בממשק הלקוחות</LttlSecIndexNote>
+    <LtxtRows>שורה(ות)</LtxtRows>
+    <LtxtCols>טור(ים)</LtxtCols>
+    <LttlDistInd>פריסת אינדקסים</LttlDistInd>
+    <LttlDistIndNote>בחלק זה תוכל לקבוע אילו אזורים יהיו פעילים בממשק הלקוחות</LttlDistIndNote>
+    <LtxtValSelIndex>צריך לבחור אינדקס {0}#</LtxtValSelIndex>
+    <LtxtValEqIndex>ערך אינדקס {0}# שווה לערך אינדקס {1}#,\nלא ניתן לעבוד עם שניי אינדקסים אשר יש להם את אותו ערך.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlSecIndex>Section Index</LttlSecIndex>
+    <LttlSecIndexNote>Here the number and format of the sections you wish to display in the portal may be specified.</LttlSecIndexNote>
+    <LtxtRows>Row(s)</LtxtRows>
+    <LtxtCols>Column(s)</LtxtCols>
+    <LttlDistInd>Distribution Index</LttlDistInd>
+    <LttlDistIndNote>Here the sections you wish to display in the portal may be selected.</LttlDistIndNote>
+    <LtxtValSelIndex>You must select the index #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>The value of index #{0} is equal to the index #{1}\nYou cannot have two indexes with the same value.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LttlSecIndex>Índice de Seções </LttlSecIndex>
+    <LttlSecIndexNote>Nesta seção, poderá especificar o número de seções que deseja mostrar no portal.</LttlSecIndexNote>
+    <LtxtRows>Fila(s)</LtxtRows>
+    <LtxtCols>Coluna(s)</LtxtCols>
+    <LttlDistInd>Distribuição do Índice</LttlDistInd>
+    <LttlDistIndNote>Nesta seção, poderá selecionar as seções que deseja mostrar no portal.</LttlDistIndNote>
+    <LtxtValSelIndex>Deve selecionar o índice #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>O valor do índice #{0} é igual ao valor do índice #{1} Não pode ter dois índices com o mesmo valor.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LttlSecIndex>Index des Séances</LttlSecIndex>
+    <LttlSecIndexNote>Dans cette section vous pourrez spécifier le numéro des séances que souhaitez-vous montrer dans le portail.</LttlSecIndexNote>
+    <LtxtRows>File (s)</LtxtRows>
+    <LtxtCols>Colonne (s)</LtxtCols>
+    <LttlDistInd>Distribution d'index</LttlDistInd>
+    <LttlDistIndNote>Dans cette section vous pourrez sélectionner les séances que souhaitez-vous montrer dans le portail.</LttlDistIndNote>
+    <LtxtValSelIndex>Devez-vous sélectionner l'index #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>La valeur d\'index #{0} est égal à la valeur d\'index #{1}\nOn ne peut pas avoir deux index avec la même valeur.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LttlSecIndex>Bereich Verzeichniss</LttlSecIndex>
+    <LttlSecIndexNote>In diesem Bereich können Sie die Anzahl der Bereiche bestimmen, die im Portal zu sehen sein werden.</LttlSecIndexNote>
+    <LtxtRows>Reihe(n)</LtxtRows>
+    <LtxtCols>Spalte(n)</LtxtCols>
+    <LttlDistInd>Verteilungs Verzeichniss</LttlDistInd>
+    <LttlDistIndNote>In diesem Bereich können Sie die Bereiche bestimmen, die im Portal zu sehen sein werden.</LttlDistIndNote>
+    <LtxtValSelIndex>Sie müssen das Verzeichniss #{0} wählen</LtxtValSelIndex>
+    <LtxtValEqIndex>Der Wert von Verzeichniss #{0} ist gleich mit Verzechniss #{1}. Es dürfen keine zwei Verzeichnisse den gleichen Wert haben.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LttlSecIndex>Секции индекса</LttlSecIndex>
+    <LttlSecIndexNote>В этой части можно указать несколько разделов, которые  вы хотите показать на портале.</LttlSecIndexNote>
+    <LtxtRows>Строка (и)</LtxtRows>
+    <LtxtCols>Колонка (и)</LtxtCols>
+    <LttlDistInd>Распределение индекса</LttlDistInd>
+    <LttlDistIndNote>В этой части можно выбрать разделы, которые вы хотите показать на портале.</LttlDistIndNote>
+    <LtxtValSelIndex>Вы должны выбрать индекс #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>Значение индекса #{0} является равным индексу #{1}\nВы не можете иметь два индекса с тем же значением</LtxtValEqIndex>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LttlSecIndex>Index sekcí</LttlSecIndex>
+    <LttlSecIndexNote>V této sekci je možné určit počet a formát sekcí, které chcete zobrazit na portálu.</LttlSecIndexNote>
+    <LtxtRows>Řádka/Řádky</LtxtRows>
+    <LtxtCols>Sloupec/Sloupce</LtxtCols>
+    <LttlDistInd>Index distribuce</LttlDistInd>
+    <LttlDistIndNote>V této sekci je možné vybrat sekce, které chcete zobrazit na portálu.</LttlDistIndNote>
+    <LtxtValSelIndex>Musíte zvolit index #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>Hodnota indexu #{0} je shodná indexem #{1}\nNení možné mít dva indexy se stejnou hodnotou.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LttlSecIndex>Indeks działu</LttlSecIndex>
+    <LttlSecIndexNote>Tutaj można określić numer i format działów, które chcesz wyświetlać na portalu</LttlSecIndexNote>
+    <LtxtRows>Wiersz/(i)</LtxtRows>
+    <LtxtCols>Kolumn(y)</LtxtCols>
+    <LttlDistInd>Indeks dystrybucji</LttlDistInd>
+    <LttlDistIndNote>Tutaj można wybrać działy, które chcesz wyświetlić na portalu</LttlDistIndNote>
+    <LtxtValSelIndex>Musisz wybrać indeks #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>Wartość indeksu #{0} jest równa indeksowi #{1} Nie może być dwóch indeksów o tej samej wartości. </LtxtValEqIndex>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LttlSecIndex>Index sekcie</LttlSecIndex>
+    <LttlSecIndexNote>Tu sa dá špecifikovať číslo a formát sekcií, ktoré si prajete zobrazovať na portáli.</LttlSecIndexNote>
+    <LtxtRows>Riadok(Riadky)</LtxtRows>
+    <LtxtCols>Stĺpec(Stĺpce)</LtxtCols>
+    <LttlDistInd>Index distribúcie</LttlDistInd>
+    <LttlDistIndNote>Tu sa dajú vybrať sekcie, ktoré si prajete zobrazovať na portáli.</LttlDistIndNote>
+    <LtxtValSelIndex>Musíte vybrať index #{0}</LtxtValSelIndex>
+    <LtxtValEqIndex>Hodnota indexu #{0} sa rovná indexu #{1}\nNemôžete mať dva indexy s rovnakou hodnotou.</LtxtValEqIndex>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <LttlSecIndex>&lt;--&gt;</LttlSecIndex>
+    <LttlSecIndexNote>&lt;--&gt;</LttlSecIndexNote>
+    <LtxtRows>&lt;--&gt;</LtxtRows>
+    <LtxtCols>&lt;--&gt;</LtxtCols>
+    <LttlDistInd>&lt;--&gt;</LttlDistInd>
+    <LttlDistIndNote>&lt;--&gt;</LttlDistIndNote>
+    <LtxtValSelIndex>&lt;--&gt;</LtxtValSelIndex>
+    <LtxtValEqIndex>&lt;--&gt;</LtxtValEqIndex>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LttlSecIndex>LttlSecIndex</LttlSecIndex>
+    <LttlSecIndexNote>LttlSecIndexNote</LttlSecIndexNote>
+    <LtxtRows>LtxtRows</LtxtRows>
+    <LtxtCols>LtxtCols</LtxtCols>
+    <LttlDistInd>LttlDistInd</LttlDistInd>
+    <LttlDistIndNote>LttlDistIndNote</LttlDistIndNote>
+    <LtxtValSelIndex>LtxtValSelIndex</LtxtValSelIndex>
+    <LtxtValEqIndex>LtxtValEqIndex</LtxtValEqIndex>
+  </language>
+</languages>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>The sales order #{0} was approved successfully.</LtxtOrdrAprove>
+    <LtxtOrderConv>The sales order #{0} was created successfully.</LtxtOrderConv>
+    <LtxtObjCanceled>The object #{0} was canceled successfully.</LtxtObjCanceled>
+    <LtxtObjClosed>The object #{0} was closed successfully.</LtxtObjClosed>
+    <LtxtObjDel>The object #{0} was deleted successfully.</LtxtObjDel>
+    <LtxtBackToRep>Back to report</LtxtBackToRep>
+    <LtxtView>View</LtxtView>
+    <LtxtInvConv>The A/R Invoice #{0} was created successfully.</LtxtInvConv>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>L a orden de venta N°{0} fue aprobada con éxito.</LtxtOrdrAprove>
+    <LtxtOrderConv>La orden de venta N°{0} fue creada con éxito.</LtxtOrderConv>
+    <LtxtObjCanceled>El objeto N°{0} fue cancelado con éxito.</LtxtObjCanceled>
+    <LtxtObjClosed>El objeto N°{0} fue cerrado con éxito.</LtxtObjClosed>
+    <LtxtObjDel>El objeto N°{0} fue eliminado con éxito.</LtxtObjDel>
+    <LtxtBackToRep>Regresar a reporte</LtxtBackToRep>
+    <LtxtView>Ver</LtxtView>
+    <LtxtInvConv>La Factura N°{0} fue creada con éxito.</LtxtInvConv>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtOrdrAprove>הזמנת לקוח {0}# אושרה בהצלחה</LtxtOrdrAprove>
+    <LtxtOrderConv>הזמנת לקוח {0}# נוצרה בהצלחה</LtxtOrderConv>
+    <LtxtObjCanceled>אובייקט {0}# בוטל בהצלחה</LtxtObjCanceled>
+    <LtxtObjClosed>אובייקט {0}# נסגר בהצלחה</LtxtObjClosed>
+    <LtxtObjDel>אובייקט {0}# נמחק בהצלחה</LtxtObjDel>
+    <LtxtBackToRep>חזרה לדוח</LtxtBackToRep>
+    <LtxtView>ראה</LtxtView>
+    <LtxtInvConv>חשבונית מס° {0}  נוצרה בהצלחה.</LtxtInvConv>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>The sales order #{0} was approved successfully.</LtxtOrdrAprove>
+    <LtxtOrderConv>The sales order #{0} was created successfully.</LtxtOrderConv>
+    <LtxtObjCanceled>The object #{0} was canceled successfully.</LtxtObjCanceled>
+    <LtxtObjClosed>The object #{0} was closed successfully.</LtxtObjClosed>
+    <LtxtObjDel>The object #{0} was deleted successfully.</LtxtObjDel>
+    <LtxtBackToRep>Back to report</LtxtBackToRep>
+    <LtxtView>View</LtxtView>
+    <LtxtInvConv>The A/R Invoice #{0} was created successfully.</LtxtInvConv>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>O pedido de venda Nº {0} foi aprovado com sucesso</LtxtOrdrAprove>
+    <LtxtOrderConv>O pedido de venda Nº {0} foi criado com sucesso.</LtxtOrderConv>
+    <LtxtObjCanceled>O objeto Nº {0} foi cancelado com sucesso.</LtxtObjCanceled>
+    <LtxtObjClosed>O objeto Nº {0} foi fechado com sucesso.</LtxtObjClosed>
+    <LtxtObjDel>O objeto Nº {0} foi excluído com sucesso.</LtxtObjDel>
+    <LtxtBackToRep>Voltar ao Relatório</LtxtBackToRep>
+    <LtxtView>Visualizar</LtxtView>
+    <LtxtInvConv>A Nota Fiscal de Saída Nº {0} foi criada com sucesso.</LtxtInvConv>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>&lt;--&gt;</LtxtOrdrAprove>
+    <LtxtOrderConv>&lt;--&gt;</LtxtOrderConv>
+    <LtxtObjCanceled>&lt;--&gt;</LtxtObjCanceled>
+    <LtxtObjClosed>&lt;--&gt;</LtxtObjClosed>
+    <LtxtObjDel>&lt;--&gt;</LtxtObjDel>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtInvConv>&lt;--&gt;</LtxtInvConv>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>&lt;--&gt;</LtxtOrdrAprove>
+    <LtxtOrderConv>&lt;--&gt;</LtxtOrderConv>
+    <LtxtObjCanceled>&lt;--&gt;</LtxtObjCanceled>
+    <LtxtObjClosed>&lt;--&gt;</LtxtObjClosed>
+    <LtxtObjDel>&lt;--&gt;</LtxtObjDel>
+    <LtxtBackToRep>&lt;--&gt;</LtxtBackToRep>
+    <LtxtView>&lt;--&gt;</LtxtView>
+    <LtxtInvConv>&lt;--&gt;</LtxtInvConv>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>Заказ #{0} был утвержден успешно .</LtxtOrdrAprove>
+    <LtxtOrderConv>Заказ #{0} был создан успешно.</LtxtOrderConv>
+    <LtxtObjCanceled>Объект #{0} был отменен успешно.</LtxtObjCanceled>
+    <LtxtObjClosed>Объект #{0} был успешно закрыт.</LtxtObjClosed>
+    <LtxtObjDel>Объект #{0}  успешно удален.</LtxtObjDel>
+    <LtxtBackToRep>Назад к отчету</LtxtBackToRep>
+    <LtxtView>Смотреть</LtxtView>
+    <LtxtInvConv>&lt;--&gt;</LtxtInvConv>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>Příkaz k prodeji #{0} byl úspěšně schválen.</LtxtOrdrAprove>
+    <LtxtOrderConv>Příkaz k prodeji #{0} byl úspěšně vytvořen.</LtxtOrderConv>
+    <LtxtObjCanceled>Objekt #{0} úspěšně odstraněn.</LtxtObjCanceled>
+    <LtxtObjClosed>Objekt #{0} byl úspěšně zavřen.</LtxtObjClosed>
+    <LtxtObjDel>Objekt #{0} byl úspěšně vymazán.</LtxtObjDel>
+    <LtxtBackToRep>Zpět do reportu</LtxtBackToRep>
+    <LtxtView>Zobrazit</LtxtView>
+    <LtxtInvConv>&lt;--&gt;</LtxtInvConv>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>Zlecenie sprzedaży #{0} zostało zaakceptowane z sukcesem.</LtxtOrdrAprove>
+    <LtxtOrderConv>Zlecenie sprzedaży #{0} zostało stworzone z sukcesem.</LtxtOrderConv>
+    <LtxtObjCanceled>Przedmiot #{0} został anulowany z sukcesem</LtxtObjCanceled>
+    <LtxtObjClosed>Przedmiot #{0} został zamknięty z sukcesem</LtxtObjClosed>
+    <LtxtObjDel>Przedmiot #{0} został skasowany z sukcesem</LtxtObjDel>
+    <LtxtBackToRep>Powrót do raportu</LtxtBackToRep>
+    <LtxtView>Podgląd</LtxtView>
+    <LtxtInvConv>Faktura # {0} została </LtxtInvConv>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>Zákazka odberateľa #{0} bola schválená úspešne.</LtxtOrdrAprove>
+    <LtxtOrderConv>Zákazka odberateľa bola vytvorená úspešne.</LtxtOrderConv>
+    <LtxtObjCanceled>Objekt #{0} bol zrušený úspešne.</LtxtObjCanceled>
+    <LtxtObjClosed>Objekt #{0} bol uzavretý úspešne.</LtxtObjClosed>
+    <LtxtObjDel>Objekt #{0} bol zmazaný úspešne.</LtxtObjDel>
+    <LtxtBackToRep>Naspäť na výkaz</LtxtBackToRep>
+    <LtxtView>Zobraziť</LtxtView>
+    <LtxtInvConv>Predajná faktúra #{0} bola vytvorené úspešne.</LtxtInvConv>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtOrdrAprove>LtxtOrdrAprove</LtxtOrdrAprove>
+    <LtxtOrderConv>LtxtOrderConv</LtxtOrderConv>
+    <LtxtObjCanceled>LtxtObjCanceled</LtxtObjCanceled>
+    <LtxtObjClosed>LtxtObjClosed</LtxtObjClosed>
+    <LtxtObjDel>LtxtObjDel</LtxtObjDel>
+    <LtxtBackToRep>LtxtBackToRep</LtxtBackToRep>
+    <LtxtView>LtxtView</LtxtView>
+    <LtxtInvConv>LtxtInvConv</LtxtInvConv>
+  </language>
+</languages>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <LttlCredCardSel>Credit card selection</LttlCredCardSel>
+    <LttlSelCard>Select a card</LttlSelCard>
+    <LtxtCard>Card</LtxtCard>
+    <LtxtMinCred>Minimum&lt;br&gt;Credit</LtxtMinCred>
+    <LtxtMinPymnt>Minimum&lt;br&gt;Payment</LtxtMinPymnt>
+    <LtxtMaxAut>Maximum&lt;br&gt;Authorized</LtxtMaxAut>
+    <LtxtPymnts>Payments</LtxtPymnts>
+    <LtxtNoCard>No cards available to add</LtxtNoCard>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <LttlCredCardSel>Selección de tarjeta de crédito</LttlCredCardSel>
+    <LttlSelCard>Escoja una tarjeta</LttlSelCard>
+    <LtxtCard>Tarjeta</LtxtCard>
+    <LtxtMinCred>Crédito&lt;br&gt;Mínimo</LtxtMinCred>
+    <LtxtMinPymnt>Pago&lt;br&gt;Mínimo</LtxtMinPymnt>
+    <LtxtMaxAut>Máximo&lt;br&gt;Autorizado</LtxtMaxAut>
+    <LtxtPymnts>Pagos</LtxtPymnts>
+    <LtxtNoCard>No tiene tarjetas disponibles para agregar.</LtxtNoCard>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <LttlCredCardSel>בחר כרטיס אשראי</LttlCredCardSel>
+    <LttlSelCard>בחר כרטיס</LttlSelCard>
+    <LtxtCard>כרטיס</LtxtCard>
+    <LtxtMinCred>אשראי&lt;br&gt;מנימלי</LtxtMinCred>
+    <LtxtMinPymnt>תשלום&lt;br&gt;מינימלי</LtxtMinPymnt>
+    <LtxtMaxAut>אישור&lt;br&gt;מקסימלי</LtxtMaxAut>
+    <LtxtPymnts>תשלומים</LtxtPymnts>
+    <LtxtNoCard>אין כרטיסים זמינים להוספה.</LtxtNoCard>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <LttlCredCardSel>Credit card selection</LttlCredCardSel>
+    <LttlSelCard>Select a card</LttlSelCard>
+    <LtxtCard>Card</LtxtCard>
+    <LtxtMinCred>Minimum&lt;br&gt;Credit</LtxtMinCred>
+    <LtxtMinPymnt>Minimum&lt;br&gt;Payment</LtxtMinPymnt>
+    <LtxtMaxAut>Maximum&lt;br&gt;Authorized</LtxtMaxAut>
+    <LtxtPymnts>Payments</LtxtPymnts>
+    <LtxtNoCard>No cards available to add</LtxtNoCard>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <LttlCredCardSel>Seleção do cartão de crédito</LttlCredCardSel>
+    <LttlSelCard>Escolha um cartão</LttlSelCard>
+    <LtxtCard>Cartão</LtxtCard>
+    <LtxtMinCred>Crédito&lt;br&gt;Mínimo</LtxtMinCred>
+    <LtxtMinPymnt>Pagamento&lt;br&gt;Mínimo</LtxtMinPymnt>
+    <LtxtMaxAut>Máximo&lt;br&gt;Autorizado</LtxtMaxAut>
+    <LtxtPymnts>Pagamentos</LtxtPymnts>
+    <LtxtNoCard>Não tem cartões disponíveis para adicionar.</LtxtNoCard>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <LttlCredCardSel>Sélection de carte de crédit</LttlCredCardSel>
+    <LttlSelCard>Choisissez-vous une carte</LttlSelCard>
+    <LtxtCard>Carte</LtxtCard>
+    <LtxtMinCred>Crédit minime</LtxtMinCred>
+    <LtxtMinPymnt>Versement minime</LtxtMinPymnt>
+    <LtxtMaxAut>Maximum autorisé</LtxtMaxAut>
+    <LtxtPymnts>Versements</LtxtPymnts>
+    <LtxtNoCard>Vous n'avez pas des cartes disponibles à ajouter</LtxtNoCard>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <LttlCredCardSel>Kreditkarten Auswahl</LttlCredCardSel>
+    <LttlSelCard>Wählen Sie eine Kreditkarte</LttlSelCard>
+    <LtxtCard>Kreditkarte</LtxtCard>
+    <LtxtMinCred>Mindestkredit</LtxtMinCred>
+    <LtxtMinPymnt>Mindestzahlung</LtxtMinPymnt>
+    <LtxtMaxAut>Maximal&lt;br&gt;autorisiert</LtxtMaxAut>
+    <LtxtPymnts>Zahlungen</LtxtPymnts>
+    <LtxtNoCard>Keine Kreditkarten zum hinzufügen vorhanden</LtxtNoCard>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <LttlCredCardSel>Выберите кредитную карточку</LttlCredCardSel>
+    <LttlSelCard>Выберите карточку</LttlSelCard>
+    <LtxtCard>Карточка</LtxtCard>
+    <LtxtMinCred>Минимальное подтверждение</LtxtMinCred>
+    <LtxtMinPymnt>Минимальный платеж</LtxtMinPymnt>
+    <LtxtMaxAut>Максимальное подтверждение</LtxtMaxAut>
+    <LtxtPymnts>Платежи</LtxtPymnts>
+    <LtxtNoCard>Нет карточек в наличие на добавление</LtxtNoCard>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <LttlCredCardSel>Volba kreditní karty</LttlCredCardSel>
+    <LttlSelCard>Vyberte kartu</LttlSelCard>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtMinCred>Minimální&lt;br&gt;kredit</LtxtMinCred>
+    <LtxtMinPymnt>Minimální&lt;br&gt;platba</LtxtMinPymnt>
+    <LtxtMaxAut>Autorizované&lt;br&gt;maximum</LtxtMaxAut>
+    <LtxtPymnts>Platby</LtxtPymnts>
+    <LtxtNoCard>Nejsou žádné dostupné karty pro přidání</LtxtNoCard>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <LttlCredCardSel>Wybór karty kredytowej</LttlCredCardSel>
+    <LttlSelCard>Wybierz kartę </LttlSelCard>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtMinCred>Minimalny kredyt</LtxtMinCred>
+    <LtxtMinPymnt>Minimalna płatność</LtxtMinPymnt>
+    <LtxtMaxAut>Maksymalna autoryzacja</LtxtMaxAut>
+    <LtxtPymnts>Płatności </LtxtPymnts>
+    <LtxtNoCard>Nie ma dostępnych kart do dodania</LtxtNoCard>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <LttlCredCardSel>Výber kreditnej karty</LttlCredCardSel>
+    <LttlSelCard>Vyberte kartu</LttlSelCard>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtMinCred>Minimálny kredit</LtxtMinCred>
+    <LtxtMinPymnt>Minimálna splátka</LtxtMinPymnt>
+    <LtxtMaxAut>Autorizované maximum</LtxtMaxAut>
+    <LtxtPymnts>Platby</LtxtPymnts>
+    <LtxtNoCard>Žiadne karty nie sú k dispozícii na pridanie</LtxtNoCard>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <LttlCredCardSel>LttlCredCardSel</LttlCredCardSel>
+    <LttlSelCard>LttlSelCard</LttlSelCard>
+    <LtxtCard>LtxtCard</LtxtCard>
+    <LtxtMinCred>LtxtMinCred</LtxtMinCred>
+    <LtxtMinPymnt>LtxtMinPymnt</LtxtMinPymnt>
+    <LtxtMaxAut>LtxtMaxAut</LtxtMaxAut>
+    <LtxtPymnts>LtxtPymnts</LtxtPymnts>
+    <LtxtNoCard>LtxtNoCard</LtxtNoCard>
+  </language>
+</languages>

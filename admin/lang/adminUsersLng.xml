@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtUser>User</DtxtUser>
+    <LtxtLang>Language</LtxtLang>
+    <LtxtOlkAgents>OLK Agents</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Users</LtxtSapUsers>
+    <LttlUsersLang>Users Language</LttlUsersLang>
+    <LttlUsersLangNote>In this section the Administrator of the OLK specifies the language of the alerts the users receive.</LttlUsersLangNote>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtUser>Usuario</DtxtUser>
+    <LtxtLang>Idioma</LtxtLang>
+    <LtxtOlkAgents>Agentes OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Usuarios SAP</LtxtSapUsers>
+    <LttlUsersLang>Idioma de Usuarios</LttlUsersLang>
+    <LttlUsersLangNote>En esta sección podrá especificar el idioma de las alertas que reciben los usuarios.</LttlUsersLangNote>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtUser>משתמש</DtxtUser>
+    <LtxtLang>שפה</LtxtLang>
+    <LtxtOlkAgents>סוכני האתר</LtxtOlkAgents>
+    <LtxtSapUsers>משתמשים סאפ</LtxtSapUsers>
+    <LttlUsersLang>שפת משתמש</LttlUsersLang>
+    <LttlUsersLangNote>בחלק זה תוכל לקבוע את שפת ההתראות שיקבלו המשתמשים</LttlUsersLangNote>
+    <LtxtNatLng>שפה מקורית</LtxtNatLng>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtUser>User</DtxtUser>
+    <LtxtLang>Language</LtxtLang>
+    <LtxtOlkAgents>OLK Agents</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Users</LtxtSapUsers>
+    <LttlUsersLang>Users Language</LttlUsersLang>
+    <LttlUsersLangNote>In this section the Administrator of the OLK specifies the language of the alerts the users receive.</LttlUsersLangNote>
+    <LtxtNatLng>Native Language</LtxtNatLng>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtUser>Usuário</DtxtUser>
+    <LtxtLang>Idioma</LtxtLang>
+    <LtxtOlkAgents>Vendedores OnlineKit</LtxtOlkAgents>
+    <LtxtSapUsers>Usuários SAP</LtxtSapUsers>
+    <LttlUsersLang>Idioma do Usuário</LttlUsersLang>
+    <LttlUsersLangNote>Nesta seção, você poderá especificar o idioma dos alertas que os usuários recebem.</LttlUsersLangNote>
+    <LtxtNatLng>Idioma nativo</LtxtNatLng>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <LtxtLang>&lt;--&gt;</LtxtLang>
+    <LtxtOlkAgents>Agents OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Utilisateurs SAP</LtxtSapUsers>
+    <LttlUsersLang>&lt;--&gt;</LttlUsersLang>
+    <LttlUsersLangNote>&lt;--&gt;</LttlUsersLangNote>
+    <LtxtNatLng>Langue maternelle</LtxtNatLng>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtUser>Benutzer</DtxtUser>
+    <LtxtLang>&lt;--&gt;</LtxtLang>
+    <LtxtOlkAgents>OLK Agenten</LtxtOlkAgents>
+    <LtxtSapUsers>SAP Benutzer</LtxtSapUsers>
+    <LttlUsersLang>&lt;--&gt;</LttlUsersLang>
+    <LttlUsersLangNote>&lt;--&gt;</LttlUsersLangNote>
+    <LtxtNatLng>Muttersprache</LtxtNatLng>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtUser>Пользователь</DtxtUser>
+    <LtxtLang>Язык</LtxtLang>
+    <LtxtOlkAgents>Олк агенты</LtxtOlkAgents>
+    <LtxtSapUsers>Пользователи SAP SAP</LtxtSapUsers>
+    <LttlUsersLang>Пользователи языка</LttlUsersLang>
+    <LttlUsersLangNote>В этом разделе Администратор ОЛК задает язык оповещений .пользователи получают.</LttlUsersLangNote>
+    <LtxtNatLng>Родной язык</LtxtNatLng>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtUser>Uživatel</DtxtUser>
+    <LtxtLang>Jazyk</LtxtLang>
+    <LtxtOlkAgents>Agenti OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Uživatelé SAP</LtxtSapUsers>
+    <LttlUsersLang>Jazyk uživatele</LttlUsersLang>
+    <LttlUsersLangNote>V této sekci Administrátor OLK určuje jazyk varování, která uživatel obdrží.</LttlUsersLangNote>
+    <LtxtNatLng>Mateřský jazyk</LtxtNatLng>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <LtxtLang>Język</LtxtLang>
+    <LtxtOlkAgents>Sprzedawcy OLK</LtxtOlkAgents>
+    <LtxtSapUsers>Użytkownicy SAP</LtxtSapUsers>
+    <LttlUsersLang>Użytkownicy języka</LttlUsersLang>
+    <LttlUsersLangNote>W tym dziale Administrator OLK określa język alertów, które dostają użytkownicy </LttlUsersLangNote>
+    <LtxtNatLng>Język ojczysty</LtxtNatLng>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <LtxtLang>Jazyk</LtxtLang>
+    <LtxtOlkAgents>OLK Agenti</LtxtOlkAgents>
+    <LtxtSapUsers>SAP užívatelia</LtxtSapUsers>
+    <LttlUsersLang>Jazyk užívateľa</LttlUsersLang>
+    <LttlUsersLangNote>V tejto sekcii Administrátor OLK špecifikuje jazyk upozornení, ktorá dostávajú užívatelia.</LttlUsersLangNote>
+    <LtxtNatLng>Rodná jazyk</LtxtNatLng>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <LtxtLang>&lt;--&gt;</LtxtLang>
+    <LtxtOlkAgents>&lt;--&gt;</LtxtOlkAgents>
+    <LtxtSapUsers>&lt;--&gt;</LtxtSapUsers>
+    <LttlUsersLang>&lt;--&gt;</LttlUsersLang>
+    <LttlUsersLangNote>&lt;--&gt;</LttlUsersLangNote>
+    <LtxtNatLng>&lt;--&gt;</LtxtNatLng>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <LtxtLang>LtxtLang</LtxtLang>
+    <LtxtOlkAgents>LtxtOlkAgents</LtxtOlkAgents>
+    <LtxtSapUsers>LtxtSapUsers</LtxtSapUsers>
+    <LttlUsersLang>LttlUsersLang</LttlUsersLang>
+    <LttlUsersLangNote>LttlUsersLangNote</LttlUsersLangNote>
+    <LtxtNatLng>LtxtNatLng</LtxtNatLng>
+  </language>
+</languages>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <LtxtMaps>Maps</LtxtMaps>
+    <LtxtBillAddress>Billing Addresses</LtxtBillAddress>
+    <LtxtShipAddress>Shipping Addresses</LtxtShipAddress>
+    <LtxtViewLargeMap>View Larger Map</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Dirección de Envío</DtxtShipAddress>
+    <LtxtMaps>Mapas</LtxtMaps>
+    <LtxtBillAddress>Direcciones de Pago</LtxtBillAddress>
+    <LtxtShipAddress>Direcciones de Envió</LtxtShipAddress>
+    <LtxtViewLargeMap>Ver Mapa Grande</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtBillAddress>כתובת לתשלום</DtxtBillAddress>
+    <DtxtShipAddress>כתובת למשלוח</DtxtShipAddress>
+    <LtxtMaps>מפות</LtxtMaps>
+    <LtxtBillAddress>כתובות תשלום</LtxtBillAddress>
+    <LtxtShipAddress>כתובות משלוח</LtxtShipAddress>
+    <LtxtViewLargeMap>הגדל מפה</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Billing Address</DtxtBillAddress>
+    <DtxtShipAddress>Shipping Address</DtxtShipAddress>
+    <LtxtMaps>Maps</LtxtMaps>
+    <LtxtBillAddress>Billing Addresses</LtxtBillAddress>
+    <LtxtShipAddress>Shipping Addresses</LtxtShipAddress>
+    <LtxtViewLargeMap>View Larger Map</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Dirección de Pago</DtxtBillAddress>
+    <DtxtShipAddress>Endereço de Envio</DtxtShipAddress>
+    <LtxtMaps>Mapas</LtxtMaps>
+    <LtxtBillAddress>Endereço de Pagamento</LtxtBillAddress>
+    <LtxtShipAddress>Endereço de Envio</LtxtShipAddress>
+    <LtxtViewLargeMap>Visualizar Mapa em tamanho grande</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Adresse de paiement</DtxtBillAddress>
+    <DtxtShipAddress>Adresse d'envoi</DtxtShipAddress>
+    <LtxtMaps>&lt;--&gt;</LtxtMaps>
+    <LtxtBillAddress>&lt;--&gt;</LtxtBillAddress>
+    <LtxtShipAddress>&lt;--&gt;</LtxtShipAddress>
+    <LtxtViewLargeMap>&lt;--&gt;</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Rechnungsanschrift</DtxtBillAddress>
+    <DtxtShipAddress>Lieferadresse</DtxtShipAddress>
+    <LtxtMaps>&lt;--&gt;</LtxtMaps>
+    <LtxtBillAddress>&lt;--&gt;</LtxtBillAddress>
+    <LtxtShipAddress>&lt;--&gt;</LtxtShipAddress>
+    <LtxtViewLargeMap>&lt;--&gt;</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Адрес для оплаты</DtxtBillAddress>
+    <DtxtShipAddress>Почтовый адрес</DtxtShipAddress>
+    <LtxtMaps>Карты</LtxtMaps>
+    <LtxtBillAddress>Адрес платежа</LtxtBillAddress>
+    <LtxtShipAddress>Почтовый адрес</LtxtShipAddress>
+    <LtxtViewLargeMap>Размер карты</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Fakturační adresa</DtxtBillAddress>
+    <DtxtShipAddress>Dodací adresa</DtxtShipAddress>
+    <LtxtMaps>Mapy</LtxtMaps>
+    <LtxtBillAddress>Fakturační adresy</LtxtBillAddress>
+    <LtxtShipAddress>Dodací adresy</LtxtShipAddress>
+    <LtxtViewLargeMap>Zobrazit větší mapu</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Adres do faktury</DtxtBillAddress>
+    <DtxtShipAddress>Adres wysyłki</DtxtShipAddress>
+    <LtxtMaps>mapy</LtxtMaps>
+    <LtxtBillAddress>Adresy do faktury</LtxtBillAddress>
+    <LtxtShipAddress>Adresy do wysyłki</LtxtShipAddress>
+    <LtxtViewLargeMap>Zobacz większą mapę</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>Fakturačná adresa</DtxtBillAddress>
+    <DtxtShipAddress>Doručovacia adresa</DtxtShipAddress>
+    <LtxtMaps>Mapy</LtxtMaps>
+    <LtxtBillAddress>Fakturačná adresa</LtxtBillAddress>
+    <LtxtShipAddress>Doručovacia adresa</LtxtShipAddress>
+    <LtxtViewLargeMap>Zobraziť väčšiu mapu</LtxtViewLargeMap>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtBillAddress>DtxtBillAddress</DtxtBillAddress>
+    <DtxtShipAddress>DtxtShipAddress</DtxtShipAddress>
+    <LtxtMaps>LtxtMaps</LtxtMaps>
+    <LtxtBillAddress>LtxtBillAddress</LtxtBillAddress>
+    <LtxtShipAddress>LtxtShipAddress</LtxtShipAddress>
+    <LtxtViewLargeMap>LtxtViewLargeMap</LtxtViewLargeMap>
+  </language>
+</languages>

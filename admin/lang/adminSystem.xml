@@ -1,0 +1,861 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtValid>Valid</DtxtValid>
+    <DtxtUnknown>Unknown</DtxtUnknown>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtList>List</DtxtList>
+    <DtxtAction>Action</DtxtAction>
+    <DtxtActions>Actions</DtxtActions>
+    <LttlSysProp>System Settings</LttlSysProp>
+    <LttlSysPropNote>Here the system settings may be changed.</LttlSysPropNote>
+    <LtxtSaveInPwd>Allow Save Password</LtxtSaveInPwd>
+    <LtxtShowDBName>Show Database Name in Login Company List</LtxtShowDBName>
+    <LttlRestore>Restore</LttlRestore>
+    <LttlRestoreNote>Press restore to regenerate database Stored Procedures and Functions</LttlRestoreNote>
+    <LtxtRestoreOK>Restore was executed successfully</LtxtRestoreOK>
+    <LtxtLastCheck>Last Check</LtxtLastCheck>
+    <LtxtTaskMon>Task Monitor</LtxtTaskMon>
+    <LtxtPrintTtl>Print Title</LtxtPrintTtl>
+    <LtxtCardDetails>Card Details</LtxtCardDetails>
+    <LtxtItemDetails>Item Details</LtxtItemDetails>
+    <LtxtBatchDetails>Batch Details</LtxtBatchDetails>
+    <LtxtCMREP>Cart Mini-Report</LtxtCMREP>
+    <LtxtObjConfCols>Object Confirmation</LtxtObjConfCols>
+    <LtxtTest>Test</LtxtTest>
+    <LttlTestNote>Here you may test all the custom fields that use an SQL query.</LttlTestNote>
+    <LtxtTestOK>The test has completed successfully</LtxtTestOK>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtDocCreation>Document Creation</LtxtDocCreation>
+    <LtxtAddItem>Add Item</LtxtAddItem>
+    <LtxtDocConf>Document Confirmation</LtxtDocConf>
+    <LtxtCreation>Creation</LtxtCreation>
+    <LtxtRcpConf>Receipt Confirmation</LtxtRcpConf>
+    <LtxtItmConf>Item Confirmation</LtxtItmConf>
+    <LtxtClientConf>Client Confirmation</LtxtClientConf>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtSOConf>Sales Opportunity Confirmation</LtxtSOConf>
+    <LtxtSingleSignOn>Enable Single User Sign On</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Si</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtItems>Artículos</DtxtItems>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flujo</DtxtFlow>
+    <DtxtLines>Líneas</DtxtLines>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtDetail>Detalle</DtxtDetail>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtMessage>Mensaje</DtxtMessage>
+    <DtxtValid>Valido</DtxtValid>
+    <DtxtUnknown>Desconocido</DtxtUnknown>
+    <DtxtActivities>Actvidades</DtxtActivities>
+    <DtxtReport>Reporte</DtxtReport>
+    <DtxtList>Lista</DtxtList>
+    <DtxtAction>Acción</DtxtAction>
+    <DtxtActions>Acciones</DtxtActions>
+    <LttlSysProp>Configuraciones de Sistema</LttlSysProp>
+    <LttlSysPropNote>En esta sección podrá cambiar configuraciones del sistema.</LttlSysPropNote>
+    <LtxtSaveInPwd>Permitir guardar contraseña</LtxtSaveInPwd>
+    <LtxtShowDBName>Mostrar nombre de base de datos en lista de compañías</LtxtShowDBName>
+    <LttlRestore>Restaurar</LttlRestore>
+    <LttlRestoreNote>Presiona restaurar para regenerar los Procedimientos Almacenados y Funciones de la base de datos</LttlRestoreNote>
+    <LtxtRestoreOK>Restauración fue ejecutada con éxito</LtxtRestoreOK>
+    <LtxtLastCheck>Ultima Revisión</LtxtLastCheck>
+    <LtxtTaskMon>Monitor de Tarea</LtxtTaskMon>
+    <LtxtPrintTtl>Titulo de Impresión</LtxtPrintTtl>
+    <LtxtCardDetails>Detalle de Ficha</LtxtCardDetails>
+    <LtxtItemDetails>Detalles de Artículos</LtxtItemDetails>
+    <LtxtBatchDetails>Detalles de Lotes</LtxtBatchDetails>
+    <LtxtCMREP>Mini-Reporte de Canasta</LtxtCMREP>
+    <LtxtObjConfCols>Confirmación de objetos</LtxtObjConfCols>
+    <LtxtTest>Prueba</LtxtTest>
+    <LttlTestNote>En esta sección podrá probar todos los campos personalizados que utilizan una consulta SQL.</LttlTestNote>
+    <LtxtTestOK>La prueba ha sido completada con éxito.</LtxtTestOK>
+    <LtxtConvQuoteOrder>Convertir cotización a orden de venta</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Convertir Orden de Venta a Factura</LtxtConvOrderInv>
+    <LtxtAprovOrder>Aprobar Orden de Venta</LtxtAprovOrder>
+    <LtxtCloseObj>Cerrar objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar objeto</LtxtCancelObj>
+    <LtxtRemObj>Eliminar Objeto</LtxtRemObj>
+    <LtxtDocCreation>Creación de Documento</LtxtDocCreation>
+    <LtxtAddItem>Agregar Artículo</LtxtAddItem>
+    <LtxtDocConf>Confirmar Documento</LtxtDocConf>
+    <LtxtCreation>Creación</LtxtCreation>
+    <LtxtRcpConf>Confirmar Recibo</LtxtRcpConf>
+    <LtxtItmConf>Confirmar Artículo</LtxtItmConf>
+    <LtxtClientConf>Confirmar Cliente</LtxtClientConf>
+    <LtxtActivityConf>Confirmar Actividad</LtxtActivityConf>
+    <LtxtSOConf>Confirmación de Oportunidad de Venta</LtxtSOConf>
+    <LtxtSingleSignOn>Habilitar Inicio de Sesión Único de Usuario</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtYes>כן</DtxtYes>
+    <DtxtNo>לא</DtxtNo>
+    <DtxtItems>פריטים</DtxtItems>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtFlow>תזרים</DtxtFlow>
+    <DtxtLines>שורות</DtxtLines>
+    <DtxtReceipts>קבלות</DtxtReceipts>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtDetail>פרטים</DtxtDetail>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtMessage>הודעה</DtxtMessage>
+    <DtxtValid>תקף</DtxtValid>
+    <DtxtUnknown>לא ידועה</DtxtUnknown>
+    <DtxtActivities>פעילויות</DtxtActivities>
+    <DtxtReport>דוח</DtxtReport>
+    <DtxtList>רשימה</DtxtList>
+    <DtxtAction>פעולה</DtxtAction>
+    <DtxtActions>פעולות</DtxtActions>
+    <LttlSysProp>קביעות מערכת</LttlSysProp>
+    <LttlSysPropNote>בחלק זה תוכל לערוך קביעות כלליות של המערכת.</LttlSysPropNote>
+    <LtxtSaveInPwd>אפשר שמירת סיסמה</LtxtSaveInPwd>
+    <LtxtShowDBName>הצג שם בסיס נתונים של כל חברה ברשימת החברות לכניסה לאולק</LtxtShowDBName>
+    <LttlRestore>שיחזור</LttlRestore>
+    <LttlRestoreNote>לחץ שיחזור ע"מ לשחזר פרוצדורות מאוחסנות ופונקציות של בסיס הנתונים</LttlRestoreNote>
+    <LtxtRestoreOK>השיחזור בוצע בהצלחה</LtxtRestoreOK>
+    <LtxtLastCheck>בדיקה אחרונה</LtxtLastCheck>
+    <LtxtTaskMon>צג משימות</LtxtTaskMon>
+    <LtxtPrintTtl>הדפסת כותרת</LtxtPrintTtl>
+    <LtxtCardDetails>נתוני כרטיס</LtxtCardDetails>
+    <LtxtItemDetails>נתוני פריטים</LtxtItemDetails>
+    <LtxtBatchDetails>נתוני אצוות</LtxtBatchDetails>
+    <LtxtCMREP>מיני דוח</LtxtCMREP>
+    <LtxtObjConfCols>אישור אובייקטים</LtxtObjConfCols>
+    <LtxtTest>בדיקה</LtxtTest>
+    <LttlTestNote>בחלק זה תוכל לבדוק את כל השדות האישים המשתמשים בשאילתת SQL</LttlTestNote>
+    <LtxtTestOK>הבדיקה הושלמה בהצלחה</LtxtTestOK>
+    <LtxtConvQuoteOrder>הפוך הצעת מחיר להזמנת לקוח</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>המר הזמנת מכירה לקבלה</LtxtConvOrderInv>
+    <LtxtAprovOrder>אשר הזמנת לקוח</LtxtAprovOrder>
+    <LtxtCloseObj>סגור אובייקט</LtxtCloseObj>
+    <LtxtCancelObj>בטל אובייקט</LtxtCancelObj>
+    <LtxtRemObj>מחק אובייקט</LtxtRemObj>
+    <LtxtDocCreation>יצירת מסמך</LtxtDocCreation>
+    <LtxtAddItem>הוספת פריט</LtxtAddItem>
+    <LtxtDocConf>אשר מסמך</LtxtDocConf>
+    <LtxtCreation>יצירה</LtxtCreation>
+    <LtxtRcpConf>אשר קבלה</LtxtRcpConf>
+    <LtxtItmConf>אשר פריט</LtxtItmConf>
+    <LtxtClientConf>אשר לקוח</LtxtClientConf>
+    <LtxtActivityConf>אישור פעילות</LtxtActivityConf>
+    <LtxtSOConf>אישור הזדמנות מכירה</LtxtSOConf>
+    <LtxtSingleSignOn>אפשר כניסת משתמש יחיד</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtYes>Yes</DtxtYes>
+    <DtxtNo>No</DtxtNo>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtError>Error</DtxtError>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtReceipts>Receipts</DtxtReceipts>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtValid>Valid</DtxtValid>
+    <DtxtUnknown>Unknown</DtxtUnknown>
+    <DtxtActivities>Activities</DtxtActivities>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtList>List</DtxtList>
+    <DtxtAction>Action</DtxtAction>
+    <DtxtActions>Actions</DtxtActions>
+    <LttlSysProp>System Settings</LttlSysProp>
+    <LttlSysPropNote>Here the system settings may be changed.</LttlSysPropNote>
+    <LtxtSaveInPwd>Allow Save Password</LtxtSaveInPwd>
+    <LtxtShowDBName>Show Database Name in Login Company List</LtxtShowDBName>
+    <LttlRestore>Restore</LttlRestore>
+    <LttlRestoreNote>Press restore to regenerate database Stored Procedures and Functions</LttlRestoreNote>
+    <LtxtRestoreOK>Restore was executed successfully</LtxtRestoreOK>
+    <LtxtLastCheck>Last Check</LtxtLastCheck>
+    <LtxtTaskMon>Task Monitor</LtxtTaskMon>
+    <LtxtPrintTtl>Print Title</LtxtPrintTtl>
+    <LtxtCardDetails>Card Details</LtxtCardDetails>
+    <LtxtItemDetails>Item Details</LtxtItemDetails>
+    <LtxtBatchDetails>Batch Details</LtxtBatchDetails>
+    <LtxtCMREP>Cart Mini-Report</LtxtCMREP>
+    <LtxtObjConfCols>Object Confirmation</LtxtObjConfCols>
+    <LtxtTest>Test</LtxtTest>
+    <LttlTestNote>Here you may test all the custom fields that use an SQL query.</LttlTestNote>
+    <LtxtTestOK>The test has completed successfully</LtxtTestOK>
+    <LtxtConvQuoteOrder>Convert Quotation to Sales Order</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtCloseObj>Close Object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel Object</LtxtCancelObj>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtDocCreation>Document Creation</LtxtDocCreation>
+    <LtxtAddItem>Add Item</LtxtAddItem>
+    <LtxtDocConf>Document Confirmation</LtxtDocConf>
+    <LtxtCreation>Creation</LtxtCreation>
+    <LtxtRcpConf>Receipt Confirmation</LtxtRcpConf>
+    <LtxtItmConf>Item Confirmation</LtxtItmConf>
+    <LtxtClientConf>Client Confirmation</LtxtClientConf>
+    <LtxtActivityConf>Activity Confirmation</LtxtActivityConf>
+    <LtxtSOConf>Sales Opportunity Confirmation</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtYes>Sim</DtxtYes>
+    <DtxtNo>Não</DtxtNo>
+    <DtxtItems>Itens</DtxtItems>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtError>Erro</DtxtError>
+    <DtxtFlow>Fluxo</DtxtFlow>
+    <DtxtLines>Linhas</DtxtLines>
+    <DtxtReceipts>Recibos</DtxtReceipts>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtDetail>Detalhe</DtxtDetail>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtMessage>Mensagem</DtxtMessage>
+    <DtxtValid>Válido</DtxtValid>
+    <DtxtUnknown>Desconhecido</DtxtUnknown>
+    <DtxtActivities>Atividades</DtxtActivities>
+    <DtxtReport>Relatório</DtxtReport>
+    <DtxtList>Lista</DtxtList>
+    <DtxtAction>Ação</DtxtAction>
+    <DtxtActions>Ações</DtxtActions>
+    <LttlSysProp>Configurações do Sistema</LttlSysProp>
+    <LttlSysPropNote>Nesta seção, você pode alterar as configurações do sistema.</LttlSysPropNote>
+    <LtxtSaveInPwd>Permitir salvar Senha</LtxtSaveInPwd>
+    <LtxtShowDBName>Mostrar o nome do banco de dados na lista de empresas</LtxtShowDBName>
+    <LttlRestore>Restaurar</LttlRestore>
+    <LttlRestoreNote>Pressione em Restaurar para gerar as Stored Procedures e Funções de banco de dados</LttlRestoreNote>
+    <LtxtRestoreOK>Restauração foi executada com sucesso</LtxtRestoreOK>
+    <LtxtLastCheck>Última Revisão</LtxtLastCheck>
+    <LtxtTaskMon>Monitor de Tarefas</LtxtTaskMon>
+    <LtxtPrintTtl>Imprimir Título</LtxtPrintTtl>
+    <LtxtCardDetails>Detalhes do Cartão</LtxtCardDetails>
+    <LtxtItemDetails>Detalhes dos Itens</LtxtItemDetails>
+    <LtxtBatchDetails>Detalhes de Lotes</LtxtBatchDetails>
+    <LtxtCMREP>Mini-Relatório do Carrinho</LtxtCMREP>
+    <LtxtObjConfCols>Confirmação de Objetos</LtxtObjConfCols>
+    <LtxtTest>Teste</LtxtTest>
+    <LttlTestNote>Nesta seção, você pode testar todos os campos personalizados que usam uma consulta SQL.</LttlTestNote>
+    <LtxtTestOK>O teste foi concluido com sucesso</LtxtTestOK>
+    <LtxtConvQuoteOrder>Converter Orçamento em Pedido de Venda</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Converter Pedido de Venda em NF de Saída</LtxtConvOrderInv>
+    <LtxtAprovOrder>Aprovar Pedido de Venda</LtxtAprovOrder>
+    <LtxtCloseObj>Fechar Objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar Objeto</LtxtCancelObj>
+    <LtxtRemObj>Excluir Objeto</LtxtRemObj>
+    <LtxtDocCreation>Criação de Documento</LtxtDocCreation>
+    <LtxtAddItem>Adicionar Item</LtxtAddItem>
+    <LtxtDocConf>Confirmar Documento</LtxtDocConf>
+    <LtxtCreation>Criação</LtxtCreation>
+    <LtxtRcpConf>Confirmação de Recebimento</LtxtRcpConf>
+    <LtxtItmConf>Confirmar Item</LtxtItmConf>
+    <LtxtClientConf>Confirmar Cliente</LtxtClientConf>
+    <LtxtActivityConf>Confirmar Atividade</LtxtActivityConf>
+    <LtxtSOConf>Confirmação de Oportunidade de Venda</LtxtSOConf>
+    <LtxtSingleSignOn>Habilitar único Inicio de Sessão de usuário</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtYes>Oui</DtxtYes>
+    <DtxtNo>Non</DtxtNo>
+    <DtxtItems>Articles</DtxtItems>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtFlow>Flux</DtxtFlow>
+    <DtxtLines>Lignes</DtxtLines>
+    <DtxtReceipts>Reçus (Quittances)</DtxtReceipts>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtDetail>Détail</DtxtDetail>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtMessage>Message</DtxtMessage>
+    <DtxtValid>Valable</DtxtValid>
+    <DtxtUnknown>&lt;--&gt;</DtxtUnknown>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtAction>&lt;--&gt;</DtxtAction>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <LttlSysProp>&lt;--&gt;</LttlSysProp>
+    <LttlSysPropNote>&lt;--&gt;</LttlSysPropNote>
+    <LtxtSaveInPwd>&lt;--&gt;</LtxtSaveInPwd>
+    <LtxtShowDBName>&lt;--&gt;</LtxtShowDBName>
+    <LttlRestore>&lt;--&gt;</LttlRestore>
+    <LttlRestoreNote>&lt;--&gt;</LttlRestoreNote>
+    <LtxtRestoreOK>&lt;--&gt;</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>&lt;--&gt;</LtxtTaskMon>
+    <LtxtPrintTtl>&lt;--&gt;</LtxtPrintTtl>
+    <LtxtCardDetails>&lt;--&gt;</LtxtCardDetails>
+    <LtxtItemDetails>Details des articles</LtxtItemDetails>
+    <LtxtBatchDetails>Details des lotes </LtxtBatchDetails>
+    <LtxtCMREP>Mini- Report de Corbeille</LtxtCMREP>
+    <LtxtObjConfCols>&lt;--&gt;</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtDocCreation>Création de la documentation</LtxtDocCreation>
+    <LtxtAddItem>Ajouter l'article</LtxtAddItem>
+    <LtxtDocConf>Confirmer la documentation</LtxtDocConf>
+    <LtxtCreation>Création</LtxtCreation>
+    <LtxtRcpConf>Confirmer la quittance</LtxtRcpConf>
+    <LtxtItmConf>Confirmer l'article</LtxtItmConf>
+    <LtxtClientConf>Confirmer le client</LtxtClientConf>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtYes>Ja</DtxtYes>
+    <DtxtNo>Nein</DtxtNo>
+    <DtxtItems>Artikel</DtxtItems>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtFlow>Fluß</DtxtFlow>
+    <DtxtLines>Zeilen</DtxtLines>
+    <DtxtReceipts>Belege</DtxtReceipts>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtDetail>Einzelheit</DtxtDetail>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtMessage>Nachricht</DtxtMessage>
+    <DtxtValid>Gültig</DtxtValid>
+    <DtxtUnknown>Unbekannt</DtxtUnknown>
+    <DtxtActivities>Aktivitäten</DtxtActivities>
+    <DtxtReport>Bericht</DtxtReport>
+    <DtxtList>Aufstellung</DtxtList>
+    <DtxtAction>Aktion</DtxtAction>
+    <DtxtActions>Aktionen</DtxtActions>
+    <LttlSysProp>&lt;--&gt;</LttlSysProp>
+    <LttlSysPropNote>&lt;--&gt;</LttlSysPropNote>
+    <LtxtSaveInPwd>&lt;--&gt;</LtxtSaveInPwd>
+    <LtxtShowDBName>&lt;--&gt;</LtxtShowDBName>
+    <LttlRestore>&lt;--&gt;</LttlRestore>
+    <LttlRestoreNote>&lt;--&gt;</LttlRestoreNote>
+    <LtxtRestoreOK>&lt;--&gt;</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>&lt;--&gt;</LtxtTaskMon>
+    <LtxtPrintTtl>&lt;--&gt;</LtxtPrintTtl>
+    <LtxtCardDetails>&lt;--&gt;</LtxtCardDetails>
+    <LtxtItemDetails>Artikeleinzelheiten</LtxtItemDetails>
+    <LtxtBatchDetails>Los Einzelheiten</LtxtBatchDetails>
+    <LtxtCMREP>Einkaufswagen Minibericht</LtxtCMREP>
+    <LtxtObjConfCols>&lt;--&gt;</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtDocCreation>Dokumenterstellung</LtxtDocCreation>
+    <LtxtAddItem>Artikel hinzufügen</LtxtAddItem>
+    <LtxtDocConf>Dokumentbestätigung</LtxtDocConf>
+    <LtxtCreation>Erstellung</LtxtCreation>
+    <LtxtRcpConf>Belegbestätigung</LtxtRcpConf>
+    <LtxtItmConf>Artikelbestätigung</LtxtItmConf>
+    <LtxtClientConf>Kundenbestätigung</LtxtClientConf>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtYes>Да</DtxtYes>
+    <DtxtNo>нет</DtxtNo>
+    <DtxtItems>Детали</DtxtItems>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtFlow>Вливание</DtxtFlow>
+    <DtxtLines>Линии</DtxtLines>
+    <DtxtReceipts>Квитанции</DtxtReceipts>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtDetail>Детали</DtxtDetail>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtMessage>Сообщение</DtxtMessage>
+    <DtxtValid>Действительный</DtxtValid>
+    <DtxtUnknown>Неизвестна</DtxtUnknown>
+    <DtxtActivities>Активность</DtxtActivities>
+    <DtxtReport>Доклад</DtxtReport>
+    <DtxtList>Список</DtxtList>
+    <DtxtAction>&lt;--&gt;</DtxtAction>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <LttlSysProp>Настройки системы</LttlSysProp>
+    <LttlSysPropNote>В этом разделе можно изменить настройки системы.</LttlSysPropNote>
+    <LtxtSaveInPwd>Разрешить сохранение пароля</LtxtSaveInPwd>
+    <LtxtShowDBName>Показать имя базы данных в списке логин компании</LtxtShowDBName>
+    <LttlRestore>Восстановление</LttlRestore>
+    <LttlRestoreNote> Восстановить прессу  для восстановления базы данных хранимых процедур и функций</LttlRestoreNote>
+    <LtxtRestoreOK>Восстановление было выполнено успешно</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>задачи монитора</LtxtTaskMon>
+    <LtxtPrintTtl>Напечатать название </LtxtPrintTtl>
+    <LtxtCardDetails>Управление карточками</LtxtCardDetails>
+    <LtxtItemDetails>Управление деталями</LtxtItemDetails>
+    <LtxtBatchDetails>Управление полками</LtxtBatchDetails>
+    <LtxtCMREP>Мини доклад</LtxtCMREP>
+    <LtxtObjConfCols>&lt;--&gt;</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>Изменить предложенную цену на заказ клиента</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtAprovOrder>Разрешение заказа клиента</LtxtAprovOrder>
+    <LtxtCloseObj>Закрытый объект</LtxtCloseObj>
+    <LtxtCancelObj>Отменить объект</LtxtCancelObj>
+    <LtxtRemObj>Стереть объекты</LtxtRemObj>
+    <LtxtDocCreation>Создание документов</LtxtDocCreation>
+    <LtxtAddItem>Добавить элемент</LtxtAddItem>
+    <LtxtDocConf>Подтверждение документа</LtxtDocConf>
+    <LtxtCreation>Создание</LtxtCreation>
+    <LtxtRcpConf>Подтверждение накладной</LtxtRcpConf>
+    <LtxtItmConf>Подтверждение детали</LtxtItmConf>
+    <LtxtClientConf>Подтверждение клиента</LtxtClientConf>
+    <LtxtActivityConf>Разрешить деятельность</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Ano</DtxtYes>
+    <DtxtNo>Ne</DtxtNo>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtLines>Řádky</DtxtLines>
+    <DtxtReceipts>Příjemky</DtxtReceipts>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtDetail>Podrobnosti</DtxtDetail>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtMessage>Vzkaz</DtxtMessage>
+    <DtxtValid>Platné</DtxtValid>
+    <DtxtUnknown>Neznámé</DtxtUnknown>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtList>Seznam</DtxtList>
+    <DtxtAction>Akce</DtxtAction>
+    <DtxtActions>Akce</DtxtActions>
+    <LttlSysProp>Systémová nastavení</LttlSysProp>
+    <LttlSysPropNote>V této sekci je možné měnit systémová nastavení.</LttlSysPropNote>
+    <LtxtSaveInPwd>Uložit všechna hesla</LtxtSaveInPwd>
+    <LtxtShowDBName>Zobrazit název databáze v seznamu přístupů společnosti</LtxtShowDBName>
+    <LttlRestore>Obnovit</LttlRestore>
+    <LttlRestoreNote>Stiskněte obnovit pro opakované vygenerování Uložených procedur (Stored Procedures) a Funkcí v databázi</LttlRestoreNote>
+    <LtxtRestoreOK>Obnova byla úspěšně provedena</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>Monitor úkolu</LtxtTaskMon>
+    <LtxtPrintTtl>Tisk názvu</LtxtPrintTtl>
+    <LtxtCardDetails>Údaje o kartě</LtxtCardDetails>
+    <LtxtItemDetails>Údaje o položce</LtxtItemDetails>
+    <LtxtBatchDetails>Údaje o dávce</LtxtBatchDetails>
+    <LtxtCMREP>Mini report košíku</LtxtCMREP>
+    <LtxtObjConfCols>&lt;--&gt;</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>Překlopit nabídku do příkazu k prodeji</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtAprovOrder>Schválit příkaz k prodeji</LtxtAprovOrder>
+    <LtxtCloseObj>Zavřít objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušit objekt</LtxtCancelObj>
+    <LtxtRemObj>Vymazat objekt</LtxtRemObj>
+    <LtxtDocCreation>Vytvoření dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Přidat položku</LtxtAddItem>
+    <LtxtDocConf>Potvrzení dokumentu</LtxtDocConf>
+    <LtxtCreation>Vytvoření</LtxtCreation>
+    <LtxtRcpConf>Potvrzení příjemky</LtxtRcpConf>
+    <LtxtItmConf>Potvrzení položky</LtxtItmConf>
+    <LtxtClientConf>Potvrzení klienta</LtxtClientConf>
+    <LtxtActivityConf>Potvrzení aktivity</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtYes>Tak</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtItems>Pozycje</DtxtItems>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtFlow>Przepływy</DtxtFlow>
+    <DtxtLines>Wiersze</DtxtLines>
+    <DtxtReceipts>Pokwitowania</DtxtReceipts>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtDetail>Szczegóły</DtxtDetail>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtMessage>Wiadomość</DtxtMessage>
+    <DtxtValid>Ważny</DtxtValid>
+    <DtxtUnknown>Nieznany</DtxtUnknown>
+    <DtxtActivities>Działania</DtxtActivities>
+    <DtxtReport>Raport</DtxtReport>
+    <DtxtList>Lista</DtxtList>
+    <DtxtAction>Działanie</DtxtAction>
+    <DtxtActions>Działania</DtxtActions>
+    <LttlSysProp>Ustawienia systemu</LttlSysProp>
+    <LttlSysPropNote>Tutaj można zmienić ustawienia systemu</LttlSysPropNote>
+    <LtxtSaveInPwd>Pozwól na zapamiętanie hasła</LtxtSaveInPwd>
+    <LtxtShowDBName>Pokaz nazwę bazy danych na liście firm do logowania</LtxtShowDBName>
+    <LttlRestore>Przywróć</LttlRestore>
+    <LttlRestoreNote>Naciśnij przywróć, aby ponownie wygenerować bazę danych Zapamiętane Procedury i Funkcje</LttlRestoreNote>
+    <LtxtRestoreOK>Przywrócenie zostało wykonane z sukcesem</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>Ekran zadań </LtxtTaskMon>
+    <LtxtPrintTtl>Drukuj nagłówek</LtxtPrintTtl>
+    <LtxtCardDetails>Szczegóły karty</LtxtCardDetails>
+    <LtxtItemDetails>Szczegóły pozycji</LtxtItemDetails>
+    <LtxtBatchDetails>Szczegóły partii</LtxtBatchDetails>
+    <LtxtCMREP>Mini- raport koszyka</LtxtCMREP>
+    <LtxtObjConfCols>Potwierdzenie przedmiotu</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>Zamień wycenę na zlecenie sprzedaży</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Zmień zamówienie sprzedaży na fakturę</LtxtConvOrderInv>
+    <LtxtAprovOrder>Zaakceptuj zlecenie sprzedaży</LtxtAprovOrder>
+    <LtxtCloseObj>Zamknij przedmiot</LtxtCloseObj>
+    <LtxtCancelObj>Skasuj przedmiot</LtxtCancelObj>
+    <LtxtRemObj>Usuń przedmiot</LtxtRemObj>
+    <LtxtDocCreation>Stworzenie dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Dodaj pozycję</LtxtAddItem>
+    <LtxtDocConf>Potwierdzenie dokumentu</LtxtDocConf>
+    <LtxtCreation>Stworzenie</LtxtCreation>
+    <LtxtRcpConf>Potwierdzenie pokwitowania</LtxtRcpConf>
+    <LtxtItmConf>Potwierdzenie pozycji</LtxtItmConf>
+    <LtxtClientConf>Potwierdzenie Klienta</LtxtClientConf>
+    <LtxtActivityConf>Potwierdzenie działania</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtYes>Áno</DtxtYes>
+    <DtxtNo>Nie</DtxtNo>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtLines>Riadky</DtxtLines>
+    <DtxtReceipts>Potvrdenky o zaplatení</DtxtReceipts>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtMessage>Správa</DtxtMessage>
+    <DtxtValid>Platné</DtxtValid>
+    <DtxtUnknown>Neznáme</DtxtUnknown>
+    <DtxtActivities>Aktivity</DtxtActivities>
+    <DtxtReport>Záznam</DtxtReport>
+    <DtxtList>Zoznam</DtxtList>
+    <DtxtAction>Krok</DtxtAction>
+    <DtxtActions>Kroky</DtxtActions>
+    <LttlSysProp>Nastavenia systému</LttlSysProp>
+    <LttlSysPropNote>Tu sa dajú zmeniť nastavenia systému.</LttlSysPropNote>
+    <LtxtSaveInPwd>Povoliť uloženie hesla</LtxtSaveInPwd>
+    <LtxtShowDBName>Zobraz názov databázy v zozname nalogovaní spoločnosti</LtxtShowDBName>
+    <LttlRestore>Obnoviť</LttlRestore>
+    <LttlRestoreNote>Stlačte obnoviť na znovu vygenerovanie uložených postupov a funkcií databázy</LttlRestoreNote>
+    <LtxtRestoreOK>Obnovenie prebehlo úspešne</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>Monitor úloh</LtxtTaskMon>
+    <LtxtPrintTtl>Názov tlače</LtxtPrintTtl>
+    <LtxtCardDetails>Údaje karty</LtxtCardDetails>
+    <LtxtItemDetails>Udaje o položke</LtxtItemDetails>
+    <LtxtBatchDetails>Udaje o šarži</LtxtBatchDetails>
+    <LtxtCMREP>Mini-výkaz košíka</LtxtCMREP>
+    <LtxtObjConfCols>Potvrdenie objektu</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>Konvertovať cenovú ponuku na predajnú objednávku</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>Konvertovať predajnú objednávku na A/R Faktúru</LtxtConvOrderInv>
+    <LtxtAprovOrder>Schváliť predajnú objednávku</LtxtAprovOrder>
+    <LtxtCloseObj>Zatvoriť objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušiť objekt</LtxtCancelObj>
+    <LtxtRemObj>Zmazať objekt</LtxtRemObj>
+    <LtxtDocCreation>Vytvorenie dokumentu</LtxtDocCreation>
+    <LtxtAddItem>Pridať položku</LtxtAddItem>
+    <LtxtDocConf>Potvrdenie objektu</LtxtDocConf>
+    <LtxtCreation>Vytvorenie</LtxtCreation>
+    <LtxtRcpConf>Potvrdenie účtenky</LtxtRcpConf>
+    <LtxtItmConf>Potvrdenie položky</LtxtItmConf>
+    <LtxtClientConf>Potvrdenie klienta</LtxtClientConf>
+    <LtxtActivityConf>Potvrdenie aktivity</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtStore>&lt;--&gt;</DtxtStore>
+    <DtxtCat>&lt;--&gt;</DtxtCat>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtYes>&lt;--&gt;</DtxtYes>
+    <DtxtNo>&lt;--&gt;</DtxtNo>
+    <DtxtItems>&lt;--&gt;</DtxtItems>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtError>&lt;--&gt;</DtxtError>
+    <DtxtFlow>&lt;--&gt;</DtxtFlow>
+    <DtxtLines>&lt;--&gt;</DtxtLines>
+    <DtxtReceipts>&lt;--&gt;</DtxtReceipts>
+    <DtxtAddress>&lt;--&gt;</DtxtAddress>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtDetail>&lt;--&gt;</DtxtDetail>
+    <DtxtContact>&lt;--&gt;</DtxtContact>
+    <DtxtMessage>&lt;--&gt;</DtxtMessage>
+    <DtxtValid>&lt;--&gt;</DtxtValid>
+    <DtxtUnknown>&lt;--&gt;</DtxtUnknown>
+    <DtxtActivities>&lt;--&gt;</DtxtActivities>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtAction>&lt;--&gt;</DtxtAction>
+    <DtxtActions>&lt;--&gt;</DtxtActions>
+    <LttlSysProp>&lt;--&gt;</LttlSysProp>
+    <LttlSysPropNote>&lt;--&gt;</LttlSysPropNote>
+    <LtxtSaveInPwd>&lt;--&gt;</LtxtSaveInPwd>
+    <LtxtShowDBName>&lt;--&gt;</LtxtShowDBName>
+    <LttlRestore>&lt;--&gt;</LttlRestore>
+    <LttlRestoreNote>&lt;--&gt;</LttlRestoreNote>
+    <LtxtRestoreOK>&lt;--&gt;</LtxtRestoreOK>
+    <LtxtLastCheck>&lt;--&gt;</LtxtLastCheck>
+    <LtxtTaskMon>&lt;--&gt;</LtxtTaskMon>
+    <LtxtPrintTtl>&lt;--&gt;</LtxtPrintTtl>
+    <LtxtCardDetails>&lt;--&gt;</LtxtCardDetails>
+    <LtxtItemDetails>&lt;--&gt;</LtxtItemDetails>
+    <LtxtBatchDetails>&lt;--&gt;</LtxtBatchDetails>
+    <LtxtCMREP>&lt;--&gt;</LtxtCMREP>
+    <LtxtObjConfCols>&lt;--&gt;</LtxtObjConfCols>
+    <LtxtTest>&lt;--&gt;</LtxtTest>
+    <LttlTestNote>&lt;--&gt;</LttlTestNote>
+    <LtxtTestOK>&lt;--&gt;</LtxtTestOK>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtDocCreation>&lt;--&gt;</LtxtDocCreation>
+    <LtxtAddItem>&lt;--&gt;</LtxtAddItem>
+    <LtxtDocConf>&lt;--&gt;</LtxtDocConf>
+    <LtxtCreation>&lt;--&gt;</LtxtCreation>
+    <LtxtRcpConf>&lt;--&gt;</LtxtRcpConf>
+    <LtxtItmConf>&lt;--&gt;</LtxtItmConf>
+    <LtxtClientConf>&lt;--&gt;</LtxtClientConf>
+    <LtxtActivityConf>&lt;--&gt;</LtxtActivityConf>
+    <LtxtSOConf>&lt;--&gt;</LtxtSOConf>
+    <LtxtSingleSignOn>&lt;--&gt;</LtxtSingleSignOn>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtYes>DtxtYes</DtxtYes>
+    <DtxtNo>DtxtNo</DtxtNo>
+    <DtxtItems>DtxtItems</DtxtItems>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtFlow>DtxtFlow</DtxtFlow>
+    <DtxtLines>DtxtLines</DtxtLines>
+    <DtxtReceipts>DtxtReceipts</DtxtReceipts>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtDetail>DtxtDetail</DtxtDetail>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtMessage>DtxtMessage</DtxtMessage>
+    <DtxtValid>DtxtValid</DtxtValid>
+    <DtxtUnknown>DtxtUnknown</DtxtUnknown>
+    <DtxtActivities>DtxtActivities</DtxtActivities>
+    <DtxtReport>DtxtReport</DtxtReport>
+    <DtxtList>DtxtList</DtxtList>
+    <DtxtAction>DtxtAction</DtxtAction>
+    <DtxtActions>DtxtActions</DtxtActions>
+    <LttlSysProp>LttlSysProp</LttlSysProp>
+    <LttlSysPropNote>LttlSysPropNote</LttlSysPropNote>
+    <LtxtSaveInPwd>LtxtSaveInPwd</LtxtSaveInPwd>
+    <LtxtShowDBName>LtxtShowDBName</LtxtShowDBName>
+    <LttlRestore>LttlRestore</LttlRestore>
+    <LttlRestoreNote>LttlRestoreNote</LttlRestoreNote>
+    <LtxtRestoreOK>LtxtRestoreOK</LtxtRestoreOK>
+    <LtxtLastCheck>LtxtLastCheck</LtxtLastCheck>
+    <LtxtTaskMon>LtxtTaskMon</LtxtTaskMon>
+    <LtxtPrintTtl>LtxtPrintTtl</LtxtPrintTtl>
+    <LtxtCardDetails>LtxtCardDetails</LtxtCardDetails>
+    <LtxtItemDetails>LtxtItemDetails</LtxtItemDetails>
+    <LtxtBatchDetails>LtxtBatchDetails</LtxtBatchDetails>
+    <LtxtCMREP>LtxtCMREP</LtxtCMREP>
+    <LtxtObjConfCols>LtxtObjConfCols</LtxtObjConfCols>
+    <LtxtTest>LtxtTest</LtxtTest>
+    <LttlTestNote>LttlTestNote</LttlTestNote>
+    <LtxtTestOK>LtxtTestOK</LtxtTestOK>
+    <LtxtConvQuoteOrder>LtxtConvQuoteOrder</LtxtConvQuoteOrder>
+    <LtxtConvOrderInv>LtxtConvOrderInv</LtxtConvOrderInv>
+    <LtxtAprovOrder>LtxtAprovOrder</LtxtAprovOrder>
+    <LtxtCloseObj>LtxtCloseObj</LtxtCloseObj>
+    <LtxtCancelObj>LtxtCancelObj</LtxtCancelObj>
+    <LtxtRemObj>LtxtRemObj</LtxtRemObj>
+    <LtxtDocCreation>LtxtDocCreation</LtxtDocCreation>
+    <LtxtAddItem>LtxtAddItem</LtxtAddItem>
+    <LtxtDocConf>LtxtDocConf</LtxtDocConf>
+    <LtxtCreation>LtxtCreation</LtxtCreation>
+    <LtxtRcpConf>LtxtRcpConf</LtxtRcpConf>
+    <LtxtItmConf>LtxtItmConf</LtxtItmConf>
+    <LtxtClientConf>LtxtClientConf</LtxtClientConf>
+    <LtxtActivityConf>LtxtActivityConf</LtxtActivityConf>
+    <LtxtSOConf>LtxtSOConf</LtxtSOConf>
+    <LtxtSingleSignOn>LtxtSingleSignOn</LtxtSingleSignOn>
+  </language>
+</languages>

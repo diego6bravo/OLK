@@ -1,0 +1,966 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtSize>Size</DtxtSize>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtPriceList>Price List</DtxtPriceList>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Customer Equipment Card</DtxtEquipmentCard>
+    <DtxtServiceContract>Service Contract</DtxtServiceContract>
+    <DtxtInventory>Inventory</DtxtInventory>
+    <DtxtInvTransReq>Inventory Transfer Request</DtxtInvTransReq>
+    <DtxtInvTrans>Inventory Transfer</DtxtInvTrans>
+    <DtxtSolKnowBase>Solutions Knowledge Base</DtxtSolKnowBase>
+    <DtxtSolution>Solutions</DtxtSolution>
+    <DtxtInvExpns>Inventory Expenses</DtxtInvExpns>
+    <DtxtTravelExpns>Travel/Labor Expenses</DtxtTravelExpns>
+    <LttlUFld>Fields</LttlUFld>
+    <LttlUFldNote>Here user fields for the creation of items, BP, marketing documents, and receipts may be managed.</LttlUFldNote>
+    <LtxtNoAvlFld>There are no available fields to configure</LtxtNoAvlFld>
+    <LtxtSelType>Select the type that you wish to configure.</LtxtSelType>
+    <LtxtValFldQry>Missing query for the field {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Verify the query before returning to field {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Selection Field</LtxtSelFld>
+    <LtxtActivities>Activities</LtxtActivities>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LtxtAddresses>Addresses</LtxtAddresses>
+    <LtxtOLKDocKey>OLK Document Key</LtxtOLKDocKey>
+    <LtxtBranchCode>Branch Code</LtxtBranchCode>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>User fields Groups</LttlUfdGroups>
+    <LttlUfdGroupsNote>Here the groups of the user defined fields may be defined.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtLineNum>Line Number</LtxtLineNum>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtBanks>Banks</LtxtBanks>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtItemCode>Código de Artículo</DtxtItemCode>
+    <DtxtWhsCode>Código de Almacén</DtxtWhsCode>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtLeft>Izquierda</DtxtLeft>
+    <DtxtRight>Derecha</DtxtRight>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtAgents>Agentes</DtxtAgents>
+    <DtxtNotNull>Obligatorio</DtxtNotNull>
+    <DtxtSize>Tamaño</DtxtSize>
+    <DtxtItems>Artículos</DtxtItems>
+    <DtxtComDocs>Documentos Comerciales</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLines>Líneas</DtxtLines>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código de Agente</DtxtAgentCode>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtLanID>Identificación de Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtPriceList>Lista de Precio</DtxtPriceList>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <DtxtPosition2>Posición</DtxtPosition2>
+    <DtxtServiceCall>Llamada de servicio</DtxtServiceCall>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <DtxtService>Servicio</DtxtService>
+    <DtxtEquipmentCard>Tarjeta del equipo del cliente</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrato de servicio</DtxtServiceContract>
+    <DtxtInventory>Inventario</DtxtInventory>
+    <DtxtInvTransReq>Solicitud de traslado</DtxtInvTransReq>
+    <DtxtInvTrans>Transferencia de stock</DtxtInvTrans>
+    <DtxtSolKnowBase>Base de datos de soluciones</DtxtSolKnowBase>
+    <DtxtSolution>Soluciones</DtxtSolution>
+    <DtxtInvExpns>Costos inventario</DtxtInvExpns>
+    <DtxtTravelExpns>Costos viajes/trabajo</DtxtTravelExpns>
+    <LttlUFld>Campos</LttlUFld>
+    <LttlUFldNote>En esta sección podrá administrar los campos de usuario que desea utilizar para la creación de artículos, fichas, documentos comerciales y recibos.</LttlUFldNote>
+    <LtxtNoAvlFld>No hay campos disponibles para configurar.</LtxtNoAvlFld>
+    <LtxtSelType>Debe seleccionar el tipo que desea configurar</LtxtSelType>
+    <LtxtValFldQry>Debe introducir la consulta que desea utilizar para el campo {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Debe verificar la consulta antes de agregar el campo {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Campo de Selección</LtxtSelFld>
+    <LtxtActivities>Actividades</LtxtActivities>
+    <LtxtContacts>Contactos</LtxtContacts>
+    <LtxtAddresses>Direcciones</LtxtAddresses>
+    <LtxtOLKDocKey>Llave de Documento OLK</LtxtOLKDocKey>
+    <LtxtBranchCode>Código de Sucursal</LtxtBranchCode>
+    <LtxtConfDelGrp>¿Está seguro que desea eliminar el grupo {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>Grupos Campos de Usuario</LttlUfdGroups>
+    <LttlUfdGroupsNote>En esta sección podrá definir los grupos de campos de usuario y el orden de estos grupos.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Debe introducir el nombre del grupo</LtxtValGrpNam>
+    <LtxtLineNum>Número de línea</LtxtLineNum>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPurchase>Compras</LtxtPurchase>
+    <LtxtBanks>Bancos</LtxtBanks>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtField>שדה</DtxtField>
+    <DtxtItemCode>קוד פריט</DtxtItemCode>
+    <DtxtWhsCode>קוד מחסן</DtxtWhsCode>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtLeft>שמאל</DtxtLeft>
+    <DtxtRight>ימין</DtxtRight>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtClients>לקוחות</DtxtClients>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtAgents>סוכנים</DtxtAgents>
+    <DtxtNotNull>חייב</DtxtNotNull>
+    <DtxtSize>גודל</DtxtSize>
+    <DtxtItems>פריטים</DtxtItems>
+    <DtxtComDocs>מסמכים שיווקים</DtxtComDocs>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtLines>שורות</DtxtLines>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtAgentCode>קוד סוכן</DtxtAgentCode>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtSystem>מערכת</DtxtSystem>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtLanID>קוד שפה</DtxtLanID>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtPriceList>מחיר מחירון</DtxtPriceList>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <DtxtPosition2>מיקום</DtxtPosition2>
+    <DtxtServiceCall>קריאת שירות</DtxtServiceCall>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <DtxtService>שירות</DtxtService>
+    <DtxtEquipmentCard>כרטיס ציוד לקוח</DtxtEquipmentCard>
+    <DtxtServiceContract>חוזה שירות</DtxtServiceContract>
+    <DtxtInventory>מלאי</DtxtInventory>
+    <DtxtInvTransReq>בקשת העברה בין מחסנים</DtxtInvTransReq>
+    <DtxtInvTrans>העברה בין מחסנים</DtxtInvTrans>
+    <DtxtSolKnowBase>פתרון ממאגר המידע</DtxtSolKnowBase>
+    <DtxtSolution>פתרונות</DtxtSolution>
+    <DtxtInvExpns>הוצאות מלאי</DtxtInvExpns>
+    <DtxtTravelExpns>הוצאות נסיעה/עבודה</DtxtTravelExpns>
+    <LttlUFld>שדות</LttlUFld>
+    <LttlUFldNote>בחלק זה תוכל לנהל את שדות המשתמש שיצרת בסאפ ולקבוע האם תשתמש בהם באתר (אולק).
+ניתן לקבוע הגדרות לשדות משתמש של פריטים/כרטיסים/מסמכי שיווק/קבלות.</LttlUFldNote>
+    <LtxtNoAvlFld>אין שדות זמינים לעריכה</LtxtNoAvlFld>
+    <LtxtSelType>צריך לבחור את הסוג שאתה מעוניין לערוך</LtxtSelType>
+    <LtxtValFldQry>צריך לשים שאילתא לשדה {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>צריך לאשר את השאילתא לפני הוספת שדה {0}</LtxtValFldQryVal>
+    <LtxtSelFld>בחר שדה</LtxtSelFld>
+    <LtxtActivities>פעילויות</LtxtActivities>
+    <LtxtContacts>אנשי קשר</LtxtContacts>
+    <LtxtAddresses>כתובות</LtxtAddresses>
+    <LtxtOLKDocKey>מפתח (מס פנימי) למסמכים של האתר (אולק)</LtxtOLKDocKey>
+    <LtxtBranchCode>קוד סניף</LtxtBranchCode>
+    <LtxtConfDelGrp>האם למחוק קבוצה {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>קבוצות שדות משתמש</LttlUfdGroups>
+    <LttlUfdGroupsNote>בחלק זה תוכל להגדיר קבוצות לשדות משתמש וגם לקבוע את הסדר בה הם יוצגו.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>יש לתת שם לקבוצה</LtxtValGrpNam>
+    <LtxtLineNum>מספר שורה</LtxtLineNum>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtPurchase>קניה</LtxtPurchase>
+    <LtxtBanks>בנקים</LtxtBanks>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtField>Field</DtxtField>
+    <DtxtItemCode>Item Code</DtxtItemCode>
+    <DtxtWhsCode>Warehouse Code</DtxtWhsCode>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtLeft>Left</DtxtLeft>
+    <DtxtRight>Right</DtxtRight>
+    <DtxtAll>All</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtClients>Clients</DtxtClients>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Mandatory</DtxtNotNull>
+    <DtxtSize>Size</DtxtSize>
+    <DtxtItems>Items</DtxtItems>
+    <DtxtComDocs>Marketing Documents</DtxtComDocs>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLines>Lines</DtxtLines>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtAgentCode>Agent Code</DtxtAgentCode>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtLanID>Language ID</DtxtLanID>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtPriceList>Price List</DtxtPriceList>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Customer Equipment Card</DtxtEquipmentCard>
+    <DtxtServiceContract>Service Contract</DtxtServiceContract>
+    <DtxtInventory>Inventory</DtxtInventory>
+    <DtxtInvTransReq>Inventory Transfer Request</DtxtInvTransReq>
+    <DtxtInvTrans>Inventory Transfer</DtxtInvTrans>
+    <DtxtSolKnowBase>Solutions Knowledge Base</DtxtSolKnowBase>
+    <DtxtSolution>Solutions</DtxtSolution>
+    <DtxtInvExpns>Inventory Expenses</DtxtInvExpns>
+    <DtxtTravelExpns>Travel/Labor Expenses</DtxtTravelExpns>
+    <LttlUFld>Fields</LttlUFld>
+    <LttlUFldNote>Here user fields for the creation of items, BP, marketing documents, and receipts may be managed.</LttlUFldNote>
+    <LtxtNoAvlFld>There are no available fields to configure</LtxtNoAvlFld>
+    <LtxtSelType>Select the type that you wish to configure.</LtxtSelType>
+    <LtxtValFldQry>Missing query for the field {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Verify the query before returning to field {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Selection Field</LtxtSelFld>
+    <LtxtActivities>Activities</LtxtActivities>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LtxtAddresses>Addresses</LtxtAddresses>
+    <LtxtOLKDocKey>OLK Document Key</LtxtOLKDocKey>
+    <LtxtBranchCode>Branch Code</LtxtBranchCode>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>User fields Groups</LttlUfdGroups>
+    <LttlUfdGroupsNote>Here the groups of the user defined fields may be defined.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtBanks>Banks</LtxtBanks>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtField>Campo</DtxtField>
+    <DtxtItemCode>Código do Item</DtxtItemCode>
+    <DtxtWhsCode>Código do Armazém</DtxtWhsCode>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtLeft>Esquerda</DtxtLeft>
+    <DtxtRight>Direita</DtxtRight>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtClients>Clientes</DtxtClients>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtAgents>Vendedores</DtxtAgents>
+    <DtxtNotNull>Obrigatório</DtxtNotNull>
+    <DtxtSize>Tamanho</DtxtSize>
+    <DtxtItems>Itens</DtxtItems>
+    <DtxtComDocs>Documentos Comerciais</DtxtComDocs>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtLines>Linhas</DtxtLines>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtAgentCode>Código do Vendedor</DtxtAgentCode>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtSystem>Sistema</DtxtSystem>
+    <DtxtOLK>OnlineKit</DtxtOLK>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtLanID>Identificação do Idioma</DtxtLanID>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtPriceList>Lista de Preço</DtxtPriceList>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <DtxtPosition2>Posição</DtxtPosition2>
+    <DtxtServiceCall>Chamada de serviço</DtxtServiceCall>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <DtxtService>Serviço</DtxtService>
+    <DtxtEquipmentCard>Cartão de equipamento do cliente</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrato de serviço</DtxtServiceContract>
+    <DtxtInventory>Estoque</DtxtInventory>
+    <DtxtInvTransReq>Solicitação de transferência de estoque</DtxtInvTransReq>
+    <DtxtInvTrans>Transferência do estoque</DtxtInvTrans>
+    <DtxtSolKnowBase>Base de conhecimentos de soluções</DtxtSolKnowBase>
+    <DtxtSolution>Soluções</DtxtSolution>
+    <DtxtInvExpns>Despesas de inventário</DtxtInvExpns>
+    <DtxtTravelExpns>Despesas de viagem/de pessoal</DtxtTravelExpns>
+    <LttlUFld>Campos</LttlUFld>
+    <LttlUFldNote>Nesta seção, poderá administrar os campos de usuário que deseja utilizar para a criação de itens, fichas, documentos comerciais e recibos.</LttlUFldNote>
+    <LtxtNoAvlFld>Não existem campos disponíveis para configurar.</LtxtNoAvlFld>
+    <LtxtSelType>Deve selecionar o tipo que deseja configurar</LtxtSelType>
+    <LtxtValFldQry>Deve inserir a consulta que deseja utilizar para o campo {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Deve verificar a consulta antes de adicionar o campo {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Campo de Seleção</LtxtSelFld>
+    <LtxtActivities>Atividades</LtxtActivities>
+    <LtxtContacts>Contatos</LtxtContacts>
+    <LtxtAddresses>Endereços</LtxtAddresses>
+    <LtxtOLKDocKey>Chave do Documento OnlineKit</LtxtOLKDocKey>
+    <LtxtBranchCode>Código da Filial</LtxtBranchCode>
+    <LtxtConfDelGrp>Tem certeza que deseja excluir o grupo{0}? </LtxtConfDelGrp>
+    <LttlUfdGroups>Grupos de Campos de Usuários</LttlUfdGroups>
+    <LttlUfdGroupsNote>Nesta seção, você pode definir grupos de campos de usuário e ordenar estes grupos.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Deve inserir o nome do grupo</LtxtValGrpNam>
+    <LtxtLineNum>Número da linha</LtxtLineNum>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPurchase>Compra</LtxtPurchase>
+    <LtxtBanks>Bancos</LtxtBanks>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtField>Domaine</DtxtField>
+    <DtxtItemCode>Code d'article</DtxtItemCode>
+    <DtxtWhsCode>Code de magasin</DtxtWhsCode>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtLeft>Gauche</DtxtLeft>
+    <DtxtRight>Droite</DtxtRight>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtClients>Clients (es)</DtxtClients>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtAgents>Agents</DtxtAgents>
+    <DtxtNotNull>Obligatoire</DtxtNotNull>
+    <DtxtSize>Grosse</DtxtSize>
+    <DtxtItems>Articles</DtxtItems>
+    <DtxtComDocs>Documentations Commerciaux</DtxtComDocs>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtLines>Lignes</DtxtLines>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtAgentCode>Code d'agent (e)</DtxtAgentCode>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtSystem>Système (Méthode)</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtPriceList>&lt;--&gt;</DtxtPriceList>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtServiceCall>Appel client</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Service Après-Vente</DtxtService>
+    <DtxtEquipmentCard>Fiche équipement client</DtxtEquipmentCard>
+    <DtxtServiceContract>Contrat de maintenance</DtxtServiceContract>
+    <DtxtInventory>Gestion des stocks</DtxtInventory>
+    <DtxtInvTransReq>Demande de transfert</DtxtInvTransReq>
+    <DtxtInvTrans>Transfert de stock</DtxtInvTrans>
+    <DtxtSolKnowBase>Base de connaissances</DtxtSolKnowBase>
+    <DtxtSolution>Solutions</DtxtSolution>
+    <DtxtInvExpns>Sorties stock</DtxtInvExpns>
+    <DtxtTravelExpns>Frais de déplacement/coûts de main-d'oeuvre</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>Dans cette section vous pourrez administrer les domaines d'utilisateur que vous souhaitez utiliser pour la création des articles, fiches, documentation commerciaux et quittances.</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Devez-vous choisir le genre que vous souhaitez configurer</LtxtSelType>
+    <LtxtValFldQry>Devez-vous insérer la consultation que vous souhaitez utiliser pour le domaine {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Devez vous vérifier la consultation avant d\'ajouter le domaine {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Domaine de selection</LtxtSelFld>
+    <LtxtActivities>&lt;--&gt;</LtxtActivities>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LtxtAddresses>&lt;--&gt;</LtxtAddresses>
+    <LtxtOLKDocKey>Clef de documentation OLK</LtxtOLKDocKey>
+    <LtxtBranchCode>Code de Succursale</LtxtBranchCode>
+    <LtxtConfDelGrp>Êtes-vous sûre d'éliminer le groupe {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>&lt;--&gt;</LttlUfdGroups>
+    <LttlUfdGroupsNote>&lt;--&gt;</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Devez-vous insérer le nom du proupe</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtBanks>Banken</LtxtBanks>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtField>Feld</DtxtField>
+    <DtxtItemCode>Artikelkennzeichen</DtxtItemCode>
+    <DtxtWhsCode>Lagerkennzeichen</DtxtWhsCode>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtLeft>Links</DtxtLeft>
+    <DtxtRight>Rechts</DtxtRight>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtClients>Kunden</DtxtClients>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Agenten</DtxtAgents>
+    <DtxtNotNull>Pflicht</DtxtNotNull>
+    <DtxtSize>Größe</DtxtSize>
+    <DtxtItems>Artikel</DtxtItems>
+    <DtxtComDocs>Absatzdokumente</DtxtComDocs>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtLines>Zeilen</DtxtLines>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtAgentCode>Agentenkennzeichen</DtxtAgentCode>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtLanID>Sprachkennung</DtxtLanID>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtPriceList>Preisliste</DtxtPriceList>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <DtxtPosition2>Position</DtxtPosition2>
+    <DtxtServiceCall>Serviceabruf</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Service</DtxtService>
+    <DtxtEquipmentCard>Stammdaten Kundenequipment</DtxtEquipmentCard>
+    <DtxtServiceContract>Servicevertrag</DtxtServiceContract>
+    <DtxtInventory>Lagerverwaltung</DtxtInventory>
+    <DtxtInvTransReq>Anfrage zur Bestandsumlagerung</DtxtInvTransReq>
+    <DtxtInvTrans>Bestandsumlagerung</DtxtInvTrans>
+    <DtxtSolKnowBase>Lösungsdatenbank</DtxtSolKnowBase>
+    <DtxtSolution>Lösungen</DtxtSolution>
+    <DtxtInvExpns>Bestandsausgaben</DtxtInvExpns>
+    <DtxtTravelExpns>Reise-/Lohnkosten</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>In diesem Bereich kann man Benutzerfelder verwalten zur Erstellung von Artikeln, Geschäftspartnern, Marketingdokumente und Belegen.</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Wählen Sie den Typ den Sie konfigurieren möchten</LtxtSelType>
+    <LtxtValFldQry>Es fehlt die Anfrage für das Feld {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Bevor Sie zum Feld zurück gehen, bestätigen Sie die Anfrage</LtxtValFldQryVal>
+    <LtxtSelFld>Auswahlfeld</LtxtSelFld>
+    <LtxtActivities>&lt;--&gt;</LtxtActivities>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LtxtAddresses>&lt;--&gt;</LtxtAddresses>
+    <LtxtOLKDocKey>OLK Dokumentschlüssel</LtxtOLKDocKey>
+    <LtxtBranchCode>Zweigkennzeichen</LtxtBranchCode>
+    <LtxtConfDelGrp>Möchten Sie die Gruppe {0} wirklich löschen?</LtxtConfDelGrp>
+    <LttlUfdGroups>&lt;--&gt;</LttlUfdGroups>
+    <LttlUfdGroupsNote>&lt;--&gt;</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Bitte geben Sie den Gruppen-Namen ein</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Allgemeines</LtxtGeneral>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtBanks>Banken</LtxtBanks>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtField>Поле</DtxtField>
+    <DtxtItemCode>Код предмета</DtxtItemCode>
+    <DtxtWhsCode>Код склада</DtxtWhsCode>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtLeft>Левое</DtxtLeft>
+    <DtxtRight>Правый</DtxtRight>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtClients>Клиенты</DtxtClients>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtAgents>Агент</DtxtAgents>
+    <DtxtNotNull>Должен</DtxtNotNull>
+    <DtxtSize>Размер</DtxtSize>
+    <DtxtItems>Детали</DtxtItems>
+    <DtxtComDocs>Документы связанные со сбытом</DtxtComDocs>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtLines>Линии</DtxtLines>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtAgentCode>Код агента</DtxtAgentCode>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtSystem>Система</DtxtSystem>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtLanID>Код языка</DtxtLanID>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtPriceList> Цена прейскуранта</DtxtPriceList>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <DtxtPosition2>Положение</DtxtPosition2>
+    <DtxtServiceCall>Сервисная заявка</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Сервис</DtxtService>
+    <DtxtEquipmentCard>Карта учета объектов сервиса</DtxtEquipmentCard>
+    <DtxtServiceContract>Сервисный договор</DtxtServiceContract>
+    <DtxtInventory>Запасы</DtxtInventory>
+    <DtxtInvTransReq>Запросы на перемещение</DtxtInvTransReq>
+    <DtxtInvTrans>Перемещение запасов</DtxtInvTrans>
+    <DtxtSolKnowBase>База решений</DtxtSolKnowBase>
+    <DtxtSolution>Pешения</DtxtSolution>
+    <DtxtInvExpns>расходы на запчасти</DtxtInvExpns>
+    <DtxtTravelExpns>расходы по командировкам/работам</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>В этом разделе можно управлять учетными полями для создания пунктов, BP, маркетинговые документы и квитанции.</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Выберите тип, который вы хотите настроить.</LtxtSelType>
+    <LtxtValFldQry>Отсутствие запроса на местах {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Убедитесь, что за запрос, прежде чем вернуться на место{0}</LtxtValFldQryVal>
+    <LtxtSelFld>Выбор полей</LtxtSelFld>
+    <LtxtActivities>Мероприятия</LtxtActivities>
+    <LtxtContacts>Контакты</LtxtContacts>
+    <LtxtAddresses>Адреса</LtxtAddresses>
+    <LtxtOLKDocKey>ОЛК ключ, документирование</LtxtOLKDocKey>
+    <LtxtBranchCode>Код отделения</LtxtBranchCode>
+    <LtxtConfDelGrp>Вы уверены, что хотите удалить группу {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>Пользовательские групповые  поля</LttlUfdGroups>
+    <LttlUfdGroupsNote>В этом разделе можно определить группы пользователей fieldsas. Определено также, кто имеет доступ к их заказу.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Пожалуйста, введите название группы</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtPurchase>Покупка</LtxtPurchase>
+    <LtxtBanks>Банки</LtxtBanks>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtLeft>Vlevo</DtxtLeft>
+    <DtxtRight>Vpravo</DtxtRight>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtSize>Velikost</DtxtSize>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketinové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtLines>Řádky</DtxtLines>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtPriceList>Ceník</DtxtPriceList>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <DtxtPosition2>Pozice</DtxtPosition2>
+    <DtxtServiceCall>Servisní hlášení</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Servis</DtxtService>
+    <DtxtEquipmentCard>Kmenová data vybavení zákazníka</DtxtEquipmentCard>
+    <DtxtServiceContract>Servisní smlouva</DtxtServiceContract>
+    <DtxtInventory>Řízení skladu</DtxtInventory>
+    <DtxtInvTransReq>Požadavek na přeskladnění zásob</DtxtInvTransReq>
+    <DtxtInvTrans>Přeskladnění zásob</DtxtInvTrans>
+    <DtxtSolKnowBase>Databáze řešení</DtxtSolKnowBase>
+    <DtxtSolution>řešení</DtxtSolution>
+    <DtxtInvExpns>výdeje zásob</DtxtInvExpns>
+    <DtxtTravelExpns>cestovní/mzdové náklady</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>V této sekci je možné spravovat uživatelská pole pro vytváření položek, OP, marketingových dokumentů a příjemek.</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Vyberte typ, který chcete nakonfigurovat.</LtxtSelType>
+    <LtxtValFldQry>Chybějící dotaz pro pole {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Před vrácením do pole {0} ověřte dotaz </LtxtValFldQryVal>
+    <LtxtSelFld>Výběrové pole</LtxtSelFld>
+    <LtxtActivities>Aktivity</LtxtActivities>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtAddresses>Adresy</LtxtAddresses>
+    <LtxtOLKDocKey>Klíč dokumentu OLK</LtxtOLKDocKey>
+    <LtxtBranchCode>Kód pobočky</LtxtBranchCode>
+    <LtxtConfDelGrp>Jste si jistý/á, že chcete vymazat skupinu {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>Skupiny uživatelských polí</LttlUfdGroups>
+    <LttlUfdGroupsNote>V této sekci můžete definovat skupiny uživatelů určených polí a kdo k nim může mít přístup.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Zadejte prosím název skupiny</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtBanks>Banky</LtxtBanks>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtField>Pole</DtxtField>
+    <DtxtItemCode>Kod pozycji</DtxtItemCode>
+    <DtxtWhsCode>Kod magazynu</DtxtWhsCode>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtLeft>Lewy</DtxtLeft>
+    <DtxtRight>Prawy</DtxtRight>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtClients>Klienci</DtxtClients>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Sprzedawcy</DtxtAgents>
+    <DtxtNotNull>Obowiązkowy</DtxtNotNull>
+    <DtxtSize>Rozmiar</DtxtSize>
+    <DtxtItems>Pozycje</DtxtItems>
+    <DtxtComDocs>Dokumenty marketingowe</DtxtComDocs>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtLines>Wiersze</DtxtLines>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtAgentCode>Kod sprzedawcy</DtxtAgentCode>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtSystem>System</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtLanID>Numer identyfikacyjny języka</DtxtLanID>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtPriceList>Cennik</DtxtPriceList>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <DtxtPosition2>Położenie</DtxtPosition2>
+    <DtxtServiceCall>Zgłoszenie serwisowe</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Usługa</DtxtService>
+    <DtxtEquipmentCard>Dane podstawowe urządzenia odbiorcy</DtxtEquipmentCard>
+    <DtxtServiceContract>Umowa serwisowa</DtxtServiceContract>
+    <DtxtInventory>Gospodarka materiałowa</DtxtInventory>
+    <DtxtInvTransReq>Żądanie przesunięcia magazynowego</DtxtInvTransReq>
+    <DtxtInvTrans>Przesunięcie magazynowe</DtxtInvTrans>
+    <DtxtSolKnowBase>Baza danych rozwiązań</DtxtSolKnowBase>
+    <DtxtSolution>Rozwiązania</DtxtSolution>
+    <DtxtInvExpns>rozwiązania</DtxtInvExpns>
+    <DtxtTravelExpns>koszty podróży/robocizny</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>Tutaj można zarządzać polami użytkownika dla tworzenia pozycji, PB, dokumentów marketingowych i pokwitowań </LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Wybierz rodzaj, który chcesz skonfigurować. </LtxtSelType>
+    <LtxtValFldQry>Brakuje zapytania do pola {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Zweryfikuj  zapytanie zanim wrócisz do pola {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Wybór pola</LtxtSelFld>
+    <LtxtActivities>Działania</LtxtActivities>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtAddresses>Adresy</LtxtAddresses>
+    <LtxtOLKDocKey>Klucz dokumentów OLK</LtxtOLKDocKey>
+    <LtxtBranchCode>Kod Partii</LtxtBranchCode>
+    <LtxtConfDelGrp>Czy jesteś pewien, że chcesz usunąć grupę {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>Grupy pól użytkownika</LttlUfdGroups>
+    <LttlUfdGroupsNote>Tutaj można zdefiniować grupy zdefiniowanych pół użytkownika</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Proszę wprowadź nazwę grupy</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtPurchase>Zakup</LtxtPurchase>
+    <LtxtBanks>Banki</LtxtBanks>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtField>Políčko</DtxtField>
+    <DtxtItemCode>Kód položky</DtxtItemCode>
+    <DtxtWhsCode>Kód skladu</DtxtWhsCode>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtLeft>Naľavo</DtxtLeft>
+    <DtxtRight>Pravý</DtxtRight>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtClients>Klienti</DtxtClients>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtAgents>Agenti</DtxtAgents>
+    <DtxtNotNull>Povinné</DtxtNotNull>
+    <DtxtSize>Velkosť</DtxtSize>
+    <DtxtItems>Položky</DtxtItems>
+    <DtxtComDocs>Marketingové dokumenty</DtxtComDocs>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtLines>Riadky</DtxtLines>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtAgentCode>Kód agenta</DtxtAgentCode>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtSystem>Systém</DtxtSystem>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtLanID>ID jazyka</DtxtLanID>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtPriceList>Cenník</DtxtPriceList>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <DtxtPosition2>Pozícia</DtxtPosition2>
+    <DtxtServiceCall>Servisné volanie</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>Servis</DtxtService>
+    <DtxtEquipmentCard>Karta predaných materiálov</DtxtEquipmentCard>
+    <DtxtServiceContract>Servisná zmluva</DtxtServiceContract>
+    <DtxtInventory>Riadenie skladu</DtxtInventory>
+    <DtxtInvTransReq>Požiadavka na preskladnenie zásob</DtxtInvTransReq>
+    <DtxtInvTrans>Preskladnenie zásob</DtxtInvTrans>
+    <DtxtSolKnowBase>Databáza riešení</DtxtSolKnowBase>
+    <DtxtSolution>Riešenia</DtxtSolution>
+    <DtxtInvExpns>náklady zásob</DtxtInvExpns>
+    <DtxtTravelExpns>cestovné/mzdové náklady</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>Tu sa dajú riadiť políčka užívateľov pre vytvorenie položiek, obchodných partnerov, marketingových dokumentov a účteniek.</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>Zvolte typ, ktorý si prajete nakonfigurovať.</LtxtSelType>
+    <LtxtValFldQry>Chýbajúci dotaz pre políčko {0}</LtxtValFldQry>
+    <LtxtValFldQryVal>Overiť dotaz pred návratom na políčko {0}</LtxtValFldQryVal>
+    <LtxtSelFld>Políčko výberu</LtxtSelFld>
+    <LtxtActivities>Činnosti</LtxtActivities>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LtxtAddresses>Adresy</LtxtAddresses>
+    <LtxtOLKDocKey>Kľúč dokumentu OLK</LtxtOLKDocKey>
+    <LtxtBranchCode>Kód pobočky</LtxtBranchCode>
+    <LtxtConfDelGrp>Ste si istí, že chcete zmazať skupinu {0}?</LtxtConfDelGrp>
+    <LttlUfdGroups>Skupiny políčok užívateľa</LttlUfdGroups>
+    <LttlUfdGroupsNote>Tu sa dajú definovať skupiny políčok definovaných užívateľom.</LttlUfdGroupsNote>
+    <LtxtValGrpNam>Prosím zadajte názov skupiny</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtBanks>Banky</LtxtBanks>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtField>&lt;--&gt;</DtxtField>
+    <DtxtItemCode>&lt;--&gt;</DtxtItemCode>
+    <DtxtWhsCode>&lt;--&gt;</DtxtWhsCode>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtLeft>&lt;--&gt;</DtxtLeft>
+    <DtxtRight>&lt;--&gt;</DtxtRight>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtClients>&lt;--&gt;</DtxtClients>
+    <DtxtValFldMaxChar>&lt;--&gt;</DtxtValFldMaxChar>
+    <DtxtAgents>&lt;--&gt;</DtxtAgents>
+    <DtxtNotNull>&lt;--&gt;</DtxtNotNull>
+    <DtxtSize>&lt;--&gt;</DtxtSize>
+    <DtxtItems>&lt;--&gt;</DtxtItems>
+    <DtxtComDocs>&lt;--&gt;</DtxtComDocs>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtLines>&lt;--&gt;</DtxtLines>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtAgentCode>&lt;--&gt;</DtxtAgentCode>
+    <DtxtUDF>&lt;--&gt;</DtxtUDF>
+    <DtxtSystem>&lt;--&gt;</DtxtSystem>
+    <DtxtOLK>&lt;--&gt;</DtxtOLK>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtLanID>&lt;--&gt;</DtxtLanID>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtPriceList>&lt;--&gt;</DtxtPriceList>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <DtxtPosition2>&lt;--&gt;</DtxtPosition2>
+    <DtxtServiceCall>サービスコール(S)</DtxtServiceCall>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <DtxtService>サービス(E)</DtxtService>
+    <DtxtEquipmentCard>得意先別登録商品カード(C)</DtxtEquipmentCard>
+    <DtxtServiceContract>サービス契約(E)</DtxtServiceContract>
+    <DtxtInventory>在庫(I)</DtxtInventory>
+    <DtxtInvTransReq>在庫転送依頼(I)</DtxtInvTransReq>
+    <DtxtInvTrans>在庫転送</DtxtInvTrans>
+    <DtxtSolKnowBase>ナレッジベースソリューション(O)</DtxtSolKnowBase>
+    <DtxtSolution>解決法</DtxtSolution>
+    <DtxtInvExpns>在庫費用</DtxtInvExpns>
+    <DtxtTravelExpns>サービス/出張費</DtxtTravelExpns>
+    <LttlUFld>&lt;--&gt;</LttlUFld>
+    <LttlUFldNote>&lt;--&gt;</LttlUFldNote>
+    <LtxtNoAvlFld>&lt;--&gt;</LtxtNoAvlFld>
+    <LtxtSelType>&lt;--&gt;</LtxtSelType>
+    <LtxtValFldQry>&lt;--&gt;</LtxtValFldQry>
+    <LtxtValFldQryVal>&lt;--&gt;</LtxtValFldQryVal>
+    <LtxtSelFld>&lt;--&gt;</LtxtSelFld>
+    <LtxtActivities>&lt;--&gt;</LtxtActivities>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LtxtAddresses>&lt;--&gt;</LtxtAddresses>
+    <LtxtOLKDocKey>&lt;--&gt;</LtxtOLKDocKey>
+    <LtxtBranchCode>&lt;--&gt;</LtxtBranchCode>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LttlUfdGroups>&lt;--&gt;</LttlUfdGroups>
+    <LttlUfdGroupsNote>&lt;--&gt;</LttlUfdGroupsNote>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtLineNum>&lt;--&gt;</LtxtLineNum>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtField>DtxtField</DtxtField>
+    <DtxtItemCode>DtxtItemCode</DtxtItemCode>
+    <DtxtWhsCode>DtxtWhsCode</DtxtWhsCode>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtLeft>DtxtLeft</DtxtLeft>
+    <DtxtRight>DtxtRight</DtxtRight>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtClients>DtxtClients</DtxtClients>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtAgents>DtxtAgents</DtxtAgents>
+    <DtxtNotNull>DtxtNotNull</DtxtNotNull>
+    <DtxtSize>DtxtSize</DtxtSize>
+    <DtxtItems>DtxtItems</DtxtItems>
+    <DtxtComDocs>DtxtComDocs</DtxtComDocs>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtLines>DtxtLines</DtxtLines>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtAgentCode>DtxtAgentCode</DtxtAgentCode>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtSystem>DtxtSystem</DtxtSystem>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtLanID>DtxtLanID</DtxtLanID>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtPriceList>DtxtPriceList</DtxtPriceList>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <DtxtPosition2>DtxtPosition2</DtxtPosition2>
+    <DtxtServiceCall>DtxtServiceCall</DtxtServiceCall>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <DtxtService>DtxtService</DtxtService>
+    <DtxtEquipmentCard>DtxtEquipmentCard</DtxtEquipmentCard>
+    <DtxtServiceContract>DtxtServiceContract</DtxtServiceContract>
+    <DtxtInventory>DtxtInventory</DtxtInventory>
+    <DtxtInvTransReq>DtxtInvTransReq</DtxtInvTransReq>
+    <DtxtInvTrans>DtxtInvTrans</DtxtInvTrans>
+    <DtxtSolKnowBase>DtxtSolKnowBase</DtxtSolKnowBase>
+    <DtxtSolution>DtxtSolution</DtxtSolution>
+    <DtxtInvExpns>DtxtInvExpns</DtxtInvExpns>
+    <DtxtTravelExpns>DtxtTravelExpns</DtxtTravelExpns>
+    <LttlUFld>LttlUFld</LttlUFld>
+    <LttlUFldNote>LttlUFldNote</LttlUFldNote>
+    <LtxtNoAvlFld>LtxtNoAvlFld</LtxtNoAvlFld>
+    <LtxtSelType>LtxtSelType</LtxtSelType>
+    <LtxtValFldQry>LtxtValFldQry</LtxtValFldQry>
+    <LtxtValFldQryVal>LtxtValFldQryVal</LtxtValFldQryVal>
+    <LtxtSelFld>LtxtSelFld</LtxtSelFld>
+    <LtxtActivities>LtxtActivities</LtxtActivities>
+    <LtxtContacts>LtxtContacts</LtxtContacts>
+    <LtxtAddresses>LtxtAddresses</LtxtAddresses>
+    <LtxtOLKDocKey>LtxtOLKDocKey</LtxtOLKDocKey>
+    <LtxtBranchCode>LtxtBranchCode</LtxtBranchCode>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+    <LttlUfdGroups>LttlUfdGroups</LttlUfdGroups>
+    <LttlUfdGroupsNote>LttlUfdGroupsNote</LttlUfdGroupsNote>
+    <LtxtValGrpNam>LtxtValGrpNam</LtxtValGrpNam>
+    <LtxtLineNum>LtxtLineNum</LtxtLineNum>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPurchase>LtxtPurchase</LtxtPurchase>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+  </language>
+</languages>

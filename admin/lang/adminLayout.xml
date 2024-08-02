@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtNone>None</DtxtNone>
+    <DtxtContent>Content</DtxtContent>
+    <LttlLayout>Layout</LttlLayout>
+    <LttlLayoutNote>In this section it is possible to define the different components you wish to enable in the content sections.</LttlLayoutNote>
+    <LtxtSideBar>Sidebar</LtxtSideBar>
+    <LtxtBanner>Banner</LtxtBanner>
+    <LtxtNews>News</LtxtNews>
+    <LtxtSmallCat>Small Catalog</LtxtSmallCat>
+    <LtxtSecIndex>Sections Index</LtxtSecIndex>
+    <LtxtCatNav>Catalog Navigator</LtxtCatNav>
+    <LtxtCartMinRep>Cart Mini Report</LtxtCartMinRep>
+    <LtxtNewsLetter>Newsletter</LtxtNewsLetter>
+    <LtxtPolls>Polls</LtxtPolls>
+    <LtxtHomeOferts>Promotions</LtxtHomeOferts>
+    <LtxtConfDelLine>Are you sure you want to remove the line {0}?</LtxtConfDelLine>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtHomePage>Home Page</LtxtHomePage>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNone>Ninguno</DtxtNone>
+    <DtxtContent>Contenido</DtxtContent>
+    <LttlLayout>Diseño</LttlLayout>
+    <LttlLayoutNote>En esta sección podrá definir los diferentes componentes que desee habilitar en las secciones de contenido.</LttlLayoutNote>
+    <LtxtSideBar>Barra lateral</LtxtSideBar>
+    <LtxtBanner>Pancartas</LtxtBanner>
+    <LtxtNews>Noticias</LtxtNews>
+    <LtxtSmallCat>Mini Catalogo</LtxtSmallCat>
+    <LtxtSecIndex>Índice de Secciones</LtxtSecIndex>
+    <LtxtCatNav>Navegador de Catalogo</LtxtCatNav>
+    <LtxtCartMinRep>Reporte Mini Canasta</LtxtCartMinRep>
+    <LtxtNewsLetter>Hoja Informativa</LtxtNewsLetter>
+    <LtxtPolls>Encuesta</LtxtPolls>
+    <LtxtHomeOferts>Promociones</LtxtHomeOferts>
+    <LtxtConfDelLine>¿Está seguro que desea eliminar la línea {0}?</LtxtConfDelLine>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtHomePage>Página Inicial</LtxtHomePage>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtType>סוג</DtxtType>
+    <DtxtNone>ללא</DtxtNone>
+    <DtxtContent>תוכן</DtxtContent>
+    <LttlLayout>מערך</LttlLayout>
+    <LttlLayoutNote>בחלק זה תוכל להגדיר את המרכיבים השונים שתרצה להפעיל בסעיפיי התוכן.</LttlLayoutNote>
+    <LtxtSideBar>סרגל צידי</LtxtSideBar>
+    <LtxtBanner>באנר</LtxtBanner>
+    <LtxtNews>חדשות</LtxtNews>
+    <LtxtSmallCat>קטלוג קטן</LtxtSmallCat>
+    <LtxtSecIndex>אינדקס סעיפים</LtxtSecIndex>
+    <LtxtCatNav>נווט הקטלוג</LtxtCatNav>
+    <LtxtCartMinRep>מיני דוח עגלת קניות</LtxtCartMinRep>
+    <LtxtNewsLetter>עלון</LtxtNewsLetter>
+    <LtxtPolls>סקרים</LtxtPolls>
+    <LtxtHomeOferts>מבצעים</LtxtHomeOferts>
+    <LtxtConfDelLine>האם אתה בטוח שברצונך להסיר את השורה {0}?</LtxtConfDelLine>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtHomePage>דף הבית</LtxtHomePage>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtType>Type</DtxtType>
+    <DtxtNone>None</DtxtNone>
+    <DtxtContent>Content</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtHomePage>Home Page</LtxtHomePage>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtNone>Nenhum</DtxtNone>
+    <DtxtContent>Conteúdo</DtxtContent>
+    <LttlLayout>Desenho</LttlLayout>
+    <LttlLayoutNote>Nesta seção, é possível definir os componentes diferentes que você quiser ativar nas seções de conteúdo.</LttlLayoutNote>
+    <LtxtSideBar>Barra lateral</LtxtSideBar>
+    <LtxtBanner>Banners</LtxtBanner>
+    <LtxtNews>Notícias</LtxtNews>
+    <LtxtSmallCat>Mini Catálogo</LtxtSmallCat>
+    <LtxtSecIndex>Índice de Seções</LtxtSecIndex>
+    <LtxtCatNav>Navegador de Catálogo</LtxtCatNav>
+    <LtxtCartMinRep>Relatório Mini Carrinho</LtxtCartMinRep>
+    <LtxtNewsLetter>Folha Informativa</LtxtNewsLetter>
+    <LtxtPolls>Pesquisa</LtxtPolls>
+    <LtxtHomeOferts>Promoções</LtxtHomeOferts>
+    <LtxtConfDelLine>Tem certeza que deseja excluir a linha {0}?</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtNone>&lt;--&gt;</DtxtNone>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtType>Art</DtxtType>
+    <DtxtNone>Keine</DtxtNone>
+    <DtxtContent>Inhalt</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtType>Вид</DtxtType>
+    <DtxtNone>Некакой</DtxtNone>
+    <DtxtContent>Содержание</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNone>Žádné</DtxtNone>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtType>Typ</DtxtType>
+    <DtxtNone>Żaden</DtxtNone>
+    <DtxtContent>Treść</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtNone>Žiaden</DtxtNone>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtNone>&lt;--&gt;</DtxtNone>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlLayout>&lt;--&gt;</LttlLayout>
+    <LttlLayoutNote>&lt;--&gt;</LttlLayoutNote>
+    <LtxtSideBar>&lt;--&gt;</LtxtSideBar>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtNews>&lt;--&gt;</LtxtNews>
+    <LtxtSmallCat>&lt;--&gt;</LtxtSmallCat>
+    <LtxtSecIndex>&lt;--&gt;</LtxtSecIndex>
+    <LtxtCatNav>&lt;--&gt;</LtxtCatNav>
+    <LtxtCartMinRep>&lt;--&gt;</LtxtCartMinRep>
+    <LtxtNewsLetter>&lt;--&gt;</LtxtNewsLetter>
+    <LtxtPolls>&lt;--&gt;</LtxtPolls>
+    <LtxtHomeOferts>&lt;--&gt;</LtxtHomeOferts>
+    <LtxtConfDelLine>&lt;--&gt;</LtxtConfDelLine>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtHomePage>&lt;--&gt;</LtxtHomePage>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtNone>DtxtNone</DtxtNone>
+    <DtxtContent>DtxtContent</DtxtContent>
+    <LttlLayout>LttlLayout</LttlLayout>
+    <LttlLayoutNote>LttlLayoutNote</LttlLayoutNote>
+    <LtxtSideBar>LtxtSideBar</LtxtSideBar>
+    <LtxtBanner>LtxtBanner</LtxtBanner>
+    <LtxtNews>LtxtNews</LtxtNews>
+    <LtxtSmallCat>LtxtSmallCat</LtxtSmallCat>
+    <LtxtSecIndex>LtxtSecIndex</LtxtSecIndex>
+    <LtxtCatNav>LtxtCatNav</LtxtCatNav>
+    <LtxtCartMinRep>LtxtCartMinRep</LtxtCartMinRep>
+    <LtxtNewsLetter>LtxtNewsLetter</LtxtNewsLetter>
+    <LtxtPolls>LtxtPolls</LtxtPolls>
+    <LtxtHomeOferts>LtxtHomeOferts</LtxtHomeOferts>
+    <LtxtConfDelLine>LtxtConfDelLine</LtxtConfDelLine>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtHomePage>LtxtHomePage</LtxtHomePage>
+  </language>
+</languages>

@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Content</DtxtContent>
+    <LttlAddSec>Add Section</LttlAddSec>
+    <LttlEditSec>Edit Section</LttlEditSec>
+    <LttlSecNote>Here changes may be made to the custom section.</LttlSecNote>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMnu>Hide Menu</LtxtHideMnu>
+    <LtxtShortText>Brief Text (Optional)</LtxtShortText>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtManual>Manual</LtxtManual>
+    <LtxtValSecNam>Please enter the section name</LtxtValSecNam>
+    <LtxtConfCont>Confirmation Content</LtxtConfCont>
+    <LttlAddForm>Add Form</LttlAddForm>
+    <LttlEditForm>Edit Form</LttlEditForm>
+    <LttlFormNote>Here changes may be made to the custom form.</LttlFormNote>
+    <LtxtValFormNam>Please enter the form name</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Enable Content Query</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Enable Record Set</LtxtEnableRS>
+    <LtxtLoop>Loop</LtxtLoop>
+    <LtxtHideSecMenu>Hide Alter Menu</LtxtHideSecMenu>
+    <LtxtRecordSets>Record Sets</LtxtRecordSets>
+    <LtxtApplyCSS>Apply OLK Title and Content Style</LtxtApplyCSS>
+    <LtxtValLink>You must enter link value</LtxtValLink>
+    <LtxtValRep>You must select a report</LtxtValRep>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Vista Previa</DtxtPreview>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <DtxtForm>Formulario</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtReport>Reporte</DtxtReport>
+    <DtxtContent>Contenido</DtxtContent>
+    <LttlAddSec>Agregar Sección</LttlAddSec>
+    <LttlEditSec>Editar Sección</LttlEditSec>
+    <LttlSecNote>En esta sección podrá hacer todos los cambios que desee a las secciones personalizadas.</LttlSecNote>
+    <LtxtSesion>Sesión</LtxtSesion>
+    <LtxtHideMnu>Ocultar Menú</LtxtHideMnu>
+    <LtxtShortText>Texto breve (Opcional)</LtxtShortText>
+    <LtxtContent>Contenido</LtxtContent>
+    <LtxtManual>Manual</LtxtManual>
+    <LtxtValSecNam>Debe introducir el nombre de la sección</LtxtValSecNam>
+    <LtxtConfCont>Contenido de Confirmación</LtxtConfCont>
+    <LttlAddForm>Agregar Formulario</LttlAddForm>
+    <LttlEditForm>Editar Formulario</LttlEditForm>
+    <LttlFormNote>En esta sección podrá hacer todos los cambios que desee en el formulario personalizado.</LttlFormNote>
+    <LtxtValFormNam>Debe introducir el nombre del formulario</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Habilitar consulta de contenido</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Habilitar conjunto de registros</LtxtEnableRS>
+    <LtxtLoop>Ciclo</LtxtLoop>
+    <LtxtHideSecMenu>Ocultar Menú Alterno</LtxtHideSecMenu>
+    <LtxtRecordSets>Conjunto de Datos</LtxtRecordSets>
+    <LtxtApplyCSS>Aplicar estilo de titulo y contenido OLK</LtxtApplyCSS>
+    <LtxtValLink>Debe introducir el valor del enlace</LtxtValLink>
+    <LtxtValRep>Debe seleccionar un reporte</LtxtValRep>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtName>שם</DtxtName>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtType>סוג</DtxtType>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtPreview>תצוגה מוקדמת</DtxtPreview>
+    <DtxtClientCode>קוד לקוח</DtxtClientCode>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <DtxtForm>טופס</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtReport>דוח</DtxtReport>
+    <DtxtContent>תוכן</DtxtContent>
+    <LttlAddSec>הוסף אזור</LttlAddSec>
+    <LttlEditSec>ערוך אזור</LttlEditSec>
+    <LttlSecNote>בחלק זה תוכל לעשות שינויים טקסטואלים באזורים המותאמים אישית</LttlSecNote>
+    <LtxtSesion>מחובר</LtxtSesion>
+    <LtxtHideMnu>הסתר בתפריט</LtxtHideMnu>
+    <LtxtShortText>טקסט קצר (לא חובה)</LtxtShortText>
+    <LtxtContent>תוכן</LtxtContent>
+    <LtxtManual>ידני</LtxtManual>
+    <LtxtValSecNam>יש לתת "שם" לאזור!</LtxtValSecNam>
+    <LtxtConfCont>אשר תוכן</LtxtConfCont>
+    <LttlAddForm>הוסף טופס</LttlAddForm>
+    <LttlEditForm>ערוך טופס</LttlEditForm>
+    <LttlFormNote>בחלק זה ניתן לערוך את הטופס</LttlFormNote>
+    <LtxtValFormNam>יש לתת שם לטופס</LtxtValFormNam>
+    <LtxtSecContentEnableQ>אפשר שאילתת נתונים</LtxtSecContentEnableQ>
+    <LtxtEnableRS>אפשר Record set</LtxtEnableRS>
+    <LtxtLoop>לולאה</LtxtLoop>
+    <LtxtHideSecMenu>הסתר תפריט משני</LtxtHideSecMenu>
+    <LtxtRecordSets>Record Sets</LtxtRecordSets>
+    <LtxtApplyCSS>החל אולק עיצוב תוכן</LtxtApplyCSS>
+    <LtxtValLink>יש לתת ערך לקישור</LtxtValLink>
+    <LtxtValRep>יש לבחור דוח</LtxtValRep>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtType>Type</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Preview</DtxtPreview>
+    <DtxtClientCode>Client Code</DtxtClientCode>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <DtxtForm>Form</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Content</DtxtContent>
+    <LttlAddSec>Add Section</LttlAddSec>
+    <LttlEditSec>Edit Section</LttlEditSec>
+    <LttlSecNote>Here changes may be made to the custom section.</LttlSecNote>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMnu>Hide Menu</LtxtHideMnu>
+    <LtxtShortText>Brief Text (Optional)</LtxtShortText>
+    <LtxtContent>Content</LtxtContent>
+    <LtxtManual>Manual</LtxtManual>
+    <LtxtValSecNam>Please enter the section name</LtxtValSecNam>
+    <LtxtConfCont>Confirmation Content</LtxtConfCont>
+    <LttlAddForm>Add Form</LttlAddForm>
+    <LttlEditForm>Edit Form</LttlEditForm>
+    <LttlFormNote>Here changes may be made to the custom form.</LttlFormNote>
+    <LtxtValFormNam>Please enter the form name</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Enable Content Query</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Enable Record Set</LtxtEnableRS>
+    <LtxtLoop>Loop</LtxtLoop>
+    <LtxtHideSecMenu>Hide Alter Menu</LtxtHideSecMenu>
+    <LtxtRecordSets>Record Sets</LtxtRecordSets>
+    <LtxtApplyCSS>Apply OLK Title and Content Style</LtxtApplyCSS>
+    <LtxtValLink>You must enter link value</LtxtValLink>
+    <LtxtValRep>You must select a report</LtxtValRep>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtName>Nome</DtxtName>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtPreview>Pré Visualizar</DtxtPreview>
+    <DtxtClientCode>Código de Cliente</DtxtClientCode>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <DtxtForm>Formulário</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtReport>Relatório</DtxtReport>
+    <DtxtContent>Conteúdo</DtxtContent>
+    <LttlAddSec>Adicionar Seção</LttlAddSec>
+    <LttlEditSec>Editar Seção</LttlEditSec>
+    <LttlSecNote>Aqui, podem ser feitas alterações para a seção personalizada.</LttlSecNote>
+    <LtxtSesion>Sessão</LtxtSesion>
+    <LtxtHideMnu>Ocultar Menu</LtxtHideMnu>
+    <LtxtShortText>Texto Breve (Opcional)</LtxtShortText>
+    <LtxtContent>Conteúdo</LtxtContent>
+    <LtxtManual>Manual</LtxtManual>
+    <LtxtValSecNam>Por favor, insira o nome da seção.</LtxtValSecNam>
+    <LtxtConfCont>Conteúdo de Confirmação</LtxtConfCont>
+    <LttlAddForm>Adicionar Formulário</LttlAddForm>
+    <LttlEditForm>Editar Formulário</LttlEditForm>
+    <LttlFormNote>Aqui, podem ser feitas alterações para personalizar o formulário.</LttlFormNote>
+    <LtxtValFormNam>Por favor, insira o nome do formulário.</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Habilitar Consulta de Conteúdo</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Habilitar Conjunto de Dados</LtxtEnableRS>
+    <LtxtLoop>Ciclo</LtxtLoop>
+    <LtxtHideSecMenu>Ocultar Menu Alternativo</LtxtHideSecMenu>
+    <LtxtRecordSets>Conjuntos de Dados</LtxtRecordSets>
+    <LtxtApplyCSS>Aplicar estilo de título e conteúdo OnlineKit.</LtxtApplyCSS>
+    <LtxtValLink>Você deve inserir o valor do link.</LtxtValLink>
+    <LtxtValRep>Você deve selecionar um relatório.</LtxtValRep>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtName>Nom</DtxtName>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtPreview>Vue préalable</DtxtPreview>
+    <DtxtClientCode>Code client (e)</DtxtClientCode>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtConfCancel>Au moment d\\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <DtxtForm>Formulaire</DtxtForm>
+    <DtxtScript>Scénario</DtxtScript>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlAddSec>Ajouter la section</LttlAddSec>
+    <LttlEditSec>Éditer la section</LttlEditSec>
+    <LttlSecNote>Dans cette section vous pourrez faire tous les changements que vous souhaitez aux sections personnalisées.</LttlSecNote>
+    <LtxtSesion>Séance</LtxtSesion>
+    <LtxtHideMnu>Cacher le Menu</LtxtHideMnu>
+    <LtxtShortText>Texte bref (Optionel)</LtxtShortText>
+    <LtxtContent>Contenu</LtxtContent>
+    <LtxtManual>Manuel</LtxtManual>
+    <LtxtValSecNam>Devez-vous insérer le nom de la section</LtxtValSecNam>
+    <LtxtConfCont>Contenu de la confirmation</LtxtConfCont>
+    <LttlAddForm>&lt;--&gt;</LttlAddForm>
+    <LttlEditForm>&lt;--&gt;</LttlEditForm>
+    <LttlFormNote>&lt;--&gt;</LttlFormNote>
+    <LtxtValFormNam>&lt;--&gt;</LtxtValFormNam>
+    <LtxtSecContentEnableQ>&lt;--&gt;</LtxtSecContentEnableQ>
+    <LtxtEnableRS>&lt;--&gt;</LtxtEnableRS>
+    <LtxtLoop>&lt;--&gt;</LtxtLoop>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+    <LtxtRecordSets>&lt;--&gt;</LtxtRecordSets>
+    <LtxtApplyCSS>&lt;--&gt;</LtxtApplyCSS>
+    <LtxtValLink>&lt;--&gt;</LtxtValLink>
+    <LtxtValRep>&lt;--&gt;</LtxtValRep>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtName>Name</DtxtName>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtType>Art</DtxtType>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtPreview>Vorschau</DtxtPreview>
+    <DtxtClientCode>Kundenkennzeichen</DtxtClientCode>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <DtxtForm>Formular</DtxtForm>
+    <DtxtScript>Text</DtxtScript>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtReport>Bericht</DtxtReport>
+    <DtxtContent>Inhalt</DtxtContent>
+    <LttlAddSec>Bereich hinzufügen</LttlAddSec>
+    <LttlEditSec>Bereich bearbeiten</LttlEditSec>
+    <LttlSecNote>In diesem Teil können Sie Ihre individualisierten Bereiche bearbeiten.</LttlSecNote>
+    <LtxtSesion>Sitzung</LtxtSesion>
+    <LtxtHideMnu>Menü ausblenden</LtxtHideMnu>
+    <LtxtShortText>Kurztext (freiwillig)</LtxtShortText>
+    <LtxtContent>Inhalt</LtxtContent>
+    <LtxtManual>Manuell</LtxtManual>
+    <LtxtValSecNam>Bitte geben Sie den Bereichnamen ein</LtxtValSecNam>
+    <LtxtConfCont>Bestätigungsinhalt</LtxtConfCont>
+    <LttlAddForm>&lt;--&gt;</LttlAddForm>
+    <LttlEditForm>&lt;--&gt;</LttlEditForm>
+    <LttlFormNote>&lt;--&gt;</LttlFormNote>
+    <LtxtValFormNam>&lt;--&gt;</LtxtValFormNam>
+    <LtxtSecContentEnableQ>&lt;--&gt;</LtxtSecContentEnableQ>
+    <LtxtEnableRS>&lt;--&gt;</LtxtEnableRS>
+    <LtxtLoop>&lt;--&gt;</LtxtLoop>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+    <LtxtRecordSets>&lt;--&gt;</LtxtRecordSets>
+    <LtxtApplyCSS>&lt;--&gt;</LtxtApplyCSS>
+    <LtxtValLink>&lt;--&gt;</LtxtValLink>
+    <LtxtValRep>&lt;--&gt;</LtxtValRep>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtName>Имя</DtxtName>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtType>Вид</DtxtType>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtPreview>Досрочная экспозиция</DtxtPreview>
+    <DtxtClientCode>Код клиента</DtxtClientCode>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <DtxtForm>Форма</DtxtForm>
+    <DtxtScript>Сценарий</DtxtScript>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtReport>Доклад</DtxtReport>
+    <DtxtContent>Содержание</DtxtContent>
+    <LttlAddSec>Добавить область</LttlAddSec>
+    <LttlEditSec>Изменить регион</LttlEditSec>
+    <LttlSecNote>В этом разделе вы можете внести изменения в пользовательских текстах</LttlSecNote>
+    <LtxtSesion>Подключен</LtxtSesion>
+    <LtxtHideMnu>Скрыть меню</LtxtHideMnu>
+    <LtxtShortText>Краткий текст (необязательно)</LtxtShortText>
+    <LtxtContent>Содержание</LtxtContent>
+    <LtxtManual>Ручной</LtxtManual>
+    <LtxtValSecNam>Должно быть предоставлена " Имя" площади!</LtxtValSecNam>
+    <LtxtConfCont>Разрешить содержание </LtxtConfCont>
+    <LttlAddForm>Добавить форму</LttlAddForm>
+    <LttlEditForm>Изменить форму</LttlEditForm>
+    <LttlFormNote>В этом разделе вы можете изменить форму</LttlFormNote>
+    <LtxtValFormNam>Должен иметь имя, форму</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Дать возможность запрашивать данные</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Запись набора возможна</LtxtEnableRS>
+    <LtxtLoop>Петля</LtxtLoop>
+    <LtxtHideSecMenu>Скрыть второе меню </LtxtHideSecMenu>
+    <LtxtRecordSets>Запись набора</LtxtRecordSets>
+    <LtxtApplyCSS>Начать название и дизайн олк</LtxtApplyCSS>
+    <LtxtValLink>Должно быть указано значение связи</LtxtValLink>
+    <LtxtValRep>Нужно выбрать отчет</LtxtValRep>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtPreview>Náhled</DtxtPreview>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <DtxtForm>Obrazovka</DtxtForm>
+    <DtxtScript>Skript</DtxtScript>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtReport>Report</DtxtReport>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlAddSec>Přidat sekci</LttlAddSec>
+    <LttlEditSec>Upravit sekci</LttlEditSec>
+    <LttlSecNote>Zde bude možné provádět změny do přizpůsobených sekcí.</LttlSecNote>
+    <LtxtSesion>Relace</LtxtSesion>
+    <LtxtHideMnu>Schovat menu</LtxtHideMnu>
+    <LtxtShortText>Krátky text (volitelný)</LtxtShortText>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtManual>Manuální</LtxtManual>
+    <LtxtValSecNam>Zadejte název sekce</LtxtValSecNam>
+    <LtxtConfCont>Potvrzení obsahu</LtxtConfCont>
+    <LttlAddForm>Přidat formulář</LttlAddForm>
+    <LttlEditForm>Upravit formulář</LttlEditForm>
+    <LttlFormNote>Zde bude možné provádět změny v upravených formulářů.</LttlFormNote>
+    <LtxtValFormNam>Zadejte název formuláře</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Aktivovate dotaz obsahu</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Aktivovat záznamy</LtxtEnableRS>
+    <LtxtLoop>Smyčka</LtxtLoop>
+    <LtxtHideSecMenu>Schovat menu Změnit</LtxtHideSecMenu>
+    <LtxtRecordSets>Záznamy</LtxtRecordSets>
+    <LtxtApplyCSS>Použít Titul OLK a styl obsahu</LtxtApplyCSS>
+    <LtxtValLink>Musíte zadat hodnotu odkazu</LtxtValLink>
+    <LtxtValRep>Musíte zvolit report</LtxtValRep>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtType>Typ</DtxtType>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtPreview>Podgląd</DtxtPreview>
+    <DtxtClientCode>Kod klienta</DtxtClientCode>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <DtxtForm>Formularz</DtxtForm>
+    <DtxtScript>Script</DtxtScript>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtReport>Raport</DtxtReport>
+    <DtxtContent>Treść</DtxtContent>
+    <LttlAddSec>Dodaj dział</LttlAddSec>
+    <LttlEditSec>Edytuj dział</LttlEditSec>
+    <LttlSecNote>Tutaj można dokonać zmian w zindywidualizowanym dziale</LttlSecNote>
+    <LtxtSesion>Sesja</LtxtSesion>
+    <LtxtHideMnu>Ukryj menu</LtxtHideMnu>
+    <LtxtShortText>Krótki tekst (opcjonalny)</LtxtShortText>
+    <LtxtContent>Treść</LtxtContent>
+    <LtxtManual>Instrukcja obsługi</LtxtManual>
+    <LtxtValSecNam>Proszę wprowadź nazwę działu</LtxtValSecNam>
+    <LtxtConfCont>Potwierdź treść</LtxtConfCont>
+    <LttlAddForm>Dodaj formularz</LttlAddForm>
+    <LttlEditForm>Edytuj formularz</LttlEditForm>
+    <LttlFormNote>Tutaj można dokonać zmian w zindywidualizowanym formularzu</LttlFormNote>
+    <LtxtValFormNam>Proszę wprowadź nazwę formularza</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Umożliwia zapytanie dotyczące treści</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Umożliwia ustawienie rekordu</LtxtEnableRS>
+    <LtxtLoop>Pętla</LtxtLoop>
+    <LtxtHideSecMenu>Ukryj drugie menu</LtxtHideSecMenu>
+    <LtxtRecordSets>Rekord Sets</LtxtRecordSets>
+    <LtxtApplyCSS>Zastosuj OLK tytuł i styl zawartości</LtxtApplyCSS>
+    <LtxtValLink>Musisz wprowadzić wartość linku</LtxtValLink>
+    <LtxtValRep>Musisz wybrać raport</LtxtValRep>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtName>Názov</DtxtName>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtPreview>Náhľad</DtxtPreview>
+    <DtxtClientCode>Kód klienta</DtxtClientCode>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <DtxtForm>Formulár</DtxtForm>
+    <DtxtScript>Skript</DtxtScript>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtReport>Záznam</DtxtReport>
+    <DtxtContent>Obsah</DtxtContent>
+    <LttlAddSec>Pridať sekciu</LttlAddSec>
+    <LttlEditSec>Editovať sekciu</LttlEditSec>
+    <LttlSecNote>Tu sa dajú uskutočniť zmeny na frekventovaných sekciách.</LttlSecNote>
+    <LtxtSesion>Session</LtxtSesion>
+    <LtxtHideMnu>Skryť menu</LtxtHideMnu>
+    <LtxtShortText>Stručný text (Voliteľné)</LtxtShortText>
+    <LtxtContent>Obsah</LtxtContent>
+    <LtxtManual>Manuálne</LtxtManual>
+    <LtxtValSecNam>Prosím zadajte názov sekcie</LtxtValSecNam>
+    <LtxtConfCont>Obsah potvrdenia</LtxtConfCont>
+    <LttlAddForm>Pridať formulár</LttlAddForm>
+    <LttlEditForm>Editovať formulár</LttlEditForm>
+    <LttlFormNote>Tu sa dajú uskutočniť zmeny na frekventovaných formulároch. </LttlFormNote>
+    <LtxtValFormNam>Prosím zadajte názov formulára</LtxtValFormNam>
+    <LtxtSecContentEnableQ>Sprístupniť obsah dotazu</LtxtSecContentEnableQ>
+    <LtxtEnableRS>Sprístupniť skupinu záznamov</LtxtEnableRS>
+    <LtxtLoop>Cyklus</LtxtLoop>
+    <LtxtHideSecMenu>Skryť alternujúce menu</LtxtHideSecMenu>
+    <LtxtRecordSets>Skupiny záznamov</LtxtRecordSets>
+    <LtxtApplyCSS>Použiť OLK nadpis a štýl obsahu</LtxtApplyCSS>
+    <LtxtValLink>Musíte zadať hodnotu linku</LtxtValLink>
+    <LtxtValRep>Musíte vybrať správu</LtxtValRep>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>&lt;--&gt;</DtxtValNumMinVal>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtType>&lt;--&gt;</DtxtType>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtPreview>&lt;--&gt;</DtxtPreview>
+    <DtxtClientCode>&lt;--&gt;</DtxtClientCode>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtConfCancel>&lt;--&gt;</DtxtConfCancel>
+    <DtxtForm>&lt;--&gt;</DtxtForm>
+    <DtxtScript>&lt;--&gt;</DtxtScript>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtReport>&lt;--&gt;</DtxtReport>
+    <DtxtContent>&lt;--&gt;</DtxtContent>
+    <LttlAddSec>&lt;--&gt;</LttlAddSec>
+    <LttlEditSec>&lt;--&gt;</LttlEditSec>
+    <LttlSecNote>&lt;--&gt;</LttlSecNote>
+    <LtxtSesion>&lt;--&gt;</LtxtSesion>
+    <LtxtHideMnu>&lt;--&gt;</LtxtHideMnu>
+    <LtxtShortText>&lt;--&gt;</LtxtShortText>
+    <LtxtContent>&lt;--&gt;</LtxtContent>
+    <LtxtManual>&lt;--&gt;</LtxtManual>
+    <LtxtValSecNam>&lt;--&gt;</LtxtValSecNam>
+    <LtxtConfCont>&lt;--&gt;</LtxtConfCont>
+    <LttlAddForm>&lt;--&gt;</LttlAddForm>
+    <LttlEditForm>&lt;--&gt;</LttlEditForm>
+    <LttlFormNote>&lt;--&gt;</LttlFormNote>
+    <LtxtValFormNam>&lt;--&gt;</LtxtValFormNam>
+    <LtxtSecContentEnableQ>&lt;--&gt;</LtxtSecContentEnableQ>
+    <LtxtEnableRS>&lt;--&gt;</LtxtEnableRS>
+    <LtxtLoop>&lt;--&gt;</LtxtLoop>
+    <LtxtHideSecMenu>&lt;--&gt;</LtxtHideSecMenu>
+    <LtxtRecordSets>&lt;--&gt;</LtxtRecordSets>
+    <LtxtApplyCSS>&lt;--&gt;</LtxtApplyCSS>
+    <LtxtValLink>&lt;--&gt;</LtxtValLink>
+    <LtxtValRep>&lt;--&gt;</LtxtValRep>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtPreview>DtxtPreview</DtxtPreview>
+    <DtxtClientCode>DtxtClientCode</DtxtClientCode>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <DtxtForm>DtxtForm</DtxtForm>
+    <DtxtScript>DtxtScript</DtxtScript>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtReport>DtxtReport</DtxtReport>
+    <DtxtContent>DtxtContent</DtxtContent>
+    <LttlAddSec>LttlAddSec</LttlAddSec>
+    <LttlEditSec>LttlEditSec</LttlEditSec>
+    <LttlSecNote>LttlSecNote</LttlSecNote>
+    <LtxtSesion>LtxtSesion</LtxtSesion>
+    <LtxtHideMnu>LtxtHideMnu</LtxtHideMnu>
+    <LtxtShortText>LtxtShortText</LtxtShortText>
+    <LtxtContent>LtxtContent</LtxtContent>
+    <LtxtManual>LtxtManual</LtxtManual>
+    <LtxtValSecNam>LtxtValSecNam</LtxtValSecNam>
+    <LtxtConfCont>LtxtConfCont</LtxtConfCont>
+    <LttlAddForm>LttlAddForm</LttlAddForm>
+    <LttlEditForm>LttlEditForm</LttlEditForm>
+    <LttlFormNote>LttlFormNote</LttlFormNote>
+    <LtxtValFormNam>LtxtValFormNam</LtxtValFormNam>
+    <LtxtSecContentEnableQ>LtxtSecContentEnableQ</LtxtSecContentEnableQ>
+    <LtxtEnableRS>LtxtEnableRS</LtxtEnableRS>
+    <LtxtLoop>LtxtLoop</LtxtLoop>
+    <LtxtHideSecMenu>LtxtHideSecMenu</LtxtHideSecMenu>
+    <LtxtRecordSets>LtxtRecordSets</LtxtRecordSets>
+    <LtxtApplyCSS>LtxtApplyCSS</LtxtApplyCSS>
+    <LtxtValLink>LtxtValLink</LtxtValLink>
+    <LtxtValRep>LtxtValRep</LtxtValRep>
+  </language>
+</languages>

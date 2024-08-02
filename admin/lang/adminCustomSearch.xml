@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtUp>Up</DtxtUp>
+    <DtxtDown>Down</DtxtDown>
+    <LttlCustomSearch>Item Search</LttlCustomSearch>
+    <LttlCustomSearchNote>Here customized Item Searches may be created for the Client, Agent, and Mobile sessions.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Are you sure you want to remove custom search {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Please enter the custom search name</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>BP Search</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>Here customized Business Partner Searches may be created for the Agent and Mobile sessions.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtUp>Arriba</DtxtUp>
+    <DtxtDown>Abajo</DtxtDown>
+    <LttlCustomSearch>Búsqueda de Artículos</LttlCustomSearch>
+    <LttlCustomSearchNote>En esta sección podrá crear búsqueda de artículos personalizados para clientes, agentes y movil.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>¿Está seguro que desea eliminar la búsqueda personalizada {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Debe introducir el nombre de la búsqueda personalizada</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>Búsqueda de SN</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>En esta sección podrá crear búsqueda de Socios de Negocios personalizados para agentes y movil.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtUp>למטה</DtxtUp>
+    <DtxtDown>למטה</DtxtDown>
+    <LttlCustomSearch>חיפוש פריטים</LttlCustomSearch>
+    <LttlCustomSearchNote>בחלק זה תוכל ליצור ולערוך חיפושיי פריטים מתקדם ללקוחות, סוכנים ופוקט.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>האם למחוק חיפוש מתקדם {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>יש לתת שם לחיפוש המתקדם</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>חיפוש כרטיסים</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>בחלק זה תוכל להוסיף ולערוך חיפוש מתקדם לכרטיסים לאזור סוכנים ופוקט. </LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtUp>Up</DtxtUp>
+    <DtxtDown>Down</DtxtDown>
+    <LttlCustomSearch>Item Search</LttlCustomSearch>
+    <LttlCustomSearchNote>Here customized Item Searches may be created for the Client, Agent, and Mobile sessions.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Are you sure you want to remove custom search {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Please enter the custom search name</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>BP Search</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>Here customized Business Partner Searches may be created for the Agent and Mobile sessions.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtUp>Acima</DtxtUp>
+    <DtxtDown>Abaixo</DtxtDown>
+    <LttlCustomSearch>Pesquisa de Item</LttlCustomSearch>
+    <LttlCustomSearchNote>Nesta seção, podem ser criadas Pesquisas personalizadas de itens para as seções Cliente, Vendedor e Mobile.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Você tem certeza que deseja remover a busca personalizada {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Por favor, insira o nome da pesquisa personalizada.</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>Pesquisa de PN</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>Nesta seção, podem ser criadas Pesquisas personalizadas de Parceiros de Negócios para as sessões de Vendedor e Mobile.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtUp>&lt;--&gt;</DtxtUp>
+    <DtxtDown>&lt;--&gt;</DtxtDown>
+    <LttlCustomSearch>&lt;--&gt;</LttlCustomSearch>
+    <LttlCustomSearchNote>&lt;--&gt;</LttlCustomSearchNote>
+    <LtxtConfRemSearch>&lt;--&gt;</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>&lt;--&gt;</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>&lt;--&gt;</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>&lt;--&gt;</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtUp>Nach Oben</DtxtUp>
+    <DtxtDown>Nach Unten</DtxtDown>
+    <LttlCustomSearch>&lt;--&gt;</LttlCustomSearch>
+    <LttlCustomSearchNote>&lt;--&gt;</LttlCustomSearchNote>
+    <LtxtConfRemSearch>&lt;--&gt;</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>&lt;--&gt;</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>&lt;--&gt;</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>&lt;--&gt;</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtUp>Вверх</DtxtUp>
+    <DtxtDown>Вниз</DtxtDown>
+    <LttlCustomSearch>Поиск деталей</LttlCustomSearch>
+    <LttlCustomSearchNote>В этом разделе вы можете создавать и редактировать пункты поиск клиентов, агентов . и карман.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Вы уверены, что хотите удалить пользовательский поиск{0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Пожалуйста, введите имя расширенного поиска</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>Поиск карточек</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>В этом разделе можно создавать или настроить расширить поиск карточек в районе  агентов и карманых.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtUp>Nahoru</DtxtUp>
+    <DtxtDown>Dolů</DtxtDown>
+    <LttlCustomSearch>Položkové vyhledávání</LttlCustomSearch>
+    <LttlCustomSearchNote>V této sekci je možné přizpůsobovat vyhledávání položek proměnlivě pro klienta, agenta a kapsu.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Jste si jistý/á, že chcete odebrat upravené vyhledávání {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Zadejte prosím název vyhledávání na míru</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>Vyhledávání OP</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>V této sekci je možné přizpůsobovat vyhledávání obchodních partnerů pro agenty a kapsu.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtUp>Do góry</DtxtUp>
+    <DtxtDown>Do dołu</DtxtDown>
+    <LttlCustomSearch>Poszukiwanie pozycji</LttlCustomSearch>
+    <LttlCustomSearchNote>Tutaj można stworzyć zindywidualizowane poszukiwania pozycji dla klienta, sprzedawcy i sesji schowka</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Czy jesteś pewien, że chcesz usunąć zindywidualizowane poszukiwanie  {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Proszę wprowadź nazwę zindywidualizowanego poszukiwania</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>Poszukiwanie PB </LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>Tutaj można stworzyć zindywidualizowane poszukiwania Partnerów Biznesowych dla sprzedawcy i sesji schowka</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtUp>Nahor</DtxtUp>
+    <DtxtDown>Nadol</DtxtDown>
+    <LttlCustomSearch>Vyhľadávanie položiek</LttlCustomSearch>
+    <LttlCustomSearchNote>Tu sa dajú vytvoriť frekventované vyhľadávania položiek pre session Klienta, Agenta a Pocket.</LttlCustomSearchNote>
+    <LtxtConfRemSearch>Ste si istí, že chcete odstrániť frekventované vyhľadávanie {0}?</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>Prosím, zadajte názov frekventovaného vyhľadávania</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>BP vyhľadávanie</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>Tu sa dajú vytvoriť frekventované vyhľadávania Biznis Partnerov pre session Agenta a Pocket.</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtAsc>&lt;--&gt;</DtxtAsc>
+    <DtxtDesc>&lt;--&gt;</DtxtDesc>
+    <DtxtUp>&lt;--&gt;</DtxtUp>
+    <DtxtDown>&lt;--&gt;</DtxtDown>
+    <LttlCustomSearch>&lt;--&gt;</LttlCustomSearch>
+    <LttlCustomSearchNote>&lt;--&gt;</LttlCustomSearchNote>
+    <LtxtConfRemSearch>&lt;--&gt;</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>&lt;--&gt;</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>&lt;--&gt;</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>&lt;--&gt;</LttlCustomSearchNoteC>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtUp>DtxtUp</DtxtUp>
+    <DtxtDown>DtxtDown</DtxtDown>
+    <LttlCustomSearch>LttlCustomSearch</LttlCustomSearch>
+    <LttlCustomSearchNote>LttlCustomSearchNote</LttlCustomSearchNote>
+    <LtxtConfRemSearch>LtxtConfRemSearch</LtxtConfRemSearch>
+    <LtxtValAlrNoNam>LtxtValAlrNoNam</LtxtValAlrNoNam>
+    <LtxtCustomSearchCL>LtxtCustomSearchCL</LtxtCustomSearchCL>
+    <LttlCustomSearchNoteC>LttlCustomSearchNoteC</LttlCustomSearchNoteC>
+  </language>
+</languages>

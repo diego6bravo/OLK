@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtCompany>Company</DtxtCompany>
+    <LtxtValSlpSel>You must select an agent</LtxtValSlpSel>
+    <LtxtTitle>Single Access Database Definitions</LtxtTitle>
+    <LtxtNote>Here database information such as agent, system access type, and default warehouse type may be updated.</LtxtNote>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtNoDB>No database are active or are not up to date</LtxtNoDB>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtDisabled>Deshabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtCompany>Compañía</DtxtCompany>
+    <LtxtValSlpSel>Debe seleccionar un agente</LtxtValSlpSel>
+    <LtxtTitle>Definición de Base de Datos de Acceso Univoco</LtxtTitle>
+    <LtxtNote>En esta sección podrá actualizar la información de una base de datos, como el agente, tipo de acceso al sistema y almacén predeterminado.</LtxtNote>
+    <LtxtSuperUser>SuperUsuario</LtxtSuperUser>
+    <LtxtNoDB>Ninguna base de datos esta activa o actualizada</LtxtNoDB>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtDisabled>לא פעיל</DtxtDisabled>
+    <DtxtDefault>ברירת מחדל</DtxtDefault>
+    <DtxtCompany>חברה</DtxtCompany>
+    <LtxtValSlpSel>עליך לבחור סוכן</LtxtValSlpSel>
+    <LtxtTitle>הגדרות  מסד נתונים מסוג  Single Access</LtxtTitle>
+    <LtxtNote>כאן תוכל לעדכן פרטי סוכן מסד נתונים, סוג גישה למערכת וסוג מחסן ברירת מחדל </LtxtNote>
+    <LtxtSuperUser>משתמש בכיר</LtxtSuperUser>
+    <LtxtNoDB>מסד נתונים אינו פעיל או לא מעודן</LtxtNoDB>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtDisabled>Disabled</DtxtDisabled>
+    <DtxtDefault>Default</DtxtDefault>
+    <DtxtCompany>Company</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtWarehouse>Armazém</DtxtWarehouse>
+    <DtxtDisabled>Desabilitado</DtxtDisabled>
+    <DtxtDefault>Predeterminada</DtxtDefault>
+    <DtxtCompany>Empresa</DtxtCompany>
+    <LtxtValSlpSel>Deve ser solucionado um vendedor</LtxtValSlpSel>
+    <LtxtTitle>Definição de Banco de Dados de Acesso</LtxtTitle>
+    <LtxtNote>Nesta sessão é possível atualizar a informação de uma base de dados, como vendedor, tipo de acesso ao sistema e depósito pré-determinado.</LtxtNote>
+    <LtxtSuperUser>Super Usuário</LtxtSuperUser>
+    <LtxtNoDB>Nenhuma base de dados foi ativada ou atualizada</LtxtNoDB>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtDisabled>Déhabilité</DtxtDisabled>
+    <DtxtDefault>Prédéterminé (prérésolu)</DtxtDefault>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Super Utilisateur</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtDisabled>Deaktiviert</DtxtDisabled>
+    <DtxtDefault>Standardeinstellung</DtxtDefault>
+    <DtxtCompany>Firma</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Super Benutzer</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtDisabled>Прекращенный</DtxtDisabled>
+    <DtxtDefault>По умолчанию</DtxtDefault>
+    <DtxtCompany>Компания</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Старший пользователь</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokováno</DtxtDisabled>
+    <DtxtDefault>Výchozí</DtxtDefault>
+    <DtxtCompany>Společnost</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Nadřazený uživatel</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtDisabled>Nie aktywny/zablokowany</DtxtDisabled>
+    <DtxtDefault>Domyślny</DtxtDefault>
+    <DtxtCompany>Firma</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Super Użytkownik</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtDisabled>Zablokované</DtxtDisabled>
+    <DtxtDefault>Predvolené</DtxtDefault>
+    <DtxtCompany>Spoločnosť</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>Superužívateľ</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtWarehouse>&lt;--&gt;</DtxtWarehouse>
+    <DtxtDisabled>&lt;--&gt;</DtxtDisabled>
+    <DtxtDefault>&lt;--&gt;</DtxtDefault>
+    <DtxtCompany>&lt;--&gt;</DtxtCompany>
+    <LtxtValSlpSel>&lt;--&gt;</LtxtValSlpSel>
+    <LtxtTitle>&lt;--&gt;</LtxtTitle>
+    <LtxtNote>&lt;--&gt;</LtxtNote>
+    <LtxtSuperUser>&lt;--&gt;</LtxtSuperUser>
+    <LtxtNoDB>&lt;--&gt;</LtxtNoDB>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtDisabled>DtxtDisabled</DtxtDisabled>
+    <DtxtDefault>DtxtDefault</DtxtDefault>
+    <DtxtCompany>DtxtCompany</DtxtCompany>
+    <LtxtValSlpSel>LtxtValSlpSel</LtxtValSlpSel>
+    <LtxtTitle>LtxtTitle</LtxtTitle>
+    <LtxtNote>LtxtNote</LtxtNote>
+    <LtxtSuperUser>LtxtSuperUser</LtxtSuperUser>
+    <LtxtNoDB>LtxtNoDB</LtxtNoDB>
+  </language>
+</languages>

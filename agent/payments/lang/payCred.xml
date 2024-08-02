@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtAccount>Account</DtxtAccount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlCredCardPymnt>Credit Card Payment</LttlCredCardPymnt>
+    <LtxtCard>Card</LtxtCard>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LtxtPymntSystem>Method of Payment</LtxtPymntSystem>
+    <LtxtCardNum>Card N°</LtxtCardNum>
+    <LtxtDoSel>Make your selection</LtxtDoSel>
+    <LtxtID>ID</LtxtID>
+    <LtxtCardValUn>Card valid thru.</LtxtCardValUn>
+    <LtxtNumOfPay>Number of Payments</LtxtNumOfPay>
+    <LtxtFirstPymnt>First Payment</LtxtFirstPymnt>
+    <LtxtAddPayQty>Q/Additional Payment</LtxtAddPayQty>
+    <LtxtRefNum>Reference N°</LtxtRefNum>
+    <LtxtAut>Authorization</LtxtAut>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtConfDelCard>Are you sure you want to remove the card {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>The minimum charge with this credit card is {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Please select method of payment </LtxtValPymntSys>
+    <LtxtValCardNoPymnt>You must enter amount</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Incorrect expiration date of card</LtxtValCardDueDat>
+    <LtxtValAut>You must enter authorization</LtxtValAut>
+    <LtxtAddCard>Add Card</LtxtAddCard>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Cerrar</DtxtClose>
+    <DtxtUpdate>Actualizar</DtxtUpdate>
+    <DtxtAccount>Cuenta</DtxtAccount>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtConfCancel>Al cancelar perderá todos los cambios que ha realizado. ¿Desea continuar?</DtxtConfCancel>
+    <LttlCredCardPymnt>Pago en Tarjeta de Crédito</LttlCredCardPymnt>
+    <LtxtCard>Tarjeta</LtxtCard>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LtxtPymntSystem>Sistema de Pago</LtxtPymntSystem>
+    <LtxtCardNum>Tarjeta N°</LtxtCardNum>
+    <LtxtDoSel>Haga su selección</LtxtDoSel>
+    <LtxtID>Identificación</LtxtID>
+    <LtxtCardValUn>Tarjeta válida H/</LtxtCardValUn>
+    <LtxtNumOfPay>N° de Pagos</LtxtNumOfPay>
+    <LtxtFirstPymnt>Primer Pago</LtxtFirstPymnt>
+    <LtxtAddPayQty>C/Pago Adicional</LtxtAddPayQty>
+    <LtxtRefNum>N° Comprobante</LtxtRefNum>
+    <LtxtAut>Autorización</LtxtAut>
+    <LtxtDueDate>F. Vence</LtxtDueDate>
+    <LtxtConfDelCard>¿Está seguro que desea eliminar la tarjeta {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>El valor mínimo para poder pagar con esta tarjeta es de {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Debe escoger un sistema de pago</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Debe introducir el importe</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Fecha incorrecta de vencimiento de tarjeta </LtxtValCardDueDat>
+    <LtxtValAut>Debe introducir la autorización</LtxtValAut>
+    <LtxtAddCard>Agregar Tarjeta</LtxtAddCard>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtClose>סגור</DtxtClose>
+    <DtxtUpdate>עדכן</DtxtUpdate>
+    <DtxtAccount>חשבון</DtxtAccount>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtConfCancel>ביטול יגרום לאיבוד כל השינויים שביצעת! האם להמשיך ?</DtxtConfCancel>
+    <LttlCredCardPymnt>סכום בכרטיסי אשראי</LttlCredCardPymnt>
+    <LtxtCard>כרטיס</LtxtCard>
+    <LtxtBalToPay>סכום לתשלום</LtxtBalToPay>
+    <LtxtPymntSystem>שיטת תשלום</LtxtPymntSystem>
+    <LtxtCardNum>מס' כרטיס</LtxtCardNum>
+    <LtxtDoSel>בחר מרשימה</LtxtDoSel>
+    <LtxtID>מסמך מזהה</LtxtID>
+    <LtxtCardValUn>כרטיס בתוקף עד</LtxtCardValUn>
+    <LtxtNumOfPay>מס' תשלומים</LtxtNumOfPay>
+    <LtxtFirstPymnt>תשלום ראשון</LtxtFirstPymnt>
+    <LtxtAddPayQty>כל תשלום נוסף</LtxtAddPayQty>
+    <LtxtRefNum>מס' אסמכתא</LtxtRefNum>
+    <LtxtAut>עדכן</LtxtAut>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtConfDelCard>האם למחוק כרטיס אשראי {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>הסכום המינימלי שניתן לשלם עם כרטיס האשראי הנ""ל הינו {0}₪</LtxtMinCredPymnt>
+    <LtxtValPymntSys>יש לבחור שיטת תשלום</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>יש לשים סכום</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>תאריך תוקף של כרטיס האשראי אינו חוקי</LtxtValCardDueDat>
+    <LtxtValAut>יש לשים את מס' האישור בפעולה</LtxtValAut>
+    <LtxtAddCard>הוסף כרטיס</LtxtAddCard>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Close</DtxtClose>
+    <DtxtUpdate>Update</DtxtUpdate>
+    <DtxtAccount>Account</DtxtAccount>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtConfCancel>By cancelling, all changes will be lost. Do you wish to continue?</DtxtConfCancel>
+    <LttlCredCardPymnt>Credit Card Payment</LttlCredCardPymnt>
+    <LtxtCard>Card</LtxtCard>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LtxtPymntSystem>Method of Payment</LtxtPymntSystem>
+    <LtxtCardNum>Card N°</LtxtCardNum>
+    <LtxtDoSel>Make your selection</LtxtDoSel>
+    <LtxtID>ID</LtxtID>
+    <LtxtCardValUn>Card valid thru.</LtxtCardValUn>
+    <LtxtNumOfPay>Number of Payments</LtxtNumOfPay>
+    <LtxtFirstPymnt>First Payment</LtxtFirstPymnt>
+    <LtxtAddPayQty>Q/Additional Payment</LtxtAddPayQty>
+    <LtxtRefNum>Reference N°</LtxtRefNum>
+    <LtxtAut>Authorization</LtxtAut>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtConfDelCard>Are you sure you want to remove the card {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>The minimum charge with this credit card is {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Please select method of payment </LtxtValPymntSys>
+    <LtxtValCardNoPymnt>You must enter amount</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Incorrect expiration date of card</LtxtValCardDueDat>
+    <LtxtValAut>You must enter authorization</LtxtValAut>
+    <LtxtAddCard>Add Card</LtxtAddCard>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fechar</DtxtClose>
+    <DtxtUpdate>Atualizar</DtxtUpdate>
+    <DtxtAccount>Conta</DtxtAccount>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtConfCancel>Ao cancelar, todas as modificações realizadas serão perdidas. Deseja continuar?</DtxtConfCancel>
+    <LttlCredCardPymnt>Pagamento com Cartão de Crédito</LttlCredCardPymnt>
+    <LtxtCard>Cartão</LtxtCard>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LtxtPymntSystem>Sistema de Pagamento</LtxtPymntSystem>
+    <LtxtCardNum>Cartão Nº</LtxtCardNum>
+    <LtxtDoSel>Faça sua seleção</LtxtDoSel>
+    <LtxtID>Identificação</LtxtID>
+    <LtxtCardValUn>Cartão válido H/</LtxtCardValUn>
+    <LtxtNumOfPay>Nº Pagamentos</LtxtNumOfPay>
+    <LtxtFirstPymnt>Primeiro Pagamento</LtxtFirstPymnt>
+    <LtxtAddPayQty>C/Pago Adicional</LtxtAddPayQty>
+    <LtxtRefNum>Nº Comprovante</LtxtRefNum>
+    <LtxtAut>Autorização</LtxtAut>
+    <LtxtDueDate>D. Vence</LtxtDueDate>
+    <LtxtConfDelCard>Tem certeza que deseja eliminar o cartão {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>O valor mínimo para poder pagar com este cartão é de {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Deve escolher um sistema de pagamento</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Deve introduzir o valor</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Data de vencimento do cartão incorreta</LtxtValCardDueDat>
+    <LtxtValAut>Deve introduzir a autorização</LtxtValAut>
+    <LtxtAddCard>Adicionar Cartão </LtxtAddCard>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtClose>Fermer</DtxtClose>
+    <DtxtUpdate>Mise à jour</DtxtUpdate>
+    <DtxtAccount>Compte</DtxtAccount>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtConfCancel>Au moment d\'annuler vous perdrez les modifications que vous avez fait. Veuillez-vous continuer?</DtxtConfCancel>
+    <LttlCredCardPymnt>Versement en Carte de Crédit</LttlCredCardPymnt>
+    <LtxtCard>Carte </LtxtCard>
+    <LtxtBalToPay>Solde à payer</LtxtBalToPay>
+    <LtxtPymntSystem>Système de versement</LtxtPymntSystem>
+    <LtxtCardNum>Carte numéro</LtxtCardNum>
+    <LtxtDoSel>Faites-vous votre sélection</LtxtDoSel>
+    <LtxtID>Identification</LtxtID>
+    <LtxtCardValUn>Carte valable jusqu'au</LtxtCardValUn>
+    <LtxtNumOfPay>Numéro de versements</LtxtNumOfPay>
+    <LtxtFirstPymnt>Premier versement</LtxtFirstPymnt>
+    <LtxtAddPayQty>Quantité de versement additionnel</LtxtAddPayQty>
+    <LtxtRefNum>Numéro de quittance</LtxtRefNum>
+    <LtxtAut>Autorisation</LtxtAut>
+    <LtxtDueDate>Data d'expiration</LtxtDueDate>
+    <LtxtConfDelCard>Êtes-vous sûre d\'éliminer la carte {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>La valeur minime à payer avec cette carte c'est de {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Devez-vous choisir un système de versement</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Devez-vous insérer l'importe</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Date incorrect d'échéance de la carte</LtxtValCardDueDat>
+    <LtxtValAut>Devez-vous insérer l'autorisation</LtxtValAut>
+    <LtxtAddCard>Ajouter carte </LtxtAddCard>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtClose>Schließen</DtxtClose>
+    <DtxtUpdate>Aktualisieren</DtxtUpdate>
+    <DtxtAccount>Konto</DtxtAccount>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtConfCancel>In dem Sie abbrechen, werden alle Änderungen gelöscht. Möchten Sie fortfahren?</DtxtConfCancel>
+    <LttlCredCardPymnt>Kreditkartenzahlung</LttlCredCardPymnt>
+    <LtxtCard>Kreditkarte</LtxtCard>
+    <LtxtBalToPay>Zu zahlender Betrag</LtxtBalToPay>
+    <LtxtPymntSystem>Zahlungsart</LtxtPymntSystem>
+    <LtxtCardNum>Kreditkarten N°</LtxtCardNum>
+    <LtxtDoSel>Machen Sie eine Auswahl</LtxtDoSel>
+    <LtxtID>Ausweis</LtxtID>
+    <LtxtCardValUn>Gültig bis</LtxtCardValUn>
+    <LtxtNumOfPay>Menge der Zahlungen</LtxtNumOfPay>
+    <LtxtFirstPymnt>Erste Zahlung</LtxtFirstPymnt>
+    <LtxtAddPayQty>M/Weitere Zahlungen</LtxtAddPayQty>
+    <LtxtRefNum>Bezugsnummer</LtxtRefNum>
+    <LtxtAut>Autorisierung</LtxtAut>
+    <LtxtDueDate>Fälligkeitsdatum</LtxtDueDate>
+    <LtxtConfDelCard>Möchten Sie die Kreditkarte {0} wirklich löschen?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>Der Mindestbetrag für diese Kreditkarte ist {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Bitte wählen Sie eine Zahlungsart</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Sie müssen den Betrag eingeben</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Falscher Gültigkeitsdatum</LtxtValCardDueDat>
+    <LtxtValAut>Sie müssen die Autorisierung eingeben</LtxtValAut>
+    <LtxtAddCard>Kreditkarte hinzufügen</LtxtAddCard>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtClose>Закрыт</DtxtClose>
+    <DtxtUpdate>Уточнять</DtxtUpdate>
+    <DtxtAccount>Счет</DtxtAccount>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtConfCancel>Отмена будут потеряны все изменения, которые вы сделали! Продолжить?</DtxtConfCancel>
+    <LttlCredCardPymnt>Сумма на кредитных карточках</LttlCredCardPymnt>
+    <LtxtCard>Карточка</LtxtCard>
+    <LtxtBalToPay>Сумма к оплате</LtxtBalToPay>
+    <LtxtPymntSystem>Способ оплаты</LtxtPymntSystem>
+    <LtxtCardNum>Номер карточки</LtxtCardNum>
+    <LtxtDoSel>Выбрать из списка</LtxtDoSel>
+    <LtxtID>Документ заказа</LtxtID>
+    <LtxtCardValUn>Карточка действительна до</LtxtCardValUn>
+    <LtxtNumOfPay>Количество платежей</LtxtNumOfPay>
+    <LtxtFirstPymnt>Первый платеж</LtxtFirstPymnt>
+    <LtxtAddPayQty>Любой дополнительный платеж</LtxtAddPayQty>
+    <LtxtRefNum>Ссылка номер</LtxtRefNum>
+    <LtxtAut>До сих пор</LtxtAut>
+    <LtxtDueDate>Изменить дату</LtxtDueDate>
+    <LtxtConfDelCard>Удалить кредитную карточку {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>Минимальная сумма, которую вы можете оплатить с помощью кредитной карты выше {0} ₪</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Выберите способ оплаты</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Должна быть сумма</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Срок годности кредитной карточки не является действительным</LtxtValCardDueDat>
+    <LtxtValAut>Должен быть задействован  номер разрешения </LtxtValAut>
+    <LtxtAddCard>Добавить карточку</LtxtAddCard>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtClose>Zavřít</DtxtClose>
+    <DtxtUpdate>Aktualizovat</DtxtUpdate>
+    <DtxtAccount>Účet</DtxtAccount>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtConfCancel>Pokud zrušíte akci, všechny změny budou ztraceny. Přejete si pokračovat?</DtxtConfCancel>
+    <LttlCredCardPymnt>Platba kreditní kartou</LttlCredCardPymnt>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtBalToPay>Splatný zůstatek</LtxtBalToPay>
+    <LtxtPymntSystem>Způsob placení</LtxtPymntSystem>
+    <LtxtCardNum>Č. karty</LtxtCardNum>
+    <LtxtDoSel>Vyberte</LtxtDoSel>
+    <LtxtID>ID</LtxtID>
+    <LtxtCardValUn>Karta platná do</LtxtCardValUn>
+    <LtxtNumOfPay>Počet plateb</LtxtNumOfPay>
+    <LtxtFirstPymnt>První platba</LtxtFirstPymnt>
+    <LtxtAddPayQty>Q/Další platba</LtxtAddPayQty>
+    <LtxtRefNum>Ref. číslo</LtxtRefNum>
+    <LtxtAut>Autorizace</LtxtAut>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtConfDelCard>Jste si jistý/á, že chcete odebrat kartu {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>Minimální platba s touto kreditní kartou je {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Zvolte prosím způsob placení</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Musíte zadat částku</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Nesprávné datum expirace karty</LtxtValCardDueDat>
+    <LtxtValAut>Musíte zadat autorizaci</LtxtValAut>
+    <LtxtAddCard>Přidat kartu</LtxtAddCard>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtClose>Zamknięty</DtxtClose>
+    <DtxtUpdate>Aktualizuj</DtxtUpdate>
+    <DtxtAccount>Rachunek</DtxtAccount>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtConfCancel>Anulowanie spowoduje utratę wszystkich zmian! Czy chcesz kontynuować?</DtxtConfCancel>
+    <LttlCredCardPymnt>Płatność karta kredytową </LttlCredCardPymnt>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtBalToPay>Saldo należne</LtxtBalToPay>
+    <LtxtPymntSystem>Metoda płatności</LtxtPymntSystem>
+    <LtxtCardNum>Karta nr</LtxtCardNum>
+    <LtxtDoSel>Dokonaj wyboru</LtxtDoSel>
+    <LtxtID>Dokument tożsamości</LtxtID>
+    <LtxtCardValUn>Karta ważna do </LtxtCardValUn>
+    <LtxtNumOfPay>Liczba płatności</LtxtNumOfPay>
+    <LtxtFirstPymnt>Pierwsza płatność</LtxtFirstPymnt>
+    <LtxtAddPayQty>Q/dodatkowa płatność</LtxtAddPayQty>
+    <LtxtRefNum>Adnotacja/odnośnik nr</LtxtRefNum>
+    <LtxtAut>Autoryzacja</LtxtAut>
+    <LtxtDueDate>Data płatności</LtxtDueDate>
+    <LtxtConfDelCard>Czy jesteś pewien, że chcesz usunąć kartę {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>Minimalna płatność tą kartą kredytowa wynosi {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Proszę wybierz metodę płatności</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Musisz prowadzić kwotę </LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Nie prawidłowa data ważności</LtxtValCardDueDat>
+    <LtxtValAut>Musisz wprowadzić autoryzację </LtxtValAut>
+    <LtxtAddCard>Dodaj kartę </LtxtAddCard>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtClose>Zatvoriť</DtxtClose>
+    <DtxtUpdate>Aktualizovať</DtxtUpdate>
+    <DtxtAccount>Konto</DtxtAccount>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtConfCancel>Zrušením sa stratia všetky zmeny. Prajete si pokračovať?</DtxtConfCancel>
+    <LttlCredCardPymnt>Platba kreditnou kartou</LttlCredCardPymnt>
+    <LtxtCard>Karta</LtxtCard>
+    <LtxtBalToPay>Nedoplatok</LtxtBalToPay>
+    <LtxtPymntSystem>Metóda platby</LtxtPymntSystem>
+    <LtxtCardNum>Č. karty</LtxtCardNum>
+    <LtxtDoSel>Spravte svoj výber</LtxtDoSel>
+    <LtxtID>ID</LtxtID>
+    <LtxtCardValUn>Karta platná do</LtxtCardValUn>
+    <LtxtNumOfPay>Počet platieb</LtxtNumOfPay>
+    <LtxtFirstPymnt>Prvá platba</LtxtFirstPymnt>
+    <LtxtAddPayQty>Q/Dodatočná Platba</LtxtAddPayQty>
+    <LtxtRefNum>Č. referencie</LtxtRefNum>
+    <LtxtAut>Autorizácia</LtxtAut>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtConfDelCard>Ste si istí, že chcete odstrániť kartu {0}?</LtxtConfDelCard>
+    <LtxtMinCredPymnt>Minimálny poplatok s toutou kreditnou kartou je {0}</LtxtMinCredPymnt>
+    <LtxtValPymntSys>Prosím zvoľte metódu platby</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>Musíte zadať sumu</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>Nesprávny dátum expirácie karty</LtxtValCardDueDat>
+    <LtxtValAut>Musíte zadať autorizáciu</LtxtValAut>
+    <LtxtAddCard>Pridať kartu</LtxtAddCard>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtClose>DtxtClose</DtxtClose>
+    <DtxtUpdate>DtxtUpdate</DtxtUpdate>
+    <DtxtAccount>DtxtAccount</DtxtAccount>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtConfCancel>DtxtConfCancel</DtxtConfCancel>
+    <LttlCredCardPymnt>LttlCredCardPymnt</LttlCredCardPymnt>
+    <LtxtCard>LtxtCard</LtxtCard>
+    <LtxtBalToPay>LtxtBalToPay</LtxtBalToPay>
+    <LtxtPymntSystem>LtxtPymntSystem</LtxtPymntSystem>
+    <LtxtCardNum>LtxtCardNum</LtxtCardNum>
+    <LtxtDoSel>LtxtDoSel</LtxtDoSel>
+    <LtxtID>LtxtID</LtxtID>
+    <LtxtCardValUn>LtxtCardValUn</LtxtCardValUn>
+    <LtxtNumOfPay>LtxtNumOfPay</LtxtNumOfPay>
+    <LtxtFirstPymnt>LtxtFirstPymnt</LtxtFirstPymnt>
+    <LtxtAddPayQty>LtxtAddPayQty</LtxtAddPayQty>
+    <LtxtRefNum>LtxtRefNum</LtxtRefNum>
+    <LtxtAut>LtxtAut</LtxtAut>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtConfDelCard>LtxtConfDelCard</LtxtConfDelCard>
+    <LtxtMinCredPymnt>LtxtMinCredPymnt</LtxtMinCredPymnt>
+    <LtxtValPymntSys>LtxtValPymntSys</LtxtValPymntSys>
+    <LtxtValCardNoPymnt>LtxtValCardNoPymnt</LtxtValCardNoPymnt>
+    <LtxtValCardDueDat>LtxtValCardDueDat</LtxtValCardDueDat>
+    <LtxtValAut>LtxtValAut</LtxtValAut>
+    <LtxtAddCard>LtxtAddCard</LtxtAddCard>
+  </language>
+</languages>

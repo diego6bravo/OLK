@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtNew>New</DtxtNew>
+    <DtxtPosition>Position</DtxtPosition>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtHome>Home</DtxtHome>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtPosition>Posición</DtxtPosition>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtHome>Inicio</DtxtHome>
+    <LtxtContacts>Contactos</LtxtContacts>
+    <LttlEditClient>Editar Socio de Negocios</LttlEditClient>
+    <LttlNewClient>Nuevo Socio de Negocios</LttlNewClient>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtPosition>תפקיד</DtxtPosition>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtHome>הבית</DtxtHome>
+    <LtxtContacts>אנשי קשר</LtxtContacts>
+    <LttlEditClient>ערוך כרטיס</LttlEditClient>
+    <LttlNewClient>כרטיס חדש</LttlNewClient>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtNew>New</DtxtNew>
+    <DtxtPosition>Position</DtxtPosition>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtHome>Home</DtxtHome>
+    <LtxtContacts>Contacts</LtxtContacts>
+    <LttlEditClient>Edit Business Partner</LttlEditClient>
+    <LttlNewClient>New Business Partner</LttlNewClient>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtPosition>Posição</DtxtPosition>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtHome>Início</DtxtHome>
+    <LtxtContacts>Contatos</LtxtContacts>
+    <LttlEditClient>Editar Parceiro de Negócios</LttlEditClient>
+    <LttlNewClient>Novo Parceiro de Negócios</LttlNewClient>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtPosition>Position</DtxtPosition>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtHome>&lt;--&gt;</DtxtHome>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtPosition>Position</DtxtPosition>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtHome>Startseite</DtxtHome>
+    <LtxtContacts>Kontakte</LtxtContacts>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtPosition>Должность</DtxtPosition>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtHome>Дом</DtxtHome>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtPosition>Pozice</DtxtPosition>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtHome>Domů</DtxtHome>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LttlEditClient>Upravit obchodního partnera</LttlEditClient>
+    <LttlNewClient>Nový obchodní partner</LttlNewClient>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtPosition>Stanowisko</DtxtPosition>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtHome>Początek</DtxtHome>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LttlEditClient>Edytuj Partnera Biznesowego</LttlEditClient>
+    <LttlNewClient>Nowy Partner Biznesowy</LttlNewClient>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtPosition>Pozícia</DtxtPosition>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtHome>Domov</DtxtHome>
+    <LtxtContacts>Kontakty</LtxtContacts>
+    <LttlEditClient>Editovať Obchodného partnera</LttlEditClient>
+    <LttlNewClient>Nový Obchodný partner</LttlNewClient>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtPosition>&lt;--&gt;</DtxtPosition>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtHome>&lt;--&gt;</DtxtHome>
+    <LtxtContacts>&lt;--&gt;</LtxtContacts>
+    <LttlEditClient>&lt;--&gt;</LttlEditClient>
+    <LttlNewClient>&lt;--&gt;</LttlNewClient>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtPosition>DtxtPosition</DtxtPosition>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtHome>DtxtHome</DtxtHome>
+    <LtxtContacts>LtxtContacts</LtxtContacts>
+    <LttlEditClient>LttlEditClient</LttlEditClient>
+    <LttlNewClient>LttlNewClient</LttlNewClient>
+  </language>
+</languages>

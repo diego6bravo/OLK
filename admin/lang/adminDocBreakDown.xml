@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <Lttl>Document Break Down</Lttl>
+    <LttlNote>Here you may define a line and expense break down rules in order to split a document depending on their delivery date.</LttlNote>
+    <LtxtShipDate>Delivery Date</LtxtShipDate>
+    <LtxtReqCols>Required Columns</LtxtReqCols>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtShipDateDiff>Delivery date difference from today</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Datos</DtxtDB>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Funciones</DtxtFunctions>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtLine>Línea</DtxtLine>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <Lttl>Separación de Documento</Lttl>
+    <LttlNote>En esta sección podrá definir la las reglas  de separación de líneas y gastos para separar un documento según su fecha de entrega.</LttlNote>
+    <LtxtShipDate>Fecha de entrega</LtxtShipDate>
+    <LtxtReqCols>Columns Requeridas</LtxtReqCols>
+    <LtxtValQryVal>Debe verificar la consulta antes de agregar el campo</LtxtValQryVal>
+    <LtxtValQry>Debe introducir la consulta</LtxtValQry>
+    <LtxtShipDateDiff>Diferencia del día de hoy a la fecha de entrega</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtDB>בסיס נתונים</DtxtDB>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtVariables>משתנים</DtxtVariables>
+    <DtxtFunctions>פעולות</DtxtFunctions>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtLine>שורה</DtxtLine>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <Lttl>חילוק מסמך</Lttl>
+    <LttlNote>בחלק זה תוכל להגדיר כללי שורה וחלקיי הוצאות, על מנת לחלק את המסמך ע"פ תאריך המשלוח.</LttlNote>
+    <LtxtShipDate>תאריך אספקה</LtxtShipDate>
+    <LtxtReqCols>שדות חובה</LtxtReqCols>
+    <LtxtValQryVal>צריך לאשר את השאילתא לפני הוספת השדה</LtxtValQryVal>
+    <LtxtValQry>יש למלא את השאילתא</LtxtValQry>
+    <LtxtShipDateDiff>תאריך האספקה שונה מהיום</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Database</DtxtDB>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Functions</DtxtFunctions>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtLine>Line</DtxtLine>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <Lttl>Document Break Down</Lttl>
+    <LttlNote>Here you may define a line and expense break down rules in order to split a document depending on their delivery date.</LttlNote>
+    <LtxtShipDate>Delivery Date</LtxtShipDate>
+    <LtxtReqCols>Required Columns</LtxtReqCols>
+    <LtxtValQryVal>You must verify the query before you can save the changes</LtxtValQryVal>
+    <LtxtValQry>Please enter the query</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base de Dados</DtxtDB>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtVariables>Variáveis</DtxtVariables>
+    <DtxtFunctions>Funções</DtxtFunctions>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtLine>Linha</DtxtLine>
+    <DtxtLogNum>N° de Transação</DtxtLogNum>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <Lttl>Separação de documento</Lttl>
+    <LttlNote>Nesta seção, você define as regras de fracionamento de itens e valores de um pedido segundo sua data de entrega.</LttlNote>
+    <LtxtShipDate>Data de entrega</LtxtShipDate>
+    <LtxtReqCols>Colunas Requeridas</LtxtReqCols>
+    <LtxtValQryVal>Deve verificar a consulta antes de adicionar o campo</LtxtValQryVal>
+    <LtxtValQry>Deve inserir a consulta</LtxtValQry>
+    <LtxtShipDateDiff>Diferença do dia de hoje até a data de entrega</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Base des donnés</DtxtDB>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtVariables>Variables</DtxtVariables>
+    <DtxtFunctions>Fonctions</DtxtFunctions>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtLine>Ligne</DtxtLine>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Date de livraison</LtxtShipDate>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtValQryVal>Devez-vous vérifier la consultation avant d'ajouter le domaine</LtxtValQryVal>
+    <LtxtValQry>Devez-vous insérer la consultation</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Datenbank</DtxtDB>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtVariables>Variablen</DtxtVariables>
+    <DtxtFunctions>Funktionen</DtxtFunctions>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtLine>Zeile</DtxtLine>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Lieferdatum</LtxtShipDate>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtValQryVal>Sie müssen die Anfrage zuerst bestätigen um alle Änderungen zu speichern</LtxtValQryVal>
+    <LtxtValQry>Bitte geben Sie die Anfrage an</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>База данных</DtxtDB>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtVariables>Переменные</DtxtVariables>
+    <DtxtFunctions>Действия</DtxtFunctions>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtLine>Линия</DtxtLine>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Дата доставки</LtxtShipDate>
+    <LtxtReqCols>Столбцы</LtxtReqCols>
+    <LtxtValQryVal>Вы должны подтвердить запрос прежде чем вы сможете сохранить изменения</LtxtValQryVal>
+    <LtxtValQry>Нужно заполнить запрос</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáze</DtxtDB>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtVariables>Proměnné</DtxtVariables>
+    <DtxtFunctions>Funkce</DtxtFunctions>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtLine>Řádka</DtxtLine>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Datum dodání</LtxtShipDate>
+    <LtxtReqCols>Povinné sloupce</LtxtReqCols>
+    <LtxtValQryVal>Před uložením změn musíte ověřit dotaz</LtxtValQryVal>
+    <LtxtValQry>Vložte prosím dotaz</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Baza danych</DtxtDB>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtVariables>Zmienne</DtxtVariables>
+    <DtxtFunctions>Funkcje</DtxtFunctions>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtLine>Wiersz</DtxtLine>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Data dostawy</LtxtShipDate>
+    <LtxtReqCols>Wymagane pola</LtxtReqCols>
+    <LtxtValQryVal>Musisz zweryfikować zapytanie zanim będziesz mógł zapamiętać zmiany</LtxtValQryVal>
+    <LtxtValQry>Proszę wpisz zapytanie</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>Databáza</DtxtDB>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtVariables>Premenné</DtxtVariables>
+    <DtxtFunctions>Funkcie</DtxtFunctions>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtLine>Riadok</DtxtLine>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>Dátum dodania</LtxtShipDate>
+    <LtxtReqCols>Požadované stĺpce</LtxtReqCols>
+    <LtxtValQryVal>Musíte overiť dotaz predtým ako uložíte zmeny</LtxtValQryVal>
+    <LtxtValQry>Prosím zadajte dotaz</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>&lt;--&gt;</DtxtDB>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtVariables>&lt;--&gt;</DtxtVariables>
+    <DtxtFunctions>&lt;--&gt;</DtxtFunctions>
+    <DtxtQty>&lt;--&gt;</DtxtQty>
+    <DtxtLine>&lt;--&gt;</DtxtLine>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <Lttl>&lt;--&gt;</Lttl>
+    <LttlNote>&lt;--&gt;</LttlNote>
+    <LtxtShipDate>&lt;--&gt;</LtxtShipDate>
+    <LtxtReqCols>&lt;--&gt;</LtxtReqCols>
+    <LtxtValQryVal>&lt;--&gt;</LtxtValQryVal>
+    <LtxtValQry>&lt;--&gt;</LtxtValQry>
+    <LtxtShipDateDiff>&lt;--&gt;</LtxtShipDateDiff>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtDB>DtxtDB</DtxtDB>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtVariables>DtxtVariables</DtxtVariables>
+    <DtxtFunctions>DtxtFunctions</DtxtFunctions>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtLine>DtxtLine</DtxtLine>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <Lttl>Lttl</Lttl>
+    <LttlNote>LttlNote</LttlNote>
+    <LtxtShipDate>LtxtShipDate</LtxtShipDate>
+    <LtxtReqCols>LtxtReqCols</LtxtReqCols>
+    <LtxtValQryVal>LtxtValQryVal</LtxtValQryVal>
+    <LtxtValQry>LtxtValQry</LtxtValQry>
+    <LtxtShipDateDiff>LtxtShipDateDiff</LtxtShipDateDiff>
+  </language>
+</languages>

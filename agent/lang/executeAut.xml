@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>State</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <DtxtAuthorize>Authorize</DtxtAuthorize>
+    <LtxtReqBy>Requestor</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>Authorize actions</LtxtActionsAut>
+    <LtxtBPAut>Business Partner Authorization</LtxtBPAut>
+    <LtxtItemAut>Item Authorization</LtxtItemAut>
+    <LtxtPayAut>Receipt Authorization</LtxtPayAut>
+    <LtxtDocAut>Documents Authorization</LtxtDocAut>
+    <LtxtConfAut>Are you sure you want to continue with the authorization?</LtxtConfAut>
+    <LtxtConfReject>Are you sure you want to continue with the rejection?</LtxtConfReject>
+    <LtxtOtherProc>This authorization was already processed by another user</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Convert quotation to sales order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel object</LtxtCancelObj>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtFlow>Flujo</DtxtFlow>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtReject>Rechazar</DtxtReject>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtBP>Socio de Negocio</DtxtBP>
+    <DtxtExecTime>Tiempo de Ejecución</DtxtExecTime>
+    <DtxtAuthorize>Autorizar</DtxtAuthorize>
+    <LtxtReqBy>Solicitante</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>Autorizar acciones</LtxtActionsAut>
+    <LtxtBPAut>Autorización de Socio de Negocio</LtxtBPAut>
+    <LtxtItemAut>Autorización de Artículos</LtxtItemAut>
+    <LtxtPayAut>Autorización de Recibo</LtxtPayAut>
+    <LtxtDocAut>Autorización de Documentos</LtxtDocAut>
+    <LtxtConfAut>¿Está seguro que desea continuar con la autorización?</LtxtConfAut>
+    <LtxtConfReject>¿Está seguro que desea continuar con el rechazo?</LtxtConfReject>
+    <LtxtOtherProc>Esta autorización ya fue procesada por otro usuario.</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Convertir cotización a orden de venta</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Cerrar objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar objeto</LtxtCancelObj>
+    <LtxtRemObj>Eliminar Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprobar Orden de Venta</LtxtAprovOrder>
+    <LtxtConvOrderInv>Convertir Orden de Venta a Factura</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtType>סוג</DtxtType>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtFlow>תזרים</DtxtFlow>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtReject>לא מאשר</DtxtReject>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtBP>כרטיס</DtxtBP>
+    <DtxtExecTime>זמן ביצוע</DtxtExecTime>
+    <DtxtAuthorize>אישור</DtxtAuthorize>
+    <LtxtReqBy>התבקש ע"י</LtxtReqBy>
+    <LtxtID>קוד</LtxtID>
+    <LtxtActionsAut>אישור פעולות</LtxtActionsAut>
+    <LtxtBPAut>אישור כרטיסים</LtxtBPAut>
+    <LtxtItemAut>אישור פריטים</LtxtItemAut>
+    <LtxtPayAut>אישור קבלות</LtxtPayAut>
+    <LtxtDocAut>אישור מסמכי שיווק</LtxtDocAut>
+    <LtxtConfAut>האם אתה בטוח שברצונך להמשיך עם האישור?</LtxtConfAut>
+    <LtxtConfReject>האם אתה בטוח שברצונך להמשיך עם הדחיה?</LtxtConfReject>
+    <LtxtOtherProc>אישור זה כבר הועבד על ידי משתמש אחר</LtxtOtherProc>
+    <LtxtConvQuoteOrder>הפוך הצעת מחיר להזמנת לקוח</LtxtConvQuoteOrder>
+    <LtxtCloseObj>סגור אובייקט</LtxtCloseObj>
+    <LtxtCancelObj>בטל אובייקט</LtxtCancelObj>
+    <LtxtRemObj>מחק אובייקט</LtxtRemObj>
+    <LtxtAprovOrder>אשר הזמנת לקוח</LtxtAprovOrder>
+    <LtxtConvOrderInv>המר הזמנה לחשובנית מס'</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Type</DtxtType>
+    <DtxtState>County</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Flow</DtxtFlow>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtReject>Reject</DtxtReject>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBP>Business Partner</DtxtBP>
+    <DtxtExecTime>Execution Time</DtxtExecTime>
+    <DtxtAuthorize>Authorize</DtxtAuthorize>
+    <LtxtReqBy>Requestor</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>Authorize actions</LtxtActionsAut>
+    <LtxtBPAut>Business Partner Authorization</LtxtBPAut>
+    <LtxtItemAut>Item Authorization</LtxtItemAut>
+    <LtxtPayAut>Receipt Authorization</LtxtPayAut>
+    <LtxtDocAut>Documents Authorization</LtxtDocAut>
+    <LtxtConfAut>Are you sure you want to continue with the authorization?</LtxtConfAut>
+    <LtxtConfReject>Are you sure you want to continue with the rejection?</LtxtConfReject>
+    <LtxtOtherProc>This authorization was already processed by another user</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Convert quotation to sales order</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Close object</LtxtCloseObj>
+    <LtxtCancelObj>Cancel object</LtxtCancelObj>
+    <LtxtRemObj>Delete Object</LtxtRemObj>
+    <LtxtAprovOrder>Approve Sales Order</LtxtAprovOrder>
+    <LtxtConvOrderInv>Convert Sales Order to A/R Invoice</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtState>Estado</DtxtState>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtFlow>Fluxo</DtxtFlow>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtReject>Recusar</DtxtReject>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtBP>Parceiro de Negócio</DtxtBP>
+    <DtxtExecTime>Tempo de Execução</DtxtExecTime>
+    <DtxtAuthorize>Autorizar</DtxtAuthorize>
+    <LtxtReqBy>Solicitante</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>Autorizar Ações</LtxtActionsAut>
+    <LtxtBPAut>Autorização de Parceiro de Negócios</LtxtBPAut>
+    <LtxtItemAut>Autorização de Itens</LtxtItemAut>
+    <LtxtPayAut>Autorização de Recebimento</LtxtPayAut>
+    <LtxtDocAut>Autorização de Documentos</LtxtDocAut>
+    <LtxtConfAut>Tem certeza que deseja continuar com a autorização ?</LtxtConfAut>
+    <LtxtConfReject>Tem certeza que deseja continuar com a rejeição ?</LtxtConfReject>
+    <LtxtOtherProc>Esta autorização já foi processada por outro usuário.</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Converter orçamento em pedido de venda</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Fechar objeto</LtxtCloseObj>
+    <LtxtCancelObj>Cancelar Objetos</LtxtCancelObj>
+    <LtxtRemObj>Excluir Objeto</LtxtRemObj>
+    <LtxtAprovOrder>Aprovar Pedido de Venda</LtxtAprovOrder>
+    <LtxtConvOrderInv>Converter Pedido de Venda em Nota Fiscal de Saída</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtState>État</DtxtState>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtFlow>Flux</DtxtFlow>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtReject>Rejeter</DtxtReject>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtBP>&lt;--&gt;</DtxtBP>
+    <DtxtExecTime>&lt;--&gt;</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Demandant</LtxtReqBy>
+    <LtxtID>&lt;--&gt;</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtType>Art</DtxtType>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtFlow>Fluß</DtxtFlow>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtReject>Ablehnen</DtxtReject>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtBP>Geschäftspartner</DtxtBP>
+    <DtxtExecTime>Ausführungsdauer</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Anfragender</LtxtReqBy>
+    <LtxtID>&lt;--&gt;</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>&lt;--&gt;</LtxtConvQuoteOrder>
+    <LtxtCloseObj>&lt;--&gt;</LtxtCloseObj>
+    <LtxtCancelObj>&lt;--&gt;</LtxtCancelObj>
+    <LtxtRemObj>&lt;--&gt;</LtxtRemObj>
+    <LtxtAprovOrder>&lt;--&gt;</LtxtAprovOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtType>Вид</DtxtType>
+    <DtxtState>Государство</DtxtState>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtFlow>Вливание</DtxtFlow>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtReject>Отклонить</DtxtReject>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtBP>Деловой партнер</DtxtBP>
+    <DtxtExecTime>Время исполнения</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Был задан</LtxtReqBy>
+    <LtxtID>Код</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Изменить предложенную цену на заказ клиента</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Закрытый объект</LtxtCloseObj>
+    <LtxtCancelObj>Отменить объект</LtxtCancelObj>
+    <LtxtRemObj>Стереть объекты</LtxtRemObj>
+    <LtxtAprovOrder>Разрешение заказа клиента</LtxtAprovOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Stát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtReject>Zamítnout</DtxtReject>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodní partner</DtxtBP>
+    <DtxtExecTime>Datum vykonání</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Žadatel</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Překlopit nabídku do příkazu k prodeji</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Uzavřít objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušit objekt</LtxtCancelObj>
+    <LtxtRemObj>Vymazat objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schválit příkaz k prodeji</LtxtAprovOrder>
+    <LtxtConvOrderInv>&lt;--&gt;</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtType>Typ</DtxtType>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtFlow>Przepływy</DtxtFlow>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtReject>Odrzuć</DtxtReject>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtBP>Partner biznesowy</DtxtBP>
+    <DtxtExecTime>Czas wykonania</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Prośba wyrażona przez</LtxtReqBy>
+    <LtxtID>Kod</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Zamień wycenę na zlecenie sprzedaży</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Przedmiot zamknięty</LtxtCloseObj>
+    <LtxtCancelObj>Przedmiot anulowany</LtxtCancelObj>
+    <LtxtRemObj>Przedmiot usunięty</LtxtRemObj>
+    <LtxtAprovOrder>Zatwierdź zlecenie sprzedaży</LtxtAprovOrder>
+    <LtxtConvOrderInv>Zamień zlecenie sprzedaży na fakturę</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtState>Štát</DtxtState>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtFlow>Tok</DtxtFlow>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtReject>Zamietnuť</DtxtReject>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBP>Obchodný partner</DtxtBP>
+    <DtxtExecTime>Doba realizácie</DtxtExecTime>
+    <DtxtAuthorize>&lt;--&gt;</DtxtAuthorize>
+    <LtxtReqBy>Žiadateľ</LtxtReqBy>
+    <LtxtID>ID</LtxtID>
+    <LtxtActionsAut>&lt;--&gt;</LtxtActionsAut>
+    <LtxtBPAut>&lt;--&gt;</LtxtBPAut>
+    <LtxtItemAut>&lt;--&gt;</LtxtItemAut>
+    <LtxtPayAut>&lt;--&gt;</LtxtPayAut>
+    <LtxtDocAut>&lt;--&gt;</LtxtDocAut>
+    <LtxtConfAut>&lt;--&gt;</LtxtConfAut>
+    <LtxtConfReject>&lt;--&gt;</LtxtConfReject>
+    <LtxtOtherProc>&lt;--&gt;</LtxtOtherProc>
+    <LtxtConvQuoteOrder>Konvertovať cenovú ponuku na zákazku odberateľa</LtxtConvQuoteOrder>
+    <LtxtCloseObj>Zavrieť objekt</LtxtCloseObj>
+    <LtxtCancelObj>Zrušiť objekt</LtxtCancelObj>
+    <LtxtRemObj>Zmazať objekt</LtxtRemObj>
+    <LtxtAprovOrder>Schváliť Zákazku odberateľa</LtxtAprovOrder>
+    <LtxtConvOrderInv>Konvertovať zákazku odberateľa na predajnú faktúru</LtxtConvOrderInv>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtFlow>DtxtFlow</DtxtFlow>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtReject>DtxtReject</DtxtReject>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtBP>DtxtBP</DtxtBP>
+    <DtxtExecTime>DtxtExecTime</DtxtExecTime>
+    <DtxtAuthorize>DtxtAuthorize</DtxtAuthorize>
+    <LtxtReqBy>LtxtReqBy</LtxtReqBy>
+    <LtxtID>LtxtID</LtxtID>
+    <LtxtActionsAut>LtxtActionsAut</LtxtActionsAut>
+    <LtxtBPAut>LtxtBPAut</LtxtBPAut>
+    <LtxtItemAut>LtxtItemAut</LtxtItemAut>
+    <LtxtPayAut>LtxtPayAut</LtxtPayAut>
+    <LtxtDocAut>LtxtDocAut</LtxtDocAut>
+    <LtxtConfAut>LtxtConfAut</LtxtConfAut>
+    <LtxtConfReject>LtxtConfReject</LtxtConfReject>
+    <LtxtOtherProc>LtxtOtherProc</LtxtOtherProc>
+    <LtxtConvQuoteOrder>LtxtConvQuoteOrder</LtxtConvQuoteOrder>
+    <LtxtCloseObj>LtxtCloseObj</LtxtCloseObj>
+    <LtxtCancelObj>LtxtCancelObj</LtxtCancelObj>
+    <LtxtRemObj>LtxtRemObj</LtxtRemObj>
+    <LtxtAprovOrder>LtxtAprovOrder</LtxtAprovOrder>
+    <LtxtConvOrderInv>LtxtConvOrderInv</LtxtConvOrderInv>
+  </language>
+</languages>

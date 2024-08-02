@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>All</DtxtAll>
+    <DtxtRole>Role</DtxtRole>
+    <LttlCopyAut>Authorizations Copy from {0} to</LttlCopyAut>
+    <LtxtNoUserToCopy>No users were found to copy authorizations to</LtxtNoUserToCopy>
+    <LtxtValSelUser>You must select a user</LtxtValSelUser>
+    <LtxtRollFilter>Roll Filter</LtxtRollFilter>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtRole>Rol</DtxtRole>
+    <LttlCopyAut>Copia de Autorizaciones desde {0} hacia</LttlCopyAut>
+    <LtxtNoUserToCopy>No se encontraron usuarios para copiar autorizaciones</LtxtNoUserToCopy>
+    <LtxtValSelUser>Debe seleccionar un usuario</LtxtValSelUser>
+    <LtxtRollFilter>Filtro de Rol</LtxtRollFilter>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtRole>תפקיד</DtxtRole>
+    <LttlCopyAut>העתק הרשאות מ{0} ל</LttlCopyAut>
+    <LtxtNoUserToCopy>לא נמצאו מתשמשים לעתקת הרשאות</LtxtNoUserToCopy>
+    <LtxtValSelUser>יש לבחור משתמש</LtxtValSelUser>
+    <LtxtRollFilter>פילטר תפקיד</LtxtRollFilter>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>All</DtxtAll>
+    <DtxtRole>Role</DtxtRole>
+    <LttlCopyAut>Authorizations Copy from {0} to</LttlCopyAut>
+    <LtxtNoUserToCopy>No users were found to copy authorizations to</LtxtNoUserToCopy>
+    <LtxtValSelUser>You must select a user</LtxtValSelUser>
+    <LtxtRollFilter>Roll Filter</LtxtRollFilter>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtRole>Papel</DtxtRole>
+    <LttlCopyAut>Copiar autorizações de {0} para</LttlCopyAut>
+    <LtxtNoUserToCopy>Nenhum usuário foi encontrado para copiar autorizações </LtxtNoUserToCopy>
+    <LtxtValSelUser>Você deve selecionar um usuário.</LtxtValSelUser>
+    <LtxtRollFilter>Filtro de Lista</LtxtRollFilter>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtRole>&lt;--&gt;</DtxtRole>
+    <LttlCopyAut>&lt;--&gt;</LttlCopyAut>
+    <LtxtNoUserToCopy>&lt;--&gt;</LtxtNoUserToCopy>
+    <LtxtValSelUser>&lt;--&gt;</LtxtValSelUser>
+    <LtxtRollFilter>&lt;--&gt;</LtxtRollFilter>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtRole>Rolle</DtxtRole>
+    <LttlCopyAut>&lt;--&gt;</LttlCopyAut>
+    <LtxtNoUserToCopy>&lt;--&gt;</LtxtNoUserToCopy>
+    <LtxtValSelUser>&lt;--&gt;</LtxtValSelUser>
+    <LtxtRollFilter>&lt;--&gt;</LtxtRollFilter>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtRole> Роль</DtxtRole>
+    <LttlCopyAut>Копия разрешения от{0}в</LttlCopyAut>
+    <LtxtNoUserToCopy> Не найдено откуда копировать разрешения пользователей</LtxtNoUserToCopy>
+    <LtxtValSelUser>Выбор пользователя</LtxtValSelUser>
+    <LtxtRollFilter>Функция фильтрации</LtxtRollFilter>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtRole>Role</DtxtRole>
+    <LttlCopyAut>Kopírovat autorizace z {0} do</LttlCopyAut>
+    <LtxtNoUserToCopy>Nebyli nalezeni žádní uživatelé pro kopírování autorizací</LtxtNoUserToCopy>
+    <LtxtValSelUser>Musíte vybrat uživatele</LtxtValSelUser>
+    <LtxtRollFilter>Filtrovat seznam</LtxtRollFilter>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtRole>Rola</DtxtRole>
+    <LttlCopyAut>Autoryzacja kopii z  {0} do</LttlCopyAut>
+    <LtxtNoUserToCopy>Nie znaleziono żadnych użytkowników by skopiować dla nich autoryzację</LtxtNoUserToCopy>
+    <LtxtValSelUser>Musisz wybrać użytkownika</LtxtValSelUser>
+    <LtxtRollFilter>Filtr roli</LtxtRollFilter>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtRole>Funkcia</DtxtRole>
+    <LttlCopyAut>Kópia autorizácií z {0} do</LttlCopyAut>
+    <LtxtNoUserToCopy>Žiadni užívatelia na skopírovanie autorizácií neboli nájdení.</LtxtNoUserToCopy>
+    <LtxtValSelUser>Musíte vybrať užívateľa</LtxtValSelUser>
+    <LtxtRollFilter>Filter valca</LtxtRollFilter>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtRole>&lt;--&gt;</DtxtRole>
+    <LttlCopyAut>&lt;--&gt;</LttlCopyAut>
+    <LtxtNoUserToCopy>&lt;--&gt;</LtxtNoUserToCopy>
+    <LtxtValSelUser>&lt;--&gt;</LtxtValSelUser>
+    <LtxtRollFilter>&lt;--&gt;</LtxtRollFilter>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtRole>DtxtRole</DtxtRole>
+    <LttlCopyAut>LttlCopyAut</LttlCopyAut>
+    <LtxtNoUserToCopy>LtxtNoUserToCopy</LtxtNoUserToCopy>
+    <LtxtValSelUser>LtxtValSelUser</LtxtValSelUser>
+    <LtxtRollFilter>LtxtRollFilter</LtxtRollFilter>
+  </language>
+</languages>

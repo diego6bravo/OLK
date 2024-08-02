@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <LttlLineDet>Line details</LttlLineDet>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtDisNotes>Notes disabled</LtxtDisNotes>
+    <LtxtValItmQty>This warehouse does not have enough quantity available</LtxtValItmQty>
+    <LtxtPredNotes>Predefined Notes</LtxtPredNotes>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Almacén</DtxtWarehouse>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Este campo sólo acepta un valor mayor que {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtUDF>Campos de Usuario</DtxtUDF>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <LttlLineDet>Detalle de línea</LttlLineDet>
+    <LtxtVatGrp>Grupo de Impuesto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Impuesto</LtxtTaxCode>
+    <LtxtDisNotes>Notas deshabilitadas</LtxtDisNotes>
+    <LtxtValItmQty>Esta bodega no tiene disponible la cantidad que desea vender</LtxtValItmQty>
+    <LtxtPredNotes>Notas Predeterminadas</LtxtPredNotes>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtWarehouse>מחסן</DtxtWarehouse>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>שדה זה חייב להכיל מספר גבוה מ {0}!</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtUDF>שדות משתמש</DtxtUDF>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <LttlLineDet>הרחבת שורה</LttlLineDet>
+    <LtxtVatGrp>קבוצת מע"מ</LtxtVatGrp>
+    <LtxtTaxCode>קוד קבוצת מע"מ</LtxtTaxCode>
+    <LtxtDisNotes>הערות - לא פעיל</LtxtDisNotes>
+    <LtxtValItmQty>אין מלאי זמין במחסן שבחרת למכירה</LtxtValItmQty>
+    <LtxtPredNotes>הערות לשורה ברירת מחדל</LtxtPredNotes>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtWarehouse>Warehouse</DtxtWarehouse>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>This field has a minimum value of {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtUDF>User Defined Fields</DtxtUDF>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <LttlLineDet>Line details</LttlLineDet>
+    <LtxtVatGrp>Vat Group</LtxtVatGrp>
+    <LtxtTaxCode>Tax Code</LtxtTaxCode>
+    <LtxtDisNotes>Notes disabled</LtxtDisNotes>
+    <LtxtValItmQty>This warehouse does not have enough quantity available</LtxtValItmQty>
+    <LtxtPredNotes>Predefined Notes</LtxtPredNotes>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtWarehouse>Armazem</DtxtWarehouse>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>O valor mínimo deste campo é {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtUDF>Campos de Usuário</DtxtUDF>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <LttlLineDet>Detalhe da linha</LttlLineDet>
+    <LtxtVatGrp>Grupo de Imposto</LtxtVatGrp>
+    <LtxtTaxCode>Indicador de Imposto</LtxtTaxCode>
+    <LtxtDisNotes>Notas desabilitadas</LtxtDisNotes>
+    <LtxtValItmQty>Este armazém não tem disponível a quantidade que deseja vender</LtxtValItmQty>
+    <LtxtPredNotes>Notas Predeterminadas</LtxtPredNotes>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtWarehouse>Magasin</DtxtWarehouse>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Ce domaine accepte une seule valeur plus grand que {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtUDF>Domaine de l'utilisateur</DtxtUDF>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <LttlLineDet>Détail en ligne</LttlLineDet>
+    <LtxtVatGrp>Groupe d'impôt</LtxtVatGrp>
+    <LtxtTaxCode>Indicateur d'impôt</LtxtTaxCode>
+    <LtxtDisNotes>Notes épuisées</LtxtDisNotes>
+    <LtxtValItmQty>Cet entrepôt n\'a pas la quantité disponible à vendre</LtxtValItmQty>
+    <LtxtPredNotes>Notes prédeterminées</LtxtPredNotes>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtWarehouse>Lager</DtxtWarehouse>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Dieses Feld hat einen Mindestwert von {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtUDF>Benutzerdefinierte Felder</DtxtUDF>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <LttlLineDet>Zeilen Details</LttlLineDet>
+    <LtxtVatGrp>MwSt. Gruppe</LtxtVatGrp>
+    <LtxtTaxCode>Steuernummer</LtxtTaxCode>
+    <LtxtDisNotes>Notizen deaktiviert</LtxtDisNotes>
+    <LtxtValItmQty>Dieses Lager verfügt nicht über diese Menge</LtxtValItmQty>
+    <LtxtPredNotes>Vordefinierte Notizen</LtxtPredNotes>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtWarehouse>Склад</DtxtWarehouse>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Это поле должно вмещать номера больше чем{0}!</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtUDF>Пользовательские номера</DtxtUDF>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <LttlLineDet>Расширение линии</LttlLineDet>
+    <LtxtVatGrp>Группы ндс</LtxtVatGrp>
+    <LtxtTaxCode>Код групп ндс</LtxtTaxCode>
+    <LtxtDisNotes>Примечание не работает</LtxtDisNotes>
+    <LtxtValItmQty>Нет нужных товаров на складе из тех, что вы выбрали для продажи</LtxtValItmQty>
+    <LtxtPredNotes>Указания данные с начала</LtxtPredNotes>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Minimální hodnota tohoto pole je {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtUDF>Pole definovaná uživatelem</DtxtUDF>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <LttlLineDet>Podrobnosti o řádce</LttlLineDet>
+    <LtxtVatGrp>Skupina DPH</LtxtVatGrp>
+    <LtxtTaxCode>Kód daně</LtxtTaxCode>
+    <LtxtDisNotes>Poznámky deaktivovány</LtxtDisNotes>
+    <LtxtValItmQty>Tento sklad nemá dostatečné dostupné množství</LtxtValItmQty>
+    <LtxtPredNotes>Předdefinované poznámky</LtxtPredNotes>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtWarehouse>Magazyn</DtxtWarehouse>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>To pole ma minimalną wartość {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtUDF>Pola użytkownika</DtxtUDF>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <LttlLineDet>Szczegóły wiersza</LttlLineDet>
+    <LtxtVatGrp>Grupa VAT</LtxtVatGrp>
+    <LtxtTaxCode>Kod podatkowy</LtxtTaxCode>
+    <LtxtDisNotes>Notatki - zablokowane</LtxtDisNotes>
+    <LtxtValItmQty>Ten magazyn nie ma dostępnej wystarczającej  ilości</LtxtValItmQty>
+    <LtxtPredNotes>Wcześniej zdefiniowane notatki</LtxtPredNotes>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtWarehouse>Sklad</DtxtWarehouse>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>Toto políčko má minimálnu hodnotu {0}</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtUDF>Políčka definované užívateľom</DtxtUDF>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <LttlLineDet>Údaje o riadku</LttlLineDet>
+    <LtxtVatGrp>Daňová skupina</LtxtVatGrp>
+    <LtxtTaxCode>Daňový kód</LtxtTaxCode>
+    <LtxtDisNotes>Poznámky zablokované</LtxtDisNotes>
+    <LtxtValItmQty>Tento sklad nemá dosť dostupného množstva</LtxtValItmQty>
+    <LtxtPredNotes>Predvolené poznámky</LtxtPredNotes>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtWarehouse>DtxtWarehouse</DtxtWarehouse>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtValNumMinVal>DtxtValNumMinVal</DtxtValNumMinVal>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtUDF>DtxtUDF</DtxtUDF>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <LttlLineDet>LttlLineDet</LttlLineDet>
+    <LtxtVatGrp>LtxtVatGrp</LtxtVatGrp>
+    <LtxtTaxCode>LtxtTaxCode</LtxtTaxCode>
+    <LtxtDisNotes>LtxtDisNotes</LtxtDisNotes>
+    <LtxtValItmQty>LtxtValItmQty</LtxtValItmQty>
+    <LtxtPredNotes>LtxtPredNotes</LtxtPredNotes>
+  </language>
+</languages>

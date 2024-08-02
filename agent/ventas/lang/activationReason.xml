@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LtxtAcctActive>Account Activation</LtxtAcctActive>
+    <LtxtRejReson>Reason for Rejection </LtxtRejReson>
+    <LtxtPredNotes>Default Notes</LtxtPredNotes>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <LtxtAcctActive>Activación de Cuenta</LtxtAcctActive>
+    <LtxtRejReson>Razón de Rechazo</LtxtRejReson>
+    <LtxtPredNotes>Notas Predefinidas</LtxtPredNotes>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <LtxtAcctActive>אישור חשבון</LtxtAcctActive>
+    <LtxtRejReson>סיבת דחיה</LtxtRejReson>
+    <LtxtPredNotes>הערות (ברירות מחדל)</LtxtPredNotes>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LtxtAcctActive>Account Activation</LtxtAcctActive>
+    <LtxtRejReson>Reason for Rejection </LtxtRejReson>
+    <LtxtPredNotes>Default Notes</LtxtPredNotes>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <LtxtAcctActive>Ativação da Conta</LtxtAcctActive>
+    <LtxtRejReson>Razão da Recusa</LtxtRejReson>
+    <LtxtPredNotes>Notas Predefinidas</LtxtPredNotes>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <LtxtAcctActive>Activation de compte</LtxtAcctActive>
+    <LtxtRejReson>Raison de Refus</LtxtRejReson>
+    <LtxtPredNotes>Notes prédéterminées</LtxtPredNotes>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <LtxtAcctActive>Konto Aktivierung</LtxtAcctActive>
+    <LtxtRejReson>Grund für die Ablehnung</LtxtRejReson>
+    <LtxtPredNotes>Standard Notiz</LtxtPredNotes>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <LtxtAcctActive>Активация учетной записи</LtxtAcctActive>
+    <LtxtRejReson>Причина отказа</LtxtRejReson>
+    <LtxtPredNotes>По умолчанию заметки</LtxtPredNotes>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <LtxtAcctActive>Aktivace účtu</LtxtAcctActive>
+    <LtxtRejReson>Důvod zamítnutí</LtxtRejReson>
+    <LtxtPredNotes>Výchozí poznámky</LtxtPredNotes>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <LtxtAcctActive>Aktywacja konta</LtxtAcctActive>
+    <LtxtRejReson>Przyczyna odrzucenia</LtxtRejReson>
+    <LtxtPredNotes>Uwagi domyślne</LtxtPredNotes>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <LtxtAcctActive>Aktivácia konta</LtxtAcctActive>
+    <LtxtRejReson>Dôvod zamietnutia</LtxtRejReson>
+    <LtxtPredNotes>Východiskové poznámky</LtxtPredNotes>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <LtxtAcctActive>LtxtAcctActive</LtxtAcctActive>
+    <LtxtRejReson>LtxtRejReson</LtxtRejReson>
+    <LtxtPredNotes>LtxtPredNotes</LtxtPredNotes>
+  </language>
+</languages>

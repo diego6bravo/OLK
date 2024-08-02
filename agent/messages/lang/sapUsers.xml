@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtAll>All</DtxtAll>
+    <LttlSAPUsers>SAP Users</LttlSAPUsers>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <DtxtAll>Todos</DtxtAll>
+    <LttlSAPUsers>Usuarios SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAccept>אשר</DtxtAccept>
+    <DtxtAll>כולם</DtxtAll>
+    <LttlSAPUsers>משתמשים של סאפ</LttlSAPUsers>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accept</DtxtAccept>
+    <DtxtAll>All</DtxtAll>
+    <LttlSAPUsers>SAP Users</LttlSAPUsers>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <DtxtAll>Todos</DtxtAll>
+    <LttlSAPUsers>Usuários SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <DtxtAll>Tous</DtxtAll>
+    <LttlSAPUsers>Utilisateur SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <DtxtAll>Alle</DtxtAll>
+    <LttlSAPUsers>SAP Benutzer</LttlSAPUsers>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Получить</DtxtAccept>
+    <DtxtAll>Каждые</DtxtAll>
+    <LttlSAPUsers>Пользователи сап</LttlSAPUsers>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <DtxtAll>Vše</DtxtAll>
+    <LttlSAPUsers>Uživatelé SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <DtxtAll>Wszystko</DtxtAll>
+    <LttlSAPUsers>Użytkownicy SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <DtxtAll>Všetko</DtxtAll>
+    <LttlSAPUsers>Užívatelia SAP</LttlSAPUsers>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <LttlSAPUsers>LttlSAPUsers</LttlSAPUsers>
+  </language>
+</languages>

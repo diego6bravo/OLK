@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Are you sure you want to delete the document #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Your {0} has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>¿Está seguro que desea eliminar el documento #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Su {0} ha sido Cancelado</LtxtConfCancel>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtConfDelDoc>האם למחוק מסמך {0}#?</LtxtConfDelDoc>
+    <LtxtConfCancel>ה{0} התבטל</LtxtConfCancel>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Are you sure you want to delete the document #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Your {0} has been canceled</LtxtConfCancel>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Você tem certeza que deseja excluir o documento Nº {0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Seu {0} foi cancelado</LtxtConfCancel>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Jste si jistý/á, že chcete odstranit dokument #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Vaše {0} odstraněno</LtxtConfCancel>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Czy jesteś pewien, że chcesz usunąć dokument #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Twój {0} został anulowany</LtxtConfCancel>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>Ste si istí, že chcete vymazať dokument #{0}?</LtxtConfDelDoc>
+    <LtxtConfCancel>Váš {0} bol zrušený</LtxtConfCancel>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>&lt;--&gt;</LtxtConfDelDoc>
+    <LtxtConfCancel>&lt;--&gt;</LtxtConfCancel>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtConfDelDoc>LtxtConfDelDoc</LtxtConfDelDoc>
+    <LtxtConfCancel>LtxtConfCancel</LtxtConfCancel>
+  </language>
+</languages>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtItemsSearch>Items Search Results</LtxtItemsSearch>
+    <LtxtNewSearch>New Search</LtxtNewSearch>
+    <LtxtAVL>AVL</LtxtAVL>
+    <LtxtPrice>P.</LtxtPrice>
+    <LtxtUnitPrice>P. Uni</LtxtUnitPrice>
+    <LtxtInventory>INV</LtxtInventory>
+    <LtxtChkAtLead1Item>You must check at least 1 item</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtValNumMaxVal>Este campo sólo acepta un valor máximo de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtItemsSearch>Resultados de Búsqueda de Artículos</LtxtItemsSearch>
+    <LtxtNewSearch>Nueva Búsqueda</LtxtNewSearch>
+    <LtxtAVL>DSP</LtxtAVL>
+    <LtxtPrice>P.</LtxtPrice>
+    <LtxtUnitPrice>Uni P.</LtxtUnitPrice>
+    <LtxtInventory>INV</LtxtInventory>
+    <LtxtChkAtLead1Item>Debe marcar al menos 1 artículo</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtValNumMaxVal>שדה זה יכול להכיל {0} כמספר מקסימלי!</DtxtValNumMaxVal>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtItemsSearch>תוצאת חיפוש פריטים</LtxtItemsSearch>
+    <LtxtNewSearch>חיפוש חדש</LtxtNewSearch>
+    <LtxtAVL>זמין</LtxtAVL>
+    <LtxtPrice>מחיר</LtxtPrice>
+    <LtxtUnitPrice>מחיר ליח'</LtxtUnitPrice>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtChkAtLead1Item>יש לבחור לפחות פריט אחד</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtValNumMaxVal>This field has a max value of {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtItemsSearch>Items Search Results</LtxtItemsSearch>
+    <LtxtNewSearch>New Search</LtxtNewSearch>
+    <LtxtAVL>AVL</LtxtAVL>
+    <LtxtPrice>P.</LtxtPrice>
+    <LtxtUnitPrice>P. Uni</LtxtUnitPrice>
+    <LtxtInventory>INV</LtxtInventory>
+    <LtxtChkAtLead1Item>You must check at least 1 item</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtValNumMaxVal>O valor máximo deste campo é {0}</DtxtValNumMaxVal>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtItemsSearch>Resultados da Busca de Itens</LtxtItemsSearch>
+    <LtxtNewSearch>Nova Busca</LtxtNewSearch>
+    <LtxtAVL>DSP</LtxtAVL>
+    <LtxtPrice>P.</LtxtPrice>
+    <LtxtUnitPrice>Uni P.</LtxtUnitPrice>
+    <LtxtInventory>ESTQ</LtxtInventory>
+    <LtxtChkAtLead1Item>Você deve marcar pelo menos 1 item</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtValNumMaxVal>Ce domaine accepte une seule valeur maximum de {0}</DtxtValNumMaxVal>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtNewSearch>&lt;--&gt;</LtxtNewSearch>
+    <LtxtAVL>&lt;--&gt;</LtxtAVL>
+    <LtxtPrice>&lt;--&gt;</LtxtPrice>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtChkAtLead1Item>&lt;--&gt;</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtValNumMaxVal>Dieses Feld hat einen Höchstwert von {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtNewSearch>&lt;--&gt;</LtxtNewSearch>
+    <LtxtAVL>&lt;--&gt;</LtxtAVL>
+    <LtxtPrice>&lt;--&gt;</LtxtPrice>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtChkAtLead1Item>&lt;--&gt;</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtValNumMaxVal>Это поле может вмещать{0} как максимальный номер</DtxtValNumMaxVal>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtNewSearch>&lt;--&gt;</LtxtNewSearch>
+    <LtxtAVL>&lt;--&gt;</LtxtAVL>
+    <LtxtPrice>&lt;--&gt;</LtxtPrice>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtChkAtLead1Item>Нужно выбрать хотя бы одну деталь</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtValNumMaxVal>Maximální hodnota tohoto pole je {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtItemsSearch>Výsledky vyhledávání položek</LtxtItemsSearch>
+    <LtxtNewSearch>Nové hledání</LtxtNewSearch>
+    <LtxtAVL>DOST</LtxtAVL>
+    <LtxtPrice>Bal</LtxtPrice>
+    <LtxtUnitPrice>Jedn. bal.</LtxtUnitPrice>
+    <LtxtInventory>ZÁS</LtxtInventory>
+    <LtxtChkAtLead1Item>Musíte zaškrtnout aspoň jednu položku</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtValNumMaxVal>To pole ma maksymalną wartość {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtItemsSearch>Wyniki poszukiwania pozycji</LtxtItemsSearch>
+    <LtxtNewSearch>Nowe poszukiwanie</LtxtNewSearch>
+    <LtxtAVL>dostępny</LtxtAVL>
+    <LtxtPrice>Cena</LtxtPrice>
+    <LtxtUnitPrice>Cena jednostki</LtxtUnitPrice>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtChkAtLead1Item>Musisz sprawdzić chociaż 1 pozycję</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtValNumMaxVal>Toto políčko má maximálnu hodnotu {0}</DtxtValNumMaxVal>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtItemsSearch>Výsledky vyhľadávania položiek</LtxtItemsSearch>
+    <LtxtNewSearch>Nové vyhľadávanie</LtxtNewSearch>
+    <LtxtAVL>AVL</LtxtAVL>
+    <LtxtPrice>P.</LtxtPrice>
+    <LtxtUnitPrice>P. Uni</LtxtUnitPrice>
+    <LtxtInventory>INV</LtxtInventory>
+    <LtxtChkAtLead1Item>Musíte označiť aspoň 1 položku</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtValNumMaxVal>&lt;--&gt;</DtxtValNumMaxVal>
+    <DtxtCode>&lt;--&gt;</DtxtCode>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtPrice>&lt;--&gt;</DtxtPrice>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtItemsSearch>&lt;--&gt;</LtxtItemsSearch>
+    <LtxtNewSearch>&lt;--&gt;</LtxtNewSearch>
+    <LtxtAVL>&lt;--&gt;</LtxtAVL>
+    <LtxtPrice>&lt;--&gt;</LtxtPrice>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtChkAtLead1Item>&lt;--&gt;</LtxtChkAtLead1Item>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtValNumMaxVal>DtxtValNumMaxVal</DtxtValNumMaxVal>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtItemsSearch>LtxtItemsSearch</LtxtItemsSearch>
+    <LtxtNewSearch>LtxtNewSearch</LtxtNewSearch>
+    <LtxtAVL>LtxtAVL</LtxtAVL>
+    <LtxtPrice>LtxtPrice</LtxtPrice>
+    <LtxtUnitPrice>LtxtUnitPrice</LtxtUnitPrice>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtChkAtLead1Item>LtxtChkAtLead1Item</LtxtChkAtLead1Item>
+  </language>
+</languages>

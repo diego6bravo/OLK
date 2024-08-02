@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlEditShortText>Edit Brief Text</LttlEditShortText>
+    <LtxtValCloseWin>By closing this window all changes will be lost. \nDo you wish to continue?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceptar</DtxtAccept>
+    <LttlEditShortText>Editar Texto Breve</LttlEditShortText>
+    <LtxtValCloseWin>Al cerrar esta ventana perderá todos los cambios realizados.\n¿Desea continuar?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAccept>אשר</DtxtAccept>
+    <LttlEditShortText>ערוך טקסט קצר</LttlEditShortText>
+    <LtxtValCloseWin>בסגירת מסך זה לא ישמרו הנתונים! המשך ?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAccept>Accept</DtxtAccept>
+    <LttlEditShortText>Edit Brief Text</LttlEditShortText>
+    <LtxtValCloseWin>By closing this window all changes will be lost. \nDo you wish to continue?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAccept>Aceitar</DtxtAccept>
+    <LttlEditShortText>Editar Texto Breve</LttlEditShortText>
+    <LtxtValCloseWin>Ao fechar esta janela perderá todas as modificações que realizou. Deseja continuar?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAccept>Accepter</DtxtAccept>
+    <LttlEditShortText>Éditer texte bref</LttlEditShortText>
+    <LtxtValCloseWin>Au moment de fermer cette fenêtre vous perdrez les modifications que vous avez fait.\nVeuillez-vous continuer?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAccept>Annehmen</DtxtAccept>
+    <LttlEditShortText>Kurztext ändern</LttlEditShortText>
+    <LtxtValCloseWin>Wenn Sie das Fenster schließen werden alle Änderungen gelöscht. Möchten Sie vortfahren?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAccept>Получить</DtxtAccept>
+    <LttlEditShortText>Изменить краткий текст</LttlEditShortText>
+    <LtxtValCloseWin>При закрытии окна все изменения будут потеряны.\nВы хотите продолжить?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAccept>Akceptovat</DtxtAccept>
+    <LttlEditShortText>Upravit krátky text</LttlEditShortText>
+    <LtxtValCloseWin>Po zavření tohoto okna budou všechny změny ztraceny.\nUrčitě chcete pokračovat?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAccept>Akceptuj</DtxtAccept>
+    <LttlEditShortText>Edytuj krótki tekst</LttlEditShortText>
+    <LtxtValCloseWin>Zamknięcie tego okna spowoduje utratę wszystkich zmian. Czy chcesz kontynuować?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAccept>Akceptovať</DtxtAccept>
+    <LttlEditShortText>Editovať stručný text</LttlEditShortText>
+    <LtxtValCloseWin>Zatvorením tohto okna sa stratia všetky zmeny.\nPrajete si pokračovať?</LtxtValCloseWin>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtAccept>&lt;--&gt;</DtxtAccept>
+    <LttlEditShortText>&lt;--&gt;</LttlEditShortText>
+    <LtxtValCloseWin>&lt;--&gt;</LtxtValCloseWin>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAccept>DtxtAccept</DtxtAccept>
+    <LttlEditShortText>LttlEditShortText</LttlEditShortText>
+    <LtxtValCloseWin>LtxtValCloseWin</LtxtValCloseWin>
+  </language>
+</languages>

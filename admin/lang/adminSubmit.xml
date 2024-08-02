@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>The password was changed successfully</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Contraseña cambiada con éxito</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <LtxtChangePwdConf>הסיסמה שונתה בהצלחה!</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>The password was changed successfully</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>A senha foi alterada com sucesso.</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Mot de passe échangé avec succès</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Ihr Kennwort wurde erfolgreich geändert</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Пароль изменен успешно!</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Heslo bylo úspěšně změněno</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Hasło zostało zmienione z sukcesem</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>Heslo bolo zmenené úspešne</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>&lt;--&gt;</LtxtChangePwdConf>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <LtxtChangePwdConf>LtxtChangePwdConf</LtxtChangePwdConf>
+  </language>
+</languages>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddDoc>Error adding document:</LtxtErrAddDoc>
+    <LtxtConfAddPay>The {1} #{0} was added successfully.</LtxtConfAddPay>
+    <LtxtCreateNewPay>Create another {0}</LtxtCreateNewPay>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtErrAddDoc>Error al agregar documento:</LtxtErrAddDoc>
+    <LtxtConfAddPay>El {1} N°{0} fue agregado con éxito.</LtxtConfAddPay>
+    <LtxtCreateNewPay>Crear otro {0}</LtxtCreateNewPay>
+    <LtxtView>Ver</LtxtView>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtErrAddDoc>תקלה בהוספת המסמך</LtxtErrAddDoc>
+    <LtxtConfAddPay>ה{1} {0}# נוסף בהצלחה</LtxtConfAddPay>
+    <LtxtCreateNewPay>צור עוד {0}</LtxtCreateNewPay>
+    <LtxtView>ראה</LtxtView>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtDraft>Draft</DtxtDraft>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtErrAddDoc>Error adding document:</LtxtErrAddDoc>
+    <LtxtConfAddPay>The {1} #{0} was added successfully.</LtxtConfAddPay>
+    <LtxtCreateNewPay>Create another {0}</LtxtCreateNewPay>
+    <LtxtView>View</LtxtView>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtErrAddDoc>Erro ao adicionar documento:</LtxtErrAddDoc>
+    <LtxtConfAddPay>A {1} Nº foi adicionada com sucesso</LtxtConfAddPay>
+    <LtxtCreateNewPay>Criar outro {0}</LtxtCreateNewPay>
+    <LtxtView>Visualizar</LtxtView>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtErrAddDoc>Erreur au moment d'ajouter documentation:</LtxtErrAddDoc>
+    <LtxtConfAddPay>&lt;--&gt;</LtxtConfAddPay>
+    <LtxtCreateNewPay>&lt;--&gt;</LtxtCreateNewPay>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtErrAddDoc>Fehler beim hinzufügen des Dokuments</LtxtErrAddDoc>
+    <LtxtConfAddPay>&lt;--&gt;</LtxtConfAddPay>
+    <LtxtCreateNewPay>&lt;--&gt;</LtxtCreateNewPay>
+    <LtxtView>&lt;--&gt;</LtxtView>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtErrAddDoc>Ошибка в добавлении документа</LtxtErrAddDoc>
+    <LtxtConfAddPay>&lt;--&gt;</LtxtConfAddPay>
+    <LtxtCreateNewPay>&lt;--&gt;</LtxtCreateNewPay>
+    <LtxtView>Смотреть</LtxtView>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtErrAddDoc>Chyba při vytváření dokumentu:</LtxtErrAddDoc>
+    <LtxtConfAddPay>{1} #{0} úspěšně vytvořen.</LtxtConfAddPay>
+    <LtxtCreateNewPay>Vytvořit další {0}</LtxtCreateNewPay>
+    <LtxtView>Zobrazit</LtxtView>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtErrAddDoc>Błąd przy dodawaniu dokumentu:</LtxtErrAddDoc>
+    <LtxtConfAddPay> {1} #{0} został dodany z sukcesem</LtxtConfAddPay>
+    <LtxtCreateNewPay>Stwórz kolejny  {0}</LtxtCreateNewPay>
+    <LtxtView>Zobacz</LtxtView>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtErrAddDoc>Chyba v pridaní dokumentu:</LtxtErrAddDoc>
+    <LtxtConfAddPay>{1} #{0} bolo pridané úspešne.</LtxtConfAddPay>
+    <LtxtCreateNewPay>Vytvorte ďalšie {0}</LtxtCreateNewPay>
+    <LtxtView>Zobraziť</LtxtView>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtErrAddDoc>LtxtErrAddDoc</LtxtErrAddDoc>
+    <LtxtConfAddPay>LtxtConfAddPay</LtxtConfAddPay>
+    <LtxtCreateNewPay>LtxtCreateNewPay</LtxtCreateNewPay>
+    <LtxtView>LtxtView</LtxtView>
+  </language>
+</languages>

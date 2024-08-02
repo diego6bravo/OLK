@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtError>Error</DtxtError>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtTransactinoPool>Your transaction is #{0} in queue</LtxtTransactinoPool>
+    <LtxtProcessing>Processing</LtxtProcessing>
+    <LtxtTransComp>Transaction Completed</LtxtTransComp>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtError>Error</DtxtError>
+    <DtxtRetry>Reintentar</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtTransactinoPool>Su transacción esta en N°{0} en la cola</LtxtTransactinoPool>
+    <LtxtProcessing>Procesando</LtxtProcessing>
+    <LtxtTransComp>Transacción Completada</LtxtTransComp>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtRestore>שיחזור</DtxtRestore>
+    <DtxtError>תקלה</DtxtError>
+    <DtxtRetry>נסה שוב</DtxtRetry>
+    <DtxtWait>בבקשה, המתן...</DtxtWait>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtTransactinoPool>הפעולה שביקשת היא {0}# בתור עם פעולות אחרות שבהמתנה</LtxtTransactinoPool>
+    <LtxtProcessing>מעבד נתונים</LtxtProcessing>
+    <LtxtTransComp>פעולה הסתיימה</LtxtTransComp>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restore</DtxtRestore>
+    <DtxtError>Error</DtxtError>
+    <DtxtRetry>Retry</DtxtRetry>
+    <DtxtWait>Please wait</DtxtWait>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtTransactinoPool>Your transaction is #{0} in queue</LtxtTransactinoPool>
+    <LtxtProcessing>Processing</LtxtProcessing>
+    <LtxtTransComp>Transaction Completed</LtxtTransComp>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurar</DtxtRestore>
+    <DtxtError>Erro</DtxtError>
+    <DtxtRetry>Tentar Novamente</DtxtRetry>
+    <DtxtWait>Por favor, Espere</DtxtWait>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtTransactinoPool>Sua transação é a Nº {0} da fila</LtxtTransactinoPool>
+    <LtxtProcessing>Processando</LtxtProcessing>
+    <LtxtTransComp>Transação Completada</LtxtTransComp>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Restaurer</DtxtRestore>
+    <DtxtError>Erreur</DtxtError>
+    <DtxtRetry>Réessayer</DtxtRetry>
+    <DtxtWait>S'il vous plaît, attendez  (s.V.p, attendez)</DtxtWait>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtTransactinoPool>&lt;--&gt;</LtxtTransactinoPool>
+    <LtxtProcessing>&lt;--&gt;</LtxtProcessing>
+    <LtxtTransComp>&lt;--&gt;</LtxtTransComp>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Wiederherstellen</DtxtRestore>
+    <DtxtError>Fehlermeldung</DtxtError>
+    <DtxtRetry>Wiederholen</DtxtRetry>
+    <DtxtWait>Bitte warten</DtxtWait>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtTransactinoPool>&lt;--&gt;</LtxtTransactinoPool>
+    <LtxtProcessing>&lt;--&gt;</LtxtProcessing>
+    <LtxtTransComp>&lt;--&gt;</LtxtTransComp>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Повторить</DtxtRestore>
+    <DtxtError>Ошибка</DtxtError>
+    <DtxtRetry>Попробовать вновь</DtxtRetry>
+    <DtxtWait>Пожалуйста подождите</DtxtWait>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtTransactinoPool>Запрашиваемые действий {0}#   действия в ожидании</LtxtTransactinoPool>
+    <LtxtProcessing>Обработка данных</LtxtProcessing>
+    <LtxtTransComp>Действие закончено</LtxtTransComp>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Obnovit</DtxtRestore>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtRetry>Zkusit znovu</DtxtRetry>
+    <DtxtWait>Vyčkejte prosím</DtxtWait>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtTransactinoPool>Vaše transakce #{0} čeká na zpracování</LtxtTransactinoPool>
+    <LtxtProcessing>Zpracovává se</LtxtProcessing>
+    <LtxtTransComp>Transakce dokončena </LtxtTransComp>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Przywróć</DtxtRestore>
+    <DtxtError>Błąd</DtxtError>
+    <DtxtRetry>Spróbuj ponownie</DtxtRetry>
+    <DtxtWait>Proszę czekać</DtxtWait>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtTransactinoPool>Twoja transakcja #{0} jest w kolejce </LtxtTransactinoPool>
+    <LtxtProcessing>Przetwarzanie danych </LtxtProcessing>
+    <LtxtTransComp>Transakcja zakończona</LtxtTransComp>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>Vrátiť</DtxtRestore>
+    <DtxtError>Chyba</DtxtError>
+    <DtxtRetry>Skúsiť znovu</DtxtRetry>
+    <DtxtWait>Čakať prosím</DtxtWait>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtTransactinoPool>Vaša transakcia je #{0} v poradí</LtxtTransactinoPool>
+    <LtxtProcessing>Spracováva sa</LtxtProcessing>
+    <LtxtTransComp>Transakcia dokončená</LtxtTransComp>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtRestore>DtxtRestore</DtxtRestore>
+    <DtxtError>DtxtError</DtxtError>
+    <DtxtRetry>DtxtRetry</DtxtRetry>
+    <DtxtWait>DtxtWait</DtxtWait>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtTransactinoPool>LtxtTransactinoPool</LtxtTransactinoPool>
+    <LtxtProcessing>LtxtProcessing</LtxtProcessing>
+    <LtxtTransComp>LtxtTransComp</LtxtTransComp>
+  </language>
+</languages>

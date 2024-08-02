@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtSubmitCart>Submit Shopping Cart</LtxtSubmitCart>
+    <LtxtPleaseWait>Please wait</LtxtPleaseWait>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtRunInBG>Correr en Fondo</DtxtRunInBG>
+    <LtxtSubmitCart>Envió de Canasta de Compras</LtxtSubmitCart>
+    <LtxtPleaseWait>Por favor espere</LtxtPleaseWait>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtPrint>הדפס</DtxtPrint>
+    <DtxtRunInBG>הרץ ברקע</DtxtRunInBG>
+    <LtxtSubmitCart>שלח סל קניות</LtxtSubmitCart>
+    <LtxtPleaseWait>המתן</LtxtPleaseWait>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Print</DtxtPrint>
+    <DtxtRunInBG>Run in Background</DtxtRunInBG>
+    <LtxtSubmitCart>Submit Shopping Cart</LtxtSubmitCart>
+    <LtxtPleaseWait>Please wait</LtxtPleaseWait>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Imprimir</DtxtPrint>
+    <DtxtRunInBG>Executar em Segundo Plano</DtxtRunInBG>
+    <LtxtSubmitCart>Envio do Carrinho de Compras</LtxtSubmitCart>
+    <LtxtPleaseWait>Por favor, aguarde</LtxtPleaseWait>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Imprimer</DtxtPrint>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtSubmitCart>&lt;--&gt;</LtxtSubmitCart>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Drucken</DtxtPrint>
+    <DtxtRunInBG>Im Hintergrunf laufen lassen</DtxtRunInBG>
+    <LtxtSubmitCart>&lt;--&gt;</LtxtSubmitCart>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Распечатать</DtxtPrint>
+    <DtxtRunInBG>Фоновый</DtxtRunInBG>
+    <LtxtSubmitCart>&lt;--&gt;</LtxtSubmitCart>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Tisk</DtxtPrint>
+    <DtxtRunInBG>Spustit v pozadí</DtxtRunInBG>
+    <LtxtSubmitCart>Odeslat nákupní košík</LtxtSubmitCart>
+    <LtxtPleaseWait>Vyčkejte prosím</LtxtPleaseWait>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Drukuj</DtxtPrint>
+    <DtxtRunInBG>Przeprowadź w tle</DtxtRunInBG>
+    <LtxtSubmitCart>Wyślij koszyk </LtxtSubmitCart>
+    <LtxtPleaseWait>Proszę czekać </LtxtPleaseWait>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>Vytlačiť</DtxtPrint>
+    <DtxtRunInBG>Spustiť v pozadí</DtxtRunInBG>
+    <LtxtSubmitCart>Odošlite Nákupný košík</LtxtSubmitCart>
+    <LtxtPleaseWait>Prosím čakajte</LtxtPleaseWait>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>&lt;--&gt;</DtxtPrint>
+    <DtxtRunInBG>&lt;--&gt;</DtxtRunInBG>
+    <LtxtSubmitCart>&lt;--&gt;</LtxtSubmitCart>
+    <LtxtPleaseWait>&lt;--&gt;</LtxtPleaseWait>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtPrint>DtxtPrint</DtxtPrint>
+    <DtxtRunInBG>DtxtRunInBG</DtxtRunInBG>
+    <LtxtSubmitCart>LtxtSubmitCart</LtxtSubmitCart>
+    <LtxtPleaseWait>LtxtPleaseWait</LtxtPleaseWait>
+  </language>
+</languages>

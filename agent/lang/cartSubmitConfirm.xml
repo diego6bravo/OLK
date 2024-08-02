@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LttlCartPurConf>Cart - Purchase Confirmation</LttlCartPurConf>
+    <LtxtCurBal>Current Balance</LtxtCurBal>
+    <LtxtOrdrBal>Balance {0}</LtxtOrdrBal>
+    <LtxtUnit>Unit</LtxtUnit>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheques>Check</LtxtCheques>
+    <LtxtBankTran>Bank Transfer</LtxtBankTran>
+    <LtxtCredCards>Credit Cards</LtxtCredCards>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtPymntGroup>Payment Terms</LtxtPymntGroup>
+    <LtxtDelObs>Delivery Remarks</LtxtDelObs>
+    <LtxtPaid>Paid</LtxtPaid>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+    <LttlConfirmNote>This document requires additional approval in SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Correo Electrónico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtQty>Cantidad</DtxtQty>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtCity>Ciudad</DtxtCity>
+    <DtxtPhone>Teléfono</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtInvDueDate>A pagar hasta</DtxtInvDueDate>
+    <DtxtDeliveryDate>Fecha de entrega</DtxtDeliveryDate>
+    <DtxtComDate>Fecha de comunicación</DtxtComDate>
+    <DtxtUnit>Unidad</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Descuento</DtxtDiscount>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtDraft>Borrador</DtxtDraft>
+    <LttlCartPurConf>Canasta de Compras - Confirmación de compra</LttlCartPurConf>
+    <LtxtCurBal>Saldo actual</LtxtCurBal>
+    <LtxtOrdrBal>Saldo {0}</LtxtOrdrBal>
+    <LtxtUnit>Un.</LtxtUnit>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheques>Cheque</LtxtCheques>
+    <LtxtBankTran>T. Bancaria</LtxtBankTran>
+    <LtxtCredCards>T. Crédito</LtxtCredCards>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtPymntGroup>Condición de pago</LtxtPymntGroup>
+    <LtxtDelObs>Observación de entrega</LtxtDelObs>
+    <LtxtPaid>Pagado</LtxtPaid>
+    <LtxtUnitPrice>Precio unitario</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Precio despues desc.</LtxtPriceAfterDisc>
+    <LttlDraftNote>Este documento fue creado como borrador y está sujeto a aprobación</LttlDraftNote>
+    <LttlConfirmNote>Este documento requiere aprobación adicional en SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Dirección de envío</LtxtShipAdd>
+    <LtxtPayAdd>Dirección de pago</LtxtPayAdd>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtEMail>דואר אלקטרוני</DtxtEMail>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtQty>כמות</DtxtQty>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtCity>עיר</DtxtCity>
+    <DtxtPhone>טלפון</DtxtPhone>
+    <DtxtFax>פקס</DtxtFax>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtFor>ל</DtxtFor>
+    <DtxtInvDueDate>לשלם עד</DtxtInvDueDate>
+    <DtxtDeliveryDate>תאריך אספקה</DtxtDeliveryDate>
+    <DtxtComDate>תקף עד</DtxtComDate>
+    <DtxtUnit>יחידה</DtxtUnit>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtDiscount>הנחה</DtxtDiscount>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtDraft>טיוטה</DtxtDraft>
+    <LttlCartPurConf>סל קניות - אישור מסמך</LttlCartPurConf>
+    <LtxtCurBal>יתרה נוכחית</LtxtCurBal>
+    <LtxtOrdrBal>יתרה {0}</LtxtOrdrBal>
+    <LtxtUnit>יח'</LtxtUnit>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheques>צ'קים</LtxtCheques>
+    <LtxtBankTran>עברה בנקאית</LtxtBankTran>
+    <LtxtCredCards>כרטיס אשראי</LtxtCredCards>
+    <LtxtSubtotal>סיכום בניים</LtxtSubtotal>
+    <LtxtPymntGroup>תנאי תשלום</LtxtPymntGroup>
+    <LtxtDelObs>הערות למשלוח</LtxtDelObs>
+    <LtxtPaid>שולם</LtxtPaid>
+    <LtxtUnitPrice>מחיר יח'</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>מחיר אחרי הנחה</LtxtPriceAfterDisc>
+    <LttlDraftNote>המסמך הנ"ל נוצר כטיוטה ודורש אישור נוסף</LttlDraftNote>
+    <LttlConfirmNote>המסמך הנ"ל דורש אישור נוסף </LttlConfirmNote>
+    <LtxtShipAdd>כתובת משלוח</LtxtShipAdd>
+    <LtxtPayAdd>כתובת תשלום</LtxtPayAdd>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtQty>Quantity</DtxtQty>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtCity>City</DtxtCity>
+    <DtxtPhone>Phone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>For</DtxtFor>
+    <DtxtInvDueDate>Payment due</DtxtInvDueDate>
+    <DtxtDeliveryDate>Delivery Date</DtxtDeliveryDate>
+    <DtxtComDate>Communication Date</DtxtComDate>
+    <DtxtUnit>Unit</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Discount</DtxtDiscount>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtDraft>Draft</DtxtDraft>
+    <LttlCartPurConf>Cart - Purchase Confirmation</LttlCartPurConf>
+    <LtxtCurBal>Current Balance</LtxtCurBal>
+    <LtxtOrdrBal>Balance {0}</LtxtOrdrBal>
+    <LtxtUnit>Unit</LtxtUnit>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheques>Check</LtxtCheques>
+    <LtxtBankTran>Bank Transfer</LtxtBankTran>
+    <LtxtCredCards>Credit Cards</LtxtCredCards>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtPymntGroup>Payment Terms</LtxtPymntGroup>
+    <LtxtDelObs>Delivery Remarks</LtxtDelObs>
+    <LtxtPaid>Paid</LtxtPaid>
+    <LtxtUnitPrice>Unit price</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Price after disc.</LtxtPriceAfterDisc>
+    <LttlDraftNote>This document was created as a draft and is subject to approval</LttlDraftNote>
+    <LttlConfirmNote>This document requires additional approval in SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Shipping Address</LtxtShipAdd>
+    <LtxtPayAdd>Payment address</LtxtPayAdd>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Correio Eletrônico</DtxtEMail>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtQty>Quantidade</DtxtQty>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtCity>Cidade</DtxtCity>
+    <DtxtPhone>Telefone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtFor>Para</DtxtFor>
+    <DtxtInvDueDate>A pagar até</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data de Entrega</DtxtDeliveryDate>
+    <DtxtComDate>Data da Comunicação</DtxtComDate>
+    <DtxtUnit>Unidade</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Desconto</DtxtDiscount>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtDraft>Rascunho</DtxtDraft>
+    <LttlCartPurConf>Cesta de Compras - Confirmação da compra</LttlCartPurConf>
+    <LtxtCurBal>Saldo atual</LtxtCurBal>
+    <LtxtOrdrBal>Saldo {0}</LtxtOrdrBal>
+    <LtxtUnit>Un.</LtxtUnit>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheques>Cheque</LtxtCheques>
+    <LtxtBankTran>Cartão Bancário</LtxtBankTran>
+    <LtxtCredCards>Cartão Crédito</LtxtCredCards>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtPymntGroup>Condição de pagamento</LtxtPymntGroup>
+    <LtxtDelObs>Observação de entrega</LtxtDelObs>
+    <LtxtPaid>Pago</LtxtPaid>
+    <LtxtUnitPrice>Preço unitário</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Preço depois do desconto</LtxtPriceAfterDisc>
+    <LttlDraftNote>Este documento foi criado como esboço e está sugeito a aprovação</LttlDraftNote>
+    <LttlConfirmNote>Este documento requer aprovação adicional no SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Endereço de Envio</LtxtShipAdd>
+    <LtxtPayAdd>Endereço de Pagamento</LtxtPayAdd>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>e-mail</DtxtEMail>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtQty>Quantité</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Ville</DtxtCity>
+    <DtxtPhone>Téléphone</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtFor>Pour</DtxtFor>
+    <DtxtInvDueDate>À payer jusqu'au</DtxtInvDueDate>
+    <DtxtDeliveryDate>Date de livraison</DtxtDeliveryDate>
+    <DtxtComDate>Date de comunication</DtxtComDate>
+    <DtxtUnit>Unité</DtxtUnit>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtDiscount>Remise</DtxtDiscount>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtDraft>&lt;--&gt;</DtxtDraft>
+    <LttlCartPurConf>Corbeille d'achats - Confirmation d'achat</LttlCartPurConf>
+    <LtxtCurBal>Solde actuel </LtxtCurBal>
+    <LtxtOrdrBal>Solde {0}</LtxtOrdrBal>
+    <LtxtUnit>Unité</LtxtUnit>
+    <LtxtCash>Effectif</LtxtCash>
+    <LtxtCheques>Cheque</LtxtCheques>
+    <LtxtBankTran>Virement bancaire</LtxtBankTran>
+    <LtxtCredCards>Card de crédit</LtxtCredCards>
+    <LtxtSubtotal>Subtotal</LtxtSubtotal>
+    <LtxtPymntGroup>Condition de paiement</LtxtPymntGroup>
+    <LtxtDelObs>Observation de livraison</LtxtDelObs>
+    <LtxtPaid>Payé</LtxtPaid>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+    <LttlConfirmNote>&lt;--&gt;</LttlConfirmNote>
+    <LtxtShipAdd>Adresse d'envoie</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtQty>Menge</DtxtQty>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtCity>Stadt</DtxtCity>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Für</DtxtFor>
+    <DtxtInvDueDate>Zahlung fällig</DtxtInvDueDate>
+    <DtxtDeliveryDate>Lieferungsdatum</DtxtDeliveryDate>
+    <DtxtComDate>Kommunikationsdatum</DtxtComDate>
+    <DtxtUnit>Einheit</DtxtUnit>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtDiscount>Rabatt</DtxtDiscount>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtDraft>Vorlage</DtxtDraft>
+    <LttlCartPurConf>Einkaufswagen - Kaufsbestätigung</LttlCartPurConf>
+    <LtxtCurBal>Aktueller Kontostand</LtxtCurBal>
+    <LtxtOrdrBal>Summe {0}</LtxtOrdrBal>
+    <LtxtUnit>Einheit</LtxtUnit>
+    <LtxtCash>Bargeld</LtxtCash>
+    <LtxtCheques>Scheck</LtxtCheques>
+    <LtxtBankTran>Überweisung</LtxtBankTran>
+    <LtxtCredCards>Kreditkarten</LtxtCredCards>
+    <LtxtSubtotal>Zwischensumme</LtxtSubtotal>
+    <LtxtPymntGroup>Zahlungsbedingungen</LtxtPymntGroup>
+    <LtxtDelObs>Lieferung beobachten</LtxtDelObs>
+    <LtxtPaid>Bezahlt</LtxtPaid>
+    <LtxtUnitPrice>&lt;--&gt;</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>&lt;--&gt;</LtxtPriceAfterDisc>
+    <LttlDraftNote>&lt;--&gt;</LttlDraftNote>
+    <LttlConfirmNote>&lt;--&gt;</LttlConfirmNote>
+    <LtxtShipAdd>Lieferadresse</LtxtShipAdd>
+    <LtxtPayAdd>&lt;--&gt;</LtxtPayAdd>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>Электронная почта</DtxtEMail>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtQty>Сумма</DtxtQty>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtCity>Город</DtxtCity>
+    <DtxtPhone>Телефон</DtxtPhone>
+    <DtxtFax>Факс</DtxtFax>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtFor>для</DtxtFor>
+    <DtxtInvDueDate>Заплатить до</DtxtInvDueDate>
+    <DtxtDeliveryDate>Дата  поставки</DtxtDeliveryDate>
+    <DtxtComDate>Действительный до</DtxtComDate>
+    <DtxtUnit>Штука</DtxtUnit>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtDiscount>Скидка</DtxtDiscount>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtDraft>Черновик</DtxtDraft>
+    <LttlCartPurConf>Корзина - подтверждающий документ</LttlCartPurConf>
+    <LtxtCurBal>Текущий баланс</LtxtCurBal>
+    <LtxtOrdrBal>Баланс {0}</LtxtOrdrBal>
+    <LtxtUnit>Единицы</LtxtUnit>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheques>Чеки</LtxtCheques>
+    <LtxtBankTran>Банковский перевод</LtxtBankTran>
+    <LtxtCredCards>Кредитная карточка</LtxtCredCards>
+    <LtxtSubtotal>Итого</LtxtSubtotal>
+    <LtxtPymntGroup>Условия оплаты</LtxtPymntGroup>
+    <LtxtDelObs>Замечания для доставки</LtxtDelObs>
+    <LtxtPaid>Платное</LtxtPaid>
+    <LtxtUnitPrice>Цена за единицу</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Цена после скидки.</LtxtPriceAfterDisc>
+    <LttlDraftNote>Этот документ был создан в качестве проекта, и требует дополнительного подтверждения</LttlDraftNote>
+    <LttlConfirmNote>Настоящий документ не требует дополнительного утверждения в SAP одного бизнеса</LttlConfirmNote>
+    <LtxtShipAdd>Адрес доставки</LtxtShipAdd>
+    <LtxtPayAdd>Платежный адрес</LtxtPayAdd>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množství</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Město</DtxtCity>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Pro</DtxtFor>
+    <DtxtInvDueDate>Zaplatit do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Datum dodání</DtxtDeliveryDate>
+    <DtxtComDate>Datum komunikace</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtDiscount>Sleva</DtxtDiscount>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LttlCartPurConf>Košík - Potvrzení o nákupu</LttlCartPurConf>
+    <LtxtCurBal>Aktuální bilance</LtxtCurBal>
+    <LtxtOrdrBal>Bilance {0}</LtxtOrdrBal>
+    <LtxtUnit>Jednotka</LtxtUnit>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheques>Kontrola</LtxtCheques>
+    <LtxtBankTran>Bankovní převod</LtxtBankTran>
+    <LtxtCredCards>Kreditní karty</LtxtCredCards>
+    <LtxtSubtotal>Podsoučet</LtxtSubtotal>
+    <LtxtPymntGroup>Platební podmínky</LtxtPymntGroup>
+    <LtxtDelObs>Poznámky k dodání</LtxtDelObs>
+    <LtxtPaid>Zaplaceno</LtxtPaid>
+    <LtxtUnitPrice>Jednotková cena</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po slevě</LtxtPriceAfterDisc>
+    <LttlDraftNote>Tento dokument byl vytvřoen jako návrh a musí být schválen</LttlDraftNote>
+    <LttlConfirmNote>Pro tento dokument se vyžaduje dodatečné schválení v SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Dodací adresa</LtxtShipAdd>
+    <LtxtPayAdd>Adresa pro platbu</LtxtPayAdd>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Ilość</DtxtQty>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtCity>Miasto</DtxtCity>
+    <DtxtPhone>Telefon</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtFor>Dla</DtxtFor>
+    <DtxtInvDueDate>Płatne  do</DtxtInvDueDate>
+    <DtxtDeliveryDate>Data Dostawy</DtxtDeliveryDate>
+    <DtxtComDate>Ważne do </DtxtComDate>
+    <DtxtUnit>Jednostka</DtxtUnit>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtDiscount>Rabat</DtxtDiscount>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtDraft>Projekt/brudnopis</DtxtDraft>
+    <LttlCartPurConf>Koszyk - potwierdzenie zakupu</LttlCartPurConf>
+    <LtxtCurBal>Obecne saldo</LtxtCurBal>
+    <LtxtOrdrBal>Saldo {0}</LtxtOrdrBal>
+    <LtxtUnit>Jednostka</LtxtUnit>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheques>Czeki</LtxtCheques>
+    <LtxtBankTran>Przelewy bankowe</LtxtBankTran>
+    <LtxtCredCards>Karty kredytowe</LtxtCredCards>
+    <LtxtSubtotal>Suma częściowa</LtxtSubtotal>
+    <LtxtPymntGroup>Warunki płatności</LtxtPymntGroup>
+    <LtxtDelObs>Uwagi do dostawy</LtxtDelObs>
+    <LtxtPaid>Zapłacone</LtxtPaid>
+    <LtxtUnitPrice>Cena jednostki</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po rabacie</LtxtPriceAfterDisc>
+    <LttlDraftNote>Ten dokument został stworzony jako projekt i wymaga zatwierdzenia</LttlDraftNote>
+    <LttlConfirmNote>Ten dokument wymaga dodatkowego zatwierdzenia w SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Adres do wysyłki</LtxtShipAdd>
+    <LtxtPayAdd>Adres do faktury</LtxtPayAdd>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>E-Mail</DtxtEMail>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtQty>Množstvo</DtxtQty>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtCity>Mesto</DtxtCity>
+    <DtxtPhone>Telefón</DtxtPhone>
+    <DtxtFax>Fax</DtxtFax>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtFor>Pre</DtxtFor>
+    <DtxtInvDueDate>Splatnosť</DtxtInvDueDate>
+    <DtxtDeliveryDate>Termín doručenia</DtxtDeliveryDate>
+    <DtxtComDate>Dátum komunikácie</DtxtComDate>
+    <DtxtUnit>Jednotka</DtxtUnit>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtDiscount>Zľava</DtxtDiscount>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtDraft>Návrh</DtxtDraft>
+    <LttlCartPurConf>Košík - Potvrdenie nákupu</LttlCartPurConf>
+    <LtxtCurBal>Aktuálny zostatok</LtxtCurBal>
+    <LtxtOrdrBal>Zostatok {0}</LtxtOrdrBal>
+    <LtxtUnit>Jednotka</LtxtUnit>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheques>Šek</LtxtCheques>
+    <LtxtBankTran>Bankový prevod</LtxtBankTran>
+    <LtxtCredCards>Kreditné karty</LtxtCredCards>
+    <LtxtSubtotal>Medzisúčet</LtxtSubtotal>
+    <LtxtPymntGroup>Platobné podmienky</LtxtPymntGroup>
+    <LtxtDelObs>Poznámky o dodaní</LtxtDelObs>
+    <LtxtPaid>Uhradené</LtxtPaid>
+    <LtxtUnitPrice>Jednotková cena</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>Cena po zľave</LtxtPriceAfterDisc>
+    <LttlDraftNote>Tento dokument bol vytvorený ako návrh a je subjektom na schválenie</LttlDraftNote>
+    <LttlConfirmNote>Tento dokument vyžaduje dodatočné schválenie v SAP Business One</LttlConfirmNote>
+    <LtxtShipAdd>Dodacia adresa</LtxtShipAdd>
+    <LtxtPayAdd>Platobná adresa</LtxtPayAdd>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtEMail>DtxtEMail</DtxtEMail>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtQty>DtxtQty</DtxtQty>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtCity>DtxtCity</DtxtCity>
+    <DtxtPhone>DtxtPhone</DtxtPhone>
+    <DtxtFax>DtxtFax</DtxtFax>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtFor>DtxtFor</DtxtFor>
+    <DtxtInvDueDate>DtxtInvDueDate</DtxtInvDueDate>
+    <DtxtDeliveryDate>DtxtDeliveryDate</DtxtDeliveryDate>
+    <DtxtComDate>DtxtComDate</DtxtComDate>
+    <DtxtUnit>DtxtUnit</DtxtUnit>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtDiscount>DtxtDiscount</DtxtDiscount>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtDraft>DtxtDraft</DtxtDraft>
+    <LttlCartPurConf>LttlCartPurConf</LttlCartPurConf>
+    <LtxtCurBal>LtxtCurBal</LtxtCurBal>
+    <LtxtOrdrBal>LtxtOrdrBal</LtxtOrdrBal>
+    <LtxtUnit>LtxtUnit</LtxtUnit>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheques>LtxtCheques</LtxtCheques>
+    <LtxtBankTran>LtxtBankTran</LtxtBankTran>
+    <LtxtCredCards>LtxtCredCards</LtxtCredCards>
+    <LtxtSubtotal>LtxtSubtotal</LtxtSubtotal>
+    <LtxtPymntGroup>LtxtPymntGroup</LtxtPymntGroup>
+    <LtxtDelObs>LtxtDelObs</LtxtDelObs>
+    <LtxtPaid>LtxtPaid</LtxtPaid>
+    <LtxtUnitPrice>LtxtUnitPrice</LtxtUnitPrice>
+    <LtxtPriceAfterDisc>LtxtPriceAfterDisc</LtxtPriceAfterDisc>
+    <LttlDraftNote>LttlDraftNote</LttlDraftNote>
+    <LttlConfirmNote>LttlConfirmNote</LttlConfirmNote>
+    <LtxtShipAdd>LtxtShipAdd</LtxtShipAdd>
+    <LtxtPayAdd>LtxtPayAdd</LtxtPayAdd>
+  </language>
+</languages>

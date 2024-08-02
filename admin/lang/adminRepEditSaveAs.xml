@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCopy>Copy</DtxtCopy>
+    <LttlRepSaveAs>Report - Save As...</LttlRepSaveAs>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCopy>Copia</DtxtCopy>
+    <LttlRepSaveAs>Reporte - Guardar como...</LttlRepSaveAs>
+    <LtxtValRepNam>Debe introducir el nombre del reporte</LtxtValRepNam>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtName>שם</DtxtName>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtCopy>העתק</DtxtCopy>
+    <LttlRepSaveAs>דוחות - שמור בשם...</LttlRepSaveAs>
+    <LtxtValRepNam>חסר שם לדוח!</LtxtValRepNam>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtCopy>Copy</DtxtCopy>
+    <LttlRepSaveAs>Report - Save As...</LttlRepSaveAs>
+    <LtxtValRepNam>Please enter the report name</LtxtValRepNam>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtName>Nome</DtxtName>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtCopy>Cópia</DtxtCopy>
+    <LttlRepSaveAs>Relatório - Salvar como</LttlRepSaveAs>
+    <LtxtValRepNam>Deve inserir o nome do relatório</LtxtValRepNam>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtName>Nom</DtxtName>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtCopy>&lt;--&gt;</DtxtCopy>
+    <LttlRepSaveAs>&lt;--&gt;</LttlRepSaveAs>
+    <LtxtValRepNam>Devez-vous insérer le nom du report</LtxtValRepNam>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtName>Name</DtxtName>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtCopy>Kopieren</DtxtCopy>
+    <LttlRepSaveAs>&lt;--&gt;</LttlRepSaveAs>
+    <LtxtValRepNam>Bitte geben Sie einen Berichtnamen an</LtxtValRepNam>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtName>Имя</DtxtName>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtCopy>Копировать</DtxtCopy>
+    <LttlRepSaveAs>Отчеты - Сохранить как ...</LttlRepSaveAs>
+    <LtxtValRepNam>Не хватает имени отчета!</LtxtValRepNam>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCopy>Kopírovat</DtxtCopy>
+    <LttlRepSaveAs>Report - Uložit jako...</LttlRepSaveAs>
+    <LtxtValRepNam>Vložte prosím jméno reportu</LtxtValRepNam>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtCopy>Kopiuj</DtxtCopy>
+    <LttlRepSaveAs>Raport - zapisz jako…</LttlRepSaveAs>
+    <LtxtValRepNam>Proszę wprowadź nazwę raportu!</LtxtValRepNam>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtName>Názov</DtxtName>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtCopy>Skopírovať</DtxtCopy>
+    <LttlRepSaveAs>Výkaz - Uložiť ako...</LttlRepSaveAs>
+    <LtxtValRepNam>Prosím, zadajte názov výkazu</LtxtValRepNam>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtCopy>&lt;--&gt;</DtxtCopy>
+    <LttlRepSaveAs>&lt;--&gt;</LttlRepSaveAs>
+    <LtxtValRepNam>&lt;--&gt;</LtxtValRepNam>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtCopy>DtxtCopy</DtxtCopy>
+    <LttlRepSaveAs>LttlRepSaveAs</LttlRepSaveAs>
+    <LtxtValRepNam>LtxtValRepNam</LtxtValRepNam>
+  </language>
+</languages>

@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtExpand>Expand</DtxtExpand>
+    <DtxtCollapse>Collapse</DtxtCollapse>
+    <LttlRepLst>Report List</LttlRepLst>
+    <LttlRepLstNote>Here created reports as well as the groups they belong to are displayed.</LttlRepLstNote>
+    <LtxtConfDelQry>Are you sure you want to delete the query {0}?</LtxtConfDelQry>
+    <LttlGrpNote>Here the Report Groups and whether they are active may be defined.</LttlGrpNote>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>At least one group must be created to create a report</LtxtValNoGrp>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtImport>Import</LtxtImport>
+    <LtxtExport>Export</LtxtExport>
+    <LtxtLastUpdate>Last Update</LtxtLastUpdate>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtUser>Usuario</DtxtUser>
+    <DtxtAccess>Acceso</DtxtAccess>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtExpand>Expandir</DtxtExpand>
+    <DtxtCollapse>Colapsar</DtxtCollapse>
+    <LttlRepLst>Listado de Reportes</LttlRepLst>
+    <LttlRepLstNote>En esta sección podrá observar los reportes creados y el grupo al que pertenece cada uno.</LttlRepLstNote>
+    <LtxtConfDelQry>¿Está seguro que desea eliminar la consulta {0}?</LtxtConfDelQry>
+    <LttlGrpNote>En esta sección podrá definir los grupos de reportes y quienes tienen acceso a estos grupos.</LttlGrpNote>
+    <LtxtSuperUser>SuperUsuario</LtxtSuperUser>
+    <LtxtConfDelGrp>¿Está seguro que desea eliminar el grupo {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Debe tener por lo menos un grupo creado para crear un reporte</LtxtValNoGrp>
+    <LtxtValGrpNam>Debe introducir el nombre del grupo</LtxtValGrpNam>
+    <LtxtImport>Importar</LtxtImport>
+    <LtxtExport>Exportar</LtxtExport>
+    <LtxtLastUpdate>Ultima Actualización</LtxtLastUpdate>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtName>שם</DtxtName>
+    <DtxtUser>משתמש</DtxtUser>
+    <DtxtAccess>כניסה</DtxtAccess>
+    <DtxtGroups>קבוצות</DtxtGroups>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtExpand>הרחב</DtxtExpand>
+    <DtxtCollapse>הסתר</DtxtCollapse>
+    <LttlRepLst>רשימת דוחות</LttlRepLst>
+    <LttlRepLstNote>בחלק זה תוכל לראות את הדוחות הקיימים ולאילו קבוצות הם שייכים, בלחיצה על חץ הקישור לדוח תוכל לערוך את הדוח.</LttlRepLstNote>
+    <LtxtConfDelQry>האם למחוק שאילתא {0}?</LtxtConfDelQry>
+    <LttlGrpNote>בחלק זה תוכל להגדיר קבוצות לדוחות ולקבוע למי יהיה אפשרות לראות את הקבוצות הנ"ל</LttlGrpNote>
+    <LtxtSuperUser>משתמש בכיר</LtxtSuperUser>
+    <LtxtConfDelGrp>האם למחוק קבוצה {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>צריך להיות לפחות קבוצה אחת קיימת בשביל לייצור דוח חדש</LtxtValNoGrp>
+    <LtxtValGrpNam>יש לתת שם לקבוצה</LtxtValGrpNam>
+    <LtxtImport>יבוא</LtxtImport>
+    <LtxtExport>יצוא</LtxtExport>
+    <LtxtLastUpdate>עידכון אחרון</LtxtLastUpdate>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtUser>User</DtxtUser>
+    <DtxtAccess>Access</DtxtAccess>
+    <DtxtGroups>Groups</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>New</DtxtNew>
+    <DtxtAll>All</DtxtAll>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtExpand>Expand</DtxtExpand>
+    <DtxtCollapse>Collapse</DtxtCollapse>
+    <LttlRepLst>Report List</LttlRepLst>
+    <LttlRepLstNote>Here created reports as well as the groups they belong to are displayed.</LttlRepLstNote>
+    <LtxtConfDelQry>Are you sure you want to delete the query {0}?</LtxtConfDelQry>
+    <LttlGrpNote>Here the Report Groups and whether they are active may be defined.</LttlGrpNote>
+    <LtxtSuperUser>Super User</LtxtSuperUser>
+    <LtxtConfDelGrp>Are you sure you want to delete group {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>At least one group must be created to create a report</LtxtValNoGrp>
+    <LtxtValGrpNam>Please enter the group\'s name</LtxtValGrpNam>
+    <LtxtImport>Import</LtxtImport>
+    <LtxtExport>Export</LtxtExport>
+    <LtxtLastUpdate>Last Update</LtxtLastUpdate>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtName>Nome</DtxtName>
+    <DtxtUser>Usuário</DtxtUser>
+    <DtxtAccess>Acesso</DtxtAccess>
+    <DtxtGroups>Grupos</DtxtGroups>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtExpand>Expandir</DtxtExpand>
+    <DtxtCollapse>Comprimir</DtxtCollapse>
+    <LttlRepLst>Lista de Relatórios</LttlRepLst>
+    <LttlRepLstNote>Nesta seção, poderá observar os relatórios criados e o grupo ao que pertence cada um.</LttlRepLstNote>
+    <LtxtConfDelQry>Você tem certeza que deseja excluir a consulta {0}? </LtxtConfDelQry>
+    <LttlGrpNote>Nesta seção, poderá definir os grupos de relatórios e quem têm acesso a estes grupos.</LttlGrpNote>
+    <LtxtSuperUser>SuperUsuário</LtxtSuperUser>
+    <LtxtConfDelGrp>Você tem certeza que deseja excluir o grupo{0}? </LtxtConfDelGrp>
+    <LtxtValNoGrp>Deve ter pelo menos um grupo criado para criar um relatório</LtxtValNoGrp>
+    <LtxtValGrpNam>Deve inserir o nome do grupo</LtxtValGrpNam>
+    <LtxtImport>Importar</LtxtImport>
+    <LtxtExport>Exportar</LtxtExport>
+    <LtxtLastUpdate>Última Atualização </LtxtLastUpdate>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtName>Nom</DtxtName>
+    <DtxtUser>Utilisateur</DtxtUser>
+    <DtxtAccess>Accès</DtxtAccess>
+    <DtxtGroups>Groupes</DtxtGroups>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtExpand>&lt;--&gt;</DtxtExpand>
+    <DtxtCollapse>&lt;--&gt;</DtxtCollapse>
+    <LttlRepLst>Liste des reports</LttlRepLst>
+    <LttlRepLstNote>Dans cette section vous pourrez observer les report crées et le groupe auquel appartiens chaque un.</LttlRepLstNote>
+    <LtxtConfDelQry>Êtes-vous sûre d\'éliminer la consultation {0}?</LtxtConfDelQry>
+    <LttlGrpNote>Dans cette section vous pourrez déterminer les groupes de reports et lesquels qui ont l'accès à ces groupes </LttlGrpNote>
+    <LtxtSuperUser>SuperUtilisateur</LtxtSuperUser>
+    <LtxtConfDelGrp>Êtes-vous sûre d\'éliminer le groupe {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Devez-vous avoir au moins un groupe crée à fin de créer un report</LtxtValNoGrp>
+    <LtxtValGrpNam>Devez-vous insérer le nom du proupe</LtxtValGrpNam>
+    <LtxtImport>Importer</LtxtImport>
+    <LtxtExport>Exporter</LtxtExport>
+    <LtxtLastUpdate>Dernière Mise à jour</LtxtLastUpdate>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtName>Name</DtxtName>
+    <DtxtUser>Benutzer</DtxtUser>
+    <DtxtAccess>Zugang</DtxtAccess>
+    <DtxtGroups>Gruppen</DtxtGroups>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtExpand>Vergrössern</DtxtExpand>
+    <DtxtCollapse>Kollabieren</DtxtCollapse>
+    <LttlRepLst>Berichtsliste</LttlRepLst>
+    <LttlRepLstNote>In diesem Bereich kann man erstellte Berichte und die dazugehörigen Gruppen einsehen.</LttlRepLstNote>
+    <LtxtConfDelQry>Möchten Sie die Anfrage {0} wirklich löschen?</LtxtConfDelQry>
+    <LttlGrpNote>In diesem Bereich kann man die Berichtsgruppen festlegen, und wer Zugang zu den Gruppen hat.</LttlGrpNote>
+    <LtxtSuperUser>Super Benutzer</LtxtSuperUser>
+    <LtxtConfDelGrp>Möchten Sie die Gruppe {0} wirklich löschen?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Es muss mindestens eine Gruppe vorhanden sein um einen Bericht zu erstellen</LtxtValNoGrp>
+    <LtxtValGrpNam>Bitte geben Sie den Gruppen-Namen ein</LtxtValGrpNam>
+    <LtxtImport>Importieren</LtxtImport>
+    <LtxtExport>Exportieren</LtxtExport>
+    <LtxtLastUpdate>Letzte Akrualisierung</LtxtLastUpdate>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtName>Имя</DtxtName>
+    <DtxtUser>Пользователь</DtxtUser>
+    <DtxtAccess>Вход</DtxtAccess>
+    <DtxtGroups>Группы</DtxtGroups>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtExpand>Развернуть</DtxtExpand>
+    <DtxtCollapse>Прятать</DtxtCollapse>
+    <LttlRepLst>Список отчетов</LttlRepLst>
+    <LttlRepLstNote>В этом разделе можно увидеть созданные отчеты, а также группы, к которой каждый принадлежит.</LttlRepLstNote>
+    <LtxtConfDelQry>Вы уверены, что хотите удалить запрос {0}?</LtxtConfDelQry>
+    <LttlGrpNote>В этом разделе можно определить группу докладов, а также кто имеет доступ к этим группам.</LttlGrpNote>
+    <LtxtSuperUser>Главный пользователь</LtxtSuperUser>
+    <LtxtConfDelGrp>Вы уверены, что хотите удалить группу {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>По крайней мере одна группа должна быть создана для создания отчетов</LtxtValNoGrp>
+    <LtxtValGrpNam>Пожалуйста, введите название группы</LtxtValGrpNam>
+    <LtxtImport>Импорт</LtxtImport>
+    <LtxtExport>Экспорт</LtxtExport>
+    <LtxtLastUpdate>Последние обновления</LtxtLastUpdate>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtUser>Uživatel</DtxtUser>
+    <DtxtAccess>Přístup</DtxtAccess>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtExpand>Rozbalit</DtxtExpand>
+    <DtxtCollapse>Sbalit</DtxtCollapse>
+    <LttlRepLst>Seznam reportů</LttlRepLst>
+    <LttlRepLstNote>V této sekci je možné vidět vytvořené reporty a skupiny, ke kterým jsou přiřazené.</LttlRepLstNote>
+    <LtxtConfDelQry>Jste si jistý/á, že chcete vymazat dotaz {0}?</LtxtConfDelQry>
+    <LttlGrpNote>V této sekci je možné definovat skupiny reportů a to, kdo k těmto skupinám může mít přístup.</LttlGrpNote>
+    <LtxtSuperUser>Nadřazený uživatel</LtxtSuperUser>
+    <LtxtConfDelGrp>Jste si jistý/á, že chcete vymazat skupinu {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Pro vytvoření musí být vytvořená aspoň jedna skupina</LtxtValNoGrp>
+    <LtxtValGrpNam>Zadejte prosím název skupiny</LtxtValGrpNam>
+    <LtxtImport>Import</LtxtImport>
+    <LtxtExport>Export</LtxtExport>
+    <LtxtLastUpdate>Poslední aktualizace</LtxtLastUpdate>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtUser>Użytkownik</DtxtUser>
+    <DtxtAccess>Dostęp</DtxtAccess>
+    <DtxtGroups>Grupy materiałów</DtxtGroups>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtExpand>Poszerz</DtxtExpand>
+    <DtxtCollapse>Ukryj</DtxtCollapse>
+    <LttlRepLst>Lista raportów</LttlRepLst>
+    <LttlRepLstNote>Tutaj wyświetlane są stworzone raporty oraz grupy, do których należą</LttlRepLstNote>
+    <LtxtConfDelQry>Czy jesteś pewien, że chcesz skasować zapytanie {0}?</LtxtConfDelQry>
+    <LttlGrpNote>Tutaj można zdefiniować Grupy Raportów oraz czy są one aktywne</LttlGrpNote>
+    <LtxtSuperUser>Super Użytkownik</LtxtSuperUser>
+    <LtxtConfDelGrp>Czy jesteś pewien, że chcesz skasować grupę {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Musi istnieć przynajmniej jedna grupa, aby stworzyć raport</LtxtValNoGrp>
+    <LtxtValGrpNam>Proszę wprowadź nazwę grupy</LtxtValGrpNam>
+    <LtxtImport>Import</LtxtImport>
+    <LtxtExport>Export</LtxtExport>
+    <LtxtLastUpdate>Ostatnia aktualizacja</LtxtLastUpdate>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtName>Názov</DtxtName>
+    <DtxtUser>Užívateľ</DtxtUser>
+    <DtxtAccess>Prístup</DtxtAccess>
+    <DtxtGroups>Skupiny</DtxtGroups>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtExpand>Rozbaliť</DtxtExpand>
+    <DtxtCollapse>Zbaliť</DtxtCollapse>
+    <LttlRepLst>Zoznam výkazov</LttlRepLst>
+    <LttlRepLstNote>Tu sú zobrazené vytvorené výkazy rovnako ako skupiny, do ktorých patria.</LttlRepLstNote>
+    <LtxtConfDelQry>Ste si istí, že chcete zmazať zadanie {0}?</LtxtConfDelQry>
+    <LttlGrpNote>Tu sa dajú definovať Skupiny výkazov a či sú aktívne.</LttlGrpNote>
+    <LtxtSuperUser>Superužívateľ</LtxtSuperUser>
+    <LtxtConfDelGrp>Ste si istí, že chcete zmazať skupinu {0}?</LtxtConfDelGrp>
+    <LtxtValNoGrp>Na vytvorenie výkazu musí byť vytvorená aspoň jedna skupina</LtxtValNoGrp>
+    <LtxtValGrpNam>Prosím zadajte názov skupiny</LtxtValGrpNam>
+    <LtxtImport>Importovanie</LtxtImport>
+    <LtxtExport>Exportovanie</LtxtExport>
+    <LtxtLastUpdate>Posledná aktualizácia</LtxtLastUpdate>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtUser>&lt;--&gt;</DtxtUser>
+    <DtxtAccess>&lt;--&gt;</DtxtAccess>
+    <DtxtGroups>&lt;--&gt;</DtxtGroups>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtNew>&lt;--&gt;</DtxtNew>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtExpand>&lt;--&gt;</DtxtExpand>
+    <DtxtCollapse>&lt;--&gt;</DtxtCollapse>
+    <LttlRepLst>&lt;--&gt;</LttlRepLst>
+    <LttlRepLstNote>&lt;--&gt;</LttlRepLstNote>
+    <LtxtConfDelQry>&lt;--&gt;</LtxtConfDelQry>
+    <LttlGrpNote>&lt;--&gt;</LttlGrpNote>
+    <LtxtSuperUser>&lt;--&gt;</LtxtSuperUser>
+    <LtxtConfDelGrp>&lt;--&gt;</LtxtConfDelGrp>
+    <LtxtValNoGrp>&lt;--&gt;</LtxtValNoGrp>
+    <LtxtValGrpNam>&lt;--&gt;</LtxtValGrpNam>
+    <LtxtImport>&lt;--&gt;</LtxtImport>
+    <LtxtExport>&lt;--&gt;</LtxtExport>
+    <LtxtLastUpdate>&lt;--&gt;</LtxtLastUpdate>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtUser>DtxtUser</DtxtUser>
+    <DtxtAccess>DtxtAccess</DtxtAccess>
+    <DtxtGroups>DtxtGroups</DtxtGroups>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtExpand>DtxtExpand</DtxtExpand>
+    <DtxtCollapse>DtxtCollapse</DtxtCollapse>
+    <LttlRepLst>LttlRepLst</LttlRepLst>
+    <LttlRepLstNote>LttlRepLstNote</LttlRepLstNote>
+    <LtxtConfDelQry>LtxtConfDelQry</LtxtConfDelQry>
+    <LttlGrpNote>LttlGrpNote</LttlGrpNote>
+    <LtxtSuperUser>LtxtSuperUser</LtxtSuperUser>
+    <LtxtConfDelGrp>LtxtConfDelGrp</LtxtConfDelGrp>
+    <LtxtValNoGrp>LtxtValNoGrp</LtxtValNoGrp>
+    <LtxtValGrpNam>LtxtValGrpNam</LtxtValGrpNam>
+    <LtxtImport>LtxtImport</LtxtImport>
+    <LtxtExport>LtxtExport</LtxtExport>
+    <LtxtLastUpdate>LtxtLastUpdate</LtxtLastUpdate>
+  </language>
+</languages>

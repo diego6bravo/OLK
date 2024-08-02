@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>View</DtxtView>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LtxtConfUpdSO>The Sales Opportunity #{0} was updated successfully.</LtxtConfUpdSO>
+    <LtxtConfAddSO>The Sales Opportunity #{0} was added successfully.</LtxtConfAddSO>
+    <LtxtCreateNewSO>Create another sales opportunity</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Ver</DtxtView>
+    <DtxtSO>Oportunidad de Venta</DtxtSO>
+    <LtxtConfUpdSO>La Oportunidad de Venta N°{0} fue actualizada con éxito.</LtxtConfUpdSO>
+    <LtxtConfAddSO>La Oportunidad de Venta N°{0} fue agregada con éxito.</LtxtConfAddSO>
+    <LtxtCreateNewSO>Crear otra oportunidad de venta</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtView>ראה</DtxtView>
+    <DtxtSO>הזדמנות מכירה</DtxtSO>
+    <LtxtConfUpdSO>הזדמנות המכירה #{0} התעדכנה בהצלחה</LtxtConfUpdSO>
+    <LtxtConfAddSO>הזדמנות המכירה #{0} התווספה בהצלחה.</LtxtConfAddSO>
+    <LtxtCreateNewSO>צור הזדמנות מכירה נוספת</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>View</DtxtView>
+    <DtxtSO>Sales Opportunity</DtxtSO>
+    <LtxtConfUpdSO>The Sales Opportunity #{0} was updated successfully.</LtxtConfUpdSO>
+    <LtxtConfAddSO>The Sales Opportunity #{0} was added successfully.</LtxtConfAddSO>
+    <LtxtCreateNewSO>Create another sales opportunity</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Ver</DtxtView>
+    <DtxtSO>Oportunidade de Venda</DtxtSO>
+    <LtxtConfUpdSO>A Oportunidade de Venda Nº {0} foi atualizada com sucesso.</LtxtConfUpdSO>
+    <LtxtConfAddSO>A Oportunidade de Venda Nº {0} foi adicionada com sucesso.</LtxtConfAddSO>
+    <LtxtCreateNewSO>Criar outra oportunidade de venda</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Voir</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Ansicht</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Смотри</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Zobrazit</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Podgląd</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>Zobraziť</DtxtView>
+    <DtxtSO>&lt;--&gt;</DtxtSO>
+    <LtxtConfUpdSO>&lt;--&gt;</LtxtConfUpdSO>
+    <LtxtConfAddSO>&lt;--&gt;</LtxtConfAddSO>
+    <LtxtCreateNewSO>&lt;--&gt;</LtxtCreateNewSO>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtView>DtxtView</DtxtView>
+    <DtxtSO>DtxtSO</DtxtSO>
+    <LtxtConfUpdSO>LtxtConfUpdSO</LtxtConfUpdSO>
+    <LtxtConfAddSO>LtxtConfAddSO</LtxtConfAddSO>
+    <LtxtCreateNewSO>LtxtCreateNewSO</LtxtCreateNewSO>
+  </language>
+</languages>

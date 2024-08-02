@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlProm>Promotions</LttlProm>
+    <LtxtBefore>Before</LtxtBefore>
+    <LtxtExpires>Expires</LtxtExpires>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nuevo</DtxtNew>
+    <DtxtSalUnit>Un. Venta</DtxtSalUnit>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LttlProm>Promociones</LttlProm>
+    <LtxtBefore>Antes</LtxtBefore>
+    <LtxtExpires>Expira</LtxtExpires>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtNew>חדש</DtxtNew>
+    <DtxtSalUnit>יח' מכירה</DtxtSalUnit>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LttlProm>מבצעים</LttlProm>
+    <LtxtBefore>לפני</LtxtBefore>
+    <LtxtExpires>ניגמר ב</LtxtExpires>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>New</DtxtNew>
+    <DtxtSalUnit>Sales Unit</DtxtSalUnit>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LttlProm>Promotions</LttlProm>
+    <LtxtBefore>Before</LtxtBefore>
+    <LtxtExpires>Expires</LtxtExpires>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Novo</DtxtNew>
+    <DtxtSalUnit>Un. Venda</DtxtSalUnit>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtNoData>Não tem dados para mostrar!</DtxtNoData>
+    <LttlProm>Promoções</LttlProm>
+    <LtxtBefore>Antes</LtxtBefore>
+    <LtxtExpires>Expira</LtxtExpires>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nouveau</DtxtNew>
+    <DtxtSalUnit>Unité vente</DtxtSalUnit>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LttlProm>Promotions</LttlProm>
+    <LtxtBefore>Avant</LtxtBefore>
+    <LtxtExpires>Il expire</LtxtExpires>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Neu</DtxtNew>
+    <DtxtSalUnit>Verkaufseinheit</DtxtSalUnit>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LttlProm>Sonderangebote</LttlProm>
+    <LtxtBefore>Vorher</LtxtBefore>
+    <LtxtExpires>Läuft ab</LtxtExpires>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Новый</DtxtNew>
+    <DtxtSalUnit>Шт  для продажи</DtxtSalUnit>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LttlProm>Акции</LttlProm>
+    <LtxtBefore>До</LtxtBefore>
+    <LtxtExpires>Закончилась в</LtxtExpires>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtSalUnit>Prodejní jednotka</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LttlProm>Promoce</LttlProm>
+    <LtxtBefore>Před</LtxtBefore>
+    <LtxtExpires>Expiruje</LtxtExpires>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nowy</DtxtNew>
+    <DtxtSalUnit>Jednostka sprzedaży</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LttlProm>Promocje</LttlProm>
+    <LtxtBefore>Przed</LtxtBefore>
+    <LtxtExpires>Wygasa</LtxtExpires>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>Nový</DtxtNew>
+    <DtxtSalUnit>Predajná jednotka</DtxtSalUnit>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LttlProm>Špeciálne akcie</LttlProm>
+    <LtxtBefore>Pred</LtxtBefore>
+    <LtxtExpires>Expiruje</LtxtExpires>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtNew>DtxtNew</DtxtNew>
+    <DtxtSalUnit>DtxtSalUnit</DtxtSalUnit>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LttlProm>LttlProm</LttlProm>
+    <LtxtBefore>LtxtBefore</LtxtBefore>
+    <LtxtExpires>LtxtExpires</LtxtExpires>
+  </language>
+</languages>

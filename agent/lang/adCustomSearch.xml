@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalog</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtList>List</DtxtList>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <DtxtIn>In</DtxtIn>
+    <DtxtNotIn>Not In</DtxtNotIn>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventory greater than</LtxtInvMoreThen>
+    <LtxtItmImg>Item with Images</LtxtItmImg>
+    <LtxtNewItms>New Items</LtxtNewItms>
+    <LtxtPromOnly>Promotions only</LtxtPromOnly>
+    <LtxtInWL>In wish list</LtxtInWL>
+    <LtxtCatalogType>View type</LtxtCatalogType>
+    <LtxtCreateDat>Creation D.</LtxtCreateDat>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtDoc>Document</LtxtDoc>
+    <LtxtDocNum>Document #</LtxtDocNum>
+    <LtxtWithoutPrice>No price</LtxtWithoutPrice>
+    <LtxtDocPrice>Document Price</LtxtDocPrice>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtValDocCatNum>Please enter the document number you wish to catalog</LtxtValDocCatNum>
+    <LtxtValDocDocType>Please select the document source you wish to catalog</LtxtValDocDocType>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtDocs>Documents</LtxtDocs>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Desde</DtxtFrom>
+    <DtxtTo>Hasta</DtxtTo>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtStore>Tienda</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtPrice>Precio</DtxtPrice>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contacto</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Proveedor</DtxtSupplier>
+    <DtxtBPCode>Código SN</DtxtBPCode>
+    <DtxtList>Lista</DtxtList>
+    <DtxtProp>Propiedades</DtxtProp>
+    <DtxtAnd>Y</DtxtAnd>
+    <DtxtOr>O</DtxtOr>
+    <DtxtIn>Entre</DtxtIn>
+    <DtxtNotIn>No Entre</DtxtNotIn>
+    <DtxtExact>Exacto</DtxtExact>
+    <DtxtLike>Similar</DtxtLike>
+    <LtxtEnterFld>Debe introducir el campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Seleccione/Introduzca</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventario mayor que</LtxtInvMoreThen>
+    <LtxtItmImg>Artículo con imágenes</LtxtItmImg>
+    <LtxtNewItms>Artículos nuevos</LtxtNewItms>
+    <LtxtPromOnly>Promociones solamente</LtxtPromOnly>
+    <LtxtInWL>En lista de deseos</LtxtInWL>
+    <LtxtCatalogType>Tipo de vista</LtxtCatalogType>
+    <LtxtCreateDat>F. Creación</LtxtCreateDat>
+    <LtxtPriceList>Lista de precios</LtxtPriceList>
+    <LtxtDoc>Documento</LtxtDoc>
+    <LtxtDocNum>N° Documento</LtxtDocNum>
+    <LtxtWithoutPrice>Sin precio</LtxtWithoutPrice>
+    <LtxtDocPrice>Precio documento</LtxtDocPrice>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtValDocCatNum>Debe introducir el número del documento que desea catalogar</LtxtValDocCatNum>
+    <LtxtValDocDocType>Seleccione el documento fuente que desea catalogar</LtxtValDocDocType>
+    <LtxtInventory>Inventario</LtxtInventory>
+    <LtxtDocs>Documentos</LtxtDocs>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtName>שם</DtxtName>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtFrom>מ-</DtxtFrom>
+    <DtxtTo>עד-</DtxtTo>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtStore>חנות</DtxtStore>
+    <DtxtCat>קטלוג</DtxtCat>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtCountry>ארץ</DtxtCountry>
+    <DtxtType>סוג</DtxtType>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtDocs>מסמכים</DtxtDocs>
+    <DtxtPrice>מחיר</DtxtPrice>
+    <DtxtLead>ליד</DtxtLead>
+    <DtxtContact>איש קשר</DtxtContact>
+    <DtxtAsc>א-ת</DtxtAsc>
+    <DtxtDesc>ת-א</DtxtDesc>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtBalance>יתרה</DtxtBalance>
+    <DtxtOLK>אולק</DtxtOLK>
+    <DtxtSupplier>ספק</DtxtSupplier>
+    <DtxtBPCode>קוד כרטיס</DtxtBPCode>
+    <DtxtList>רשימה</DtxtList>
+    <DtxtProp>מאפיינים</DtxtProp>
+    <DtxtAnd>וגם</DtxtAnd>
+    <DtxtOr>או</DtxtOr>
+    <DtxtIn>בתוך</DtxtIn>
+    <DtxtNotIn>לא בתוך</DtxtNotIn>
+    <DtxtExact>מדוייק</DtxtExact>
+    <DtxtLike>דומה</DtxtLike>
+    <LtxtEnterFld>יש למלא את שדה {0}</LtxtEnterFld>
+    <LtxtSelectEnter>בחר/הכנס</LtxtSelectEnter>
+    <LtxtInvMoreThen>מלאי גדול מ</LtxtInvMoreThen>
+    <LtxtItmImg>פריטים עם תמונה</LtxtItmImg>
+    <LtxtNewItms>פריטים חדשים</LtxtNewItms>
+    <LtxtPromOnly>מבצעים בלבד</LtxtPromOnly>
+    <LtxtInWL>ברשימת המשאלות</LtxtInWL>
+    <LtxtCatalogType>אופן תצוגה</LtxtCatalogType>
+    <LtxtCreateDat>תאריך רישום</LtxtCreateDat>
+    <LtxtPriceList>מחירונים</LtxtPriceList>
+    <LtxtDoc>מסמכים</LtxtDoc>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtWithoutPrice>ללא מחיר</LtxtWithoutPrice>
+    <LtxtDocPrice>מחיר המסמך</LtxtDocPrice>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtPur>קניה</LtxtPur>
+    <LtxtValDocCatNum>צריך לשים את מספר המסמך שאתה רוצה להציג</LtxtValDocCatNum>
+    <LtxtValDocDocType>בחר את מסמך המקור שאתה מעוניין להציג</LtxtValDocDocType>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtDocs>מסמכים</LtxtDocs>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtFrom>From</DtxtFrom>
+    <DtxtTo>To</DtxtTo>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtStore>Store</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>All</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtCountry>Country</DtxtCountry>
+    <DtxtType>Type</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtPrice>Price</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Ascending</DtxtAsc>
+    <DtxtDesc>Descending</DtxtDesc>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtBalance>Balance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Suppliers</DtxtSupplier>
+    <DtxtBPCode>BP Code</DtxtBPCode>
+    <DtxtList>List</DtxtList>
+    <DtxtProp>Properties</DtxtProp>
+    <DtxtAnd>And</DtxtAnd>
+    <DtxtOr>Or</DtxtOr>
+    <DtxtIn>In</DtxtIn>
+    <DtxtNotIn>Not In</DtxtNotIn>
+    <DtxtExact>Exact</DtxtExact>
+    <DtxtLike>Like</DtxtLike>
+    <LtxtEnterFld>Please enter the field "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Select/Enter</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventory greater than</LtxtInvMoreThen>
+    <LtxtItmImg>Item with Images</LtxtItmImg>
+    <LtxtNewItms>New Items</LtxtNewItms>
+    <LtxtPromOnly>Promotions only</LtxtPromOnly>
+    <LtxtInWL>In wish list</LtxtInWL>
+    <LtxtCatalogType>View type</LtxtCatalogType>
+    <LtxtCreateDat>Creation D.</LtxtCreateDat>
+    <LtxtPriceList>Price List</LtxtPriceList>
+    <LtxtDoc>Document</LtxtDoc>
+    <LtxtDocNum>Document #</LtxtDocNum>
+    <LtxtWithoutPrice>No price</LtxtWithoutPrice>
+    <LtxtDocPrice>Document Price</LtxtDocPrice>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtValDocCatNum>Please enter the document number you wish to catalog</LtxtValDocCatNum>
+    <LtxtValDocDocType>Please select the document source you wish to catalog</LtxtValDocDocType>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtDocs>Documents</LtxtDocs>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nome</DtxtName>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtFrom>Até</DtxtFrom>
+    <DtxtTo>para</DtxtTo>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtStore>Loja</DtxtStore>
+    <DtxtCat>Catálogo</DtxtCat>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtCountry>País</DtxtCountry>
+    <DtxtType>Tipo</DtxtType>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtDocs>Documentos</DtxtDocs>
+    <DtxtPrice>Preço</DtxtPrice>
+    <DtxtLead>Prospecto</DtxtLead>
+    <DtxtContact>Contato</DtxtContact>
+    <DtxtAsc>Ascendente</DtxtAsc>
+    <DtxtDesc>Descendente</DtxtDesc>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Provedor</DtxtSupplier>
+    <DtxtBPCode>Código do PN</DtxtBPCode>
+    <DtxtList>Lista</DtxtList>
+    <DtxtProp>Propriedades</DtxtProp>
+    <DtxtAnd>e</DtxtAnd>
+    <DtxtOr>Ou</DtxtOr>
+    <DtxtIn>Entre</DtxtIn>
+    <DtxtNotIn>Não Entre</DtxtNotIn>
+    <DtxtExact>Exato</DtxtExact>
+    <DtxtLike>Como</DtxtLike>
+    <LtxtEnterFld>Deve introduzir o campo "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Selecione/Introduza</LtxtSelectEnter>
+    <LtxtInvMoreThen>Estoque maior que</LtxtInvMoreThen>
+    <LtxtItmImg>Itens com imagens</LtxtItmImg>
+    <LtxtNewItms>Itens novos</LtxtNewItms>
+    <LtxtPromOnly>Somente Promoções </LtxtPromOnly>
+    <LtxtInWL>Em lista de desejos</LtxtInWL>
+    <LtxtCatalogType>Tipo de Visualização</LtxtCatalogType>
+    <LtxtCreateDat>D. Criação</LtxtCreateDat>
+    <LtxtPriceList>Lista de preços</LtxtPriceList>
+    <LtxtDoc>Documento</LtxtDoc>
+    <LtxtDocNum>Nº Documento</LtxtDocNum>
+    <LtxtWithoutPrice>Sem preço</LtxtWithoutPrice>
+    <LtxtDocPrice>Preço documento</LtxtDocPrice>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtValDocCatNum>Deve introduzir o número do documento que deseja catalogar</LtxtValDocCatNum>
+    <LtxtValDocDocType>Selecione o documento base que deseja catalogar</LtxtValDocDocType>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtDocs>Documentos</LtxtDocs>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Nom</DtxtName>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtFrom>depuis, dès</DtxtFrom>
+    <DtxtTo>Jusqu'à</DtxtTo>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtStore>Boutique</DtxtStore>
+    <DtxtCat>Catalogue</DtxtCat>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtCountry>Pays</DtxtCountry>
+    <DtxtType>Genre (Type)</DtxtType>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtDocs>Documents</DtxtDocs>
+    <DtxtPrice>Prix</DtxtPrice>
+    <DtxtLead>Prospectus</DtxtLead>
+    <DtxtContact>Contact</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtBalance>Solde</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>&lt;--&gt;</DtxtSupplier>
+    <DtxtBPCode>&lt;--&gt;</DtxtBPCode>
+    <DtxtList>&lt;--&gt;</DtxtList>
+    <DtxtProp>&lt;--&gt;</DtxtProp>
+    <DtxtAnd>&lt;--&gt;</DtxtAnd>
+    <DtxtOr>&lt;--&gt;</DtxtOr>
+    <DtxtIn>&lt;--&gt;</DtxtIn>
+    <DtxtNotIn>&lt;--&gt;</DtxtNotIn>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtEnterFld>Devez-vous insérer le domaine "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Sélectionnez-vous / Insérez-vous</LtxtSelectEnter>
+    <LtxtInvMoreThen>L'inventaire est plus grand que</LtxtInvMoreThen>
+    <LtxtItmImg>Articles avec images</LtxtItmImg>
+    <LtxtNewItms>Articles nouveaux</LtxtNewItms>
+    <LtxtPromOnly>Seule promotions</LtxtPromOnly>
+    <LtxtInWL>En Liste des voeux</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>Document de création</LtxtCreateDat>
+    <LtxtPriceList>Liste des prix</LtxtPriceList>
+    <LtxtDoc>Documentation</LtxtDoc>
+    <LtxtDocNum>Numéro de documentation</LtxtDocNum>
+    <LtxtWithoutPrice>Sans prix</LtxtWithoutPrice>
+    <LtxtDocPrice>Prix de documentation</LtxtDocPrice>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtPur>Achat</LtxtPur>
+    <LtxtValDocCatNum>Devez-vous insérer le numéro de documentation que vous voulez cataloguer</LtxtValDocCatNum>
+    <LtxtValDocDocType>Sélectionnez-vous la documentation de source que veuillez-vous cataloguer</LtxtValDocDocType>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtDocs>Documentations</LtxtDocs>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Name</DtxtName>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtFrom>Von</DtxtFrom>
+    <DtxtTo>An</DtxtTo>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtStore>Laden</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtCountry>Land</DtxtCountry>
+    <DtxtType>Art</DtxtType>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtDocs>Dokumente</DtxtDocs>
+    <DtxtPrice>Preis</DtxtPrice>
+    <DtxtLead>Hinweis</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Beschreibung</DtxtDesc>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtBalance>Kontostand</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Lieferanten</DtxtSupplier>
+    <DtxtBPCode>BP Kode</DtxtBPCode>
+    <DtxtList>Aufstellung</DtxtList>
+    <DtxtProp>Eigenschaften</DtxtProp>
+    <DtxtAnd>Und</DtxtAnd>
+    <DtxtOr>Oder</DtxtOr>
+    <DtxtIn>Ein</DtxtIn>
+    <DtxtNotIn>Nicht Da</DtxtNotIn>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtEnterFld>Bitte geben Sie das Feld "{0}" an</LtxtEnterFld>
+    <LtxtSelectEnter>Auswählen/Eingeben</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventur grösser als</LtxtInvMoreThen>
+    <LtxtItmImg>Artikel mit Bildern</LtxtItmImg>
+    <LtxtNewItms>Neue Artikel</LtxtNewItms>
+    <LtxtPromOnly>Nur Promotion</LtxtPromOnly>
+    <LtxtInWL>In Wunschliste</LtxtInWL>
+    <LtxtCatalogType>&lt;--&gt;</LtxtCatalogType>
+    <LtxtCreateDat>Erstellungs D.</LtxtCreateDat>
+    <LtxtPriceList>Preisliste</LtxtPriceList>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtWithoutPrice>Kein Preis</LtxtWithoutPrice>
+    <LtxtDocPrice>Dokumentpreis</LtxtDocPrice>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtPur>Ankauf</LtxtPur>
+    <LtxtValDocCatNum>Bitte geben Sie die Nummer des Dokuments, welches Sie katalogisieren möchten, ein</LtxtValDocCatNum>
+    <LtxtValDocDocType>Bitte geben Sie die Quelle des Dokuments, welches Sie katalogisieren möchten, ein</LtxtValDocDocType>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtDocs>Dokumente</LtxtDocs>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Имя</DtxtName>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtFrom>От</DtxtFrom>
+    <DtxtTo>До-</DtxtTo>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtStore>Верх</DtxtStore>
+    <DtxtCat>Каталог</DtxtCat>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtCountry>Страна</DtxtCountry>
+    <DtxtType>Вид</DtxtType>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtDocs>Документы</DtxtDocs>
+    <DtxtPrice>Цена</DtxtPrice>
+    <DtxtLead>Вести</DtxtLead>
+    <DtxtContact>Человек связи</DtxtContact>
+    <DtxtAsc>По возрастанию А-Я</DtxtAsc>
+    <DtxtDesc>Описание</DtxtDesc>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtBalance>Баланс</DtxtBalance>
+    <DtxtOLK>Олк</DtxtOLK>
+    <DtxtSupplier>Поставщик</DtxtSupplier>
+    <DtxtBPCode>Код карточки</DtxtBPCode>
+    <DtxtList>Список</DtxtList>
+    <DtxtProp>Свойства</DtxtProp>
+    <DtxtAnd>И так же</DtxtAnd>
+    <DtxtOr>Или</DtxtOr>
+    <DtxtIn>Внутри</DtxtIn>
+    <DtxtNotIn>Не внутри</DtxtNotIn>
+    <DtxtExact>&lt;--&gt;</DtxtExact>
+    <DtxtLike>&lt;--&gt;</DtxtLike>
+    <LtxtEnterFld>Пожалуйста, заполнить поле "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Выбрать /Войти</LtxtSelectEnter>
+    <LtxtInvMoreThen>Запас больше, чем</LtxtInvMoreThen>
+    <LtxtItmImg>Детали с изображением</LtxtItmImg>
+    <LtxtNewItms>Новые поступления</LtxtNewItms>
+    <LtxtPromOnly> Только скидки</LtxtPromOnly>
+    <LtxtInWL>В личный каталог</LtxtInWL>
+    <LtxtCatalogType>Как посмотреть</LtxtCatalogType>
+    <LtxtCreateDat>Создание записи</LtxtCreateDat>
+    <LtxtPriceList>Прайс-лист</LtxtPriceList>
+    <LtxtDoc>Документ</LtxtDoc>
+    <LtxtDocNum>Документ #</LtxtDocNum>
+    <LtxtWithoutPrice>Нет цены</LtxtWithoutPrice>
+    <LtxtDocPrice>Цены документа</LtxtDocPrice>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtPur>Покупка</LtxtPur>
+    <LtxtValDocCatNum>Пожалуйста, введите номер документа из каталога</LtxtValDocCatNum>
+    <LtxtValDocDocType>Пожалуйста, выберите исходный документ из   каталога</LtxtValDocDocType>
+    <LtxtInventory>Запас</LtxtInventory>
+    <LtxtDocs> Документы</LtxtDocs>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu/Do</DtxtTo>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtStore>Sklad</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtCountry>Stát</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Vedoucí</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Vzest</DtxtAsc>
+    <DtxtDesc>Popis</DtxtDesc>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtBalance>Bilance</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Dodavatel</DtxtSupplier>
+    <DtxtBPCode>Kód OP</DtxtBPCode>
+    <DtxtList>Seznam</DtxtList>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Nebo</DtxtOr>
+    <DtxtIn>V</DtxtIn>
+    <DtxtNotIn>Není v</DtxtNotIn>
+    <DtxtExact>Přesné</DtxtExact>
+    <DtxtLike>jako</DtxtLike>
+    <LtxtEnterFld>Vyplňte prosím pole "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vyberte/Zadejte</LtxtSelectEnter>
+    <LtxtInvMoreThen>Zásoby větší než</LtxtInvMoreThen>
+    <LtxtItmImg>Zásoby s obrázky</LtxtItmImg>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+    <LtxtPromOnly>Pouze promoční akce</LtxtPromOnly>
+    <LtxtInWL>V seznamu přání</LtxtInWL>
+    <LtxtCatalogType>Typ zobrazení</LtxtCatalogType>
+    <LtxtCreateDat>D. vytvoření</LtxtCreateDat>
+    <LtxtPriceList>Ceník</LtxtPriceList>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtDocNum>Č. dokumentu</LtxtDocNum>
+    <LtxtWithoutPrice>Bez ceny</LtxtWithoutPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtValDocCatNum>Zadejte prosím číslo dokumentu, který si přejete zkatalogizovat</LtxtValDocCatNum>
+    <LtxtValDocDocType>Zadejte prosím zdroj dokumenty, který si přejete zkatalogizovat</LtxtValDocDocType>
+    <LtxtInventory>Zásoby</LtxtInventory>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Do</DtxtTo>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtStore>Sklep</DtxtStore>
+    <DtxtCat>Katalog</DtxtCat>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtCountry>Kraj</DtxtCountry>
+    <DtxtType>Typ</DtxtType>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Lead</DtxtLead>
+    <DtxtContact>Kontakt</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtBalance>Saldo</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Dostawca</DtxtSupplier>
+    <DtxtBPCode>Kod kreskowy</DtxtBPCode>
+    <DtxtList>Lista</DtxtList>
+    <DtxtProp>Właściwości</DtxtProp>
+    <DtxtAnd>oraz</DtxtAnd>
+    <DtxtOr>lub</DtxtOr>
+    <DtxtIn>w</DtxtIn>
+    <DtxtNotIn>nie w</DtxtNotIn>
+    <DtxtExact>Dokładny</DtxtExact>
+    <DtxtLike>Podobny</DtxtLike>
+    <LtxtEnterFld>Proszę wprowadź pole {0}</LtxtEnterFld>
+    <LtxtSelectEnter>Wybierz/Wprowadź</LtxtSelectEnter>
+    <LtxtInvMoreThen>Zapas większy niż</LtxtInvMoreThen>
+    <LtxtItmImg>Pozycje ze zdjęciami</LtxtItmImg>
+    <LtxtNewItms>Nowe pozycje</LtxtNewItms>
+    <LtxtPromOnly>Tylko promocje</LtxtPromOnly>
+    <LtxtInWL>Na liście życzeń</LtxtInWL>
+    <LtxtCatalogType>Rodzaj podglądu</LtxtCatalogType>
+    <LtxtCreateDat>Data stworzenia</LtxtCreateDat>
+    <LtxtPriceList>Cenniki</LtxtPriceList>
+    <LtxtDoc>Dokumenty</LtxtDoc>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtWithoutPrice>Bez ceny</LtxtWithoutPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtSale>Sprzedaż </LtxtSale>
+    <LtxtPur>Zakup</LtxtPur>
+    <LtxtValDocCatNum>Proszę wprowadź numer dokumentu, który chcesz skatalogować</LtxtValDocCatNum>
+    <LtxtValDocDocType>Proszę wybierz źródło dokumentu, który chcesz skatalogować</LtxtValDocDocType>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>Názov</DtxtName>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtFrom>Od</DtxtFrom>
+    <DtxtTo>Komu</DtxtTo>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtStore>Uložiť</DtxtStore>
+    <DtxtCat>Katalóg</DtxtCat>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtCountry>Krajina</DtxtCountry>
+    <DtxtType>Vpísať</DtxtType>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtDocs>Dokumenty</DtxtDocs>
+    <DtxtPrice>Cena</DtxtPrice>
+    <DtxtLead>Prospekt</DtxtLead>
+    <DtxtContact>Kontaktovať</DtxtContact>
+    <DtxtAsc>Asc</DtxtAsc>
+    <DtxtDesc>Desc</DtxtDesc>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtBalance>Zostatok</DtxtBalance>
+    <DtxtOLK>OLK</DtxtOLK>
+    <DtxtSupplier>Dodávatelia</DtxtSupplier>
+    <DtxtBPCode>Kód Obchodného partnera</DtxtBPCode>
+    <DtxtList>Zoznam</DtxtList>
+    <DtxtProp>Vlastnosti</DtxtProp>
+    <DtxtAnd>A</DtxtAnd>
+    <DtxtOr>Alebo</DtxtOr>
+    <DtxtIn>V</DtxtIn>
+    <DtxtNotIn>Nie je v</DtxtNotIn>
+    <DtxtExact>Presné</DtxtExact>
+    <DtxtLike>Podobné</DtxtLike>
+    <LtxtEnterFld>Prosím zadajte políčko "{0}"</LtxtEnterFld>
+    <LtxtSelectEnter>Vybrať/Zadať</LtxtSelectEnter>
+    <LtxtInvMoreThen>Inventár väčší ako</LtxtInvMoreThen>
+    <LtxtItmImg>Položka s obrázkami</LtxtItmImg>
+    <LtxtNewItms>Nové položky</LtxtNewItms>
+    <LtxtPromOnly>Len špeciálne akcie</LtxtPromOnly>
+    <LtxtInWL>V zozname prianí</LtxtInWL>
+    <LtxtCatalogType>Typ zobrazenia</LtxtCatalogType>
+    <LtxtCreateDat>Vytvorenie dokumentu</LtxtCreateDat>
+    <LtxtPriceList>Cenník</LtxtPriceList>
+    <LtxtDoc>Dokument</LtxtDoc>
+    <LtxtDocNum>Dokument #</LtxtDocNum>
+    <LtxtWithoutPrice>Žiadna cena</LtxtWithoutPrice>
+    <LtxtDocPrice>Cena dokumentu</LtxtDocPrice>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtValDocCatNum>Prosím zadajte číslo katalógu, ktoré si prajete pridať do katalógu</LtxtValDocCatNum>
+    <LtxtValDocDocType>Prosím, zvoľte zdroj dokumentu, ktorý si prajete pridať do katalógu</LtxtValDocDocType>
+    <LtxtInventory>Inventár</LtxtInventory>
+    <LtxtDocs>Dokumenty</LtxtDocs>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtFrom>DtxtFrom</DtxtFrom>
+    <DtxtTo>DtxtTo</DtxtTo>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtStore>DtxtStore</DtxtStore>
+    <DtxtCat>DtxtCat</DtxtCat>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtCountry>DtxtCountry</DtxtCountry>
+    <DtxtType>DtxtType</DtxtType>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtDocs>DtxtDocs</DtxtDocs>
+    <DtxtPrice>DtxtPrice</DtxtPrice>
+    <DtxtLead>DtxtLead</DtxtLead>
+    <DtxtContact>DtxtContact</DtxtContact>
+    <DtxtAsc>DtxtAsc</DtxtAsc>
+    <DtxtDesc>DtxtDesc</DtxtDesc>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtBalance>DtxtBalance</DtxtBalance>
+    <DtxtOLK>DtxtOLK</DtxtOLK>
+    <DtxtSupplier>DtxtSupplier</DtxtSupplier>
+    <DtxtBPCode>DtxtBPCode</DtxtBPCode>
+    <DtxtList>DtxtList</DtxtList>
+    <DtxtProp>DtxtProp</DtxtProp>
+    <DtxtAnd>DtxtAnd</DtxtAnd>
+    <DtxtOr>DtxtOr</DtxtOr>
+    <DtxtIn>DtxtIn</DtxtIn>
+    <DtxtNotIn>DtxtNotIn</DtxtNotIn>
+    <DtxtExact>DtxtExact</DtxtExact>
+    <DtxtLike>DtxtLike</DtxtLike>
+    <LtxtEnterFld>LtxtEnterFld</LtxtEnterFld>
+    <LtxtSelectEnter>LtxtSelectEnter</LtxtSelectEnter>
+    <LtxtInvMoreThen>LtxtInvMoreThen</LtxtInvMoreThen>
+    <LtxtItmImg>LtxtItmImg</LtxtItmImg>
+    <LtxtNewItms>LtxtNewItms</LtxtNewItms>
+    <LtxtPromOnly>LtxtPromOnly</LtxtPromOnly>
+    <LtxtInWL>LtxtInWL</LtxtInWL>
+    <LtxtCatalogType>LtxtCatalogType</LtxtCatalogType>
+    <LtxtCreateDat>LtxtCreateDat</LtxtCreateDat>
+    <LtxtPriceList>LtxtPriceList</LtxtPriceList>
+    <LtxtDoc>LtxtDoc</LtxtDoc>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtWithoutPrice>LtxtWithoutPrice</LtxtWithoutPrice>
+    <LtxtDocPrice>LtxtDocPrice</LtxtDocPrice>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPur>LtxtPur</LtxtPur>
+    <LtxtValDocCatNum>LtxtValDocCatNum</LtxtValDocCatNum>
+    <LtxtValDocDocType>LtxtValDocDocType</LtxtValDocDocType>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtDocs>LtxtDocs</LtxtDocs>
+  </language>
+</languages>

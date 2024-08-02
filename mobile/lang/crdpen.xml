@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtPendList>Pending New Clientes</LtxtPendList>
+    <LtxtConfDelClient>Are you sure you want to delete the transaction #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>Client you wish to edit is in confirmation state, if you continue, client will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <LtxtPendList>Nuevos Clientes Pendientes</LtxtPendList>
+    <LtxtConfDelClient>¿Está seguro que desea eliminar el transaction #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>El cliente que desea editar está en estado de confirmación, si continúa el cliente volverá al estado de pendiente. \n¿Desea continuar?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <LtxtPendList>לקוחות חדשים פתוחים</LtxtPendList>
+    <LtxtConfDelClient>האם למחוק עיסקה {0}#?</LtxtConfDelClient>
+    <LtxtConfReOpen>הלקוח שאתה מעוניין לערוך נמצא בתהליך אישור, אם תמשיך הלקוח יצא מתהליך האישור.\nהאם להמשיך?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <LtxtPendList>Pending New Clientes</LtxtPendList>
+    <LtxtConfDelClient>Are you sure you want to delete the transaction #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>Client you wish to edit is in confirmation state, if you continue, client will return the open state.\nDo you wish to continue?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <LtxtPendList>Novos Clientes Pendentes</LtxtPendList>
+    <LtxtConfDelClient>Você tem certeza que deseja excluir esta transação Nº {0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>O cliente que deseja editar está em estado de confirmação, se continuar o cliente voltará em estado de pendência. Deseja Continuar?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtConfDelClient>&lt;--&gt;</LtxtConfDelClient>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtConfDelClient>&lt;--&gt;</LtxtConfDelClient>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtConfDelClient>&lt;--&gt;</LtxtConfDelClient>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <LtxtPendList>Nevyřízení noví klienti</LtxtPendList>
+    <LtxtConfDelClient>Jste si jistý/á, že chcete vymazat transakci #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>Klient, kterého chcete upravovat, je ve stavu potvrzený. Pokud budete pokračovat, dokument se vrátí do stavu otevřený.\nPřejete si pokračovat?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <LtxtPendList>Oczekujący nowi klienci</LtxtPendList>
+    <LtxtConfDelClient>Czy jesteś pewien, że chcesz usunąć transakcję #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>Klient, którego chcesz edytować jest w fazie potwierdzenia, jeśli będziesz kontynuował klient powróci do stanu otwartego. Czy chcesz kontynuować? </LtxtConfReOpen>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <LtxtPendList>Čakajúci noví klienti</LtxtPendList>
+    <LtxtConfDelClient>Ste si istí, že chcete zmazať transakciu #{0}?</LtxtConfDelClient>
+    <LtxtConfReOpen>Klient, ktorého si prajete editovať je v potvrdzovacom stave, ak budete pokračovať, klient sa vráti do otvoreného stavu.\nPrajete si pokračovať?</LtxtConfReOpen>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <LtxtPendList>&lt;--&gt;</LtxtPendList>
+    <LtxtConfDelClient>&lt;--&gt;</LtxtConfDelClient>
+    <LtxtConfReOpen>&lt;--&gt;</LtxtConfReOpen>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <LtxtPendList>LtxtPendList</LtxtPendList>
+    <LtxtConfDelClient>LtxtConfDelClient</LtxtConfDelClient>
+    <LtxtConfReOpen>LtxtConfReOpen</LtxtConfReOpen>
+  </language>
+</languages>

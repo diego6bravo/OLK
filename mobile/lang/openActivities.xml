@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>All</DtxtAll>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtToday>Today</DtxtToday>
+    <DtxtThisWeek>This week</DtxtThisWeek>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtConfDelAct>Are you sure you want to delete this activity?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtSearch>Búsqueda</DtxtSearch>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtOther>Otro</DtxtOther>
+    <DtxtTask>Tarea</DtxtTask>
+    <DtxtConv>Conversación</DtxtConv>
+    <DtxtMeeting>Reunión</DtxtMeeting>
+    <DtxtToday>Hoy</DtxtToday>
+    <DtxtThisWeek>Esta semana</DtxtThisWeek>
+    <LtxtOpenActivities>Actividades Pendientes</LtxtOpenActivities>
+    <LtxtConfDelAct>¿Está seguro que desea eliminar la actividad?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtAll>כולם</DtxtAll>
+    <DtxtSearch>חיפוש</DtxtSearch>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtOther>אחר</DtxtOther>
+    <DtxtTask>משימה</DtxtTask>
+    <DtxtConv>שיחה</DtxtConv>
+    <DtxtMeeting>פגישה</DtxtMeeting>
+    <DtxtToday>היום</DtxtToday>
+    <DtxtThisWeek>השבוע</DtxtThisWeek>
+    <LtxtOpenActivities>פעילויות פתוחות</LtxtOpenActivities>
+    <LtxtConfDelAct>האם למחוק פעילות?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>All</DtxtAll>
+    <DtxtSearch>Search</DtxtSearch>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtOther>Other</DtxtOther>
+    <DtxtTask>Task</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Meeting</DtxtMeeting>
+    <DtxtToday>Today</DtxtToday>
+    <DtxtThisWeek>This week</DtxtThisWeek>
+    <LtxtOpenActivities>Open Activities</LtxtOpenActivities>
+    <LtxtConfDelAct>Are you sure you want to delete this activity?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Todos</DtxtAll>
+    <DtxtSearch>Busca</DtxtSearch>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtOther>Outro</DtxtOther>
+    <DtxtTask>Tarefa</DtxtTask>
+    <DtxtConv>Conversação</DtxtConv>
+    <DtxtMeeting>Reunião</DtxtMeeting>
+    <DtxtToday>Hoje</DtxtToday>
+    <DtxtThisWeek>Esta semana</DtxtThisWeek>
+    <LtxtOpenActivities>Atividades Pendentes</LtxtOpenActivities>
+    <LtxtConfDelAct>Você tem certeza que deseja excluir esta atividadade?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Tous</DtxtAll>
+    <DtxtSearch>Recherche</DtxtSearch>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtOther>Autre</DtxtOther>
+    <DtxtTask>Tâche</DtxtTask>
+    <DtxtConv>Conversation</DtxtConv>
+    <DtxtMeeting>Réunion</DtxtMeeting>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <DtxtThisWeek>&lt;--&gt;</DtxtThisWeek>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Alle</DtxtAll>
+    <DtxtSearch>Suchen</DtxtSearch>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtOther>Andere</DtxtOther>
+    <DtxtTask>Aufgabe</DtxtTask>
+    <DtxtConv>Unterhaltung</DtxtConv>
+    <DtxtMeeting>Konferenz</DtxtMeeting>
+    <DtxtToday>Heute</DtxtToday>
+    <DtxtThisWeek>Diese Woche</DtxtThisWeek>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Каждые</DtxtAll>
+    <DtxtSearch>Поиск</DtxtSearch>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtOther>Другой</DtxtOther>
+    <DtxtTask>Задание</DtxtTask>
+    <DtxtConv>Разговор</DtxtConv>
+    <DtxtMeeting>Встреча</DtxtMeeting>
+    <DtxtToday>Сегодня</DtxtToday>
+    <DtxtThisWeek>Неделя</DtxtThisWeek>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Vše</DtxtAll>
+    <DtxtSearch>Hledat</DtxtSearch>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Jiný</DtxtOther>
+    <DtxtTask>Úkol</DtxtTask>
+    <DtxtConv>Konverzace</DtxtConv>
+    <DtxtMeeting>Schůzka</DtxtMeeting>
+    <DtxtToday>Dnes</DtxtToday>
+    <DtxtThisWeek>Tento týden</DtxtThisWeek>
+    <LtxtOpenActivities>Otevřené aktivity</LtxtOpenActivities>
+    <LtxtConfDelAct>Jste si jistý/á, že chcete tuto aktivitu vymazat?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Wszystko</DtxtAll>
+    <DtxtSearch>Poszukiwanie</DtxtSearch>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtOther>Inny</DtxtOther>
+    <DtxtTask>Zadanie</DtxtTask>
+    <DtxtConv>Rozmowa</DtxtConv>
+    <DtxtMeeting>Spotkanie</DtxtMeeting>
+    <DtxtToday>Dziś </DtxtToday>
+    <DtxtThisWeek>W tym tygodniu</DtxtThisWeek>
+    <LtxtOpenActivities>Otwórz działania</LtxtOpenActivities>
+    <LtxtConfDelAct>Czy jesteś pewien, że chcesz usunąć te działanie?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>Všetko</DtxtAll>
+    <DtxtSearch>Hľadať</DtxtSearch>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtOther>Iné</DtxtOther>
+    <DtxtTask>Uloha</DtxtTask>
+    <DtxtConv>Konverzácia</DtxtConv>
+    <DtxtMeeting>Stretnutie</DtxtMeeting>
+    <DtxtToday>Dnes</DtxtToday>
+    <DtxtThisWeek>Tento týždeň</DtxtThisWeek>
+    <LtxtOpenActivities>Otvorené aktivity</LtxtOpenActivities>
+    <LtxtConfDelAct>Ste si istí, že chcete zmazať túto aktivitu?</LtxtConfDelAct>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>&lt;--&gt;</DtxtAll>
+    <DtxtSearch>&lt;--&gt;</DtxtSearch>
+    <DtxtNote>&lt;--&gt;</DtxtNote>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtOther>&lt;--&gt;</DtxtOther>
+    <DtxtTask>&lt;--&gt;</DtxtTask>
+    <DtxtConv>&lt;--&gt;</DtxtConv>
+    <DtxtMeeting>&lt;--&gt;</DtxtMeeting>
+    <DtxtToday>&lt;--&gt;</DtxtToday>
+    <DtxtThisWeek>&lt;--&gt;</DtxtThisWeek>
+    <LtxtOpenActivities>&lt;--&gt;</LtxtOpenActivities>
+    <LtxtConfDelAct>&lt;--&gt;</LtxtConfDelAct>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtAll>DtxtAll</DtxtAll>
+    <DtxtSearch>DtxtSearch</DtxtSearch>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtOther>DtxtOther</DtxtOther>
+    <DtxtTask>DtxtTask</DtxtTask>
+    <DtxtConv>DtxtConv</DtxtConv>
+    <DtxtMeeting>DtxtMeeting</DtxtMeeting>
+    <DtxtToday>DtxtToday</DtxtToday>
+    <DtxtThisWeek>DtxtThisWeek</DtxtThisWeek>
+    <LtxtOpenActivities>LtxtOpenActivities</LtxtOpenActivities>
+    <LtxtConfDelAct>LtxtConfDelAct</LtxtConfDelAct>
+  </language>
+</languages>

@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtSalesOportunity>Sales Opportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtValDocNum>Document #{0} was not found</LtxtValDocNum>
+    <LtxtComments>Comments</LtxtComments>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtNoData>¡No hay datos para mostrar!</DtxtNoData>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtReminder>Recordatorio</DtxtReminder>
+    <DtxtDuration>Duración</DtxtDuration>
+    <DtxtCommentaries>Comentarios</DtxtCommentaries>
+    <DtxtInactive>Inactivo</DtxtInactive>
+    <DtxtPosible>Posible</DtxtPosible>
+    <DtxtLocation>Localidad</DtxtLocation>
+    <DtxtSource>Origen</DtxtSource>
+    <DtxtSalesOportunity>Oportunidades</DtxtSalesOportunity>
+    <DtxtServiceCall>Llamada de servicio</DtxtServiceCall>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Fecha de Inicio</LtxtStartDate>
+    <LtxtTime>Tiempo</LtxtTime>
+    <LtxtStartTime>Hora de Inicio</LtxtStartTime>
+    <LtxtEndTime>Hora de Fin</LtxtEndTime>
+    <LtxtDueDate>Fecha de Vencimiento</LtxtDueDate>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Clase de documento</LtxtDocType>
+    <LtxtDocNum>Número de documento</LtxtDocNum>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Día(s)</LtxtDays>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtInventory>Inventario</LtxtInventory>
+    <LtxtInvDownPay>Anticipo de Cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferencia de Inventario</LtxtInvTrans>
+    <LtxtValDocNum>Documento N°{0} no fue encontrado</LtxtValDocNum>
+    <LtxtComments>Comentarios</LtxtComments>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtNoData>לא נמצאו נתונים!</DtxtNoData>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtReminder>תזכורת</DtxtReminder>
+    <DtxtDuration>משך זמן</DtxtDuration>
+    <DtxtCommentaries>הערות</DtxtCommentaries>
+    <DtxtInactive>לא פעיל</DtxtInactive>
+    <DtxtPosible>אפשרי</DtxtPosible>
+    <DtxtLocation>מקום</DtxtLocation>
+    <DtxtSource>מקור</DtxtSource>
+    <DtxtSalesOportunity>הזדמנות מכירה</DtxtSalesOportunity>
+    <DtxtServiceCall>קריאת שירות</DtxtServiceCall>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtStatus>מצב</LtxtStatus>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtTime>שעה</LtxtTime>
+    <LtxtStartTime>שעת התחלה</LtxtStartTime>
+    <LtxtEndTime>שעת סיום</LtxtEndTime>
+    <LtxtDueDate>תאריך ערך</LtxtDueDate>
+    <LtxtLinkDoc>מסמך מקושר</LtxtLinkDoc>
+    <LtxtDocType>סוג מסמך</LtxtDocType>
+    <LtxtDocNum>מס' מסמך</LtxtDocNum>
+    <LtxtMinutes>דקות</LtxtMinutes>
+    <LtxtHours>שעות</LtxtHours>
+    <LtxtDays>ימים</LtxtDays>
+    <LtxtSale>מכירות</LtxtSale>
+    <LtxtPur>קניות</LtxtPur>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtInventory>מלאי</LtxtInventory>
+    <LtxtInvDownPay>חשבונית מקדמה - לקוח</LtxtInvDownPay>
+    <LtxtInvTrans>העברה בין מחסנים</LtxtInvTrans>
+    <LtxtValDocNum>מסמך {0}# לא קיים</LtxtValDocNum>
+    <LtxtComments>הערות</LtxtComments>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>No data was found!</DtxtNoData>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtReminder>Reminder</DtxtReminder>
+    <DtxtDuration>Duration</DtxtDuration>
+    <DtxtCommentaries>Commentaries</DtxtCommentaries>
+    <DtxtInactive>Inactive</DtxtInactive>
+    <DtxtPosible>Possible</DtxtPosible>
+    <DtxtLocation>Location</DtxtLocation>
+    <DtxtSource>Source</DtxtSource>
+    <DtxtSalesOportunity>Sales Opportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtTime>Time</LtxtTime>
+    <LtxtStartTime>Start Time</LtxtStartTime>
+    <LtxtEndTime>End Time</LtxtEndTime>
+    <LtxtDueDate>Due Date</LtxtDueDate>
+    <LtxtLinkDoc>Linked Document</LtxtLinkDoc>
+    <LtxtDocType>Document Type</LtxtDocType>
+    <LtxtDocNum>Document Number</LtxtDocNum>
+    <LtxtMinutes>Minute(s)</LtxtMinutes>
+    <LtxtHours>Hour(s)</LtxtHours>
+    <LtxtDays>Day(s)</LtxtDays>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtPur>Purchase</LtxtPur>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtInventory>Inventory</LtxtInventory>
+    <LtxtInvDownPay>A/R Down Payment</LtxtInvDownPay>
+    <LtxtInvTrans>Inventory Transfer</LtxtInvTrans>
+    <LtxtValDocNum>Document #{0} was not found</LtxtValDocNum>
+    <LtxtComments>Comments</LtxtComments>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Não há dados para mostrar!</DtxtNoData>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtReminder>Recordar</DtxtReminder>
+    <DtxtDuration>Duração</DtxtDuration>
+    <DtxtCommentaries>Comentários</DtxtCommentaries>
+    <DtxtInactive>Inativo</DtxtInactive>
+    <DtxtPosible>Possível</DtxtPosible>
+    <DtxtLocation>Localidade</DtxtLocation>
+    <DtxtSource>Origem</DtxtSource>
+    <DtxtSalesOportunity>Oportunidades</DtxtSalesOportunity>
+    <DtxtServiceCall>Chamada de serviço</DtxtServiceCall>
+    <LtxtGeneral>Geral</LtxtGeneral>
+    <LtxtStatus>Situação</LtxtStatus>
+    <LtxtStartDate>Data de Início</LtxtStartDate>
+    <LtxtTime>Tempo</LtxtTime>
+    <LtxtStartTime>Horário Inicial</LtxtStartTime>
+    <LtxtEndTime>Final</LtxtEndTime>
+    <LtxtDueDate>Data de Vencimento</LtxtDueDate>
+    <LtxtLinkDoc>Documento Vinculado</LtxtLinkDoc>
+    <LtxtDocType>Tipo de documento</LtxtDocType>
+    <LtxtDocNum>Número de documento</LtxtDocNum>
+    <LtxtMinutes>Minuto(s)</LtxtMinutes>
+    <LtxtHours>Hora(s)</LtxtHours>
+    <LtxtDays>Dia(s)</LtxtDays>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtInventory>Estoque</LtxtInventory>
+    <LtxtInvDownPay>Adiantamento de Cliente</LtxtInvDownPay>
+    <LtxtInvTrans>Transferência de Estoque</LtxtInvTrans>
+    <LtxtValDocNum>Documento Nº {0} não foi encontrado</LtxtValDocNum>
+    <LtxtComments>Comentários</LtxtComments>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtNoData>Ne pas des données à montrer!</DtxtNoData>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtReminder>&lt;--&gt;</DtxtReminder>
+    <DtxtDuration>&lt;--&gt;</DtxtDuration>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtInactive>&lt;--&gt;</DtxtInactive>
+    <DtxtPosible>&lt;--&gt;</DtxtPosible>
+    <DtxtLocation>&lt;--&gt;</DtxtLocation>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <DtxtSalesOportunity>Opportunité</DtxtSalesOportunity>
+    <DtxtServiceCall>Appel client</DtxtServiceCall>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtPur>Compra</LtxtPur>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtValDocNum>&lt;--&gt;</LtxtValDocNum>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Es wurden keine Daten gefunden!</DtxtNoData>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtReminder>Erinnerung</DtxtReminder>
+    <DtxtDuration>Laufzeit</DtxtDuration>
+    <DtxtCommentaries>Kommentare</DtxtCommentaries>
+    <DtxtInactive>Nicht Aktiv</DtxtInactive>
+    <DtxtPosible>Möglich</DtxtPosible>
+    <DtxtLocation>Ortsangabe</DtxtLocation>
+    <DtxtSource>Quelle</DtxtSource>
+    <DtxtSalesOportunity>Verkausmöglichkeit</DtxtSalesOportunity>
+    <DtxtServiceCall>Serviceabruf</DtxtServiceCall>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtPur>Ankauf</LtxtPur>
+    <LtxtBanks>Banken</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtValDocNum>&lt;--&gt;</LtxtValDocNum>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtNoData>Нет данных!</DtxtNoData>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtReminder> Памятка</DtxtReminder>
+    <DtxtDuration>Период времени</DtxtDuration>
+    <DtxtCommentaries>Заметки</DtxtCommentaries>
+    <DtxtInactive>не активный</DtxtInactive>
+    <DtxtPosible>Возможная</DtxtPosible>
+    <DtxtLocation>Место</DtxtLocation>
+    <DtxtSource>Источник</DtxtSource>
+    <DtxtSalesOportunity>Возможность</DtxtSalesOportunity>
+    <DtxtServiceCall>Сервисная заявка</DtxtServiceCall>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtValDocNum>&lt;--&gt;</LtxtValDocNum>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtNoData>Nebyly nalezeny žádné údaje!</DtxtNoData>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtReminder>Připomenutí</DtxtReminder>
+    <DtxtDuration>Trvání</DtxtDuration>
+    <DtxtCommentaries>Komentář</DtxtCommentaries>
+    <DtxtInactive>Neaktivní</DtxtInactive>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Místo</DtxtLocation>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtSalesOportunity>Možnost prodeje</DtxtSalesOportunity>
+    <DtxtServiceCall>Service Call</DtxtServiceCall>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtStartTime>Počáteční datum</LtxtStartTime>
+    <LtxtEndTime>Datum ukončení</LtxtEndTime>
+    <LtxtDueDate>Datum splatnosti</LtxtDueDate>
+    <LtxtLinkDoc>Navázaný dokument</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LtxtMinutes>Minut(a)</LtxtMinutes>
+    <LtxtHours>Hodin(a)</LtxtHours>
+    <LtxtDays>den/dnů</LtxtDays>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtInventory>Zásoby</LtxtInventory>
+    <LtxtInvDownPay>Pohledávky - záloha</LtxtInvDownPay>
+    <LtxtInvTrans>Převod zásob</LtxtInvTrans>
+    <LtxtValDocNum>Dokument #{0} nenalezen</LtxtValDocNum>
+    <LtxtComments>Komentáře</LtxtComments>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtNoData>Nie znaleziono danych!</DtxtNoData>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtReminder>Przypomnienie</DtxtReminder>
+    <DtxtDuration>Czas trwania</DtxtDuration>
+    <DtxtCommentaries>Komentarze</DtxtCommentaries>
+    <DtxtInactive>Nieaktywny</DtxtInactive>
+    <DtxtPosible>Możliwy</DtxtPosible>
+    <DtxtLocation>Lokalizacja</DtxtLocation>
+    <DtxtSource>Źródło</DtxtSource>
+    <DtxtSalesOportunity>Możliwości sprzedaży</DtxtSalesOportunity>
+    <DtxtServiceCall>Wezwanie obsługi</DtxtServiceCall>
+    <LtxtGeneral>Ogólny </LtxtGeneral>
+    <LtxtStatus>Status</LtxtStatus>
+    <LtxtStartDate>Data rozpoczęcia</LtxtStartDate>
+    <LtxtTime>Czas</LtxtTime>
+    <LtxtStartTime>Czas rozpoczęcia</LtxtStartTime>
+    <LtxtEndTime>Czas zakończenia</LtxtEndTime>
+    <LtxtDueDate>Termin płatności</LtxtDueDate>
+    <LtxtLinkDoc>Dokument powiązany</LtxtLinkDoc>
+    <LtxtDocType>Rodzaj dokumentu</LtxtDocType>
+    <LtxtDocNum>Numer dokumentu</LtxtDocNum>
+    <LtxtMinutes>Minuta(y)</LtxtMinutes>
+    <LtxtHours>Godzina(y)</LtxtHours>
+    <LtxtDays>Dzień (dni)</LtxtDays>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtPur>Zakup</LtxtPur>
+    <LtxtBanks>Banki</LtxtBanks>
+    <LtxtInventory>Zapas</LtxtInventory>
+    <LtxtInvDownPay>Zaliczka z tyt. Sprzedaży - klient</LtxtInvDownPay>
+    <LtxtInvTrans>Transfer między magazynami</LtxtInvTrans>
+    <LtxtValDocNum>Dokument #{0} nie został znaleziony </LtxtValDocNum>
+    <LtxtComments>Uwagi</LtxtComments>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtNoData>Neboli nájdené žiadne dáta!</DtxtNoData>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtReminder>Upomienka</DtxtReminder>
+    <DtxtDuration>Trvanie</DtxtDuration>
+    <DtxtCommentaries>Poznámky</DtxtCommentaries>
+    <DtxtInactive>Neaktívne</DtxtInactive>
+    <DtxtPosible>Možné</DtxtPosible>
+    <DtxtLocation>Miesto</DtxtLocation>
+    <DtxtSource>Zdroj</DtxtSource>
+    <DtxtSalesOportunity>Predajná príležitosť</DtxtSalesOportunity>
+    <DtxtServiceCall>Servisný hovor</DtxtServiceCall>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtStatus>Stav</LtxtStatus>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtTime>Čas</LtxtTime>
+    <LtxtStartTime>Čas zahájenia</LtxtStartTime>
+    <LtxtEndTime>Dátum ukončenia</LtxtEndTime>
+    <LtxtDueDate>Dátum splatnosti</LtxtDueDate>
+    <LtxtLinkDoc>Prepojený dokument</LtxtLinkDoc>
+    <LtxtDocType>Typ dokumentu</LtxtDocType>
+    <LtxtDocNum>Číslo dokumentu</LtxtDocNum>
+    <LtxtMinutes>Minúta(y)</LtxtMinutes>
+    <LtxtHours>Hodina(y)</LtxtHours>
+    <LtxtDays>Deň(Dni)</LtxtDays>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtPur>Nákup</LtxtPur>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtInventory>Inventár</LtxtInventory>
+    <LtxtInvDownPay>Záloha z predaja</LtxtInvDownPay>
+    <LtxtInvTrans>Prevod inventáru</LtxtInvTrans>
+    <LtxtValDocNum>Dokument #{0} nebol nájdený</LtxtValDocNum>
+    <LtxtComments>Komentára</LtxtComments>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>&lt;--&gt;</DtxtValNumVal>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <DtxtNoData>&lt;--&gt;</DtxtNoData>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtReminder>&lt;--&gt;</DtxtReminder>
+    <DtxtDuration>&lt;--&gt;</DtxtDuration>
+    <DtxtCommentaries>&lt;--&gt;</DtxtCommentaries>
+    <DtxtInactive>&lt;--&gt;</DtxtInactive>
+    <DtxtPosible>&lt;--&gt;</DtxtPosible>
+    <DtxtLocation>&lt;--&gt;</DtxtLocation>
+    <DtxtSource>&lt;--&gt;</DtxtSource>
+    <DtxtSalesOportunity>&lt;--&gt;</DtxtSalesOportunity>
+    <DtxtServiceCall>&lt;--&gt;</DtxtServiceCall>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtStatus>&lt;--&gt;</LtxtStatus>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtTime>&lt;--&gt;</LtxtTime>
+    <LtxtStartTime>&lt;--&gt;</LtxtStartTime>
+    <LtxtEndTime>&lt;--&gt;</LtxtEndTime>
+    <LtxtDueDate>&lt;--&gt;</LtxtDueDate>
+    <LtxtLinkDoc>&lt;--&gt;</LtxtLinkDoc>
+    <LtxtDocType>&lt;--&gt;</LtxtDocType>
+    <LtxtDocNum>&lt;--&gt;</LtxtDocNum>
+    <LtxtMinutes>&lt;--&gt;</LtxtMinutes>
+    <LtxtHours>&lt;--&gt;</LtxtHours>
+    <LtxtDays>&lt;--&gt;</LtxtDays>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtPur>&lt;--&gt;</LtxtPur>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtInventory>&lt;--&gt;</LtxtInventory>
+    <LtxtInvDownPay>&lt;--&gt;</LtxtInvDownPay>
+    <LtxtInvTrans>&lt;--&gt;</LtxtInvTrans>
+    <LtxtValDocNum>&lt;--&gt;</LtxtValDocNum>
+    <LtxtComments>&lt;--&gt;</LtxtComments>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtNoData>DtxtNoData</DtxtNoData>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtReminder>DtxtReminder</DtxtReminder>
+    <DtxtDuration>DtxtDuration</DtxtDuration>
+    <DtxtCommentaries>DtxtCommentaries</DtxtCommentaries>
+    <DtxtInactive>DtxtInactive</DtxtInactive>
+    <DtxtPosible>DtxtPosible</DtxtPosible>
+    <DtxtLocation>DtxtLocation</DtxtLocation>
+    <DtxtSource>DtxtSource</DtxtSource>
+    <DtxtSalesOportunity>DtxtSalesOportunity</DtxtSalesOportunity>
+    <DtxtServiceCall>DtxtServiceCall</DtxtServiceCall>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtStatus>LtxtStatus</LtxtStatus>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtTime>LtxtTime</LtxtTime>
+    <LtxtStartTime>LtxtStartTime</LtxtStartTime>
+    <LtxtEndTime>LtxtEndTime</LtxtEndTime>
+    <LtxtDueDate>LtxtDueDate</LtxtDueDate>
+    <LtxtLinkDoc>LtxtLinkDoc</LtxtLinkDoc>
+    <LtxtDocType>LtxtDocType</LtxtDocType>
+    <LtxtDocNum>LtxtDocNum</LtxtDocNum>
+    <LtxtMinutes>LtxtMinutes</LtxtMinutes>
+    <LtxtHours>LtxtHours</LtxtHours>
+    <LtxtDays>LtxtDays</LtxtDays>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtPur>LtxtPur</LtxtPur>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtInventory>LtxtInventory</LtxtInventory>
+    <LtxtInvDownPay>LtxtInvDownPay</LtxtInvDownPay>
+    <LtxtInvTrans>LtxtInvTrans</LtxtInvTrans>
+    <LtxtValDocNum>LtxtValDocNum</LtxtValDocNum>
+    <LtxtComments>LtxtComments</LtxtComments>
+  </language>
+</languages>

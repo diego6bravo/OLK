@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtState>State</DtxtState>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtMustStart>Must start with</LtxtMustStart>
+    <LtxtCCode>Client Code</LtxtCCode>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtSections>Sections</LtxtSections>
+    <LtxtCountries>Countries</LtxtCountries>
+    <LtxtClientGrps>Clients Groups</LtxtClientGrps>
+    <LtxtImg>Image</LtxtImg>
+    <LtxtBanner>Banner</LtxtBanner>
+    <LtxtAddEditDesc>Here banners may be added and edited to promote other sites or sections of your portal.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Please enter the link associated to the banner</LtxtValBanLnk>
+    <LtxtValBanImg>Please select the image of the banner</LtxtValBanImg>
+    <LtxtValBanQry>You must verify the query</LtxtValBanQry>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtChange>Cambiar</DtxtChange>
+    <DtxtDescription>Descripción</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLink>Enlace</DtxtLink>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definición</DtxtDefinition>
+    <LtxtMustStart>Debe iniciar con</LtxtMustStart>
+    <LtxtCCode>Código de Cliente</LtxtCCode>
+    <LtxtStartDate>Fecha de Inicio</LtxtStartDate>
+    <LtxtEndDate>Fecha de Finalización</LtxtEndDate>
+    <LtxtAvlVars>Variables Disponibles</LtxtAvlVars>
+    <LtxtSections>Secciones</LtxtSections>
+    <LtxtCountries>Países</LtxtCountries>
+    <LtxtClientGrps>Grupos de Clientes</LtxtClientGrps>
+    <LtxtImg>Imagen</LtxtImg>
+    <LtxtBanner>Pancarta</LtxtBanner>
+    <LtxtAddEditDesc>En esta sección podrá agregar/editar una pancarta, para promocionar otros sitios o secciones de su propio portal.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Favor ingrese el link asociado a la pancarta</LtxtValBanLnk>
+    <LtxtValBanImg>Favor seleccione la imagen de la pancarta</LtxtValBanImg>
+    <LtxtValBanQry>Debe verificar la consulta</LtxtValBanQry>
+    <LtxtConfRemImg>¿Está seguro que desea eliminar la imagen?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtApply>החל</DtxtApply>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtEdit>עריכה</DtxtEdit>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtQuery>שאילתא</DtxtQuery>
+    <DtxtChange>שנה</DtxtChange>
+    <DtxtDescription>תיאור</DtxtDescription>
+    <DtxtGroup>קבוצה</DtxtGroup>
+    <DtxtState>מדינה</DtxtState>
+    <DtxtLink>חיבור</DtxtLink>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtValidate>אשר שאילתא</DtxtValidate>
+    <DtxtDefinition>תיעוד</DtxtDefinition>
+    <LtxtMustStart>צריך להתחיל עם</LtxtMustStart>
+    <LtxtCCode>קוד לקוח</LtxtCCode>
+    <LtxtStartDate>תאריך התחלה</LtxtStartDate>
+    <LtxtEndDate>תאריך סיום</LtxtEndDate>
+    <LtxtAvlVars>משתנים זמינים</LtxtAvlVars>
+    <LtxtSections>אזורים</LtxtSections>
+    <LtxtCountries>מדינות</LtxtCountries>
+    <LtxtClientGrps>קבוצת לקוחות</LtxtClientGrps>
+    <LtxtImg>תמונה</LtxtImg>
+    <LtxtBanner>באנרים</LtxtBanner>
+    <LtxtAddEditDesc>בחלק זה תוכל להוסיף\לערוך\למחוק באנרים לצורך פירסום מבצעים\חדשות\אתרים אחרים ולקבוע באילו אזורים של האתר יופיעו הבאנרים שערכת</LtxtAddEditDesc>
+    <LtxtValBanLnk>יש למלא את הקישור ליעבוד מול הבנר</LtxtValBanLnk>
+    <LtxtValBanImg>בחר תמונה לבנר</LtxtValBanImg>
+    <LtxtValBanQry>יש לאשר את השאילתא</LtxtValBanQry>
+    <LtxtConfRemImg>האם למחוק תמונה ?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Apply</DtxtApply>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtEdit>Edit</DtxtEdit>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Query</DtxtQuery>
+    <DtxtChange>Change</DtxtChange>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Group</DtxtGroup>
+    <DtxtState>County</DtxtState>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtValidate>Validate Query</DtxtValidate>
+    <DtxtDefinition>Definition</DtxtDefinition>
+    <LtxtMustStart>Must start with</LtxtMustStart>
+    <LtxtCCode>Client Code</LtxtCCode>
+    <LtxtStartDate>Start Date</LtxtStartDate>
+    <LtxtEndDate>End Date</LtxtEndDate>
+    <LtxtAvlVars>Available Variables</LtxtAvlVars>
+    <LtxtSections>Sections</LtxtSections>
+    <LtxtCountries>Countries</LtxtCountries>
+    <LtxtClientGrps>Clients Groups</LtxtClientGrps>
+    <LtxtImg>Image</LtxtImg>
+    <LtxtBanner>Banner</LtxtBanner>
+    <LtxtAddEditDesc>Here banners may be added and edited to promote other sites or sections of your portal.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Please enter the link associated to the banner</LtxtValBanLnk>
+    <LtxtValBanImg>Please select the image of the banner</LtxtValBanImg>
+    <LtxtValBanQry>You must verify the query</LtxtValBanQry>
+    <LtxtConfRemImg>Are you sure you want to remove the image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Aplicar</DtxtApply>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtEdit>Editar</DtxtEdit>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtQuery>Consulta</DtxtQuery>
+    <DtxtChange>Modificar</DtxtChange>
+    <DtxtDescription>Descrição</DtxtDescription>
+    <DtxtGroup>Grupo</DtxtGroup>
+    <DtxtState>Estado</DtxtState>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtValidate>Validar Consulta</DtxtValidate>
+    <DtxtDefinition>Definição</DtxtDefinition>
+    <LtxtMustStart>Deve iniciar com</LtxtMustStart>
+    <LtxtCCode>Código do Cliente
+</LtxtCCode>
+    <LtxtStartDate>Data de Início</LtxtStartDate>
+    <LtxtEndDate>Data Final</LtxtEndDate>
+    <LtxtAvlVars>Variáveis Disponíveis</LtxtAvlVars>
+    <LtxtSections>Seções</LtxtSections>
+    <LtxtCountries>Países</LtxtCountries>
+    <LtxtClientGrps>Grupos de Clientes</LtxtClientGrps>
+    <LtxtImg>Imagem</LtxtImg>
+    <LtxtBanner>Banner</LtxtBanner>
+    <LtxtAddEditDesc>Nesta seção, banners podem ser adicionados e editados, para promover outros locais ou seções de seu portal.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Por favor, insira o link associado ao banner.</LtxtValBanLnk>
+    <LtxtValBanImg>Por favor, selecione a imagem do banner.</LtxtValBanImg>
+    <LtxtValBanQry>Deve verificar a consulta.</LtxtValBanQry>
+    <LtxtConfRemImg>Você tem certeza que deseja remover a imagem?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Appliquer</DtxtApply>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtEdit>Éditer</DtxtEdit>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtQuery>Consultation</DtxtQuery>
+    <DtxtChange>Changer</DtxtChange>
+    <DtxtDescription>Description</DtxtDescription>
+    <DtxtGroup>Groupe</DtxtGroup>
+    <DtxtState>État</DtxtState>
+    <DtxtLink>Liaison</DtxtLink>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtMustStart>Devez-vous commencer avec</LtxtMustStart>
+    <LtxtCCode>Code de client (e)</LtxtCCode>
+    <LtxtStartDate>Date initiale</LtxtStartDate>
+    <LtxtEndDate>Date finale</LtxtEndDate>
+    <LtxtAvlVars>Variables disponibles</LtxtAvlVars>
+    <LtxtSections>Sections</LtxtSections>
+    <LtxtCountries>Pays</LtxtCountries>
+    <LtxtClientGrps>Groupes des clients</LtxtClientGrps>
+    <LtxtImg>Image</LtxtImg>
+    <LtxtBanner>Banner / Pancarte</LtxtBanner>
+    <LtxtAddEditDesc>Dans cette section pourrez-vous ajouter/éditer une pancarte, pour la promotion d'autres sites ou sections de votre propre portail</LtxtAddEditDesc>
+    <LtxtValBanLnk>S.V.P insérer le lien associé avec le banner</LtxtValBanLnk>
+    <LtxtValBanImg>S.V.P sélectionner l\'image du banner</LtxtValBanImg>
+    <LtxtValBanQry>Devez-vous vérifier la consultation</LtxtValBanQry>
+    <LtxtConfRemImg>Êtes-vous sûre que vous souhaitez éliminer l'image?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Anwenden</DtxtApply>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtEdit>Bearbeiten</DtxtEdit>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtQuery>Anfrage</DtxtQuery>
+    <DtxtChange>Ändern</DtxtChange>
+    <DtxtDescription>Beschreibung</DtxtDescription>
+    <DtxtGroup>Gruppe</DtxtGroup>
+    <DtxtState>Bundesland</DtxtState>
+    <DtxtLink>Verknüpfung</DtxtLink>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtValidate>Anfrage Bestätigen</DtxtValidate>
+    <DtxtDefinition>Begriff</DtxtDefinition>
+    <LtxtMustStart>Sie müssen hiermit anfangen</LtxtMustStart>
+    <LtxtCCode>Kundenkennzeichen</LtxtCCode>
+    <LtxtStartDate>Anfangsdatum</LtxtStartDate>
+    <LtxtEndDate>Endedatum</LtxtEndDate>
+    <LtxtAvlVars>Verfügbare Variablen</LtxtAvlVars>
+    <LtxtSections>Bereiche</LtxtSections>
+    <LtxtCountries>Länder</LtxtCountries>
+    <LtxtClientGrps>Kundengruppe</LtxtClientGrps>
+    <LtxtImg>Bild</LtxtImg>
+    <LtxtBanner>Anzeige</LtxtBanner>
+    <LtxtAddEditDesc>In diesem Teil können Sie eine Anzeige hinzufügen/bearbeiten um für andere Seiten Ihres Portals zu werben.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Bitte geben Sie die Verknüpfung für die Anzeige ein</LtxtValBanLnk>
+    <LtxtValBanImg>Bitte wählen Sie ein Bild für die Anzeige</LtxtValBanImg>
+    <LtxtValBanQry>Sie müssen die Anfrage bestätigen</LtxtValBanQry>
+    <LtxtConfRemImg>Möchten Sie das Bild wirklich löschen?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Применить</DtxtApply>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtEdit>Приготовление</DtxtEdit>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtQuery>Запрос</DtxtQuery>
+    <DtxtChange>Год</DtxtChange>
+    <DtxtDescription>Описание</DtxtDescription>
+    <DtxtGroup>Группа</DtxtGroup>
+    <DtxtState>Государство</DtxtState>
+    <DtxtLink>Соединение</DtxtLink>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtValidate>Этот запрос</DtxtValidate>
+    <DtxtDefinition>Документация</DtxtDefinition>
+    <LtxtMustStart>Должен начинаться с</LtxtMustStart>
+    <LtxtCCode>Код Группы</LtxtCCode>
+    <LtxtStartDate>Старт даты</LtxtStartDate>
+    <LtxtEndDate>Дата окончания</LtxtEndDate>
+    <LtxtAvlVars>Изменение во времени</LtxtAvlVars>
+    <LtxtSections>Разделы</LtxtSections>
+    <LtxtCountries>Страны</LtxtCountries>
+    <LtxtClientGrps>Группы клиентов</LtxtClientGrps>
+    <LtxtImg>Фотография</LtxtImg>
+    <LtxtBanner>Баннер</LtxtBanner>
+    <LtxtAddEditDesc>В этом разделе можно добавлять / редактировать баннер в целях содействия другим сайтам или разделом с вашего собственного портала.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Пожалуйста, введите ссылку, связанную с обработкой банера</LtxtValBanLnk>
+    <LtxtValBanImg>Пожалуйста, выберите изображение баннера</LtxtValBanImg>
+    <LtxtValBanQry>Вы должны подтвердить запрос</LtxtValBanQry>
+    <LtxtConfRemImg>Вы уверены, что хотите удалить изображение?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použít</DtxtApply>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtEdit>Upravit</DtxtEdit>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtChange>Změnit</DtxtChange>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtState>Stát</DtxtState>
+    <DtxtLink>Odkaz</DtxtLink>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtValidate>Ověřte dotaz</DtxtValidate>
+    <DtxtDefinition>Definice</DtxtDefinition>
+    <LtxtMustStart>Musí začínat s</LtxtMustStart>
+    <LtxtCCode>Kód klienta</LtxtCCode>
+    <LtxtStartDate>Počáteční datum</LtxtStartDate>
+    <LtxtEndDate>Datum ukončení</LtxtEndDate>
+    <LtxtAvlVars>Existují proměnné</LtxtAvlVars>
+    <LtxtSections>Sekce</LtxtSections>
+    <LtxtCountries>Země</LtxtCountries>
+    <LtxtClientGrps>Skupiny klienta</LtxtClientGrps>
+    <LtxtImg>Obrázek</LtxtImg>
+    <LtxtBanner>Banner</LtxtBanner>
+    <LtxtAddEditDesc>V této sekci je možné přidat/upravit banner a propagovat tak jiné stránky nebo sekce z Vašeho vlastního portálu.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Zadejte prosím odkaz spojený s bannerem</LtxtValBanLnk>
+    <LtxtValBanImg>Vyberte laskavě obrázek banneru</LtxtValBanImg>
+    <LtxtValBanQry>Musíte ověřit dotaz</LtxtValBanQry>
+    <LtxtConfRemImg>Jste si jistý/á, že chcete tento obrázek odebrat?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Zastosuj</DtxtApply>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtEdit>Edytuj</DtxtEdit>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtQuery>Zapytanie</DtxtQuery>
+    <DtxtChange>Zmiana</DtxtChange>
+    <DtxtDescription>Opis</DtxtDescription>
+    <DtxtGroup>Grupa materiałów</DtxtGroup>
+    <DtxtState>Kraj</DtxtState>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtValidate>Potwierdź zapytanie</DtxtValidate>
+    <DtxtDefinition>Definicja</DtxtDefinition>
+    <LtxtMustStart>Musisz zacząć z </LtxtMustStart>
+    <LtxtCCode>Kod klienta</LtxtCCode>
+    <LtxtStartDate>Data rozpoczęcia</LtxtStartDate>
+    <LtxtEndDate>Data zakończenia</LtxtEndDate>
+    <LtxtAvlVars>Dostępne zmienne</LtxtAvlVars>
+    <LtxtSections>Działy</LtxtSections>
+    <LtxtCountries>Kraje</LtxtCountries>
+    <LtxtClientGrps>Grupy klientów</LtxtClientGrps>
+    <LtxtImg>Zdjęcie</LtxtImg>
+    <LtxtBanner>Baner</LtxtBanner>
+    <LtxtAddEditDesc>Tutaj można dodawać i edytować banery aby promować inne strony lub działy twojego portalu. </LtxtAddEditDesc>
+    <LtxtValBanLnk>Proszę wprowadź link powiązany z banerem</LtxtValBanLnk>
+    <LtxtValBanImg>Proszę wybierz zdjęcie na baner</LtxtValBanImg>
+    <LtxtValBanQry>Musisz zweryfikować zapytanie</LtxtValBanQry>
+    <LtxtConfRemImg>Czy jesteś pewien, że chcesz usunąć zdjęcie?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>Použiť</DtxtApply>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtEdit>Editovať</DtxtEdit>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtQuery>Dotaz</DtxtQuery>
+    <DtxtChange>Zmeniť</DtxtChange>
+    <DtxtDescription>Popis</DtxtDescription>
+    <DtxtGroup>Skupina</DtxtGroup>
+    <DtxtState>Štát</DtxtState>
+    <DtxtLink>Link</DtxtLink>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtValidate>Potvrdiť dotaz</DtxtValidate>
+    <DtxtDefinition>Definícia</DtxtDefinition>
+    <LtxtMustStart>Musí začínať s</LtxtMustStart>
+    <LtxtCCode>Kód klienta</LtxtCCode>
+    <LtxtStartDate>Dátum zahájenia</LtxtStartDate>
+    <LtxtEndDate>Dátum ukončenia</LtxtEndDate>
+    <LtxtAvlVars>Premenné k dispozícii</LtxtAvlVars>
+    <LtxtSections>Sekcie</LtxtSections>
+    <LtxtCountries>Krajiny</LtxtCountries>
+    <LtxtClientGrps>Skupiny klientov</LtxtClientGrps>
+    <LtxtImg>Obrázok</LtxtImg>
+    <LtxtBanner>Baner</LtxtBanner>
+    <LtxtAddEditDesc>Tu sa dajú pridať a editovať banery za účelom propagácie iných webových stránok alebo sekcií Vášho portálu.</LtxtAddEditDesc>
+    <LtxtValBanLnk>Prosím, zadajte link priradený baneru</LtxtValBanLnk>
+    <LtxtValBanImg>Prosím, vyberte obrázok baneru</LtxtValBanImg>
+    <LtxtValBanQry>Musíte overiť dotaz</LtxtValBanQry>
+    <LtxtConfRemImg>Ste si istí, že chcete odstrániť tento obrázok?</LtxtConfRemImg>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>&lt;--&gt;</DtxtApply>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtCancel>&lt;--&gt;</DtxtCancel>
+    <DtxtEdit>&lt;--&gt;</DtxtEdit>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtQuery>&lt;--&gt;</DtxtQuery>
+    <DtxtChange>&lt;--&gt;</DtxtChange>
+    <DtxtDescription>&lt;--&gt;</DtxtDescription>
+    <DtxtGroup>&lt;--&gt;</DtxtGroup>
+    <DtxtState>&lt;--&gt;</DtxtState>
+    <DtxtLink>&lt;--&gt;</DtxtLink>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtValidate>&lt;--&gt;</DtxtValidate>
+    <DtxtDefinition>&lt;--&gt;</DtxtDefinition>
+    <LtxtMustStart>&lt;--&gt;</LtxtMustStart>
+    <LtxtCCode>&lt;--&gt;</LtxtCCode>
+    <LtxtStartDate>&lt;--&gt;</LtxtStartDate>
+    <LtxtEndDate>&lt;--&gt;</LtxtEndDate>
+    <LtxtAvlVars>&lt;--&gt;</LtxtAvlVars>
+    <LtxtSections>&lt;--&gt;</LtxtSections>
+    <LtxtCountries>&lt;--&gt;</LtxtCountries>
+    <LtxtClientGrps>&lt;--&gt;</LtxtClientGrps>
+    <LtxtImg>&lt;--&gt;</LtxtImg>
+    <LtxtBanner>&lt;--&gt;</LtxtBanner>
+    <LtxtAddEditDesc>&lt;--&gt;</LtxtAddEditDesc>
+    <LtxtValBanLnk>&lt;--&gt;</LtxtValBanLnk>
+    <LtxtValBanImg>&lt;--&gt;</LtxtValBanImg>
+    <LtxtValBanQry>&lt;--&gt;</LtxtValBanQry>
+    <LtxtConfRemImg>&lt;--&gt;</LtxtConfRemImg>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtApply>DtxtApply</DtxtApply>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtEdit>DtxtEdit</DtxtEdit>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtQuery>DtxtQuery</DtxtQuery>
+    <DtxtChange>DtxtChange</DtxtChange>
+    <DtxtDescription>DtxtDescription</DtxtDescription>
+    <DtxtGroup>DtxtGroup</DtxtGroup>
+    <DtxtState>DtxtState</DtxtState>
+    <DtxtLink>DtxtLink</DtxtLink>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtValidate>DtxtValidate</DtxtValidate>
+    <DtxtDefinition>DtxtDefinition</DtxtDefinition>
+    <LtxtMustStart>LtxtMustStart</LtxtMustStart>
+    <LtxtCCode>LtxtCCode</LtxtCCode>
+    <LtxtStartDate>LtxtStartDate</LtxtStartDate>
+    <LtxtEndDate>LtxtEndDate</LtxtEndDate>
+    <LtxtAvlVars>LtxtAvlVars</LtxtAvlVars>
+    <LtxtSections>LtxtSections</LtxtSections>
+    <LtxtCountries>LtxtCountries</LtxtCountries>
+    <LtxtClientGrps>LtxtClientGrps</LtxtClientGrps>
+    <LtxtImg>LtxtImg</LtxtImg>
+    <LtxtBanner>LtxtBanner</LtxtBanner>
+    <LtxtAddEditDesc>LtxtAddEditDesc</LtxtAddEditDesc>
+    <LtxtValBanLnk>LtxtValBanLnk</LtxtValBanLnk>
+    <LtxtValBanImg>LtxtValBanImg</LtxtValBanImg>
+    <LtxtValBanQry>LtxtValBanQry</LtxtValBanQry>
+    <LtxtConfRemImg>LtxtConfRemImg</LtxtConfRemImg>
+  </language>
+</languages>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Items committed in OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtDate>Fecha</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Artículos reservados en OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtDate>תאריך</DtxtDate>
+    <LtxtReference>מק"ט</LtxtReference>
+    <LtxtItmsComInOLK>פריטים מחוייבים באולק</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Items committed in OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Itens reservados no OnlineKit</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtDate>Date</DtxtDate>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtItmsComInOLK>&lt;--&gt;</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtItmsComInOLK>&lt;--&gt;</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtDate>Дата</DtxtDate>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtItmsComInOLK>&lt;--&gt;</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Datum</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Položky potvrzené v OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Data</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Pozycje zakontraktowane w OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtDate>Dátum</DtxtDate>
+    <LtxtReference>Ref</LtxtReference>
+    <LtxtItmsComInOLK>Položky záväzné v OLK</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtDate>&lt;--&gt;</DtxtDate>
+    <LtxtReference>&lt;--&gt;</LtxtReference>
+    <LtxtItmsComInOLK>&lt;--&gt;</LtxtItmsComInOLK>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <LtxtReference>LtxtReference</LtxtReference>
+    <LtxtItmsComInOLK>LtxtItmsComInOLK</LtxtItmsComInOLK>
+  </language>
+</languages>

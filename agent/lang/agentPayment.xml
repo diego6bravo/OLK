@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction #</DtxtLogNum>
+    <DtxtInstallment>Installment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtDocType>Document Type</DtxtDocType>
+    <LtxtTo>To</LtxtTo>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCred>Credit Card</LtxtCred>
+    <LtxtToPay>to pay</LtxtToPay>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LcolToPay>To pay</LcolToPay>
+    <LtxtPayOnAcct>Payment on Account</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Are you sure you want to add this document?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Amount due and amount paid do not match, there is an outstanding balance {0} in the amount of {1}.\nDo you wish to continue?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>of the</LtxtDeLa>
+    <LtxtDel>of the</LtxtDel>
+    <LtxtValFld>Please enter the field ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>The import of the {0} must not be equal to zero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Are you sure you want to delete this receipt?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>DT</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo sólo acepta valores numéricos</DtxtValNumVal>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtValFldMaxChar>Este campo tiene un límite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Fecha</DtxtDate>
+    <DtxtImport>Importe</DtxtImport>
+    <DtxtAddress>Dirección</DtxtAddress>
+    <DtxtAddImg>Agregar Imagen</DtxtAddImg>
+    <DtxtValNumValWhole>Este campo sólo acepta valores numéricos enteros</DtxtValNumValWhole>
+    <DtxtDetail>Detalle</DtxtDetail>
+    <DtxtObservations>Observaciones</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Pagado</DtxtPaid>
+    <DtxtLogNum>N° de Transacción</DtxtLogNum>
+    <DtxtInstallment>Plazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtCurr>Moneda</DtxtCurr>
+    <DtxtErrSaveData>Ocurrió un error al guardar datos. Contacte a su administrador de sistemas.</DtxtErrSaveData>
+    <DtxtDocType>Tipo de Documento</DtxtDocType>
+    <LtxtTo>A</LtxtTo>
+    <LtxtCounterRef>Contra Comprobante</LtxtCounterRef>
+    <LtxtCash>Efectivo</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>T. Bancaria</LtxtBankTrans>
+    <LtxtCred>T. Crédito</LtxtCred>
+    <LtxtToPay>a pagar</LtxtToPay>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LcolToPay>A pagar</LcolToPay>
+    <LtxtPayOnAcct>Saldo a Favor</LtxtPayOnAcct>
+    <LtxtConfAddDoc>¿Está seguro que desea agregar este documento?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>El importe a pagar y la cantidad pagada no concuerda, va a quedar un saldo afuera {0} por el monto de {1}.\n¿Desea continuar?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>de la </LtxtDeLa>
+    <LtxtDel>del</LtxtDel>
+    <LtxtValFld>Falta datos para el campo ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>El importe del {0} debe ser distinto a cero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>¿Está seguro que desea cancelar este recibo?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>FA</LtxtTransTypeIN>
+    <LtxtTransTypeDT>AN</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtCancel>בטל</DtxtCancel>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtConfirm>אישור</DtxtConfirm>
+    <DtxtValNumVal>שדה זה תומך מספרים בלבד!</DtxtValNumVal>
+    <DtxtDoc>מסמך</DtxtDoc>
+    <DtxtCode>קוד</DtxtCode>
+    <DtxtValFldMaxChar>שדה זה מגובל ל {0} תווים!</DtxtValFldMaxChar>
+    <DtxtNote>הערה</DtxtNote>
+    <DtxtDate>תאריך</DtxtDate>
+    <DtxtImport>יבוא</DtxtImport>
+    <DtxtAddress>כתובת</DtxtAddress>
+    <DtxtAddImg>הוסף תמונה</DtxtAddImg>
+    <DtxtValNumValWhole>שדה זה תומך מספרים שלמים בלבד!</DtxtValNumValWhole>
+    <DtxtDetail>פרטים</DtxtDetail>
+    <DtxtObservations>הערות</DtxtObservations>
+    <DtxtTotal>סכום</DtxtTotal>
+    <DtxtPaid>שולם</DtxtPaid>
+    <DtxtLogNum>עיסקה מס'</DtxtLogNum>
+    <DtxtInstallment>תשלום</DtxtInstallment>
+    <DtxtXofY>{0} מתוך {1}</DtxtXofY>
+    <DtxtCurr>מטבע</DtxtCurr>
+    <DtxtErrSaveData>נוצרה תקלה בשמירה, צור קשר עם מנהל המערכת.</DtxtErrSaveData>
+    <DtxtDocType>סוג מסמך</DtxtDocType>
+    <LtxtTo>ל</LtxtTo>
+    <LtxtCounterRef>אסמכת נגדית</LtxtCounterRef>
+    <LtxtCash>מזומן</LtxtCash>
+    <LtxtCheck>צק</LtxtCheck>
+    <LtxtBankTrans>עברה בנקאית</LtxtBankTrans>
+    <LtxtCred>כרטיס אשראי</LtxtCred>
+    <LtxtToPay>לתשלום</LtxtToPay>
+    <LtxtBalToPay>סכום לתשלום</LtxtBalToPay>
+    <LcolToPay>לתשלום</LcolToPay>
+    <LtxtPayOnAcct>סכום בזכות</LtxtPayOnAcct>
+    <LtxtConfAddDoc>האם להוסיף את המסמך?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>הסכום ששלום לא שווה לסכום שצריך לשלם, נשאר יתרה מחוץ ל{0} בסכום של {1}.\nרוצה להמשיך?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>ל</LtxtDeLa>
+    <LtxtDel>ל</LtxtDel>
+    <LtxtValFld>חסר נתונים בשדה ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>סכום ה{0} צריך להיות שונה מ-0</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>האם למחוק את הקבלה?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>חש</LtxtTransTypeIN>
+    <LtxtTransTypeDT>מק</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtCancel>Cancel</DtxtCancel>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Confirm</DtxtConfirm>
+    <DtxtValNumVal>This field only accepts numeric values</DtxtValNumVal>
+    <DtxtDoc>Document</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtValFldMaxChar>This field has a maximum characters of {0}</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Address</DtxtAddress>
+    <DtxtAddImg>Add Image</DtxtAddImg>
+    <DtxtValNumValWhole>This field only accepts whole numeric values</DtxtValNumValWhole>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Remarks</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Paid</DtxtPaid>
+    <DtxtLogNum>Transaction No</DtxtLogNum>
+    <DtxtInstallment>Instalment</DtxtInstallment>
+    <DtxtXofY>{0} of {1}</DtxtXofY>
+    <DtxtCurr>Currency</DtxtCurr>
+    <DtxtErrSaveData>Save data error. Contact your system administrator.</DtxtErrSaveData>
+    <DtxtDocType>Document Type</DtxtDocType>
+    <LtxtTo>To</LtxtTo>
+    <LtxtCounterRef>Counter Reference</LtxtCounterRef>
+    <LtxtCash>Cash</LtxtCash>
+    <LtxtCheck>Check</LtxtCheck>
+    <LtxtBankTrans>Bank Transfer</LtxtBankTrans>
+    <LtxtCred>Credit Card</LtxtCred>
+    <LtxtToPay>to pay</LtxtToPay>
+    <LtxtBalToPay>Balance Due</LtxtBalToPay>
+    <LcolToPay>To pay</LcolToPay>
+    <LtxtPayOnAcct>Payment on Account</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Are you sure you want to add this document?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Amount due and amount paid do not match, there is an outstanding balance {0} in the amount of {1}.\nDo you wish to continue?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>of the</LtxtDeLa>
+    <LtxtDel>of the</LtxtDel>
+    <LtxtValFld>Please enter the field ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>The import of the {0} must not be equal to zero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Are you sure you want to delete this receipt?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>DT</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtCancel>Cancelar</DtxtCancel>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtConfirm>Confirmar</DtxtConfirm>
+    <DtxtValNumVal>Este campo só aceita valores numéricos</DtxtValNumVal>
+    <DtxtDoc>Documento</DtxtDoc>
+    <DtxtCode>Código</DtxtCode>
+    <DtxtValFldMaxChar>Este campo tem um limite de {0} caracteres</DtxtValFldMaxChar>
+    <DtxtNote>Nota</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Importação</DtxtImport>
+    <DtxtAddress>Endereço</DtxtAddress>
+    <DtxtAddImg>Adicionar imagem</DtxtAddImg>
+    <DtxtValNumValWhole>Este campo só aceita números inteiros</DtxtValNumValWhole>
+    <DtxtDetail>Detalhe</DtxtDetail>
+    <DtxtObservations>Observações</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Pago</DtxtPaid>
+    <DtxtLogNum>N° de Transações</DtxtLogNum>
+    <DtxtInstallment>Prazo</DtxtInstallment>
+    <DtxtXofY>{0} de {1}</DtxtXofY>
+    <DtxtCurr>Moeda</DtxtCurr>
+    <DtxtErrSaveData>Ocorreu um erro ao gravar os dados. Contacte o administrador do sistema.</DtxtErrSaveData>
+    <DtxtDocType>Tipo de Documento</DtxtDocType>
+    <LtxtTo>Para</LtxtTo>
+    <LtxtCounterRef>Contra Comprovante</LtxtCounterRef>
+    <LtxtCash>Em Dinheiro</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Cartão Bancário</LtxtBankTrans>
+    <LtxtCred>Cartão Crédito</LtxtCred>
+    <LtxtToPay>por pagar</LtxtToPay>
+    <LtxtBalToPay>Saldo a Pagar</LtxtBalToPay>
+    <LcolToPay>Por pagar</LcolToPay>
+    <LtxtPayOnAcct>Saldo a Favor</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Tem certeza  que deseja adicionar este documento?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>O valor a  pagar e a quantidade pagada não concorda, ficará um saldo fora {0} por um total de {1}. Deseja continuar?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>da</LtxtDeLa>
+    <LtxtDel>do</LtxtDel>
+    <LtxtValFld>Falta dados para o campo ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>O valor do {0} deve ser diferente de zero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Tem certeza que deseja cancelar este recebimento ?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>AN</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtCancel>Annuler</DtxtCancel>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtConfirm>Vérifier</DtxtConfirm>
+    <DtxtValNumVal>Ce domaine accepte seule valeurs numériques</DtxtValNumVal>
+    <DtxtDoc>Documentation</DtxtDoc>
+    <DtxtCode>Code</DtxtCode>
+    <DtxtValFldMaxChar>Ce domaine a une limite des {0} caractères</DtxtValFldMaxChar>
+    <DtxtNote>Note</DtxtNote>
+    <DtxtDate>Date</DtxtDate>
+    <DtxtImport>Montant, Valeur</DtxtImport>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtAddImg>Ajouter l'image</DtxtAddImg>
+    <DtxtValNumValWhole>Ce domaine accepte une seule valeur numériques entiers</DtxtValNumValWhole>
+    <DtxtDetail>Détail</DtxtDetail>
+    <DtxtObservations>Remarques</DtxtObservations>
+    <DtxtTotal>Total</DtxtTotal>
+    <DtxtPaid>Payé</DtxtPaid>
+    <DtxtLogNum>&lt;--&gt;</DtxtLogNum>
+    <DtxtInstallment>&lt;--&gt;</DtxtInstallment>
+    <DtxtXofY>&lt;--&gt;</DtxtXofY>
+    <DtxtCurr>Monnaie</DtxtCurr>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <LtxtTo>À</LtxtTo>
+    <LtxtCounterRef>Contre quittance</LtxtCounterRef>
+    <LtxtCash>Efectif</LtxtCash>
+    <LtxtCheck>Cheque</LtxtCheck>
+    <LtxtBankTrans>Virement bancaire</LtxtBankTrans>
+    <LtxtCred>Card de crédit</LtxtCred>
+    <LtxtToPay>à payer</LtxtToPay>
+    <LtxtBalToPay>Solde à payer</LtxtBalToPay>
+    <LcolToPay>À payer</LcolToPay>
+    <LtxtPayOnAcct>Solde à faveur</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Êtes-vous sûre d'ajouter ce document?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Le montant à payer et la quantité payée ne concorde pas, il va rester un solde dehors {0} par le montant de {0} Veuillez-vous continuer? </LtxtConfAddImpNoMatch>
+    <LtxtDeLa>de la </LtxtDeLa>
+    <LtxtDel>du</LtxtDel>
+    <LtxtValFld>Il manque des donnés pour le domaine ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>L'importe du {0} doit-être différent à zéro</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>&lt;--&gt;</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>FA</LtxtTransTypeIN>
+    <LtxtTransTypeDT>&lt;--&gt;</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtCancel>Abbrechen</DtxtCancel>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtConfirm>Bestätigen</DtxtConfirm>
+    <DtxtValNumVal>In diesem Feld können ausschließlich Zahlen eingetragen werden</DtxtValNumVal>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kennzeichen</DtxtCode>
+    <DtxtValFldMaxChar>Dieses Feld hat eine Höchstzeichenanzahl von {0}</DtxtValFldMaxChar>
+    <DtxtNote>Notiz</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importieren</DtxtImport>
+    <DtxtAddress>Adresse</DtxtAddress>
+    <DtxtAddImg>Blid Hinzufügen</DtxtAddImg>
+    <DtxtValNumValWhole>In diesem Feld könen ausschließlich Ganzezahlen eingetragen werden</DtxtValNumValWhole>
+    <DtxtDetail>Einzelheit</DtxtDetail>
+    <DtxtObservations>Beobachtungen</DtxtObservations>
+    <DtxtTotal>Gesamtbetrag</DtxtTotal>
+    <DtxtPaid>Bezahlt</DtxtPaid>
+    <DtxtLogNum>Transaktions #</DtxtLogNum>
+    <DtxtInstallment>Rate</DtxtInstallment>
+    <DtxtXofY>{0} von {1}</DtxtXofY>
+    <DtxtCurr>Währung</DtxtCurr>
+    <DtxtErrSaveData>Datenspeicher Fehler. Bitte kontaktieren Sie ihren Systemsadministrator.</DtxtErrSaveData>
+    <DtxtDocType>Dokument Art</DtxtDocType>
+    <LtxtTo>An</LtxtTo>
+    <LtxtCounterRef>Gegenbezug</LtxtCounterRef>
+    <LtxtCash>Bargeld </LtxtCash>
+    <LtxtCheck>Scheck</LtxtCheck>
+    <LtxtBankTrans>Überweisung</LtxtBankTrans>
+    <LtxtCred>Kreditkarte</LtxtCred>
+    <LtxtToPay>Zu zahlen</LtxtToPay>
+    <LtxtBalToPay>Fälliger Betrag</LtxtBalToPay>
+    <LcolToPay>Zu zahlen</LcolToPay>
+    <LtxtPayOnAcct>Zahlung auf Konto</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Möchten Sie dieses Dokument wirklich hinzufügen?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Der Offenerbetrag und der Bezahlterbetrag stimmen nicht überein, Offenstehenderbetrag {0} in höhe von {1}.\nMöchten Sie fortfahren? </LtxtConfAddImpNoMatch>
+    <LtxtDeLa>von der</LtxtDeLa>
+    <LtxtDel>von der</LtxtDel>
+    <LtxtValFld>Bitte geben Sie das Feld ""{0}"" ein</LtxtValFld>
+    <LtxtImpNotEqZero>Der Import von {0} darf nicht gleich null sein</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>&lt;--&gt;</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>&lt;--&gt;</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtCancel>Отмена</DtxtCancel>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtConfirm>Разрешение</DtxtConfirm>
+    <DtxtValNumVal>Это поле поддерживает только номера</DtxtValNumVal>
+    <DtxtDoc>Документ</DtxtDoc>
+    <DtxtCode>Код</DtxtCode>
+    <DtxtValFldMaxChar>Это поле ограничено{0}символов</DtxtValFldMaxChar>
+    <DtxtNote>Примечание</DtxtNote>
+    <DtxtDate>Дата</DtxtDate>
+    <DtxtImport>Импорт</DtxtImport>
+    <DtxtAddress>Адрес</DtxtAddress>
+    <DtxtAddImg>Добавить фото</DtxtAddImg>
+    <DtxtValNumValWhole>Это поле поддерживает только целые номера</DtxtValNumValWhole>
+    <DtxtDetail>Детали</DtxtDetail>
+    <DtxtObservations>Заметки</DtxtObservations>
+    <DtxtTotal>Сумма</DtxtTotal>
+    <DtxtPaid>Уплачен</DtxtPaid>
+    <DtxtLogNum>Договор номер</DtxtLogNum>
+    <DtxtInstallment>Платеж</DtxtInstallment>
+    <DtxtXofY>{0} из {1}</DtxtXofY>
+    <DtxtCurr>Валюта</DtxtCurr>
+    <DtxtErrSaveData>&lt;--&gt;</DtxtErrSaveData>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <LtxtTo>Для</LtxtTo>
+    <LtxtCounterRef>Противоположный источник</LtxtCounterRef>
+    <LtxtCash>Наличные</LtxtCash>
+    <LtxtCheck>Чек</LtxtCheck>
+    <LtxtBankTrans>Банковский перевод</LtxtBankTrans>
+    <LtxtCred>Кредитные карточки</LtxtCred>
+    <LtxtToPay>К оплате</LtxtToPay>
+    <LtxtBalToPay>Сумма к оплате</LtxtBalToPay>
+    <LcolToPay>К оплате</LcolToPay>
+    <LtxtPayOnAcct>Сумма остатка</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Добавить документ?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Уплаченная сумма осталась вне баланса{o}  Сумма {1}. \nХотите продолжить?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>Для</LtxtDeLa>
+    <LtxtDel>Для</LtxtDel>
+    <LtxtValFld>Не хватает данных в поле ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>Сумма{0} должна отличаться от 0</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Удалить квитанцию?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>&lt;--&gt;</LtxtTransTypeIN>
+    <LtxtTransTypeDT>&lt;--&gt;</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtCancel>Zrušit</DtxtCancel>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtConfirm>Potvrdit</DtxtConfirm>
+    <DtxtValNumVal>Do tohoto pole je možné zadávat pouze numerické hodnoty</DtxtValNumVal>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtValFldMaxChar>Maximální počet znaků v tomto poli je {0}</DtxtValFldMaxChar>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Datum</DtxtDate>
+    <DtxtImport>Importovat</DtxtImport>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtAddImg>Přidat obrázek</DtxtAddImg>
+    <DtxtValNumValWhole>Toto pole může obsahovat pouze celá čísla</DtxtValNumValWhole>
+    <DtxtDetail>Podrobnosti</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Celkem</DtxtTotal>
+    <DtxtPaid>Zaplaceno</DtxtPaid>
+    <DtxtLogNum>Č. transakce</DtxtLogNum>
+    <DtxtInstallment>Instalace</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtCurr>Měna</DtxtCurr>
+    <DtxtErrSaveData>Chyba ukládání dat. Kontaktujte svého systémového administrátora.</DtxtErrSaveData>
+    <DtxtDocType>&lt;--&gt;</DtxtDocType>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtCounterRef>Reference protinávrhu</LtxtCounterRef>
+    <LtxtCash>Hotovost</LtxtCash>
+    <LtxtCheck>Kontrola</LtxtCheck>
+    <LtxtBankTrans>Bankovní převod</LtxtBankTrans>
+    <LtxtCred>Kreditní karta</LtxtCred>
+    <LtxtToPay>k zaplacení</LtxtToPay>
+    <LtxtBalToPay>Splatný zůstatek</LtxtBalToPay>
+    <LcolToPay>K zaplacení</LcolToPay>
+    <LtxtPayOnAcct>Platba na účet</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Jste si jistý/á, že chcete tento dokument přidat?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Splatná částka a zaplacená částka nesouhlasí, nevyřízený zůstatek je {0} ve výši {1}.\nPřejete si pokračovat?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>čeho</LtxtDeLa>
+    <LtxtDel>čeho</LtxtDel>
+    <LtxtValFld>Vyplňte prosím pole ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>import {0} nesmí být nulový</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Jste si jistý/á, že chcete tuto příjemku vymazat?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>&lt;--&gt;</LtxtTransTypeIN>
+    <LtxtTransTypeDT>&lt;--&gt;</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtCancel>Kasuj</DtxtCancel>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtConfirm>Potwierdź</DtxtConfirm>
+    <DtxtValNumVal>To pole przyjmuje tylko wartości numeryczne</DtxtValNumVal>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kod</DtxtCode>
+    <DtxtValFldMaxChar>W tym polu maksymalna liczba znaków wynosi {0}</DtxtValFldMaxChar>
+    <DtxtNote>Uwaga</DtxtNote>
+    <DtxtDate>Data</DtxtDate>
+    <DtxtImport>Import</DtxtImport>
+    <DtxtAddress>Adres </DtxtAddress>
+    <DtxtAddImg>Dodaj zdjęcie</DtxtAddImg>
+    <DtxtValNumValWhole>To pole przyjmuje tylko pełne wartości numeryczne</DtxtValNumValWhole>
+    <DtxtDetail>Szczegóły</DtxtDetail>
+    <DtxtObservations>Uwagi</DtxtObservations>
+    <DtxtTotal>Razem</DtxtTotal>
+    <DtxtPaid>Zapłacony</DtxtPaid>
+    <DtxtLogNum>Transakcja #</DtxtLogNum>
+    <DtxtInstallment>Rata</DtxtInstallment>
+    <DtxtXofY>{0} z {1}</DtxtXofY>
+    <DtxtCurr>Waluta</DtxtCurr>
+    <DtxtErrSaveData>Zapisz błąd danych. Skontaktuj się z administratorem systemu.</DtxtErrSaveData>
+    <DtxtDocType>Rodzaj dokumentu</DtxtDocType>
+    <LtxtTo>Do</LtxtTo>
+    <LtxtCounterRef>Adnotacja/ odnośnik</LtxtCounterRef>
+    <LtxtCash>Gotówka</LtxtCash>
+    <LtxtCheck>Czek</LtxtCheck>
+    <LtxtBankTrans>Przelew bankowy</LtxtBankTrans>
+    <LtxtCred>Karta kredytowa</LtxtCred>
+    <LtxtToPay>do zapłaty</LtxtToPay>
+    <LtxtBalToPay>Kwota do zapłaty</LtxtBalToPay>
+    <LcolToPay>do zapłaty</LcolToPay>
+    <LtxtPayOnAcct>Płatność na rachunek</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Jesteś pewien, że chcesz dodać ten dokument?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Kwota należna i kwota zapłacona nie zgadzają się, pozostało saldo {0} do zapłaty w wysokości {1}. Czy chcesz kontynuować? chcesz</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>Z</LtxtDeLa>
+    <LtxtDel>Z</LtxtDel>
+    <LtxtValFld>Proszę wprowadź pole ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>Import {0} nie może równać się zero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Czy jesteś pewien, że chcesz usunąć te pokwitowanie?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>DT</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtCancel>Zrušiť</DtxtCancel>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtConfirm>Potvrdiť</DtxtConfirm>
+    <DtxtValNumVal>Toto políčko akceptuje len číselné hodnoty</DtxtValNumVal>
+    <DtxtDoc>Dokument</DtxtDoc>
+    <DtxtCode>Kód</DtxtCode>
+    <DtxtValFldMaxChar>Toto políčko má maximálny počet znakov {0}</DtxtValFldMaxChar>
+    <DtxtNote>Poznámka</DtxtNote>
+    <DtxtDate>Dátum</DtxtDate>
+    <DtxtImport>Importovať</DtxtImport>
+    <DtxtAddress>Adresa</DtxtAddress>
+    <DtxtAddImg>Pridať obrázok</DtxtAddImg>
+    <DtxtValNumValWhole>Toto políčko akceptuje len celé číselné hodnoty</DtxtValNumValWhole>
+    <DtxtDetail>Detail</DtxtDetail>
+    <DtxtObservations>Poznámky</DtxtObservations>
+    <DtxtTotal>Súčet</DtxtTotal>
+    <DtxtPaid>Uhradené</DtxtPaid>
+    <DtxtLogNum>Transakcia #</DtxtLogNum>
+    <DtxtInstallment>Splátka</DtxtInstallment>
+    <DtxtXofY>{0} alebo {1}</DtxtXofY>
+    <DtxtCurr>Mena</DtxtCurr>
+    <DtxtErrSaveData>Uložiť chybu v dátach. Kontaktujte Systémového administrátora.</DtxtErrSaveData>
+    <DtxtDocType>Typ dokumentu</DtxtDocType>
+    <LtxtTo>Komu</LtxtTo>
+    <LtxtCounterRef>Odkaz na pokladňu</LtxtCounterRef>
+    <LtxtCash>Hotovosť</LtxtCash>
+    <LtxtCheck>Šek</LtxtCheck>
+    <LtxtBankTrans>Bankový prevod</LtxtBankTrans>
+    <LtxtCred>Kreditná karta</LtxtCred>
+    <LtxtToPay>K úhrade</LtxtToPay>
+    <LtxtBalToPay>Nedoplatok</LtxtBalToPay>
+    <LcolToPay>K úhrade</LcolToPay>
+    <LtxtPayOnAcct>Platba na konto</LtxtPayOnAcct>
+    <LtxtConfAddDoc>Ste si istí, že chcete pridať tento dokument?</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>Dlžná suma a uhradená suma sa nezhodujú, existuje zostatok {0} v sume {1}.\nPrajete si pokračovať?</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>z</LtxtDeLa>
+    <LtxtDel>z</LtxtDel>
+    <LtxtValFld>Prosím zadajte políčko ""{0}""</LtxtValFld>
+    <LtxtImpNotEqZero>Import {0} sa musí rovnať nule</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>Ste si istí, že chcete zmazať toto potvrdenie?</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>IN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>DT</LtxtTransTypeDT>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtCancel>DtxtCancel</DtxtCancel>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtConfirm>DtxtConfirm</DtxtConfirm>
+    <DtxtValNumVal>DtxtValNumVal</DtxtValNumVal>
+    <DtxtDoc>DtxtDoc</DtxtDoc>
+    <DtxtCode>DtxtCode</DtxtCode>
+    <DtxtValFldMaxChar>DtxtValFldMaxChar</DtxtValFldMaxChar>
+    <DtxtNote>DtxtNote</DtxtNote>
+    <DtxtDate>DtxtDate</DtxtDate>
+    <DtxtImport>DtxtImport</DtxtImport>
+    <DtxtAddress>DtxtAddress</DtxtAddress>
+    <DtxtAddImg>DtxtAddImg</DtxtAddImg>
+    <DtxtValNumValWhole>DtxtValNumValWhole</DtxtValNumValWhole>
+    <DtxtDetail>DtxtDetail</DtxtDetail>
+    <DtxtObservations>DtxtObservations</DtxtObservations>
+    <DtxtTotal>DtxtTotal</DtxtTotal>
+    <DtxtPaid>DtxtPaid</DtxtPaid>
+    <DtxtLogNum>DtxtLogNum</DtxtLogNum>
+    <DtxtInstallment>DtxtInstallment</DtxtInstallment>
+    <DtxtXofY>DtxtXofY</DtxtXofY>
+    <DtxtCurr>DtxtCurr</DtxtCurr>
+    <DtxtErrSaveData>DtxtErrSaveData</DtxtErrSaveData>
+    <DtxtDocType>DtxtDocType</DtxtDocType>
+    <LtxtTo>LtxtTo</LtxtTo>
+    <LtxtCounterRef>LtxtCounterRef</LtxtCounterRef>
+    <LtxtCash>LtxtCash</LtxtCash>
+    <LtxtCheck>LtxtCheck</LtxtCheck>
+    <LtxtBankTrans>LtxtBankTrans</LtxtBankTrans>
+    <LtxtCred>LtxtCred</LtxtCred>
+    <LtxtToPay>LtxtToPay</LtxtToPay>
+    <LtxtBalToPay>LtxtBalToPay</LtxtBalToPay>
+    <LcolToPay>LcolToPay</LcolToPay>
+    <LtxtPayOnAcct>LtxtPayOnAcct</LtxtPayOnAcct>
+    <LtxtConfAddDoc>LtxtConfAddDoc</LtxtConfAddDoc>
+    <LtxtConfAddImpNoMatch>LtxtConfAddImpNoMatch</LtxtConfAddImpNoMatch>
+    <LtxtDeLa>LtxtDeLa</LtxtDeLa>
+    <LtxtDel>LtxtDel</LtxtDel>
+    <LtxtValFld>LtxtValFld</LtxtValFld>
+    <LtxtImpNotEqZero>LtxtImpNotEqZero</LtxtImpNotEqZero>
+    <LtxtConfCancelDoc>LtxtConfCancelDoc</LtxtConfCancelDoc>
+    <LtxtTransTypeIN>LtxtTransTypeIN</LtxtTransTypeIN>
+    <LtxtTransTypeDT>LtxtTransTypeDT</LtxtTransTypeDT>
+  </language>
+</languages>

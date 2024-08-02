@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <LttlObjPrint>Object Printing</LttlObjPrint>
+    <LttlObjPrintNote>Here you can difine the print format for the objects</LttlObjPrintNote>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtGoodsIssue>Goods Issue</LtxtGoodsIssue>
+    <LLinkData>Link Data</LLinkData>
+    <LtxtConfRemPrint>Are you sure you want to delete object print {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>External Link</LtxtExternalLink>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Guardar</DtxtSave>
+    <DtxtAdd>Agregar</DtxtAdd>
+    <DtxtName>Nombre</DtxtName>
+    <DtxtAgent>Agente</DtxtAgent>
+    <DtxtActive>Activo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuote>Cotización</DtxtQuote>
+    <DtxtOrder>Orden</DtxtOrder>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Artículo</DtxtItem>
+    <DtxtInvoice>Factura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traducir</DtxtTranslate>
+    <DtxtActivity>Actividad</DtxtActivity>
+    <DtxtBPS>Socios de Negocios</DtxtBPS>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitud de anticipo de clientes</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Factura de anticipo de clientes</DtxtARDownPayInv>
+    <DtxtPurOrder>Orden de Compra</DtxtPurOrder>
+    <LttlObjPrint>Impresión de Objetos</LttlObjPrint>
+    <LttlObjPrintNote>En esta sección podra definir los formatos de impresión para los objetos</LttlObjPrintNote>
+    <LtxtSelObj>Escoja un objeto</LtxtSelObj>
+    <LtxtGeneral>Generales</LtxtGeneral>
+    <LtxtPurchase>Compras</LtxtPurchase>
+    <LtxtSale>Venta</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtGoodsIssue>Entrada</LtxtGoodsIssue>
+    <LLinkData>Datos de Enlace</LLinkData>
+    <LtxtConfRemPrint>¿Está seguro que desea eliminar la impresión objeto {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>Enlace Externo
+</LtxtExternalLink>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtSave>שמירה</DtxtSave>
+    <DtxtAdd>הוסף</DtxtAdd>
+    <DtxtName>שם</DtxtName>
+    <DtxtAgent>סוכן</DtxtAgent>
+    <DtxtActive>פעיל</DtxtActive>
+    <DtxtClient>לקוח</DtxtClient>
+    <DtxtQuote>הצעת  מחיר</DtxtQuote>
+    <DtxtOrder>סדר</DtxtOrder>
+    <DtxtSalesOrder>הזמנה</DtxtSalesOrder>
+    <DtxtReceipt>קבלה</DtxtReceipt>
+    <DtxtItem>פריט</DtxtItem>
+    <DtxtInvoice>חשבונית מס</DtxtInvoice>
+    <DtxtDelivery>תעודת משלוח</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>לתרגם</DtxtTranslate>
+    <DtxtActivity>פעילות</DtxtActivity>
+    <DtxtBPS>כרטיסים</DtxtBPS>
+    <DtxtReservada>שמור\ה</DtxtReservada>
+    <DtxtARDownPayReq>בקשה למקדמה – לקוח</DtxtARDownPayReq>
+    <DtxtARDownPayInv>חשבונית מקדמה – לקוח</DtxtARDownPayInv>
+    <DtxtPurOrder>הזמנה מספקים</DtxtPurOrder>
+    <LttlObjPrint>הדפסת אוביקטים</LttlObjPrint>
+    <LttlObjPrintNote>בחלק זה תוכל להגדיר את תצוגת ההדפסה עבור האוביקטים</LttlObjPrintNote>
+    <LtxtSelObj>בחר אובייקט</LtxtSelObj>
+    <LtxtGeneral>כללי</LtxtGeneral>
+    <LtxtPurchase>קניה</LtxtPurchase>
+    <LtxtSale>מכירה</LtxtSale>
+    <LtxtBanks>בנקים</LtxtBanks>
+    <LtxtGoodsIssue>תעודת משלוח</LtxtGoodsIssue>
+    <LLinkData>נתוניי קישור</LLinkData>
+    <LtxtConfRemPrint>האם אתה בטוח שברצונך למחוק את הדפסת האוביקט?</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Save</DtxtSave>
+    <DtxtAdd>Add</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client</DtxtClient>
+    <DtxtQuote>Quotation</DtxtQuote>
+    <DtxtOrder>Order</DtxtOrder>
+    <DtxtSalesOrder>Sales Order</DtxtSalesOrder>
+    <DtxtReceipt>Receipt</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Invoice</DtxtInvoice>
+    <DtxtDelivery>Delivery</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Translate</DtxtTranslate>
+    <DtxtActivity>Activity</DtxtActivity>
+    <DtxtBPS>Business Partners</DtxtBPS>
+    <DtxtReservada>Reserved</DtxtReservada>
+    <DtxtARDownPayReq>A/R Down Payment Request</DtxtARDownPayReq>
+    <DtxtARDownPayInv>A/R Down Payment Invoice</DtxtARDownPayInv>
+    <DtxtPurOrder>Purchase Order</DtxtPurOrder>
+    <LttlObjPrint>Object Printing</LttlObjPrint>
+    <LttlObjPrintNote>Here you can difine the print format for the objects</LttlObjPrintNote>
+    <LtxtSelObj>Select an Object</LtxtSelObj>
+    <LtxtGeneral>General</LtxtGeneral>
+    <LtxtPurchase>Purchase</LtxtPurchase>
+    <LtxtSale>Sale</LtxtSale>
+    <LtxtBanks>Banks</LtxtBanks>
+    <LtxtGoodsIssue>Goods Issue</LtxtGoodsIssue>
+    <LLinkData>Link Data</LLinkData>
+    <LtxtConfRemPrint>Are you sure you want to delete object print {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>External Link</LtxtExternalLink>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Salvar</DtxtSave>
+    <DtxtAdd>Adicionar</DtxtAdd>
+    <DtxtName>Nome</DtxtName>
+    <DtxtAgent>Vendedor</DtxtAgent>
+    <DtxtActive>Ativo</DtxtActive>
+    <DtxtClient>Cliente</DtxtClient>
+    <DtxtQuote>Orçamento</DtxtQuote>
+    <DtxtOrder>Ordem</DtxtOrder>
+    <DtxtSalesOrder>Pedido</DtxtSalesOrder>
+    <DtxtReceipt>Recibo</DtxtReceipt>
+    <DtxtItem>Item</DtxtItem>
+    <DtxtInvoice>Fatura</DtxtInvoice>
+    <DtxtDelivery>Entrega</DtxtDelivery>
+    <DtxtPocket>Móvil</DtxtPocket>
+    <DtxtTranslate>Traduzir</DtxtTranslate>
+    <DtxtActivity>Atividade</DtxtActivity>
+    <DtxtBPS>Parceiros de negócios</DtxtBPS>
+    <DtxtReservada>Reservada</DtxtReservada>
+    <DtxtARDownPayReq>Solicitação de adiantamento de cliente</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Adiantamento de cliente</DtxtARDownPayInv>
+    <DtxtPurOrder>Pedido de Compra</DtxtPurOrder>
+    <LttlObjPrint>Impressão de Objetos</LttlObjPrint>
+    <LttlObjPrintNote>Nesta seção, poderá definir os formatos de impressão dos objetos</LttlObjPrintNote>
+    <LtxtSelObj>Escolha um objeto</LtxtSelObj>
+    <LtxtGeneral>Gerais</LtxtGeneral>
+    <LtxtPurchase>Compras</LtxtPurchase>
+    <LtxtSale>Venda</LtxtSale>
+    <LtxtBanks>Bancos</LtxtBanks>
+    <LtxtGoodsIssue>Entrada</LtxtGoodsIssue>
+    <LLinkData>Dados de Vínculo</LLinkData>
+    <LtxtConfRemPrint>Você tem certeza que deseja excluir o objeto de impressão {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Garder</DtxtSave>
+    <DtxtAdd>Ajouter</DtxtAdd>
+    <DtxtName>Nom</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Active</DtxtActive>
+    <DtxtClient>Client (e)</DtxtClient>
+    <DtxtQuote>Cotisation</DtxtQuote>
+    <DtxtOrder>Ordre</DtxtOrder>
+    <DtxtSalesOrder>Commande</DtxtSalesOrder>
+    <DtxtReceipt>Reçu (Quittance)</DtxtReceipt>
+    <DtxtItem>Article</DtxtItem>
+    <DtxtInvoice>Facture, Note</DtxtInvoice>
+    <DtxtDelivery>Livraison</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Traduire</DtxtTranslate>
+    <DtxtActivity>Activité</DtxtActivity>
+    <DtxtBPS>Partenaires</DtxtBPS>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>Demande d'acompte client</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Facture d'acompte client</DtxtARDownPayInv>
+    <DtxtPurOrder>Ordre d'achat</DtxtPurOrder>
+    <LttlObjPrint>&lt;--&gt;</LttlObjPrint>
+    <LttlObjPrintNote>&lt;--&gt;</LttlObjPrintNote>
+    <LtxtSelObj>Choisissez-vous un objet</LtxtSelObj>
+    <LtxtGeneral>Généraux</LtxtGeneral>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtSale>Vente</LtxtSale>
+    <LtxtBanks>Banques</LtxtBanks>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LLinkData>&lt;--&gt;</LLinkData>
+    <LtxtConfRemPrint>&lt;--&gt;</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Speichern</DtxtSave>
+    <DtxtAdd>Hinzufügen</DtxtAdd>
+    <DtxtName>Name</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Aktiv</DtxtActive>
+    <DtxtClient>Kunde</DtxtClient>
+    <DtxtQuote>Angebot</DtxtQuote>
+    <DtxtOrder>Bestellung</DtxtOrder>
+    <DtxtSalesOrder>Verkaufsauftrag</DtxtSalesOrder>
+    <DtxtReceipt>Beleg</DtxtReceipt>
+    <DtxtItem>Artikel</DtxtItem>
+    <DtxtInvoice>Rechnung</DtxtInvoice>
+    <DtxtDelivery>Lieferung</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Übersetzen</DtxtTranslate>
+    <DtxtActivity>Aktivität</DtxtActivity>
+    <DtxtBPS>Geschäftspartner</DtxtBPS>
+    <DtxtReservada>Belegt</DtxtReservada>
+    <DtxtARDownPayReq>Verkaufsanzahlungsanforderung</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Verkaufsanzahlungsrechnung</DtxtARDownPayInv>
+    <DtxtPurOrder>Einkaufsauftrag</DtxtPurOrder>
+    <LttlObjPrint>&lt;--&gt;</LttlObjPrint>
+    <LttlObjPrintNote>&lt;--&gt;</LttlObjPrintNote>
+    <LtxtSelObj>Objekt auswählen</LtxtSelObj>
+    <LtxtGeneral>Allgemeines</LtxtGeneral>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtSale>Verkauf</LtxtSale>
+    <LtxtBanks>Banken</LtxtBanks>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LLinkData>&lt;--&gt;</LLinkData>
+    <LtxtConfRemPrint>&lt;--&gt;</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Сохранение</DtxtSave>
+    <DtxtAdd>Добавить</DtxtAdd>
+    <DtxtName>Имя</DtxtName>
+    <DtxtAgent>Агент</DtxtAgent>
+    <DtxtActive>Активный</DtxtActive>
+    <DtxtClient>Клиент</DtxtClient>
+    <DtxtQuote>Предложение цены</DtxtQuote>
+    <DtxtOrder>Порядок</DtxtOrder>
+    <DtxtSalesOrder>Заказ</DtxtSalesOrder>
+    <DtxtReceipt>Квитанция</DtxtReceipt>
+    <DtxtItem>Деталь</DtxtItem>
+    <DtxtInvoice>Расчетный чек</DtxtInvoice>
+    <DtxtDelivery>Накладная квитанция</DtxtDelivery>
+    <DtxtPocket>Mobile</DtxtPocket>
+    <DtxtTranslate>Переводить</DtxtTranslate>
+    <DtxtActivity>Активный</DtxtActivity>
+    <DtxtBPS>Деловые партнеры</DtxtBPS>
+    <DtxtReservada>Сохранить</DtxtReservada>
+    <DtxtARDownPayReq>Продажа: счет на предоплату</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Продажа: счет на предоплату</DtxtARDownPayInv>
+    <DtxtPurOrder>Заказ от поставщиков</DtxtPurOrder>
+    <LttlObjPrint>&lt;--&gt;</LttlObjPrint>
+    <LttlObjPrintNote>&lt;--&gt;</LttlObjPrintNote>
+    <LtxtSelObj>Выбор объекта</LtxtSelObj>
+    <LtxtGeneral>Общее</LtxtGeneral>
+    <LtxtPurchase>Покупка</LtxtPurchase>
+    <LtxtSale>Продажа</LtxtSale>
+    <LtxtBanks>Банки</LtxtBanks>
+    <LtxtGoodsIssue>Накладная</LtxtGoodsIssue>
+    <LLinkData>&lt;--&gt;</LLinkData>
+    <LtxtConfRemPrint>&lt;--&gt;</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložit</DtxtSave>
+    <DtxtAdd>Přidat</DtxtAdd>
+    <DtxtName>Jméno</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Aktivní</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuote>Cenová nabídka</DtxtQuote>
+    <DtxtOrder>Příkaz</DtxtOrder>
+    <DtxtSalesOrder>Objednávka prodeje</DtxtSalesOrder>
+    <DtxtReceipt>Příjemka</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dodání</DtxtDelivery>
+    <DtxtPocket>Mobilní telefon</DtxtPocket>
+    <DtxtTranslate>Přeložit</DtxtTranslate>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBPS>Obchodní partneři</DtxtBPS>
+    <DtxtReservada>Vyhrazeno</DtxtReservada>
+    <DtxtARDownPayReq>Prodej - požadavek na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Prodej - daňový doklad k záloze</DtxtARDownPayInv>
+    <DtxtPurOrder>Nákupní objednávka</DtxtPurOrder>
+    <LttlObjPrint>&lt;--&gt;</LttlObjPrint>
+    <LttlObjPrintNote>&lt;--&gt;</LttlObjPrintNote>
+    <LtxtSelObj>Vybrat objekt</LtxtSelObj>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtSale>Prodej</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtGoodsIssue>Výdej zboží</LtxtGoodsIssue>
+    <LLinkData>&lt;--&gt;</LLinkData>
+    <LtxtConfRemPrint>&lt;--&gt;</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Zapamiętaj</DtxtSave>
+    <DtxtAdd>Dodaj</DtxtAdd>
+    <DtxtName>Imię/nazwa</DtxtName>
+    <DtxtAgent>Sprzedawca</DtxtAgent>
+    <DtxtActive>Aktywny</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuote>Oferta</DtxtQuote>
+    <DtxtOrder>Porządek</DtxtOrder>
+    <DtxtSalesOrder>Zlecenie sprzedaży</DtxtSalesOrder>
+    <DtxtReceipt>Pokwitowanie</DtxtReceipt>
+    <DtxtItem>Pozycja</DtxtItem>
+    <DtxtInvoice>Faktura</DtxtInvoice>
+    <DtxtDelivery>Dostawa</DtxtDelivery>
+    <DtxtPocket>Komórka</DtxtPocket>
+    <DtxtTranslate>Przetłumaczyć</DtxtTranslate>
+    <DtxtActivity>Działania</DtxtActivity>
+    <DtxtBPS>Partnerzy biznesowi</DtxtBPS>
+    <DtxtReservada>Zarezerwowany/a</DtxtReservada>
+    <DtxtARDownPayReq>Żądanie zaliczki z tyt. sprzedaży</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Faktura za zaliczkę z tyt. sprzedaży</DtxtARDownPayInv>
+    <DtxtPurOrder>Zamówienie zakupu</DtxtPurOrder>
+    <LttlObjPrint>Wydruk przedmiotu</LttlObjPrint>
+    <LttlObjPrintNote>Tutaj możesz zdefiniować format wydruku przedmiotów</LttlObjPrintNote>
+    <LtxtSelObj>Wybierz przedmiot</LtxtSelObj>
+    <LtxtGeneral>Ogólny</LtxtGeneral>
+    <LtxtPurchase>Zakup</LtxtPurchase>
+    <LtxtSale>Sprzedaż</LtxtSale>
+    <LtxtBanks>Banki</LtxtBanks>
+    <LtxtGoodsIssue>Wysyłka towarów</LtxtGoodsIssue>
+    <LLinkData>Dane Linku</LLinkData>
+    <LtxtConfRemPrint>Czy jesteś pewien, że chcesz usunąć wydruk przedmiotu {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>Uložiť</DtxtSave>
+    <DtxtAdd>Pridať</DtxtAdd>
+    <DtxtName>Názov</DtxtName>
+    <DtxtAgent>Agent</DtxtAgent>
+    <DtxtActive>Aktívne</DtxtActive>
+    <DtxtClient>Klient</DtxtClient>
+    <DtxtQuote>Cenová ponuka</DtxtQuote>
+    <DtxtOrder>Objednávka</DtxtOrder>
+    <DtxtSalesOrder>Zákazka odberateľa</DtxtSalesOrder>
+    <DtxtReceipt>Potvrdenka o zaplatení</DtxtReceipt>
+    <DtxtItem>Položka</DtxtItem>
+    <DtxtInvoice>Faktúra</DtxtInvoice>
+    <DtxtDelivery>Dodávka</DtxtDelivery>
+    <DtxtPocket>Mobilný</DtxtPocket>
+    <DtxtTranslate>Preložiť</DtxtTranslate>
+    <DtxtActivity>Aktivita</DtxtActivity>
+    <DtxtBPS>Obchodní partneri</DtxtBPS>
+    <DtxtReservada>Rezervované</DtxtReservada>
+    <DtxtARDownPayReq>Predaj - požiadavka na zálohu</DtxtARDownPayReq>
+    <DtxtARDownPayInv>Predaj - zálohová faktúra</DtxtARDownPayInv>
+    <DtxtPurOrder>Objednávka</DtxtPurOrder>
+    <LttlObjPrint>Tlač objektu</LttlObjPrint>
+    <LttlObjPrintNote>Tu môžete definovať formát tlače pre objekty</LttlObjPrintNote>
+    <LtxtSelObj>Zvoľte objekt</LtxtSelObj>
+    <LtxtGeneral>Všeobecné</LtxtGeneral>
+    <LtxtPurchase>Nákup</LtxtPurchase>
+    <LtxtSale>Predaj</LtxtSale>
+    <LtxtBanks>Banky</LtxtBanks>
+    <LtxtGoodsIssue>Výdaj tovaru</LtxtGoodsIssue>
+    <LLinkData>Prepojiť dáta</LLinkData>
+    <LtxtConfRemPrint>Ste si istí, že chcete zmazať tlač objektu {0}?</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="jp" langname="日本" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>&lt;--&gt;</DtxtSave>
+    <DtxtAdd>&lt;--&gt;</DtxtAdd>
+    <DtxtName>&lt;--&gt;</DtxtName>
+    <DtxtAgent>&lt;--&gt;</DtxtAgent>
+    <DtxtActive>&lt;--&gt;</DtxtActive>
+    <DtxtClient>&lt;--&gt;</DtxtClient>
+    <DtxtQuote>&lt;--&gt;</DtxtQuote>
+    <DtxtOrder>&lt;--&gt;</DtxtOrder>
+    <DtxtSalesOrder>&lt;--&gt;</DtxtSalesOrder>
+    <DtxtReceipt>&lt;--&gt;</DtxtReceipt>
+    <DtxtItem>&lt;--&gt;</DtxtItem>
+    <DtxtInvoice>&lt;--&gt;</DtxtInvoice>
+    <DtxtDelivery>&lt;--&gt;</DtxtDelivery>
+    <DtxtPocket>&lt;--&gt;</DtxtPocket>
+    <DtxtTranslate>&lt;--&gt;</DtxtTranslate>
+    <DtxtActivity>&lt;--&gt;</DtxtActivity>
+    <DtxtBPS>&lt;--&gt;</DtxtBPS>
+    <DtxtReservada>&lt;--&gt;</DtxtReservada>
+    <DtxtARDownPayReq>&lt;--&gt;</DtxtARDownPayReq>
+    <DtxtARDownPayInv>&lt;--&gt;</DtxtARDownPayInv>
+    <DtxtPurOrder>&lt;--&gt;</DtxtPurOrder>
+    <LttlObjPrint>&lt;--&gt;</LttlObjPrint>
+    <LttlObjPrintNote>&lt;--&gt;</LttlObjPrintNote>
+    <LtxtSelObj>&lt;--&gt;</LtxtSelObj>
+    <LtxtGeneral>&lt;--&gt;</LtxtGeneral>
+    <LtxtPurchase>&lt;--&gt;</LtxtPurchase>
+    <LtxtSale>&lt;--&gt;</LtxtSale>
+    <LtxtBanks>&lt;--&gt;</LtxtBanks>
+    <LtxtGoodsIssue>&lt;--&gt;</LtxtGoodsIssue>
+    <LLinkData>&lt;--&gt;</LLinkData>
+    <LtxtConfRemPrint>&lt;--&gt;</LtxtConfRemPrint>
+    <LtxtExternalLink>&lt;--&gt;</LtxtExternalLink>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtSave>DtxtSave</DtxtSave>
+    <DtxtAdd>DtxtAdd</DtxtAdd>
+    <DtxtName>DtxtName</DtxtName>
+    <DtxtAgent>DtxtAgent</DtxtAgent>
+    <DtxtActive>DtxtActive</DtxtActive>
+    <DtxtClient>DtxtClient</DtxtClient>
+    <DtxtQuote>DtxtQuote</DtxtQuote>
+    <DtxtOrder>DtxtOrder</DtxtOrder>
+    <DtxtSalesOrder>DtxtSalesOrder</DtxtSalesOrder>
+    <DtxtReceipt>DtxtReceipt</DtxtReceipt>
+    <DtxtItem>DtxtItem</DtxtItem>
+    <DtxtInvoice>DtxtInvoice</DtxtInvoice>
+    <DtxtDelivery>DtxtDelivery</DtxtDelivery>
+    <DtxtPocket>DtxtPocket</DtxtPocket>
+    <DtxtTranslate>DtxtTranslate</DtxtTranslate>
+    <DtxtActivity>DtxtActivity</DtxtActivity>
+    <DtxtBPS>DtxtBPS</DtxtBPS>
+    <DtxtReservada>DtxtReservada</DtxtReservada>
+    <DtxtARDownPayReq>DtxtARDownPayReq</DtxtARDownPayReq>
+    <DtxtARDownPayInv>DtxtARDownPayInv</DtxtARDownPayInv>
+    <DtxtPurOrder>DtxtPurOrder</DtxtPurOrder>
+    <LttlObjPrint>LttlObjPrint</LttlObjPrint>
+    <LttlObjPrintNote>LttlObjPrintNote</LttlObjPrintNote>
+    <LtxtSelObj>LtxtSelObj</LtxtSelObj>
+    <LtxtGeneral>LtxtGeneral</LtxtGeneral>
+    <LtxtPurchase>LtxtPurchase</LtxtPurchase>
+    <LtxtSale>LtxtSale</LtxtSale>
+    <LtxtBanks>LtxtBanks</LtxtBanks>
+    <LtxtGoodsIssue>LtxtGoodsIssue</LtxtGoodsIssue>
+    <LLinkData>LLinkData</LLinkData>
+    <LtxtConfRemPrint>LtxtConfRemPrint</LtxtConfRemPrint>
+    <LtxtExternalLink>LtxtExternalLink</LtxtExternalLink>
+  </language>
+</languages>

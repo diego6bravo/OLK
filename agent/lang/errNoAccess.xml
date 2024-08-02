@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language xml:lang="en" langname="English (United States)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Form</DtxtForm>
+    <LtxtAccessDenied>Access Denied</LtxtAccessDenied>
+    <LtxtSection>Section</LtxtSection>
+  </language>
+  <language xml:lang="es" langname="Español (Latinoamerica)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formulario</DtxtForm>
+    <LtxtAccessDenied>Acceso Denegado</LtxtAccessDenied>
+    <LtxtSection>Sección</LtxtSection>
+  </language>
+  <language xml:lang="he" langname="עברית" charset="Windows-1255">
+    <charset>Windows-1255</charset>
+    <DtxtForm>טופס</DtxtForm>
+    <LtxtAccessDenied>הגישה נדחתה</LtxtAccessDenied>
+    <LtxtSection>בחירה</LtxtSection>
+  </language>
+  <language xml:lang="en-uk" langname="English (United Kingdom)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Form</DtxtForm>
+    <LtxtAccessDenied>Access Denied</LtxtAccessDenied>
+    <LtxtSection>Section</LtxtSection>
+  </language>
+  <language xml:lang="pt" langname="Portugues (Brazil)" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formulário</DtxtForm>
+    <LtxtAccessDenied>Acesso Negado</LtxtAccessDenied>
+    <LtxtSection>Seção</LtxtSection>
+  </language>
+  <language xml:lang="fr" langname="Français" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formulaire</DtxtForm>
+    <LtxtAccessDenied>&lt;--&gt;</LtxtAccessDenied>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+  </language>
+  <language xml:lang="de" langname="Deutsch" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formular</DtxtForm>
+    <LtxtAccessDenied>&lt;--&gt;</LtxtAccessDenied>
+    <LtxtSection>&lt;--&gt;</LtxtSection>
+  </language>
+  <language xml:lang="ru" langname="Россию" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Форма</DtxtForm>
+    <LtxtAccessDenied>Доступ отклонен</LtxtAccessDenied>
+    <LtxtSection>Выбор</LtxtSection>
+  </language>
+  <language xml:lang="cs" langname="České" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Obrazovka</DtxtForm>
+    <LtxtAccessDenied>Přístup zamítnut</LtxtAccessDenied>
+    <LtxtSection>Sekce</LtxtSection>
+  </language>
+  <language xml:lang="pl" langname="Polska" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formularz</DtxtForm>
+    <LtxtAccessDenied>Odmowa dostępu</LtxtAccessDenied>
+    <LtxtSection>Dział</LtxtSection>
+  </language>
+  <language xml:lang="sk" langname="Slovenský" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>Formulár</DtxtForm>
+    <LtxtAccessDenied>Prístup zamietnutý</LtxtAccessDenied>
+    <LtxtSection>ekcia</LtxtSection>
+  </language>
+  <language xml:lang="debug" langname="debug" charset="Windows-1252">
+    <charset>Windows-1252</charset>
+    <DtxtForm>DtxtForm</DtxtForm>
+    <LtxtAccessDenied>LtxtAccessDenied</LtxtAccessDenied>
+    <LtxtSection>LtxtSection</LtxtSection>
+  </language>
+</languages>
